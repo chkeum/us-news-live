@@ -47,11 +47,16 @@ def extract_ticker(title, summary=""):
 
 def categorize(title):
     low = title.lower()
-    if any(k in low for k in ("breaking", "alert", "urgent")): return "breaking"
-    if any(k in low for k in ("earnings", "beats", "misses", "eps", "q1 results", "q2 results", "q3 results", "q4 results", "revenue")): return "earnings"
-    if any(k in low for k in ("upgrade", "downgrade", "price target", "raises target", "cuts target", "analyst", "reiterates")): return "analyst"
-    if any(k in low for k in ("acquir", "merger", "buyout", "to buy", "deal")): return "ma"
-    if any(k in low for k in ("fed", "powell", "cpi", "inflation", "jobs", "fomc", "gdp")): return "macro"
+    # Breaking: require explicit "breaking" keyword or exclamation patterns (not loose "just")
+    if re.search(r"\b(breaking|urgent alert|just announced|just reported|flash)\b", low): return "breaking"
+    # Earnings
+    if re.search(r"\b(earnings|beats|misses|eps|revenue|q[1-4] results|quarterly|guidance)\b", low): return "earnings"
+    # Analyst
+    if re.search(r"\b(upgrade|downgrade|price target|raises target|cuts target|analyst|reiterates|initiated|overweight|underweight|buy rating|sell rating)\b", low): return "analyst"
+    # M&A
+    if re.search(r"\b(acquir|merger|buyout|takeover|acquire)\b", low): return "ma"
+    # Macro
+    if re.search(r"\b(fed|powell|cpi|inflation|jobs report|fomc|gdp|yields|bond market|rate cut|rate hike|dollar|yen|euro)\b", low): return "macro"
     return "general"
 
 def parse_date(item):

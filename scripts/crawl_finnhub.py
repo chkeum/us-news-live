@@ -69,27 +69,29 @@ def normalize(item, ticker_hint=None):
     source = item.get("source") or "Finnhub"
     related = item.get("related") or ""
 
-    # Detect ticker
+    # Detect ticker — only accept if ticker_hint (explicit) OR related exactly matches the title/summary
     ticker = ticker_hint
     if not ticker and related:
         parts = [p.strip().upper() for p in related.split(",") if p.strip()]
+        text_upper = (title + " " + summary).upper()
         for p in parts:
             if p in TICKERS:
-                ticker = p
-                break
-        if not ticker and parts:
-            ticker = parts[0]
+                # Require ticker symbol or company reference actually appears in text
+                if p in text_upper or f"${p}" in text_upper:
+                    ticker = p
+                    break
 
-    # Simple category detection
+    # Category detection (tight regex, no loose "just" match)
     category = "general"
     low = title.lower()
-    if any(k in low for k in ("earnings", "beats", "misses", "q1 results", "q2 results", "q3 results", "q4 results", "eps")):
+    import re as _re
+    if _re.search(r"\b(earnings|beats|misses|eps|revenue|q[1-4] results|quarterly|guidance)\b", low):
         category = "earnings"
-    elif any(k in low for k in ("upgrade", "downgrade", "price target", "raises target", "cuts target", "analyst")):
+    elif _re.search(r"\b(upgrade|downgrade|price target|raises target|cuts target|analyst|reiterates|initiated|overweight|underweight|buy rating|sell rating)\b", low):
         category = "analyst"
-    elif any(k in low for k in ("acquire", "merger", "buyout", "to buy")):
+    elif _re.search(r"\b(acquir|merger|buyout|takeover|acquire)\b", low):
         category = "ma"
-    elif any(k in low for k in ("breaking", "alert", "just", "urgent")):
+    elif _re.search(r"\b(breaking|urgent alert|just announced|just reported|flash)\b", low):
         category = "breaking"
 
     # Stable unique ID
