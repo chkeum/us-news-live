@@ -84,12 +84,23 @@ Settings → Pages → Branch: `main`, Folder: `/ (root)` → Save
 
 무료 한도: 25 req/day · 우선순위 5개 티커만 수집 중.
 
-#### 권장: DeepL (번역 품질 향상)
+#### 강력 권장: Anthropic Claude API (배치 번역)
+
+번역 속도 10-20배 빠름 + 품질 최고 + 금융 용어 정확.
+
+1. https://console.anthropic.com/settings/keys → API 키 발급
+2. Secret name: `ANTHROPIC_API_KEY`
+
+모델: `claude-haiku-4-5-20251001` (`CLAUDE_TRANSLATE_MODEL` 환경변수로 오버라이드 가능)
+비용: 캐시 워밍 후 5분 주기 run당 약 $0.01, 월 약 $40-50 (5분 크론 기준)
+캐시: `data/translate_cache.json` 에 리포에 영구 보존, 같은 제목 재번역 안 함
+
+#### 선택: DeepL (Claude 대체)
 
 1. https://www.deepl.com/pro-api → 무료 개발자 계정
 2. Secret name: `DEEPL_API_KEY` (키 끝이 `:fx`면 free tier)
 
-무료 한도: 500k chars/month. 미설정 시 Google 번역 폴백 자동 사용.
+무료 한도: 500k chars/month. `ANTHROPIC_API_KEY`가 없을 때만 작동. 둘 다 없으면 Google 번역 폴백 자동 사용.
 
 ### 4. 크론 수동 테스트
 
