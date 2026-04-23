@@ -590,3 +590,335 @@ body {
   color: var(--fg-secondary);
 }
 .empty-state__hint { font-size: 12px; }
+
+/* ============================================================
+   CROSS-MARKET VIEW
+   ============================================================ */
+.cross-view {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  display: grid;
+  gap: 16px;
+}
+.cross-view[hidden] { display: none; }
+
+.cross-summary {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  padding: 20px 24px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: var(--fg-primary);
+}
+.cross-summary__line {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 13px;
+  color: var(--fg-primary);
+  font-weight: 500;
+  margin-bottom: 4px;
+}
+.cross-summary__caption {
+  font-size: 12px;
+  color: var(--fg-tertiary);
+}
+.cross-summary__moods {
+  display: flex;
+  gap: 16px;
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--border-subtle);
+}
+.cross-summary__mood {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  font-size: 12px;
+}
+.cross-summary__mood-flag { font-size: 14px; }
+.cross-summary__mood-label { color: var(--fg-tertiary); text-transform: uppercase; letter-spacing: 0.04em; font-size: 10px; }
+.cross-summary__mood-score {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  font-size: 13px;
+}
+.cross-summary__mood-score.is-bullish { color: var(--accent-success-fg); }
+.cross-summary__mood-score.is-bearish { color: var(--accent-danger-fg); }
+
+.cross-block {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-subtle);
+  border-radius: 12px;
+  padding: 18px 20px;
+}
+.cross-block__header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-bottom: 14px;
+}
+.cross-block__title {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+.cross-block__meta {
+  font-size: 11px;
+  color: var(--fg-tertiary);
+}
+
+/* Overnight digest cards */
+.cross-digest {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 10px;
+}
+.digest-card {
+  padding: 12px 14px;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+  cursor: pointer;
+  transition: transform 0.12s ease, background 0.12s ease;
+}
+.digest-card:hover { background: var(--bg-tertiary); transform: translateY(-1px); }
+.digest-card__header {
+  display: flex; align-items: center; gap: 6px;
+  margin-bottom: 6px;
+}
+.digest-card__ticker {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  font-size: 12px;
+}
+.digest-card__badge {
+  font-size: 10px;
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: var(--bg-primary);
+  color: var(--fg-secondary);
+  letter-spacing: 0.03em;
+}
+.digest-card__title {
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 1.4;
+  color: var(--fg-primary);
+  margin-bottom: 6px;
+}
+.digest-card__pairs {
+  font-size: 11px;
+  color: var(--fg-tertiary);
+}
+.digest-card__pairs-label {
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-right: 4px;
+}
+.digest-card__pair-chip {
+  display: inline-block;
+  padding: 1px 6px;
+  margin: 0 2px;
+  background: var(--bg-primary);
+  border-radius: 3px;
+  color: var(--fg-secondary);
+}
+
+/* Sector coupling cards */
+.cross-sectors {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 10px;
+}
+.sector-card {
+  padding: 12px 14px;
+  background: var(--bg-secondary);
+  border-radius: 8px;
+}
+.sector-card__flow {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  margin-bottom: 6px;
+}
+.sector-card__side {
+  flex: 1;
+  min-width: 0;
+}
+.sector-card__flag { font-size: 14px; margin-right: 4px; }
+.sector-card__label {
+  font-size: 11px;
+  color: var(--fg-tertiary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 3px;
+}
+.sector-card__name {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--fg-primary);
+}
+.sector-card__arrow {
+  color: var(--fg-tertiary);
+  font-size: 14px;
+}
+.sector-card__metrics {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 12px;
+}
+.sector-card__us {
+  color: var(--fg-secondary);
+}
+.sector-card__pred {
+  color: var(--fg-primary);
+  font-weight: 500;
+}
+.sector-card__pred.is-up { color: var(--accent-success-fg); }
+.sector-card__pred.is-down { color: var(--accent-danger-fg); }
+.sector-card__actual {
+  font-size: 11px;
+  color: var(--fg-tertiary);
+  margin-left: auto;
+}
+.sector-card__actual.is-up { color: var(--accent-success-fg); }
+.sector-card__actual.is-down { color: var(--accent-danger-fg); }
+.sector-card__beta {
+  font-size: 10px;
+  color: var(--fg-tertiary);
+  font-family: 'JetBrains Mono', monospace;
+  margin-top: 2px;
+}
+
+/* Pair prediction table */
+.cross-pairs {
+  overflow: auto;
+}
+.pairs-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+  font-feature-settings: 'tnum';
+}
+.pairs-table th {
+  text-align: left;
+  font-weight: 500;
+  font-size: 10px;
+  color: var(--fg-tertiary);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 8px 10px;
+  border-bottom: 1px solid var(--border-subtle);
+  white-space: nowrap;
+}
+.pairs-table th.is-num, .pairs-table td.is-num { text-align: right; font-family: 'JetBrains Mono', monospace; }
+.pairs-table td {
+  padding: 9px 10px;
+  border-bottom: 1px solid var(--border-subtle);
+}
+.pairs-table tbody tr:hover { background: var(--bg-secondary); }
+.pairs-table__ticker {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  color: var(--fg-primary);
+}
+.pairs-table__reason {
+  color: var(--fg-tertiary);
+  font-size: 11px;
+  max-width: 260px;
+}
+.pairs-table__pred.is-up   { color: var(--accent-success-fg); font-weight: 500; }
+.pairs-table__pred.is-down { color: var(--accent-danger-fg); font-weight: 500; }
+.pairs-table__us.is-up     { color: var(--accent-success-fg); }
+.pairs-table__us.is-down   { color: var(--accent-danger-fg); }
+.pairs-table__beta {
+  color: var(--fg-tertiary);
+  font-size: 11px;
+}
+
+/* ============================================================
+   MOBILE REFINEMENTS
+   ============================================================ */
+@media (max-width: 700px) {
+  .topbar { padding: 10px 14px; flex-wrap: wrap; gap: 8px; }
+  .topbar__left { gap: 12px; width: 100%; }
+  .topbar__right { gap: 6px; margin-left: auto; }
+  .search { width: 140px; }
+  .market-tabs { padding: 2px; }
+  .market-tab { padding: 5px 8px; font-size: 11px; }
+  .brand__name { display: none; }
+
+  .status-bar { padding: 8px 14px; }
+  .status-bar__item { padding: 0 12px; }
+  .status-bar__label { font-size: 9px; }
+  .status-bar__value { font-size: 12px; }
+
+  .filter-tabs { padding: 8px 12px; }
+  .filter-tab { padding: 4px 9px; font-size: 11px; }
+
+  .news-card { padding: 12px 14px; }
+  .news-card__title { font-size: 13px; }
+  .news-card__title-kr { font-size: 12px; }
+
+  .main { grid-template-columns: 1fr; }
+  .sidebar { padding: 12px; }
+
+  .cross-view { padding: 12px; gap: 12px; }
+  .cross-block { padding: 14px; }
+  .cross-summary { padding: 14px 16px; }
+
+  .detail-panel { max-height: calc(100vh - 80px); }
+}
+
+@media (max-width: 480px) {
+  .search { width: 110px; }
+  .status-bar__item { padding: 0 10px; }
+  .status-bar__session { display: none; }
+  .live-indicator__time { display: none; }
+}
+
+/* Install prompt banner */
+.install-banner {
+  position: fixed;
+  bottom: 16px;
+  left: 50%;
+  transform: translateX(-50%) translateY(120%);
+  background: var(--fg-primary);
+  color: var(--bg-primary);
+  padding: 12px 16px;
+  border-radius: 10px;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.18);
+  z-index: 200;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  max-width: calc(100vw - 32px);
+}
+.install-banner.is-visible { transform: translateX(-50%) translateY(0); }
+.install-banner__text { flex: 1; }
+.install-banner__button {
+  background: var(--bg-primary);
+  color: var(--fg-primary);
+  border: 0;
+  border-radius: 6px;
+  padding: 6px 12px;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.install-banner__close {
+  background: transparent;
+  border: 0;
+  color: var(--bg-primary);
+  opacity: 0.7;
+  cursor: pointer;
+  padding: 4px;
+}
+.install-banner__close:hover { opacity: 1; }

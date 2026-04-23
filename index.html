@@ -11,6 +11,12 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" />
   <link rel="stylesheet" href="assets/styles.css" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" type="image/svg+xml" href="assets/icon.svg" />
+  <link rel="apple-touch-icon" href="assets/icon-192.png" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Market Live" />
 </head>
 <body>
 
@@ -28,9 +34,8 @@
         <button class="market-tab" data-market="kr" role="tab" aria-selected="false">
           <span class="market-tab__flag">🇰🇷</span>KR
         </button>
-        <button class="market-tab" data-market="cross" role="tab" aria-selected="false" disabled>
+        <button class="market-tab" data-market="cross" role="tab" aria-selected="false">
           <span class="market-tab__flag">🌐</span>Cross
-          <span class="market-tab__soon">Soon</span>
         </button>
       </nav>
     </div>
@@ -64,8 +69,37 @@
     </div>
   </section>
 
+  <!-- ============ CROSS-MARKET VIEW (only visible when market='cross') ============ -->
+  <main class="cross-view" id="crossView" hidden>
+    <section class="cross-summary" id="crossSummary"></section>
+
+    <section class="cross-block">
+      <header class="cross-block__header">
+        <h2 class="cross-block__title">🌙 오버나잇 하이라이트</h2>
+        <span class="cross-block__meta">US 마감 이후 KR 개장 영향 주요 뉴스</span>
+      </header>
+      <div class="cross-digest" id="crossDigest"></div>
+    </section>
+
+    <section class="cross-block">
+      <header class="cross-block__header">
+        <h2 class="cross-block__title">📊 섹터 커플링</h2>
+        <span class="cross-block__meta">US 평균 → KR 개장 예상</span>
+      </header>
+      <div class="cross-sectors" id="crossSectors"></div>
+    </section>
+
+    <section class="cross-block">
+      <header class="cross-block__header">
+        <h2 class="cross-block__title">🎯 종목 페어 예측</h2>
+        <span class="cross-block__meta">상관관계 β 기반 KR 개장가 예측</span>
+      </header>
+      <div class="cross-pairs" id="crossPairs"></div>
+    </section>
+  </main>
+
   <!-- ============ MAIN LAYOUT ============ -->
-  <main class="main">
+  <main class="main" id="mainView">
 
     <!-- FEED COLUMN -->
     <section class="feed" aria-label="News feed">

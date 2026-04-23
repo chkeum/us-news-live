@@ -6,8 +6,9 @@
 
   // -------- Config --------
   const ENDPOINTS = {
-    us: { feed: 'data/news_feed.json',    market: 'data/market_snapshot.json' },
-    kr: { feed: 'data/news_feed_kr.json', market: 'data/market_snapshot_kr.json' },
+    us:    { feed: 'data/news_feed.json',    market: 'data/market_snapshot.json' },
+    kr:    { feed: 'data/news_feed_kr.json', market: 'data/market_snapshot_kr.json' },
+    cross: { feed: null,                     market: 'data/cross_market.json'     },
   };
   const AUTO_REFRESH_MS = 30_000;
   const DEFAULT_WATCHLIST = {
@@ -33,7 +34,7 @@
   const state = {
     market: 'us',         // active market tab
     feed: { us: [], kr: [] },
-    snap: { us: null, kr: null },
+    snap: { us: null, kr: null, cross: null },
     filtered: [],
     watchlist: loadWatchlist(),
     activeFilter: 'all',
@@ -64,6 +65,12 @@
     moodLabel: document.getElementById('moodLabel'),
     moodFill: document.getElementById('moodFill'),
     moodCaption: document.getElementById('moodCaption'),
+    mainView: document.getElementById('mainView'),
+    crossView: document.getElementById('crossView'),
+    crossSummary: document.getElementById('crossSummary'),
+    crossDigest: document.getElementById('crossDigest'),
+    crossSectors: document.getElementById('crossSectors'),
+    crossPairs: document.getElementById('crossPairs'),
   };
 
   // -------- Utilities --------
@@ -377,13 +384,156 @@
     el.filterTabs.forEach(t => t.classList.toggle('is-active', t.dataset.filter === 'all'));
     el.tickerFilter.placeholder = market === 'kr' ? '종목명·종목코드로 필터...' : 'Filter by ticker (e.g. NVDA)';
 
-    renderStatusBar();
-    renderWatchlist();
-    renderTrending();
-    renderMoodPanel();
-    applyFilters();
+    // Toggle view mode (cross vs main)
+    const isCross = market === 'cross';
+    el.mainView.hidden = isCross;
+    el.crossView.hidden = !isCross;
+
+    if (isCross) {
+      renderCross();
+    } else {
+      renderStatusBar();
+      renderWatchlist();
+      renderTrending();
+      renderMoodPanel();
+      applyFilters();
+    }
     updateClock();
     try { localStorage.setItem('active_market', market); } catch {}
+  }
+
+  // -------- Cross-Market rendering --------
+  function renderCross() {
+    const cm = state.snap.cross;
+    if (!cm) {
+      el.crossSummary.innerHTML = '<div class="empty-state"><div class="empty-state__title">Cross-market 데이터 수집 중</div><div class="empty-state__hint">잠시 후 다시 확인해보세요</div></div>';
+      return;
+    }
+
+    // Summary
+    const usM = cm.us_mood_score || 50;
+    const krM = cm.kr_mood_score || 50;
+    const usMClass = cm.us_mood === 'bullish' ? 'is-bullish' : (cm.us_mood === 'bearish' ? 'is-bearish' : '');
+    const krMClass = cm.kr_mood === 'bullish' ? 'is-bullish' : (cm.kr_mood === 'bearish' ? 'is-bearish' : '');
+    el.crossSummary.innerHTML = `
+      <div class="cross-summary__caption">🌐 Cross-Market · ${formatRelativeTime(cm.fetched_at)}</div>
+      <div class="cross-summary__line">${escapeHTML(cm.summary || '')}</div>
+      <div class="cross-summary__moods">
+        <div class="cross-summary__mood">
+          <span class="cross-summary__mood-flag">🇺🇸</span>
+          <span class="cross-summary__mood-label">US Mood</span>
+          <span class="cross-summary__mood-score ${usMClass}">${usM}/100</span>
+        </div>
+        <div class="cross-summary__mood">
+          <span class="cross-summary__mood-flag">🇰🇷</span>
+          <span class="cross-summary__mood-label">KR Mood</span>
+          <span class="cross-summary__mood-score ${krMClass}">${krM}/100</span>
+        </div>
+        ${cm.macro?.vix ? `
+        <div class="cross-summary__mood">
+          <span class="cross-summary__mood-label">VIX</span>
+          <span class="cross-summary__mood-score">${Number(cm.macro.vix.price).toFixed(1)} ${cm.macro.vix.change_pct > 0 ? '↑' : '↓'}</span>
+        </div>` : ''}
+        ${cm.macro?.btc ? `
+        <div class="cross-summary__mood">
+          <span class="cross-summary__mood-label">BTC</span>
+          <span class="cross-summary__mood-score ${cm.macro.btc.change_pct > 0 ? 'is-bullish' : 'is-bearish'}">${formatChange(cm.macro.btc.change_pct)}</span>
+        </div>` : ''}
+      </div>`;
+
+    // Overnight digest
+    const digest = cm.overnight_digest || [];
+    el.crossDigest.innerHTML = digest.length === 0
+      ? '<div class="empty-state"><div class="empty-state__hint">최근 24시간 하이라이트 없음</div></div>'
+      : digest.map(d => `
+          <article class="digest-card" data-ticker="${escapeHTML(d.ticker || '')}">
+            <div class="digest-card__header">
+              <span class="digest-card__ticker">${escapeHTML(d.ticker || '')}</span>
+              ${d.category ? `<span class="digest-card__badge">${escapeHTML(d.category)}</span>` : ''}
+              <span style="margin-left:auto; font-size:10px; color: var(--fg-tertiary);">${formatRelativeTime(d.published_at)}</span>
+            </div>
+            <div class="digest-card__title">${escapeHTML(d.title_kr || d.title || '')}</div>
+            <div class="digest-card__pairs">
+              <span class="digest-card__pairs-label">KR 영향</span>
+              ${(d.kr_pairs || []).map(p => `<span class="digest-card__pair-chip">${escapeHTML(p)}</span>`).join('')}
+            </div>
+          </article>
+        `).join('');
+
+    // Sector coupling
+    const sectors = cm.sector_coupling || [];
+    el.crossSectors.innerHTML = sectors.length === 0
+      ? '<div class="empty-state"><div class="empty-state__hint">섹터 커플링 계산 중</div></div>'
+      : sectors.map(s => {
+          const predCls = s.predicted_kr_avg_pct > 0 ? 'is-up' : (s.predicted_kr_avg_pct < 0 ? 'is-down' : '');
+          const actCls = s.kr_actual_avg_pct > 0 ? 'is-up' : (s.kr_actual_avg_pct < 0 ? 'is-down' : '');
+          return `
+          <div class="sector-card">
+            <div class="sector-card__flow">
+              <div class="sector-card__side">
+                <div class="sector-card__label"><span class="sector-card__flag">🇺🇸</span>${escapeHTML(s.us_sector)}</div>
+              </div>
+              <span class="sector-card__arrow">→</span>
+              <div class="sector-card__side">
+                <div class="sector-card__label"><span class="sector-card__flag">🇰🇷</span>${escapeHTML(s.kr_sector)}</div>
+              </div>
+            </div>
+            <div class="sector-card__metrics">
+              <span class="sector-card__us">US ${formatChange(s.us_avg_pct)}</span>
+              <span class="sector-card__arrow">×</span>
+              <span class="pairs-table__beta">β ${s.beta.toFixed(2)}</span>
+              <span class="sector-card__arrow">=</span>
+              <span class="sector-card__pred ${predCls}">예상 ${formatChange(s.predicted_kr_avg_pct)}</span>
+              ${s.kr_actual_avg_pct != null ? `<span class="sector-card__actual ${actCls}">실제 ${formatChange(s.kr_actual_avg_pct)}</span>` : ''}
+            </div>
+          </div>`;
+        }).join('');
+
+    // Pair predictions
+    const pairs = cm.predictions || [];
+    el.crossPairs.innerHTML = pairs.length === 0
+      ? '<div class="empty-state"><div class="empty-state__hint">종목 페어 데이터 없음</div></div>'
+      : `<table class="pairs-table">
+          <thead>
+            <tr>
+              <th>US 티커</th>
+              <th class="is-num">US %</th>
+              <th>KR 종목</th>
+              <th class="is-num">β</th>
+              <th class="is-num">예상</th>
+              <th class="is-num">실제</th>
+              <th>연결 이유</th>
+            </tr>
+          </thead>
+          <tbody>
+            ${pairs.map(p => {
+              const usCls = p.us_change_pct > 0 ? 'is-up' : (p.us_change_pct < 0 ? 'is-down' : '');
+              const predCls = p.predicted_kr_pct > 0 ? 'is-up' : (p.predicted_kr_pct < 0 ? 'is-down' : '');
+              return `<tr>
+                <td><span class="pairs-table__ticker">${escapeHTML(p.us_ticker)}</span></td>
+                <td class="is-num pairs-table__us ${usCls}">${formatChange(p.us_change_pct)}</td>
+                <td>${escapeHTML(p.kr_name)}</td>
+                <td class="is-num pairs-table__beta">${p.beta.toFixed(2)}</td>
+                <td class="is-num pairs-table__pred ${predCls}">${formatChange(p.predicted_kr_pct)}</td>
+                <td class="is-num" style="color: var(--fg-tertiary)">${p.actual_kr_pct != null ? formatChange(p.actual_kr_pct) : '—'}</td>
+                <td class="pairs-table__reason">${escapeHTML(p.reason)}</td>
+              </tr>`;
+            }).join('')}
+          </tbody>
+        </table>`;
+
+    el.crossDigest.querySelectorAll('.digest-card').forEach(c => {
+      c.addEventListener('click', () => {
+        const ticker = c.dataset.ticker;
+        // Switch to US tab and filter by ticker
+        setMarket('us');
+        setTimeout(() => {
+          el.tickerFilter.value = ticker;
+          state.tickerQuery = ticker;
+          applyFilters();
+        }, 50);
+      });
+    });
   }
 
   // -------- Fetching --------
@@ -401,15 +551,28 @@
     }
   }
 
+  async function fetchCrossMarket() {
+    try {
+      const r = await fetch('data/cross_market.json?t=' + Date.now());
+      if (r.ok) state.snap.cross = await r.json();
+    } catch (err) {
+      console.error('[fetch] cross failed:', err);
+    }
+  }
+
   async function fetchAll() {
-    await Promise.all([fetchMarketData('us'), fetchMarketData('kr')]);
+    await Promise.all([fetchMarketData('us'), fetchMarketData('kr'), fetchCrossMarket()]);
     state.lastFetchedAt = new Date();
     el.lastUpdate.textContent = 'Updated ' + formatRelativeTime(state.lastFetchedAt.toISOString());
-    renderStatusBar();
-    renderWatchlist();
-    renderTrending();
-    renderMoodPanel();
-    applyFilters();
+    if (state.market === 'cross') {
+      renderCross();
+    } else {
+      renderStatusBar();
+      renderWatchlist();
+      renderTrending();
+      renderMoodPanel();
+      applyFilters();
+    }
   }
 
   // -------- Events --------
@@ -454,7 +617,7 @@
     const saved = localStorage.getItem('theme');
     if (saved) document.documentElement.setAttribute('data-theme', saved);
     const savedMarket = localStorage.getItem('active_market');
-    if (savedMarket === 'us' || savedMarket === 'kr') state.market = savedMarket;
+    if (['us', 'kr', 'cross'].includes(savedMarket)) state.market = savedMarket;
   } catch {}
 
   // Sync initial tab state with state.market
@@ -465,9 +628,56 @@
   });
   el.tickerFilter.placeholder = state.market === 'kr' ? '종목명·종목코드로 필터...' : 'Filter by ticker (e.g. NVDA)';
 
+  // Show correct view on mount
+  el.mainView.hidden = (state.market === 'cross');
+  el.crossView.hidden = (state.market !== 'cross');
+
   updateClock();
   setInterval(updateClock, 1000);
   fetchAll();
   setInterval(fetchAll, AUTO_REFRESH_MS);
+
+  // -------- PWA: register service worker --------
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('service-worker.js')
+        .then(reg => console.log('[pwa] SW registered:', reg.scope))
+        .catch(err => console.warn('[pwa] SW registration failed:', err));
+    });
+  }
+
+  // Install banner
+  let deferredPrompt = null;
+  window.addEventListener('beforeinstallprompt', (e) => {
+    e.preventDefault();
+    deferredPrompt = e;
+    showInstallBanner();
+  });
+
+  function showInstallBanner() {
+    if (localStorage.getItem('install_dismissed') === '1') return;
+    if (document.getElementById('installBanner')) return;
+    const b = document.createElement('div');
+    b.className = 'install-banner';
+    b.id = 'installBanner';
+    b.innerHTML = `
+      <span class="install-banner__text">📱 홈 화면에 설치하면 앱처럼 쓸 수 있어요</span>
+      <button class="install-banner__button" id="installBtn">설치</button>
+      <button class="install-banner__close" id="installClose">✕</button>
+    `;
+    document.body.appendChild(b);
+    setTimeout(() => b.classList.add('is-visible'), 100);
+    document.getElementById('installBtn').addEventListener('click', async () => {
+      if (!deferredPrompt) return;
+      deferredPrompt.prompt();
+      await deferredPrompt.userChoice;
+      deferredPrompt = null;
+      b.remove();
+    });
+    document.getElementById('installClose').addEventListener('click', () => {
+      localStorage.setItem('install_dismissed', '1');
+      b.remove();
+    });
+  }
 
 })();

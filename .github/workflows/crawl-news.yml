@@ -91,11 +91,15 @@ jobs:
         run: python scripts/aggregate_kr.py
         continue-on-error: true
 
+      - name: Cross-Market predictions
+        run: python scripts/crossmarket.py
+        continue-on-error: true
+
       - name: Commit data updates
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news_feed.json data/market_snapshot.json data/news_feed_kr.json data/market_snapshot_kr.json data/translate_cache.json 2>/dev/null || true
+          git add data/news_feed.json data/market_snapshot.json data/news_feed_kr.json data/market_snapshot_kr.json data/translate_cache.json data/cross_market.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "no changes"
             exit 0

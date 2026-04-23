@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0A0A0B"/>
+  <g transform="translate(96 128)">
+    <!-- Chart bars -->
+    <rect x="0"   y="180" width="48" height="96" rx="6" fill="#5FCAA5"/>
+    <rect x="64"  y="120" width="48" height="156" rx="6" fill="#5FCAA5"/>
+    <rect x="128" y="60"  width="48" height="216" rx="6" fill="#85B7EB"/>
+    <rect x="192" y="20"  width="48" height="256" rx="6" fill="#85B7EB"/>
+    <rect x="256" y="40"  width="48" height="236" rx="6" fill="#F09595"/>
+    <!-- Pulse dot -->
+    <circle cx="304" cy="24" r="14" fill="#F09595"/>
+    <circle cx="304" cy="24" r="24" fill="none" stroke="#F09595" stroke-width="3" opacity="0.35"/>
+  </g>
+  <text x="256" y="420" text-anchor="middle" font-family="Inter, sans-serif" font-size="56" font-weight="500" fill="#F4F3EE" letter-spacing="-2">Market Live</text>
+</svg>
