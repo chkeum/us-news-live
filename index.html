@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="ko" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="US 주식 실시간 뉴스 · 센티먼트 모니터링 대시보드" />
+  <meta name="theme-color" content="#0A0A0B" />
+  <title>US Market Live · News & Sentiment</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+KR:wght@400;500&display=swap" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+
+  <!-- ============ TOP BAR ============ -->
+  <header class="topbar" aria-label="Top navigation">
+    <div class="topbar__left">
+      <div class="brand">
+        <div class="brand__mark" aria-hidden="true"></div>
+        <span class="brand__name">Market Live</span>
+      </div>
+      <nav class="market-tabs" role="tablist" aria-label="Market selector">
+        <button class="market-tab is-active" data-market="us" role="tab" aria-selected="true">
+          <span class="market-tab__flag">🇺🇸</span>US
+        </button>
+        <button class="market-tab" data-market="kr" role="tab" aria-selected="false" disabled>
+          <span class="market-tab__flag">🇰🇷</span>KR
+          <span class="market-tab__soon">Soon</span>
+        </button>
+        <button class="market-tab" data-market="cross" role="tab" aria-selected="false" disabled>
+          <span class="market-tab__flag">🌐</span>Cross
+          <span class="market-tab__soon">Soon</span>
+        </button>
+      </nav>
+    </div>
+
+    <div class="topbar__right">
+      <div class="live-indicator" id="liveIndicator">
+        <span class="live-indicator__dot"></span>
+        <span class="live-indicator__label">LIVE</span>
+        <span class="live-indicator__time" id="liveTime">—</span>
+      </div>
+      <div class="search">
+        <svg class="search__icon" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input type="text" id="tickerFilter" class="search__input" placeholder="Filter by ticker (e.g. NVDA)" aria-label="Filter by ticker" />
+      </div>
+      <button class="icon-btn" id="alertsBtn" aria-label="Notifications">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"/><path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"/></svg>
+      </button>
+      <button class="icon-btn" id="themeToggle" aria-label="Toggle theme">
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- ============ MARKET STATUS BAR ============ -->
+  <section class="status-bar" aria-label="Market snapshot">
+    <div class="status-bar__item">
+      <div class="status-bar__label">S&amp;P 500</div>
+      <div class="status-bar__value" id="sp500">—</div>
+      <div class="status-bar__change" id="sp500Change">—</div>
+    </div>
+    <div class="status-bar__item">
+      <div class="status-bar__label">Nasdaq</div>
+      <div class="status-bar__value" id="nasdaq">—</div>
+      <div class="status-bar__change" id="nasdaqChange">—</div>
+    </div>
+    <div class="status-bar__item">
+      <div class="status-bar__label">Dow</div>
+      <div class="status-bar__value" id="dow">—</div>
+      <div class="status-bar__change" id="dowChange">—</div>
+    </div>
+    <div class="status-bar__item">
+      <div class="status-bar__label">VIX</div>
+      <div class="status-bar__value" id="vix">—</div>
+      <div class="status-bar__change" id="vixChange">—</div>
+    </div>
+    <div class="status-bar__item">
+      <div class="status-bar__label">BTC</div>
+      <div class="status-bar__value" id="btc">—</div>
+      <div class="status-bar__change" id="btcChange">—</div>
+    </div>
+    <div class="status-bar__session">
+      <span class="status-bar__session-dot" id="sessionDot"></span>
+      <span id="sessionLabel">Session status</span>
+    </div>
+  </section>
+
+  <!-- ============ MAIN LAYOUT ============ -->
+  <main class="main">
+
+    <!-- FEED COLUMN -->
+    <section class="feed" aria-label="News feed">
+
+      <!-- Category filter tabs -->
+      <div class="filter-tabs" role="tablist" aria-label="Category filter">
+        <button class="filter-tab is-active" data-filter="all">All</button>
+        <button class="filter-tab" data-filter="breaking">
+          <span class="filter-tab__dot" style="background: #E24B4A;"></span>Breaking
+        </button>
+        <button class="filter-tab" data-filter="earnings">Earnings</button>
+        <button class="filter-tab" data-filter="analyst">Analyst</button>
+        <button class="filter-tab" data-filter="ma">M&amp;A</button>
+        <button class="filter-tab" data-filter="reddit">
+          <span class="filter-tab__dot" style="background: #BA7517;"></span>Reddit
+        </button>
+        <button class="filter-tab" data-filter="macro">Macro</button>
+      </div>
+
+      <!-- News list -->
+      <div class="news-list" id="newsList">
+        <!-- Skeleton loaders -->
+        <div class="news-card news-card--skeleton"><div class="skel skel--line"></div><div class="skel skel--title"></div><div class="skel skel--line"></div></div>
+        <div class="news-card news-card--skeleton"><div class="skel skel--line"></div><div class="skel skel--title"></div><div class="skel skel--line"></div></div>
+        <div class="news-card news-card--skeleton"><div class="skel skel--line"></div><div class="skel skel--title"></div><div class="skel skel--line"></div></div>
+      </div>
+
+      <div class="feed-footer" id="feedFooter">
+        <span id="feedCount">—</span>
+        <span class="feed-footer__sep">·</span>
+        <span>Auto-refresh <strong>30s</strong></span>
+        <span class="feed-footer__sep">·</span>
+        <span id="lastUpdate">—</span>
+      </div>
+    </section>
+
+    <!-- SIDEBAR COLUMN -->
+    <aside class="sidebar" aria-label="Watchlist and trending">
+
+      <!-- Watchlist -->
+      <section class="side-panel">
+        <header class="side-panel__header">
+          <h2 class="side-panel__title">Watchlist</h2>
+          <button class="side-panel__action" id="editWatchlist" aria-label="Edit watchlist">Edit</button>
+        </header>
+        <div class="watchlist" id="watchlist">
+          <!-- populated by JS -->
+        </div>
+      </section>
+
+      <!-- Trending -->
+      <section class="side-panel">
+        <header class="side-panel__header">
+          <h2 class="side-panel__title">Trending · 24h</h2>
+          <span class="side-panel__meta">Reddit mentions</span>
+        </header>
+        <div class="trending" id="trending">
+          <!-- populated by JS -->
+        </div>
+      </section>
+
+      <!-- Sentiment Summary -->
+      <section class="side-panel">
+        <header class="side-panel__header">
+          <h2 class="side-panel__title">Market Mood</h2>
+        </header>
+        <div class="mood" id="mood">
+          <div class="mood__score">
+            <span class="mood__number" id="moodScore">—</span>
+            <span class="mood__max">/100</span>
+          </div>
+          <div class="mood__label" id="moodLabel">—</div>
+          <div class="mood__bar">
+            <div class="mood__fill" id="moodFill"></div>
+          </div>
+          <div class="mood__caption" id="moodCaption">—</div>
+        </div>
+      </section>
+
+      <!-- Sources -->
+      <section class="side-panel side-panel--muted">
+        <header class="side-panel__header">
+          <h2 class="side-panel__title">Sources</h2>
+        </header>
+        <ul class="source-list">
+          <li><span class="source-list__dot" style="background: #1D9E75;"></span>Finnhub</li>
+          <li><span class="source-list__dot" style="background: #378ADD;"></span>Yahoo Finance RSS</li>
+          <li><span class="source-list__dot" style="background: #D85A30;"></span>Benzinga RSS</li>
+          <li><span class="source-list__dot" style="background: #BA7517;"></span>Reddit r/wallstreetbets</li>
+          <li><span class="source-list__dot" style="background: #7F77DD;"></span>Alpha Vantage Sentiment</li>
+        </ul>
+      </section>
+
+    </aside>
+  </main>
+
+  <!-- ============ DETAIL OVERLAY ============ -->
+  <div class="detail-overlay" id="detailOverlay" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="detail-panel" role="document">
+      <header class="detail-panel__header">
+        <button class="icon-btn" id="detailClose" aria-label="Close">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+        </button>
+      </header>
+      <div class="detail-panel__body" id="detailBody"></div>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
