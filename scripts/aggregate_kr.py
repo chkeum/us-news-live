@@ -10,6 +10,24 @@ import re
 import json
 from datetime import datetime, timezone
 
+def news_score(item):
+    score = 0
+    cat = (item.get("category") or "").lower()
+    if cat == "breaking": score += 100
+    elif cat == "earnings": score += 60
+    elif cat == "analyst": score += 40
+    elif cat == "ma": score += 35
+    elif cat == "macro": score += 25
+    if item.get("ticker"): score += 50
+    published_at = item.get("published_at")
+    if published_at:
+        try:
+            age_hours = (datetime.now(timezone.utc) - datetime.fromisoformat(published_at.replace("Z", "+00:00"))).total_seconds() / 3600
+            score += max(0, 40 - age_hours * 1.5)
+        except Exception:
+            pass
+    return score
+
 SOURCE_FILES = ["/tmp/news_kr.json", "/tmp/news_dart.json"]
 QUOTES_FILE = "/tmp/kr_quotes.json"
 
@@ -95,7 +113,10 @@ def main():
     quotes = load_json(QUOTES_FILE)
     attach_prices(merged, quotes)
 
-    merged.sort(key=lambda x: x.get("published_at") or "", reverse=True)
+    merged.sort(
+        key=lambda x: (news_score(x), x.get("published_at") or ""),
+        reverse=True,
+    )
     merged = merged[:200]
 
     out_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "data")

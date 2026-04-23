@@ -36,23 +36,27 @@ WATCHLIST = {
 }
 
 def fetch_index(code):
-    """Fetch index price via Naver Finance JSON API."""
+    """Fetch index price via Naver Finance JSON API.
+
+    Naver returns `nv` as integer × 100 (i.e., 297842 = 2978.42).
+    """
     try:
         url = f"https://polling.finance.naver.com/api/realtime?query=SERVICE_INDEX:{code}"
         r = requests.get(url, headers={"User-Agent": UA, "Referer": "https://finance.naver.com/"}, timeout=10)
         r.raise_for_status()
         data = r.json()
-        area = data.get("resultCode") == "success" and data.get("result", {}).get("areas", [{}])[0]
+        area = data.get("result", {}).get("areas", [{}])
         if not area: return None
-        dt = area.get("datas", [{}])[0]
-        now_val = dt.get("nv")                # current
-        prev = dt.get("sv")                   # previous close (sometimes)
-        change = dt.get("cv")
-        change_pct = dt.get("cr")
-        # Naver returns values as ints (decimals *100). For KOSPI-type indices it's fine as decimals.
+        dt = area[0].get("datas", [{}])
+        if not dt: return None
+        d0 = dt[0]
+        now_val = d0.get("nv")
+        change_pct = d0.get("cr")
+        # Naver returns index values × 100 (e.g., 297842 → 2978.42)
+        price = now_val / 100.0 if isinstance(now_val, (int, float)) else None
         return {
-            "price": now_val / 100.0 if isinstance(now_val, int) and now_val > 100000 else now_val,
-            "change_pct": change_pct,
+            "price": round(price, 2) if price is not None else None,
+            "change_pct": round(float(change_pct), 2) if change_pct is not None else None,
             "label": code,
         }
     except Exception as e:

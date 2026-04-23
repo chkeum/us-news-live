@@ -79,12 +79,59 @@ def fetch_quote(symbol):
         q = r.json()
         price = q.get("c")
         prev = q.get("pc")
-        if price is None or not prev: return None
+        if price is None or not prev or price == 0: return None
         change_pct = (price - prev) / prev * 100 if prev else 0
         return {"price": round(price, 2), "change_pct": round(change_pct, 2)}
     except Exception as e:
         print(f"[agg] quote {symbol} failed: {e}")
         return None
+
+def fetch_yahoo_quote(symbol):
+    """Fallback for indices that Finnhub free tier doesn't cover."""
+    try:
+        # Use Yahoo's unofficial quote endpoint (free, no auth)
+        url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=2d"
+        r = requests.get(url, timeout=10, headers={"User-Agent": "Mozilla/5.0"})
+        r.raise_for_status()
+        data = r.json()
+        result = data.get("chart", {}).get("result", [])
+        if not result: return None
+        meta = result[0].get("meta", {})
+        price = meta.get("regularMarketPrice")
+        prev = meta.get("chartPreviousClose") or meta.get("previousClose")
+        if price is None or not prev: return None
+        change_pct = (price - prev) / prev * 100
+        return {"price": round(price, 2), "change_pct": round(change_pct, 2)}
+    except Exception as e:
+        print(f"[agg] yahoo {symbol} failed: {e}")
+        return None
+
+# Rank scoring weights for news ordering
+def news_score(item):
+    score = 0
+    cat = (item.get("category") or "").lower()
+    # Category priority
+    if cat == "breaking": score += 100
+    elif cat == "earnings": score += 60
+    elif cat == "analyst": score += 40
+    elif cat == "ma": score += 35
+    elif cat == "macro": score += 25
+    elif cat == "reddit": score += 20
+    # Has ticker → much higher
+    if item.get("ticker"): score += 50
+    # Has sentiment signal
+    sent = item.get("sentiment")
+    if sent is not None:
+        score += min(30, abs(float(sent)) * 60)
+    # Recency bonus (decay over 24h)
+    published_at = item.get("published_at")
+    if published_at:
+        try:
+            age_hours = (datetime.now(timezone.utc) - datetime.fromisoformat(published_at.replace("Z", "+00:00"))).total_seconds() / 3600
+            score += max(0, 40 - age_hours * 1.5)
+        except Exception:
+            pass
+    return score
 
 def attach_prices(items, quotes_by_ticker):
     for it in items:
@@ -116,6 +163,15 @@ def load_mentions():
     with open(path) as f:
         return json.load(f).get("mentions", [])
 
+def mentions_from_news(items):
+    """Fallback trending: count ticker appearances across aggregated news items."""
+    from collections import Counter
+    c = Counter()
+    for it in items:
+        t = it.get("ticker")
+        if t: c[t] += 1
+    return [{"ticker": t, "mentions": cnt, "surge_pct": 0} for t, cnt in c.most_common(10)]
+
 def main():
     # Collect items
     all_items = []
@@ -128,6 +184,13 @@ def main():
     print(f"[agg] after dedupe: {len(merged)}")
 
     # Fetch quotes for watchlist + indices
+    YAHOO_FALLBACK = {
+        "sp500":  "^GSPC",
+        "nasdaq": "^IXIC",
+        "dow":    "^DJI",
+        "vix":    "^VIX",
+        "btc":    "BTC-USD",
+    }
     quotes = {}
     if KEY:
         for t in WATCHLIST_TICKERS:
@@ -141,13 +204,26 @@ def main():
                 quotes[key]["label"] = info["label"]
             time.sleep(1.1)
     else:
-        print("[agg] no FINNHUB_API_KEY — skipping quote enrichment")
+        print("[agg] no FINNHUB_API_KEY — skipping Finnhub quotes")
+
+    # Yahoo fallback for indices missing from Finnhub (free tier limitation)
+    for key, symbol in YAHOO_FALLBACK.items():
+        if key in quotes: continue
+        q = fetch_yahoo_quote(symbol)
+        if q:
+            q["label"] = INDEX_SYMBOLS.get(key, {}).get("label", key.upper())
+            quotes[key] = q
+            print(f"[agg] yahoo fallback → {key}: {q['price']}")
+        time.sleep(0.3)
 
     # Attach prices to news items
     attach_prices(merged, quotes)
 
-    # Sort, cap
-    merged.sort(key=lambda x: x.get("published_at") or "", reverse=True)
+    # Rank by relevance score, then recency within same tier
+    merged.sort(
+        key=lambda x: (news_score(x), x.get("published_at") or ""),
+        reverse=True,
+    )
     merged = merged[:200]
 
     # Ensure output dir
@@ -167,6 +243,14 @@ def main():
     # Build market_snapshot.json
     score, mood, summary = compute_mood(quotes)
     mentions = load_mentions()
+    # If Reddit mentions are empty or very sparse, blend in news-derived mentions
+    if len(mentions) < 5:
+        news_trend = mentions_from_news(merged)
+        existing = {m["ticker"] for m in mentions}
+        for m in news_trend:
+            if m["ticker"] not in existing:
+                mentions.append(m)
+                if len(mentions) >= 10: break
     # Surge calculation would need a prior day's snapshot; placeholder 0 for now
     snapshot = {
         "fetched_at": datetime.now(timezone.utc).isoformat(),
