@@ -25,9 +25,8 @@
         <button class="market-tab is-active" data-market="us" role="tab" aria-selected="true">
           <span class="market-tab__flag">🇺🇸</span>US
         </button>
-        <button class="market-tab" data-market="kr" role="tab" aria-selected="false" disabled>
+        <button class="market-tab" data-market="kr" role="tab" aria-selected="false">
           <span class="market-tab__flag">🇰🇷</span>KR
-          <span class="market-tab__soon">Soon</span>
         </button>
         <button class="market-tab" data-market="cross" role="tab" aria-selected="false" disabled>
           <span class="market-tab__flag">🌐</span>Cross
@@ -57,32 +56,8 @@
   </header>
 
   <!-- ============ MARKET STATUS BAR ============ -->
-  <section class="status-bar" aria-label="Market snapshot">
-    <div class="status-bar__item">
-      <div class="status-bar__label">S&amp;P 500</div>
-      <div class="status-bar__value" id="sp500">—</div>
-      <div class="status-bar__change" id="sp500Change">—</div>
-    </div>
-    <div class="status-bar__item">
-      <div class="status-bar__label">Nasdaq</div>
-      <div class="status-bar__value" id="nasdaq">—</div>
-      <div class="status-bar__change" id="nasdaqChange">—</div>
-    </div>
-    <div class="status-bar__item">
-      <div class="status-bar__label">Dow</div>
-      <div class="status-bar__value" id="dow">—</div>
-      <div class="status-bar__change" id="dowChange">—</div>
-    </div>
-    <div class="status-bar__item">
-      <div class="status-bar__label">VIX</div>
-      <div class="status-bar__value" id="vix">—</div>
-      <div class="status-bar__change" id="vixChange">—</div>
-    </div>
-    <div class="status-bar__item">
-      <div class="status-bar__label">BTC</div>
-      <div class="status-bar__value" id="btc">—</div>
-      <div class="status-bar__change" id="btcChange">—</div>
-    </div>
+  <section class="status-bar" aria-label="Market snapshot" id="statusBar">
+    <!-- Rendered dynamically from JS based on active market -->
     <div class="status-bar__session">
       <span class="status-bar__session-dot" id="sessionDot"></span>
       <span id="sessionLabel">Session status</span>

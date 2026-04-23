@@ -1,20 +1,40 @@
 /* ============================================================
-   US Market Live — App logic (vanilla JS, no build step)
+   US/KR Market Live — App logic (vanilla JS, no build step)
    ============================================================ */
 (() => {
   'use strict';
 
   // -------- Config --------
-  const FEED_URL = 'data/news_feed.json';
-  const MARKET_URL = 'data/market_snapshot.json';
+  const ENDPOINTS = {
+    us: { feed: 'data/news_feed.json',    market: 'data/market_snapshot.json' },
+    kr: { feed: 'data/news_feed_kr.json', market: 'data/market_snapshot_kr.json' },
+  };
   const AUTO_REFRESH_MS = 30_000;
-  const DEFAULT_WATCHLIST = ['NVDA', 'MRVL', 'TSLA', 'MSTR', 'GOOGL'];
+  const DEFAULT_WATCHLIST = {
+    us: ['NVDA', 'MRVL', 'TSLA', 'MSTR', 'GOOGL', 'AMD', 'META', 'MSFT', 'AMZN', 'AVGO'],
+    kr: ['005930', '000660', '373220', '005380', '035420', '035720', '207940', '005490', '051910', '247540'],
+  };
+  const STATUS_FIELDS = {
+    us: [
+      { id: 'sp500',  label: 'S&P 500' },
+      { id: 'nasdaq', label: 'Nasdaq'   },
+      { id: 'dow',    label: 'Dow'      },
+      { id: 'vix',    label: 'VIX'      },
+      { id: 'btc',    label: 'BTC'      },
+    ],
+    kr: [
+      { id: 'kospi',    label: 'KOSPI'    },
+      { id: 'kosdaq',   label: 'KOSDAQ'   },
+      { id: 'kospi200', label: 'KOSPI 200'},
+    ],
+  };
 
   // -------- State --------
   const state = {
-    feed: [],
+    market: 'us',         // active market tab
+    feed: { us: [], kr: [] },
+    snap: { us: null, kr: null },
     filtered: [],
-    market: null,
     watchlist: loadWatchlist(),
     activeFilter: 'all',
     tickerQuery: '',
@@ -26,12 +46,14 @@
     liveTime: document.getElementById('liveTime'),
     sessionDot: document.getElementById('sessionDot'),
     sessionLabel: document.getElementById('sessionLabel'),
+    statusBar: document.getElementById('statusBar'),
     newsList: document.getElementById('newsList'),
     feedCount: document.getElementById('feedCount'),
     lastUpdate: document.getElementById('lastUpdate'),
     watchlist: document.getElementById('watchlist'),
     trending: document.getElementById('trending'),
     filterTabs: document.querySelectorAll('.filter-tab'),
+    marketTabs: document.querySelectorAll('.market-tab'),
     tickerFilter: document.getElementById('tickerFilter'),
     themeToggle: document.getElementById('themeToggle'),
     alertsBtn: document.getElementById('alertsBtn'),
@@ -42,33 +64,36 @@
     moodLabel: document.getElementById('moodLabel'),
     moodFill: document.getElementById('moodFill'),
     moodCaption: document.getElementById('moodCaption'),
-    statusFields: {
-      sp500: { value: document.getElementById('sp500'), change: document.getElementById('sp500Change') },
-      nasdaq: { value: document.getElementById('nasdaq'), change: document.getElementById('nasdaqChange') },
-      dow: { value: document.getElementById('dow'), change: document.getElementById('dowChange') },
-      vix: { value: document.getElementById('vix'), change: document.getElementById('vixChange') },
-      btc: { value: document.getElementById('btc'), change: document.getElementById('btcChange') },
-    },
   };
 
   // -------- Utilities --------
   function loadWatchlist() {
     try {
-      const stored = localStorage.getItem('watchlist');
-      return stored ? JSON.parse(stored) : [...DEFAULT_WATCHLIST];
-    } catch { return [...DEFAULT_WATCHLIST]; }
+      const stored = localStorage.getItem('watchlist_v2');
+      return stored ? JSON.parse(stored) : {
+        us: [...DEFAULT_WATCHLIST.us],
+        kr: [...DEFAULT_WATCHLIST.kr],
+      };
+    } catch { return { us: [...DEFAULT_WATCHLIST.us], kr: [...DEFAULT_WATCHLIST.kr] }; }
   }
   function saveWatchlist() {
-    try { localStorage.setItem('watchlist', JSON.stringify(state.watchlist)); } catch {}
+    try { localStorage.setItem('watchlist_v2', JSON.stringify(state.watchlist)); } catch {}
   }
   function formatChange(pct) {
     if (pct == null || isNaN(pct)) return '—';
     const sign = pct > 0 ? '+' : '';
-    return `${sign}${pct.toFixed(1)}%`;
+    return `${sign}${Number(pct).toFixed(1)}%`;
   }
-  function formatNumber(n) {
+  function formatNumber(n, decimals = 2) {
     if (n == null || isNaN(n)) return '—';
-    return n.toLocaleString('en-US', { maximumFractionDigits: 2 });
+    return Number(n).toLocaleString('en-US', {
+      minimumFractionDigits: 0,
+      maximumFractionDigits: decimals,
+    });
+  }
+  function formatKRW(n) {
+    if (n == null || isNaN(n)) return '—';
+    return Number(n).toLocaleString('ko-KR');
   }
   function formatRelativeTime(iso) {
     if (!iso) return '—';
@@ -84,24 +109,24 @@
     const d = Math.floor(h / 24);
     return `${d}d ago`;
   }
-  function sentimentLabel(score) {
-    if (score == null) return null;
-    if (score >= 0.5) return '매우 긍정';
-    if (score >= 0.2) return '긍정';
-    if (score > -0.2) return '중립';
-    if (score > -0.5) return '부정';
-    return '매우 부정';
-  }
-  function getUsSessionState() {
+  function getSessionState() {
     const now = new Date();
+    if (state.market === 'kr') {
+      // KST 09:00-15:30. User's local time (assumed KST).
+      const t = now.getHours() * 60 + now.getMinutes();
+      const day = now.getDay();
+      if (day === 0 || day === 6) return { state: 'closed', label: '장 마감 (주말)' };
+      if (t >= 540 && t < 930) return { state: 'open', label: 'KR 장 진행중' };
+      if (t >= 480 && t < 540) return { state: 'pre', label: 'KR 동시호가' };
+      if (t >= 930 && t < 990) return { state: 'post', label: 'KR 시간외' };
+      return { state: 'closed', label: 'KR 장 마감' };
+    }
+    // US session check (UTC hours)
     const utc = now.getUTCHours() * 60 + now.getUTCMinutes();
-    // Regular: 13:30 - 20:00 UTC (9:30am - 4:00pm ET, not DST-adjusted)
-    // Premarket: 09:00 - 13:30 UTC
-    // After-hours: 20:00 - 24:00 UTC
-    if (utc >= 810 && utc < 1200) return { state: 'open', label: 'Market open' };
-    if (utc >= 540 && utc < 810) return { state: 'pre', label: 'Premarket' };
-    if (utc >= 1200 && utc < 1440) return { state: 'post', label: 'After-hours' };
-    return { state: 'closed', label: 'Market closed' };
+    if (utc >= 810 && utc < 1200) return { state: 'open', label: 'US 장 진행중' };
+    if (utc >= 540 && utc < 810) return { state: 'pre', label: 'US 프리마켓' };
+    if (utc >= 1200 && utc < 1440) return { state: 'post', label: 'US 시간외' };
+    return { state: 'closed', label: 'US 장 마감' };
   }
   function updateClock() {
     const now = new Date();
@@ -109,7 +134,7 @@
     const mm = String(now.getMinutes()).padStart(2, '0');
     const ss = String(now.getSeconds()).padStart(2, '0');
     el.liveTime.textContent = `${hh}:${mm}:${ss}`;
-    const session = getUsSessionState();
+    const session = getSessionState();
     el.sessionDot.className = 'status-bar__session-dot';
     if (session.state === 'open') el.sessionDot.classList.add('is-open');
     else if (session.state === 'pre' || session.state === 'post') el.sessionDot.classList.add('is-pre');
@@ -119,23 +144,36 @@
 
   // -------- Rendering --------
   function renderStatusBar() {
-    if (!state.market) return;
-    Object.entries(el.statusFields).forEach(([key, refs]) => {
-      const ob = state.market[key];
-      if (!ob) return;
-      refs.value.textContent = formatNumber(ob.price);
-      const txt = formatChange(ob.change_pct);
-      refs.change.textContent = txt;
-      refs.change.classList.remove('is-up', 'is-down');
-      if (ob.change_pct > 0) refs.change.classList.add('is-up');
-      else if (ob.change_pct < 0) refs.change.classList.add('is-down');
+    const snap = state.snap[state.market];
+    const fields = STATUS_FIELDS[state.market] || [];
+    if (!snap) return;
+
+    // Remove all items except the session span
+    const sessionEl = el.sessionDot.parentElement;
+    [...el.statusBar.children].forEach(c => { if (c !== sessionEl) c.remove(); });
+
+    // Build items fresh
+    fields.forEach(f => {
+      const ob = snap[f.id];
+      const valTxt = ob ? formatNumber(ob.price) : '—';
+      const chgTxt = ob ? formatChange(ob.change_pct) : '—';
+      const upDown = ob && ob.change_pct > 0 ? 'is-up' : (ob && ob.change_pct < 0 ? 'is-down' : '');
+
+      const item = document.createElement('div');
+      item.className = 'status-bar__item';
+      item.innerHTML = `
+        <div class="status-bar__label">${f.label}</div>
+        <div class="status-bar__value">${valTxt}</div>
+        <div class="status-bar__change ${upDown}">${chgTxt}</div>`;
+      el.statusBar.insertBefore(item, sessionEl);
     });
   }
 
   function renderMoodPanel() {
-    if (!state.market) return;
-    const score = state.market.mood_score;
-    const mood = state.market.mood;
+    const snap = state.snap[state.market];
+    if (!snap) return;
+    const score = snap.mood_score;
+    const mood = snap.mood;
     if (score == null) return;
     el.moodScore.textContent = score;
     el.moodFill.style.width = `${score}%`;
@@ -146,27 +184,35 @@
     else if (mood === 'bearish') { label = 'Bearish'; el.moodLabel.classList.add('is-bearish'); el.moodFill.classList.add('is-bearish'); }
     else { el.moodLabel.classList.add('is-neutral'); el.moodFill.classList.add('is-neutral'); }
     el.moodLabel.textContent = label;
-    el.moodCaption.textContent = state.market.mood_summary || '';
+    el.moodCaption.textContent = snap.mood_summary || '';
   }
 
   function renderWatchlist() {
-    if (!state.market?.watchlist) return;
-    const rows = state.watchlist.map(ticker => {
-      const d = state.market.watchlist[ticker];
-      if (!d) return `
+    const snap = state.snap[state.market];
+    if (!snap?.watchlist) return;
+    const codes = state.watchlist[state.market];
+    const rows = codes.map(code => {
+      const d = snap.watchlist[code];
+      if (!d) {
+        return `
         <div class="watch-item">
           <div>
-            <div class="watch-item__ticker">${ticker}</div>
+            <div class="watch-item__ticker">${code}</div>
             <div class="watch-item__price">—</div>
           </div>
           <div class="watch-item__change">—</div>
         </div>`;
+      }
       const upDown = d.change_pct > 0 ? 'is-up' : (d.change_pct < 0 ? 'is-down' : '');
+      const display = d.name || code;
+      const priceStr = state.market === 'kr'
+        ? `₩${formatKRW(d.price)}`
+        : `$${formatNumber(d.price)}`;
       return `
-        <div class="watch-item" data-ticker="${ticker}">
+        <div class="watch-item" data-ticker="${code}">
           <div>
-            <div class="watch-item__ticker">${ticker}</div>
-            <div class="watch-item__price">$${formatNumber(d.price)}</div>
+            <div class="watch-item__ticker">${display}</div>
+            <div class="watch-item__price">${priceStr}</div>
           </div>
           <div class="watch-item__change ${upDown}">${formatChange(d.change_pct)}</div>
         </div>`;
@@ -183,15 +229,18 @@
   }
 
   function renderTrending() {
-    const list = state.market?.trending || [];
-    el.trending.innerHTML = list.slice(0, 5).map((t, i) => `
+    const snap = state.snap[state.market];
+    const list = snap?.trending || [];
+    el.trending.innerHTML = list.slice(0, 5).map((t, i) => {
+      const label = t.name || t.ticker;
+      return `
       <div class="trend-item" data-ticker="${t.ticker}">
         <span class="trend-item__rank">${i + 1}</span>
-        <span class="trend-item__ticker">${t.ticker}</span>
-        <span class="trend-item__mentions">${formatNumber(t.mentions)}</span>
-        <span class="trend-item__spark">+${Math.round(t.surge_pct)}%</span>
-      </div>
-    `).join('');
+        <span class="trend-item__ticker">${label}</span>
+        <span class="trend-item__mentions">${formatNumber(t.mentions, 0)}</span>
+        <span class="trend-item__spark">${t.surge_pct > 0 ? '+' + Math.round(t.surge_pct) + '%' : ''}</span>
+      </div>`;
+    }).join('');
     el.trending.querySelectorAll('.trend-item').forEach(item => {
       item.addEventListener('click', () => {
         const t = item.dataset.ticker;
@@ -215,12 +264,12 @@
 
     el.newsList.innerHTML = state.filtered.map(n => {
       const cat = (n.category || '').toLowerCase();
-      const ticker = n.ticker || '';
+      const ticker = n.ticker_name || n.ticker || '';
       const change = n.change_pct;
       const changeCls = change > 0 ? 'is-up' : (change < 0 ? 'is-down' : '');
       const changeTxt = change != null ? formatChange(change) : '';
       const sentimentCls = n.sentiment > 0.1 ? 'is-up' : (n.sentiment < -0.1 ? 'is-down' : '');
-      const sentimentVal = n.sentiment != null ? (n.sentiment > 0 ? '+' : '') + n.sentiment.toFixed(2) : null;
+      const sentimentVal = n.sentiment != null ? (n.sentiment > 0 ? '+' : '') + Number(n.sentiment).toFixed(2) : null;
 
       const cardClasses = ['news-card'];
       if (cat === 'breaking') cardClasses.push('news-card--breaking');
@@ -234,21 +283,24 @@
         ? `<span class="news-card__category news-card__category--${cat}">${cat}</span>`
         : '';
 
+      const titleMain = n.title_kr || n.title;
+      const titleSub = (n.title_kr && n.title_kr !== n.title) ? n.title : null;
+
       return `
         <article class="${cardClasses.join(' ')}" data-id="${n.id || ''}">
           <div class="news-card__header">
             ${categoryBadge}
-            ${ticker ? `<span class="news-card__ticker">${ticker}</span>` : ''}
+            ${ticker ? `<span class="news-card__ticker">${escapeHTML(ticker)}</span>` : ''}
             ${changeTxt ? `<span class="news-card__change ${changeCls}">${changeTxt}</span>` : ''}
-            <span class="news-card__meta">${n.source || ''} · ${formatRelativeTime(n.published_at)}</span>
+            <span class="news-card__meta">${escapeHTML(n.source || '')} · ${formatRelativeTime(n.published_at)}</span>
           </div>
-          <h3 class="news-card__title">${escapeHTML(n.title)}</h3>
-          ${n.title_kr ? `<p class="news-card__title-kr">${escapeHTML(n.title_kr)}</p>` : ''}
+          <h3 class="news-card__title">${escapeHTML(titleMain)}</h3>
+          ${titleSub ? `<p class="news-card__title-kr">${escapeHTML(titleSub)}</p>` : ''}
           <div class="news-card__footer">
             ${sentimentVal
               ? `<span class="news-card__sentiment">Sentiment <span class="news-card__sentiment-value ${sentimentCls}">${sentimentVal}</span></span>`
               : ''}
-            ${n.extra_meta ? `<span class="news-card__footer-sep">·</span><span>${n.extra_meta}</span>` : ''}
+            ${n.extra_meta ? `<span class="news-card__footer-sep">·</span><span>${escapeHTML(n.extra_meta)}</span>` : ''}
           </div>
         </article>`;
     }).join('');
@@ -268,16 +320,17 @@
   }
 
   function openDetail(id) {
-    const item = state.feed.find(n => n.id === id);
+    const feed = state.feed[state.market] || [];
+    const item = feed.find(n => n.id === id);
     if (!item) return;
     el.detailBody.innerHTML = `
-      <h3>${escapeHTML(item.title)}</h3>
-      ${item.title_kr ? `<p style="color: var(--fg-primary);">${escapeHTML(item.title_kr)}</p>` : ''}
+      <h3>${escapeHTML(item.title_kr || item.title)}</h3>
+      ${item.title_kr && item.title_kr !== item.title ? `<p style="color: var(--fg-secondary); font-size: 13px;">${escapeHTML(item.title)}</p>` : ''}
       <p style="font-size: 11px; color: var(--fg-tertiary); text-transform: uppercase; letter-spacing: 0.05em;">
-        ${item.source || 'Source'} · ${formatRelativeTime(item.published_at)}
+        ${escapeHTML(item.source || 'Source')} · ${formatRelativeTime(item.published_at)}
       </p>
-      ${item.summary ? `<p>${escapeHTML(item.summary)}</p>` : ''}
-      ${item.summary_kr ? `<p style="border-left: 3px solid var(--border-default); padding-left: 12px; color: var(--fg-secondary);">${escapeHTML(item.summary_kr)}</p>` : ''}
+      ${item.summary_kr ? `<p>${escapeHTML(item.summary_kr)}</p>` : (item.summary ? `<p>${escapeHTML(item.summary)}</p>` : '')}
+      ${item.summary && item.summary !== item.summary_kr ? `<p style="border-left: 3px solid var(--border-default); padding-left: 12px; color: var(--fg-secondary); font-size: 13px;">${escapeHTML(item.summary)}</p>` : ''}
       ${item.url ? `<p><a href="${escapeHTML(item.url)}" target="_blank" rel="noopener noreferrer">원문 보기 →</a></p>` : ''}
     `;
     el.detailOverlay.classList.add('is-open');
@@ -292,40 +345,80 @@
   function applyFilters() {
     const f = state.activeFilter;
     const q = state.tickerQuery.trim().toUpperCase();
-    state.filtered = state.feed.filter(n => {
+    const feed = state.feed[state.market] || [];
+    state.filtered = feed.filter(n => {
       if (f !== 'all') {
         const cat = (n.category || '').toLowerCase();
         if (f === 'ma') { if (!['ma', 'm&a', 'merger'].includes(cat)) return false; }
         else if (cat !== f) return false;
       }
-      if (q && !(n.ticker || '').toUpperCase().includes(q)) return false;
+      if (q) {
+        const ticker = (n.ticker || '').toUpperCase();
+        const name = (n.ticker_name || '').toUpperCase();
+        if (!ticker.includes(q) && !name.includes(q)) return false;
+      }
       return true;
     });
     renderFeed();
   }
 
+  function setMarket(market) {
+    if (state.market === market) return;
+    state.market = market;
+    el.marketTabs.forEach(t => {
+      const isActive = t.dataset.market === market;
+      t.classList.toggle('is-active', isActive);
+      t.setAttribute('aria-selected', isActive ? 'true' : 'false');
+    });
+    // Reset ticker query + filter
+    state.tickerQuery = '';
+    el.tickerFilter.value = '';
+    state.activeFilter = 'all';
+    el.filterTabs.forEach(t => t.classList.toggle('is-active', t.dataset.filter === 'all'));
+    el.tickerFilter.placeholder = market === 'kr' ? '종목명·종목코드로 필터...' : 'Filter by ticker (e.g. NVDA)';
+
+    renderStatusBar();
+    renderWatchlist();
+    renderTrending();
+    renderMoodPanel();
+    applyFilters();
+    updateClock();
+    try { localStorage.setItem('active_market', market); } catch {}
+  }
+
   // -------- Fetching --------
-  async function fetchData() {
+  async function fetchMarketData(market) {
+    const ep = ENDPOINTS[market];
     try {
       const [feedRes, marketRes] = await Promise.all([
-        fetch(FEED_URL + '?t=' + Date.now()).then(r => r.ok ? r.json() : null),
-        fetch(MARKET_URL + '?t=' + Date.now()).then(r => r.ok ? r.json() : null),
+        fetch(ep.feed + '?t=' + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null),
+        fetch(ep.market + '?t=' + Date.now()).then(r => r.ok ? r.json() : null).catch(() => null),
       ]);
-      if (feedRes?.items) state.feed = feedRes.items;
-      if (marketRes) state.market = marketRes;
-      state.lastFetchedAt = new Date();
-      el.lastUpdate.textContent = 'Updated ' + formatRelativeTime(state.lastFetchedAt.toISOString());
-      renderStatusBar();
-      renderWatchlist();
-      renderTrending();
-      renderMoodPanel();
-      applyFilters();
+      if (feedRes?.items) state.feed[market] = feedRes.items;
+      if (marketRes) state.snap[market] = marketRes;
     } catch (err) {
-      console.error('Fetch failed:', err);
+      console.error(`[fetch] ${market} failed:`, err);
     }
   }
 
+  async function fetchAll() {
+    await Promise.all([fetchMarketData('us'), fetchMarketData('kr')]);
+    state.lastFetchedAt = new Date();
+    el.lastUpdate.textContent = 'Updated ' + formatRelativeTime(state.lastFetchedAt.toISOString());
+    renderStatusBar();
+    renderWatchlist();
+    renderTrending();
+    renderMoodPanel();
+    applyFilters();
+  }
+
   // -------- Events --------
+  el.marketTabs.forEach(tab => {
+    tab.addEventListener('click', () => {
+      if (tab.disabled) return;
+      setMarket(tab.dataset.market);
+    });
+  });
   el.filterTabs.forEach(tab => {
     tab.addEventListener('click', () => {
       el.filterTabs.forEach(t => t.classList.remove('is-active'));
@@ -348,30 +441,33 @@
   el.detailOverlay.addEventListener('click', (e) => { if (e.target === el.detailOverlay) closeDetail(); });
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeDetail(); });
   el.alertsBtn.addEventListener('click', async () => {
-    if (!('Notification' in window)) {
-      alert('이 브라우저는 알림을 지원하지 않아요.');
-      return;
-    }
-    if (Notification.permission === 'granted') {
-      alert('알림이 이미 켜져 있어요.');
-      return;
-    }
+    if (!('Notification' in window)) { alert('이 브라우저는 알림을 지원하지 않아요.'); return; }
+    if (Notification.permission === 'granted') { alert('알림이 이미 켜져 있어요.'); return; }
     const res = await Notification.requestPermission();
     if (res === 'granted') {
       new Notification('알림 활성화 완료', { body: '중요 뉴스가 오면 알려드릴게요.' });
     }
   });
 
-  // Initialize theme from localStorage
+  // -------- Init --------
   try {
     const saved = localStorage.getItem('theme');
     if (saved) document.documentElement.setAttribute('data-theme', saved);
+    const savedMarket = localStorage.getItem('active_market');
+    if (savedMarket === 'us' || savedMarket === 'kr') state.market = savedMarket;
   } catch {}
 
-  // Initial load
+  // Sync initial tab state with state.market
+  el.marketTabs.forEach(t => {
+    const isActive = t.dataset.market === state.market;
+    t.classList.toggle('is-active', isActive);
+    t.setAttribute('aria-selected', isActive ? 'true' : 'false');
+  });
+  el.tickerFilter.placeholder = state.market === 'kr' ? '종목명·종목코드로 필터...' : 'Filter by ticker (e.g. NVDA)';
+
   updateClock();
   setInterval(updateClock, 1000);
-  fetchData();
-  setInterval(fetchData, AUTO_REFRESH_MS);
+  fetchAll();
+  setInterval(fetchAll, AUTO_REFRESH_MS);
 
 })();

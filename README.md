@@ -169,10 +169,25 @@ python translate.py
 
 ---
 
+## Phase 2 — KR 시장 통합 ✅
+
+- `scripts/crawl_kr_news.py` — 한경·매경·이데일리·조선비즈·연합뉴스·Google News RSS
+- `scripts/crawl_dart.py` — DART 전자공시 (OPENDART_API_KEY 필요)
+- `scripts/crawl_kr_quotes.py` — 네이버 금융 시세 (KOSPI·KOSDAQ·워치리스트)
+- `scripts/aggregate_kr.py` — 통합·중복 제거·무드 스코어
+- **KR 탭** — 상단에서 🇺🇸 US / 🇰🇷 KR 원클릭 전환, 데이터·워치리스트 독립
+- **60+ 한국 종목 매핑** — 반도체·2차전지·바이오·자동차·금융·플랫폼·방산·엔터
+
+### DART API 키 발급 (선택사항, 공시 수집용)
+
+1. https://opendart.fss.or.kr/intro/main.do → 인증키 신청 (즉시 발급, 무료)
+2. Repo Settings → Secrets → `OPENDART_API_KEY`
+
+무료 한도: 일 20,000건 (사실상 무제한).
+
 ## 향후 Phase
 
-- **Phase 2** (KR 시장) — 네이버금융 · DART · 한경·매경 RSS · 네이버 종토 센티먼트
-- **Phase 3** (Cross-Market) — 오버나잇 US → KR 파생 영향 예측, 섹터 커플링
+- **Phase 3** (Cross-Market) — 오버나잇 US → KR 파생 영향 예측, 섹터 커플링, 환율·금리 매크로
 - **Phase 4** (PWA) — 모바일 홈 화면 설치, Service Worker 푸시
 
 ---

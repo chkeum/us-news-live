@@ -61,22 +61,41 @@ jobs:
         run: python scripts/crawl_alphavantage.py
         continue-on-error: true
 
-      - name: Aggregate
+      - name: Aggregate US
         env:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: python scripts/aggregate.py
 
-      - name: Translate to Korean
+      - name: Translate US to Korean
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
         run: python scripts/translate.py
+        continue-on-error: true
+
+      # ----- KR Pipeline -----
+      - name: Crawl KR news (RSS)
+        run: python scripts/crawl_kr_news.py
+        continue-on-error: true
+
+      - name: Crawl DART filings
+        env:
+          OPENDART_API_KEY: ${{ secrets.OPENDART_API_KEY }}
+        run: python scripts/crawl_dart.py
+        continue-on-error: true
+
+      - name: Crawl KR quotes
+        run: python scripts/crawl_kr_quotes.py
+        continue-on-error: true
+
+      - name: Aggregate KR
+        run: python scripts/aggregate_kr.py
         continue-on-error: true
 
       - name: Commit data updates
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/news_feed.json data/market_snapshot.json
+          git add data/news_feed.json data/market_snapshot.json data/news_feed_kr.json data/market_snapshot_kr.json 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "no changes"
             exit 0
