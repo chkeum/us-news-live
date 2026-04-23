@@ -66,17 +66,9 @@ jobs:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
         run: python scripts/aggregate.py
 
-      - name: Translate US to Korean (Claude batch)
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/translate_claude.py
-        continue-on-error: true
-
-      - name: Translate US to Korean (fallback — DeepL/Google)
-        if: ${{ env.HAS_ANTHROPIC != 'true' }}
+      - name: Translate US to Korean (parallel, free)
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
-          HAS_ANTHROPIC: ${{ secrets.ANTHROPIC_API_KEY != '' }}
         run: python scripts/translate.py
         continue-on-error: true
 
