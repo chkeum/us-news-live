@@ -1,38 +1,58 @@
 {
-  "fetched_at": "2026-04-23T12:30:00Z",
-  "sp500":  { "price": 7142.35, "change_pct": -0.28, "label": "S&P 500" },
-  "nasdaq": { "price": 23615.10, "change_pct": -0.35, "label": "Nasdaq" },
-  "dow":    { "price": 49488.22, "change_pct": -0.18, "label": "Dow" },
-  "vix":    { "price": 18.21, "change_pct": 4.18, "label": "VIX" },
-  "btc":    { "price": 78420.50, "change_pct": 1.82, "label": "BTC" },
-
-  "watchlist": {
-    "NVDA":  { "price": 201.68, "change_pct": 1.9 },
-    "MRVL":  { "price": 148.20, "change_pct": 1.6 },
-    "TSLA":  { "price": 245.30, "change_pct": -4.8 },
-    "MSTR":  { "price": 412.50, "change_pct": 3.2 },
-    "GOOGL": { "price": 183.40, "change_pct": 0.7 },
-    "AMD":   { "price": 168.40, "change_pct": 1.2 },
-    "META":  { "price": 618.20, "change_pct": 0.5 },
-    "MSFT":  { "price": 478.60, "change_pct": 0.3 },
-    "AMZN":  { "price": 218.70, "change_pct": 0.8 },
-    "AVGO":  { "price": 1872.00, "change_pct": 1.4 }
+  "fetched_at": "2026-04-23T15:24:40.919728+00:00",
+  "sp500": null,
+  "nasdaq": null,
+  "dow": null,
+  "vix": null,
+  "btc": {
+    "price": 78599.44,
+    "change_pct": -0.54,
+    "label": "BTC"
   },
-
-  "trending": [
-    { "ticker": "TSLA",  "mentions": 3612, "surge_pct": 186 },
-    { "ticker": "MSTR",  "mentions": 2640, "surge_pct": 112 },
-    { "ticker": "MRVL",  "mentions": 1475, "surge_pct": 74  },
-    { "ticker": "NBIS",  "mentions": 1180, "surge_pct": 68  },
-    { "ticker": "CURLF", "mentions": 960,  "surge_pct": 52  },
-    { "ticker": "NVDA",  "mentions": 1820, "surge_pct": 38  },
-    { "ticker": "ASTS",  "mentions": 1240, "surge_pct": 32  },
-    { "ticker": "AMZN",  "mentions": 945,  "surge_pct": 22  },
-    { "ticker": "RKLB",  "mentions": 820,  "surge_pct": 18  },
-    { "ticker": "PLTR",  "mentions": 775,  "surge_pct": 14  }
-  ],
-
-  "mood_score": 58,
+  "watchlist": {
+    "NVDA": {
+      "price": 202.94,
+      "change_pct": 0.22
+    },
+    "MRVL": {
+      "price": 165.06,
+      "change_pct": 4.92
+    },
+    "TSLA": {
+      "price": 378.33,
+      "change_pct": -2.37
+    },
+    "MSTR": {
+      "price": 180.79,
+      "change_pct": 0.8
+    },
+    "GOOGL": {
+      "price": 341.89,
+      "change_pct": 0.76
+    },
+    "AMD": {
+      "price": 309.51,
+      "change_pct": 1.99
+    },
+    "META": {
+      "price": 668.61,
+      "change_pct": -0.91
+    },
+    "MSFT": {
+      "price": 422.54,
+      "change_pct": -2.4
+    },
+    "AMZN": {
+      "price": 257.99,
+      "change_pct": 1.03
+    },
+    "AVGO": {
+      "price": 429.02,
+      "change_pct": 1.51
+    }
+  },
+  "trending": [],
+  "mood_score": 50,
   "mood": "neutral",
-  "mood_summary": "S&P -0.28% · Nasdaq -0.35% · VIX +4.2% — Iran 협상 정체 + TSLA 캡엑스 쇼크로 신중한 출발, 반도체 섹터는 여전히 강세 유지예요."
+  "mood_summary": "장 데이터 수집 중이에요."
 }
