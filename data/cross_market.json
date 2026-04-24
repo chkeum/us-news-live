@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-04-24T01:30:23.196863+00:00",
+  "fetched_at": "2026-04-24T04:39:08.219484+00:00",
   "us_mood_score": 57,
-  "kr_mood_score": 58,
+  "kr_mood_score": 62,
   "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -2.42,
-      "actual_kr_pct": 0.21,
+      "actual_kr_pct": 1.5,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 373.72,
-      "kr_price": 467500.0
+      "kr_price": 473500.0
     },
     {
       "us_ticker": "MRVL",
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 2.36,
-      "actual_kr_pct": -0.24,
+      "actual_kr_pct": -1.31,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 165.56,
-      "kr_price": 1222000.0
+      "kr_price": 1209000.0
     },
     {
       "us_ticker": "TSLA",
@@ -60,10 +60,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -2.21,
-      "actual_kr_pct": 0.12,
+      "actual_kr_pct": 0.49,
       "reason": "NCA 양극재 공급",
       "us_price": 373.72,
-      "kr_price": 205750.0
+      "kr_price": 206500.0
     },
     {
       "us_ticker": "TSLA",
@@ -108,10 +108,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -1.39,
-      "actual_kr_pct": -1.61,
+      "actual_kr_pct": -1.84,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 415.75,
-      "kr_price": 214000.0
+      "kr_price": 213500.0
     },
     {
       "us_ticker": "MSTR",
@@ -132,10 +132,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -1.27,
-      "actual_kr_pct": -0.62,
+      "actual_kr_pct": -1.03,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 415.75,
-      "kr_price": 48100.0
+      "kr_price": 47900.0
     },
     {
       "us_ticker": "NVDA",
@@ -168,10 +168,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.02,
-      "actual_kr_pct": -0.24,
+      "actual_kr_pct": -1.31,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 199.64,
-      "kr_price": 1222000.0
+      "kr_price": 1209000.0
     },
     {
       "us_ticker": "META",
@@ -180,10 +180,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.88,
-      "actual_kr_pct": -1.61,
+      "actual_kr_pct": -1.84,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 659.15,
-      "kr_price": 214000.0
+      "kr_price": 213500.0
     },
     {
       "us_ticker": "MSTR",
@@ -204,10 +204,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.73,
-      "actual_kr_pct": -1.78,
+      "actual_kr_pct": -2.67,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 199.64,
-      "kr_price": 220500.0
+      "kr_price": 218500.0
     },
     {
       "us_ticker": "META",
@@ -240,10 +240,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 0.36,
-      "actual_kr_pct": -0.24,
+      "actual_kr_pct": -1.31,
       "reason": "MI355X용 HBM 공급",
       "us_price": 305.33,
-      "kr_price": 1222000.0
+      "kr_price": 1209000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -1.01,
+      "kr_actual_avg_pct": -1.99,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.62,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.16,
+      "kr_actual_avg_pct": 0.99,
       "beta": 0.58,
       "predicted_kr_avg_pct": -2.06,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -1.11,
+      "kr_actual_avg_pct": -1.44,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.62,
       "lag_hours": 8
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "TSLA",
-      "title": "Stock Market Today, April 23: Tesla Falls After Lifting 2026 Capex Guidance for AI and Robotics",
-      "title_kr": "오늘, 4월 23일 주식 시장: Tesla는 AI 및 로봇 공학에 대한 2026년 Capex 지침을 해제한 후 하락합니다.",
+      "ticker": "NVDA",
+      "title": "Intel's Earnings Report Shows How the CPU Has Found Its Way to the AI Boom.",
+      "title_kr": "인텔의 수익 보고서는 CPU가 어떻게 AI 붐을 맞이했는지 보여줍니다.",
       "source": "Yahoo",
-      "published_at": "2026-04-23T22:36:48+00:00",
+      "published_at": "2026-04-24T02:32:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Tesla Vs GM: Which is the Best Investment as the Q1 Earnings Season Heats Up?",
+      "title_kr": "Tesla Vs GM: 1분기 실적 시즌이 본격화되는 가운데 가장 좋은 투자는 무엇입니까?",
+      "source": "Yahoo",
+      "published_at": "2026-04-24T01:15:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
@@ -340,27 +352,14 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "title": "VeriSign Q1 Earnings Call Highlights",
-      "title_kr": "VeriSign 1분기 실적 발표 하이라이트",
+      "ticker": "INTC",
+      "title": "Intel earnings signal recovery at US chip maker",
+      "title_kr": "미국 칩업체 인텔 실적 회복 신호",
       "source": "Yahoo",
-      "published_at": "2026-04-23T22:36:13+00:00",
+      "published_at": "2026-04-23T23:55:06+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Intel Q1 Earnings Call Highlights",
-      "title_kr": "인텔 Q1 실적 발표 하이라이트",
-      "source": "Yahoo",
-      "published_at": "2026-04-23T22:36:11+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
+        "SK하이닉스"
       ]
     }
   ],
@@ -381,10 +380,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 78059.52,
-      "change_pct": -0.12,
+      "price": 77610.45,
+      "change_pct": -0.33,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +5.2% → 한미반도체 개장 상방 압력 예상 (+3.2% 전후). US 무드 57/100, KR 무드 58/100."
+  "summary": "미국 MRVL +5.2% → 한미반도체 개장 상방 압력 예상 (+3.2% 전후). US 무드 57/100, KR 무드 62/100."
 }
