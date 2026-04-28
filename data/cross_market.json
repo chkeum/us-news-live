@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-04-28T20:12:42.324399+00:00",
+  "fetched_at": "2026-04-28T21:20:40.264009+00:00",
   "us_mood_score": 44,
   "kr_mood_score": 47,
   "us_mood": "neutral",
@@ -43,14 +43,14 @@
     },
     {
       "us_ticker": "MRVL",
-      "us_change_pct": -3.14,
+      "us_change_pct": -3.15,
       "kr_code": "042700",
       "kr_name": "한미반도체",
       "beta": 0.62,
       "predicted_kr_pct": -1.95,
       "actual_kr_pct": null,
       "reason": "MPU/TPU 제조 파생 수혜",
-      "us_price": 153.25,
+      "us_price": 153.23,
       "kr_price": null
     },
     {
@@ -67,75 +67,27 @@
     },
     {
       "us_ticker": "MRVL",
-      "us_change_pct": -3.14,
+      "us_change_pct": -3.15,
       "kr_code": "007660",
       "kr_name": "이수페타시스",
       "beta": 0.58,
-      "predicted_kr_pct": -1.82,
+      "predicted_kr_pct": -1.83,
       "actual_kr_pct": null,
       "reason": "AI 서버 MLB 수요 확대",
-      "us_price": 153.25,
+      "us_price": 153.23,
       "kr_price": null
     },
     {
       "us_ticker": "MRVL",
-      "us_change_pct": -3.14,
+      "us_change_pct": -3.15,
       "kr_code": "000660",
       "kr_name": "SK하이닉스",
       "beta": 0.45,
-      "predicted_kr_pct": -1.41,
+      "predicted_kr_pct": -1.42,
       "actual_kr_pct": 0.62,
       "reason": "커스텀 실리콘 테마 연동",
-      "us_price": 153.25,
+      "us_price": 153.23,
       "kr_price": 1300000.0
-    },
-    {
-      "us_ticker": "NVDA",
-      "us_change_pct": -1.63,
-      "kr_code": "042700",
-      "kr_name": "한미반도체",
-      "beta": 0.85,
-      "predicted_kr_pct": -1.39,
-      "actual_kr_pct": null,
-      "reason": "HBM TC본더 장비 독점 공급",
-      "us_price": 213.07,
-      "kr_price": null
-    },
-    {
-      "us_ticker": "NVDA",
-      "us_change_pct": -1.63,
-      "kr_code": "007660",
-      "kr_name": "이수페타시스",
-      "beta": 0.78,
-      "predicted_kr_pct": -1.27,
-      "actual_kr_pct": null,
-      "reason": "AI GPU용 MLB PCB 공급",
-      "us_price": 213.07,
-      "kr_price": null
-    },
-    {
-      "us_ticker": "NVDA",
-      "us_change_pct": -1.63,
-      "kr_code": "000660",
-      "kr_name": "SK하이닉스",
-      "beta": 0.72,
-      "predicted_kr_pct": -1.17,
-      "actual_kr_pct": 0.62,
-      "reason": "HBM3E/HBM4 공급 메인 파트너",
-      "us_price": 213.07,
-      "kr_price": 1300000.0
-    },
-    {
-      "us_ticker": "NVDA",
-      "us_change_pct": -1.63,
-      "kr_code": "005930",
-      "kr_name": "삼성전자",
-      "beta": 0.52,
-      "predicted_kr_pct": -0.85,
-      "actual_kr_pct": -1.11,
-      "reason": "HBM 공급사, AI 반도체 연동",
-      "us_price": 213.07,
-      "kr_price": 222000.0
     },
     {
       "us_ticker": "MSTR",
@@ -244,6 +196,54 @@
       "reason": "원통형 배터리 경쟁사",
       "us_price": 376.02,
       "kr_price": null
+    },
+    {
+      "us_ticker": "MSFT",
+      "us_change_pct": 1.04,
+      "kr_code": "035720",
+      "kr_name": "카카오",
+      "beta": 0.32,
+      "predicted_kr_pct": 0.33,
+      "actual_kr_pct": 0.83,
+      "reason": "클라우드 Azure 파트너십",
+      "us_price": 429.25,
+      "kr_price": 48850.0
+    },
+    {
+      "us_ticker": "META",
+      "us_change_pct": -1.07,
+      "kr_code": "352820",
+      "kr_name": "하이브",
+      "beta": 0.28,
+      "predicted_kr_pct": -0.3,
+      "actual_kr_pct": null,
+      "reason": "메타버스·콘텐츠 노출 테마",
+      "us_price": 671.34,
+      "kr_price": null
+    },
+    {
+      "us_ticker": "AMZN",
+      "us_change_pct": -0.54,
+      "kr_code": "035420",
+      "kr_name": "NAVER",
+      "beta": 0.3,
+      "predicted_kr_pct": -0.16,
+      "actual_kr_pct": 2.09,
+      "reason": "커머스·클라우드 동행",
+      "us_price": 259.7,
+      "kr_price": 219500.0
+    },
+    {
+      "us_ticker": "AMZN",
+      "us_change_pct": -0.54,
+      "kr_code": "005930",
+      "kr_name": "삼성전자",
+      "beta": 0.28,
+      "predicted_kr_pct": -0.15,
+      "actual_kr_pct": -1.11,
+      "reason": "AWS Trainium3 → HBM 수요",
+      "us_price": 259.7,
+      "kr_price": 222000.0
     }
   ],
   "sector_coupling": [
@@ -257,7 +257,7 @@
         "MU",
         "INTC"
       ],
-      "us_avg_pct": -3.14,
+      "us_avg_pct": -3.65,
       "kr_sector": "반도체",
       "kr_tickers": [
         "005930",
@@ -267,7 +267,7 @@
       ],
       "kr_actual_avg_pct": -0.25,
       "beta": 0.65,
-      "predicted_kr_avg_pct": -2.04,
+      "predicted_kr_avg_pct": -2.37,
       "lag_hours": 8
     },
     {
@@ -376,13 +376,13 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.85,
-      "change_pct": -0.94,
+      "price": 17.83,
+      "change_pct": -1.05,
       "label": "VIX"
     },
     "btc": {
-      "price": 76373.49,
-      "change_pct": -0.69,
+      "price": 76355.84,
+      "change_pct": -0.67,
       "label": "BTC"
     }
   },
