@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-04-28T00:13:32.996068+00:00",
+  "fetched_at": "2026-04-28T01:55:40.461832+00:00",
   "us_mood_score": 68,
-  "kr_mood_score": 48,
+  "kr_mood_score": 49,
   "us_mood": "bullish",
   "kr_mood": "neutral",
   "predictions": [
@@ -132,10 +132,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 0.72,
-      "actual_kr_pct": 0.47,
+      "actual_kr_pct": 2.33,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 350.34,
-      "kr_price": 216000.0
+      "kr_price": 220000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -144,10 +144,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 0.6,
-      "actual_kr_pct": 0.31,
+      "actual_kr_pct": 0.83,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 350.34,
-      "kr_price": 48600.0
+      "kr_price": 48850.0
     },
     {
       "us_ticker": "AVGO",
@@ -180,10 +180,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 0.43,
-      "actual_kr_pct": 2.69,
+      "actual_kr_pct": 0.97,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 378.67,
-      "kr_price": 476500.0
+      "kr_price": 468500.0
     },
     {
       "us_ticker": "TSLA",
@@ -192,10 +192,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 0.39,
-      "actual_kr_pct": 3.61,
+      "actual_kr_pct": 1.69,
       "reason": "NCA 양극재 공급",
       "us_price": 378.67,
-      "kr_price": 215000.0
+      "kr_price": 211000.0
     },
     {
       "us_ticker": "TSLA",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.33,
-      "actual_kr_pct": 0.47,
+      "actual_kr_pct": 2.33,
       "reason": "커머스·클라우드 동행",
       "us_price": 261.12,
-      "kr_price": 216000.0
+      "kr_price": 220000.0
     }
   ],
   "sector_coupling": [
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 3.15,
+      "kr_actual_avg_pct": 1.33,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.37,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.39,
+      "kr_actual_avg_pct": 1.58,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.11,
       "lag_hours": 8
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 77397.04,
-      "change_pct": -1.54,
+      "price": 77090,
+      "change_pct": -2.69,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +4.0% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 68/100, KR 무드 48/100."
+  "summary": "미국 NVDA +4.0% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 68/100, KR 무드 49/100."
 }
