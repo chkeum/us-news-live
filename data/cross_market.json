@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-04-28T10:02:14.516405+00:00",
-  "us_mood_score": 66,
+  "fetched_at": "2026-04-28T11:48:53.447608+00:00",
+  "us_mood_score": 64,
   "kr_mood_score": 47,
-  "us_mood": "bullish",
+  "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
     {
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "MSFT",
+      "title": "Market Chatter: OpenAI Misses New Users, Revenue Targets",
+      "title_kr": "시장 잡담: OpenAI가 신규 사용자와 수익 목표를 놓치다",
+      "source": "Yahoo",
+      "published_at": "2026-04-28T09:32:25+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "GOOGL",
       "title": "What To Expect From Alphabet’s (GOOGL) Q1 Earnings",
       "title_kr": "Alphabet(GOOGL)의 1분기 실적에서 기대할 수 있는 사항",
@@ -350,18 +362,6 @@
         "NAVER",
         "하이브"
       ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon (AMZN) Reports Earnings Tomorrow: What To Expect",
-      "title_kr": "Amazon (AMZN), 내일 수익 보고: 예상되는 사항",
-      "source": "Yahoo",
-      "published_at": "2026-04-28T06:36:55+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "삼성전자"
-      ]
     }
   ],
   "macro": {
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 18.34,
-      "change_pct": 1.78,
+      "price": 18.91,
+      "change_pct": 4.94,
       "label": "VIX"
     },
     "btc": {
-      "price": 76645.74,
-      "change_pct": -1.64,
+      "price": 76220.45,
+      "change_pct": -2.02,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +4.0% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 66/100, KR 무드 47/100."
+  "summary": "미국 NVDA +4.0% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 64/100, KR 무드 47/100."
 }
