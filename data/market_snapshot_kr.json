@@ -1,78 +1,78 @@
 {
-  "fetched_at": "2026-04-29T01:58:24.606168+00:00",
+  "fetched_at": "2026-04-29T05:24:06.044262+00:00",
   "kospi": {
-    "price": 6644.12,
-    "change_pct": 0.05,
+    "price": 6668.0,
+    "change_pct": 0.41,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 1212.42,
-    "change_pct": -0.26,
+    "price": 1216.02,
+    "change_pct": 0.04,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 999.13,
-    "change_pct": 0.01,
+    "price": 1002.55,
+    "change_pct": 0.35,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
-      "price": 220500.0,
-      "change_pct": -0.68,
+      "price": 225500.0,
+      "change_pct": 1.58,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
-      "price": 1300000.0,
-      "change_pct": 0.0,
+      "price": 1286000.0,
+      "change_pct": -1.08,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
-      "price": 467500.0,
-      "change_pct": -0.95,
+      "price": 470500.0,
+      "change_pct": -0.32,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
     "005380": {
-      "price": 552000.0,
-      "change_pct": -0.54,
+      "price": 555000.0,
+      "change_pct": 0.0,
       "name": "현대차",
       "code": "005380"
     },
     "035420": {
-      "price": 219750.0,
-      "change_pct": 0.11,
+      "price": 219500.0,
+      "change_pct": 0.0,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
-      "price": 48150.0,
-      "change_pct": -1.43,
+      "price": 48350.0,
+      "change_pct": -1.02,
       "name": "카카오",
       "code": "035720"
     },
     "207940": {
-      "price": 1483000.0,
-      "change_pct": -1.4,
+      "price": 1478000.0,
+      "change_pct": -1.73,
       "name": "삼성바이오로직스",
       "code": "207940"
     },
     "005490": {
-      "price": 468500.0,
-      "change_pct": 0.43,
+      "price": 469000.0,
+      "change_pct": 0.54,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
-      "price": 401000.0,
-      "change_pct": 1.78,
+      "price": 404500.0,
+      "change_pct": 2.66,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
-      "price": 210000.0,
-      "change_pct": -1.64,
+      "price": 210500.0,
+      "change_pct": -1.41,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -81,18 +81,42 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 5,
+      "mentions": 8,
       "surge_pct": 0
     },
     {
       "ticker": "006400",
       "name": "삼성SDI",
-      "mentions": 4,
+      "mentions": 2,
       "surge_pct": 0
     },
     {
-      "ticker": "035720",
-      "name": "카카오",
+      "ticker": "041510",
+      "name": "SM",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "201490",
+      "name": "미투온",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "418250",
+      "name": "시큐레터",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "207940",
+      "name": "삼성바이오로직스",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "005380",
+      "name": "현대자동차",
       "mentions": 2,
       "surge_pct": 0
     },
@@ -103,26 +127,8 @@
       "surge_pct": 0
     },
     {
-      "ticker": "005380",
-      "name": "현대차",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
       "ticker": "090430",
       "name": "아모레퍼시픽",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "034220",
-      "name": "LG디스플레이",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "900260",
-      "name": "로스웰",
       "mentions": 1,
       "surge_pct": 0
     },
@@ -131,15 +137,9 @@
       "name": "두산",
       "mentions": 1,
       "surge_pct": 0
-    },
-    {
-      "ticker": "071950",
-      "name": "코아스",
-      "mentions": 1,
-      "surge_pct": 0
     }
   ],
-  "mood_score": 49,
+  "mood_score": 53,
   "mood": "neutral",
-  "mood_summary": "KOSPI +0.05% · KOSDAQ -0.26%"
+  "mood_summary": "KOSPI +0.41% · KOSDAQ +0.04%"
 }
