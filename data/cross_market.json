@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-04-30T05:25:02.557988+00:00",
-  "us_mood_score": 39,
-  "kr_mood_score": 30,
-  "us_mood": "bearish",
+  "fetched_at": "2026-04-30T07:42:30.777405+00:00",
+  "us_mood_score": 42,
+  "kr_mood_score": 24,
+  "us_mood": "neutral",
   "kr_mood": "bearish",
   "predictions": [
     {
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 2.49,
-      "actual_kr_pct": 0.31,
+      "actual_kr_pct": -0.54,
       "reason": "MI355X용 HBM 공급",
       "us_price": 337.11,
-      "kr_price": 1297000.0
+      "kr_price": 1286000.0
     },
     {
       "us_ticker": "MSTR",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.32,
-      "actual_kr_pct": 0.31,
+      "actual_kr_pct": -0.54,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 209.25,
-      "kr_price": 1297000.0
+      "kr_price": 1286000.0
     },
     {
       "us_ticker": "MRVL",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.98,
-      "actual_kr_pct": 0.31,
+      "actual_kr_pct": -0.54,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 156.57,
-      "kr_price": 1297000.0
+      "kr_price": 1286000.0
     },
     {
       "us_ticker": "NVDA",
@@ -132,10 +132,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.96,
-      "actual_kr_pct": -1.11,
+      "actual_kr_pct": -2.43,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 209.25,
-      "kr_price": 223500.0
+      "kr_price": 220500.0
     },
     {
       "us_ticker": "AVGO",
@@ -156,10 +156,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 0.59,
-      "actual_kr_pct": 0.31,
+      "actual_kr_pct": -0.54,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 405.45,
-      "kr_price": 1297000.0
+      "kr_price": 1286000.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.58,
-      "actual_kr_pct": -2.33,
+      "actual_kr_pct": -2.64,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 372.8,
-      "kr_price": 462000.0
+      "kr_price": 460500.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.53,
-      "actual_kr_pct": -2.35,
+      "actual_kr_pct": -3.06,
       "reason": "NCA 양극재 공급",
       "us_price": 372.8,
-      "kr_price": 207500.0
+      "kr_price": 206000.0
     },
     {
       "us_ticker": "TSLA",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -0.4,
+      "kr_actual_avg_pct": -1.49,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.98,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -2.34,
+      "kr_actual_avg_pct": -2.85,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.5,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -3.33,
+      "kr_actual_avg_pct": -3.18,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.01,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "GOOGL",
+      "title": "Microsoft, Meta, and Google just announced billions more in AI spending. Only Google convinced investors it’s paying off",
+      "title_kr": "Microsoft, Meta 및 Google은 AI 지출에 수십억 달러를 추가로 발표했습니다. 오직 Google만이 투자자들에게 성과가 있다고 확신했습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-04-30T01:17:12+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "AMZN",
       "title": "Viomi Technology Highlights FY2025 Revenue Growth, Dividend and Overseas Push at Deutsche Bank Conference",
       "title_kr": "Viomi Technology, Deutsche Bank 컨퍼런스에서 2025 회계연도 수익 성장, 배당금 및 해외 추진 강조",
@@ -350,18 +362,6 @@
         "NAVER",
         "하이브"
       ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Alphabet beats expectations fueled by Cloud and AI surge",
-      "title_kr": "알파벳, 클라우드와 AI 급증에 힘입어 기대치를 상회",
-      "source": "Finnhub",
-      "published_at": "2026-04-30T01:08:45+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
     }
   ],
   "macro": {
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 18.81,
-      "change_pct": 5.5,
+      "price": 18.68,
+      "change_pct": -0.69,
       "label": "VIX"
     },
     "btc": {
-      "price": 75532.15,
-      "change_pct": -2.23,
+      "price": 76048.69,
+      "change_pct": -1.44,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +4.3% → 한미반도체 개장 상방 압력 예상 (+2.9% 전후). US 무드 39/100, KR 무드 30/100."
+  "summary": "미국 AMD +4.3% → 한미반도체 개장 상방 압력 예상 (+2.9% 전후). US 무드 42/100, KR 무드 24/100."
 }
