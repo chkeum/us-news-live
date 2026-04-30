@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-04-29T23:41:18.746262+00:00",
+  "fetched_at": "2026-04-30T01:23:11.120894+00:00",
   "us_mood_score": 39,
-  "kr_mood_score": 50,
+  "kr_mood_score": 43,
   "us_mood": "bearish",
   "kr_mood": "neutral",
   "predictions": [
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 2.49,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.01,
       "reason": "MI355X용 HBM 공급",
       "us_price": 337.11,
-      "kr_price": 1293000.0
+      "kr_price": 1306000.0
     },
     {
       "us_ticker": "MSTR",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.32,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.01,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 209.25,
-      "kr_price": 1293000.0
+      "kr_price": 1306000.0
     },
     {
       "us_ticker": "MRVL",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.98,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.01,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 156.57,
-      "kr_price": 1293000.0
+      "kr_price": 1306000.0
     },
     {
       "us_ticker": "NVDA",
@@ -132,10 +132,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.96,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.11,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 209.25,
-      "kr_price": 226000.0
+      "kr_price": 225750.0
     },
     {
       "us_ticker": "AVGO",
@@ -156,10 +156,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 0.59,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.01,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 405.45,
-      "kr_price": 1293000.0
+      "kr_price": 1306000.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.58,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.8,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 372.8,
-      "kr_price": 473000.0
+      "kr_price": 464500.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.53,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -2.12,
       "reason": "NCA 양극재 공급",
       "us_price": 372.8,
-      "kr_price": 212500.0
+      "kr_price": 208000.0
     },
     {
       "us_ticker": "TSLA",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.39,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -3.18,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 424.46,
-      "kr_price": 220000.0
+      "kr_price": 213000.0
     },
     {
       "us_ticker": "AMZN",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.39,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -3.18,
       "reason": "커머스·클라우드 동행",
       "us_price": 263.04,
-      "kr_price": 220000.0
+      "kr_price": 213000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 0.45,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.98,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.96,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.5,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -2.52,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.01,
       "lag_hours": 8
@@ -328,23 +328,11 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "MSFT",
-      "title": "LinkedIn's AI hiring agents on track for $450 million in yearly revenue",
-      "title_kr": "LinkedIn의 AI 채용 에이전트, 연간 수익 4억 5천만 달러 달성",
-      "source": "Yahoo",
-      "published_at": "2026-04-29T21:45:56+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "title": "Dow Jones Futures: Google, Amazon, Meta, Microsoft Are Big Earnings Movers After Oil Prices Spike, Fed's Powell Stays",
-      "title_kr": "다우존스 선물: Google, Amazon, Meta, Microsoft는 유가 급등 이후 큰 수익을 창출하고 있으며 Fed의 Powell은 그대로 유지됩니다.",
+      "title": "Highlights from Meta's earnings call",
+      "title_kr": "Meta의 실적 발표 하이라이트",
       "source": "Yahoo",
-      "published_at": "2026-04-29T21:43:59+00:00",
+      "published_at": "2026-04-29T23:42:18+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -352,11 +340,23 @@
       ]
     },
     {
-      "ticker": "META",
-      "title": "Meta beats revenue expectations, boosts capital spending forecast for 2026",
-      "title_kr": "Meta는 수익 기대치를 상회하고 2026년 자본 지출 예측을 향상시킵니다.",
+      "ticker": "GOOGL",
+      "title": "Alphabet GOOGL Q1 2026 Earnings Call Transcript",
+      "title_kr": "알파벳 GOOGL 2026년 1분기 실적 통화 기록",
       "source": "Yahoo",
-      "published_at": "2026-04-29T21:38:13+00:00",
+      "published_at": "2026-04-29T23:40:30+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Stock market today: S&P 500, Nasdaq, Dow futures mixed with earnings season in full swing, Fed in focus",
+      "title_kr": "오늘의 주식 시장: S&P 500, Nasdaq, Dow 선물이 혼합되어 실적 시즌이 본격화되고 연준이 초점을 맞춥니다.",
+      "source": "Yahoo",
+      "published_at": "2026-04-29T23:31:15+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -377,14 +377,14 @@
     },
     "vix": {
       "price": 18.81,
-      "change_pct": 5.5,
+      "change_pct": 4.38,
       "label": "VIX"
     },
     "btc": {
-      "price": 75857.66,
-      "change_pct": -0.57,
+      "price": 76215,
+      "change_pct": -0.05,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +4.3% → 한미반도체 개장 상방 압력 예상 (+2.9% 전후). US 무드 39/100, KR 무드 50/100."
+  "summary": "미국 AMD +4.3% → 한미반도체 개장 상방 압력 예상 (+2.9% 전후). US 무드 39/100, KR 무드 43/100."
 }
