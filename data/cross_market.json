@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-01T01:58:58.629124+00:00",
+  "fetched_at": "2026-05-01T05:40:39.274947+00:00",
   "us_mood_score": 67,
   "kr_mood_score": 24,
   "us_mood": "bullish",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "MSFT",
-      "title": "Five9 Q1 Earnings Call Highlights",
-      "title_kr": "Five9 1분기 실적발표 하이라이트",
+      "ticker": "AMZN",
+      "title": "Upbound Group Q1 Earnings Call Highlights",
+      "title_kr": "업바운드 그룹 1분기 실적 통화 하이라이트",
       "source": "Yahoo",
-      "published_at": "2026-04-30T23:21:12+00:00",
+      "published_at": "2026-05-01T03:36:18+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "삼성전자"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Stagwell Q1 Earnings Call Highlights",
+      "title_kr": "Stagwell Q1 실적 회의 하이라이트",
+      "source": "Yahoo",
+      "published_at": "2026-05-01T02:42:06+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -340,23 +352,11 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Apple Q2 Earnings Call Highlights",
-      "title_kr": "Apple Q2 실적 발표 하이라이트",
-      "source": "Yahoo",
-      "published_at": "2026-04-30T23:21:10+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "삼성전자",
-        "SK하이닉스"
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "title": "Here's Why This Remains My Least Favorite \"Magnificent Seven\" Stock -- Even After a Strong Earnings Report",
-      "title_kr": "이것이 내가 가장 선호하지 않는 \"Magnificent Seven\" 주식으로 남아 있는 이유는 다음과 같습니다. -- 강력한 수익 보고서 이후에도",
+      "title": "The Incredible Number Hiding in Microsoft’s Earnings Report",
+      "title_kr": "Microsoft의 수익 보고서에 숨겨진 놀라운 숫자",
       "source": "Yahoo",
-      "published_at": "2026-04-30T22:36:00+00:00",
+      "published_at": "2026-05-01T01:19:20+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 76717.56,
-      "change_pct": 0.59,
+      "price": 77106.21,
+      "change_pct": 1.86,
       "label": "BTC"
     }
   },
