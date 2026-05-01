@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-05-01T05:40:39.274947+00:00",
-  "us_mood_score": 67,
+  "fetched_at": "2026-05-01T07:53:25.884782+00:00",
+  "us_mood_score": 61,
   "kr_mood_score": 24,
-  "us_mood": "bullish",
+  "us_mood": "neutral",
   "kr_mood": "bearish",
   "predictions": [
     {
@@ -328,6 +328,30 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "NVDA",
+      "title": "Is This AI Stock a Buy After a Game-Changing Earnings Report?",
+      "title_kr": "이 AI 주식은 판도를 바꾸는 수익 보고서 이후 매수인가?",
+      "source": "Yahoo",
+      "published_at": "2026-05-01T04:12:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Xcel Energy Q1 Earnings Call Highlights",
+      "title_kr": "Xcel Energy 1분기 실적 발표 하이라이트",
+      "source": "Yahoo",
+      "published_at": "2026-05-01T04:07:52+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "AMZN",
       "title": "Upbound Group Q1 Earnings Call Highlights",
       "title_kr": "업바운드 그룹 1분기 실적 통화 하이라이트",
@@ -337,30 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "삼성전자"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Stagwell Q1 Earnings Call Highlights",
-      "title_kr": "Stagwell Q1 실적 회의 하이라이트",
-      "source": "Yahoo",
-      "published_at": "2026-05-01T02:42:06+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "The Incredible Number Hiding in Microsoft’s Earnings Report",
-      "title_kr": "Microsoft의 수익 보고서에 숨겨진 놀라운 숫자",
-      "source": "Yahoo",
-      "published_at": "2026-05-01T01:19:20+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.89,
-      "change_pct": -10.21,
+      "price": 17.04,
+      "change_pct": 0.89,
       "label": "VIX"
     },
     "btc": {
-      "price": 77106.21,
-      "change_pct": 1.86,
+      "price": 77116.65,
+      "change_pct": 1.36,
       "label": "BTC"
     }
   },
-  "summary": "미국 GOOGL +10.0% → 한미반도체 개장 상방 압력 예상 (+4.8% 전후). US 무드 67/100, KR 무드 24/100."
+  "summary": "미국 GOOGL +10.0% → 한미반도체 개장 상방 압력 예상 (+4.8% 전후). US 무드 61/100, KR 무드 24/100."
 }
