@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T17:11:50.339439+00:00",
+  "fetched_at": "2026-05-02T18:07:11.523349+00:00",
   "us_mood_score": 68,
   "kr_mood_score": 24,
   "us_mood": "bullish",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "META",
-      "title": "USA Today Q1 Earnings Call Highlights",
-      "title_kr": "USA Today 1분기 실적 발표 하이라이트",
+      "ticker": "NVDA",
+      "title": "Elon Musk Just Announced Fanastic News to Nvidia Stock Investors",
+      "title_kr": "Elon Musk는 Nvidia 주식 투자자들에게 환상적인 소식을 발표했습니다.",
       "source": "Yahoo",
-      "published_at": "2026-05-02T14:27:03+00:00",
+      "published_at": "2026-05-02T17:20:00+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Here's the Real Problem With Meta's Latest Earnings Report",
+      "title_kr": "Meta의 최신 수익 보고서의 실제 문제는 다음과 같습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-05-02T15:56:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "LG에너지솔루션",
         "에코프로비엠"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "How Much Is AMD Stock Expected to Move After Earnings?",
-      "title_kr": "AMD 주식은 수익 후 얼마나 움직일 것으로 예상됩니까?",
-      "source": "Yahoo",
-      "published_at": "2026-05-02T10:15:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 78448.58,
-      "change_pct": 0.28,
+      "price": 78344.88,
+      "change_pct": -0.27,
       "label": "BTC"
     }
   },
