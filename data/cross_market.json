@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-02T10:40:15.716402+00:00",
+  "fetched_at": "2026-05-02T11:36:20.769118+00:00",
   "us_mood_score": 68,
   "kr_mood_score": 24,
   "us_mood": "bullish",
@@ -328,6 +328,30 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "AAPL",
+      "title": "Apple shares soar after record quarterly revenue",
+      "title_kr": "Apple 주가는 분기별 기록적인 매출 이후 급등했습니다.",
+      "source": "Finnhub",
+      "published_at": "2026-05-02T07:01:07+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "삼성전자",
+        "SK하이닉스"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "title": "Palantir Q1 Earnings Preview: A Make Or Break Moment For The Bull Case",
+      "title_kr": "Palantir Q1 수익 미리 보기: 황소 사건의 성공 또는 중단 순간",
+      "source": "SeekingAlpha",
+      "published_at": "2026-05-02T06:27:50+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "한화에어로스페이스",
+        "LIG넥스원"
+      ]
+    },
+    {
       "ticker": "META",
       "title": "Here’s What Jim Cramer Had Said About Meta (META) Before Its Earnings",
       "title_kr": "Jim Cramer가 수익을 내기 전에 Meta(META)에 대해 말한 내용은 다음과 같습니다.",
@@ -337,30 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "하이브"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "OGE Energy Q1 Earnings Call Highlights",
-      "title_kr": "OGE 에너지 1분기 실적 발표 하이라이트",
-      "source": "Yahoo",
-      "published_at": "2026-05-02T05:05:47+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Amazon, Alphabet, Microsoft, Meta, and Apple Just Reported Earnings. I Think This Was the Best Report of Them All.",
-      "title_kr": "Amazon, Alphabet, Microsoft, Meta 및 Apple이 방금 수익을 보고했습니다. 내 생각에는 이것이 최고의 보고서였다고 생각합니다.",
-      "source": "Yahoo",
-      "published_at": "2026-05-02T01:52:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 78254.74,
-      "change_pct": 1.27,
+      "price": 78171,
+      "change_pct": 1.05,
       "label": "BTC"
     }
   },
