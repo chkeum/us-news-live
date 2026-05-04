@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-03T23:09:02.994061+00:00",
+  "fetched_at": "2026-05-04T00:08:47.651266+00:00",
   "us_mood_score": 68,
-  "kr_mood_score": 50,
+  "kr_mood_score": 81,
   "us_mood": "bullish",
-  "kr_mood": "neutral",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "MSTR",
@@ -24,10 +24,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.64,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.74,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 390.82,
-      "kr_price": 460500.0
+      "kr_price": 468500.0
     },
     {
       "us_ticker": "MSTR",
@@ -48,10 +48,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.49,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.61,
       "reason": "NCA 양극재 공급",
       "us_price": 390.82,
-      "kr_price": 206000.0
+      "kr_price": 215500.0
     },
     {
       "us_ticker": "TSLA",
@@ -108,10 +108,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 0.99,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.43,
       "reason": "MI355X용 HBM 공급",
       "us_price": 360.54,
-      "kr_price": 1286000.0
+      "kr_price": 1343000.0
     },
     {
       "us_ticker": "MSFT",
@@ -120,10 +120,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 0.57,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.47,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 414.44,
-      "kr_price": 211000.0
+      "kr_price": 210000.0
     },
     {
       "us_ticker": "MSFT",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.4,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.43,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 198.45,
-      "kr_price": 1286000.0
+      "kr_price": 1343000.0
     },
     {
       "us_ticker": "AVGO",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 0.39,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.43,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 421.28,
-      "kr_price": 1286000.0
+      "kr_price": 1343000.0
     },
     {
       "us_ticker": "AMZN",
@@ -204,10 +204,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.36,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.47,
       "reason": "커머스·클라우드 동행",
       "us_price": 268.26,
-      "kr_price": 211000.0
+      "kr_price": 210000.0
     },
     {
       "us_ticker": "AMZN",
@@ -216,10 +216,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": 0.34,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.49,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 268.26,
-      "kr_price": 220500.0
+      "kr_price": 226000.0
     },
     {
       "us_ticker": "NVDA",
@@ -228,10 +228,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.29,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.49,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 198.45,
-      "kr_price": 220500.0
+      "kr_price": 226000.0
     },
     {
       "us_ticker": "META",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.2,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.47,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 608.75,
-      "kr_price": 211000.0
+      "kr_price": 210000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 3.46,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.32,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 3.18,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.4,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -0.23,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.24,
       "lag_hours": 8
@@ -340,6 +340,18 @@
       ]
     },
     {
+      "ticker": "PLTR",
+      "title": "What To Expect From Palantir Technologies’s (PLTR) Q1 Earnings",
+      "title_kr": "Palantir Technologies(PLTR)의 1분기 수익에서 기대할 사항",
+      "source": "Yahoo",
+      "published_at": "2026-05-03T22:04:55+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "한화에어로스페이스",
+        "LIG넥스원"
+      ]
+    },
+    {
       "ticker": "MSFT",
       "title": "A Look At Gen Digital (GEN) Valuation As AI Security Launches Follow Strong Q3 FY2026 Results And Growth Guidance",
       "title_kr": "AI 보안 출시에 따른 Gen Digital(GEN) 가치 평가에서 강력한 2026 회계연도 3분기 결과 및 성장 지침 따르기",
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "카카오"
-      ]
-    },
-    {
-      "ticker": "MSTR",
-      "title": "MicroStrategy Pauses Bitcoin Buys Ahead of May 5 Q1 Earnings",
-      "title_kr": "MicroStrategy, 5월 5일 1분기 실적을 앞두고 비트코인 ​​구매를 일시 중지",
-      "source": "Yahoo",
-      "published_at": "2026-05-03T18:08:37+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "카카오게임즈",
-        "위메이드"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 79144.55,
-      "change_pct": 0.58,
+      "price": 78513.36,
+      "change_pct": -0.15,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR +7.1% → 위메이드 개장 상방 압력 예상 (+2.5% 전후). US 무드 68/100, KR 무드 50/100."
+  "summary": "미국 MSTR +7.1% → 위메이드 개장 상방 압력 예상 (+2.5% 전후). US 무드 68/100, KR 무드 81/100."
 }
