@@ -1,78 +1,78 @@
 {
-  "fetched_at": "2026-05-04T00:08:47.595838+00:00",
+  "fetched_at": "2026-05-04T01:51:54.850808+00:00",
   "kospi": {
-    "price": 6759.83,
-    "change_pct": 2.44,
+    "price": 6834.41,
+    "change_pct": 3.57,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 1216.78,
-    "change_pct": 2.05,
+    "price": 1214.72,
+    "change_pct": 1.88,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 1018.59,
-    "change_pct": 2.66,
+    "price": 1030.91,
+    "change_pct": 3.91,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
-      "price": 226000.0,
-      "change_pct": 2.49,
+      "price": 227500.0,
+      "change_pct": 3.17,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
-      "price": 1343000.0,
-      "change_pct": 4.43,
+      "price": 1392000.0,
+      "change_pct": 8.24,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
-      "price": 468500.0,
-      "change_pct": 1.74,
+      "price": 472000.0,
+      "change_pct": 2.5,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
     "005380": {
-      "price": 537000.0,
-      "change_pct": 1.13,
+      "price": 541000.0,
+      "change_pct": 1.88,
       "name": "현대차",
       "code": "005380"
     },
     "035420": {
-      "price": 210000.0,
-      "change_pct": -0.47,
+      "price": 209500.0,
+      "change_pct": -0.71,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
-      "price": 47300.0,
-      "change_pct": 0.0,
+      "price": 47200.0,
+      "change_pct": -0.21,
       "name": "카카오",
       "code": "035720"
     },
     "207940": {
-      "price": 1466000.0,
-      "change_pct": -0.27,
+      "price": 1463000.0,
+      "change_pct": -0.48,
       "name": "삼성바이오로직스",
       "code": "207940"
     },
     "005490": {
-      "price": 499000.0,
-      "change_pct": 8.01,
+      "price": 508000.0,
+      "change_pct": 9.96,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
-      "price": 412000.0,
-      "change_pct": 3.78,
+      "price": 433500.0,
+      "change_pct": 9.19,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
-      "price": 215500.0,
-      "change_pct": 4.61,
+      "price": 213000.0,
+      "change_pct": 3.4,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -81,13 +81,31 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 15,
+      "mentions": 11,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "000660",
+      "name": "SK하이닉스",
+      "mentions": 4,
       "surge_pct": 0
     },
     {
       "ticker": "207940",
       "name": "삼성바이오로직스",
-      "mentions": 5,
+      "mentions": 4,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "259960",
+      "name": "크래프톤",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "215570",
+      "name": "크로넥스",
+      "mentions": 1,
       "surge_pct": 0
     },
     {
@@ -103,43 +121,25 @@
       "surge_pct": 0
     },
     {
-      "ticker": "012450",
-      "name": "한화에어로스페이스",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
       "ticker": "041510",
       "name": "SM",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "064850",
-      "name": "에프앤가이드",
+      "ticker": "008770",
+      "name": "호텔신라",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "0070X0",
-      "name": "에스테크엠",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "054540",
-      "name": "삼영엠텍",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "035760",
-      "name": "CJ ENM",
+      "ticker": "275630",
+      "name": "에스에스알",
       "mentions": 1,
       "surge_pct": 0
     }
   ],
-  "mood_score": 81,
+  "mood_score": 88,
   "mood": "bullish",
-  "mood_summary": "KOSPI +2.44% · KOSDAQ +2.05%"
+  "mood_summary": "KOSPI +3.57% · KOSDAQ +1.88%"
 }
