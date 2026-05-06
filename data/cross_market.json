@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-05-06T01:51:44.477267+00:00",
+  "fetched_at": "2026-05-06T05:21:37.654632+00:00",
   "us_mood_score": 60,
-  "kr_mood_score": 88,
+  "kr_mood_score": 89,
   "us_mood": "neutral",
   "kr_mood": "bullish",
   "predictions": [
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 2.33,
-      "actual_kr_pct": 10.09,
+      "actual_kr_pct": 10.64,
       "reason": "MI355X용 HBM 공급",
       "us_price": 355.26,
-      "kr_price": 1593000.0
+      "kr_price": 1601000.0
     },
     {
       "us_ticker": "MRVL",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.4,
-      "actual_kr_pct": 10.09,
+      "actual_kr_pct": 10.64,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 168.75,
-      "kr_price": 1593000.0
+      "kr_price": 1601000.0
     },
     {
       "us_ticker": "AVGO",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.1,
-      "actual_kr_pct": 10.09,
+      "actual_kr_pct": 10.64,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 427.36,
-      "kr_price": 1593000.0
+      "kr_price": 1601000.0
     },
     {
       "us_ticker": "NVDA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.72,
-      "actual_kr_pct": 10.09,
+      "actual_kr_pct": 10.64,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 196.5,
-      "kr_price": 1593000.0
+      "kr_price": 1601000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -156,10 +156,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 0.57,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.72,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 388.43,
-      "kr_price": 209000.0
+      "kr_price": 207500.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.54,
-      "actual_kr_pct": 1.27,
+      "actual_kr_pct": 2.01,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 389.37,
-      "kr_price": 478000.0
+      "kr_price": 481500.0
     },
     {
       "us_ticker": "NVDA",
@@ -180,10 +180,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.52,
-      "actual_kr_pct": 11.83,
+      "actual_kr_pct": 14.52,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 196.5,
-      "kr_price": 260000.0
+      "kr_price": 266250.0
     },
     {
       "us_ticker": "TSLA",
@@ -192,10 +192,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.5,
-      "actual_kr_pct": 1.86,
+      "actual_kr_pct": 4.06,
       "reason": "NCA 양극재 공급",
       "us_price": 389.37,
-      "kr_price": 219500.0
+      "kr_price": 224250.0
     },
     {
       "us_ticker": "GOOGL",
@@ -204,10 +204,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 0.47,
-      "actual_kr_pct": -0.32,
+      "actual_kr_pct": -1.8,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 388.43,
-      "kr_price": 46950.0
+      "kr_price": 46250.0
     },
     {
       "us_ticker": "TSLA",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 10.96,
+      "kr_actual_avg_pct": 12.58,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.42,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 1.56,
+      "kr_actual_avg_pct": 3.03,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.46,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.16,
+      "kr_actual_avg_pct": -1.26,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.04,
       "lag_hours": 8
@@ -328,23 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "GOOGL",
-      "title": "Dow Jones Futures Rise; Trump Hits Hormuz Pause; AMD, Lumentum, Arista Lead AI Earnings Movers",
-      "title_kr": "다우존스 선물 상승; 트럼프, 호르무즈 일시 정지 공격; AMD, Lumentum, Arista 선두 AI 수익 변동자",
+      "ticker": "MSTR",
+      "title": "Strategy Q1 Earnings Call Highlights",
+      "title_kr": "전략 1분기 실적발표 하이라이트",
       "source": "Yahoo",
-      "published_at": "2026-05-05T23:48:24+00:00",
+      "published_at": "2026-05-06T01:35:47+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "NAVER",
-        "카카오"
+        "카카오게임즈",
+        "위메이드"
       ]
     },
     {
-      "ticker": "AMD",
-      "title": "Advanced Micro Devices Q1 Earnings Call Highlights",
-      "title_kr": "Advanced Micro Devices 1분기 실적 발표 하이라이트",
+      "ticker": "NVDA",
+      "title": "Lumentum Q3 Earnings Call Highlights",
+      "title_kr": "Lumentum 3분기 실적 통화 하이라이트",
       "source": "Yahoo",
-      "published_at": "2026-05-05T23:43:17+00:00",
+      "published_at": "2026-05-06T01:35:46+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -353,10 +353,10 @@
     },
     {
       "ticker": "PLTR",
-      "title": "After Palantir's Blowout Earnings Report, Is the Stock a Buy, a Hold, or a Sell?",
-      "title_kr": "Palantir의 폭발적인 수익 보고서 이후 주식은 매수인가요, 보류인가요, 아니면 매도인가요?",
+      "title": "Palantir Stock Is Taking a Hit: These Key Figures From the AI Company's Earnings Report Highlight Why I'm Still Not Buying",
+      "title_kr": "Palantir 주식이 타격을 입고 있습니다: AI 회사 수익 보고서의 주요 수치는 제가 아직도 매수하지 않는 이유를 강조합니다",
       "source": "Yahoo",
-      "published_at": "2026-05-05T22:30:00+00:00",
+      "published_at": "2026-05-06T01:31:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "한화에어로스페이스",
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 81440.08,
-      "change_pct": 1.34,
+      "price": 81254.33,
+      "change_pct": 0.44,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +4.0% → 한미반도체 개장 상방 압력 예상 (+2.7% 전후). US 무드 60/100, KR 무드 88/100."
+  "summary": "미국 AMD +4.0% → 한미반도체 개장 상방 압력 예상 (+2.7% 전후). US 무드 60/100, KR 무드 89/100."
 }
