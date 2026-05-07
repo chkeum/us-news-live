@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-05-06T23:13:16.697726+00:00",
+  "fetched_at": "2026-05-07T00:05:23.160919+00:00",
   "us_mood_score": 82,
-  "kr_mood_score": 50,
+  "kr_mood_score": 57,
   "us_mood": "bullish",
   "kr_mood": "neutral",
   "predictions": [
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 10.79,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.62,
       "reason": "MI355X용 HBM 공급",
       "us_price": 421.39,
-      "kr_price": 1601000.0
+      "kr_price": 1643000.0
     },
     {
       "us_ticker": "NVDA",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 4.15,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.62,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 207.83,
-      "kr_price": 1601000.0
+      "kr_price": 1643000.0
     },
     {
       "us_ticker": "NVDA",
@@ -72,10 +72,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 3.0,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.07,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 207.83,
-      "kr_price": 266000.0
+      "kr_price": 271500.0
     },
     {
       "us_ticker": "TSLA",
@@ -84,10 +84,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.63,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.56,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 398.73,
-      "kr_price": 482000.0
+      "kr_price": 474500.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 1.04,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.48,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 398.04,
-      "kr_price": 208000.0
+      "kr_price": 209000.0
     },
     {
       "us_ticker": "MRVL",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.9,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.62,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 172.15,
-      "kr_price": 1601000.0
+      "kr_price": 1643000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -204,10 +204,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 0.86,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.51,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 398.04,
-      "kr_price": 46300.0
+      "kr_price": 47000.0
     },
     {
       "us_ticker": "META",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 0.5,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.48,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 612.88,
-      "kr_price": 208000.0
+      "kr_price": 209000.0
     },
     {
       "us_ticker": "META",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 2.34,
       "beta": 0.65,
       "predicted_kr_avg_pct": 4.22,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -0.78,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.39,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 0.99,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.47,
       "lag_hours": 8
@@ -328,23 +328,11 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "MSFT",
-      "title": "Forrester Research Q1 Earnings Call Highlights",
-      "title_kr": "Forrester Research 1분기 실적 발표 하이라이트",
-      "source": "Yahoo",
-      "published_at": "2026-05-06T21:44:46+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "title": "Dow Jones Futures: Stock Market Hits Highs On Iran-Deal Hopes; Nvidia Leads New Buys; ARM Is Big Earnings Mover",
-      "title_kr": "다우존스 선물: 이란 거래 희망으로 주식시장 최고치 기록; Nvidia가 신규 구매를 주도합니다. ARM은 큰 수익을 창출하는 원동력입니다",
+      "title": "ARM Q4 Earnings Call Highlights",
+      "title_kr": "ARM Q4 실적발표 하이라이트",
       "source": "Yahoo",
-      "published_at": "2026-05-06T21:36:12+00:00",
+      "published_at": "2026-05-06T22:59:42+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -353,14 +341,26 @@
     },
     {
       "ticker": "AMD",
-      "title": "Arm Stock Jumps on Earnings. It’s More Good News for Chips.",
-      "title_kr": "암 재고가 수익에 급등합니다. 칩에게는 더 좋은 소식입니다.",
+      "title": "Arm Stock Takes Wild Ride After Earnings. Demand Might Be Too Strong to Meet.",
+      "title_kr": "Arm Stock은 수익 이후 급등세를 보이고 있습니다. 수요가 너무 강해서 충족할 수 없을 수도 있습니다.",
       "source": "Yahoo",
-      "published_at": "2026-05-06T20:57:00+00:00",
+      "published_at": "2026-05-06T21:58:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "AppLovin shares surge after strong earnings fueled by high ad demand",
+      "title_kr": "높은 광고 수요에 힘입어 높은 실적을 거둔 후 AppLovin 주가 급등",
+      "source": "Yahoo",
+      "published_at": "2026-05-06T21:55:19+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 81263.66,
-      "change_pct": 0.06,
+      "price": 81476.91,
+      "change_pct": 0.51,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +18.6% → 한미반도체 개장 상방 압력 예상 (+12.7% 전후). US 무드 82/100, KR 무드 50/100."
+  "summary": "미국 AMD +18.6% → 한미반도체 개장 상방 압력 예상 (+12.7% 전후). US 무드 82/100, KR 무드 57/100."
 }
