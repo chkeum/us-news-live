@@ -1,11 +1,15 @@
 {
-  "fetched_at": "2026-05-07T08:05:52.694911+00:00",
+  "fetched_at": "2026-05-07T10:35:22.766067+00:00",
   "kospi": {
     "price": 7490.05,
     "change_pct": 1.43,
     "label": "KOSPI"
   },
-  "kosdaq": null,
+  "kosdaq": {
+    "price": 1199.18,
+    "change_pct": -0.91,
+    "label": "KOSDAQ"
+  },
   "kospi200": {
     "price": 1149.86,
     "change_pct": 1.79,
@@ -23,6 +27,12 @@
       "change_pct": 3.31,
       "name": "SK하이닉스",
       "code": "000660"
+    },
+    "373220": {
+      "price": 483000.0,
+      "change_pct": 0.21,
+      "name": "LG에너지솔루션",
+      "code": "373220"
     },
     "005380": {
       "price": 572000.0,
@@ -54,6 +64,12 @@
       "name": "포스코홀딩스",
       "code": "005490"
     },
+    "051910": {
+      "price": 425000.0,
+      "change_pct": 0.35,
+      "name": "LG화학",
+      "code": "051910"
+    },
     "247540": {
       "price": 235500.0,
       "change_pct": 3.06,
@@ -65,7 +81,7 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 6,
+      "mentions": 7,
       "surge_pct": 0
     },
     {
@@ -76,14 +92,14 @@
     },
     {
       "ticker": "005380",
-      "name": "현대차",
-      "mentions": 3,
+      "name": "현대자동차",
+      "mentions": 4,
       "surge_pct": 0
     },
     {
       "ticker": "030200",
       "name": "KT",
-      "mentions": 2,
+      "mentions": 3,
       "surge_pct": 0
     },
     {
@@ -93,37 +109,37 @@
       "surge_pct": 0
     },
     {
-      "ticker": "034020",
-      "name": "두산에너빌리티",
-      "mentions": 1,
+      "ticker": "196490",
+      "name": "디에이테크놀로지",
+      "mentions": 2,
       "surge_pct": 0
     },
     {
       "ticker": "000150",
       "name": "두산",
-      "mentions": 1,
+      "mentions": 2,
       "surge_pct": 0
     },
     {
       "ticker": "041510",
       "name": "SM",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "204210",
+      "name": "스타에스엠리츠",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "329180",
-      "name": "HD현대중공업",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "000270",
-      "name": "기아",
+      "ticker": "080530",
+      "name": "코디",
       "mentions": 1,
       "surge_pct": 0
     }
   ],
-  "mood_score": 60,
+  "mood_score": 54,
   "mood": "neutral",
-  "mood_summary": "지수 체크 중"
+  "mood_summary": "KOSPI +1.43% · KOSDAQ -0.91%"
 }
