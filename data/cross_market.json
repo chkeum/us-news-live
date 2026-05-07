@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-05-07T05:24:52.082687+00:00",
+  "fetched_at": "2026-05-07T08:05:52.744390+00:00",
   "us_mood_score": 82,
-  "kr_mood_score": 50,
+  "kr_mood_score": 60,
   "us_mood": "bullish",
   "kr_mood": "neutral",
   "predictions": [
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 10.79,
-      "actual_kr_pct": 2.72,
+      "actual_kr_pct": 3.31,
       "reason": "MI355X용 HBM 공급",
       "us_price": 421.39,
-      "kr_price": 1644500.0
+      "kr_price": 1654000.0
     },
     {
       "us_ticker": "NVDA",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 4.15,
-      "actual_kr_pct": 2.72,
+      "actual_kr_pct": 3.31,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 207.83,
-      "kr_price": 1644500.0
+      "kr_price": 1654000.0
     },
     {
       "us_ticker": "NVDA",
@@ -72,10 +72,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 3.0,
-      "actual_kr_pct": 1.32,
+      "actual_kr_pct": 2.07,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 207.83,
-      "kr_price": 269500.0
+      "kr_price": 271500.0
     },
     {
       "us_ticker": "TSLA",
@@ -84,10 +84,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.63,
-      "actual_kr_pct": -0.73,
+      "actual_kr_pct": null,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 398.73,
-      "kr_price": 478500.0
+      "kr_price": null
     },
     {
       "us_ticker": "TSLA",
@@ -96,10 +96,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.49,
-      "actual_kr_pct": 2.63,
+      "actual_kr_pct": 3.06,
       "reason": "NCA 양극재 공급",
       "us_price": 398.73,
-      "kr_price": 234500.0
+      "kr_price": 235500.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 1.04,
-      "actual_kr_pct": -0.72,
+      "actual_kr_pct": -0.24,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 398.04,
-      "kr_price": 206500.0
+      "kr_price": 207500.0
     },
     {
       "us_ticker": "MRVL",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.9,
-      "actual_kr_pct": 2.72,
+      "actual_kr_pct": 3.31,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 172.15,
-      "kr_price": 1644500.0
+      "kr_price": 1654000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -204,10 +204,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 0.86,
-      "actual_kr_pct": -2.81,
+      "actual_kr_pct": -2.27,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 398.04,
-      "kr_price": 45000.0
+      "kr_price": 45250.0
     },
     {
       "us_ticker": "META",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 0.5,
-      "actual_kr_pct": -0.72,
+      "actual_kr_pct": -0.24,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 612.88,
-      "kr_price": 206500.0
+      "kr_price": 207500.0
     },
     {
       "us_ticker": "META",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 2.02,
+      "kr_actual_avg_pct": 2.69,
       "beta": 0.65,
       "predicted_kr_avg_pct": 4.22,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.95,
+      "kr_actual_avg_pct": 3.06,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.39,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -1.77,
+      "kr_actual_avg_pct": -1.25,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.47,
       "lag_hours": 8
@@ -340,27 +340,27 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "title": "C.H. Robinson (CHRW) Is Down 9.6% After Earnings And Major Buybacks Completed Has The Bull Case Changed?",
-      "title_kr": "C.H. 로빈슨(CHRW)은 수익 및 주요 환매가 완료된 후 9.6% 하락했습니다. 상승세가 바뀌었나요?",
+      "ticker": "GOOGL",
+      "title": "Alphabet (GOOGL): A Must-Buy Stock with the Strongest 1Q2026 Earnings Beats",
+      "title_kr": "알파벳(GOOGL): 2026년 1분기 실적이 가장 좋은 필수 매수 주식",
       "source": "Yahoo",
-      "published_at": "2026-05-07T02:18:50+00:00",
+      "published_at": "2026-05-07T06:22:23+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Is Amazon (AMZN) a Must-Buy Stock with the Strongest 1Q2026 Earnings Beats?",
+      "title_kr": "아마존(AMZN)은 2026년 1분기 실적이 가장 강한 필수 매수 주식입니까?",
+      "source": "Yahoo",
+      "published_at": "2026-05-07T06:21:47+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
         "삼성전자"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Meta's Earnings Got a Major Tax Boost. Here Are the Adjusted Figures You Need to See.",
-      "title_kr": "Meta의 수익은 세금 인상이 크게 증가했습니다. 확인해야 할 조정된 수치는 다음과 같습니다.",
-      "source": "Yahoo",
-      "published_at": "2026-05-07T01:22:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.39,
-      "change_pct": 0.06,
+      "price": 17.53,
+      "change_pct": 0.81,
       "label": "VIX"
     },
     "btc": {
-      "price": 81094,
-      "change_pct": -0.19,
+      "price": 81540,
+      "change_pct": 0.12,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +18.6% → 한미반도체 개장 상방 압력 예상 (+12.7% 전후). US 무드 82/100, KR 무드 50/100."
+  "summary": "미국 AMD +18.6% → 한미반도체 개장 상방 압력 예상 (+12.7% 전후). US 무드 82/100, KR 무드 60/100."
 }
