@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-05-08T06:29:33.849906+00:00",
-  "us_mood_score": 69,
+  "fetched_at": "2026-05-08T08:08:48.397562+00:00",
+  "us_mood_score": 67,
   "kr_mood_score": 56,
   "us_mood": "bullish",
   "kr_mood": "neutral",
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -3.17,
-      "actual_kr_pct": 2.12,
+      "actual_kr_pct": 1.93,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 160.01,
-      "kr_price": 1689000.0
+      "kr_price": 1686000.0
     },
     {
       "us_ticker": "TSLA",
@@ -48,10 +48,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.23,
-      "actual_kr_pct": -1.55,
+      "actual_kr_pct": -1.35,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 411.79,
-      "kr_price": 475500.0
+      "kr_price": 476500.0
     },
     {
       "us_ticker": "AMD",
@@ -96,10 +96,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -1.78,
-      "actual_kr_pct": 2.12,
+      "actual_kr_pct": 1.93,
       "reason": "MI355X용 HBM 공급",
       "us_price": 408.46,
-      "kr_price": 1689000.0
+      "kr_price": 1686000.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.27,
-      "actual_kr_pct": 2.12,
+      "actual_kr_pct": 1.93,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 211.5,
-      "kr_price": 1689000.0
+      "kr_price": 1686000.0
     },
     {
       "us_ticker": "AVGO",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.27,
-      "actual_kr_pct": 2.12,
+      "actual_kr_pct": 1.93,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 412.56,
-      "kr_price": 1689000.0
+      "kr_price": 1686000.0
     },
     {
       "us_ticker": "NVDA",
@@ -204,10 +204,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 0.92,
-      "actual_kr_pct": -0.74,
+      "actual_kr_pct": -1.1,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 211.5,
-      "kr_price": 269500.0
+      "kr_price": 268500.0
     },
     {
       "us_ticker": "MSTR",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.69,
+      "kr_actual_avg_pct": 0.41,
       "beta": 0.65,
       "predicted_kr_avg_pct": -1.85,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -0.35,
+      "kr_actual_avg_pct": -0.25,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.9,
       "lag_hours": 8
@@ -339,6 +339,18 @@
       ]
     },
     {
+      "ticker": "PLTR",
+      "title": "After Palantir's Impressive Q1 Earnings Report, This Remains the Biggest Issue With the Stock",
+      "title_kr": "Palantir의 인상적인 1분기 수익 보고서 이후 이것이 주식의 가장 큰 문제로 남아 있습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-05-08T07:31:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "한화에어로스페이스",
+        "LIG넥스원"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "title": "IREN Q3 Earnings Call Highlights",
       "title_kr": "IREN Q3 실적발표 하이라이트",
@@ -348,18 +360,6 @@
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
-      ]
-    },
-    {
-      "ticker": "MSTR",
-      "title": "Innodata Q1 Earnings Call Highlights",
-      "title_kr": "Innodata 1분기 실적발표 하이라이트",
-      "source": "Yahoo",
-      "published_at": "2026-05-08T04:06:43+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "카카오게임즈",
-        "위메이드"
       ]
     }
   ],
@@ -375,15 +375,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.08,
-      "change_pct": -1.78,
+      "price": 17.23,
+      "change_pct": 0.88,
       "label": "VIX"
     },
     "btc": {
-      "price": 79564.11,
-      "change_pct": -1.77,
+      "price": 79712.47,
+      "change_pct": -2.27,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -7.0% → 한미반도체 개장 하방 압력 예상 (-4.4% 전후). US 무드 69/100, KR 무드 56/100."
+  "summary": "미국 MRVL -7.0% → 한미반도체 개장 하방 압력 예상 (-4.4% 전후). US 무드 67/100, KR 무드 56/100."
 }
