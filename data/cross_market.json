@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-11T22:00:19.055318+00:00",
+  "fetched_at": "2026-05-11T22:46:26.566087+00:00",
   "us_mood_score": 64,
   "kr_mood_score": 80,
   "us_mood": "neutral",
@@ -328,15 +328,39 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "AMZN",
+      "title": "Rigetti Computing Revenue Triples. Why the Quantum Stock Is Falling.",
+      "title_kr": "Rigetti 컴퓨팅 수익이 세 배로 늘었습니다. 퀀텀 주식이 하락하는 이유.",
+      "source": "Yahoo",
+      "published_at": "2026-05-11T21:49:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "삼성전자"
+      ]
+    },
+    {
       "ticker": "NVDA",
-      "title": "Corning surges to record high: is the AI boom just beginning?",
-      "title_kr": "코닝, 최고 기록 경신: AI 붐은 이제 막 시작되었는가?",
-      "source": "TradingView",
-      "published_at": "2026-05-11T17:37:40+00:00",
-      "category": "general",
+      "title": "Quantum Computing Stocks: Rigetti Posts Small Revenue Beat",
+      "title_kr": "양자 컴퓨팅 주식: Rigetti, 소액 수익 기록",
+      "source": "Yahoo",
+      "published_at": "2026-05-11T21:35:40+00:00",
+      "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
+      ]
+    },
+    {
+      "ticker": "AAPL",
+      "title": "Apple Board Veteran Sells $71 Million in Stock After Record Earnings",
+      "title_kr": "Apple 이사회 베테랑, 기록적인 수익 후 7,100만 달러의 주식 매도",
+      "source": "Yahoo",
+      "published_at": "2026-05-11T21:27:47+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "삼성전자",
+        "SK하이닉스"
       ]
     }
   ],
@@ -357,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 81821.17,
-      "change_pct": 1.36,
+      "price": 81784.12,
+      "change_pct": -0.19,
       "label": "BTC"
     }
   },
