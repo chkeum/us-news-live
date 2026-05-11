@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-10T23:39:25.349450+00:00",
+  "fetched_at": "2026-05-11T02:03:49.114311+00:00",
   "us_mood_score": 62,
-  "kr_mood_score": 50,
+  "kr_mood_score": 81,
   "us_mood": "neutral",
-  "kr_mood": "neutral",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "AMD",
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 6.64,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 12.28,
       "reason": "MI355X용 HBM 공급",
       "us_price": 455.19,
-      "kr_price": 1686000.0
+      "kr_price": 1893000.0
     },
     {
       "us_ticker": "MRVL",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 2.84,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 12.28,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 170.13,
-      "kr_price": 1686000.0
+      "kr_price": 1893000.0
     },
     {
       "us_ticker": "TSLA",
@@ -72,10 +72,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.73,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.73,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 428.35,
-      "kr_price": 476500.0
+      "kr_price": 473000.0
     },
     {
       "us_ticker": "TSLA",
@@ -84,10 +84,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.49,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -5.05,
       "reason": "NCA 양극재 공급",
       "us_price": 428.35,
-      "kr_price": 237500.0
+      "kr_price": 225500.0
     },
     {
       "us_ticker": "TSLA",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.78,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 12.28,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 430,
-      "kr_price": 1686000.0
+      "kr_price": 1893000.0
     },
     {
       "us_ticker": "MSTR",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.26,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 12.28,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 215.2,
-      "kr_price": 1686000.0
+      "kr_price": 1893000.0
     },
     {
       "us_ticker": "MSTR",
@@ -216,10 +216,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 0.91,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 6.89,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 215.2,
-      "kr_price": 268500.0
+      "kr_price": 287000.0
     },
     {
       "us_ticker": "MSFT",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.47,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.63,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 415.12,
-      "kr_price": 215000.0
+      "kr_price": 211500.0
     },
     {
       "us_ticker": "META",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.44,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.63,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 609.63,
-      "kr_price": 215000.0
+      "kr_price": 211500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 9.58,
       "beta": 0.65,
       "predicted_kr_avg_pct": 3.86,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -2.89,
       "beta": 0.58,
       "predicted_kr_avg_pct": 2.33,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.95,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.12,
       "lag_hours": 8
@@ -328,6 +328,30 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "NVDA",
+      "title": "Nvidia Reports Earnings in May. Here's Why I'm Loading Up Before the Report.",
+      "title_kr": "엔비디아는 5월 수익을 보고합니다. 보고서를 작성하기 전에 로딩을 시작하는 이유는 다음과 같습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-05-11T00:20:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "AVGO",
+      "title": "Broadcom Hits a Bottleneck as OpenAI Revenue Concerns Claim Their First Casualty",
+      "title_kr": "Broadcom은 OpenAI 수익 문제로 인해 병목 현상에 직면했습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-05-10T16:00:02+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "한미반도체",
+        "SK하이닉스"
+      ]
+    },
+    {
       "ticker": "MSTR",
       "title": "Whale's Insight: Will Strategy Sell Bitcoin? Q1 2026 Earnings Highlights",
       "title_kr": "고래의 통찰력: 전략이 비트코인을 판매할 것인가? 2026년 1분기 실적 하이라이트",
@@ -337,30 +361,6 @@
       "kr_pairs": [
         "카카오게임즈",
         "위메이드"
-      ]
-    },
-    {
-      "ticker": "PLTR",
-      "title": "Dan Ives Can’t Make It Any Clearer: Palantir Stock Is Still a ‘Golden Goose’ Despite Q1 Earnings Fears",
-      "title_kr": "Dan Ives는 더 이상 명확하게 말할 수 없습니다: Palantir 주식은 1분기 실적 우려에도 불구하고 여전히 '황금 거위'입니다",
-      "source": "Yahoo",
-      "published_at": "2026-05-10T14:00:02+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "한화에어로스페이스",
-        "LIG넥스원"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Should You Buy CoreWeave (CRWV) on Post-Earnings Dip?",
-      "title_kr": "실적 하락 시 CoreWeave(CRWV)를 구매해야 합니까?",
-      "source": "Yahoo",
-      "published_at": "2026-05-10T13:54:40+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 82374.68,
-      "change_pct": 2.11,
+      "price": 81556.8,
+      "change_pct": 1.15,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +11.4% → 한미반도체 개장 상방 압력 예상 (+7.8% 전후). US 무드 62/100, KR 무드 50/100."
+  "summary": "미국 AMD +11.4% → 한미반도체 개장 상방 압력 예상 (+7.8% 전후). US 무드 62/100, KR 무드 81/100."
 }
