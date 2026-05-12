@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-05-12T02:01:21.811670+00:00",
+  "fetched_at": "2026-05-12T05:41:36.153973+00:00",
   "us_mood_score": 64,
-  "kr_mood_score": 0,
+  "kr_mood_score": 5,
   "us_mood": "neutral",
   "kr_mood": "bearish",
   "predictions": [
@@ -12,10 +12,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.65,
-      "actual_kr_pct": -7.32,
+      "actual_kr_pct": -6.41,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 445,
-      "kr_price": 433750.0
+      "kr_price": 438000.0
     },
     {
       "us_ticker": "TSLA",
@@ -24,10 +24,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.41,
-      "actual_kr_pct": -6.76,
+      "actual_kr_pct": -8.11,
       "reason": "NCA 양극재 공급",
       "us_price": 445,
-      "kr_price": 207000.0
+      "kr_price": 204000.0
     },
     {
       "us_ticker": "TSLA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.42,
-      "actual_kr_pct": -1.54,
+      "actual_kr_pct": -2.5,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 219.44,
-      "kr_price": 1851000.0
+      "kr_price": 1833000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -144,10 +144,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -1.06,
-      "actual_kr_pct": -3.69,
+      "actual_kr_pct": -3.24,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 388.64,
-      "kr_price": 43050.0
+      "kr_price": 43250.0
     },
     {
       "us_ticker": "NVDA",
@@ -156,10 +156,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.02,
-      "actual_kr_pct": -4.55,
+      "actual_kr_pct": -3.94,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 219.44,
-      "kr_price": 272500.0
+      "kr_price": 274250.0
     },
     {
       "us_ticker": "MSTR",
@@ -216,10 +216,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 0.46,
-      "actual_kr_pct": -1.54,
+      "actual_kr_pct": -2.5,
       "reason": "MI355X용 HBM 공급",
       "us_price": 458.79,
-      "kr_price": 1851000.0
+      "kr_price": 1833000.0
     },
     {
       "us_ticker": "AMZN",
@@ -240,10 +240,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": -0.38,
-      "actual_kr_pct": -4.55,
+      "actual_kr_pct": -3.94,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 268.99,
-      "kr_price": 272500.0
+      "kr_price": 274250.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -3.04,
+      "kr_actual_avg_pct": -3.22,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.46,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -7.04,
+      "kr_actual_avg_pct": -7.26,
       "beta": 0.58,
       "predicted_kr_avg_pct": 2.26,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -3.97,
+      "kr_actual_avg_pct": -3.75,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.64,
       "lag_hours": 8
@@ -329,10 +329,10 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "SoundHound AI Stock Falls After Earnings: Should You Buy the Dip?",
-      "title_kr": "SoundHound AI 주가는 수익 후 하락: 하락장을 매수해야 할까요?",
+      "title": "Archer Aviation Q1 Earnings Call Highlights",
+      "title_kr": "Archer Aviation 1분기 실적 통화 하이라이트",
       "source": "Yahoo",
-      "published_at": "2026-05-11T22:20:19+00:00",
+      "published_at": "2026-05-12T03:11:23+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -340,27 +340,27 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "title": "Rigetti Computing Revenue Triples. Why the Quantum Stock Is Falling.",
-      "title_kr": "Rigetti 컴퓨팅 수익이 세 배로 늘었습니다. 퀀텀 주식이 하락하는 이유.",
+      "ticker": "GOOGL",
+      "title": "OpenAI to cap Microsoft revenue-sharing at $38 billion, The Information reports",
+      "title_kr": "OpenAI, Microsoft 수익 공유를 380억 달러로 제한한다고 The Information 보고서",
       "source": "Yahoo",
-      "published_at": "2026-05-11T21:49:00+00:00",
+      "published_at": "2026-05-12T01:22:01+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
-        "삼성전자"
+        "카카오"
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Apple Board Veteran Sells $71 Million in Stock After Record Earnings",
-      "title_kr": "Apple 이사회 베테랑, 기록적인 수익 후 7,100만 달러의 주식 매도",
-      "source": "Yahoo",
-      "published_at": "2026-05-11T21:27:47+00:00",
+      "ticker": "ASTS",
+      "title": "AST SpaceMobile, Inc. (ASTS) Q1 2026 Earnings Call Transcript",
+      "title_kr": "AST SpaceMobile, Inc.(ASTS) 2026년 1분기 실적 통화 기록",
+      "source": "SeekingAlpha",
+      "published_at": "2026-05-12T00:30:42+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "삼성전자",
-        "SK하이닉스"
+        "한화시스템",
+        "한화에어로스페이스"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 81199.99,
-      "change_pct": -0.37,
+      "price": 81261.56,
+      "change_pct": 0.49,
       "label": "BTC"
     }
   },
-  "summary": "미국 TSLA +3.9% → LG에너지솔루션 개장 상방 압력 예상 (+2.6% 전후). US 무드 64/100, KR 무드 0/100."
+  "summary": "미국 TSLA +3.9% → LG에너지솔루션 개장 상방 압력 예상 (+2.6% 전후). US 무드 64/100, KR 무드 5/100."
 }
