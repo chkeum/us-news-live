@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-05-12T22:44:43.348914+00:00",
+  "fetched_at": "2026-05-12T23:42:47.708099+00:00",
   "kospi": {
     "price": 7643.15,
-    "change_pct": -2.29,
+    "change_pct": 0.0,
     "label": "KOSPI"
   },
   "kosdaq": {
     "price": 1179.29,
-    "change_pct": -2.32,
+    "change_pct": 0.0,
     "label": "KOSDAQ"
   },
   "kospi200": {
     "price": 1183.41,
-    "change_pct": -2.31,
+    "change_pct": 0.0,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
       "price": 279000.0,
-      "change_pct": -2.28,
+      "change_pct": 0.0,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
       "price": 1835000.0,
-      "change_pct": -2.39,
+      "change_pct": 0.0,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
       "price": 443000.0,
-      "change_pct": -5.34,
+      "change_pct": 0.0,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
@@ -42,37 +42,37 @@
     },
     "035420": {
       "price": 204000.0,
-      "change_pct": -3.55,
+      "change_pct": 0.0,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
       "price": 43550.0,
-      "change_pct": -2.57,
+      "change_pct": 0.0,
       "name": "카카오",
       "code": "035720"
     },
     "207940": {
       "price": 1443000.0,
-      "change_pct": -1.03,
+      "change_pct": 0.0,
       "name": "삼성바이오로직스",
       "code": "207940"
     },
     "005490": {
       "price": 479000.0,
-      "change_pct": -6.45,
+      "change_pct": 0.0,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
       "price": 388500.0,
-      "change_pct": -8.26,
+      "change_pct": 0.0,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
       "price": 205500.0,
-      "change_pct": -7.43,
+      "change_pct": 0.0,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -93,6 +93,12 @@
     {
       "ticker": "030200",
       "name": "KT",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "373220",
+      "name": "LG에너지솔루션",
       "mentions": 2,
       "surge_pct": 0
     },
@@ -127,19 +133,13 @@
       "surge_pct": 0
     },
     {
-      "ticker": "041510",
-      "name": "SM",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "222080",
-      "name": "씨아이에스",
+      "ticker": "263750",
+      "name": "펄어비스",
       "mentions": 1,
       "surge_pct": 0
     }
   ],
-  "mood_score": 18,
-  "mood": "bearish",
-  "mood_summary": "KOSPI -2.29% · KOSDAQ -2.32%"
+  "mood_score": 50,
+  "mood": "neutral",
+  "mood_summary": "KOSPI +0.00% · KOSDAQ +0.00%"
 }
