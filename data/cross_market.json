@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-05-14T05:57:09.319698+00:00",
+  "fetched_at": "2026-05-14T08:29:07.237744+00:00",
   "us_mood_score": 56,
-  "kr_mood_score": 59,
+  "kr_mood_score": 71,
   "us_mood": "neutral",
-  "kr_mood": "neutral",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "MRVL",
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 3.68,
-      "actual_kr_pct": -1.42,
+      "actual_kr_pct": -0.3,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 177.95,
-      "kr_price": 1948000.0
+      "kr_price": 1970000.0
     },
     {
       "us_ticker": "NVDA",
@@ -72,10 +72,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.86,
-      "actual_kr_pct": 1.98,
+      "actual_kr_pct": 2.79,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 445.27,
-      "kr_price": 438500.0
+      "kr_price": 442000.0
     },
     {
       "us_ticker": "NVDA",
@@ -96,10 +96,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.69,
-      "actual_kr_pct": 3.75,
+      "actual_kr_pct": 6.04,
       "reason": "NCA 양극재 공급",
       "us_price": 445.27,
-      "kr_price": 204500.0
+      "kr_price": 209000.0
     },
     {
       "us_ticker": "NVDA",
@@ -108,10 +108,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.65,
-      "actual_kr_pct": -1.42,
+      "actual_kr_pct": -0.3,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 225.83,
-      "kr_price": 1948000.0
+      "kr_price": 1970000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -120,10 +120,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 1.65,
-      "actual_kr_pct": 4.96,
+      "actual_kr_pct": 5.71,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 402.62,
-      "kr_price": 211500.0
+      "kr_price": 213000.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 1.38,
-      "actual_kr_pct": 5.24,
+      "actual_kr_pct": 6.98,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 402.62,
-      "kr_price": 45200.0
+      "kr_price": 45950.0
     },
     {
       "us_ticker": "TSLA",
@@ -192,10 +192,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.19,
-      "actual_kr_pct": 3.17,
+      "actual_kr_pct": 4.23,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 225.83,
-      "kr_price": 293000.0
+      "kr_price": 296000.0
     },
     {
       "us_ticker": "META",
@@ -204,10 +204,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 0.86,
-      "actual_kr_pct": 4.96,
+      "actual_kr_pct": 5.71,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 616.63,
-      "kr_price": 211500.0
+      "kr_price": 213000.0
     },
     {
       "us_ticker": "MSTR",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.49,
-      "actual_kr_pct": 4.96,
+      "actual_kr_pct": 5.71,
       "reason": "커머스·클라우드 동행",
       "us_price": 270.13,
-      "kr_price": 211500.0
+      "kr_price": 213000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.88,
+      "kr_actual_avg_pct": 1.97,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.5,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 2.87,
+      "kr_actual_avg_pct": 4.42,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.58,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 5.1,
+      "kr_actual_avg_pct": 6.35,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.68,
       "lag_hours": 8
@@ -328,6 +328,30 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "META",
+      "title": "Doximity Q4 Earnings Call Highlights",
+      "title_kr": "Doximity Q4 수익 통화 하이라이트",
+      "source": "Yahoo",
+      "published_at": "2026-05-14T05:05:37+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "하이브"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "AEye Inc (LIDR) Q1 2026 Earnings Call Highlights: Revenue Surge Amidst Strategic Partnerships",
+      "title_kr": "AEye Inc(LIDR) 2026년 1분기 실적 발표 하이라이트: 전략적 파트너십으로 인한 수익 급증",
+      "source": "Yahoo",
+      "published_at": "2026-05-14T05:00:30+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
       "ticker": "MU",
       "title": "Applied Materials Rides AI Wave Into Critical Earnings Report",
       "title_kr": "어플라이드 머티어리얼즈, 중요한 수익 보고서에 AI 물결을 싣다",
@@ -337,30 +361,6 @@
       "kr_pairs": [
         "SK하이닉스",
         "삼성전자"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Nebius Posts 684% Revenue Surge as AI Data Center Demand Accelerates",
-      "title_kr": "Nebius, AI 데이터 센터 수요 가속화로 매출 684% 급증",
-      "source": "Yahoo",
-      "published_at": "2026-05-14T03:47:46+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "5 Revealing Analyst Questions From IAC’s Q1 Earnings Call",
-      "title_kr": "IAC의 1분기 실적 발표에서 분석가가 묻는 5가지 질문 공개",
-      "source": "Yahoo",
-      "published_at": "2026-05-14T02:20:55+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.87,
-      "change_pct": -0.67,
+      "price": 17.81,
+      "change_pct": -0.34,
       "label": "VIX"
     },
     "btc": {
-      "price": 79800.01,
-      "change_pct": -1.51,
+      "price": 79806.98,
+      "change_pct": -1.56,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +8.2% → 한미반도체 개장 상방 압력 예상 (+5.1% 전후). US 무드 56/100, KR 무드 59/100."
+  "summary": "미국 MRVL +8.2% → 한미반도체 개장 상방 압력 예상 (+5.1% 전후). US 무드 56/100, KR 무드 71/100."
 }
