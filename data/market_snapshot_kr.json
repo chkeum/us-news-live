@@ -1,54 +1,54 @@
 {
-  "fetched_at": "2026-05-22T06:19:55.641087+00:00",
+  "fetched_at": "2026-05-22T09:55:06.660841+00:00",
   "kospi": {
-    "price": 7835.82,
-    "change_pct": 0.26,
+    "price": 7847.71,
+    "change_pct": 0.41,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 1159.85,
-    "change_pct": 4.87,
+    "price": 1161.13,
+    "change_pct": 4.99,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 1224.1,
-    "change_pct": -0.09,
+    "price": 1226.03,
+    "change_pct": 0.07,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
-      "price": 293000.0,
-      "change_pct": -2.17,
+      "price": 292500.0,
+      "change_pct": -2.34,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
-      "price": 1935000.0,
-      "change_pct": -0.26,
+      "price": 1941000.0,
+      "change_pct": 0.05,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
-      "price": 398000.0,
-      "change_pct": -0.75,
+      "price": 398500.0,
+      "change_pct": -0.62,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
     "005380": {
-      "price": 656000.0,
-      "change_pct": -1.5,
+      "price": 655000.0,
+      "change_pct": -1.65,
       "name": "현대차",
       "code": "005380"
     },
     "035420": {
-      "price": 202500.0,
-      "change_pct": 1.5,
+      "price": 203000.0,
+      "change_pct": 1.75,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
-      "price": 41800.0,
-      "change_pct": 0.0,
+      "price": 41850.0,
+      "change_pct": 0.12,
       "name": "카카오",
       "code": "035720"
     },
@@ -59,20 +59,20 @@
       "code": "207940"
     },
     "005490": {
-      "price": 448000.0,
-      "change_pct": 1.01,
+      "price": 447500.0,
+      "change_pct": 0.9,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
-      "price": 350000.0,
-      "change_pct": 0.57,
+      "price": 351000.0,
+      "change_pct": 0.86,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
-      "price": 215000.0,
-      "change_pct": 10.26,
+      "price": 216000.0,
+      "change_pct": 10.77,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -81,7 +81,13 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 14,
+      "mentions": 13,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "017670",
+      "name": "SK텔레콤",
+      "mentions": 3,
       "surge_pct": 0
     },
     {
@@ -91,55 +97,49 @@
       "surge_pct": 0
     },
     {
+      "ticker": "159910",
+      "name": "에코글로우",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
       "ticker": "005380",
       "name": "현대차",
-      "mentions": 3,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "017670",
-      "name": "SK텔레콤",
       "mentions": 2,
       "surge_pct": 0
     },
     {
-      "ticker": "451800",
-      "name": "한화리츠",
-      "mentions": 2,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "005440",
-      "name": "현대지에프홀딩스",
-      "mentions": 2,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "041510",
-      "name": "SM",
-      "mentions": 2,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "090430",
-      "name": "아모레퍼시픽",
+      "ticker": "478560",
+      "name": "블랙야크아이앤씨",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "373200",
-      "name": "엑스플러스",
+      "ticker": "009440",
+      "name": "KC그린홀딩스",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "003350",
-      "name": "한국화장품제조",
+      "ticker": "003060",
+      "name": "에이프로젠바이오로직스",
+      "mentions": 1,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "026040",
+      "name": "제이에스티나",
+      "mentions": 1,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "053030",
+      "name": "바이넥스",
       "mentions": 1,
       "surge_pct": 0
     }
   ],
-  "mood_score": 86,
+  "mood_score": 88,
   "mood": "bullish",
-  "mood_summary": "KOSPI +0.26% · KOSDAQ +4.87%"
+  "mood_summary": "KOSPI +0.41% · KOSDAQ +4.99%"
 }
