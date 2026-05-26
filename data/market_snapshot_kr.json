@@ -1,36 +1,36 @@
 {
-  "fetched_at": "2026-05-26T06:17:34.695809+00:00",
+  "fetched_at": "2026-05-26T10:33:18.825678+00:00",
   "kospi": {
-    "price": 8063.81,
-    "change_pct": 2.75,
+    "price": 8047.51,
+    "change_pct": 2.55,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 1171.37,
-    "change_pct": 0.88,
+    "price": 1172.52,
+    "change_pct": 0.98,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 1263.72,
-    "change_pct": 3.07,
+    "price": 1260.53,
+    "change_pct": 2.81,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
-      "price": 299750.0,
-      "change_pct": 2.48,
+      "price": 299000.0,
+      "change_pct": 2.22,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
-      "price": 2068000.0,
-      "change_pct": 6.54,
+      "price": 2052000.0,
+      "change_pct": 5.72,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
-      "price": 397500.0,
-      "change_pct": -0.25,
+      "price": 399500.0,
+      "change_pct": 0.25,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
@@ -47,8 +47,8 @@
       "code": "035420"
     },
     "035720": {
-      "price": 41350.0,
-      "change_pct": -1.19,
+      "price": 41450.0,
+      "change_pct": -0.96,
       "name": "카카오",
       "code": "035720"
     },
@@ -59,20 +59,20 @@
       "code": "207940"
     },
     "005490": {
-      "price": 441000.0,
-      "change_pct": -1.45,
+      "price": 442000.0,
+      "change_pct": -1.23,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
-      "price": 350750.0,
-      "change_pct": -0.07,
+      "price": 351000.0,
+      "change_pct": 0.0,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
-      "price": 219500.0,
-      "change_pct": 1.62,
+      "price": 220000.0,
+      "change_pct": 1.85,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -81,19 +81,37 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 13,
+      "mentions": 11,
       "surge_pct": 0
     },
     {
       "ticker": "000660",
-      "name": "하이닉스",
-      "mentions": 6,
+      "name": "SK하이닉스",
+      "mentions": 10,
       "surge_pct": 0
     },
     {
-      "ticker": "041510",
-      "name": "SM",
+      "ticker": "477760",
+      "name": "디비금융스팩12호",
       "mentions": 3,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "051910",
+      "name": "LG화학",
+      "mentions": 3,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "089230",
+      "name": "THE E&M",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "011790",
+      "name": "SKC",
+      "mentions": 2,
       "surge_pct": 0
     },
     {
@@ -103,43 +121,25 @@
       "surge_pct": 0
     },
     {
-      "ticker": "323410",
-      "name": "카카오뱅크",
+      "ticker": "099750",
+      "name": "이지케어텍",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "035720",
-      "name": "카카오",
+      "ticker": "143210",
+      "name": "핸즈코퍼레이션",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "288180",
-      "name": "케이피항공산업",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "256630",
-      "name": "포인트엔지니어링",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "011930",
-      "name": "신성이엔지",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "424760",
-      "name": "벨로크",
+      "ticker": "086450",
+      "name": "동국제약",
       "mentions": 1,
       "surge_pct": 0
     }
   ],
   "mood_score": 75,
   "mood": "bullish",
-  "mood_summary": "KOSPI +2.75% · KOSDAQ +0.88%"
+  "mood_summary": "KOSPI +2.55% · KOSDAQ +0.98%"
 }
