@@ -1,66 +1,66 @@
 {
-  "fetched_at": "2026-05-26T22:44:06.936746+00:00",
+  "fetched_at": "2026-05-26T23:48:12.407237+00:00",
   "kospi": {
     "price": 8047.51,
-    "change_pct": 2.55,
+    "change_pct": 0.0,
     "label": "KOSPI"
   },
   "kosdaq": {
     "price": 1172.52,
-    "change_pct": 0.98,
+    "change_pct": 0.0,
     "label": "KOSDAQ"
   },
   "kospi200": {
     "price": 1260.53,
-    "change_pct": 2.81,
+    "change_pct": 0.0,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
       "price": 299000.0,
-      "change_pct": 2.22,
+      "change_pct": 0.0,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
       "price": 2052000.0,
-      "change_pct": 5.72,
+      "change_pct": 0.0,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
       "price": 399500.0,
-      "change_pct": 0.25,
+      "change_pct": 0.0,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
     "005380": {
       "price": 689000.0,
-      "change_pct": 5.19,
+      "change_pct": 0.0,
       "name": "현대차",
       "code": "005380"
     },
     "035420": {
       "price": 200000.0,
-      "change_pct": -1.48,
+      "change_pct": 0.0,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
       "price": 41450.0,
-      "change_pct": -0.96,
+      "change_pct": 0.0,
       "name": "카카오",
       "code": "035720"
     },
     "207940": {
       "price": 1425000.0,
-      "change_pct": 0.71,
+      "change_pct": 0.0,
       "name": "삼성바이오로직스",
       "code": "207940"
     },
     "005490": {
       "price": 442000.0,
-      "change_pct": -1.23,
+      "change_pct": 0.0,
       "name": "포스코홀딩스",
       "code": "005490"
     },
@@ -72,7 +72,7 @@
     },
     "247540": {
       "price": 220000.0,
-      "change_pct": 1.85,
+      "change_pct": 0.0,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -81,7 +81,7 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 11,
+      "mentions": 10,
       "surge_pct": 0
     },
     {
@@ -115,6 +115,12 @@
       "surge_pct": 0
     },
     {
+      "ticker": "035720",
+      "name": "카카오",
+      "mentions": 1,
+      "surge_pct": 0
+    },
+    {
       "ticker": "099750",
       "name": "이지케어텍",
       "mentions": 1,
@@ -131,15 +137,9 @@
       "name": "동국제약",
       "mentions": 1,
       "surge_pct": 0
-    },
-    {
-      "ticker": "012700",
-      "name": "리드코프",
-      "mentions": 1,
-      "surge_pct": 0
     }
   ],
-  "mood_score": 75,
-  "mood": "bullish",
-  "mood_summary": "KOSPI +2.55% · KOSDAQ +0.98%"
+  "mood_score": 50,
+  "mood": "neutral",
+  "mood_summary": "KOSPI +0.00% · KOSDAQ +0.00%"
 }
