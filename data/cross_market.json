@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-05-27T22:57:35.384953+00:00",
+  "fetched_at": "2026-05-27T23:56:52.950741+00:00",
   "us_mood_score": 63,
-  "kr_mood_score": 42,
+  "kr_mood_score": 52,
   "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
@@ -36,7 +36,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -2.07,
-      "actual_kr_pct": 9.31,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 198.7,
       "kr_price": 2243000.0
@@ -48,7 +48,7 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 1.42,
-      "actual_kr_pct": -0.6,
+      "actual_kr_pct": 0.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 635.25,
       "kr_price": 198800.0
@@ -84,7 +84,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.06,
-      "actual_kr_pct": -4.01,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 440.36,
       "kr_price": 383500.0
@@ -108,7 +108,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 0.97,
-      "actual_kr_pct": -2.95,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 440.36,
       "kr_price": 213500.0
@@ -120,7 +120,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -0.96,
-      "actual_kr_pct": 9.31,
+      "actual_kr_pct": 0.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 495.54,
       "kr_price": 2243000.0
@@ -192,7 +192,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.76,
-      "actual_kr_pct": 9.31,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 212.6,
       "kr_price": 2243000.0
@@ -216,7 +216,7 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.74,
-      "actual_kr_pct": -0.6,
+      "actual_kr_pct": 0.0,
       "reason": "커머스·클라우드 동행",
       "us_price": 271.85,
       "kr_price": 198800.0
@@ -228,7 +228,7 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": 0.69,
-      "actual_kr_pct": 2.68,
+      "actual_kr_pct": 0.0,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 271.85,
       "kr_price": 307000.0
@@ -240,7 +240,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.55,
-      "actual_kr_pct": 2.68,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 212.6,
       "kr_price": 307000.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 6.0,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": -1.19,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -3.48,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.9,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -1.45,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.51,
       "lag_hours": 8
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 74463.67,
-      "change_pct": -1.66,
+      "price": 74439.85,
+      "change_pct": -1.95,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -4.6% → 한미반도체 개장 하방 압력 예상 (-2.9% 전후). US 무드 63/100, KR 무드 42/100."
+  "summary": "미국 MRVL -4.6% → 한미반도체 개장 하방 압력 예상 (-2.9% 전후). US 무드 63/100, KR 무드 52/100."
 }
