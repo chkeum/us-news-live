@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-05-28T20:40:52.249424+00:00",
+  "fetched_at": "2026-05-28T22:21:25.648844+00:00",
   "us_mood_score": 61,
   "kr_mood_score": 29,
   "us_mood": "neutral",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "MSFT",
-      "title": "Stock Market Today, May 28: Tech Stocks Rise as Snowflake Surges After $6 Billion Amazon Deal and Strong Earnings",
-      "title_kr": "오늘, 5월 28일 주식 시장: 60억 달러 규모의 아마존 거래 및 강력한 수익 이후 눈송이 급등으로 기술주 상승",
+      "ticker": "NVDA",
+      "title": "Synopsys Was the Worst S&P 500 Stock Thursday Despite Earnings Beat With AI and Merger in Focus",
+      "title_kr": "Synopsys는 AI와 합병에 초점을 맞춰 수익이 상회했음에도 불구하고 목요일 최악의 S&P 500 주식이었습니다",
       "source": "Yahoo",
-      "published_at": "2026-05-28T18:26:10+00:00",
+      "published_at": "2026-05-28T21:12:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "MSFT",
+      "title": "Dell Stock Soars on Blowout Earnings. The Outlook Bests Analysts by $20 Billion.",
+      "title_kr": "델 주가 폭발적 이익에 급등. The Outlook에서는 분석가를 200억 달러 앞섰습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-05-28T21:00:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -340,23 +352,11 @@
       ]
     },
     {
-      "ticker": "AMZN",
-      "title": "Best Buy Surges on Earnings. Its 5% Yield Looks Even Better",
-      "title_kr": "베스트바이 수익 급증. 5%의 수익률이 더욱 좋아 보입니다.",
+      "ticker": "MRVL",
+      "title": "Marvell Lifts FY2027 Outlook As Revenue Growth Nears 40%",
+      "title_kr": "Marvell, 매출 성장률이 40%에 가까워지면서 FY2027 전망 상향",
       "source": "Yahoo",
-      "published_at": "2026-05-28T17:31:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "삼성전자"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Synopsys Is the Worst S&P 500 Stock Today Despite Earnings Beat With AI and Merger in Focus",
-      "title_kr": "Synopsys는 AI와 합병에 초점을 맞춘 수익에도 불구하고 현재 최악의 S&P 500 주식입니다",
-      "source": "Yahoo",
-      "published_at": "2026-05-28T16:57:00+00:00",
+      "published_at": "2026-05-28T20:23:12+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 73681.97,
-      "change_pct": -2.08,
+      "price": 73676.55,
+      "change_pct": -1.1,
       "label": "BTC"
     }
   },
