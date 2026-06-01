@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-01T02:38:45.952759+00:00",
-  "us_mood_score": 63,
-  "kr_mood_score": 67,
+  "fetched_at": "2026-06-01T07:32:58.965855+00:00",
+  "us_mood_score": 60,
+  "kr_mood_score": 60,
   "us_mood": "neutral",
-  "kr_mood": "bullish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "AVGO",
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.99,
-      "actual_kr_pct": 2.23,
+      "actual_kr_pct": 1.29,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 446.77,
-      "kr_price": 2385000.0
+      "kr_price": 2363000.0
     },
     {
       "us_ticker": "MSFT",
@@ -36,10 +36,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 1.91,
-      "actual_kr_pct": 14.1,
+      "actual_kr_pct": 16.03,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 450.24,
-      "kr_price": 267000.0
+      "kr_price": 271500.0
     },
     {
       "us_ticker": "MSFT",
@@ -48,10 +48,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": 1.74,
-      "actual_kr_pct": 1.91,
+      "actual_kr_pct": 1.79,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 450.24,
-      "kr_price": 42750.0
+      "kr_price": 42700.0
     },
     {
       "us_ticker": "MSTR",
@@ -120,10 +120,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -1.05,
-      "actual_kr_pct": 14.1,
+      "actual_kr_pct": 16.03,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 380.34,
-      "kr_price": 267000.0
+      "kr_price": 271500.0
     },
     {
       "us_ticker": "NVDA",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.04,
-      "actual_kr_pct": 2.23,
+      "actual_kr_pct": 1.29,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 211.14,
-      "kr_price": 2385000.0
+      "kr_price": 2363000.0
     },
     {
       "us_ticker": "TSLA",
@@ -144,10 +144,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.97,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.66,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 435.79,
-      "kr_price": 458000.0
+      "kr_price": 455000.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.89,
-      "actual_kr_pct": -3.69,
+      "actual_kr_pct": -4.61,
       "reason": "NCA 양극재 공급",
       "us_price": 435.79,
-      "kr_price": 209000.0
+      "kr_price": 207000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -168,10 +168,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.88,
-      "actual_kr_pct": 1.91,
+      "actual_kr_pct": 1.79,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 380.34,
-      "kr_price": 42750.0
+      "kr_price": 42700.0
     },
     {
       "us_ticker": "TSLA",
@@ -204,10 +204,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.75,
-      "actual_kr_pct": 9.78,
+      "actual_kr_pct": 10.09,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 211.14,
-      "kr_price": 348000.0
+      "kr_price": 349000.0
     },
     {
       "us_ticker": "TSLA",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.37,
-      "actual_kr_pct": 14.1,
+      "actual_kr_pct": 16.03,
       "reason": "커머스·클라우드 동행",
       "us_price": 270.64,
-      "kr_price": 267000.0
+      "kr_price": 271500.0
     },
     {
       "us_ticker": "AMZN",
@@ -240,10 +240,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": -0.34,
-      "actual_kr_pct": 9.78,
+      "actual_kr_pct": 10.09,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 270.64,
-      "kr_price": 348000.0
+      "kr_price": 349000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 6.0,
+      "kr_actual_avg_pct": 5.69,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.48,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -1.84,
+      "kr_actual_avg_pct": -2.64,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.83,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 8.0,
+      "kr_actual_avg_pct": 8.91,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.12,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "NVDA",
+      "title": "Broadcom Reports Earnings June 3. Time to Buy?",
+      "title_kr": "Broadcom, 6월 3일 수익 보고. 매수 시점?",
+      "source": "Yahoo",
+      "published_at": "2026-06-01T03:23:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
       "ticker": "AVGO",
       "title": "Jobs report, retail earnings, AI in focus next week",
       "title_kr": "채용 보고서, 소매 수익, 다음 주에 초점을 맞춘 AI",
@@ -337,18 +349,6 @@
       "kr_pairs": [
         "한미반도체",
         "SK하이닉스"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Berkshire Hathaway's Operating Earnings Just Quietly Hit a New Record. Why That Matters More Than the Stock Portfolio.",
-      "title_kr": "버크셔 해서웨이의 영업이익이 조용히 새로운 기록을 경신했습니다. 이것이 주식 포트폴리오보다 더 중요한 이유.",
-      "source": "Yahoo",
-      "published_at": "2026-05-31T22:50:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     },
     {
@@ -375,15 +375,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 15.32,
-      "change_pct": -2.67,
+      "price": 15.88,
+      "change_pct": 3.66,
       "label": "VIX"
     },
     "btc": {
-      "price": 73531.35,
-      "change_pct": -0.56,
+      "price": 72915.98,
+      "change_pct": -1.33,
       "label": "BTC"
     }
   },
-  "summary": "미국 AVGO +4.7% → 한미반도체 개장 상방 압력 예상 (+2.6% 전후). US 무드 63/100, KR 무드 67/100."
+  "summary": "미국 AVGO +4.7% → 한미반도체 개장 상방 압력 예상 (+2.6% 전후). US 무드 60/100, KR 무드 60/100."
 }
