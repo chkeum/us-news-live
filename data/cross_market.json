@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-06-10T02:14:37.223144+00:00",
+  "fetched_at": "2026-06-10T06:43:40.733276+00:00",
   "us_mood_score": 47,
-  "kr_mood_score": 25,
+  "kr_mood_score": 7,
   "us_mood": "neutral",
   "kr_mood": "bearish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -3.42,
-      "actual_kr_pct": -5.42,
+      "actual_kr_pct": -7.54,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 266.88,
-      "kr_price": 2095000.0
+      "kr_price": 2048000.0
     },
     {
       "us_ticker": "MSTR",
@@ -72,10 +72,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -2.04,
-      "actual_kr_pct": -2.02,
+      "actual_kr_pct": -2.77,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 396.68,
-      "kr_price": 388500.0
+      "kr_price": 385500.0
     },
     {
       "us_ticker": "TSLA",
@@ -84,10 +84,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -1.86,
-      "actual_kr_pct": -1.13,
+      "actual_kr_pct": -1.85,
       "reason": "NCA 양극재 공급",
       "us_price": 396.68,
-      "kr_price": 165700.0
+      "kr_price": 164500.0
     },
     {
       "us_ticker": "MSTR",
@@ -108,10 +108,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -1.75,
-      "actual_kr_pct": -5.42,
+      "actual_kr_pct": -7.54,
       "reason": "MI355X용 HBM 공급",
       "us_price": 475.5,
-      "kr_price": 2095000.0
+      "kr_price": 2048000.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.71,
-      "actual_kr_pct": -9.14,
+      "actual_kr_pct": -11.67,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 403.41,
-      "kr_price": 233500.0
+      "kr_price": 227000.0
     },
     {
       "us_ticker": "MSFT",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -0.47,
-      "actual_kr_pct": -5.42,
+      "actual_kr_pct": -7.54,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 392.16,
-      "kr_price": 2095000.0
+      "kr_price": 2048000.0
     },
     {
       "us_ticker": "NVDA",
@@ -228,10 +228,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.16,
-      "actual_kr_pct": -5.42,
+      "actual_kr_pct": -7.54,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 208.19,
-      "kr_price": 2095000.0
+      "kr_price": 2048000.0
     },
     {
       "us_ticker": "AMZN",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.13,
-      "actual_kr_pct": -9.14,
+      "actual_kr_pct": -11.67,
       "reason": "커머스·클라우드 동행",
       "us_price": 244.19,
-      "kr_price": 233500.0
+      "kr_price": 227000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -5.27,
+      "kr_actual_avg_pct": -6.8,
       "beta": 0.65,
       "predicted_kr_avg_pct": -1.95,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -1.57,
+      "kr_actual_avg_pct": -2.31,
       "beta": 0.58,
       "predicted_kr_avg_pct": -1.74,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -6.28,
+      "kr_actual_avg_pct": -7.54,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.22,
       "lag_hours": 8
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "NVDA",
-      "title": "Intel Is Up 168% in 2026 and Analysts Say Earnings Could Jump 159% This Year. Here's Whether Intel Is a Bargain or a Trap at These Levels",
-      "title_kr": "인텔은 2026년에 168% 상승했으며 분석가들은 올해 수익이 159% 상승할 수 있다고 말합니다. 이러한 수준에서 인텔이 거래인지 함정인지는 다음과 같습니다.",
+      "ticker": "MSFT",
+      "title": "Oracle Is Reshaping Its Earnings. The Cloud Is How.",
+      "title_kr": "오라클은 수익 구조를 재편하고 있습니다. 클라우드가 바로 방법입니다.",
       "source": "Yahoo",
-      "published_at": "2026-06-09T19:20:00+00:00",
+      "published_at": "2026-06-10T05:00:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "SMH ETF Investors: Watch Hyperscaler Capex Guidance at July Earnings Calls",
+      "title_kr": "SMH ETF 투자자: 7월 실적 발표에서 하이퍼스케일러 Capex 지침 보기",
+      "source": "Yahoo",
+      "published_at": "2026-06-10T02:11:20+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "하이브"
-      ]
-    },
-    {
-      "ticker": "AVGO",
-      "title": "1 Under-the-Radar Reason to Hold Broadcom Stock After Its Historic 14% Earnings Crash",
-      "title_kr": "역사적인 14% 수익 폭락 이후 Broadcom 주식을 보유해야 하는 숨겨진 이유 1가지",
-      "source": "Yahoo",
-      "published_at": "2026-06-09T17:29:59+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "한미반도체",
-        "SK하이닉스"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 61564,
-      "change_pct": -1.9,
+      "price": 61405.88,
+      "change_pct": -3.06,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -7.6% → 한미반도체 개장 하방 압력 예상 (-4.7% 전후). US 무드 47/100, KR 무드 25/100."
+  "summary": "미국 MRVL -7.6% → 한미반도체 개장 하방 압력 예상 (-4.7% 전후). US 무드 47/100, KR 무드 7/100."
 }
