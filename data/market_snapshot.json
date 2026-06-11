@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-11T02:36:58.483957+00:00",
+  "fetched_at": "2026-06-11T07:17:53.132528+00:00",
   "sp500": {
     "price": 7266.99,
     "change_pct": -1.87,
@@ -17,12 +17,12 @@
   },
   "vix": {
     "price": 22.22,
-    "change_pct": 11.83,
+    "change_pct": 0.0,
     "label": "VIX"
   },
   "btc": {
-    "price": 61961.93,
-    "change_pct": 0.82,
+    "price": 62617.0,
+    "change_pct": 1.9,
     "label": "BTC"
   },
   "watchlist": {
@@ -70,22 +70,17 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 115,
+      "mentions": 125,
       "surge_pct": 0
     },
     {
       "ticker": "GOOGL",
-      "mentions": 17,
+      "mentions": 16,
       "surge_pct": 0
     },
     {
       "ticker": "TSLA",
-      "mentions": 13,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSFT",
-      "mentions": 9,
+      "mentions": 12,
       "surge_pct": 0
     },
     {
@@ -94,32 +89,37 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MU",
-      "mentions": 7,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "META",
-      "mentions": 7,
+      "ticker": "MSFT",
+      "mentions": 8,
       "surge_pct": 0
     },
     {
       "ticker": "AMD",
-      "mentions": 6,
+      "mentions": 7,
       "surge_pct": 0
     },
     {
       "ticker": "AVGO",
+      "mentions": 6,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "META",
       "mentions": 5,
       "surge_pct": 0
     },
     {
-      "ticker": "INTC",
+      "ticker": "MRVL",
       "mentions": 3,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "PLTR",
+      "mentions": 2,
       "surge_pct": 0
     }
   ],
-  "mood_score": 15,
+  "mood_score": 21,
   "mood": "bearish",
   "mood_summary": "S&P -1.87% · Nasdaq -2.93%"
 }
