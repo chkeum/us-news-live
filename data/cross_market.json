@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T07:08:43.251430+00:00",
+  "fetched_at": "2026-06-12T11:09:37.975197+00:00",
   "us_mood_score": 54,
   "kr_mood_score": 100,
   "us_mood": "neutral",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "NVDA",
-      "title": "Blaize Touts Edge AI Strategy, Nokia Partnership and $130M 2026 Revenue Outlook",
-      "title_kr": "Blaize, Edge AI 전략, Nokia 파트너십 및 2026년 1억 3천만 달러 매출 전망 발표",
+      "ticker": "META",
+      "title": "How Backlash Against Data Centers Could Start Showing Up in Hyperscalers' Earnings Reports",
+      "title_kr": "데이터 센터에 대한 반발이 하이퍼스케일러의 수익 보고서에 나타날 수 있는 방법",
       "source": "Yahoo",
-      "published_at": "2026-06-12T03:03:20+00:00",
+      "published_at": "2026-06-12T09:04:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "하이브"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Wall Street Expects CoreWeave's Revenue to Double in 2026 and 2027. Is the Stock a Buy?",
+      "title_kr": "월스트리트는 CoreWeave의 수익이 2026년과 2027년에 두 배로 증가할 것으로 예상합니다. 주식은 매수인가요?",
+      "source": "Yahoo",
+      "published_at": "2026-06-12T08:10:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "SK하이닉스"
       ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Stock Market Today, June 11: Oracle Falls After AI Spending Guidance Sparks Cash Flow Concerns",
-      "title_kr": "오늘, 6월 11일 주식 시장: AI 지출 지침으로 인해 현금 흐름에 대한 우려가 촉발된 후 Oracle이 하락",
-      "source": "Yahoo",
-      "published_at": "2026-06-11T21:29:23+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
     }
   ],
   "macro": {
@@ -375,13 +375,13 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 19.44,
-      "change_pct": 0.0,
+      "price": 19.17,
+      "change_pct": -1.39,
       "label": "VIX"
     },
     "btc": {
-      "price": 62980.0,
-      "change_pct": -0.91,
+      "price": 63702.71,
+      "change_pct": 0.22,
       "label": "BTC"
     }
   },
