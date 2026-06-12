@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-12T00:11:48.787746+00:00",
+  "fetched_at": "2026-06-12T02:32:31.314382+00:00",
   "us_mood_score": 60,
   "kr_mood_score": 100,
   "us_mood": "neutral",
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 5.01,
-      "actual_kr_pct": 8.61,
+      "actual_kr_pct": 7.62,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 280.71,
-      "kr_price": 2282000.0
+      "kr_price": 2261000.0
     },
     {
       "us_ticker": "AMD",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 4.62,
-      "actual_kr_pct": 8.61,
+      "actual_kr_pct": 7.62,
       "reason": "MI355X용 HBM 공급",
       "us_price": 488.45,
-      "kr_price": 2282000.0
+      "kr_price": 2261000.0
     },
     {
       "us_ticker": "TSLA",
@@ -72,10 +72,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 3.13,
-      "actual_kr_pct": 4.03,
+      "actual_kr_pct": 4.81,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 399.15,
-      "kr_price": 400000.0
+      "kr_price": 403000.0
     },
     {
       "us_ticker": "TSLA",
@@ -84,10 +84,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.85,
-      "actual_kr_pct": 5.9,
+      "actual_kr_pct": 6.09,
       "reason": "NCA 양극재 공급",
       "us_price": 399.15,
-      "kr_price": 174000.0
+      "kr_price": 174300.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.6,
-      "actual_kr_pct": 8.61,
+      "actual_kr_pct": 7.62,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 204.87,
-      "kr_price": 2282000.0
+      "kr_price": 2261000.0
     },
     {
       "us_ticker": "AVGO",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.52,
-      "actual_kr_pct": 8.61,
+      "actual_kr_pct": 7.62,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 385.57,
-      "kr_price": 2282000.0
+      "kr_price": 2261000.0
     },
     {
       "us_ticker": "MSTR",
@@ -204,10 +204,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.15,
-      "actual_kr_pct": 9.2,
+      "actual_kr_pct": 11.2,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 204.87,
-      "kr_price": 326500.0
+      "kr_price": 332500.0
     },
     {
       "us_ticker": "MSTR",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.62,
-      "actual_kr_pct": 3.13,
+      "actual_kr_pct": 13.39,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 390.34,
-      "kr_price": 231000.0
+      "kr_price": 254000.0
     },
     {
       "us_ticker": "MSFT",
@@ -240,10 +240,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.57,
-      "actual_kr_pct": 2.54,
+      "actual_kr_pct": 7.38,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 390.34,
-      "kr_price": 40300.0
+      "kr_price": 42200.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 8.9,
+      "kr_actual_avg_pct": 9.41,
       "beta": 0.65,
       "predicted_kr_avg_pct": 4.05,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 4.96,
+      "kr_actual_avg_pct": 5.45,
       "beta": 0.58,
       "predicted_kr_avg_pct": 2.67,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 2.83,
+      "kr_actual_avg_pct": 10.38,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.03,
       "lag_hours": 8
@@ -328,6 +328,17 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "INTC",
+      "title": "Elan Microelectronics Corp (TPE:2458) Q1 2026 Earnings Call Highlights: Strategic Shifts and ...",
+      "title_kr": "Elan Microelectronics Corp (TPE:2458) 2026년 1분기 실적 발표 하이라이트: 전략적 변화 및 ...",
+      "source": "Yahoo",
+      "published_at": "2026-06-12T01:00:44+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스"
+      ]
+    },
+    {
       "ticker": "MSFT",
       "title": "Stock Market Today, June 11: Oracle Falls After AI Spending Guidance Sparks Cash Flow Concerns",
       "title_kr": "오늘, 6월 11일 주식 시장: AI 지출 지침으로 인해 현금 흐름에 대한 우려가 촉발된 후 Oracle이 하락",
@@ -350,18 +361,6 @@
         "SK하이닉스",
         "한미반도체"
       ]
-    },
-    {
-      "ticker": "META",
-      "title": "Canada Unveils Youth Social Media Ban With 3% Revenue Penalty Risk",
-      "title_kr": "캐나다, 3% 수익 페널티 위험으로 청소년 소셜 미디어 금지 발표",
-      "source": "Yahoo",
-      "published_at": "2026-06-11T17:47:22+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "하이브"
-      ]
     }
   ],
   "macro": {
@@ -381,8 +380,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 63658.64,
-      "change_pct": 0.17,
+      "price": 63506.0,
+      "change_pct": -0.07,
       "label": "BTC"
     }
   },
