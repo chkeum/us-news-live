@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-14T12:31:13.725667+00:00",
+  "fetched_at": "2026-06-14T14:41:36.721157+00:00",
   "sp500": {
     "price": 7431.46,
     "change_pct": 2.26,
@@ -21,44 +21,56 @@
     "label": "VIX"
   },
   "btc": {
-    "price": 64422.19,
-    "change_pct": 0.0,
+    "price": 63922.68,
+    "change_pct": -0.77,
     "label": "BTC"
   },
   "watchlist": {
     "NVDA": {
-      "price": 205.19,
-      "change_pct": 0.16
+      "price": 205.21,
+      "change_pct": 0.17
     },
     "MRVL": {
-      "price": 279.7,
-      "change_pct": -0.36
+      "price": 279.72,
+      "change_pct": -0.35
     },
     "TSLA": {
-      "price": 406.43,
-      "change_pct": 1.82
+      "price": 406.45,
+      "change_pct": 1.83
     },
     "MSTR": {
-      "price": 123.97,
-      "change_pct": 3.18
+      "price": 123.99,
+      "change_pct": 3.2
     },
     "GOOGL": {
-      "price": 359.68,
-      "change_pct": 0.53
+      "price": 359.7,
+      "change_pct": 0.54
     },
     "AMD": {
-      "price": 511.57,
-      "change_pct": 4.73
+      "price": 511.59,
+      "change_pct": 4.74
     },
     "META": {
-      "price": 566.98,
-      "change_pct": -0.26
+      "price": 567,
+      "change_pct": -0.25
+    },
+    "MSFT": {
+      "price": 390.76,
+      "change_pct": 0.11
+    },
+    "AMZN": {
+      "price": 238.57,
+      "change_pct": -1.22
+    },
+    "AVGO": {
+      "price": 382.09,
+      "change_pct": -0.9
     }
   },
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 137,
+      "mentions": 142,
       "surge_pct": 0
     },
     {
@@ -68,12 +80,7 @@
     },
     {
       "ticker": "AMZN",
-      "mentions": 10,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "TSLA",
-      "mentions": 6,
+      "mentions": 9,
       "surge_pct": 0
     },
     {
@@ -82,13 +89,18 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MSFT",
+      "ticker": "TSLA",
       "mentions": 5,
       "surge_pct": 0
     },
     {
+      "ticker": "MSFT",
+      "mentions": 4,
+      "surge_pct": 0
+    },
+    {
       "ticker": "META",
-      "mentions": 5,
+      "mentions": 4,
       "surge_pct": 0
     },
     {
@@ -102,8 +114,8 @@
       "surge_pct": 0
     },
     {
-      "ticker": "PLTR",
-      "mentions": 3,
+      "ticker": "INTC",
+      "mentions": 2,
       "surge_pct": 0
     }
   ],
