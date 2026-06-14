@@ -1,78 +1,78 @@
 {
-  "fetched_at": "2026-06-14T22:02:18.048104+00:00",
+  "fetched_at": "2026-06-14T23:43:26.055955+00:00",
   "kospi": {
     "price": 8123.62,
-    "change_pct": 4.63,
+    "change_pct": 0.0,
     "label": "KOSPI"
   },
   "kosdaq": {
     "price": 1029.05,
-    "change_pct": 3.22,
+    "change_pct": 0.0,
     "label": "KOSDAQ"
   },
   "kospi200": {
     "price": 1291.32,
-    "change_pct": 4.85,
+    "change_pct": 0.0,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
       "price": 322500.0,
-      "change_pct": 7.86,
+      "change_pct": 0.0,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
       "price": 2150000.0,
-      "change_pct": 2.33,
+      "change_pct": 0.0,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
       "price": 400000.0,
-      "change_pct": 4.03,
+      "change_pct": 0.0,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
     "005380": {
       "price": 607000.0,
-      "change_pct": 1.68,
+      "change_pct": 0.0,
       "name": "현대차",
       "code": "005380"
     },
     "035420": {
       "price": 247000.0,
-      "change_pct": 10.27,
+      "change_pct": 0.0,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
       "price": 41500.0,
-      "change_pct": 5.6,
+      "change_pct": 0.0,
       "name": "카카오",
       "code": "035720"
     },
     "207940": {
       "price": 1295000.0,
-      "change_pct": 0.7,
+      "change_pct": 0.0,
       "name": "삼성바이오로직스",
       "code": "207940"
     },
     "005490": {
       "price": 377000.0,
-      "change_pct": 5.31,
+      "change_pct": 0.0,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
       "price": 345000.0,
-      "change_pct": 9.0,
+      "change_pct": 0.0,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
       "price": 170000.0,
-      "change_pct": 3.47,
+      "change_pct": 0.0,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -100,6 +100,12 @@
       "ticker": "373220",
       "name": "LG에너지솔루션",
       "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "055550",
+      "name": "신한지주",
+      "mentions": 1,
       "surge_pct": 0
     },
     {
@@ -131,15 +137,9 @@
       "name": "콜마홀딩스",
       "mentions": 1,
       "surge_pct": 0
-    },
-    {
-      "ticker": "014620",
-      "name": "성광벤드",
-      "mentions": 1,
-      "surge_pct": 0
     }
   ],
-  "mood_score": 100,
-  "mood": "bullish",
-  "mood_summary": "KOSPI +4.63% · KOSDAQ +3.22%"
+  "mood_score": 50,
+  "mood": "neutral",
+  "mood_summary": "KOSPI +0.00% · KOSDAQ +0.00%"
 }
