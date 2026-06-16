@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-06-16T22:04:41.156565+00:00",
+  "fetched_at": "2026-06-16T23:43:42.621612+00:00",
   "us_mood_score": 67,
-  "kr_mood_score": 54,
+  "kr_mood_score": 50,
   "us_mood": "bullish",
   "kr_mood": "neutral",
   "predictions": [
@@ -48,7 +48,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -4.4,
-      "actual_kr_pct": 4.11,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 278.67,
       "kr_price": 2382000.0
@@ -60,7 +60,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -4.23,
-      "actual_kr_pct": 4.11,
+      "actual_kr_pct": 0.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 507.29,
       "kr_price": 2382000.0
@@ -120,7 +120,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.84,
-      "actual_kr_pct": 4.11,
+      "actual_kr_pct": 0.0,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 376.71,
       "kr_price": 2382000.0
@@ -132,7 +132,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.71,
-      "actual_kr_pct": 4.11,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 207.41,
       "kr_price": 2382000.0
@@ -156,7 +156,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.23,
-      "actual_kr_pct": 1.78,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 207.41,
       "kr_price": 343000.0
@@ -168,7 +168,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.07,
-      "actual_kr_pct": -2.38,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 404.66,
       "kr_price": 410500.0
@@ -180,7 +180,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.98,
-      "actual_kr_pct": -3.75,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 404.66,
       "kr_price": 179500.0
@@ -228,7 +228,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.52,
-      "actual_kr_pct": -2.42,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 393.83,
       "kr_price": 242000.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 2.95,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": -3.87,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -3.06,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.92,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -1.58,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.07,
       "lag_hours": 8
@@ -329,25 +329,14 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "Paying 50x Earnings Can Still Be Cheap — If You Know This One Thing",
-      "title_kr": "50배의 수익을 지불하는 것은 여전히 ​​​​저렴할 수 있습니다 — 이것 한 가지를 알고 있다면",
+      "title": "Forget P&G: This Defensive Cash-Flow Powerhouse Just Beat Earnings and Is a Best Buy Today",
+      "title_kr": "P&G는 잊어라: 이 방어적인 현금 흐름 강국은 수익을 능가하며 현재 베스트 바이입니다.",
       "source": "Yahoo",
-      "published_at": "2026-06-16T15:34:09+00:00",
+      "published_at": "2026-06-16T21:36:29+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "title": "Elon Musk Just Predicted That SpaceX Will Make $1 Trillion in Annual Revenue by 2030",
-      "title_kr": "Elon Musk는 SpaceX가 2030년까지 연매출 1조 달러를 벌 것이라고 예측했습니다.",
-      "source": "Yahoo",
-      "published_at": "2026-06-16T14:45:01+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스"
       ]
     },
     {
@@ -360,6 +349,18 @@
       "kr_pairs": [
         "SK하이닉스",
         "삼성전자"
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "BofA Reiterates Buy Rating on Meta Platforms (META) Cites AI Strategy a Key Growth Catalyst",
+      "title_kr": "BofA, 메타 플랫폼(META)에 대한 매수 의견 재확인, AI 전략을 핵심 성장 촉매로 인용",
+      "source": "Yahoo",
+      "published_at": "2026-06-16T18:49:24+00:00",
+      "category": "analyst",
+      "kr_pairs": [
+        "NAVER",
+        "하이브"
       ]
     }
   ],
@@ -380,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 65687.0,
-      "change_pct": -0.91,
+      "price": 65650.87,
+      "change_pct": -0.96,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 67/100, KR 무드 54/100."
+  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 67/100, KR 무드 50/100."
 }
