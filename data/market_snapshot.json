@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-17T02:08:03.129881+00:00",
+  "fetched_at": "2026-06-17T02:40:50.285518+00:00",
   "sp500": {
     "price": 7511.35,
     "change_pct": 1.08,
@@ -21,29 +21,70 @@
     "label": "VIX"
   },
   "btc": {
-    "price": 65810.01,
-    "change_pct": 0.31,
+    "price": 65772.0,
+    "change_pct": 0.09,
     "label": "BTC"
   },
-  "watchlist": {},
+  "watchlist": {
+    "NVDA": {
+      "price": 207.41,
+      "change_pct": -2.37
+    },
+    "MRVL": {
+      "price": 278.67,
+      "change_pct": -9.78
+    },
+    "TSLA": {
+      "price": 404.66,
+      "change_pct": -1.58
+    },
+    "MSTR": {
+      "price": 122.81,
+      "change_pct": -6.35
+    },
+    "GOOGL": {
+      "price": 373.25,
+      "change_pct": 1.06
+    },
+    "AMD": {
+      "price": 507.29,
+      "change_pct": -7.3
+    },
+    "META": {
+      "price": 600.21,
+      "change_pct": 1.13
+    },
+    "MSFT": {
+      "price": 393.83,
+      "change_pct": -1.48
+    },
+    "AMZN": {
+      "price": 246,
+      "change_pct": -0.01
+    },
+    "AVGO": {
+      "price": 376.71,
+      "change_pct": -4.37
+    }
+  },
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 112,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSFT",
-      "mentions": 14,
+      "mentions": 102,
       "surge_pct": 0
     },
     {
       "ticker": "TSLA",
-      "mentions": 14,
+      "mentions": 15,
       "surge_pct": 0
     },
     {
-      "ticker": "AMZN",
+      "ticker": "GOOGL",
+      "mentions": 13,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MSFT",
       "mentions": 12,
       "surge_pct": 0
     },
@@ -53,27 +94,27 @@
       "surge_pct": 0
     },
     {
-      "ticker": "PLTR",
-      "mentions": 8,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "AAPL",
-      "mentions": 8,
+      "ticker": "AMZN",
+      "mentions": 10,
       "surge_pct": 0
     },
     {
       "ticker": "AMD",
-      "mentions": 7,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "INTC",
-      "mentions": 7,
+      "mentions": 9,
       "surge_pct": 0
     },
     {
       "ticker": "MU",
+      "mentions": 6,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "PLTR",
+      "mentions": 5,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "INTC",
       "mentions": 4,
       "surge_pct": 0
     }
