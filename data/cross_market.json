@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-17T02:41:13.086177+00:00",
-  "us_mood_score": 67,
-  "kr_mood_score": 62,
+  "fetched_at": "2026-06-17T07:39:41.913107+00:00",
+  "us_mood_score": 69,
+  "kr_mood_score": 70,
   "us_mood": "bullish",
-  "kr_mood": "neutral",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "MRVL",
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -4.4,
-      "actual_kr_pct": 1.26,
+      "actual_kr_pct": 5.84,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 278.67,
-      "kr_price": 2412000.0
+      "kr_price": 2521000.0
     },
     {
       "us_ticker": "AMD",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -4.23,
-      "actual_kr_pct": 1.26,
+      "actual_kr_pct": 5.84,
       "reason": "MI355X용 HBM 공급",
       "us_price": 507.29,
-      "kr_price": 2412000.0
+      "kr_price": 2521000.0
     },
     {
       "us_ticker": "AVGO",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.84,
-      "actual_kr_pct": 1.26,
+      "actual_kr_pct": 5.84,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 376.71,
-      "kr_price": 2412000.0
+      "kr_price": 2521000.0
     },
     {
       "us_ticker": "NVDA",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.71,
-      "actual_kr_pct": 1.26,
+      "actual_kr_pct": 5.84,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 207.41,
-      "kr_price": 2412000.0
+      "kr_price": 2521000.0
     },
     {
       "us_ticker": "MSTR",
@@ -156,10 +156,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.23,
-      "actual_kr_pct": -1.75,
+      "actual_kr_pct": 1.02,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 207.41,
-      "kr_price": 337000.0
+      "kr_price": 346500.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.07,
-      "actual_kr_pct": 1.95,
+      "actual_kr_pct": 1.34,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 404.66,
-      "kr_price": 418500.0
+      "kr_price": 416000.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.98,
-      "actual_kr_pct": 0.5,
+      "actual_kr_pct": 0.28,
       "reason": "NCA 양극재 공급",
       "us_price": 404.66,
-      "kr_price": 180400.0
+      "kr_price": 180000.0
     },
     {
       "us_ticker": "TSLA",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -0.24,
+      "kr_actual_avg_pct": 3.43,
       "beta": 0.65,
       "predicted_kr_avg_pct": -3.87,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 1.23,
+      "kr_actual_avg_pct": 0.81,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.92,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.86,
+      "kr_actual_avg_pct": 0.43,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.07,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "MU",
+      "title": "Micron: New Data Indicates Consensus Estimates Are Too Conservative (Earnings Preview)",
+      "title_kr": "Micron: 새로운 데이터는 합의 추정치가 너무 보수적임을 나타냅니다(수익 미리보기)",
+      "source": "SeekingAlpha",
+      "published_at": "2026-06-17T02:32:04+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "삼성전자"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "title": "Forget P&G: This Defensive Cash-Flow Powerhouse Just Beat Earnings and Is a Best Buy Today",
       "title_kr": "P&G는 잊어라: 이 방어적인 현금 흐름 강국은 수익을 능가하며 현재 베스트 바이입니다.",
@@ -340,27 +352,14 @@
       ]
     },
     {
-      "ticker": "MU",
-      "title": "Micron gets aggressive stock price target from veteran analyst",
-      "title_kr": "마이크론, 베테랑 분석가로부터 공격적인 주가 목표 달성",
+      "ticker": "INTC",
+      "title": "Intel (INTC) Stock Could Be 10% Undervalued After BofA Double Upgrade",
+      "title_kr": "BofA 이중 업그레이드 후 인텔(INTC) 주식이 10% 저평가될 수 있음",
       "source": "Yahoo",
-      "published_at": "2026-06-16T21:47:00+00:00",
+      "published_at": "2026-06-17T05:10:29+00:00",
       "category": "analyst",
       "kr_pairs": [
-        "SK하이닉스",
-        "삼성전자"
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "BofA Reiterates Buy Rating on Meta Platforms (META) Cites AI Strategy a Key Growth Catalyst",
-      "title_kr": "BofA, 메타 플랫폼(META)에 대한 매수 의견 재확인, AI 전략을 핵심 성장 촉매로 인용",
-      "source": "Yahoo",
-      "published_at": "2026-06-16T18:49:24+00:00",
-      "category": "analyst",
-      "kr_pairs": [
-        "NAVER",
-        "하이브"
+        "SK하이닉스"
       ]
     }
   ],
@@ -376,15 +375,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.41,
-      "change_pct": 1.3,
+      "price": 16.16,
+      "change_pct": -1.52,
       "label": "VIX"
     },
     "btc": {
-      "price": 65772.0,
-      "change_pct": 0.09,
+      "price": 65463.41,
+      "change_pct": -0.21,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 67/100, KR 무드 62/100."
+  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 69/100, KR 무드 70/100."
 }
