@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-17T21:47:56.961649+00:00",
+  "fetched_at": "2026-06-17T23:10:00.360871+00:00",
   "us_mood_score": 18,
-  "kr_mood_score": 70,
+  "kr_mood_score": 50,
   "us_mood": "bearish",
-  "kr_mood": "bullish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "MRVL",
@@ -48,7 +48,7 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -2.07,
-      "actual_kr_pct": 0.62,
+      "actual_kr_pct": 0.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 567.58,
       "kr_price": 243500.0
@@ -60,7 +60,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.81,
-      "actual_kr_pct": 5.84,
+      "actual_kr_pct": 0.0,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 392.9,
       "kr_price": 2521000.0
@@ -84,7 +84,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.75,
-      "actual_kr_pct": 5.84,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 289.54,
       "kr_price": 2521000.0
@@ -108,7 +108,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.39,
-      "actual_kr_pct": 1.34,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 396.38,
       "kr_price": 416000.0
@@ -120,7 +120,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -1.33,
-      "actual_kr_pct": 0.62,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 378.91,
       "kr_price": 243500.0
@@ -132,7 +132,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -1.27,
-      "actual_kr_pct": 0.28,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 396.38,
       "kr_price": 180000.0
@@ -156,7 +156,7 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -1.21,
-      "actual_kr_pct": 0.25,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 378.91,
       "kr_price": 40550.0
@@ -216,7 +216,7 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -1.06,
-      "actual_kr_pct": 0.62,
+      "actual_kr_pct": 0.0,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 363.79,
       "kr_price": 243500.0
@@ -240,7 +240,7 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -1.04,
-      "actual_kr_pct": 0.62,
+      "actual_kr_pct": 0.0,
       "reason": "커머스·클라우드 동행",
       "us_price": 237.5,
       "kr_price": 243500.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 3.43,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.28,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.81,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": -1.19,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.43,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": -1.45,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "NVDA",
+      "title": "Is Micron Stock's Record-Breaking Run A Cyclical Peak Or A New AI Reality?",
+      "title_kr": "Micron Stock의 기록적인 상승은 순환적 정점인가 아니면 새로운 AI 현실인가?",
+      "source": "Yahoo",
+      "published_at": "2026-06-17T21:01:52+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
       "ticker": "MU",
       "title": "Wall Street Grows More Bullish on Micron Ahead of Earnings",
       "title_kr": "월스트리트, 실적에 앞서 마이크론에 대해 더욱 낙관적 성장",
@@ -337,18 +349,6 @@
       "kr_pairs": [
         "SK하이닉스",
         "삼성전자"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Is AGNC Still a Reliable Income Pick After Its Latest Earnings?",
-      "title_kr": "AGNC는 최근 수익 이후에도 여전히 신뢰할 수 있는 소득 선택인가요?",
-      "source": "Yahoo",
-      "published_at": "2026-06-17T18:50:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     },
     {
@@ -380,10 +380,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 64128.0,
-      "change_pct": -2.24,
+      "price": 64239.89,
+      "change_pct": -2.07,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +3.9% → 한미반도체 개장 상방 압력 예상 (+2.4% 전후). US 무드 18/100, KR 무드 70/100."
+  "summary": "미국 MRVL +3.9% → 한미반도체 개장 상방 압력 예상 (+2.4% 전후). US 무드 18/100, KR 무드 50/100."
 }
