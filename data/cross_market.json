@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-06-19T14:42:21.841404+00:00",
+  "fetched_at": "2026-06-19T17:03:55.630255+00:00",
   "us_mood_score": 51,
   "kr_mood_score": 25,
   "us_mood": "neutral",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "MU",
-      "title": "Micron Earnings Seen as Key Test for AI-Driven Market Rally (MU)",
-      "title_kr": "AI 기반 시장 랠리(MU)의 핵심 테스트로 간주되는 마이크론 수익",
+      "ticker": "AMZN",
+      "title": "CBRS Gears Up to Report Q1 Earnings: What's in Store for the Stock?",
+      "title_kr": "CBRS Gears, 1분기 실적 보고 예정: 주식에 어떤 영향이 미칠까요?",
       "source": "Yahoo",
-      "published_at": "2026-06-19T12:40:11+00:00",
+      "published_at": "2026-06-19T14:37:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "삼성전자"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "title": "Micron seen benefiting from strong memory pricing ahead of fiscal Q3 results",
+      "title_kr": "Micron은 회계연도 3분기 결과를 앞두고 강력한 메모리 가격으로 혜택을 누리고 있습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-06-19T14:20:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -350,18 +362,6 @@
         "SK하이닉스",
         "한미반도체"
       ]
-    },
-    {
-      "ticker": "MSTR",
-      "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide Further Amid Fed's Hawkish Shift: Analyst Paints This Upside Target For BTC If It Holds $64,000 As Support",
-      "title_kr": "연준의 매파적인 변화 속에서 비트코인, 이더리움, XRP, 도지코인이 더욱 미끄러졌습니다. 애널리스트는 BTC가 지지선으로 64,000달러를 보유할 경우 이러한 상승 목표를 제시합니다.",
-      "source": "Yahoo",
-      "published_at": "2026-06-19T02:15:37+00:00",
-      "category": "analyst",
-      "kr_pairs": [
-        "카카오게임즈",
-        "위메이드"
-      ]
     }
   ],
   "macro": {
@@ -376,13 +376,13 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.84,
-      "change_pct": 2.68,
+      "price": 16.78,
+      "change_pct": 2.32,
       "label": "VIX"
     },
     "btc": {
-      "price": 63380.16,
-      "change_pct": -0.96,
+      "price": 62983.73,
+      "change_pct": 0.69,
       "label": "BTC"
     }
   },
