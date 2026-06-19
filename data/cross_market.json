@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-06-19T08:26:03.579298+00:00",
-  "us_mood_score": 51,
+  "fetched_at": "2026-06-19T12:30:04.473109+00:00",
+  "us_mood_score": 56,
   "kr_mood_score": 25,
   "us_mood": "neutral",
   "kr_mood": "bearish",
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "MU",
+      "title": "Investors see Micron earnings as pulse check of AI rally momentum",
+      "title_kr": "투자자들은 마이크론의 실적을 AI 랠리 모멘텀의 맥박 확인으로 본다",
+      "source": "Yahoo",
+      "published_at": "2026-06-19T10:02:23+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "삼성전자"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "title": "Jensen Huang’s Nvidia Is About to Break a Global Earnings Record. That’s No Accident.",
       "title_kr": "Jensen Huang의 Nvidia가 글로벌 수익 기록을 경신할 예정입니다. 그것은 사고가 아닙니다.",
@@ -340,27 +352,15 @@
       ]
     },
     {
-      "ticker": "MU",
-      "title": "Micron Earnings Loom: How Expectations Have Evolved",
-      "title_kr": "Micron Earning Loom: 기대치는 어떻게 진화했나요?",
+      "ticker": "MSTR",
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide Further Amid Fed's Hawkish Shift: Analyst Paints This Upside Target For BTC If It Holds $64,000 As Support",
+      "title_kr": "연준의 매파적인 변화 속에서 비트코인, 이더리움, XRP, 도지코인이 더욱 미끄러졌습니다. 애널리스트는 BTC가 지지선으로 64,000달러를 보유할 경우 이러한 상승 목표를 제시합니다.",
       "source": "Yahoo",
-      "published_at": "2026-06-18T22:51:00+00:00",
-      "category": "earnings",
+      "published_at": "2026-06-19T02:15:37+00:00",
+      "category": "analyst",
       "kr_pairs": [
-        "SK하이닉스",
-        "삼성전자"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Goldman Sachs Says SpaceX Could Hit $474 Billion in Revenue by 2030. Here Are the 3 AI Stocks That Benefit Most.",
-      "title_kr": "Goldman Sachs는 SpaceX가 2030년까지 4,740억 달러의 매출을 달성할 수 있다고 말합니다. 가장 많은 이익을 얻을 수 있는 3가지 AI 주식은 다음과 같습니다.",
-      "source": "Yahoo",
-      "published_at": "2026-06-18T19:50:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "LG에너지솔루션",
-        "에코프로비엠"
+        "카카오게임즈",
+        "위메이드"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.88,
-      "change_pct": 2.93,
+      "price": 17.13,
+      "change_pct": -7.1,
       "label": "VIX"
     },
     "btc": {
-      "price": 62659.14,
-      "change_pct": -2.97,
+      "price": 62562,
+      "change_pct": -2.48,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +7.3% → 한미반도체 개장 상방 압력 예상 (+4.5% 전후). US 무드 51/100, KR 무드 25/100."
+  "summary": "미국 MRVL +7.3% → 한미반도체 개장 상방 압력 예상 (+4.5% 전후). US 무드 56/100, KR 무드 25/100."
 }
