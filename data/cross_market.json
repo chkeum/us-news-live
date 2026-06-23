@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-23T22:02:10.144634+00:00",
-  "us_mood_score": 12,
-  "kr_mood_score": 0,
+  "fetched_at": "2026-06-23T23:12:18.745883+00:00",
+  "us_mood_score": 18,
+  "kr_mood_score": 50,
   "us_mood": "bearish",
-  "kr_mood": "bearish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "MRVL",
@@ -36,7 +36,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -4.21,
-      "actual_kr_pct": -12.47,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 279.04,
       "kr_price": 2555000.0
@@ -48,7 +48,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -3.94,
-      "actual_kr_pct": -6.1,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 381.61,
       "kr_price": 362000.0
@@ -72,7 +72,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -3.59,
-      "actual_kr_pct": -9.48,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 381.61,
       "kr_price": 150900.0
@@ -108,7 +108,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -3.34,
-      "actual_kr_pct": -12.47,
+      "actual_kr_pct": 0.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 519.85,
       "kr_price": 2555000.0
@@ -144,7 +144,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -2.97,
-      "actual_kr_pct": -12.47,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 200.04,
       "kr_price": 2555000.0
@@ -168,7 +168,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -2.15,
-      "actual_kr_pct": -12.31,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 200.04,
       "kr_price": 310000.0
@@ -204,7 +204,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.29,
-      "actual_kr_pct": -12.47,
+      "actual_kr_pct": 0.0,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 380.15,
       "kr_price": 2555000.0
@@ -228,7 +228,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 0.63,
-      "actual_kr_pct": -8.78,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 373.94,
       "kr_price": 202500.0
@@ -240,7 +240,7 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": 0.58,
-      "actual_kr_pct": -6.93,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 373.94,
       "kr_price": 34250.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -12.39,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": -3.63,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -7.79,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": -3.36,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -7.85,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.1,
       "lag_hours": 8
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "NVDA",
-      "title": "Forget Trading Fees: This Power Move Could Completely Redefine Robinhood's Revenue",
-      "title_kr": "거래 수수료는 잊어버리세요: 이 강력한 움직임은 Robinhood의 수익을 완전히 재정의할 수 있습니다.",
+      "ticker": "MU",
+      "title": "Stock Market Today, June 23: Micron Falls as South Korea-Led Memory Selloff Raises Earnings Stakes",
+      "title_kr": "오늘 6월 23일 주식 시장: 한국 주도의 메모리 매도가 수익 지분을 높이면서 마이크론 하락",
       "source": "Yahoo",
-      "published_at": "2026-06-23T19:13:00+00:00",
+      "published_at": "2026-06-23T21:03:21+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "삼성전자"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Cerebras shares drop on earnings debut, with margins below AI chip rivals",
+      "title_kr": "Cerebras 주가는 수익 데뷔 후 하락하고 마진은 AI 칩 경쟁사보다 낮습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-06-23T20:50:43+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -340,23 +352,11 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "title": "A Look Back at Processors and Graphics Chips Stocks’ Q1 Earnings: Broadcom (NASDAQ:AVGO) Vs The Rest Of The Pack",
-      "title_kr": "프로세서 및 그래픽 칩 주식의 1분기 수익 되돌아보기: Broadcom(NASDAQ:AVGO) 대 나머지 팩",
-      "source": "Yahoo",
-      "published_at": "2026-06-23T16:56:46+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "한미반도체",
-        "SK하이닉스"
-      ]
-    },
-    {
       "ticker": "AMZN",
-      "title": "FedEx Earnings Due: A Milestone Report After Massive Transformation",
-      "title_kr": "FedEx 수익 예정: 대대적인 변화 이후의 마일스톤 보고서",
+      "title": "FedEx Earnings Show Weaker Margin Amid Massive Transformation",
+      "title_kr": "FedEx 수익은 대규모 변화 속에서 약한 마진을 보여줍니다.",
       "source": "Yahoo",
-      "published_at": "2026-06-23T16:37:41+00:00",
+      "published_at": "2026-06-23T20:50:07+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 19.49,
-      "change_pct": 12.79,
+      "price": 17.28,
+      "change_pct": 0.0,
       "label": "VIX"
     },
     "btc": {
-      "price": 62606,
-      "change_pct": -2.67,
+      "price": 62533.99,
+      "change_pct": -2.29,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -9.4% → 한미반도체 개장 하방 압력 예상 (-5.8% 전후). US 무드 12/100, KR 무드 0/100."
+  "summary": "미국 MRVL -9.4% → 한미반도체 개장 하방 압력 예상 (-5.8% 전후). US 무드 18/100, KR 무드 50/100."
 }
