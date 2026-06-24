@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-06-24T00:11:02.514285+00:00",
+  "fetched_at": "2026-06-24T02:11:20.918306+00:00",
   "us_mood_score": 12,
-  "kr_mood_score": 83,
+  "kr_mood_score": 99,
   "us_mood": "bearish",
   "kr_mood": "bullish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -4.21,
-      "actual_kr_pct": 3.72,
+      "actual_kr_pct": 3.01,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 279.04,
-      "kr_price": 2650000.0
+      "kr_price": 2632000.0
     },
     {
       "us_ticker": "TSLA",
@@ -48,10 +48,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -3.94,
-      "actual_kr_pct": -0.69,
+      "actual_kr_pct": 0.83,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 381.61,
-      "kr_price": 359500.0
+      "kr_price": 365000.0
     },
     {
       "us_ticker": "AMD",
@@ -72,10 +72,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -3.59,
-      "actual_kr_pct": -1.19,
+      "actual_kr_pct": 3.11,
       "reason": "NCA 양극재 공급",
       "us_price": 381.61,
-      "kr_price": 149100.0
+      "kr_price": 155600.0
     },
     {
       "us_ticker": "NVDA",
@@ -108,10 +108,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -3.34,
-      "actual_kr_pct": 3.72,
+      "actual_kr_pct": 3.01,
       "reason": "MI355X용 HBM 공급",
       "us_price": 519.85,
-      "kr_price": 2650000.0
+      "kr_price": 2632000.0
     },
     {
       "us_ticker": "NVDA",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -2.97,
-      "actual_kr_pct": 3.72,
+      "actual_kr_pct": 3.01,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 200.04,
-      "kr_price": 2650000.0
+      "kr_price": 2632000.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -2.15,
-      "actual_kr_pct": 6.29,
+      "actual_kr_pct": 7.26,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 200.04,
-      "kr_price": 329500.0
+      "kr_price": 332500.0
     },
     {
       "us_ticker": "MSTR",
@@ -204,10 +204,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.29,
-      "actual_kr_pct": 3.72,
+      "actual_kr_pct": 3.01,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 380.15,
-      "kr_price": 2650000.0
+      "kr_price": 2632000.0
     },
     {
       "us_ticker": "MSTR",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 0.63,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.25,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 373.94,
-      "kr_price": 202500.0
+      "kr_price": 202000.0
     },
     {
       "us_ticker": "MSFT",
@@ -240,10 +240,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": 0.58,
-      "actual_kr_pct": -0.44,
+      "actual_kr_pct": 0.73,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 373.94,
-      "kr_price": 34100.0
+      "kr_price": 34500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 5.0,
+      "kr_actual_avg_pct": 5.13,
       "beta": 0.65,
       "predicted_kr_avg_pct": -3.63,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -0.94,
+      "kr_actual_avg_pct": 1.97,
       "beta": 0.58,
       "predicted_kr_avg_pct": -3.36,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.22,
+      "kr_actual_avg_pct": 0.24,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.1,
       "lag_hours": 8
@@ -329,10 +329,10 @@
   "overnight_digest": [
     {
       "ticker": "MU",
-      "title": "Stock Market Today, June 23: Micron Falls as South Korea-Led Memory Selloff Raises Earnings Stakes",
-      "title_kr": "오늘 6월 23일 주식 시장: 한국 주도의 메모리 매도가 수익 지분을 높이면서 마이크론 하락",
+      "title": "Micron earnings, US new home sales: What to Watch",
+      "title_kr": "마이크론 실적, 미국 신규 주택 판매: 주목할만한 점",
       "source": "Yahoo",
-      "published_at": "2026-06-23T21:03:21+00:00",
+      "published_at": "2026-06-23T23:00:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 62850,
-      "change_pct": -1.71,
+      "price": 62860,
+      "change_pct": -1.91,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -9.4% → 한미반도체 개장 하방 압력 예상 (-5.8% 전후). US 무드 12/100, KR 무드 83/100."
+  "summary": "미국 MRVL -9.4% → 한미반도체 개장 하방 압력 예상 (-5.8% 전후). US 무드 12/100, KR 무드 99/100."
 }
