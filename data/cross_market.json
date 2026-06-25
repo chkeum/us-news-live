@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-06-24T23:54:48.761258+00:00",
+  "fetched_at": "2026-06-25T01:54:28.694380+00:00",
   "us_mood_score": 27,
-  "kr_mood_score": 83,
+  "kr_mood_score": 86,
   "us_mood": "bearish",
   "kr_mood": "bullish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.08,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.37,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 375.53,
-      "kr_price": 365500.0
+      "kr_price": 360500.0
     },
     {
       "us_ticker": "TSLA",
@@ -48,10 +48,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.99,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.44,
       "reason": "NCA 양극재 공급",
       "us_price": 375.53,
-      "kr_price": 152500.0
+      "kr_price": 150300.0
     },
     {
       "us_ticker": "TSLA",
@@ -84,10 +84,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.79,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.56,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 365.46,
-      "kr_price": 199400.0
+      "kr_price": 204500.0
     },
     {
       "us_ticker": "TSLA",
@@ -108,10 +108,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.73,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.26,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 365.46,
-      "kr_price": 34000.0
+      "kr_price": 35450.0
     },
     {
       "us_ticker": "MRVL",
@@ -168,10 +168,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -0.38,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 9.46,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 276.7,
-      "kr_price": 2580000.0
+      "kr_price": 2824000.0
     },
     {
       "us_ticker": "NVDA",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.37,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 9.46,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 199,
-      "kr_price": 2580000.0
+      "kr_price": 2824000.0
     },
     {
       "us_ticker": "META",
@@ -192,10 +192,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.31,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.56,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 557.67,
-      "kr_price": 199400.0
+      "kr_price": 204500.0
     },
     {
       "us_ticker": "AVGO",
@@ -216,10 +216,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.27,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 6.09,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 199,
-      "kr_price": 340500.0
+      "kr_price": 361250.0
     },
     {
       "us_ticker": "META",
@@ -240,10 +240,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 0.21,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 9.46,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 382.07,
-      "kr_price": 2580000.0
+      "kr_price": 2824000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 7.78,
       "beta": 0.65,
       "predicted_kr_avg_pct": -0.14,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.41,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.92,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 3.41,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.31,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "AVGO",
+      "title": "OpenAI’s Jalapeno AI Chip, SpaceX’s $25B Debt Raise, and is STRC Breaking?",
+      "title_kr": "OpenAI의 Jalapeno AI 칩, SpaceX의 250억 달러 부채 인상 및 STRC가 깨고 있습니까?",
+      "source": "Yahoo",
+      "published_at": "2026-06-24T21:15:14+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "한미반도체",
+        "SK하이닉스"
+      ]
+    },
+    {
       "ticker": "MSTR",
       "title": "Is Strategy's Bitcoin Machine Breaking Down?",
       "title_kr": "Strategy의 비트코인 ​​머신이 고장나고 있나요?",
@@ -340,27 +352,15 @@
       ]
     },
     {
-      "ticker": "MU",
-      "title": "Dow Jones Futures Rise As Micron Jumps On Earnings, Lifting Sandisk, AI Stocks; Fed Inflation Data Due",
-      "title_kr": "Micron이 수익을 늘리고 Sandisk와 AI 주식을 높이면서 다우존스 선물이 상승합니다. 연준 인플레이션 데이터 기한",
+      "ticker": "GOOGL",
+      "title": "S&P 500, Nasdaq Close Lower On Tech Weakness But Recover After-Hours On Strong Micron Earnings — MU, AVGO, GOOGL In Focus",
+      "title_kr": "S&P 500, Nasdaq은 기술적 약점으로 인해 하락 마감했지만 강력한 Micron 수익으로 영업시간 이후 회복 — MU, AVGO, GOOGL In Focus",
       "source": "Yahoo",
-      "published_at": "2026-06-24T21:38:34+00:00",
+      "published_at": "2026-06-24T22:45:54+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "SK하이닉스",
-        "삼성전자"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Micron Rally Resumes After Big Earnings Beat. The Entire Chip Sector Is Cheering.",
-      "title_kr": "마이크론 랠리, 큰 실적 깨고 재개. 칩업계 전체가 환호한다.",
-      "source": "Yahoo",
-      "published_at": "2026-06-24T21:03:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
+        "NAVER",
+        "카카오"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 61024,
-      "change_pct": -2.71,
+      "price": 60962.01,
+      "change_pct": -3.26,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR -9.3% → 위메이드 개장 하방 압력 예상 (-3.3% 전후). US 무드 27/100, KR 무드 83/100."
+  "summary": "미국 MSTR -9.3% → 위메이드 개장 하방 압력 예상 (-3.3% 전후). US 무드 27/100, KR 무드 86/100."
 }
