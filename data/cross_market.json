@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-06-25T22:10:25.742689+00:00",
+  "fetched_at": "2026-06-25T23:42:41.706611+00:00",
   "us_mood_score": 43,
-  "kr_mood_score": 71,
+  "kr_mood_score": 50,
   "us_mood": "neutral",
-  "kr_mood": "bullish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "MSTR",
@@ -48,7 +48,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 1.43,
-      "actual_kr_pct": 13.06,
+      "actual_kr_pct": 0.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 532.57,
       "kr_price": 2917000.0
@@ -84,7 +84,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -1.21,
-      "actual_kr_pct": 0.15,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 352.83,
       "kr_price": 199700.0
@@ -96,7 +96,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.18,
-      "actual_kr_pct": 13.06,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 195.74,
       "kr_price": 2917000.0
@@ -108,7 +108,7 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -1.11,
-      "actual_kr_pct": 0.74,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 352.83,
       "kr_price": 34250.0
@@ -132,7 +132,7 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -1.01,
-      "actual_kr_pct": 0.15,
+      "actual_kr_pct": 0.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 542.87,
       "kr_price": 199700.0
@@ -156,7 +156,7 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.93,
-      "actual_kr_pct": 0.15,
+      "actual_kr_pct": 0.0,
       "reason": "커머스·클라우드 동행",
       "us_price": 227.01,
       "kr_price": 199700.0
@@ -168,7 +168,7 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": -0.87,
-      "actual_kr_pct": 5.29,
+      "actual_kr_pct": 0.0,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 227.01,
       "kr_price": 358500.0
@@ -180,7 +180,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.85,
-      "actual_kr_pct": 5.29,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 195.74,
       "kr_price": 358500.0
@@ -192,7 +192,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.74,
-      "actual_kr_pct": 13.06,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 281.26,
       "kr_price": 2917000.0
@@ -228,7 +228,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -0.35,
-      "actual_kr_pct": 13.06,
+      "actual_kr_pct": 0.0,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 378.91,
       "kr_price": 2917000.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 9.18,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.27,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -4.63,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.06,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.45,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.92,
       "lag_hours": 8
@@ -340,27 +340,27 @@
       ]
     },
     {
-      "ticker": "NVDA",
-      "title": "AMD Is Trading at 97 Times Forward Earnings While Nvidia Trades at 21 Times -- Someone's Valuation Model Is Wrong. Here's Who I Think It Is.",
-      "title_kr": "AMD는 97배의 선행 수익으로 거래되고 있고 Nvidia는 21배로 거래되고 있습니다. 누군가의 평가 모델이 잘못되었습니다. 내가 생각하는 사람은 다음과 같습니다.",
-      "source": "Yahoo",
-      "published_at": "2026-06-25T19:05:01+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
-    },
-    {
       "ticker": "MU",
-      "title": "Micron Earnings Spark Memory Stock Rally",
-      "title_kr": "마이크론 실적 스파크 메모리 주식 랠리",
+      "title": "Western Digital Stock And Seagate Get Boost From Big Micron Earnings Beat",
+      "title_kr": "Western Digital 주식과 Seagate가 Big Micron 실적 개선으로 부양",
       "source": "Yahoo",
-      "published_at": "2026-06-25T18:48:00+00:00",
+      "published_at": "2026-06-25T21:03:11+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "삼성전자"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "title": "Marvell Technology, Inc. Declares Quarterly Dividend Payment",
+      "title_kr": "Marvell Technology, Inc., 분기별 배당금 지급 선언",
+      "source": "Yahoo",
+      "published_at": "2026-06-25T20:05:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 59984.29,
-      "change_pct": -1.77,
+      "price": 60048,
+      "change_pct": -1.57,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR -9.3% → 위메이드 개장 하방 압력 예상 (-3.3% 전후). US 무드 43/100, KR 무드 71/100."
+  "summary": "미국 MSTR -9.3% → 위메이드 개장 하방 압력 예상 (-3.3% 전후). US 무드 43/100, KR 무드 50/100."
 }
