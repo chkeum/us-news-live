@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-06-26T20:05:33.982263+00:00",
+  "fetched_at": "2026-06-26T21:37:55.085770+00:00",
   "sp500": {
-    "price": 7353.53,
+    "price": 7354.02,
     "change_pct": -0.06,
     "label": "S&P 500"
   },
@@ -16,13 +16,13 @@
     "label": "Dow"
   },
   "vix": {
-    "price": 18.57,
-    "change_pct": -1.69,
+    "price": 18.41,
+    "change_pct": -2.54,
     "label": "VIX"
   },
   "btc": {
-    "price": 59796.01,
-    "change_pct": 0.23,
+    "price": 59885.01,
+    "change_pct": -0.1,
     "label": "BTC"
   },
   "watchlist": {
@@ -47,16 +47,16 @@
       "change_pct": -1.84
     },
     "AMD": {
-      "price": 514.65,
-      "change_pct": -3.36
+      "price": 521.58,
+      "change_pct": -2.06
     },
     "META": {
       "price": 550.25,
       "change_pct": 1.36
     },
     "MSFT": {
-      "price": 374.72,
-      "change_pct": 6.2
+      "price": 372.97,
+      "change_pct": 5.71
     },
     "AMZN": {
       "price": 232.69,
@@ -70,22 +70,17 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 92,
+      "mentions": 99,
       "surge_pct": 0
     },
     {
       "ticker": "MSFT",
-      "mentions": 20,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MU",
-      "mentions": 15,
+      "mentions": 21,
       "surge_pct": 0
     },
     {
       "ticker": "AAPL",
-      "mentions": 14,
+      "mentions": 13,
       "surge_pct": 0
     },
     {
@@ -94,22 +89,27 @@
       "surge_pct": 0
     },
     {
+      "ticker": "MU",
+      "mentions": 9,
+      "surge_pct": 0
+    },
+    {
       "ticker": "TSLA",
-      "mentions": 12,
+      "mentions": 8,
       "surge_pct": 0
     },
     {
       "ticker": "AMZN",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "COIN",
-      "mentions": 5,
+      "mentions": 7,
       "surge_pct": 0
     },
     {
       "ticker": "PLTR",
+      "mentions": 6,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MRVL",
       "mentions": 5,
       "surge_pct": 0
     },
@@ -119,7 +119,7 @@
       "surge_pct": 0
     }
   ],
-  "mood_score": 46,
+  "mood_score": 47,
   "mood": "neutral",
   "mood_summary": "S&P -0.06% · Nasdaq -0.70%"
 }
