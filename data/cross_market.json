@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-02T20:11:11.487431+00:00",
+  "fetched_at": "2026-07-02T21:23:26.745197+00:00",
   "us_mood_score": 41,
   "kr_mood_score": 0,
   "us_mood": "neutral",
@@ -146,7 +146,7 @@
       "predicted_kr_pct": -1.86,
       "actual_kr_pct": 1.27,
       "reason": "AI 인프라 투자 확대 테마",
-      "us_price": 582.88,
+      "us_price": 582.9,
       "kr_price": 199900.0
     },
     {
@@ -170,7 +170,7 @@
       "predicted_kr_pct": -1.37,
       "actual_kr_pct": null,
       "reason": "메타버스·콘텐츠 노출 테마",
-      "us_price": 582.88,
+      "us_price": 582.9,
       "kr_price": null
     },
     {
@@ -328,14 +328,26 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "AMZN",
-      "title": "TripleLift Sees Record Breaking Results for Prime Day 2026 as Offsite Commerce Media Reaches Inflection Point",
-      "title_kr": "TripleLift, 오프사이트 커머스 미디어가 변곡점에 도달함에 따라 Prime Day 2026에서 기록적인 결과 확인",
+      "ticker": "MSFT",
+      "title": "Chevron (CVX) Stock Looks Near Fair Value With Strong Returns But Rich Earnings",
+      "title_kr": "Chevron (CVX) 주식은 높은 수익률과 풍부한 수익으로 공정 가치에 가까워 보입니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-02T14:40:00+00:00",
-      "category": "breaking",
+      "published_at": "2026-07-02T19:13:56+00:00",
+      "category": "earnings",
       "kr_pairs": [
         "NAVER",
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "MU",
+      "title": "Ondo Finance brings U.S. stocks onchain for the first time following SEC guidance",
+      "title_kr": "Ondo Finance는 SEC 지침에 따라 처음으로 미국 주식을 온체인으로 가져왔습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-07-02T17:58:31+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
         "삼성전자"
       ]
     },
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Will Alphabet (GOOG) Beat Estimates Again in Its Next Earnings Report?",
-      "title_kr": "Alphabet (GOOG)이 다음 수익 보고서에서 다시 추정치를 이길까요?",
-      "source": "Yahoo",
-      "published_at": "2026-07-02T16:10:02+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
       ]
     }
   ],
@@ -376,13 +376,13 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.19,
-      "change_pct": -2.41,
+      "price": 16.15,
+      "change_pct": -2.65,
       "label": "VIX"
     },
     "btc": {
-      "price": 61502.51,
-      "change_pct": 2.6,
+      "price": 61543.61,
+      "change_pct": 1.69,
       "label": "BTC"
     }
   },
