@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-03T05:44:01.103579+00:00",
+  "fetched_at": "2026-07-03T08:40:53.394222+00:00",
   "us_mood_score": 41,
-  "kr_mood_score": 84,
+  "kr_mood_score": 92,
   "us_mood": "neutral",
   "kr_mood": "bullish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -5.09,
-      "actual_kr_pct": 1.84,
+      "actual_kr_pct": 2.4,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 393.45,
-      "kr_price": 360500.0
+      "kr_price": 362500.0
     },
     {
       "us_ticker": "TSLA",
@@ -48,10 +48,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -4.64,
-      "actual_kr_pct": -1.51,
+      "actual_kr_pct": -0.88,
       "reason": "NCA 양극재 공급",
       "us_price": 393.45,
-      "kr_price": 123600.0
+      "kr_price": 124400.0
     },
     {
       "us_ticker": "MRVL",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -4.43,
-      "actual_kr_pct": 10.47,
+      "actual_kr_pct": 10.88,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 245.29,
-      "kr_price": 2416000.0
+      "kr_price": 2425000.0
     },
     {
       "us_ticker": "TSLA",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.47,
-      "actual_kr_pct": 10.47,
+      "actual_kr_pct": 10.88,
       "reason": "MI355X용 HBM 공급",
       "us_price": 517.82,
-      "kr_price": 2416000.0
+      "kr_price": 2425000.0
     },
     {
       "us_ticker": "META",
@@ -144,10 +144,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -1.86,
-      "actual_kr_pct": -2.1,
+      "actual_kr_pct": -2.05,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 582.9,
-      "kr_price": 195700.0
+      "kr_price": 195800.0
     },
     {
       "us_ticker": "MSTR",
@@ -216,10 +216,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.01,
-      "actual_kr_pct": 10.47,
+      "actual_kr_pct": 10.88,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 360.45,
-      "kr_price": 2416000.0
+      "kr_price": 2425000.0
     },
     {
       "us_ticker": "NVDA",
@@ -228,10 +228,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.0,
-      "actual_kr_pct": 10.47,
+      "actual_kr_pct": 10.88,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 194.83,
-      "kr_price": 2416000.0
+      "kr_price": 2425000.0
     },
     {
       "us_ticker": "NVDA",
@@ -240,10 +240,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.72,
-      "actual_kr_pct": 8.74,
+      "actual_kr_pct": 8.22,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 194.83,
-      "kr_price": 311000.0
+      "kr_price": 309500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 9.61,
+      "kr_actual_avg_pct": 9.55,
       "beta": 0.65,
       "predicted_kr_avg_pct": -2.91,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.17,
+      "kr_actual_avg_pct": 0.76,
       "beta": 0.58,
       "predicted_kr_avg_pct": -4.34,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.7,
+      "kr_actual_avg_pct": -0.67,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.31,
       "lag_hours": 8
@@ -340,6 +340,18 @@
       ]
     },
     {
+      "ticker": "GOOGL",
+      "title": "Alphabet Earnings Preview: What to Expect",
+      "title_kr": "알파벳 수익 미리보기: 기대할 사항",
+      "source": "Yahoo",
+      "published_at": "2026-07-03T00:54:51+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "MSFT",
       "title": "Stock Market Today, July 2: UiPath Gains as Agentic Automation Strategy Faces Earnings Test",
       "title_kr": "오늘, 7월 2일 주식 시장: 에이전트 자동화 전략이 수익 테스트에 직면하면서 UiPath가 상승",
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "카카오"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Why Nvidia is now striking revenue share deals with neoclouds",
-      "title_kr": "Nvidia가 현재 네오클라우드와 수익 공유 계약을 체결하는 이유",
-      "source": "Yahoo",
-      "published_at": "2026-07-02T20:35:57+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.15,
-      "change_pct": -2.65,
+      "price": 15.92,
+      "change_pct": -1.42,
       "label": "VIX"
     },
     "btc": {
-      "price": 61671.01,
-      "change_pct": 1.74,
+      "price": 61750.91,
+      "change_pct": 2.14,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 41/100, KR 무드 84/100."
+  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 41/100, KR 무드 92/100."
 }
