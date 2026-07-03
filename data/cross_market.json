@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-02T23:41:15.080975+00:00",
+  "fetched_at": "2026-07-03T01:16:16.450163+00:00",
   "us_mood_score": 41,
-  "kr_mood_score": 50,
+  "kr_mood_score": 27,
   "us_mood": "neutral",
-  "kr_mood": "neutral",
+  "kr_mood": "bearish",
   "predictions": [
     {
       "us_ticker": "MRVL",
@@ -36,10 +36,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -5.09,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.71,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 393.45,
-      "kr_price": 354000.0
+      "kr_price": 356500.0
     },
     {
       "us_ticker": "TSLA",
@@ -48,10 +48,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -4.64,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -4.14,
       "reason": "NCA 양극재 공급",
       "us_price": 393.45,
-      "kr_price": 125500.0
+      "kr_price": 120300.0
     },
     {
       "us_ticker": "MRVL",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -4.43,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.87,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 245.29,
-      "kr_price": 2187000.0
+      "kr_price": 2168000.0
     },
     {
       "us_ticker": "TSLA",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.47,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.87,
       "reason": "MI355X용 HBM 공급",
       "us_price": 517.82,
-      "kr_price": 2187000.0
+      "kr_price": 2168000.0
     },
     {
       "us_ticker": "META",
@@ -144,10 +144,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -1.86,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -2.2,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 582.9,
-      "kr_price": 199900.0
+      "kr_price": 195500.0
     },
     {
       "us_ticker": "MSTR",
@@ -216,10 +216,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.01,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.87,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 360.45,
-      "kr_price": 2187000.0
+      "kr_price": 2168000.0
     },
     {
       "us_ticker": "NVDA",
@@ -228,10 +228,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.0,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.87,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 194.83,
-      "kr_price": 2187000.0
+      "kr_price": 2168000.0
     },
     {
       "us_ticker": "NVDA",
@@ -240,10 +240,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.72,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.27,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 194.83,
-      "kr_price": 286000.0
+      "kr_price": 292500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 0.7,
       "beta": 0.65,
       "predicted_kr_avg_pct": -2.91,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.71,
       "beta": 0.58,
       "predicted_kr_avg_pct": -4.34,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.6,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.31,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "MSFT",
+      "title": "Stock Market Today, July 2: UiPath Gains as Agentic Automation Strategy Faces Earnings Test",
+      "title_kr": "오늘, 7월 2일 주식 시장: 에이전트 자동화 전략이 수익 테스트에 직면하면서 UiPath가 상승",
+      "source": "Yahoo",
+      "published_at": "2026-07-02T21:54:21+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "TSLA",
       "title": "Stock Market Today, July 2: Rivian Jumps on Raised 2026 Delivery Guidance",
       "title_kr": "오늘, 7월 2일 주식 시장: Rivian, 2026년 인도 지침 상향 조정",
@@ -350,18 +362,6 @@
         "SK하이닉스",
         "한미반도체"
       ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Chevron (CVX) Stock Looks Near Fair Value With Strong Returns But Rich Earnings",
-      "title_kr": "Chevron (CVX) 주식은 높은 수익률과 풍부한 수익으로 공정 가치에 가까워 보입니다.",
-      "source": "Yahoo",
-      "published_at": "2026-07-02T19:13:56+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
     }
   ],
   "macro": {
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 61479.83,
-      "change_pct": 2.28,
+      "price": 61651.78,
+      "change_pct": 2.87,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 41/100, KR 무드 50/100."
+  "summary": "미국 MRVL -9.8% → 한미반도체 개장 하방 압력 예상 (-6.1% 전후). US 무드 41/100, KR 무드 27/100."
 }
