@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-06T06:47:17.056145+00:00",
+  "fetched_at": "2026-07-06T11:22:29.713907+00:00",
   "sp500": {
     "price": 7483.24,
     "change_pct": -0.21,
@@ -16,13 +16,13 @@
     "label": "Dow"
   },
   "vix": {
-    "price": 15.81,
-    "change_pct": -2.11,
+    "price": 16.37,
+    "change_pct": 3.54,
     "label": "VIX"
   },
   "btc": {
-    "price": 63049.97,
-    "change_pct": 0.47,
+    "price": 62778.2,
+    "change_pct": -1.21,
     "label": "BTC"
   },
   "watchlist": {
@@ -37,64 +37,41 @@
     "TSLA": {
       "price": 393.45,
       "change_pct": -7.49
-    },
-    "MSTR": {
-      "price": 100.77,
-      "change_pct": 7.9
-    },
-    "GOOGL": {
-      "price": 359.91,
-      "change_pct": -0.36
-    },
-    "AMD": {
-      "price": 517.82,
-      "change_pct": -4.26
-    },
-    "META": {
-      "price": 582.9,
-      "change_pct": -4.9
-    },
-    "MSFT": {
-      "price": 390.49,
-      "change_pct": 1.62
-    },
-    "AMZN": {
-      "price": 242.67,
-      "change_pct": 0.4
-    },
-    "AVGO": {
-      "price": 360.45,
-      "change_pct": -2.41
     }
   },
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 141,
+      "mentions": 138,
       "surge_pct": 0
     },
     {
       "ticker": "GOOGL",
-      "mentions": 9,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "TSLA",
-      "mentions": 8,
+      "mentions": 12,
       "surge_pct": 0
     },
     {
       "ticker": "MU",
-      "mentions": 7,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSTR",
-      "mentions": 7,
+      "mentions": 9,
       "surge_pct": 0
     },
     {
       "ticker": "AAPL",
+      "mentions": 6,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "TSLA",
+      "mentions": 5,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MSFT",
+      "mentions": 4,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "META",
       "mentions": 4,
       "surge_pct": 0
     },
@@ -104,22 +81,17 @@
       "surge_pct": 0
     },
     {
-      "ticker": "COIN",
+      "ticker": "MSTR",
       "mentions": 4,
       "surge_pct": 0
     },
     {
-      "ticker": "AVGO",
-      "mentions": 3,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSFT",
+      "ticker": "COIN",
       "mentions": 3,
       "surge_pct": 0
     }
   ],
-  "mood_score": 41,
-  "mood": "neutral",
+  "mood_score": 38,
+  "mood": "bearish",
   "mood_summary": "S&P -0.21% · Nasdaq -1.45%"
 }
