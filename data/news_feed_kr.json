@@ -1,28 +1,6 @@
 {
   "items": [
     {
-      "id": "kr_9872829cfb6aa5",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": "005930",
-      "ticker_name": "삼성전자",
-      "category": "breaking",
-      "title": "[속보]삼성전자 4% SK하이닉스 7% 상승 출발…코스피 7486.64 개장 - 문화일보",
-      "title_kr": "[속보]삼성전자 4% SK하이닉스 7% 상승 출발…코스피 7486.64 개장 - 문화일보",
-      "summary": "[속보]삼성전자 4% SK하이닉스 7% 상승 출발…코스피 7486.64 개장&nbsp;&nbsp;문화일보",
-      "summary_kr": "[속보]삼성전자 4% SK하이닉스 7% 상승 출발…코스피 7486.64 개장&nbsp;&nbsp;문화일보",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8tNVhxaEtPb21FYXVpUXcySnh1aTJiaXVwWDNvZGJQaGdEUlhMMDVVU2ZRc0dSd2puOTVuQTJwZXpXVFdVM1B2NTE4Ympoa3Nw?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-09T00:11:55+00:00",
-      "related_tickers": [
-        {
-          "name": "SK하이닉스",
-          "code": "000660"
-        }
-      ],
-      "change_pct": 3.78
-    },
-    {
       "id": "dt_db47eb4480612d",
       "market": "kr",
       "provider": "dart",
@@ -52,7 +30,37 @@
       "source": "매경 증권",
       "published_at": "2026-07-08T22:17:02+00:00",
       "related_tickers": [],
-      "change_pct": -0.29
+      "change_pct": -1.52
+    },
+    {
+      "id": "dt_4dd12b695f9a2e",
+      "market": "kr",
+      "provider": "dart",
+      "ticker": "430690",
+      "ticker_name": "한싹",
+      "category": "analyst",
+      "title": "[공시] 한싹 — 주식등의대량보유상황보고서(약식)",
+      "title_kr": "[공시] 한싹 — 주식등의대량보유상황보고서(약식)",
+      "summary": "접수번호 20260709000095 · 접수일 2026-07-09",
+      "summary_kr": "접수번호 20260709000095 · 접수일 2026-07-09",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000095",
+      "source": "DART 전자공시",
+      "published_at": "2026-07-09T00:00:00+00:00"
+    },
+    {
+      "id": "dt_d2b4ca8203a5ce",
+      "market": "kr",
+      "provider": "dart",
+      "ticker": "432430",
+      "ticker_name": "와이랩",
+      "category": "analyst",
+      "title": "[공시] 와이랩 — 주식등의대량보유상황보고서(일반)",
+      "title_kr": "[공시] 와이랩 — 주식등의대량보유상황보고서(일반)",
+      "summary": "접수번호 20260709000060 · 접수일 2026-07-09",
+      "summary_kr": "접수번호 20260709000060 · 접수일 2026-07-09",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000060",
+      "source": "DART 전자공시",
+      "published_at": "2026-07-09T00:00:00+00:00"
     },
     {
       "id": "dt_0609ef55e678da",
@@ -176,6 +184,45 @@
       "related_tickers": []
     },
     {
+      "id": "kr_0c046acf2713ae",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": "000660",
+      "ticker_name": "SK하이닉스",
+      "category": "ma",
+      "title": "최태원, 하이닉스 나스닥 상장일 맞춰 미국행…‘오프닝벨 ’ 울리나",
+      "title_kr": "최태원, 하이닉스 나스닥 상장일 맞춰 미국행…‘오프닝벨 ’ 울리나",
+      "summary": "곽노정 하이닉스 사장과 함께 방미 나스닥 ‘오프닝벨 세리머니’ 가능성 투자자에 AI 성장전략 설명 나설 듯SK하이닉스가 미국 나스닥 시장에 상장하는 10일(현지시간), 최태원 SK..",
+      "summary_kr": "곽노정 하이닉스 사장과 함께 방미 나스닥 ‘오프닝벨 세리머니’ 가능성 투자자에 AI 성장전략 설명 나설 듯SK하이닉스가 미국 나스닥 시장에 상장하는 10일(현지시간), 최태원 SK..",
+      "url": "https://www.mk.co.kr/news/business/12094152",
+      "source": "매경 산업",
+      "published_at": "2026-07-09T01:22:38+00:00",
+      "related_tickers": [],
+      "change_pct": 6.12
+    },
+    {
+      "id": "kr_9154fdb9edbbee",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": "000660",
+      "ticker_name": "SK하이닉스",
+      "category": "ma",
+      "title": "KB증권 \"SK하이닉스 ADR 상장, TSMC 사례처럼 재평가 기대\"",
+      "title_kr": "KB증권 \"SK하이닉스 ADR 상장, TSMC 사례처럼 재평가 기대\"",
+      "summary": "(서울-연합뉴스) 이민영 기자 = KB증권은 9일 SK하이닉스[000660]에 대해 미국 주식예탁증서(ADR) 상장에 따라 글로벌 투자자 접근성...",
+      "summary_kr": "(서울-연합뉴스) 이민영 기자 = KB증권은 9일 SK하이닉스[000660]에 대해 미국 주식예탁증서(ADR) 상장에 따라 글로벌 투자자 접근성...",
+      "url": "https://www.yna.co.kr/view/AKR20260709071700008",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:17:02+00:00",
+      "related_tickers": [
+        {
+          "name": "SM",
+          "code": "041510"
+        }
+      ],
+      "change_pct": 6.12
+    },
+    {
       "id": "kr_35f10edbf1d4db",
       "market": "kr",
       "provider": "rss",
@@ -195,7 +242,37 @@
           "code": "000660"
         }
       ],
-      "change_pct": 3.78
+      "change_pct": 1.8
+    },
+    {
+      "id": "dt_e2823989fa0ce6",
+      "market": "kr",
+      "provider": "dart",
+      "ticker": "478110",
+      "ticker_name": "이베스트스팩6호",
+      "category": "ma",
+      "title": "[공시] 이베스트스팩6호 — 기업인수목적회사의예치ㆍ신탁계약내용변경              ",
+      "title_kr": "[공시] 이베스트스팩6호 — 기업인수목적회사의예치ㆍ신탁계약내용변경              ",
+      "summary": "접수번호 20260709900133 · 접수일 2026-07-09",
+      "summary_kr": "접수번호 20260709900133 · 접수일 2026-07-09",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709900133",
+      "source": "DART 전자공시",
+      "published_at": "2026-07-09T00:00:00+00:00"
+    },
+    {
+      "id": "dt_ed1b0504b7dd0d",
+      "market": "kr",
+      "provider": "dart",
+      "ticker": "199290",
+      "ticker_name": "바이오프로테크",
+      "category": "ma",
+      "title": "[공시] 바이오프로테크 — [기재정정]주요사항보고서(전환사채권발행결정)",
+      "title_kr": "[공시] 바이오프로테크 — [기재정정]주요사항보고서(전환사채권발행결정)",
+      "summary": "접수번호 20260709000082 · 접수일 2026-07-09",
+      "summary_kr": "접수번호 20260709000082 · 접수일 2026-07-09",
+      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709000082",
+      "source": "DART 전자공시",
+      "published_at": "2026-07-09T00:00:00+00:00"
     },
     {
       "id": "dt_9167a87d03c01b",
@@ -259,55 +336,7 @@
       "source": "Google News KR",
       "published_at": "2026-07-09T00:21:59+00:00",
       "related_tickers": [],
-      "change_pct": 8.53
-    },
-    {
-      "id": "kr_f441860b5b2bab",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "breaking",
-      "title": "[단독] “유튜브도 하고 책도 팔고”…지점장 4명 문책 부른 은행 팀장의 정체",
-      "title_kr": "[단독] “유튜브도 하고 책도 팔고”…지점장 4명 문책 부른 은행 팀장의 정체",
-      "summary": "여러 지점서 겸직의무 위반 배우자 회사 대출에도 관여 기업은행 내부통제 구멍IBK기업은행 영업점 팀장이 허가 없이 유튜브 채널을 운영하고 필명으로 책을 내 수익을 올리면서, 배우자..",
-      "summary_kr": "여러 지점서 겸직의무 위반 배우자 회사 대출에도 관여 기업은행 내부통제 구멍IBK기업은행 영업점 팀장이 허가 없이 유튜브 채널을 운영하고 필명으로 책을 내 수익을 올리면서, 배우자..",
-      "url": "https://www.mk.co.kr/news/economy/12093505",
-      "source": "매경 경제",
-      "published_at": "2026-07-08T07:27:36+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_a2f2612fe56657",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "breaking",
-      "title": "[속보] 환율 장중 1500원 하회…5월 29일 이후 처음",
-      "title_kr": "[속보] 환율 장중 1500원 하회…5월 29일 이후 처음",
-      "summary": "8일 서울 외환시장에서 원·달러 환율이 1400원대 후반에 거래를 마쳤다. 환율이 1500원 아래로 내려온 것은 5월 29일(1494.9원) 이후 약 두 달 만이다. 서울 외환시장..",
-      "summary_kr": "8일 서울 외환시장에서 원·달러 환율이 1400원대 후반에 거래를 마쳤다. 환율이 1500원 아래로 내려온 것은 5월 29일(1494.9원) 이후 약 두 달 만이다. 서울 외환시장..",
-      "url": "https://www.mk.co.kr/news/economy/12093442",
-      "source": "매경 경제",
-      "published_at": "2026-07-08T06:47:31+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_360d88e6fca650",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "breaking",
-      "title": "[속보]코스피, 5% 급락에 또 매도사이드카 발동 - 경향신문",
-      "title_kr": "[속보]코스피, 5% 급락에 또 매도사이드카 발동 - 경향신문",
-      "summary": "[속보]코스피, 5% 급락에 또 매도사이드카 발동&nbsp;&nbsp;경향신문",
-      "summary_kr": "[속보]코스피, 5% 급락에 또 매도사이드카 발동&nbsp;&nbsp;경향신문",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PSGZrLVBYOXNMd25oZTlLcURUdGl1bWhrMzVzNHU2UWs0eTY2YUtTRDdJY2Uzeko4eURNX0lXWkM0ODdSMjZDZWJnMWZ1MGNjN1g4cDFjZ2lkUdIBX0FVX3lxTFBEb3I5OG1LZDZpcXpXWDBKZ01jNERtQmtQNjZwM0JiNXpLT1hvSFU0TldQQ0VoZzB4c3VQMVBSTVNHT0RMWldManZOdnowSW9JbFZHOWJybXZUdDNuQWxv?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-08T04:40:00+00:00",
-      "related_tickers": []
+      "change_pct": 6.12
     },
     {
       "id": "kr_435ed778f42dce",
@@ -356,22 +385,46 @@
       "source": "매경 경제",
       "published_at": "2026-07-08T11:29:35+00:00",
       "related_tickers": [],
-      "change_pct": 8.53
+      "change_pct": 6.12
     },
     {
-      "id": "dt_fc319f6193afa1",
+      "id": "kr_154c8829187816",
       "market": "kr",
-      "provider": "dart",
-      "ticker": "001270",
-      "ticker_name": "부국증권",
-      "category": "analyst",
-      "title": "[공시] 부국증권 — 주식등의대량보유상황보고서(일반)",
-      "title_kr": "[공시] 부국증권 — 주식등의대량보유상황보고서(일반)",
-      "summary": "접수번호 20260708000584 · 접수일 2026-07-08",
-      "summary_kr": "접수번호 20260708000584 · 접수일 2026-07-08",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260708000584",
-      "source": "DART 전자공시",
-      "published_at": "2026-07-08T00:00:00+00:00"
+      "provider": "rss",
+      "ticker": "005380",
+      "ticker_name": "현대자동차",
+      "category": "general",
+      "title": "올해 상반기 국산 중고차 판매 1위는?",
+      "title_kr": "올해 상반기 국산 중고차 판매 1위는?",
+      "summary": "현대·기아, 상반기 국산 중고차 판매 TOP5 독식 그랜저 1위…아반떼는 20·30대, 카니발은 40대 선호올해 상반기 중고차 시장에서는 현대자동차와 기아의 강세가 두드러졌다. 준..",
+      "summary_kr": "현대·기아, 상반기 국산 중고차 판매 TOP5 독식 그랜저 1위…아반떼는 20·30대, 카니발은 40대 선호올해 상반기 중고차 시장에서는 현대자동차와 기아의 강세가 두드러졌다. 준..",
+      "url": "https://www.mk.co.kr/news/economy/12094179",
+      "source": "매경 경제",
+      "published_at": "2026-07-09T01:50:18+00:00",
+      "related_tickers": [
+        {
+          "name": "기아",
+          "code": "000270"
+        }
+      ],
+      "change_pct": -2.59
+    },
+    {
+      "id": "kr_ed1a9f0050b345",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": "000660",
+      "ticker_name": "SK하이닉스",
+      "category": "general",
+      "title": "“삼전·SK하이닉스에만 거래 몰려”…코스피 흔드는 레버리지 ETF [머니+] - 에너지경제신문",
+      "title_kr": "“삼전·SK하이닉스에만 거래 몰려”…코스피 흔드는 레버리지 ETF [머니+] - 에너지경제신문",
+      "summary": "“삼전·SK하이닉스에만 거래 몰려”…코스피 흔드는 레버리지 ETF [머니+]&nbsp;&nbsp;에너지경제신문",
+      "summary_kr": "“삼전·SK하이닉스에만 거래 몰려”…코스피 흔드는 레버리지 ETF [머니+]&nbsp;&nbsp;에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaenRaX3RXVU44Q2FPTHR0V2FKc0JkMm9CbHJIc3hERHpxcmhjd2hGYllyRkhVa1lZaVUtMTAzS0FDWkRhZk5XeTBFVDJpVVV5VUd5bmFVUEhDckQyZ3NENGYwaw?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-09T01:24:10+00:00",
+      "related_tickers": [],
+      "change_pct": 6.12
     },
     {
       "id": "kr_1829aed7830510",
@@ -388,7 +441,7 @@
       "source": "연합뉴스 경제",
       "published_at": "2026-07-09T00:57:47+00:00",
       "related_tickers": [],
-      "change_pct": -1.41
+      "change_pct": -2.59
     },
     {
       "id": "kr_8dbf0116948f8c",
@@ -405,6 +458,28 @@
       "source": "연합뉴스 경제",
       "published_at": "2026-07-09T00:54:20+00:00",
       "related_tickers": []
+    },
+    {
+      "id": "kr_ccbf33290c10e9",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": "005930",
+      "ticker_name": "삼성전자",
+      "category": "general",
+      "title": "코스피, 美 반도체주 훈풍에 3%대 반등…삼성전자·SK하이닉스 강세[개장시황] - 에너지경제신문",
+      "title_kr": "코스피, 美 반도체주 훈풍에 3%대 반등…삼성전자·SK하이닉스 강세[개장시황] - 에너지경제신문",
+      "summary": "코스피, 美 반도체주 훈풍에 3%대 반등…삼성전자·SK하이닉스 강세[개장시황]&nbsp;&nbsp;에너지경제신문",
+      "summary_kr": "코스피, 美 반도체주 훈풍에 3%대 반등…삼성전자·SK하이닉스 강세[개장시황]&nbsp;&nbsp;에너지경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YbXpEbUtoSGZ4YUktRWQwdG1jajFZVUM5R0p5TmlRZ0tlMFFld09vWVY5bDViYWJ4ZUN4a2tHN0k0MkJDb1E3Z3RsaUtYSUdlcWxQdjN0dTk2M1E?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-09T00:46:01+00:00",
+      "related_tickers": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660"
+        }
+      ],
+      "change_pct": 1.8
     },
     {
       "id": "kr_ef6e2832ec4749",
@@ -442,29 +517,7 @@
       "source": "매경 경제",
       "published_at": "2026-07-09T00:37:29+00:00",
       "related_tickers": [],
-      "change_pct": 3.78
-    },
-    {
-      "id": "kr_edf0a5856bd1a8",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": "005930",
-      "ticker_name": "삼성전자",
-      "category": "general",
-      "title": "[특징주] 삼성전자 장초반 3%대 반등…하닉은 7.6% 급등",
-      "title_kr": "[특징주] 삼성전자 장초반 3%대 반등…하닉은 7.6% 급등",
-      "summary": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 9일 장 초반 각각 3%와 7%대의 급등세를 보인다.",
-      "summary_kr": "(서울=연합뉴스) 황철환 기자 = 삼성전자[005930]와 SK하이닉스[000660]가 9일 장 초반 각각 3%와 7%대의 급등세를 보인다.",
-      "url": "https://www.yna.co.kr/view/AKR20260709047700008",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:12:53+00:00",
-      "related_tickers": [
-        {
-          "name": "SK하이닉스",
-          "code": "000660"
-        }
-      ],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "kr_40a2f41b6ae634",
@@ -486,7 +539,7 @@
           "code": "000660"
         }
       ],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "dt_956bb376bbfcf6",
@@ -502,7 +555,7 @@
       "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709800094",
       "source": "DART 전자공시",
       "published_at": "2026-07-09T00:00:00+00:00",
-      "change_pct": 3.53
+      "change_pct": 0.59
     },
     {
       "id": "kr_cbfe82e3c2917b",
@@ -519,7 +572,7 @@
       "source": "매경 증권",
       "published_at": "2026-07-08T23:36:45+00:00",
       "related_tickers": [],
-      "change_pct": 8.53
+      "change_pct": 6.12
     },
     {
       "id": "kr_f918c34104c022",
@@ -541,7 +594,7 @@
           "code": "000660"
         }
       ],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "kr_c6675d25f5510d",
@@ -558,37 +611,7 @@
       "source": "매경 증권",
       "published_at": "2026-07-08T23:28:56+00:00",
       "related_tickers": [],
-      "change_pct": 8.53
-    },
-    {
-      "id": "dt_a606fc719fde5b",
-      "market": "kr",
-      "provider": "dart",
-      "ticker": "006740",
-      "ticker_name": "블루산업개발",
-      "category": "ma",
-      "title": "[공시] 블루산업개발 — 주요사항보고서(전환사채권발행결정)",
-      "title_kr": "[공시] 블루산업개발 — 주요사항보고서(전환사채권발행결정)",
-      "summary": "접수번호 20260708000583 · 접수일 2026-07-08",
-      "summary_kr": "접수번호 20260708000583 · 접수일 2026-07-08",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260708000583",
-      "source": "DART 전자공시",
-      "published_at": "2026-07-08T00:00:00+00:00"
-    },
-    {
-      "id": "dt_4c810cab1fa0a4",
-      "market": "kr",
-      "provider": "dart",
-      "ticker": "006740",
-      "ticker_name": "블루산업개발",
-      "category": "ma",
-      "title": "[공시] 블루산업개발 — [기재정정]주요사항보고서(유상증자결정)",
-      "title_kr": "[공시] 블루산업개발 — [기재정정]주요사항보고서(유상증자결정)",
-      "summary": "접수번호 20260708000579 · 접수일 2026-07-08",
-      "summary_kr": "접수번호 20260708000579 · 접수일 2026-07-08",
-      "url": "https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260708000579",
-      "source": "DART 전자공시",
-      "published_at": "2026-07-08T00:00:00+00:00"
+      "change_pct": 6.12
     },
     {
       "id": "kr_7dd85d4027130e",
@@ -610,7 +633,23 @@
           "code": "000660"
         }
       ],
-      "change_pct": 3.78
+      "change_pct": 1.8
+    },
+    {
+      "id": "kr_06609bb476e1d0",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "analyst",
+      "title": "전남광주특별시 부시장, 국민이 직접 추천한다",
+      "title_kr": "전남광주특별시 부시장, 국민이 직접 추천한다",
+      "summary": "(서울=연합뉴스) 이상현 기자 = 지난 1일 출범한 전남광주통합특별시의 정무부시장 후보를 국민이 직접 추천한다.",
+      "summary_kr": "(서울=연합뉴스) 이상현 기자 = 지난 1일 출범한 전남광주통합특별시의 정무부시장 후보를 국민이 직접 추천한다.",
+      "url": "https://www.yna.co.kr/view/AKR20260709075100001",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:32:09+00:00",
+      "related_tickers": []
     },
     {
       "id": "kr_9b7ab5f6678f06",
@@ -722,7 +761,7 @@
       "source": "매경 경제",
       "published_at": "2026-07-08T11:17:35+00:00",
       "related_tickers": [],
-      "change_pct": 8.53
+      "change_pct": 6.12
     },
     {
       "id": "kr_9d1d1e43e6cb8a",
@@ -748,7 +787,7 @@
           "code": "035720"
         }
       ],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "kr_8d73a6da5d2e8e",
@@ -765,7 +804,7 @@
       "source": "매경 증권",
       "published_at": "2026-07-08T08:56:40+00:00",
       "related_tickers": [],
-      "change_pct": 8.53
+      "change_pct": 6.12
     },
     {
       "id": "kr_ef4ac6960d76dd",
@@ -784,6 +823,22 @@
       "related_tickers": []
     },
     {
+      "id": "kr_963e4ac7e7780f",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "macro",
+      "title": "한은 총재 \"적절한 시기에 기준금리 인상 필요 판단\"",
+      "title_kr": "한은 총재 \"적절한 시기에 기준금리 인상 필요 판단\"",
+      "summary": "(서울=연합뉴스) 한지훈 기자 = 신현송 한국은행 총재는 9일 &quot;적절한 시기에 기준금리를 인상할 필요가 있다고 판단된다&quot;는 입장을 재확인했다.",
+      "summary_kr": "(서울=연합뉴스) 한지훈 기자 = 신현송 한국은행 총재는 9일 &quot;적절한 시기에 기준금리를 인상할 필요가 있다고 판단된다&quot;는 입장을 재확인했다.",
+      "url": "https://www.yna.co.kr/view/AKR20260709077400002",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:28:10+00:00",
+      "related_tickers": []
+    },
+    {
       "id": "kr_38a9833db5298e",
       "market": "kr",
       "provider": "rss",
@@ -798,7 +853,7 @@
       "source": "매경 산업",
       "published_at": "2026-07-08T08:47:39+00:00",
       "related_tickers": [],
-      "change_pct": -1.41
+      "change_pct": -2.59
     },
     {
       "id": "kr_a96c31e05044cb",
@@ -815,7 +870,23 @@
       "source": "매경 경제",
       "published_at": "2026-07-08T08:47:38+00:00",
       "related_tickers": [],
-      "change_pct": -1.41
+      "change_pct": -2.59
+    },
+    {
+      "id": "kr_3b4b3576a28b69",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "macro",
+      "title": "“내 주식 빼곤 싹다 올랐네요”…고유가·고환율에 심상찮은 밥상물가",
+      "title_kr": "“내 주식 빼곤 싹다 올랐네요”…고유가·고환율에 심상찮은 밥상물가",
+      "summary": "고환율에 수입 단가 오르고 고유가에 농가 피해 증폭돼고유가와 고환율 기조가 장기화하면서 올해 상반기 주요 농축수산물과 먹거리 가격이 큰 폭으로 오른 것으로 나타났다. 9일 국가데이..",
+      "summary_kr": "고환율에 수입 단가 오르고 고유가에 농가 피해 증폭돼고유가와 고환율 기조가 장기화하면서 올해 상반기 주요 농축수산물과 먹거리 가격이 큰 폭으로 오른 것으로 나타났다. 9일 국가데이..",
+      "url": "https://www.mk.co.kr/news/economy/12094155",
+      "source": "매경 경제",
+      "published_at": "2026-07-09T01:26:38+00:00",
+      "related_tickers": []
     },
     {
       "id": "kr_8808a9822ffaf1",
@@ -832,7 +903,7 @@
       "source": "매경 산업",
       "published_at": "2026-07-08T08:37:04+00:00",
       "related_tickers": [],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "kr_943ed7deb6032a",
@@ -849,7 +920,7 @@
       "source": "매경 산업",
       "published_at": "2026-07-08T08:37:03+00:00",
       "related_tickers": [],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "kr_b16e2dd132f0ce",
@@ -882,7 +953,7 @@
       "source": "매경 산업",
       "published_at": "2026-07-08T07:30:23+00:00",
       "related_tickers": [],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "kr_2541990967b497",
@@ -920,7 +991,7 @@
       "source": "매경 산업",
       "published_at": "2026-07-08T06:31:13+00:00",
       "related_tickers": [],
-      "change_pct": 3.78
+      "change_pct": 1.8
     },
     {
       "id": "kr_2c2a17ea3b6e3c",
@@ -1019,6 +1090,70 @@
       "related_tickers": []
     },
     {
+      "id": "kr_4fb5b61cfdc96f",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "analyst",
+      "title": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락 - 연합인포맥스",
+      "title_kr": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락 - 연합인포맥스",
+      "summary": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락&nbsp;&nbsp;연합인포맥스",
+      "summary_kr": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락&nbsp;&nbsp;연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KN0t6SnVweENuUTVYU1RHUjU5aGtlMUFfWWRMaUFYckJQdXFEZ1ZzN2tPVWRFUTJHMmt6UlowbUJVMmdVNEFlOWItOTl4dGdzMTVUVWwwREhNbVBnUzJXdFR6aTU0cjhheXJWV0p4d3M?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-07T01:51:00+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_14e912b2f00ce5",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "80대 모바일뱅킹 가입자 100만 돌파…영업점 ‘마지막 고객’도 떠난다",
+      "title_kr": "80대 모바일뱅킹 가입자 100만 돌파…영업점 ‘마지막 고객’도 떠난다",
+      "summary": "고령층도 ‘디지털 금융’ 일상화 영업점은 WM·기업금융 중심 재편80대 고령층도 은행 창구 대신 스마트폰으로 금융거래를 하는 시대가 본격화됐다. 모바일뱅킹 이용이 빠르게 확산되면서..",
+      "summary_kr": "고령층도 ‘디지털 금융’ 일상화 영업점은 WM·기업금융 중심 재편80대 고령층도 은행 창구 대신 스마트폰으로 금융거래를 하는 시대가 본격화됐다. 모바일뱅킹 이용이 빠르게 확산되면서..",
+      "url": "https://www.mk.co.kr/news/economy/12094180",
+      "source": "매경 경제",
+      "published_at": "2026-07-09T01:50:59+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_aafacddbf4ea48",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "농심, 뉴욕서 한국문화원·식당과 신라면 마케팅",
+      "title_kr": "농심, 뉴욕서 한국문화원·식당과 신라면 마케팅",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 농심[004370]은 미국 뉴욕 현지 식당과 문화체육관광부 산하 뉴욕한국문화원과 협업해 신라면을 활용한 마케팅...",
+      "summary_kr": "(서울=연합뉴스) 김세린 기자 = 농심[004370]은 미국 뉴욕 현지 식당과 문화체육관광부 산하 뉴욕한국문화원과 협업해 신라면을 활용한 마케팅...",
+      "url": "https://www.yna.co.kr/view/AKR20260709067000030",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:45:03+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_c77f11f4372420",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "키옥시아 1대주주 베인캐피털, 손털고 나갔다",
+      "title_kr": "키옥시아 1대주주 베인캐피털, 손털고 나갔다",
+      "summary": "“이제 지분 보유하고 있지 않다” 2024년 상장…이후 4000% 올라 “대규모 매각 물량 기관이 받았을 것”베인캐피털이 일본 유일의 메모리 반도체 생산 기업이자 시가총액 1위인 ..",
+      "summary_kr": "“이제 지분 보유하고 있지 않다” 2024년 상장…이후 4000% 올라 “대규모 매각 물량 기관이 받았을 것”베인캐피털이 일본 유일의 메모리 반도체 생산 기업이자 시가총액 1위인 ..",
+      "url": "https://www.mk.co.kr/news/stock/12094173",
+      "source": "매경 증권",
+      "published_at": "2026-07-09T01:44:21+00:00",
+      "related_tickers": []
+    },
+    {
       "id": "kr_50f7a3d4361434",
       "market": "kr",
       "provider": "rss",
@@ -1051,19 +1186,195 @@
       "related_tickers": []
     },
     {
-      "id": "kr_4fb5b61cfdc96f",
+      "id": "kr_7656042e6c5bbb",
       "market": "kr",
       "provider": "rss",
       "ticker": null,
       "ticker_name": null,
-      "category": "analyst",
-      "title": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락 - 연합인포맥스",
-      "title_kr": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락 - 연합인포맥스",
-      "summary": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락&nbsp;&nbsp;연합인포맥스",
-      "summary_kr": "코스피 급락에 매도 사이드카 발동…반도체 '투톱' 주가도 하락&nbsp;&nbsp;연합인포맥스",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KN0t6SnVweENuUTVYU1RHUjU5aGtlMUFfWWRMaUFYckJQdXFEZ1ZzN2tPVWRFUTJHMmt6UlowbUJVMmdVNEFlOWItOTl4dGdzMTVUVWwwREhNbVBnUzJXdFR6aTU0cjhheXJWV0p4d3M?oc=5",
+      "category": "general",
+      "title": "주말에도 아우디·폭스바겐 리콜 서비스센터 운영",
+      "title_kr": "주말에도 아우디·폭스바겐 리콜 서비스센터 운영",
+      "summary": "(서울=연합뉴스) 임성호 기자 = 한국교통안전공단(TS) 자동차안전연구원과 국토교통부는 폭스바겐그룹코리아 및 주요 이륜차 제작·수입사와 협력해 ...",
+      "summary_kr": "(서울=연합뉴스) 임성호 기자 = 한국교통안전공단(TS) 자동차안전연구원과 국토교통부는 폭스바겐그룹코리아 및 주요 이륜차 제작·수입사와 협력해 ...",
+      "url": "https://www.yna.co.kr/view/AKR20260709078500003",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:38:21+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_b25d5f9b6e01df",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "title_kr": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "summary": "■ 주택 잠기고 하천 범람 위기까지…전국 곳곳서 비 피해 잇따라",
+      "summary_kr": "■ 주택 잠기고 하천 범람 위기까지…전국 곳곳서 비 피해 잇따라",
+      "url": "https://www.yna.co.kr/view/AKR20260709075000011",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:36:00+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_a1cd3757eabc12",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "광주은행, 곡성·구례·진도군 3곳에 지점 개설 추진",
+      "title_kr": "광주은행, 곡성·구례·진도군 3곳에 지점 개설 추진",
+      "summary": "(전남광주=연합뉴스) 전승현 기자 = 광주은행은 전남광주통합특별시 출범에 따라 그간 지점이 없던 곡성·구례· 진도군에 지점을 개설하는 방안을 추...",
+      "summary_kr": "(전남광주=연합뉴스) 전승현 기자 = 광주은행은 전남광주통합특별시 출범에 따라 그간 지점이 없던 곡성·구례· 진도군에 지점을 개설하는 방안을 추...",
+      "url": "https://www.yna.co.kr/view/AKR20260709077700054",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:31:15+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_bde30ba3683556",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "인천 '철강업 버팀이음 프로젝트' 1천200여명 지원 신청",
+      "title_kr": "인천 '철강업 버팀이음 프로젝트' 1천200여명 지원 신청",
+      "summary": "(인천=연합뉴스) 신민재 기자 = 인천시는 9일 제물포구가 &apos;고용위기 선제대응지역&apos;으로 신규 지정·고시됨에 따라 후속 지원사업을 추진한다고 밝혔...",
+      "summary_kr": "(인천=연합뉴스) 신민재 기자 = 인천시는 9일 제물포구가 &apos;고용위기 선제대응지역&apos;으로 신규 지정·고시됨에 따라 후속 지원사업을 추진한다고 밝혔...",
+      "url": "https://www.yna.co.kr/view/AKR20260709077300065",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:30:07+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_032727f00d007e",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "성수대교 진입부에 9㎝ 단차…서울시 \"즉시 정밀안전진단\"(종합)",
+      "title_kr": "성수대교 진입부에 9㎝ 단차…서울시 \"즉시 정밀안전진단\"(종합)",
+      "summary": "(서울=연합뉴스) 김동규 기자 = 서울 성수대교 남단 진입 램프에서 약 9㎝ 높이의 단차가 확인돼 이 구간을 지나는 시민들의 신고가 이어지고 있...",
+      "summary_kr": "(서울=연합뉴스) 김동규 기자 = 서울 성수대교 남단 진입 램프에서 약 9㎝ 높이의 단차가 확인돼 이 구간을 지나는 시민들의 신고가 이어지고 있...",
+      "url": "https://www.yna.co.kr/view/AKR20260709052851004",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:29:10+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_9789d7bc9a8f1e",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "코스피, 연이틀 급락 뒤 반등...장 초반 3%대 상승 - YTN",
+      "title_kr": "코스피, 연이틀 급락 뒤 반등...장 초반 3%대 상승 - YTN",
+      "summary": "코스피, 연이틀 급락 뒤 반등...장 초반 3%대 상승&nbsp;&nbsp;YTN",
+      "summary_kr": "코스피, 연이틀 급락 뒤 반등...장 초반 3%대 상승&nbsp;&nbsp;YTN",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fUkNVbTlNclJUWnF1dkU4SGQwNm1iTldFRllZQ3diOE9VbHpqNkZ0UjhhYUhCSG10SnlvUVRKMkw4ODgwR1FLQktlbWNacDRnSHpELXVqbzk3dUdZeGc?oc=5",
       "source": "Google News KR",
-      "published_at": "2026-07-07T01:51:00+00:00",
+      "published_at": "2026-07-09T01:28:00+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_242140934dbf53",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "李대통령, 한몽 비즈니스포럼 나서…“광물·인프라 협력”",
+      "title_kr": "李대통령, 한몽 비즈니스포럼 나서…“광물·인프라 협력”",
+      "summary": "2박 3일간 몽골 국빈 방문 정상회담 후 포럼에서 축사 한몽 기업인 300여명 참석이재명 대통령이 9일(현지시간) 몽골 국빈 방문을 계기로 ‘한국·몽골 비즈니스 포럼’에 참석한다...",
+      "summary_kr": "2박 3일간 몽골 국빈 방문 정상회담 후 포럼에서 축사 한몽 기업인 300여명 참석이재명 대통령이 9일(현지시간) 몽골 국빈 방문을 계기로 ‘한국·몽골 비즈니스 포럼’에 참석한다...",
+      "url": "https://www.mk.co.kr/news/politics/12094156",
+      "source": "매경 산업",
+      "published_at": "2026-07-09T01:27:41+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_8aac6102db20aa",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "수원시, 지방세·과태료 한번에 단속…체납차 405대 번호판 영치",
+      "title_kr": "수원시, 지방세·과태료 한번에 단속…체납차 405대 번호판 영치",
+      "summary": "(수원=연합뉴스) 이영주 기자 = 경기 수원시는 자동차 번호판 조회로 지방세와 과태료 등 세외수입 체납을 한 번에 확인하는 &apos;합동영치 태스크포스...",
+      "summary_kr": "(수원=연합뉴스) 이영주 기자 = 경기 수원시는 자동차 번호판 조회로 지방세와 과태료 등 세외수입 체납을 한 번에 확인하는 &apos;합동영치 태스크포스...",
+      "url": "https://www.yna.co.kr/view/AKR20260709072500061",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:27:20+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_23770dc92d94f2",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "삼성웰스토리-팔도, 구내식당서 여름 한정 '이색 비빔면' 제공",
+      "title_kr": "삼성웰스토리-팔도, 구내식당서 여름 한정 '이색 비빔면' 제공",
+      "summary": "(서울=연합뉴스) 김세린 기자 = 삼성웰스토리는 비빔면 브랜드 팔도와 협업해 오는 29일까지 전국 170여개 구내식당에서 여름 한정 메뉴 프로모...",
+      "summary_kr": "(서울=연합뉴스) 김세린 기자 = 삼성웰스토리는 비빔면 브랜드 팔도와 협업해 오는 29일까지 전국 170여개 구내식당에서 여름 한정 메뉴 프로모...",
+      "url": "https://www.yna.co.kr/view/AKR20260709057900030",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:21:10+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_7c6798fce97875",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "한화증권, 중개형ISA 개설 시 5천원 지급 이벤트",
+      "title_kr": "한화증권, 중개형ISA 개설 시 5천원 지급 이벤트",
+      "summary": "(서울=연합뉴스) 이민영 기자 = 한화투자증권[003530]은 오는 8월 31일까지 중개형 개인종합자산관리계좌(ISA)를 신규 개설한 고객에게 ...",
+      "summary_kr": "(서울=연합뉴스) 이민영 기자 = 한화투자증권[003530]은 오는 8월 31일까지 중개형 개인종합자산관리계좌(ISA)를 신규 개설한 고객에게 ...",
+      "url": "https://www.yna.co.kr/view/AKR20260709074500008",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:20:25+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_91c3e8275f8b1b",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "노브랜드 버거, 상반기 '신규 사장님' 4명 중 1명은 2030 세대",
+      "title_kr": "노브랜드 버거, 상반기 '신규 사장님' 4명 중 1명은 2030 세대",
+      "summary": "(서울=연합뉴스) 홍국기 기자 = 신세계푸드는 올해 상반기(1∼6월) &apos;노브랜드 버거&apos;(NBB)의 신규 가맹점주 가운데 20·30대 비중이 약 ...",
+      "summary_kr": "(서울=연합뉴스) 홍국기 기자 = 신세계푸드는 올해 상반기(1∼6월) &apos;노브랜드 버거&apos;(NBB)의 신규 가맹점주 가운데 20·30대 비중이 약 ...",
+      "url": "https://www.yna.co.kr/view/AKR20260709055300030",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:18:25+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_c242e72977dbdb",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "현대백화점, 도쿄에 첫 플래그십 스토어 '더 현대' 오픈",
+      "title_kr": "현대백화점, 도쿄에 첫 플래그십 스토어 '더 현대' 오픈",
+      "summary": "(서울=연합뉴스) 정수연 기자 = 현대백화점은 일본 도쿄 명품 거리에 첫 플래그십 스토어 &apos;더현대(THE HYUNDAI)&apos;를 오픈한다고 9일 밝...",
+      "summary_kr": "(서울=연합뉴스) 정수연 기자 = 현대백화점은 일본 도쿄 명품 거리에 첫 플래그십 스토어 &apos;더현대(THE HYUNDAI)&apos;를 오픈한다고 9일 밝...",
+      "url": "https://www.yna.co.kr/view/AKR20260709054100030",
+      "source": "연합뉴스 경제",
+      "published_at": "2026-07-09T01:11:14+00:00",
       "related_tickers": []
     },
     {
@@ -1259,6 +1570,22 @@
       "related_tickers": []
     },
     {
+      "id": "kr_e41478655162e4",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "코스피, 반도체 훈풍에 7500선 탈환 눈앞...'29만전자·220만닉스' 회복 - 녹색경제신문",
+      "title_kr": "코스피, 반도체 훈풍에 7500선 탈환 눈앞...'29만전자·220만닉스' 회복 - 녹색경제신문",
+      "summary": "코스피, 반도체 훈풍에 7500선 탈환 눈앞...'29만전자·220만닉스' 회복&nbsp;&nbsp;녹색경제신문",
+      "summary_kr": "코스피, 반도체 훈풍에 7500선 탈환 눈앞...'29만전자·220만닉스' 회복&nbsp;&nbsp;녹색경제신문",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GMm5WWmhZNmV2bmM2a3Q2eG5lNU9SYTMzUTF1S1RfenluRm5oS3JJTFBLcldkZm5UdlkyVjdXMzBlRHBfSGVZRXpoMHI2YVBQWWdyRkpvRGl3QlBWQjdnb3RWSTBOMGZG?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-09T00:49:03+00:00",
+      "related_tickers": []
+    },
+    {
       "id": "kr_889903f49b1632",
       "market": "kr",
       "provider": "rss",
@@ -1307,54 +1634,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_2d126870b5cd73",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "하나금융, '내집연금' 출시 1주년 기념행사",
-      "title_kr": "하나금융, '내집연금' 출시 1주년 기념행사",
-      "summary": "(서울=연합뉴스) 이도흔 기자 = 하나금융그룹은 지난 8일 서울시 중구 명동사옥에서 민간 주택연금 상품인 &apos;하나더넥스트 내집연금&apos; 출시 1주년을...",
-      "summary_kr": "(서울=연합뉴스) 이도흔 기자 = 하나금융그룹은 지난 8일 서울시 중구 명동사옥에서 민간 주택연금 상품인 &apos;하나더넥스트 내집연금&apos; 출시 1주년을...",
-      "url": "https://www.yna.co.kr/view/AKR20260709055600002",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:41:28+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_06a6e938692b09",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "코스피, 연이틀 급락 딛고 3%대 반등…삼전·닉스 급등(종합)",
-      "title_kr": "코스피, 연이틀 급락 딛고 3%대 반등…삼전·닉스 급등(종합)",
-      "summary": "(서울=연합뉴스) 김유향 기자 = 9일 코스피가 이틀 연속 급락을 딛고 장 초반 3% 올라 7,400선을 나타내고 있다.",
-      "summary_kr": "(서울=연합뉴스) 김유향 기자 = 9일 코스피가 이틀 연속 급락을 딛고 장 초반 3% 올라 7,400선을 나타내고 있다.",
-      "url": "https://www.yna.co.kr/view/AKR20260709044751008",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:39:51+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_ed977cb549607c",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "여름철 먹거리 점검했더니…위생법 위반 업체 35곳 적발",
-      "title_kr": "여름철 먹거리 점검했더니…위생법 위반 업체 35곳 적발",
-      "summary": "(서울=연합뉴스) 신선미 기자 = 허가 없이 시설을 변경하거나 위생 교육을 받지 않는 등 관련 법을 위반한 식품 취급 업체 35곳이 규제당국에 ...",
-      "summary_kr": "(서울=연합뉴스) 신선미 기자 = 허가 없이 시설을 변경하거나 위생 교육을 받지 않는 등 관련 법을 위반한 식품 취급 업체 35곳이 규제당국에 ...",
-      "url": "https://www.yna.co.kr/view/AKR20260709049100017",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:38:33+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_320c5167b27a43",
       "market": "kr",
       "provider": "rss",
@@ -1371,83 +1650,19 @@
       "related_tickers": []
     },
     {
-      "id": "kr_d4aff7e68c084f",
+      "id": "kr_1219dcee697b3f",
       "market": "kr",
       "provider": "rss",
       "ticker": null,
       "ticker_name": null,
       "category": "general",
-      "title": "성수대교 남단 진입램프에 9㎝ 단차…서울시 \"안전 우려 없어\"",
-      "title_kr": "성수대교 남단 진입램프에 9㎝ 단차…서울시 \"안전 우려 없어\"",
-      "summary": "(서울=연합뉴스) 김동규 기자 = 서울 성수대교 남단 진입 램프에서 약 9㎝ 높이의 단차가 확인돼 이 구간을 지나는 시민들의 신고가 이어지고 있...",
-      "summary_kr": "(서울=연합뉴스) 김동규 기자 = 서울 성수대교 남단 진입 램프에서 약 9㎝ 높이의 단차가 확인돼 이 구간을 지나는 시민들의 신고가 이어지고 있...",
-      "url": "https://www.yna.co.kr/view/AKR20260709052800004",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:35:25+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_df2b506176c02b",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "충남도 민선 9기 조직개편안…AI·충효예·청년 조직 신설",
-      "title_kr": "충남도 민선 9기 조직개편안…AI·충효예·청년 조직 신설",
-      "summary": "(홍성=연합뉴스) 김준범 기자 = 충남도가 인공지능(AI) 기본사회와 AI 청년 성장 지원, 충효예 충청정신 확산을 중심으로 한 민선 9기 첫 ...",
-      "summary_kr": "(홍성=연합뉴스) 김준범 기자 = 충남도가 인공지능(AI) 기본사회와 AI 청년 성장 지원, 충효예 충청정신 확산을 중심으로 한 민선 9기 첫 ...",
-      "url": "https://www.yna.co.kr/view/AKR20260709055000063",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:35:25+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_f163372cce2c02",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "수출입은행, AI로 대출 심사하고 신고 서류 접수 받는다",
-      "title_kr": "수출입은행, AI로 대출 심사하고 신고 서류 접수 받는다",
-      "summary": "(서울=연합뉴스) 임지우 기자 = 한국수출입은행은 대출 심사부터 서류 신고까지 업무 전반에 인공지능(AI)을 도입해 효율화한다고 9일 밝혔다.",
-      "summary_kr": "(서울=연합뉴스) 임지우 기자 = 한국수출입은행은 대출 심사부터 서류 신고까지 업무 전반에 인공지능(AI)을 도입해 효율화한다고 9일 밝혔다.",
-      "url": "https://www.yna.co.kr/view/AKR20260709042300002",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:34:15+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_768de5076740e1",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "시흥시, 장기 미집행시설 106곳 폐지…'공공기여' 시 건축 허용",
-      "title_kr": "시흥시, 장기 미집행시설 106곳 폐지…'공공기여' 시 건축 허용",
-      "summary": "(시흥=연합뉴스) 최해민 기자 = 경기 시흥시는 9일 장기 미집행 도시계획시설 106곳을 폐지하는 내용 등을 담은 도시관리계획 변경 사항을 고시...",
-      "summary_kr": "(시흥=연합뉴스) 최해민 기자 = 경기 시흥시는 9일 장기 미집행 도시계획시설 106곳을 폐지하는 내용 등을 담은 도시관리계획 변경 사항을 고시...",
-      "url": "https://www.yna.co.kr/view/AKR20260709051100061",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:31:05+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_86cceea545a929",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "\"대·중소기업 함께 성장\"…중기부, '윈윈 아너스' 2차 프로젝트",
-      "title_kr": "\"대·중소기업 함께 성장\"…중기부, '윈윈 아너스' 2차 프로젝트",
-      "summary": "(서울=연합뉴스) 이상서 기자 = 정부가 대ㆍ중소기업이 협력하고 함께 성장하는 사례를 확산하고자 &apos;2026년 제2차 윈윈 아너스&apos; 프로젝트를 추...",
-      "summary_kr": "(서울=연합뉴스) 이상서 기자 = 정부가 대ㆍ중소기업이 협력하고 함께 성장하는 사례를 확산하고자 &apos;2026년 제2차 윈윈 아너스&apos; 프로젝트를 추...",
-      "url": "https://www.yna.co.kr/view/AKR20260707159800030",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:28:48+00:00",
+      "title": "이틀간 폭락했던 코스피, 7500선 탈환…반도체주 '불기둥' - hidomin.com",
+      "title_kr": "이틀간 폭락했던 코스피, 7500선 탈환…반도체주 '불기둥' - hidomin.com",
+      "summary": "이틀간 폭락했던 코스피, 7500선 탈환…반도체주 '불기둥'&nbsp;&nbsp;hidomin.com",
+      "summary_kr": "이틀간 폭락했던 코스피, 7500선 탈환…반도체주 '불기둥'&nbsp;&nbsp;hidomin.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9jM2ZfYjJLOXFoLUhuLUtOcU9rQUItOFZDZHdGMVp1dGJGeHFpdUEyZGR4UjNoVDVRNUhTVi1WUFpYRUNhbEN3OENELWFlbWxsY2pnVTFQVTlXUHJFZllrOUp4YjBkeXd5SlE?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-09T00:30:41+00:00",
       "related_tickers": []
     },
     {
@@ -1464,22 +1679,6 @@
       "url": "https://www.mk.co.kr/news/stock/12094076",
       "source": "매경 증권",
       "published_at": "2026-07-09T00:28:37+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_5dae9a2d4ebd34",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "이동철 여신협회장, 신기술금융사 대표들 만나 \"업권 지원 강화\"",
-      "title_kr": "이동철 여신협회장, 신기술금융사 대표들 만나 \"업권 지원 강화\"",
-      "summary": "(서울=연합뉴스) 김지연 기자 = 이동철 여신금융협회 회장은 9일 신기술금융업계와 만나 &quot;투자확대를 위한 제도개선, 전문인력 양성을 위한 교육기...",
-      "summary_kr": "(서울=연합뉴스) 김지연 기자 = 이동철 여신금융협회 회장은 9일 신기술금융업계와 만나 &quot;투자확대를 위한 제도개선, 전문인력 양성을 위한 교육기...",
-      "url": "https://www.yna.co.kr/view/AKR20260709048200002",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:28:04+00:00",
       "related_tickers": []
     },
     {
@@ -1531,22 +1730,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_debabaf055e587",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "[특징주] 항공주, 중동 갈등 격화에 유가 오르자 장 초반 약세",
-      "title_kr": "[특징주] 항공주, 중동 갈등 격화에 유가 오르자 장 초반 약세",
-      "summary": "(서울=연합뉴스) 임은진 기자 = 중동 지역의 지정학적 리스크 재고조로 국제 유가가 다시 오르면서 9일 장 초반 항공주가 약세를 보이고 있다.",
-      "summary_kr": "(서울=연합뉴스) 임은진 기자 = 중동 지역의 지정학적 리스크 재고조로 국제 유가가 다시 오르면서 9일 장 초반 항공주가 약세를 보이고 있다.",
-      "url": "https://www.yna.co.kr/view/AKR20260709050700008",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:20:11+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_aeaff62e29a5f3",
       "market": "kr",
       "provider": "rss",
@@ -1560,54 +1743,6 @@
       "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB2THB6S0k0cmVOQV91d3RVVGNualRiUXpMZjdTN2xLNkpCczRSQWZKSW41XzM4ZnlZQWVfb2ZyYkVPUnFlTDdMV3B0SElKLTA?oc=5",
       "source": "Google News KR",
       "published_at": "2026-07-09T00:19:00+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_e57c841a2006cd",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "인삼 수출 상반기 33% 감소…aT, 비관세장벽 대응·신시장 개척",
-      "title_kr": "인삼 수출 상반기 33% 감소…aT, 비관세장벽 대응·신시장 개척",
-      "summary": "(서울=연합뉴스) 김세린 기자 = 한국농수산식품유통공사(aT)는 인삼 수출 회복을 위해 국가별 비관세장벽 대응과 해외 홍보 확대, 판로 다변화 ...",
-      "summary_kr": "(서울=연합뉴스) 김세린 기자 = 한국농수산식품유통공사(aT)는 인삼 수출 회복을 위해 국가별 비관세장벽 대응과 해외 홍보 확대, 판로 다변화 ...",
-      "url": "https://www.yna.co.kr/view/AKR20260709038800030",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:18:09+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_e2b6f8198ece10",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "권익위, '공무원 채용시험 응시수수료 면제' 권고",
-      "title_kr": "권익위, '공무원 채용시험 응시수수료 면제' 권고",
-      "summary": "(서울=연합뉴스) 이상현 기자 = 국민권익위원회는 9일 국가 및 지방공무원 채용시험 응시 수수료를 면제하는 내용의 제도 개선 방안을 마련해 행정...",
-      "summary_kr": "(서울=연합뉴스) 이상현 기자 = 국민권익위원회는 9일 국가 및 지방공무원 채용시험 응시 수수료를 면제하는 내용의 제도 개선 방안을 마련해 행정...",
-      "url": "https://www.yna.co.kr/view/AKR20260709040300001",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:17:45+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_6b1c792af0a2bc",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "오상훈 신임 부산국세청장 취임…\"현장 중심 세정\"",
-      "title_kr": "오상훈 신임 부산국세청장 취임…\"현장 중심 세정\"",
-      "summary": "(부산=연합뉴스) 오수희 기자 = 부산지방국세청은 8일 오후 제70대 오상훈 청장이 취임식을 하고 업무를 시작했다고 9일 밝혔다.",
-      "summary_kr": "(부산=연합뉴스) 오수희 기자 = 부산지방국세청은 8일 오후 제70대 오상훈 청장이 취임식을 하고 업무를 시작했다고 9일 밝혔다.",
-      "url": "https://www.yna.co.kr/view/AKR20260709047000051",
-      "source": "연합뉴스 경제",
-      "published_at": "2026-07-09T00:15:30+00:00",
       "related_tickers": []
     },
     {
@@ -1691,22 +1826,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_500129adbc13f0",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "[어제장 오늘장] 이틀 연속 급락에 '검은 수요일'…코스피 7000선까지 위협 - v.daum.net",
-      "title_kr": "[어제장 오늘장] 이틀 연속 급락에 '검은 수요일'…코스피 7000선까지 위협 - v.daum.net",
-      "summary": "[어제장 오늘장] 이틀 연속 급락에 '검은 수요일'…코스피 7000선까지 위협&nbsp;&nbsp;v.daum.net",
-      "summary_kr": "[어제장 오늘장] 이틀 연속 급락에 '검은 수요일'…코스피 7000선까지 위협&nbsp;&nbsp;v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EVDNtTGZFaDZjLVdkNE1PR0ZlRUZUYlJHQUlCWl9rU1hJQTR6X0N3QkIybVZnZ0NnQndYVlQ0akFSMUxnY3hrX2JYRVYxaUk?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-08T23:58:14+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_1185328ec2fc0b",
       "market": "kr",
       "provider": "rss",
@@ -1755,35 +1874,19 @@
       "related_tickers": []
     },
     {
-      "id": "kr_561429fe6fe8ad",
+      "id": "kr_c55b4f5426eb99",
       "market": "kr",
       "provider": "rss",
       "ticker": null,
       "ticker_name": null,
       "category": "general",
-      "title": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나 - v.daum.net",
-      "title_kr": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나 - v.daum.net",
-      "summary": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나&nbsp;&nbsp;v.daum.net",
-      "summary_kr": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나&nbsp;&nbsp;v.daum.net",
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xeFdrUVhxLUFEMXhJenYtNU1zemlEV1h4MXo2ZVdsSzBTX01jd09BcTBBeFI5eXJTSmhaa0xHVFNOWVBOdExKcnhpM19YNU0?oc=5",
+      "title": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나 - 연합뉴스",
+      "title_kr": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나 - 연합뉴스",
+      "summary": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나&nbsp;&nbsp;연합뉴스",
+      "summary_kr": "[마켓뷰] '반도체 고점' 우려에 연이틀 급락 코스피, 반등 나서나&nbsp;&nbsp;연합뉴스",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pS2tLY2dWMEE1YVdtWWx6a1lXb0Z2d1BpTjV1UE5jYl8xMkw4cnA5aDBlb2JNV0lHSXJGSksyNlA2TXNVeTBZaWJieGxHdE03NHpWYWVBdnRBVzDSAWBBVV95cUxOMXZGMmE3eG83YzAzZlIzM3BDZzk1Nm9nbUxWbnE5cEl4OGszQjhqalpIWkxNZGx1OWRXclczNjRJWTlTUXUzQTBNMGxvTkNUZWhaM2ZWbkd2VlU3ZGNfMks?oc=5",
       "source": "Google News KR",
-      "published_at": "2026-07-08T23:13:00+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_99f28f1f642f83",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "[센터장에게 묻다]③ 변동성 장세, ‘사팔사팔’ 단타 멈춰야… “원칙 없는 단타는 계좌 녹인다” - 조선비즈 - Chosunbiz",
-      "title_kr": "[센터장에게 묻다]③ 변동성 장세, ‘사팔사팔’ 단타 멈춰야… “원칙 없는 단타는 계좌 녹인다” - 조선비즈 - Chosunbiz",
-      "summary": "[센터장에게 묻다]③ 변동성 장세, ‘사팔사팔’ 단타 멈춰야… “원칙 없는 단타는 계좌 녹인다” - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "summary_kr": "[센터장에게 묻다]③ 변동성 장세, ‘사팔사팔’ 단타 멈춰야… “원칙 없는 단타는 계좌 녹인다” - 조선비즈&nbsp;&nbsp;Chosunbiz",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWFhCamh4bjJ1c1I0VTlqbGY0cHJHRF9xVklVekNHeHdWQ1lOSURybHgwTkpfakhybWdvcEkxZ2dkRmVGeFNhZFp6NEZaVVltTlpFNFhINVRDZ2dhUXBES1EyZ2l3VHJtMEJUbUxiVVRZNGlTVFlGUkNkSXlVanRDSnVjX3BNMHh00gGcAUFVX3lxTFBTWHdXVHhTN1g1UEtKdnp1R1lhNm1RYU93UnJUM2E1cU9BVFFlWk0tX1FOUHdQU2hLVXFFOE8tUWVtU3BZZUJSM09YWEhOSV9FSVozUEVsX1l6X0w2VXJUSEJaT0NySWRaMEtDTjc1NFpqeE82Mm8wREpGdWRUUjk1V0h2aGIxTHd5RmlwR05ERkIzRF85Z3BJa3VLSQ?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-08T21:05:09+00:00",
+      "published_at": "2026-07-08T23:12:03+00:00",
       "related_tickers": []
     },
     {
@@ -1832,22 +1935,6 @@
       "url": "https://www.mk.co.kr/news/economy/12093944",
       "source": "매경 경제",
       "published_at": "2026-07-08T20:42:49+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_c52d36f824580e",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "[우보세]'돈'맥 경화 코스닥 - 머니투데이 - 머니투데이",
-      "title_kr": "[우보세]'돈'맥 경화 코스닥 - 머니투데이 - 머니투데이",
-      "summary": "[우보세]'돈'맥 경화 코스닥 - 머니투데이&nbsp;&nbsp;머니투데이",
-      "summary_kr": "[우보세]'돈'맥 경화 코스닥 - 머니투데이&nbsp;&nbsp;머니투데이",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NLXRUM1JPakI5djRQMEpVTC1ENUNrMGRYT0hhaHNfbW9uMlJfUnJhQUVkQVFHa09QYlY4QlpUVC1idGVKTmhFbXUxQ0FMWjNqdF9zSmV4VER4LXRHWk1DRmUxWUdEOUM10gFuQVVfeXFMUDFsQ2JyTTlZLUpLRXZtYXVNdGxIUFlpekJISExwNldYbXNBc0pKZXEwMnFOZElObldNbjNtX0FOSW92T0dYMDQzcGs5MzRaYXhCYkVxdTZvR1pHN3pxcjhmTlVnei1YNnc4UVpfUEE?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-08T20:30:00+00:00",
       "related_tickers": []
     },
     {
@@ -2187,22 +2274,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_ee82600c529578",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "다시 불붙은 경영권 분쟁 … 한미사이언스 6% 급등",
-      "title_kr": "다시 불붙은 경영권 분쟁 … 한미사이언스 6% 급등",
-      "summary": "경영권 분쟁이 재점화할 조짐이 보이자 한미사이언스 주가가 하루 새 6% 넘게 뛰었다. 단일 최대주주인 신동국 한양정밀 회장이 창업주 고 임성기 회장 장남 측 잔여 지분을 사들이기로..",
-      "summary_kr": "경영권 분쟁이 재점화할 조짐이 보이자 한미사이언스 주가가 하루 새 6% 넘게 뛰었다. 단일 최대주주인 신동국 한양정밀 회장이 창업주 고 임성기 회장 장남 측 잔여 지분을 사들이기로..",
-      "url": "https://www.mk.co.kr/news/stock/12093661",
-      "source": "매경 증권",
-      "published_at": "2026-07-08T08:54:56+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_113646d0ea1824",
       "market": "kr",
       "provider": "rss",
@@ -2459,22 +2530,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_bdf47f69e204f1",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "기후부, 호남권 신규 반도체 산단 조기 전력공급 추진…한전 TF 구축",
-      "title_kr": "기후부, 호남권 신규 반도체 산단 조기 전력공급 추진…한전 TF 구축",
-      "summary": "2030년까지 전력 공급 준비 융통선로 현황 및 계획 점검한국전력공사(한전)가 ‘메가프로젝트 전력망 적기건설 태스크포스(TF)’를 꾸리고 기후에너지환경부와 함께 호남권 신규 반도체..",
-      "summary_kr": "2030년까지 전력 공급 준비 융통선로 현황 및 계획 점검한국전력공사(한전)가 ‘메가프로젝트 전력망 적기건설 태스크포스(TF)’를 꾸리고 기후에너지환경부와 함께 호남권 신규 반도체..",
-      "url": "https://www.mk.co.kr/news/economy/12093328",
-      "source": "매경 경제",
-      "published_at": "2026-07-08T06:31:00+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_2e0e1f1b47918e",
       "market": "kr",
       "provider": "rss",
@@ -2587,38 +2642,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_c333d3166ad047",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "프랑스 박물관으로 간 ‘한글깨치기’...웅진씽크빅, 한불수교 140주년 기념 교류전 참여",
-      "title_kr": "프랑스 박물관으로 간 ‘한글깨치기’...웅진씽크빅, 한불수교 140주년 기념 교류전 참여",
-      "summary": "프랑스 샹폴리옹 세계문자박물관 교류전에 한글깨치기 등 한글 콘텐츠 체험 전시웅진씽크빅은 한불 수교 140주년을 기념해 프랑스 샹폴리옹 세계문자박물관에서 열리는 특별 한글 교류전에 ..",
-      "summary_kr": "프랑스 샹폴리옹 세계문자박물관 교류전에 한글깨치기 등 한글 콘텐츠 체험 전시웅진씽크빅은 한불 수교 140주년을 기념해 프랑스 샹폴리옹 세계문자박물관에서 열리는 특별 한글 교류전에 ..",
-      "url": "https://www.mk.co.kr/news/business/12093195",
-      "source": "매경 산업",
-      "published_at": "2026-07-08T02:40:29+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_c7dae57735fe8f",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "“크래미는 우리가 지켜야지” 한성기업 ‘돈쭐’ 응원에…“큰 애정에 감사”",
-      "title_kr": "“크래미는 우리가 지켜야지” 한성기업 ‘돈쭐’ 응원에…“큰 애정에 감사”",
-      "summary": "어묵 브랜드 ‘크래미’ 제조사로 잘 알려진 한성기업이 상장폐지 위기에서 극적으로 벗어났다. 한국전쟁 참전용사를 25년간 후원해 온 ‘애국기업’이라는 사실이 알려지면서 소비자들이 제..",
-      "summary_kr": "어묵 브랜드 ‘크래미’ 제조사로 잘 알려진 한성기업이 상장폐지 위기에서 극적으로 벗어났다. 한국전쟁 참전용사를 25년간 후원해 온 ‘애국기업’이라는 사실이 알려지면서 소비자들이 제..",
-      "url": "https://www.mk.co.kr/news/business/12093148",
-      "source": "매경 산업",
-      "published_at": "2026-07-08T02:11:17+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_2f0d1145eb1d4c",
       "market": "kr",
       "provider": "rss",
@@ -2651,6 +2674,6 @@
       "related_tickers": []
     }
   ],
-  "fetched_at": "2026-07-09T01:11:27.112870+00:00",
+  "fetched_at": "2026-07-09T01:53:42.836697+00:00",
   "source_count": 2
 }
