@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-09T01:53:42.886250+00:00",
-  "us_mood_score": 37,
-  "kr_mood_score": 81,
+  "fetched_at": "2026-07-09T09:30:44.681778+00:00",
+  "us_mood_score": 40,
+  "kr_mood_score": 62,
   "us_mood": "bearish",
-  "kr_mood": "bullish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "NVDA",
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 2.63,
-      "actual_kr_pct": 6.12,
+      "actual_kr_pct": 5.3,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 204.12,
-      "kr_price": 2203000.0
+      "kr_price": 2186000.0
     },
     {
       "us_ticker": "AVGO",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 2.03,
-      "actual_kr_pct": 6.12,
+      "actual_kr_pct": 5.3,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 388.69,
-      "kr_price": 2203000.0
+      "kr_price": 2186000.0
     },
     {
       "us_ticker": "NVDA",
@@ -72,10 +72,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.9,
-      "actual_kr_pct": 1.8,
+      "actual_kr_pct": 0.18,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 204.12,
-      "kr_price": 282500.0
+      "kr_price": 278000.0
     },
     {
       "us_ticker": "TSLA",
@@ -84,10 +84,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.49,
-      "actual_kr_pct": 2.38,
+      "actual_kr_pct": -0.63,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 394.06,
-      "kr_price": 323000.0
+      "kr_price": 313500.0
     },
     {
       "us_ticker": "TSLA",
@@ -96,10 +96,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -1.36,
-      "actual_kr_pct": 1.42,
+      "actual_kr_pct": -0.98,
       "reason": "NCA 양극재 공급",
       "us_price": 394.06,
-      "kr_price": 114200.0
+      "kr_price": 111500.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.77,
-      "actual_kr_pct": -1.45,
+      "actual_kr_pct": -4.31,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 603.12,
-      "kr_price": 189900.0
+      "kr_price": 184400.0
     },
     {
       "us_ticker": "GOOGL",
@@ -192,10 +192,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.58,
-      "actual_kr_pct": -1.45,
+      "actual_kr_pct": -4.31,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 361.92,
-      "kr_price": 189900.0
+      "kr_price": 184400.0
     },
     {
       "us_ticker": "META",
@@ -216,10 +216,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.49,
-      "actual_kr_pct": -1.52,
+      "actual_kr_pct": -2.89,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 361.92,
-      "kr_price": 34125.0
+      "kr_price": 33650.0
     },
     {
       "us_ticker": "MSFT",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.49,
-      "actual_kr_pct": -1.45,
+      "actual_kr_pct": -4.31,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 383.34,
-      "kr_price": 189900.0
+      "kr_price": 184400.0
     },
     {
       "us_ticker": "MSFT",
@@ -240,10 +240,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.45,
-      "actual_kr_pct": -1.52,
+      "actual_kr_pct": -2.89,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 383.34,
-      "kr_price": 34125.0
+      "kr_price": 33650.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 3.96,
+      "kr_actual_avg_pct": 2.74,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.49,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 1.9,
+      "kr_actual_avg_pct": -0.8,
       "beta": 0.58,
       "predicted_kr_avg_pct": -1.27,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -1.48,
+      "kr_actual_avg_pct": -3.6,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.55,
       "lag_hours": 8
@@ -328,23 +328,11 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "MSFT",
-      "title": "Microsoft announces quarterly earnings release date",
-      "title_kr": "마이크로소프트, 분기별 실적 발표일 발표",
-      "source": "Yahoo",
-      "published_at": "2026-07-08T20:05:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "title": "Corning Incorporated (GLW) Announces Quarterly Dividend",
-      "title_kr": "Corning Incorporated(GLW), 분기별 배당금 발표",
+      "title": "SpaceX Lost $4.28 Billion on $4.7 Billion in Revenue Last Quarter. Here's What's Going On.",
+      "title_kr": "SpaceX는 지난 분기 매출 47억 달러에 42억 8천만 달러의 손실을 입었습니다. 현재 진행 상황은 다음과 같습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-08T18:50:18+00:00",
+      "published_at": "2026-07-09T06:25:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -352,15 +340,27 @@
       ]
     },
     {
-      "ticker": "META",
-      "title": "Susquehanna Raises Price Target on Applied Materials, Inc. (AMAT)",
-      "title_kr": "Susquehanna, Applied Materials, Inc.(AMAT)의 목표 가격 인상",
+      "ticker": "MSFT",
+      "title": "Commvault (CVLT) Stock Has Cheap Cash Flow But Expensive Earnings",
+      "title_kr": "Commvault(CVLT) 주식은 현금 흐름이 저렴하지만 수익이 높습니다",
       "source": "Yahoo",
-      "published_at": "2026-07-08T18:48:18+00:00",
-      "category": "analyst",
+      "published_at": "2026-07-09T01:14:34+00:00",
+      "category": "earnings",
       "kr_pairs": [
         "NAVER",
-        "하이브"
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "MSTR",
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Slide as Trump Warns Iran Strikes Could Get 'Much Worse': Analyst Flags Major 'Wall' BTC Bulls Must Break",
+      "title_kr": "트럼프가 이란 공격이 '훨씬 더 악화'될 수 있다고 경고하면서 비트코인, 이더리움, XRP, 도지코인 슬라이드: 분석가는 주요 '장벽'을 표시합니다. BTC 황소는 반드시 깨져야 합니다.",
+      "source": "Yahoo",
+      "published_at": "2026-07-09T01:51:14+00:00",
+      "category": "analyst",
+      "kr_pairs": [
+        "카카오게임즈",
+        "위메이드"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.9,
-      "change_pct": 4.77,
+      "price": 16.81,
+      "change_pct": -0.53,
       "label": "VIX"
     },
     "btc": {
-      "price": 61918.68,
-      "change_pct": -2.03,
+      "price": 62928.89,
+      "change_pct": 1.58,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +3.6% → 한미반도체 개장 상방 압력 예상 (+3.1% 전후). US 무드 37/100, KR 무드 81/100."
+  "summary": "미국 NVDA +3.6% → 한미반도체 개장 상방 압력 예상 (+3.1% 전후). US 무드 40/100, KR 무드 62/100."
 }
