@@ -1,78 +1,78 @@
 {
-  "fetched_at": "2026-07-10T05:54:51.129316+00:00",
+  "fetched_at": "2026-07-10T09:01:37.035107+00:00",
   "kospi": {
-    "price": 7586.96,
-    "change_pct": 4.05,
+    "price": 7475.94,
+    "change_pct": 2.52,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 843.48,
-    "change_pct": 6.23,
+    "price": 837.43,
+    "change_pct": 5.47,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 1215.28,
-    "change_pct": 3.89,
+    "price": 1196.69,
+    "change_pct": 2.3,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
-      "price": 291250.0,
-      "change_pct": 4.77,
+      "price": 285000.0,
+      "change_pct": 2.52,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
-      "price": 2225000.0,
-      "change_pct": 1.78,
+      "price": 2180000.0,
+      "change_pct": -0.27,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
-      "price": 328000.0,
-      "change_pct": 4.63,
+      "price": 326000.0,
+      "change_pct": 3.99,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
     "005380": {
-      "price": 462500.0,
-      "change_pct": 3.82,
+      "price": 457500.0,
+      "change_pct": 2.69,
       "name": "현대차",
       "code": "005380"
     },
     "035420": {
-      "price": 193600.0,
-      "change_pct": 4.99,
+      "price": 191300.0,
+      "change_pct": 3.74,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
-      "price": 35650.0,
-      "change_pct": 5.94,
+      "price": 35350.0,
+      "change_pct": 5.05,
       "name": "카카오",
       "code": "035720"
     },
     "207940": {
-      "price": 1409000.0,
-      "change_pct": 6.34,
+      "price": 1395000.0,
+      "change_pct": 5.28,
       "name": "삼성바이오로직스",
       "code": "207940"
     },
     "005490": {
-      "price": 316000.0,
-      "change_pct": 6.4,
+      "price": 313500.0,
+      "change_pct": 5.56,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
-      "price": 269000.0,
-      "change_pct": 6.96,
+      "price": 264000.0,
+      "change_pct": 4.97,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
-      "price": 123300.0,
-      "change_pct": 10.58,
+      "price": 121600.0,
+      "change_pct": 9.06,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -80,31 +80,43 @@
   "trending": [
     {
       "ticker": "000660",
-      "name": "하이닉스",
-      "mentions": 14,
+      "name": "SK하이닉스",
+      "mentions": 21,
       "surge_pct": 0
     },
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 11,
+      "mentions": 12,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "055550",
+      "name": "신한지주",
+      "mentions": 3,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "053700",
+      "name": "삼보모터스",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "091440",
+      "name": "한울소재과학",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "334890",
+      "name": "이지스밸류플러스리츠",
+      "mentions": 2,
       "surge_pct": 0
     },
     {
       "ticker": "005380",
       "name": "현대차",
-      "mentions": 2,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "035720",
-      "name": "카카오",
-      "mentions": 2,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "377300",
-      "name": "카카오페이",
       "mentions": 2,
       "surge_pct": 0
     },
@@ -115,31 +127,19 @@
       "surge_pct": 0
     },
     {
-      "ticker": "065660",
-      "name": "안트로젠",
+      "ticker": "271830",
+      "name": "팸텍",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "476830",
-      "name": "알지노믹스",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "105840",
-      "name": "우진",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "180400",
-      "name": "DXVX",
+      "ticker": "144960",
+      "name": "뉴파워프라즈마",
       "mentions": 1,
       "surge_pct": 0
     }
   ],
   "mood_score": 100,
   "mood": "bullish",
-  "mood_summary": "KOSPI +4.05% · KOSDAQ +6.23%"
+  "mood_summary": "KOSPI +2.52% · KOSDAQ +5.47%"
 }
