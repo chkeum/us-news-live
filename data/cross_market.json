@@ -1,8 +1,8 @@
 {
-  "fetched_at": "2026-07-14T11:54:19.892143+00:00",
-  "us_mood_score": 39,
+  "fetched_at": "2026-07-14T13:06:19.852481+00:00",
+  "us_mood_score": 41,
   "kr_mood_score": 42,
-  "us_mood": "bearish",
+  "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
     {
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "NVDA",
+      "title": "Main Street Capital Just Raised Its Monthly Dividend Again. Is the 8% Yield Safe as Earnings Soften?",
+      "title_kr": "메인 스트리트 캐피탈이 월별 배당금을 다시 올렸습니다. 수익이 부드러워지면 8% 수익률은 안전한가요?",
+      "source": "Yahoo",
+      "published_at": "2026-07-14T10:40:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
       "ticker": "AVGO",
       "title": "Broadcom (AVGO): An Affordable Growth Stock with Accelerating Earnings",
       "title_kr": "Broadcom(AVGO): 수익이 가속화되는 저렴한 성장 주식",
@@ -337,18 +349,6 @@
       "kr_pairs": [
         "한미반도체",
         "SK하이닉스"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Earnings, Inflation and Iran Tensions Set the Tone for US Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-      "title_kr": "수익, 인플레이션 및 이란 긴장이 미국 시장의 분위기를 조성합니다: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-      "source": "Yahoo",
-      "published_at": "2026-07-14T09:28:21+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     },
     {
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.37,
-      "change_pct": 1.22,
+      "price": 16.79,
+      "change_pct": -2.16,
       "label": "VIX"
     },
     "btc": {
-      "price": 62883.79,
-      "change_pct": -0.07,
+      "price": 63820.89,
+      "change_pct": 1.92,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -7.8% → 한미반도체 개장 하방 압력 예상 (-4.8% 전후). US 무드 39/100, KR 무드 42/100."
+  "summary": "미국 MRVL -7.8% → 한미반도체 개장 하방 압력 예상 (-4.8% 전후). US 무드 41/100, KR 무드 42/100."
 }
