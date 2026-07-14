@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-14T06:33:02.625685+00:00",
+  "fetched_at": "2026-07-14T08:53:44.757641+00:00",
   "sp500": {
     "price": 7515.34,
     "change_pct": -0.38,
@@ -16,13 +16,13 @@
     "label": "Dow"
   },
   "vix": {
-    "price": 17.16,
-    "change_pct": 14.17,
+    "price": 17.29,
+    "change_pct": 0.76,
     "label": "VIX"
   },
   "btc": {
-    "price": 62725.25,
-    "change_pct": -0.13,
+    "price": 62703.99,
+    "change_pct": -0.81,
     "label": "BTC"
   },
   "watchlist": {
@@ -70,17 +70,12 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 75,
+      "mentions": 105,
       "surge_pct": 0
     },
     {
       "ticker": "MU",
-      "mentions": 22,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "GOOGL",
-      "mentions": 16,
+      "mentions": 21,
       "surge_pct": 0
     },
     {
@@ -89,13 +84,13 @@
       "surge_pct": 0
     },
     {
-      "ticker": "TSLA",
-      "mentions": 8,
+      "ticker": "GOOGL",
+      "mentions": 13,
       "surge_pct": 0
     },
     {
-      "ticker": "META",
-      "mentions": 8,
+      "ticker": "TSLA",
+      "mentions": 7,
       "surge_pct": 0
     },
     {
@@ -104,7 +99,7 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MSFT",
+      "ticker": "META",
       "mentions": 6,
       "surge_pct": 0
     },
@@ -114,12 +109,17 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MSTR",
+      "ticker": "MSFT",
       "mentions": 5,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MSTR",
+      "mentions": 4,
       "surge_pct": 0
     }
   ],
-  "mood_score": 33,
+  "mood_score": 40,
   "mood": "bearish",
   "mood_summary": "S&P -0.38% · Nasdaq -1.27%"
 }
