@@ -1,81 +1,81 @@
 {
-  "fetched_at": "2026-07-14T16:18:36.515138+00:00",
-  "us_mood_score": 42,
+  "fetched_at": "2026-07-14T17:36:31.190425+00:00",
+  "us_mood_score": 47,
   "kr_mood_score": 42,
   "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
     {
-      "us_ticker": "AMD",
-      "us_change_pct": 3.6,
-      "kr_code": "042700",
-      "kr_name": "한미반도체",
-      "beta": 0.68,
-      "predicted_kr_pct": 2.45,
-      "actual_kr_pct": null,
-      "reason": "AMD 서버용 HBM 장비",
-      "us_price": 553.61,
-      "kr_price": null
-    },
-    {
       "us_ticker": "NVDA",
-      "us_change_pct": 2.57,
+      "us_change_pct": 3.52,
       "kr_code": "042700",
       "kr_name": "한미반도체",
       "beta": 0.85,
-      "predicted_kr_pct": 2.18,
+      "predicted_kr_pct": 2.99,
       "actual_kr_pct": null,
       "reason": "HBM TC본더 장비 독점 공급",
-      "us_price": 208.77,
+      "us_price": 210.7,
+      "kr_price": null
+    },
+    {
+      "us_ticker": "NVDA",
+      "us_change_pct": 3.52,
+      "kr_code": "007660",
+      "kr_name": "이수페타시스",
+      "beta": 0.78,
+      "predicted_kr_pct": 2.75,
+      "actual_kr_pct": null,
+      "reason": "AI GPU용 MLB PCB 공급",
+      "us_price": 210.7,
       "kr_price": null
     },
     {
       "us_ticker": "AMD",
-      "us_change_pct": 3.6,
-      "kr_code": "000660",
-      "kr_name": "SK하이닉스",
-      "beta": 0.58,
-      "predicted_kr_pct": 2.09,
-      "actual_kr_pct": 3.69,
-      "reason": "MI355X용 HBM 공급",
-      "us_price": 553.61,
-      "kr_price": 1913000.0
-    },
-    {
-      "us_ticker": "NVDA",
-      "us_change_pct": 2.57,
-      "kr_code": "007660",
-      "kr_name": "이수페타시스",
-      "beta": 0.78,
-      "predicted_kr_pct": 2.0,
+      "us_change_pct": 3.85,
+      "kr_code": "042700",
+      "kr_name": "한미반도체",
+      "beta": 0.68,
+      "predicted_kr_pct": 2.62,
       "actual_kr_pct": null,
-      "reason": "AI GPU용 MLB PCB 공급",
-      "us_price": 208.77,
+      "reason": "AMD 서버용 HBM 장비",
+      "us_price": 554.94,
       "kr_price": null
     },
     {
       "us_ticker": "NVDA",
-      "us_change_pct": 2.57,
+      "us_change_pct": 3.52,
       "kr_code": "000660",
       "kr_name": "SK하이닉스",
       "beta": 0.72,
-      "predicted_kr_pct": 1.85,
+      "predicted_kr_pct": 2.53,
       "actual_kr_pct": 3.69,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
-      "us_price": 208.77,
+      "us_price": 210.7,
       "kr_price": 1913000.0
     },
     {
-      "us_ticker": "MSTR",
-      "us_change_pct": 4.94,
-      "kr_code": "112040",
-      "kr_name": "위메이드",
-      "beta": 0.35,
-      "predicted_kr_pct": 1.73,
-      "actual_kr_pct": null,
-      "reason": "크립토·WEMIX 노출",
-      "us_price": 96.65,
-      "kr_price": null
+      "us_ticker": "AMD",
+      "us_change_pct": 3.85,
+      "kr_code": "000660",
+      "kr_name": "SK하이닉스",
+      "beta": 0.58,
+      "predicted_kr_pct": 2.23,
+      "actual_kr_pct": 3.69,
+      "reason": "MI355X용 HBM 공급",
+      "us_price": 554.94,
+      "kr_price": 1913000.0
+    },
+    {
+      "us_ticker": "NVDA",
+      "us_change_pct": 3.52,
+      "kr_code": "005930",
+      "kr_name": "삼성전자",
+      "beta": 0.52,
+      "predicted_kr_pct": 1.83,
+      "actual_kr_pct": 3.34,
+      "reason": "HBM 공급사, AI 반도체 연동",
+      "us_price": 210.7,
+      "kr_price": 263000.0
     },
     {
       "us_ticker": "MRVL",
@@ -90,16 +90,16 @@
       "kr_price": null
     },
     {
-      "us_ticker": "NVDA",
-      "us_change_pct": 2.57,
-      "kr_code": "005930",
-      "kr_name": "삼성전자",
-      "beta": 0.52,
-      "predicted_kr_pct": 1.34,
-      "actual_kr_pct": 3.34,
-      "reason": "HBM 공급사, AI 반도체 연동",
-      "us_price": 208.77,
-      "kr_price": 263000.0
+      "us_ticker": "MSTR",
+      "us_change_pct": 3.93,
+      "kr_code": "112040",
+      "kr_name": "위메이드",
+      "beta": 0.35,
+      "predicted_kr_pct": 1.38,
+      "actual_kr_pct": null,
+      "reason": "크립토·WEMIX 노출",
+      "us_price": 95.72,
+      "kr_price": null
     },
     {
       "us_ticker": "MRVL",
@@ -115,26 +115,14 @@
     },
     {
       "us_ticker": "AVGO",
-      "us_change_pct": 2.24,
+      "us_change_pct": 2.21,
       "kr_code": "042700",
       "kr_name": "한미반도체",
       "beta": 0.55,
-      "predicted_kr_pct": 1.23,
+      "predicted_kr_pct": 1.22,
       "actual_kr_pct": null,
       "reason": "커스텀 ASIC 장비 테마",
-      "us_price": 392.67,
-      "kr_price": null
-    },
-    {
-      "us_ticker": "MSTR",
-      "us_change_pct": 4.94,
-      "kr_code": "293490",
-      "kr_name": "카카오게임즈",
-      "beta": 0.22,
-      "predicted_kr_pct": 1.09,
-      "actual_kr_pct": null,
-      "reason": "BTC 테마 파생 (약한)",
-      "us_price": 96.65,
+      "us_price": 392.55,
       "kr_price": null
     },
     {
@@ -151,99 +139,111 @@
     },
     {
       "us_ticker": "AVGO",
-      "us_change_pct": 2.24,
+      "us_change_pct": 2.21,
       "kr_code": "000660",
       "kr_name": "SK하이닉스",
       "beta": 0.42,
-      "predicted_kr_pct": 0.94,
+      "predicted_kr_pct": 0.93,
       "actual_kr_pct": 3.69,
       "reason": "네트워킹 반도체 HBM 연동",
-      "us_price": 392.67,
+      "us_price": 392.55,
       "kr_price": 1913000.0
     },
     {
-      "us_ticker": "MSFT",
-      "us_change_pct": -1.45,
-      "kr_code": "035420",
-      "kr_name": "NAVER",
-      "beta": 0.35,
-      "predicted_kr_pct": -0.51,
-      "actual_kr_pct": -2.55,
-      "reason": "클라우드·AI 엔터프라이즈",
-      "us_price": 385.34,
-      "kr_price": 183200.0
-    },
-    {
       "us_ticker": "GOOGL",
-      "us_change_pct": 0.98,
+      "us_change_pct": 1.82,
       "kr_code": "042700",
       "kr_name": "한미반도체",
       "beta": 0.48,
-      "predicted_kr_pct": 0.47,
+      "predicted_kr_pct": 0.87,
       "actual_kr_pct": null,
       "reason": "TPU 제조 파생",
-      "us_price": 355.97,
+      "us_price": 358.94,
       "kr_price": null
     },
     {
-      "us_ticker": "MSFT",
-      "us_change_pct": -1.45,
-      "kr_code": "035720",
-      "kr_name": "카카오",
-      "beta": 0.32,
-      "predicted_kr_pct": -0.46,
-      "actual_kr_pct": -2.59,
-      "reason": "클라우드 Azure 파트너십",
-      "us_price": 385.34,
-      "kr_price": 33850.0
+      "us_ticker": "MSTR",
+      "us_change_pct": 3.93,
+      "kr_code": "293490",
+      "kr_name": "카카오게임즈",
+      "beta": 0.22,
+      "predicted_kr_pct": 0.86,
+      "actual_kr_pct": null,
+      "reason": "BTC 테마 파생 (약한)",
+      "us_price": 95.72,
+      "kr_price": null
     },
     {
       "us_ticker": "GOOGL",
-      "us_change_pct": 0.98,
+      "us_change_pct": 1.82,
       "kr_code": "035420",
       "kr_name": "NAVER",
       "beta": 0.42,
-      "predicted_kr_pct": 0.41,
+      "predicted_kr_pct": 0.76,
       "actual_kr_pct": -2.55,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
-      "us_price": 355.97,
+      "us_price": 358.94,
       "kr_price": 183200.0
     },
     {
       "us_ticker": "GOOGL",
-      "us_change_pct": 0.98,
+      "us_change_pct": 1.82,
       "kr_code": "035720",
       "kr_name": "카카오",
       "beta": 0.35,
-      "predicted_kr_pct": 0.34,
+      "predicted_kr_pct": 0.64,
       "actual_kr_pct": -2.59,
       "reason": "국내 AI 플랫폼 경쟁",
-      "us_price": 355.97,
+      "us_price": 358.94,
       "kr_price": 33850.0
     },
     {
-      "us_ticker": "TSLA",
-      "us_change_pct": 0.37,
-      "kr_code": "373220",
-      "kr_name": "LG에너지솔루션",
-      "beta": 0.68,
-      "predicted_kr_pct": 0.25,
-      "actual_kr_pct": -1.98,
-      "reason": "Tesla 4680 셀 공급",
-      "us_price": 396.24,
-      "kr_price": 322000.0
-    },
-    {
-      "us_ticker": "AMZN",
-      "us_change_pct": -0.82,
+      "us_ticker": "META",
+      "us_change_pct": 1.09,
       "kr_code": "035420",
       "kr_name": "NAVER",
-      "beta": 0.3,
-      "predicted_kr_pct": -0.25,
+      "beta": 0.38,
+      "predicted_kr_pct": 0.41,
       "actual_kr_pct": -2.55,
-      "reason": "커머스·클라우드 동행",
-      "us_price": 245.27,
+      "reason": "AI 인프라 투자 확대 테마",
+      "us_price": 663.89,
       "kr_price": 183200.0
+    },
+    {
+      "us_ticker": "MSFT",
+      "us_change_pct": -1.0,
+      "kr_code": "035420",
+      "kr_name": "NAVER",
+      "beta": 0.35,
+      "predicted_kr_pct": -0.35,
+      "actual_kr_pct": -2.55,
+      "reason": "클라우드·AI 엔터프라이즈",
+      "us_price": 387.08,
+      "kr_price": 183200.0
+    },
+    {
+      "us_ticker": "MSFT",
+      "us_change_pct": -1.0,
+      "kr_code": "035720",
+      "kr_name": "카카오",
+      "beta": 0.32,
+      "predicted_kr_pct": -0.32,
+      "actual_kr_pct": -2.59,
+      "reason": "클라우드 Azure 파트너십",
+      "us_price": 387.08,
+      "kr_price": 33850.0
+    },
+    {
+      "us_ticker": "META",
+      "us_change_pct": 1.09,
+      "kr_code": "352820",
+      "kr_name": "하이브",
+      "beta": 0.28,
+      "predicted_kr_pct": 0.31,
+      "actual_kr_pct": null,
+      "reason": "메타버스·콘텐츠 노출 테마",
+      "us_price": 663.89,
+      "kr_price": null
     }
   ],
   "sector_coupling": [
@@ -257,7 +257,7 @@
         "MU",
         "INTC"
       ],
-      "us_avg_pct": 2.67,
+      "us_avg_pct": 2.96,
       "kr_sector": "반도체",
       "kr_tickers": [
         "005930",
@@ -267,7 +267,7 @@
       ],
       "kr_actual_avg_pct": 3.51,
       "beta": 0.65,
-      "predicted_kr_avg_pct": 1.74,
+      "predicted_kr_avg_pct": 1.93,
       "lag_hours": 8
     },
     {
@@ -275,7 +275,7 @@
       "us_tickers": [
         "TSLA"
       ],
-      "us_avg_pct": 0.37,
+      "us_avg_pct": 0.14,
       "kr_sector": "2차전지",
       "kr_tickers": [
         "373220",
@@ -286,7 +286,7 @@
       ],
       "kr_actual_avg_pct": -4.0,
       "beta": 0.58,
-      "predicted_kr_avg_pct": 0.21,
+      "predicted_kr_avg_pct": 0.08,
       "lag_hours": 8
     },
     {
@@ -297,7 +297,7 @@
         "MSFT",
         "AMZN"
       ],
-      "us_avg_pct": -0.29,
+      "us_avg_pct": 0.41,
       "kr_sector": "플랫폼 / 클라우드",
       "kr_tickers": [
         "035420",
@@ -305,7 +305,7 @@
       ],
       "kr_actual_avg_pct": -2.57,
       "beta": 0.38,
-      "predicted_kr_avg_pct": -0.11,
+      "predicted_kr_avg_pct": 0.15,
       "lag_hours": 8
     },
     {
@@ -314,7 +314,7 @@
         "MSTR",
         "COIN"
       ],
-      "us_avg_pct": 4.94,
+      "us_avg_pct": 3.93,
       "kr_sector": "크립토·게이밍",
       "kr_tickers": [
         "112040",
@@ -322,7 +322,7 @@
       ],
       "kr_actual_avg_pct": null,
       "beta": 0.32,
-      "predicted_kr_avg_pct": 1.58,
+      "predicted_kr_avg_pct": 1.26,
       "lag_hours": 4
     }
   ],
@@ -366,25 +366,25 @@
   ],
   "macro": {
     "sp500": {
-      "price": 7529.29,
-      "change_pct": -0.61,
+      "price": 7546.41,
+      "change_pct": -0.38,
       "label": "S&P 500"
     },
     "nasdaq": {
-      "price": 26050.92,
-      "change_pct": -0.88,
+      "price": 26136.61,
+      "change_pct": -0.55,
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.71,
-      "change_pct": -2.62,
+      "price": 16.42,
+      "change_pct": -4.31,
       "label": "VIX"
     },
     "btc": {
-      "price": 64680.1,
-      "change_pct": 3.58,
+      "price": 64476,
+      "change_pct": 3.71,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +3.6% → 한미반도체 개장 상방 압력 예상 (+2.5% 전후). US 무드 42/100, KR 무드 42/100."
+  "summary": "미국 NVDA +3.5% → 한미반도체 개장 상방 압력 예상 (+3.0% 전후). US 무드 47/100, KR 무드 42/100."
 }
