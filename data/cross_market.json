@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-15T06:35:23.219446+00:00",
-  "us_mood_score": 45,
+  "fetched_at": "2026-07-15T08:59:47.922970+00:00",
+  "us_mood_score": 44,
   "kr_mood_score": 100,
   "us_mood": "neutral",
   "kr_mood": "bullish",
@@ -328,6 +328,17 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "INTC",
+      "title": "ASML Q2 Earnings Call Highlights",
+      "title_kr": "ASML Q2 수익 회의 하이라이트",
+      "source": "Yahoo",
+      "published_at": "2026-07-15T06:02:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스"
+      ]
+    },
+    {
       "ticker": "COIN",
       "title": "JPMorgan cuts earnings forecasts for two major crypto companies",
       "title_kr": "JPMorgan, 두 주요 암호화폐 회사의 수익 예측 하향 조정",
@@ -350,18 +361,6 @@
         "SK하이닉스",
         "한미반도체"
       ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Wells Fargo & Company Q2 2026 Earnings Call Summary",
-      "title_kr": "Wells Fargo & Company 2026년 2분기 실적 요약",
-      "source": "Yahoo",
-      "published_at": "2026-07-14T20:48:12+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
     }
   ],
   "macro": {
@@ -376,15 +375,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 16.5,
-      "change_pct": -3.85,
+      "price": 16.28,
+      "change_pct": -1.33,
       "label": "VIX"
     },
     "btc": {
-      "price": 65233.79,
-      "change_pct": 3.95,
+      "price": 64768,
+      "change_pct": 3.3,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +4.1% → 한미반도체 개장 상방 압력 예상 (+3.5% 전후). US 무드 45/100, KR 무드 100/100."
+  "summary": "미국 NVDA +4.1% → 한미반도체 개장 상방 압력 예상 (+3.5% 전후). US 무드 44/100, KR 무드 100/100."
 }
