@@ -168,21 +168,6 @@
       "summary_kr": "이달 초 Tesla 투자자들은 전기 자동차 제조업체가 2분기에 480,000대 이상의 차량을 납품했다고 보고하면서 절실히 필요한 좋은 소식을 얻었습니다. 전년 동기 대비 25% 증가로 Tesla의 2분기 최고 실적을 기록했습니다."
     },
     {
-      "id": "av_62840e7c7acd9b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia 'Would Not Be Here Today': Jensen Huang Credits Sega's $5 Million Bet For Saving the Company From Bankruptcy as He Revisits the Past",
-      "summary": "Nvidia CEO Jensen Huang recently recounted how a $5 million investment from Sega in 1995 saved his company from bankruptcy. This crucial funding allowed Nvidia to develop its first successful graphics chip, turning around its fortunes after a failed initial product and putting it",
-      "url": "https://finance.yahoo.com/technology/articles/nvidia-not-today-jensen-huang-113023140.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-19T11:08:41+00:00",
-      "sentiment": 0.494544,
-      "change_pct": -2.21,
-      "title_kr": "Nvidia '오늘은 여기에 없을 것': Jensen Huang은 과거를 회상하면서 Sega가 파산에서 회사를 구하기 위해 500만 달러를 투자했다고 인정합니다.",
-      "summary_kr": "Nvidia CEO Jensen Huang은 최근 1995년 Sega가 500만 달러를 투자하여 회사를 파산에서 구한 방법을 설명했습니다. 이 중요한 자금 조달을 통해 Nvidia는 최초의 성공적인 그래픽 칩을 개발할 수 있었고, 초기 홍보 실패 이후 재산을 되돌릴 수 있었습니다."
-    },
-    {
       "id": "f_416572b3a2c4c7",
       "provider": "finnhub",
       "ticker": "META",
@@ -197,6 +182,21 @@
       "summary_kr": "EPS 상승에도 불구하고 수익이 예상치를 하회하고 투자자들이 여유 현금 흐름을 낮추고 참여 데이터 공개를 줄임에 따라 Netflix 주가는 시간외 8% 이상 하락했습니다."
     },
     {
+      "id": "av_62840e7c7acd9b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia 'Would Not Be Here Today': Jensen Huang Credits Sega's $5 Million Bet For Saving the Company From Bankruptcy as He Revisits the Past",
+      "summary": "Nvidia CEO Jensen Huang recently recounted how a $5 million investment from Sega in 1995 saved his company from bankruptcy. This crucial funding allowed Nvidia to develop its first successful graphics chip, turning around its fortunes after a failed initial product and putting it",
+      "url": "https://finance.yahoo.com/technology/articles/nvidia-not-today-jensen-huang-113023140.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-19T11:08:41+00:00",
+      "sentiment": 0.452413,
+      "change_pct": -2.21,
+      "title_kr": "Nvidia '오늘은 여기에 없을 것': Jensen Huang은 과거를 회상하면서 Sega가 파산에서 회사를 구하기 위해 500만 달러를 투자했다고 인정합니다.",
+      "summary_kr": "Nvidia CEO Jensen Huang은 최근 1995년 Sega가 500만 달러를 투자하여 회사를 파산에서 구한 방법을 설명했습니다. 이 중요한 자금 조달을 통해 Nvidia는 최초의 성공적인 그래픽 칩을 개발할 수 있었고, 초기 홍보 실패 이후 재산을 되돌릴 수 있었습니다."
+    },
+    {
       "id": "av_ca0ad6ddf36b2d",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -206,7 +206,7 @@
       "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/carvina-capital-sees-china-exports-jump-27-1193071",
       "source": "ACCESS Newswire",
       "published_at": "2026-07-19T11:40:12+00:00",
-      "sentiment": 0.445245,
+      "sentiment": 0.420613,
       "change_pct": -2.21,
       "title_kr": "Carvina Capital, 중국 수출 27% 증가 확인",
       "summary_kr": "Carvina Capital은 중국의 수출이 전년 대비 27% 급증하여 4,124억 달러에 달했다고 보고했는데, 이는 주로 반도체와 인공지능 출하에 힘입은 것입니다. 이러한 성장으로 인해 무역 흑자는 1,256억 달러로 확대되었으며, 이는 증가세에도 불구하고 기록에 근접했습니다."
@@ -221,7 +221,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-position-raised-by-munich-reinsurance-co-stock-corp-in-munich-2026-07-19/",
       "source": "MarketBeat",
       "published_at": "2026-07-19T08:36:49+00:00",
-      "sentiment": 0.487146,
+      "sentiment": 0.475168,
       "change_pct": -2.21,
       "title_kr": "NVIDIA Corporation $NVDA 포지션은 뮌헨에서 뮌헨 재보험 주식회사(Munchen Reinsurance Co Stock Corp)에 의해 제기되었습니다.",
       "summary_kr": "뮌헨 소재 뮌헨 재보험 주식회사(Munchen Reinsurance Co Stock Corp)는 1분기 동안 NVIDIA Corporation(NASDAQ:NVDA) 지분을 12.5% ​​늘려 NVIDIA를 최대 포트폴리오 보유자로 만들었습니다. 다른 몇몇 기관 투자자들도 NVIDIA에서 포지션을 조정했습니다."
@@ -236,10 +236,25 @@
       "url": "https://www.tradingview.com/symbols/GETTEX-BCFN/profile/",
       "source": "TradingView",
       "published_at": "2026-07-19T09:40:25+00:00",
-      "sentiment": 0.328841,
+      "sentiment": 0.340494,
       "change_pct": -2.21,
       "title_kr": "BCFN ETF 프로필: 배당금, 수익(GETTEX:BCFN)",
       "summary_kr": "이 기사는 Gettex에서 거래되는 BCFN ETF(UBS (Irl) ETF Plc - UBS Nasdaq-100 UCITS ETF USD)에 대한 자세한 프로필을 제공합니다. ETF의 투자 전략과 함께 관리 자산, 비용 비율 및 개시 날짜와 같은 주요 통계를 다룹니다."
+    },
+    {
+      "id": "av_879a4b3307895a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Crescent Grove Advisors LLC Acquires 2,476 Shares of Advanced Micro Devices, Inc. $AMD",
+      "summary": "Crescent Grove Advisors LLC increased its stake in Advanced Micro Devices (AMD) by 44% in the first quarter, acquiring an additional 2,476 shares to bring its total holdings to 8,103 shares, valued at approximately $1.65 million. This move is part of a broader trend of significan",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-crescent-grove-advisors-llc-acquires-2476-shares-of-advanced-micro-devices-inc-amd-2026-07-19/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T08:33:06+00:00",
+      "sentiment": 0.348862,
+      "change_pct": -2.21,
+      "title_kr": "Crescent Grove Advisors LLC는 Advanced Micro Devices, Inc.의 주식 2,476주를 인수했습니다. $AMD",
+      "summary_kr": "Crescent Grove Advisors LLC는 1분기에 AMD(Advanced Micro Devices)의 지분을 44% 늘렸고, 2,476주를 추가로 인수하여 총 보유액이 약 165만 달러에 달하는 8,103주가 되었습니다. 이 움직임은 더 넓은 범위의 일부입니다."
     },
     {
       "id": "av_d7564420ce57d0",
@@ -251,7 +266,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-hanseatic-management-services-inc-invests-111-million-in-sitime-corporation-sitm-2026-07-19/",
       "source": "MarketBeat",
       "published_at": "2026-07-19T08:39:25+00:00",
-      "sentiment": 0.32584,
+      "sentiment": 0.342137,
       "change_pct": -2.21,
       "title_kr": "Hanseatic Management Services Inc., SiTime Corporation $SITM에 111만 달러 투자",
       "summary_kr": "Hanseatic Management Services Inc.는 1분기 동안 약 111만 달러 상당의 주식 3,225주를 인수하면서 SiTime Corporation(NASDAQ:SITM)에 새로운 지위를 부여했습니다. 이번 투자는 SiTime에 대한 기관의 강력한 관심을 강조합니다."
@@ -266,25 +281,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-freemont-management-sa-has-252-million-holdings-in-advanced-micro-devices-inc-amd-2026-07-19/",
       "source": "MarketBeat",
       "published_at": "2026-07-19T09:22:03+00:00",
-      "sentiment": 0.304302,
+      "sentiment": 0.311506,
       "change_pct": -2.21,
       "title_kr": "Freemont Management S.A.는 Advanced Micro Devices, Inc. $AMD에 252만 달러의 지분을 보유하고 있습니다.",
       "summary_kr": "Freemont Management S.A.는 1분기에 Advanced Micro Devices(NASDAQ:AMD)의 지분을 9.5% 줄여 현재 252만 달러 상당의 주식 12,400주를 보유하고 있습니다. 이는 다양한 기관 투자자 활동 중에 발생하며 많은 사람들이 포지션을 늘리고 있습니다."
     },
     {
-      "id": "av_879a4b3307895a",
+      "id": "av_3a3a05e6c2de09",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Crescent Grove Advisors LLC Acquires 2,476 Shares of Advanced Micro Devices, Inc. $AMD",
-      "summary": "Crescent Grove Advisors LLC increased its stake in Advanced Micro Devices (AMD) by 44% in the first quarter, acquiring an additional 2,476 shares to bring its total holdings to 8,103 shares, valued at approximately $1.65 million. This move is part of a broader trend of significan",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-crescent-grove-advisors-llc-acquires-2476-shares-of-advanced-micro-devices-inc-amd-2026-07-19/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-19T08:33:06+00:00",
-      "sentiment": 0.307764,
+      "title": "KVLE ETF Profile: Dividends, Returns (AMEX:KVLE)",
+      "summary": "The KVLE ETF, managed by KraneShares, is a passively managed fund providing exposure to US companies with high dividend yields. It selects companies based on Value Line's proprietary safety and timeliness rankings, focusing on those with the best dividends and a specific beta tar",
+      "url": "https://www.tradingview.com/symbols/AMEX-KVLE/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-19T07:39:41+00:00",
+      "sentiment": 0.330168,
       "change_pct": -2.21,
-      "title_kr": "Crescent Grove Advisors LLC는 Advanced Micro Devices, Inc.의 주식 2,476주를 인수했습니다. $AMD",
-      "summary_kr": "Crescent Grove Advisors LLC는 1분기에 AMD(Advanced Micro Devices)의 지분을 44% 늘렸고, 2,476주를 추가로 인수하여 총 보유액이 약 165만 달러에 달하는 8,103주가 되었습니다. 이 움직임은 더 넓은 범위의 일부입니다."
+      "title_kr": "KVLE ETF 프로필: 배당금, 수익(AMEX:KVLE)",
+      "summary_kr": "KraneShares가 관리하는 KVLE ETF는 배당수익률이 높은 미국 기업에 노출을 제공하는 수동적으로 관리되는 펀드입니다. 밸류라인 고유의 안전성과 적시성 순위를 바탕으로 배당이 가장 좋은 기업을 중심으로 기업을 선정하고,"
     },
     {
       "id": "av_1d0fc197aad4cb",
@@ -296,7 +311,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-aia-group-ltd-has-47784-million-position-in-invesco-qqq-qqq-2026-07-19/",
       "source": "MarketBeat",
       "published_at": "2026-07-19T07:59:14+00:00",
-      "sentiment": -0.306272,
+      "sentiment": -0.304593,
       "change_pct": -2.21,
       "title_kr": "AIA Group Ltd는 Invesco QQQ $QQQ에서 4억 7,784만 달러의 지분을 보유하고 있습니다.",
       "summary_kr": "AIA Group Ltd는 1분기에 Invesco QQQ의 지분을 14.7% 줄였으며 현재 827,892주(4억 7,784만 달러 상당)를 보유하여 세 번째로 큰 지분을 보유하고 있습니다. 한편 Carrera Capital Advisors 및 Hegarty Adviso와 같은 다른 기관 투자자들은"
@@ -311,7 +326,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-american-capital-advisory-llc-acquires-2578-shares-of-amazoncom-inc-amzn-2026-07-19/",
       "source": "MarketBeat",
       "published_at": "2026-07-19T07:23:07+00:00",
-      "sentiment": 0.318791,
+      "sentiment": 0.313198,
       "change_pct": -2.21,
       "title_kr": "American Capital Advisory LLC는 Amazon.com, Inc.의 주식 2,578주를 인수합니다. $AMZN",
       "summary_kr": "American Capital Advisory LLC는 1분기에 Amazon.com, Inc.의 지분을 25.1% 늘려 2,578주를 추가하여 총 보유액 268만 달러 상당의 12,858주를 확보했습니다. 이는 아마존이 항문을 제치고 강력한 분기별 수익을 보고한 데 따른 것입니다."
@@ -326,40 +341,10 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-is-fishman-jay-a-ltd-mis-3rd-largest-position-2026-07-19/",
       "source": "MarketBeat",
       "published_at": "2026-07-19T07:23:07+00:00",
-      "sentiment": 0.315542,
+      "sentiment": 0.310377,
       "change_pct": -2.21,
       "title_kr": "Amazon.com, Inc. $AMZN은 Fishman Jay A Ltd. MI의 3번째로 큰 위치입니다.",
       "summary_kr": "Fishman Jay A Ltd. MI는 1분기에 Amazon(AMZN) 지분을 1.7% 소폭 줄였지만 이 주식은 여전히 ​​포트폴리오의 7.8%를 차지해 세 번째로 큰 지분을 보유하고 있습니다. AWS 청구 버그 및 Zoox 로봇택시 리콜과 같은 최근 부정적인 헤드라인에도 불구하고 Wa는"
-    },
-    {
-      "id": "av_3a3a05e6c2de09",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "KVLE ETF Profile: Dividends, Returns (AMEX:KVLE)",
-      "summary": "The KVLE ETF, managed by KraneShares, is a passively managed fund providing exposure to US companies with high dividend yields. It selects companies based on Value Line's proprietary safety and timeliness rankings, focusing on those with the best dividends and a specific beta tar",
-      "url": "https://www.tradingview.com/symbols/AMEX-KVLE/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-19T07:39:41+00:00",
-      "sentiment": 0.306628,
-      "change_pct": -2.21,
-      "title_kr": "KVLE ETF 프로필: 배당금, 수익(AMEX:KVLE)",
-      "summary_kr": "KraneShares가 관리하는 KVLE ETF는 배당수익률이 높은 미국 기업에 노출을 제공하는 수동적으로 관리되는 펀드입니다. 밸류라인 고유의 안전성과 적시성 순위를 바탕으로 배당이 가장 좋은 기업을 중심으로 기업을 선정하고,"
-    },
-    {
-      "id": "av_4a5679a7d08cfd",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "YieldMax NVDA Option Income Strategy ETF announces weekly distribution of $0.0971",
-      "summary": "The YieldMax NVDA Option Income Strategy ETF has declared a weekly distribution of $0.0971 per share. This announcement provides investors with details regarding the payout from the options income strategy.",
-      "url": "http://www.msn.com/en-us/money/economy/yieldmax-nvda-option-income-strategy-etf-announces-weekly-distribution-of-0-0971/ar-AA27uGNf?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
-      "source": "MSN",
-      "published_at": "2026-07-19T06:10:02+00:00",
-      "sentiment": 0.341166,
-      "change_pct": -2.21,
-      "title_kr": "YieldMax NVDA Option Income Strategy ETF는 매주 $0.0971의 분배를 발표합니다.",
-      "summary_kr": "YieldMax NVDA Option Income Strategy ETF는 주당 $0.0971의 주간 분배를 선언했습니다. 이번 발표는 투자자들에게 옵션 수입 전략의 지급에 관한 세부 정보를 제공합니다."
     },
     {
       "id": "av_1b4865b0b86c3c",
@@ -371,40 +356,10 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/GOOG-Q/pressreleases/3353538/warren-buffett-made-a-move-that-should-have-every-investor-watching-this-stock/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-19T08:16:08+00:00",
-      "sentiment": 0.267952,
+      "sentiment": 0.286098,
       "change_pct": -2.21,
       "title_kr": "워렌 버핏은 모든 투자자가 이 주식을 주목해야 할 움직임을 보였습니다.",
       "summary_kr": "워렌 버핏(Warren Buffett)은 버크셔 해서웨이의 알파벳 투자를 크게 늘려 이 회사의 다섯 번째로 큰 보유 기업으로 만들었습니다. 이러한 움직임은 버핏이 버크셔의 CEO직에서 물러난 후 나온 것이며 알파벳의 매력적인 가치 평가에 대한 그의 믿음을 반영합니다."
-    },
-    {
-      "id": "av_968bd94e6f30bc",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI: Apple thinking 'out of the box' on AI chips and M&A. AI-RTZ #1152",
-      "summary": "Apple is reportedly increasing its focus on AI chip development and considering larger acquisitions to bolster its server capabilities for AI workloads. The company's in-house M2 Ultra chips have proven insufficient for advanced AI, leading to reliance on Nvidia through Google Cl",
-      "url": "https://michaelparekh.substack.com/p/ai-apple-thinking-out-of-the-box",
-      "source": "AI: Reset to Zero",
-      "published_at": "2026-07-19T05:02:58+00:00",
-      "sentiment": 0.316024,
-      "change_pct": -2.21,
-      "title_kr": "AI: 애플은 AI 칩과 M&A에 대해 '기존의 틀에서 벗어난' 생각을 하고 있습니다. AI-RTZ #1152",
-      "summary_kr": "Apple은 AI 칩 개발에 초점을 맞추고 AI 워크로드에 대한 서버 기능을 강화하기 위해 대규모 인수를 고려하고 있는 것으로 알려졌습니다. 회사 내부 M2 Ultra 칩은 고급 AI에 불충분한 것으로 입증되어 Nvid에 의존하게 되었습니다."
-    },
-    {
-      "id": "av_cab7e2bda6476d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "1,813 Shares in Advanced Micro Devices, Inc. $AMD Bought by Hanseatic Management Services Inc.",
-      "summary": "Hanseatic Management Services Inc. recently acquired 1,813 shares of Advanced Micro Devices (AMD) in the first quarter, valued at approximately $369,000, adding to the significant institutional ownership of 71.34% in the company. AMD's latest quarterly earnings exceeded expectati",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-1813-shares-in-advanced-micro-devices-inc-amd-bought-by-hanseatic-management-services-inc-2026-07-19/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-19T08:33:06+00:00",
-      "sentiment": 0.222725,
-      "change_pct": -2.21,
-      "title_kr": "Advanced Micro Devices, Inc.의 주식 1,813개 $AMD가 Hanseatic Management Services Inc.에서 인수됨",
-      "summary_kr": "Hanseatic Management Services Inc.는 최근 1분기에 AMD(Advanced Micro Devices)의 주식 1,813주(약 369,000달러 상당)를 인수하여 회사의 71.34%라는 상당한 기관 지분을 추가했습니다. AMD의 최근 분기별 수익"
     },
     {
       "id": "av_32fdbfed28b3d8",
@@ -416,7 +371,7 @@
       "url": "https://www.tradingview.com/symbols/BOATS-LDRX/profile/",
       "source": "TradingView",
       "published_at": "2026-07-19T04:40:10+00:00",
-      "sentiment": 0.313975,
+      "sentiment": 0.347787,
       "change_pct": -2.21,
       "title_kr": "LDRX ETF 프로필: 배당금, 수익(BOATS:LDRX)",
       "summary_kr": "Summit Global LLC가 발행한 LDRX ETF는 단기 옵션 오버레이를 통해 대형주 주식 공간에서 총 수익을 추구하는 적극적으로 관리되는 펀드입니다. 재무 상태가 유리한 시장을 선도하는 기업에 투자하고 외가격이 큰 기업에 투자합니다."
@@ -431,10 +386,40 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-sold-by-hoertkorn-richard-charles-2026-07-19/",
       "source": "MarketBeat",
       "published_at": "2026-07-19T09:08:23+00:00",
-      "sentiment": 0.200167,
+      "sentiment": 0.230612,
       "change_pct": -2.21,
       "title_kr": "Hoertkorn Richard Charles가 NVIDIA Corporation $NVDA 주식을 매각했습니다.",
       "summary_kr": "Hoertkorn Richard Charles는 1분기에 NVIDIA Corporation의 지분을 60.1% 크게 줄여 11,240주를 매각하고 130만 달러 상당의 7,456주를 보유했습니다. 이번 매각에도 불구하고 기관투자가들은 엔비디아 지분 65.27%를 공동으로 보유하고 있다."
+    },
+    {
+      "id": "av_4a5679a7d08cfd",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "YieldMax NVDA Option Income Strategy ETF announces weekly distribution of $0.0971",
+      "summary": "The YieldMax NVDA Option Income Strategy ETF has declared a weekly distribution of $0.0971 per share. This announcement provides investors with details regarding the payout from the options income strategy.",
+      "url": "http://www.msn.com/en-us/money/economy/yieldmax-nvda-option-income-strategy-etf-announces-weekly-distribution-of-0-0971/ar-AA27uGNf?apiversion=v2&domshim=1&noservercache=1&noservertelemetry=1&batchservertelemetry=1&renderwebcomponents=1&wcseo=1",
+      "source": "MSN",
+      "published_at": "2026-07-19T06:10:02+00:00",
+      "sentiment": 0.302383,
+      "change_pct": -2.21,
+      "title_kr": "YieldMax NVDA Option Income Strategy ETF는 매주 $0.0971의 분배를 발표합니다.",
+      "summary_kr": "YieldMax NVDA Option Income Strategy ETF는 주당 $0.0971의 주간 분배를 선언했습니다. 이번 발표는 투자자들에게 옵션 수입 전략의 지급에 관한 세부 정보를 제공합니다."
+    },
+    {
+      "id": "av_968bd94e6f30bc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI: Apple thinking 'out of the box' on AI chips and M&A. AI-RTZ #1152",
+      "summary": "Apple is reportedly increasing its focus on AI chip development and considering larger acquisitions to bolster its server capabilities for AI workloads. The company's in-house M2 Ultra chips have proven insufficient for advanced AI, leading to reliance on Nvidia through Google Cl",
+      "url": "https://michaelparekh.substack.com/p/ai-apple-thinking-out-of-the-box",
+      "source": "AI: Reset to Zero",
+      "published_at": "2026-07-19T05:02:58+00:00",
+      "sentiment": 0.323229,
+      "change_pct": -2.21,
+      "title_kr": "AI: 애플은 AI 칩과 M&A에 대해 '기존의 틀에서 벗어난' 생각을 하고 있습니다. AI-RTZ #1152",
+      "summary_kr": "Apple은 AI 칩 개발에 초점을 맞추고 AI 워크로드에 대한 서버 기능을 강화하기 위해 대규모 인수를 고려하고 있는 것으로 알려졌습니다. 회사 내부 M2 Ultra 칩은 고급 AI에 불충분한 것으로 입증되어 Nvid에 의존하게 되었습니다."
     },
     {
       "id": "av_73fe52d8a22bd4",
@@ -446,25 +431,25 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/earnings-watch-crown-holdings-cck-034901762.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-19T03:48:43+00:00",
-      "sentiment": 0.32146,
+      "sentiment": 0.338635,
       "change_pct": -2.21,
       "title_kr": "주목해야 할 실적: Crown Holdings(CCK), 내일 2분기 결과 보고",
       "summary_kr": "크라운 홀딩스(NYSE:CCK)는 이번 주 월요일 오후 2분기 실적을 발표할 예정이며, 분석가들은 전년 대비 6.6%의 매출 성장을 예상하고 있습니다. 회사는 지난 분기 매출 기대치를 뛰어넘었고 월스트리트 예상을 능가하는 강력한 실적을 자랑합니다."
     },
     {
-      "id": "av_14f2c2796017d3",
+      "id": "av_cab7e2bda6476d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Swiss National Bank Increases Stock Holdings in Advanced Micro Devices, Inc. $AMD",
-      "summary": "The Swiss National Bank increased its stake in Advanced Micro Devices (AMD) by 7.4% in the first quarter, now owning 4,778,075 shares worth $972 million. Other institutional investors have also adjusted their positions in AMD. Despite mixed sentiment from analysts and recent insi",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-increases-stock-holdings-in-advanced-micro-devices-inc-amd-2026-07-19/",
+      "title": "1,813 Shares in Advanced Micro Devices, Inc. $AMD Bought by Hanseatic Management Services Inc.",
+      "summary": "Hanseatic Management Services Inc. recently acquired 1,813 shares of Advanced Micro Devices (AMD) in the first quarter, valued at approximately $369,000, adding to the significant institutional ownership of 71.34% in the company. AMD's latest quarterly earnings exceeded expectati",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-1813-shares-in-advanced-micro-devices-inc-amd-bought-by-hanseatic-management-services-inc-2026-07-19/",
       "source": "MarketBeat",
-      "published_at": "2026-07-19T10:22:03+00:00",
-      "sentiment": 0.139371,
+      "published_at": "2026-07-19T08:33:06+00:00",
+      "sentiment": 0.218536,
       "change_pct": -2.21,
-      "title_kr": "스위스 국립 은행, Advanced Micro Devices, Inc.의 주식 보유액 증가 $AMD",
-      "summary_kr": "스위스 국립은행은 1분기에 AMD(Advanced Micro Devices)의 지분을 7.4% 늘려 현재 9억 7,200만 달러 상당의 4,778,075주를 보유하고 있습니다. 다른 기관 투자자들도 AMD에 대한 입장을 조정했습니다. 항문의 엇갈린 감정에도 불구하고"
+      "title_kr": "Advanced Micro Devices, Inc.의 주식 1,813개 $AMD가 Hanseatic Management Services Inc.에서 인수됨",
+      "summary_kr": "Hanseatic Management Services Inc.는 최근 1분기에 AMD(Advanced Micro Devices)의 주식 1,813주(약 369,000달러 상당)를 인수하여 회사의 71.34%라는 상당한 기관 지분을 추가했습니다. AMD의 최근 분기별 수익"
     },
     {
       "id": "f_40cb66162ca75d",
@@ -630,10 +615,25 @@
       "url": "https://www.tradingview.com/symbols/BOATS-SEMI/profile/",
       "source": "TradingView",
       "published_at": "2026-07-19T06:41:22+00:00",
-      "sentiment": 0.200886,
+      "sentiment": 0.201205,
       "change_pct": -2.21,
       "title_kr": "SEMI ETF 프로필: 배당금, 수익 (BOATS:SEMI)",
       "summary_kr": "이 기사에서는 주요 통계, 투자 전략, 보유 종목 및 배당금 정보를 다루는 Columbia Seligman Semiconductor and Technology ETF(BOATS:SEMI)에 대한 자세한 프로필을 제공합니다. 이는 기술 분야의 미국 주식 증권에 대한 ETF의 초점을 강조합니다."
+    },
+    {
+      "id": "av_14f2c2796017d3",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Swiss National Bank Increases Stock Holdings in Advanced Micro Devices, Inc. $AMD",
+      "summary": "The Swiss National Bank increased its stake in Advanced Micro Devices (AMD) by 7.4% in the first quarter, now owning 4,778,075 shares worth $972 million. Other institutional investors have also adjusted their positions in AMD. Despite mixed sentiment from analysts and recent insi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-increases-stock-holdings-in-advanced-micro-devices-inc-amd-2026-07-19/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T10:22:03+00:00",
+      "sentiment": 0.10608,
+      "change_pct": -2.21,
+      "title_kr": "스위스 국립 은행, Advanced Micro Devices, Inc.의 주식 보유액 증가 $AMD",
+      "summary_kr": "스위스 국립은행은 1분기에 AMD(Advanced Micro Devices)의 지분을 7.4% 늘려 현재 9억 7,200만 달러 상당의 4,778,075주를 보유하고 있습니다. 다른 기관 투자자들도 AMD에 대한 입장을 조정했습니다. 항문의 엇갈린 감정에도 불구하고"
     },
     {
       "id": "f_69fc3db89125c9",
@@ -662,21 +662,6 @@
       "change_pct": -2.17,
       "title_kr": "QQQ가 집중되어 있다고 생각하시나요? 이 Nasdaq ETF는 거대 기술 기업에 더욱 열심히 베팅하고 있습니다(그리고 승리하고 있습니다)",
       "summary_kr": "QQQ는 이미 Big Tech 쪽으로 크게 기울어져 있지만 최신 Nasdaq ETF는 라인업을 단 30개로 줄이고 소수의 AI 거대 기업에 거의 모든 것을 걸었습니다. 그 집중이 특징인지 함정인지는 일반적인 오프셋이 멈출 때 어떤 일이 발생하는지에 따라 달라집니다."
-    },
-    {
-      "id": "av_baeccb044b5081",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "11,800 Shares in Lumentum Holdings Inc. $LITE Acquired by Freemont Management S.A.",
-      "summary": "Freemont Management S.A. has acquired a new stake of 11,800 shares in Lumentum Holdings Inc. (NASDAQ:LITE), valued at approximately $8.29 million, making it their 26th largest holding. Several other institutional investors also increased their positions in Lumentum, highlighting ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-11800-shares-in-lumentum-holdings-inc-lite-acquired-by-freemont-management-sa-2026-07-19/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-19T08:53:19+00:00",
-      "sentiment": 0.136988,
-      "change_pct": -2.21,
-      "title_kr": "Lumentum Holdings Inc. $LITE 주식 11,800주, Freemont Management S.A.에서 인수",
-      "summary_kr": "Freemont Management S.A.는 Lumentum Holdings Inc.(NASDAQ:LITE)의 새로운 지분 11,800주를 인수했는데, 이는 약 829만 달러 상당의 가치로 26번째로 큰 지분이 되었습니다. 다른 몇몇 기관 투자자들도 Lum에서 포지션을 늘렸습니다."
     },
     {
       "id": "f_aceb222a678177",
@@ -730,7 +715,24 @@
       "url": "https://finnhub.io/api/news?id=9f66da29b32b056285316fe336002179992cdb685a40269bad915a3bd94795e7",
       "source": "Yahoo",
       "published_at": "2026-07-19T13:50:00+00:00",
-      "change_pct": -2.21
+      "change_pct": -2.21,
+      "title_kr": "1 간과된 Vanguard ETF는 올해 저렴한 비용으로 S&P 500을 능가하고 있습니다.",
+      "summary_kr": "소형주가 급등하면서 Vanguard Small-Cap Growth ETF가 마땅한 관심을 받지 못하고 있는 것처럼 느껴집니다."
+    },
+    {
+      "id": "av_baeccb044b5081",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "11,800 Shares in Lumentum Holdings Inc. $LITE Acquired by Freemont Management S.A.",
+      "summary": "Freemont Management S.A. has acquired a new stake of 11,800 shares in Lumentum Holdings Inc. (NASDAQ:LITE), valued at approximately $8.29 million, making it their 26th largest holding. Several other institutional investors also increased their positions in Lumentum, highlighting ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-11800-shares-in-lumentum-holdings-inc-lite-acquired-by-freemont-management-sa-2026-07-19/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T08:53:19+00:00",
+      "sentiment": 0.120485,
+      "change_pct": -2.21,
+      "title_kr": "Lumentum Holdings Inc. $LITE 주식 11,800주, Freemont Management S.A.에서 인수",
+      "summary_kr": "Freemont Management S.A.는 Lumentum Holdings Inc.(NASDAQ:LITE)의 새로운 지분 11,800주를 인수했는데, 이는 약 829만 달러 상당의 가치로 26번째로 큰 지분이 되었습니다. 다른 몇몇 기관 투자자들도 Lum에서 포지션을 늘렸습니다."
     },
     {
       "id": "f_5d98e05265d7fc",
@@ -759,21 +761,6 @@
       "change_pct": -2.21,
       "title_kr": "워렌 버핏은 새로운 목표를 세웠습니다: 2034년까지 1,400억 달러 규모의 버크셔 지분을 모두 기부합니다.",
       "summary_kr": "그것을 가지고 갈 수는 없으므로 누군가에게 좋은 일이 될 것이라고 생각되는 곳에 사용하는 것이 좋습니다."
-    },
-    {
-      "id": "av_7957fbf474032d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy",
-      "summary": "Nvidia, led by CEO Jensen Huang, continues to dominate the AI chip market due to its strategic foresight in developing GPUs, the CUDA software platform, and expanding into networking and CPU development. The company is transitioning from a GPU specialist to a complete AI infrastr",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/3349791/nvidia-jensen-huangs-company-is-still-the-king-of-ai-and-the-stock-is-a-buy/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-18T18:14:47+00:00",
-      "sentiment": 0.482105,
-      "change_pct": -2.21,
-      "title_kr": "Nvidia: Jensen Huang의 회사는 여전히 AI의 왕이며 주식은 매수입니다.",
-      "summary_kr": "Jensen Huang CEO가 이끄는 Nvidia는 CUDA 소프트웨어 플랫폼인 GPU 개발과 네트워킹 및 CPU 개발 분야로의 확장에 대한 전략적 예측으로 인해 AI 칩 시장을 지속적으로 장악하고 있습니다. 회사는 GPU 전문업체에서 GPU 전문업체로 전환하고 있습니다."
     },
     {
       "id": "f_695986d3b48a97",
@@ -859,6 +846,36 @@
       "summary_kr": "거대 기술 기업은 자사의 AI 인프라에 수십억 달러를 쏟아 붓고 있으며, 사업에서 벌어들이는 것보다 더 많은 비용을 지출하고 있습니다."
     },
     {
+      "id": "av_68ffe15f47d7fa",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "PABU ETF Profile: Dividends, Returns (EURONEXT:PABU)",
+      "summary": "This article provides a detailed profile of the Amundi S&P 500 Climate Paris Aligned UCITS ETF Accum USD (PABU), focusing on its dividends, returns, and key characteristics. It highlights the ETF's assets under management, expense ratio, investment strategy, regional allocation, ",
+      "url": "https://www.tradingview.com/symbols/EURONEXT-PABU/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-19T03:11:47+00:00",
+      "sentiment": 0.2435,
+      "change_pct": -2.21,
+      "title_kr": "PABU ETF 프로필: 배당금, 수익(EURONEXT:PABU)",
+      "summary_kr": "이 기사에서는 Amundi S&P 500 Climate Paris Aligned UCITS ETF Accum USD(PABU)에 대한 자세한 프로필을 배당금, 수익률 및 주요 특성에 중점을 두고 제공합니다. 관리 중인 ETF의 자산, 비용 비율, 투자 전략 등을 강조합니다."
+    },
+    {
+      "id": "av_7957fbf474032d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia: Jensen Huang's Company Is Still the King of AI, and the Stock Is a Buy",
+      "summary": "Nvidia, led by CEO Jensen Huang, continues to dominate the AI chip market due to its strategic foresight in developing GPUs, the CUDA software platform, and expanding into networking and CPU development. The company is transitioning from a GPU specialist to a complete AI infrastr",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ARM/pressreleases/3349791/nvidia-jensen-huangs-company-is-still-the-king-of-ai-and-the-stock-is-a-buy/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-18T18:14:47+00:00",
+      "sentiment": 0.466104,
+      "change_pct": -2.21,
+      "title_kr": "Nvidia: Jensen Huang의 회사는 여전히 AI의 왕이며 주식은 매수입니다.",
+      "summary_kr": "Jensen Huang CEO가 이끄는 Nvidia는 CUDA 소프트웨어 플랫폼인 GPU 개발과 네트워킹 및 CPU 개발 분야로의 확장에 대한 전략적 예측으로 인해 AI 칩 시장을 지속적으로 장악하고 있습니다. 회사는 GPU 전문업체에서 GPU 전문업체로 전환하고 있습니다."
+    },
+    {
       "id": "f_666ad1339f1278",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -913,21 +930,6 @@
       "change_pct": -2.21,
       "title_kr": "향후 10년 동안 보유할 2개의 수동적 소득 주식",
       "summary_kr": "이 두 배당주는 향후 10년 동안 내 소득 포트폴리오의 기반이 될 것입니다."
-    },
-    {
-      "id": "av_68ffe15f47d7fa",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "PABU ETF Profile: Dividends, Returns (EURONEXT:PABU)",
-      "summary": "This article provides a detailed profile of the Amundi S&P 500 Climate Paris Aligned UCITS ETF Accum USD (PABU), focusing on its dividends, returns, and key characteristics. It highlights the ETF's assets under management, expense ratio, investment strategy, regional allocation, ",
-      "url": "https://www.tradingview.com/symbols/EURONEXT-PABU/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-19T03:11:47+00:00",
-      "sentiment": 0.234165,
-      "change_pct": -2.21,
-      "title_kr": "PABU ETF 프로필: 배당금, 수익(EURONEXT:PABU)",
-      "summary_kr": "이 기사에서는 Amundi S&P 500 Climate Paris Aligned UCITS ETF Accum USD(PABU)에 대한 자세한 프로필을 배당금, 수익률 및 주요 특성에 중점을 두고 제공합니다. 관리 중인 ETF의 자산, 비용 비율, 투자 전략 등을 강조합니다."
     },
     {
       "id": "f_797418b5e5fafa",
@@ -1027,6 +1029,21 @@
       "summary_kr": "대규모 IPO로 인해 SpaceX 주식은 앞으로 몇 년 동안 실적이 저조할 수 있는 길을 열었습니다."
     },
     {
+      "id": "av_b3134d01bdb926",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Bessemer Group Inc. Has $13.26 Million Holdings in RTX Corporation $RTX",
+      "summary": "Bessemer Group Inc. significantly increased its stake in RTX Corporation during the first quarter, now holding 68,743 shares valued at approximately $13.26 million. RTX recently reported stronger-than-expected quarterly earnings and revenue, and announced a quarterly dividend of ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-bessemer-group-inc-has-1326-million-holdings-in-rtx-corporation-rtx-2026-07-19/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T08:03:00+00:00",
+      "sentiment": -0.099778,
+      "change_pct": -2.21,
+      "title_kr": "Bessemer Group Inc.는 RTX Corporation $RTX에 1,326만 달러의 지분을 보유하고 있습니다.",
+      "summary_kr": "Bessemer Group Inc.는 1분기 동안 RTX Corporation의 지분을 크게 늘려 현재 약 1,326만 달러 상당의 주식 68,743주를 보유하고 있습니다. RTX는 최근 예상보다 강한 분기별 수익과 수익을 보고했으며,"
+    },
+    {
       "id": "f_fd7f0273085db1",
       "provider": "finnhub",
       "ticker": "MSFT",
@@ -1065,6 +1082,21 @@
       "change_pct": -2.21
     },
     {
+      "id": "av_054db65c446843",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "15,078 Shares in RTX Corporation $RTX Bought by Spartan Wealth Advisory Services LLC",
+      "summary": "Spartan Wealth Advisory Services LLC has purchased a new stake of 15,078 shares in RTX Corporation (NYSE:RTX), valued at approximately $2.91 million during the first quarter. This comes as several other institutional investors have also adjusted their holdings in RTX. The article",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-15078-shares-in-rtx-corporation-rtx-bought-by-spartan-wealth-advisory-services-llc-2026-07-19/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T09:54:07+00:00",
+      "sentiment": 0.047639,
+      "change_pct": -2.21,
+      "title_kr": "RTX Corporation의 주식 15,078개 $RTX가 Spartan Wealth Advisory Services LLC에서 매입됨",
+      "summary_kr": "Spartan Wealth Advisory Services LLC는 1분기 동안 약 291만 달러 상당의 RTX Corporation(NYSE:RTX) 주식 15,078주의 새로운 지분을 매입했습니다. 이는 다른 여러 기관 투자자들도 보유 지분을 조정함에 따라 발생합니다."
+    },
+    {
       "id": "f_0a92a3e334be8f",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1089,21 +1121,6 @@
       "change_pct": -2.21,
       "title_kr": "오라클은 최고치 대비 65% 하락했습니다. 어쨌든 방금 샀어요. 이유는 다음과 같습니다.",
       "summary_kr": "투자자들이 오라클의 공격적인 지출 계획이 성공할 것이라고 확신하지 못한다고 가정해 보겠습니다."
-    },
-    {
-      "id": "av_054db65c446843",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "15,078 Shares in RTX Corporation $RTX Bought by Spartan Wealth Advisory Services LLC",
-      "summary": "Spartan Wealth Advisory Services LLC has purchased a new stake of 15,078 shares in RTX Corporation (NYSE:RTX), valued at approximately $2.91 million during the first quarter. This comes as several other institutional investors have also adjusted their holdings in RTX. The article",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-15078-shares-in-rtx-corporation-rtx-bought-by-spartan-wealth-advisory-services-llc-2026-07-19/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-19T09:54:07+00:00",
-      "sentiment": 0.040997,
-      "change_pct": -2.21,
-      "title_kr": "RTX Corporation의 주식 15,078개 $RTX가 Spartan Wealth Advisory Services LLC에서 매입됨",
-      "summary_kr": "Spartan Wealth Advisory Services LLC는 1분기 동안 약 291만 달러 상당의 RTX Corporation(NYSE:RTX) 주식 15,078주의 새로운 지분을 매입했습니다. 이는 다른 여러 기관 투자자들도 보유 지분을 조정함에 따라 발생합니다."
     },
     {
       "id": "f_e3847a7482be11",
@@ -1146,21 +1163,6 @@
       "change_pct": -2.21,
       "title_kr": "ETF 흐름, 2026년 상반기 기록 경신. 지금이 투자할 때인가?",
       "summary_kr": "올해 들어 ETF 흐름은 엄청났습니다. 다음에 일어날 것으로 예상되는 일은 다음과 같습니다."
-    },
-    {
-      "id": "av_094453b5b8bebf",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Swiss National Bank Has $759.04 Million Stock Holdings in RTX Corporation $RTX",
-      "summary": "The Swiss National Bank increased its stake in RTX Corporation by 7.3% in the first quarter, now holding 3,934,881 shares valued at $759.04 million. Other institutional investors also adjusted their positions, and analysts have set new price targets, resulting in a \"Moderate Buy\"",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-has-75904-million-stock-holdings-in-rtx-corporation-rtx-2026-07-19/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-19T10:21:55+00:00",
-      "sentiment": 0.01931,
-      "change_pct": -2.21,
-      "title_kr": "스위스 국립 은행은 RTX Corporation $RTX의 주식을 7억 5,904만 달러 보유하고 있습니다.",
-      "summary_kr": "스위스 국립은행은 1분기에 RTX Corporation의 지분을 7.3% 늘려 현재 7억 5904만 달러 상당의 3,934,881주를 보유하고 있습니다. 다른 기관투자자들도 포지션을 조정했고, 애널리스트들은 새로운 가격 목표를 설정했다."
     },
     {
       "id": "f_14dd9f64600d26",
@@ -1230,19 +1232,17 @@
       "summary_kr": "이러한 사건은 역사적으로 월스트리트의 중요한 정서 변화와 일치했습니다."
     },
     {
-      "id": "av_b3134d01bdb926",
+      "id": "av_f75d5b24c6a007",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Bessemer Group Inc. Has $13.26 Million Holdings in RTX Corporation $RTX",
-      "summary": "Bessemer Group Inc. significantly increased its stake in RTX Corporation during the first quarter, now holding 68,743 shares valued at approximately $13.26 million. RTX recently reported stronger-than-expected quarterly earnings and revenue, and announced a quarterly dividend of ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bessemer-group-inc-has-1326-million-holdings-in-rtx-corporation-rtx-2026-07-19/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-19T08:03:00+00:00",
-      "sentiment": -0.071859,
-      "change_pct": -2.21,
-      "title_kr": "Bessemer Group Inc.는 RTX Corporation $RTX에 1,326만 달러의 지분을 보유하고 있습니다.",
-      "summary_kr": "Bessemer Group Inc.는 1분기 동안 RTX Corporation의 지분을 크게 늘려 현재 약 1,326만 달러 상당의 주식 68,743주를 보유하고 있습니다. RTX는 최근 예상보다 강한 분기별 수익과 수익을 보고했으며,"
+      "title": "SNPE ETF Profile: Dividends, Returns (BMV:SNPE)",
+      "summary": "This article provides a detailed profile of the SNPE ETF (Xtrackers S&P 500 Scored & Screened ETF) traded on the Mexican Stock Exchange. It covers key statistics such as assets under management, dividend yield, expense ratio, and inception date. The ETF is ESG-focused, tracks the",
+      "url": "https://www.tradingview.com/symbols/BMV-SNPE/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-18T13:40:06+00:00",
+      "sentiment": 0.510953,
+      "change_pct": -2.21
     },
     {
       "id": "f_d58f2a07ab94a8",
@@ -1271,6 +1271,34 @@
       "change_pct": -2.21,
       "title_kr": "최고의 성장을 이어가며 뛰어난 성과를 낼 것으로 예상되는 5개 주식",
       "summary_kr": "재정적으로 강력한 이들 5개 산업 주식은 AI 인프라 붐을 촉진하는 동시에 부채를 통제하고 있습니다."
+    },
+    {
+      "id": "av_72184b5d464929",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Veritone (VERI) 21st Annual Needham Technology, Media, & Consumer Conference summary",
+      "summary": "Veritone's presentation at the 21st Annual Needham Conference highlighted its strategic refocus on core AI software for media, entertainment, and public sectors after divesting non-core businesses and significantly reducing debt to strengthen its financial position. The company e",
+      "url": "https://quartr.com/events/veritone-inc-veri-21st-annual-needham-technology-media-consumer-conference_ojJDBtoW",
+      "source": "Quartr",
+      "published_at": "2026-07-19T01:09:47+00:00",
+      "sentiment": 0.232375,
+      "change_pct": -2.21
+    },
+    {
+      "id": "av_094453b5b8bebf",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Swiss National Bank Has $759.04 Million Stock Holdings in RTX Corporation $RTX",
+      "summary": "The Swiss National Bank increased its stake in RTX Corporation by 7.3% in the first quarter, now holding 3,934,881 shares valued at $759.04 million. Other institutional investors also adjusted their positions, and analysts have set new price targets, resulting in a \"Moderate Buy\"",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-has-75904-million-stock-holdings-in-rtx-corporation-rtx-2026-07-19/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T10:21:55+00:00",
+      "sentiment": 0.00183,
+      "change_pct": -2.21,
+      "title_kr": "스위스 국립 은행은 RTX Corporation $RTX의 주식을 7억 5,904만 달러 보유하고 있습니다.",
+      "summary_kr": "스위스 국립은행은 1분기에 RTX Corporation의 지분을 7.3% 늘려 현재 7억 5904만 달러 상당의 3,934,881주를 보유하고 있습니다. 다른 기관투자자들도 포지션을 조정했고, 애널리스트들은 새로운 가격 목표를 설정했다."
     },
     {
       "id": "f_aab7658628320f",
@@ -1350,32 +1378,6 @@
       "change_pct": -2.21,
       "title_kr": "도널드 트럼프 대통령은 방금 의회에 명확성법(Clarity Act)을 통과시키라고 말했습니다. 다음에 일어날 일에 대한 가장 가능성 있는 시나리오는 다음과 같습니다.",
       "summary_kr": "명확성법(Clarity Act)은 암호화폐에 대한 광범위한 규제 프레임워크를 제공합니다."
-    },
-    {
-      "id": "av_72184b5d464929",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Veritone (VERI) 21st Annual Needham Technology, Media, & Consumer Conference summary",
-      "summary": "Veritone's presentation at the 21st Annual Needham Conference highlighted its strategic refocus on core AI software for media, entertainment, and public sectors after divesting non-core businesses and significantly reducing debt to strengthen its financial position. The company e",
-      "url": "https://quartr.com/events/veritone-inc-veri-21st-annual-needham-technology-media-consumer-conference_ojJDBtoW",
-      "source": "Quartr",
-      "published_at": "2026-07-19T01:09:47+00:00",
-      "sentiment": 0.215964,
-      "change_pct": -2.21
-    },
-    {
-      "id": "av_f75d5b24c6a007",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SNPE ETF Profile: Dividends, Returns (BMV:SNPE)",
-      "summary": "This article provides a detailed profile of the SNPE ETF (Xtrackers S&P 500 Scored & Screened ETF) traded on the Mexican Stock Exchange. It covers key statistics such as assets under management, dividend yield, expense ratio, and inception date. The ETF is ESG-focused, tracks the",
-      "url": "https://www.tradingview.com/symbols/BMV-SNPE/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-18T13:40:06+00:00",
-      "sentiment": 0.503588,
-      "change_pct": -2.21
     },
     {
       "id": "f_e2fcb3f1d521fe",
@@ -1514,19 +1516,19 @@
       "change_pct": -1.82
     },
     {
-      "id": "av_16af934f95497a",
+      "id": "av_2f28f4722f6291",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Amazon.com, Inc. $AMZN Shares Sold by Duncker Streett & Co. Inc.",
-      "summary": "Duncker Streett & Co. Inc. decreased its stake in Amazon.com by 12.6% in the first quarter, selling 7,758 shares and retaining 54,025 shares valued at approximately $11.25 million. Despite this, Wall Street analysts maintain a largely bullish outlook on Amazon, with a consensus \"",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-shares-sold-by-duncker-streett-co-inc-2026-07-19/",
+      "title": "WealthPLAN Partners LLC Has $10.27 Million Holdings in NVIDIA Corporation $NVDA",
+      "summary": "WealthPLAN Partners LLC has reduced its stake in NVIDIA Corporation by 38.8% in the first quarter, selling 37,287 shares, but NVIDIA remains its 7th largest holding, valued at $10.27 million. Wall Street analysts largely maintain a bullish outlook on NVIDIA, with a consensus targ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthplan-partners-llc-has-1027-million-holdings-in-nvidia-corporation-nvda-2026-07-18/",
       "source": "MarketBeat",
-      "published_at": "2026-07-19T07:41:10+00:00",
-      "sentiment": 0.026626,
+      "published_at": "2026-07-18T11:08:37+00:00",
+      "sentiment": 0.448916,
       "change_pct": -2.21,
-      "title_kr": "Amazon.com, Inc. Duncker Streett & Co. Inc.에서 $AMZN 주식을 매각했습니다.",
-      "summary_kr": "Duncker Streett & Co. Inc.는 1분기에 Amazon.com의 지분을 12.6% 감소시켜 7,758주를 매각하고 약 1,125만 달러 상당의 54,025주를 보유했습니다. 그럼에도 불구하고 월스트리트 분석가들은 아마존에 대해 대체로 낙관적인 전망을 유지하고 있습니다."
+      "title_kr": "WealthPLAN Partners LLC는 NVIDIA Corporation $NVDA에 1,027만 달러의 지분을 보유하고 있습니다.",
+      "summary_kr": "WealthPLAN Partners LLC는 1분기에 NVIDIA Corporation의 지분을 38.8% 줄여 37,287주를 매각했지만 NVIDIA는 여전히 1,027만 달러 가치로 7번째로 큰 지분을 보유하고 있습니다. 월스트리트 분석가들은 대체로 NVIDIA에 대한 낙관적인 전망을 유지합니다."
     },
     {
       "id": "f_8ba3c84cc73be0",
@@ -1650,6 +1652,21 @@
       "published_at": "2026-07-19T08:00:00+00:00"
     },
     {
+      "id": "av_16af934f95497a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amazon.com, Inc. $AMZN Shares Sold by Duncker Streett & Co. Inc.",
+      "summary": "Duncker Streett & Co. Inc. decreased its stake in Amazon.com by 12.6% in the first quarter, selling 7,758 shares and retaining 54,025 shares valued at approximately $11.25 million. Despite this, Wall Street analysts maintain a largely bullish outlook on Amazon, with a consensus \"",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-shares-sold-by-duncker-streett-co-inc-2026-07-19/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-19T07:41:10+00:00",
+      "sentiment": 0.003695,
+      "change_pct": -2.21,
+      "title_kr": "Amazon.com, Inc. Duncker Streett & Co. Inc.에서 $AMZN 주식을 매각했습니다.",
+      "summary_kr": "Duncker Streett & Co. Inc.는 1분기에 Amazon.com의 지분을 12.6% 감소시켜 7,758주를 매각하고 약 1,125만 달러 상당의 54,025주를 보유했습니다. 그럼에도 불구하고 월스트리트 분석가들은 아마존에 대해 대체로 낙관적인 전망을 유지하고 있습니다."
+    },
+    {
       "id": "f_f3d07371e0069c",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1673,10 +1690,25 @@
       "url": "https://www.tradingview.com/symbols/BOATS-FHEQ/profile/",
       "source": "TradingView",
       "published_at": "2026-07-18T18:11:23+00:00",
-      "sentiment": 0.338259,
+      "sentiment": 0.338813,
       "change_pct": -2.21,
       "title_kr": "FHEQ ETF 프로필: 배당금, 수익(BOATS:FHEQ)",
       "summary_kr": "이 기사에서는 FHEQ(Fidelity Hedged Equity ETF)의 프로필을 제공하고 투자 전략, 보유 자산 및 재무 성과를 자세히 설명합니다. FHEQ는 컴퓨터를 활용하여 S&P 500 또는 Russell 1000 규모 기업의 주식에 투자하여 자본 성장을 목표로 합니다."
+    },
+    {
+      "id": "av_6f6cb2d7b43044",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "VE4R ETF Profile: Dividends, Returns (MUN:VE4R)",
+      "summary": "This article provides a profile of the VanEck Video Gaming and eSports ETF (VE4R), detailing its key statistics, structure, holdings, and performance. It covers the fund's investment strategy in the video gaming and eSports sector, its asset allocation by sector and region, and i",
+      "url": "https://www.tradingview.com/symbols/MUN-VE4R/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-18T17:41:37+00:00",
+      "sentiment": 0.34779,
+      "change_pct": -2.21,
+      "title_kr": "VE4R ETF 프로필: 배당금, 수익 (MUN:VE4R)",
+      "summary_kr": "이 기사에서는 VanEck Video Gaming and eSports ETF(VE4R)의 프로필을 제공하고 주요 통계, 구조, 보유 자산 및 성과를 자세히 설명합니다. 비디오 게임 및 e스포츠 부문에 대한 펀드의 투자 전략, 부문별 자산 배분을 다룹니다."
     },
     {
       "id": "f_6f71e14200dcb8",
@@ -1702,25 +1734,10 @@
       "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/from-record-high-to-crosscurrent-ishares-msci-world-etf-navigates/69795556",
       "source": "ad-hoc-news.de",
       "published_at": "2026-07-18T12:10:20+00:00",
-      "sentiment": -0.438931,
+      "sentiment": -0.413713,
       "change_pct": -2.21,
       "title_kr": "사상 최고치에서 교차류까지: iShares MSCI World ETF, 반도체 대패 및 상승 지역 탐색",
       "summary_kr": "iShares MSCI World ETF는 주로 반도체 하락장과 지정학적 긴장으로 인한 유가 급등으로 인해 이번 주 동안 1.33% 하락해 6월 기록보다 4.8% 낮은 하락세를 기록했습니다. 이러한 최근 하락에도 불구하고 ETF는 연간 8.68% 상승세를 유지하고 있습니다."
-    },
-    {
-      "id": "av_2f28f4722f6291",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "WealthPLAN Partners LLC Has $10.27 Million Holdings in NVIDIA Corporation $NVDA",
-      "summary": "WealthPLAN Partners LLC has reduced its stake in NVIDIA Corporation by 38.8% in the first quarter, selling 37,287 shares, but NVIDIA remains its 7th largest holding, valued at $10.27 million. Wall Street analysts largely maintain a bullish outlook on NVIDIA, with a consensus targ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-wealthplan-partners-llc-has-1027-million-holdings-in-nvidia-corporation-nvda-2026-07-18/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-18T11:08:37+00:00",
-      "sentiment": 0.429504,
-      "change_pct": -2.21,
-      "title_kr": "WealthPLAN Partners LLC는 NVIDIA Corporation $NVDA에 1,027만 달러의 지분을 보유하고 있습니다.",
-      "summary_kr": "WealthPLAN Partners LLC는 1분기에 NVIDIA Corporation의 지분을 38.8% 줄여 37,287주를 매각했지만 NVIDIA는 여전히 1,027만 달러 가치로 7번째로 큰 지분을 보유하고 있습니다. 월스트리트 분석가들은 대체로 NVIDIA에 대한 낙관적인 전망을 유지합니다."
     },
     {
       "id": "f_bd2c48ecab2ef3",
@@ -1746,7 +1763,7 @@
       "url": "https://www.tradingview.com/symbols/AMEX-VSLU/profile/",
       "source": "TradingView",
       "published_at": "2026-07-18T17:39:06+00:00",
-      "sentiment": 0.323241,
+      "sentiment": 0.320375,
       "change_pct": -2.21,
       "title_kr": "VSLU ETF 프로필: 배당금, 수익(AMEX:VSLU)",
       "summary_kr": "이 기사에서는 배당금, 수익률 및 주요 특성을 자세히 설명하는 VSLU ETF의 프로필을 제공합니다. 운용자산, 사업비율, 개시일, 투자전략 등 필수 통계를 다루고 있습니다. 펀드는 적극적으로 관리되며,"
@@ -1766,21 +1783,6 @@
       "summary_kr": "투자자들은 지금 당장 주의를 기울이고 싶을 수도 있습니다."
     },
     {
-      "id": "av_6f6cb2d7b43044",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "VE4R ETF Profile: Dividends, Returns (MUN:VE4R)",
-      "summary": "This article provides a profile of the VanEck Video Gaming and eSports ETF (VE4R), detailing its key statistics, structure, holdings, and performance. It covers the fund's investment strategy in the video gaming and eSports sector, its asset allocation by sector and region, and i",
-      "url": "https://www.tradingview.com/symbols/MUN-VE4R/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-18T17:41:37+00:00",
-      "sentiment": 0.305278,
-      "change_pct": -2.21,
-      "title_kr": "VE4R ETF 프로필: 배당금, 수익 (MUN:VE4R)",
-      "summary_kr": "이 기사에서는 VanEck Video Gaming and eSports ETF(VE4R)의 프로필을 제공하고 주요 통계, 구조, 보유 자산 및 성과를 자세히 설명합니다. 비디오 게임 및 e스포츠 부문에 대한 펀드의 투자 전략, 부문별 자산 배분을 다룹니다."
-    },
-    {
       "id": "f_044eab363ad0e9",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1793,21 +1795,6 @@
       "change_pct": -2.21,
       "title_kr": "고점 대비 62% 하락, 이더리움은 가치 플레이인가 아니면 고전적인 가치 함정인가?",
       "summary_kr": "Ethereum에 큰 변화가 일어나고 있지만 ETH를 더 높이 보내기에 충분할까요?"
-    },
-    {
-      "id": "av_97236b7d940668",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "USSG ETF Profile: Dividends, Returns (BOATS:USSG)",
-      "summary": "This article provides a detailed profile of the USSG ETF (Xtrackers MSCI USA Selection Equity ETF), highlighting its investment strategy, holdings, and financial performance. It details that USSG invests in US large- and mid-cap companies with high environmental, social, and gove",
-      "url": "https://www.tradingview.com/symbols/BOATS-USSG/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-18T16:09:55+00:00",
-      "sentiment": 0.340224,
-      "change_pct": -2.21,
-      "title_kr": "USSG ETF 프로필: 배당금, 수익 (BOATS:USSG)",
-      "summary_kr": "이 기사에서는 USSG ETF(Xtrackers MSCI USA Selection Equity ETF)에 대한 자세한 프로필을 제공하고 투자 전략, 보유 자산 및 재무 성과를 강조합니다. USSG가 환경이 좋은 미국의 대형·중견기업에 투자한다고 자세히 나와 있다."
     },
     {
       "id": "f_232a49c039663a",
@@ -1850,6 +1837,21 @@
       "summary_kr": "역사적으로 비트코인은 급격한 시장 침체를 극복하고 새로운 사상 최고치를 경신했습니다."
     },
     {
+      "id": "av_236d79c8de908a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "GRID’s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss",
+      "summary": "The First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund (GRID) offers targeted exposure to companies involved in AI power infrastructure and grid modernization, distinguishing itself from broader utility and industrial ETFs. With a 0.56% expense ratio, the fund foc",
+      "url": "https://247wallst.com/investing/2026/07/18/grids-0-56-fee-pays-for-ai-power-exposure-that-broad-etfs-miss/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-18T14:15:00+00:00",
+      "sentiment": 0.338968,
+      "change_pct": -2.21,
+      "title_kr": "GRID의 0.56% 수수료는 광범위한 ETF가 놓친 AI 파워 노출에 대한 비용을 지불합니다.",
+      "summary_kr": "First Trust NASDAQ Clean Edge 스마트 그리드 인프라 인덱스 펀드(GRID)는 AI 전력 인프라 및 그리드 현대화와 관련된 기업에 대한 타겟 노출을 제공하여 광범위한 유틸리티 및 산업 ETF와 차별화됩니다. 0.56% 비용으로"
+    },
+    {
       "id": "f_7a740a9600717b",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1864,19 +1866,19 @@
       "summary_kr": "알파벳의 주가는 회사의 수익이 급등할 경우 급등할 수 있습니다."
     },
     {
-      "id": "av_8b6c312b51556a",
+      "id": "av_97236b7d940668",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "VGRO ETF Profile: Dividends, Returns (AMEX:VGRO)",
-      "summary": "The VGRO ETF is an actively managed fund investing in 20-30 US large-cap companies with strong growth potential. It focuses on quality, earnings growth, and attractive valuation, primarily within Electronic Technology and Technology Services sectors in North America. The ETF boas",
-      "url": "https://www.tradingview.com/symbols/AMEX-VGRO/profile/",
+      "title": "USSG ETF Profile: Dividends, Returns (BOATS:USSG)",
+      "summary": "This article provides a detailed profile of the USSG ETF (Xtrackers MSCI USA Selection Equity ETF), highlighting its investment strategy, holdings, and financial performance. It details that USSG invests in US large- and mid-cap companies with high environmental, social, and gove",
+      "url": "https://www.tradingview.com/symbols/BOATS-USSG/profile/",
       "source": "TradingView",
-      "published_at": "2026-07-18T10:10:36+00:00",
-      "sentiment": 0.348395,
+      "published_at": "2026-07-18T16:09:55+00:00",
+      "sentiment": 0.30148,
       "change_pct": -2.21,
-      "title_kr": "VGRO ETF 프로필: 배당금, 수익(AMEX:VGRO)",
-      "summary_kr": "VGRO ETF는 강력한 성장 잠재력을 지닌 20~30개 미국 대형 기업에 투자하는 액티브 펀드입니다. 주로 North A의 전자 기술 및 기술 서비스 부문에서 품질, 수익 성장 및 매력적인 가치 평가에 중점을 둡니다."
+      "title_kr": "USSG ETF 프로필: 배당금, 수익 (BOATS:USSG)",
+      "summary_kr": "이 기사에서는 USSG ETF(Xtrackers MSCI USA Selection Equity ETF)에 대한 자세한 프로필을 제공하고 투자 전략, 보유 자산 및 재무 성과를 강조합니다. USSG가 환경이 좋은 미국의 대형·중견기업에 투자한다고 자세히 나와 있다."
     },
     {
       "id": "f_3570f079ea4937",
@@ -1907,19 +1909,19 @@
       "summary_kr": "Stanley Druckenmiller의 2026년 1분기 13F: Natera가 성장하고 GOOGL이 종료됨에 따라 Duquesne 포트폴리오가 33억 8천만 달러로 하락합니다. 현재 최고 매수/매도를 확인하세요."
     },
     {
-      "id": "av_236d79c8de908a",
+      "id": "av_8b6c312b51556a",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "GRID’s 0.56% Fee Pays for AI Power Exposure That Broad ETFs Miss",
-      "summary": "The First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund (GRID) offers targeted exposure to companies involved in AI power infrastructure and grid modernization, distinguishing itself from broader utility and industrial ETFs. With a 0.56% expense ratio, the fund foc",
-      "url": "https://247wallst.com/investing/2026/07/18/grids-0-56-fee-pays-for-ai-power-exposure-that-broad-etfs-miss/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-07-18T14:15:00+00:00",
-      "sentiment": 0.322324,
+      "title": "VGRO ETF Profile: Dividends, Returns (AMEX:VGRO)",
+      "summary": "The VGRO ETF is an actively managed fund investing in 20-30 US large-cap companies with strong growth potential. It focuses on quality, earnings growth, and attractive valuation, primarily within Electronic Technology and Technology Services sectors in North America. The ETF boas",
+      "url": "https://www.tradingview.com/symbols/AMEX-VGRO/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-18T10:10:36+00:00",
+      "sentiment": 0.307696,
       "change_pct": -2.21,
-      "title_kr": "GRID의 0.56% 수수료는 광범위한 ETF가 놓친 AI 파워 노출에 대한 비용을 지불합니다.",
-      "summary_kr": "First Trust NASDAQ Clean Edge 스마트 그리드 인프라 인덱스 펀드(GRID)는 AI 전력 인프라 및 그리드 현대화와 관련된 기업에 대한 타겟 노출을 제공하여 광범위한 유틸리티 및 산업 ETF와 차별화됩니다. 0.56% 비용으로"
+      "title_kr": "VGRO ETF 프로필: 배당금, 수익(AMEX:VGRO)",
+      "summary_kr": "VGRO ETF는 강력한 성장 잠재력을 지닌 20~30개 미국 대형 기업에 투자하는 액티브 펀드입니다. 주로 North A의 전자 기술 및 기술 서비스 부문에서 품질, 수익 성장 및 매력적인 가치 평가에 중점을 둡니다."
     },
     {
       "id": "f_c90e355845022e",
@@ -1978,6 +1980,21 @@
       "summary_kr": "Investing.com -- 삼성전자(KS:005930)와 SK하이닉스(KS:000660)의 변동이 반도체 및 인공지능 분야 전반으로 확산되면서 한국의 4조 달러 규모 주식 시장은 글로벌 위험 성향의 중요한 초기 지표가 되었습니다."
     },
     {
+      "id": "av_89bb32851d7484",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SMH ETF Is A Sharper Bet Than Its Name Suggests",
+      "summary": "The VanEck Semiconductor ETF (SMH) holds 27 stocks but is heavily weighted towards a few, with Nvidia (NVDA) alone making up 19.2% of the fund and the top five positions accounting for 45%. This concentration means the ETF offers potent but narrow exposure, primarily to semicondu",
+      "url": "https://www.trefis.com/stock/smh/articles/607739/smh-etf-is-a-sharper-bet-than-its-name-suggests/2026-07-18",
+      "source": "Trefis",
+      "published_at": "2026-07-18T13:10:47+00:00",
+      "sentiment": 0.289437,
+      "change_pct": -2.21,
+      "title_kr": "SMH ETF는 이름에서 제안하는 것보다 더 날카로운 베팅입니다",
+      "summary_kr": "펀드의 라벨은 카테고리를 알려주지만 실제 이야기는 해당 펀드의 보유 종목에 가중치가 실제로 어떻게 배분되는지에 달려 있습니다."
+    },
+    {
       "id": "f_bd573689ff9116",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1990,21 +2007,6 @@
       "change_pct": -2.21,
       "title_kr": "백악관은 전략적 비트코인 ​​준비금에 대한 추진을 재개하고 있습니다. 비트코인에 대한 의미는 다음과 같습니다.",
       "summary_kr": "전략적 비트코인 ​​준비금은 구현 경로가 불확실합니다."
-    },
-    {
-      "id": "av_0f61927a501c63",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Prediction: SOXX Is About to Outperform SMH. Here's Why.",
-      "summary": "This article argues that the iShares Semiconductor ETF (SOXX) is poised to outperform the VanEck Semiconductor ETF (SMH) due to SOXX's more diversified portfolio construction. While both ETFs track the semiconductor industry, SMH's higher concentration in top holdings like Nvidia",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/SOXX-Q/pressreleases/3350297/prediction-soxx-is-about-to-outperform-smh-here-s-why/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-18T19:40:25+00:00",
-      "sentiment": 0.14805,
-      "change_pct": -2.21,
-      "title_kr": "예측: SOXX가 SMH를 능가할 것입니다. 이유는 다음과 같습니다.",
-      "summary_kr": "겉보기에 유사해 보이는 두 개의 반도체 ETF는 보이는 것만큼 유사하지 않습니다. 작은 세부 사항 하나가 SOXX에게 2026년 남은 기간 동안 이점을 제공합니다."
     },
     {
       "id": "f_53f092ef7be1ef",
@@ -2043,7 +2045,7 @@
       "url": "https://siliconangle.com/2026/07/18/amds-next-reinvention-new-playbook-ai-era/",
       "source": "SiliconANGLE",
       "published_at": "2026-07-18T16:07:03+00:00",
-      "sentiment": 0.228153,
+      "sentiment": 0.229805,
       "change_pct": -2.21,
       "title_kr": "AMD의 차세대 혁신: AI 시대를 위한 새로운 플레이북",
       "summary_kr": "AMD의 현재 전략은 시장 지배력을 놓고 Nvidia와 직접 경쟁하기보다는 AI 인프라에 없어서는 안 될 두 번째 플랫폼이 되는 데 중점을 두고 있습니다. 여기에는 EPYC CPU, Instinct 가속기, ROCm을 갖춘 포괄적인 AI 플랫폼을 구축하는 것이 포함됩니다."
@@ -2058,7 +2060,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-united-asset-strategies-inc-grows-stock-holdings-in-amazoncom-inc-amzn-2026-07-18/",
       "source": "MarketBeat",
       "published_at": "2026-07-18T10:50:10+00:00",
-      "sentiment": 0.284824,
+      "sentiment": 0.250696,
       "change_pct": -2.21,
       "title_kr": "United Asset Strategies Inc., Amazon.com, Inc.에서 주식 보유액 증가 $AMZN",
       "summary_kr": "United Asset Strategies Inc.는 1분기에 Amazon.com, Inc.의 지분을 8.6% 크게 늘려 총 보유 주식을 240,188주(약 5천만 달러 상당)로 늘려 Amazon을 4번째로 큰 보유 주식으로 만들었습니다. 기관 투자자"
@@ -2120,19 +2122,19 @@
       "summary_kr": "Nvidia의 칩이 경쟁을 압도하고 새로운 기회가 뜨거워지기 시작했습니다."
     },
     {
-      "id": "av_89bb32851d7484",
+      "id": "av_0f61927a501c63",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "SMH ETF Is A Sharper Bet Than Its Name Suggests",
-      "summary": "The VanEck Semiconductor ETF (SMH) holds 27 stocks but is heavily weighted towards a few, with Nvidia (NVDA) alone making up 19.2% of the fund and the top five positions accounting for 45%. This concentration means the ETF offers potent but narrow exposure, primarily to semicondu",
-      "url": "https://www.trefis.com/stock/smh/articles/607739/smh-etf-is-a-sharper-bet-than-its-name-suggests/2026-07-18",
-      "source": "Trefis",
-      "published_at": "2026-07-18T13:10:47+00:00",
-      "sentiment": 0.250439,
+      "title": "Prediction: SOXX Is About to Outperform SMH. Here's Why.",
+      "summary": "This article argues that the iShares Semiconductor ETF (SOXX) is poised to outperform the VanEck Semiconductor ETF (SMH) due to SOXX's more diversified portfolio construction. While both ETFs track the semiconductor industry, SMH's higher concentration in top holdings like Nvidia",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/SOXX-Q/pressreleases/3350297/prediction-soxx-is-about-to-outperform-smh-here-s-why/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-18T19:40:25+00:00",
+      "sentiment": 0.107378,
       "change_pct": -2.21,
-      "title_kr": "SMH ETF는 이름에서 제안하는 것보다 더 날카로운 베팅입니다",
-      "summary_kr": "펀드의 라벨은 카테고리를 알려주지만 실제 이야기는 해당 펀드의 보유 종목에 가중치가 실제로 어떻게 배분되는지에 달려 있습니다."
+      "title_kr": "예측: SOXX가 SMH를 능가할 것입니다. 이유는 다음과 같습니다.",
+      "summary_kr": "겉보기에 유사해 보이는 두 개의 반도체 ETF는 보이는 것만큼 유사하지 않습니다. 작은 세부 사항 하나가 SOXX에게 2026년 남은 기간 동안 이점을 제공합니다."
     },
     {
       "id": "f_5194dc6ea2af4c",
@@ -2186,7 +2188,7 @@
       "url": "https://www.tradingview.com/symbols/FWB-UCRP/profile/",
       "source": "TradingView",
       "published_at": "2026-07-18T17:41:05+00:00",
-      "sentiment": 0.133456,
+      "sentiment": 0.131757,
       "change_pct": -2.21
     },
     {
@@ -2283,7 +2285,7 @@
       "url": "https://www.tradingview.com/symbols/BOATS-SCHX/profile/",
       "source": "TradingView",
       "published_at": "2026-07-18T16:40:00+00:00",
-      "sentiment": 0.12473,
+      "sentiment": 0.106903,
       "change_pct": -2.21,
       "title_kr": "SCHX ETF 프로필: 배당금, 수익(BOATS:SCHX)",
       "summary_kr": "이 기사에서는 배당금, 수익률 및 주요 통계를 포함하여 Schwab U.S. Large-Cap ETF(SCHX)에 대한 자세한 프로필을 제공합니다. ETF의 투자 전략, 보유 자산, 비용 비율을 간략하게 설명하고 구성에 대해 자주 묻는 질문에 대한 답변을 제공합니다."
@@ -2413,19 +2415,19 @@
       "summary_kr": "SpaceX는 수십억 달러 규모의 AI 컴퓨팅 거래를 놓고 국방부와 협상 중입니다. 이것이 계약 투자자들이 기다려온 것이 아닐까?"
     },
     {
-      "id": "av_3317c373c76e83",
+      "id": "av_c6ccd36d670d1c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Federal Realty Trust Just Declared Its 58th Straight Annual Dividend Increase. Here's How Much $10,000 Invested Pays Annually.",
-      "summary": "Federal Realty Investment Trust (FRT), a Dividend King, recently announced its 58th consecutive annual dividend increase. Specializing in retail properties in affluent areas, the REIT boasts a 3.7% dividend yield. An investment of $10,000 in FRT would currently generate approxima",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/3348466/federal-realty-trust-just-declared-its-58th-straight-annual-dividend-increase-heres-how-much-10000-invested-pays-annually/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-18T13:32:53+00:00",
-      "sentiment": 0.13702,
+      "title": "IMA Advisory Services Inc. Grows Stake in Advanced Micro Devices, Inc. $AMD",
+      "summary": "IMA Advisory Services Inc. increased its stake in Advanced Micro Devices (AMD) by 8.5% in the first quarter, reflecting continued institutional interest despite a broader semiconductor selloff and heavy insider selling. While AMD's recent earnings exceeded expectations, concerns ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ima-advisory-services-inc-grows-stake-in-advanced-micro-devices-inc-amd-2026-07-18/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-18T10:29:03+00:00",
+      "sentiment": 0.111324,
       "change_pct": -2.21,
-      "title_kr": "연방부동산신탁(Federal Realty Trust)은 58회 연속 연간 배당금 인상을 방금 선언했습니다. 여기에 투자한 금액이 연간 $10,000로 지불되는 금액이 나와 있습니다.",
-      "summary_kr": "연방부동산투자신탁(NYSE: FRT)은 58년 연속 연간 배당금 인상을 선언하여 배당왕 지위를 획득한 유일한 REIT가 되었습니다. 이 회사는 부유한 지역의 소매 부동산을 전문으로 하며 현재 배당 수익률을 제공합니다."
+      "title_kr": "IMA Advisory Services Inc., Advanced Micro Devices, Inc. $AMD의 지분 확대",
+      "summary_kr": "IMA Advisory Services Inc.는 광범위한 반도체 매도와 과도한 내부 매도에도 불구하고 기관의 지속적인 관심을 반영하여 1분기에 AMD(Advanced Micro Devices)의 지분을 8.5% 늘렸습니다. AMD의 최근 수익이 exp를 초과했지만"
     },
     {
       "id": "f_b2e261bddaa8ee",
@@ -2440,6 +2442,21 @@
       "change_pct": -1.82,
       "title_kr": "Bank of America는 Microsoft 주식에 대해 강력한 평결을 보냈습니다.",
       "summary_kr": "마이크로소프트는 AI 사업을 계속 확장하고 대부분의 클라우드 기업이 부러워할 속도로 Azure를 성장시키고 있음에도 불구하고 2026년 최악의 실적을 낸 대형 기술주 중 하나였습니다. 현재까지 약 20% 하락했습니다. 많은 투자자들이 자리를 잡고 있습니다."
+    },
+    {
+      "id": "av_3317c373c76e83",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Federal Realty Trust Just Declared Its 58th Straight Annual Dividend Increase. Here's How Much $10,000 Invested Pays Annually.",
+      "summary": "Federal Realty Investment Trust (FRT), a Dividend King, recently announced its 58th consecutive annual dividend increase. Specializing in retail properties in affluent areas, the REIT boasts a 3.7% dividend yield. An investment of $10,000 in FRT would currently generate approxima",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/3348466/federal-realty-trust-just-declared-its-58th-straight-annual-dividend-increase-heres-how-much-10000-invested-pays-annually/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-18T13:32:53+00:00",
+      "sentiment": 0.107371,
+      "change_pct": -2.21,
+      "title_kr": "연방부동산신탁(Federal Realty Trust)은 58회 연속 연간 배당금 인상을 방금 선언했습니다. 여기에 투자한 금액이 연간 $10,000로 지불되는 금액이 나와 있습니다.",
+      "summary_kr": "연방부동산투자신탁(NYSE: FRT)은 58년 연속 연간 배당금 인상을 선언하여 배당왕 지위를 획득한 유일한 REIT가 되었습니다. 이 회사는 부유한 지역의 소매 부동산을 전문으로 하며 현재 배당 수익률을 제공합니다."
     },
     {
       "id": "f_1ee56c10bba445",
@@ -2512,19 +2529,17 @@
       "summary_kr": "지난 몇 년간 메모리 칩 산업에 큰 변화가 있었나요?"
     },
     {
-      "id": "av_c6ccd36d670d1c",
+      "id": "av_41681814b0c276",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "IMA Advisory Services Inc. Grows Stake in Advanced Micro Devices, Inc. $AMD",
-      "summary": "IMA Advisory Services Inc. increased its stake in Advanced Micro Devices (AMD) by 8.5% in the first quarter, reflecting continued institutional interest despite a broader semiconductor selloff and heavy insider selling. While AMD's recent earnings exceeded expectations, concerns ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ima-advisory-services-inc-grows-stake-in-advanced-micro-devices-inc-amd-2026-07-18/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-18T10:29:03+00:00",
-      "sentiment": 0.113032,
-      "change_pct": -2.21,
-      "title_kr": "IMA Advisory Services Inc., Advanced Micro Devices, Inc. $AMD의 지분 확대",
-      "summary_kr": "IMA Advisory Services Inc.는 광범위한 반도체 매도와 과도한 내부 매도에도 불구하고 기관의 지속적인 관심을 반영하여 1분기에 AMD(Advanced Micro Devices)의 지분을 8.5% 늘렸습니다. AMD의 최근 수익이 exp를 초과했지만"
+      "title": "PJFG Dividend: Does PGIM Jennison Focused Growth ETF Pay a Dividend?",
+      "summary": "The PGIM Jennison Focused Growth ETF (PJFG) does not currently pay a regular dividend. Instead, it has returned capital to shareholders through buybacks at a rate of -0.16% over the past three years. The article suggests alternatives for investors interested in dividend-paying st",
+      "url": "https://www.gurufocus.com/etf/PJFG/dividend",
+      "source": "GuruFocus",
+      "published_at": "2026-07-18T16:40:34+00:00",
+      "sentiment": 0.038651,
+      "change_pct": -2.21
     },
     {
       "id": "f_f020cd2547e7cc",
@@ -2606,19 +2621,6 @@
       "change_pct": -2.21,
       "title_kr": "워렌 버핏이 SpaceX 주식을 구매하기 전에 꼭 읽어야 할 3가지 명언",
       "summary_kr": "다음은 오마하의 오라클이 뜨거운 IPO에 대해 말할 수 있는 내용입니다."
-    },
-    {
-      "id": "av_41681814b0c276",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "PJFG Dividend: Does PGIM Jennison Focused Growth ETF Pay a Dividend?",
-      "summary": "The PGIM Jennison Focused Growth ETF (PJFG) does not currently pay a regular dividend. Instead, it has returned capital to shareholders through buybacks at a rate of -0.16% over the past three years. The article suggests alternatives for investors interested in dividend-paying st",
-      "url": "https://www.gurufocus.com/etf/PJFG/dividend",
-      "source": "GuruFocus",
-      "published_at": "2026-07-18T16:40:34+00:00",
-      "sentiment": 0.02108,
-      "change_pct": -2.21
     },
     {
       "id": "f_373097fc6aa4ab",
@@ -2797,8 +2799,8 @@
       "summary_kr": "QQQ는 사상 최고치에 근접했지만 2026년 하반기의 운명은 대부분의 보유자가 추적하지 않는 단 두 가지 변수에 달려 있습니다. 둘 중 하나라도 틀리면 펀드의 연간 누계 쿠션은 구축된 것보다 더 빨리 증발합니다."
     }
   ],
-  "fetched_at": "2026-07-19T16:26:24.637941+00:00",
+  "fetched_at": "2026-07-19T17:30:16.686804+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-19T16:26:26.668027+00:00",
+  "translated_at": "2026-07-19T17:30:17.058584+00:00",
   "translation_engine": "google-parallel"
 }
