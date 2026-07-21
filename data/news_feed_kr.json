@@ -54,22 +54,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_e6f7c96a6f17e8",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "breaking",
-      "title": "속보 코스피, 3.56% 오른 6,747.95로 장 마감 - YTN",
-      "title_kr": "속보 코스피, 3.56% 오른 6,747.95로 장 마감 - YTN",
-      "summary": "속보 코스피, 3.56% 오른 6,747.95로 장 마감&nbsp;&nbsp;YTN",
-      "summary_kr": "속보 코스피, 3.56% 오른 6,747.95로 장 마감&nbsp;&nbsp;YTN",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uV2RPWVhDNUVVMV9KX2JxNWEwbm1nUG9TOU5FQ1ZxSEw2RHBsNGVhRjhtVnctNV9NYU1UdEFQeDFEeGdWQWFnSE9TbUZNckdCTzYteWY3WlRPYUsyM0E?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-21T06:38:00+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_b228eac5788330",
       "market": "kr",
       "provider": "rss",
@@ -336,6 +320,50 @@
       "related_tickers": []
     },
     {
+      "id": "kr_0329a3d4f11c29",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": "005930",
+      "ticker_name": "삼성전자",
+      "category": "general",
+      "title": "반도체로 지갑 두둑해진 기업들…은행 기업예금 107조원 넘겼다",
+      "title_kr": "반도체로 지갑 두둑해진 기업들…은행 기업예금 107조원 넘겼다",
+      "summary": "반도체發 금융권 머니무브 은행 MMT 100조원 첫 돌파 기업예금도 1년새 40조 급증 삼전닉스서 자금 대거 유입 은행, 비이자이익 확대 기대반도체 호황으로 삼성전자, SK하이닉스..",
+      "summary_kr": "반도체發 금융권 머니무브 은행 MMT 100조원 첫 돌파 기업예금도 1년새 40조 급증 삼전닉스서 자금 대거 유입 은행, 비이자이익 확대 기대반도체 호황으로 삼성전자, SK하이닉스..",
+      "url": "https://www.mk.co.kr/news/economy/12103858",
+      "source": "매경 경제",
+      "published_at": "2026-07-21T13:07:10+00:00",
+      "related_tickers": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660"
+        }
+      ],
+      "change_pct": 6.15
+    },
+    {
+      "id": "kr_cf987ecdf37644",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": "005380",
+      "ticker_name": "현대차",
+      "category": "general",
+      "title": "현대차·기아·한국GM·르노코리아까지…완성차 4사, 23일 동시 파업 위기",
+      "title_kr": "현대차·기아·한국GM·르노코리아까지…완성차 4사, 23일 동시 파업 위기",
+      "summary": "르노코리아·기아 내일 파업여부 결정 기아 23일 쟁의행위 찬반투표 르노코리아 같은날 노사협상 쳔대차노조 2차 부분파업 강경 순이익 30% 성과급 등 요구국내 완성차 업계 4사가 하..",
+      "summary_kr": "르노코리아·기아 내일 파업여부 결정 기아 23일 쟁의행위 찬반투표 르노코리아 같은날 노사협상 쳔대차노조 2차 부분파업 강경 순이익 30% 성과급 등 요구국내 완성차 업계 4사가 하..",
+      "url": "https://www.mk.co.kr/news/business/12103841",
+      "source": "매경 산업",
+      "published_at": "2026-07-21T12:36:46+00:00",
+      "related_tickers": [
+        {
+          "name": "기아",
+          "code": "000270"
+        }
+      ],
+      "change_pct": 0.0
+    },
+    {
       "id": "kr_1c08dace6dce63",
       "market": "kr",
       "provider": "rss",
@@ -517,28 +545,6 @@
       "change_pct": 6.15
     },
     {
-      "id": "kr_ec630762256b78",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": "005930",
-      "ticker_name": "삼성전자",
-      "category": "general",
-      "title": "현대차 '아틀라스' 공장 투입 임박…LG 로봇 데이터팩토리 연말 가동",
-      "title_kr": "현대차 '아틀라스' 공장 투입 임박…LG 로봇 데이터팩토리 연말 가동",
-      "summary": "삼성전자가 RX(Robotics eXperience) 사업추진실을 설립하고 힘을 싣는 것은 세계적으로 휴머노이드 로봇 사업에 대한 투자와 기술 개발이 빠르게 이뤄지고 있기 때문이다..",
-      "summary_kr": "삼성전자가 RX(Robotics eXperience) 사업추진실을 설립하고 힘을 싣는 것은 세계적으로 휴머노이드 로봇 사업에 대한 투자와 기술 개발이 빠르게 이뤄지고 있기 때문이다..",
-      "url": "https://www.mk.co.kr/news/business/12103600",
-      "source": "매경 산업",
-      "published_at": "2026-07-21T08:36:13+00:00",
-      "related_tickers": [
-        {
-          "name": "현대차",
-          "code": "005380"
-        }
-      ],
-      "change_pct": 6.15
-    },
-    {
       "id": "kr_c33d90ea79c14e",
       "market": "kr",
       "provider": "rss",
@@ -556,23 +562,23 @@
       "change_pct": 6.15
     },
     {
-      "id": "kr_d4a2097f9d46e2",
+      "id": "kr_ec630762256b78",
       "market": "kr",
       "provider": "rss",
       "ticker": "005930",
       "ticker_name": "삼성전자",
       "category": "general",
-      "title": "반도체기업 호황에…은행 파킹자금 사상최대",
-      "title_kr": "반도체기업 호황에…은행 파킹자금 사상최대",
-      "summary": "반도체 호황으로 삼성전자, SK하이닉스 등 반도체 기업들이 쓸어담은 막대한 현금이 은행권 파킹 상품으로 몰리고 있다. 투자, 배당 등 대규모 자금 집행을 앞두고 있는 기업들이 언제..",
-      "summary_kr": "반도체 호황으로 삼성전자, SK하이닉스 등 반도체 기업들이 쓸어담은 막대한 현금이 은행권 파킹 상품으로 몰리고 있다. 투자, 배당 등 대규모 자금 집행을 앞두고 있는 기업들이 언제..",
-      "url": "https://www.mk.co.kr/news/economy/12103563",
-      "source": "매경 경제",
-      "published_at": "2026-07-21T08:24:45+00:00",
+      "title": "현대차 '아틀라스' 공장 투입 임박…LG 로봇 데이터팩토리 연말 가동",
+      "title_kr": "현대차 '아틀라스' 공장 투입 임박…LG 로봇 데이터팩토리 연말 가동",
+      "summary": "삼성전자가 RX(Robotics eXperience) 사업추진실을 설립하고 힘을 싣는 것은 세계적으로 휴머노이드 로봇 사업에 대한 투자와 기술 개발이 빠르게 이뤄지고 있기 때문이다..",
+      "summary_kr": "삼성전자가 RX(Robotics eXperience) 사업추진실을 설립하고 힘을 싣는 것은 세계적으로 휴머노이드 로봇 사업에 대한 투자와 기술 개발이 빠르게 이뤄지고 있기 때문이다..",
+      "url": "https://www.mk.co.kr/news/business/12103600",
+      "source": "매경 산업",
+      "published_at": "2026-07-21T08:36:13+00:00",
       "related_tickers": [
         {
-          "name": "SK하이닉스",
-          "code": "000660"
+          "name": "현대차",
+          "code": "005380"
         }
       ],
       "change_pct": 6.15
@@ -597,6 +603,28 @@
           "code": "035720"
         }
       ]
+    },
+    {
+      "id": "kr_d4a2097f9d46e2",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": "005930",
+      "ticker_name": "삼성전자",
+      "category": "general",
+      "title": "반도체기업 호황에…은행 파킹자금 사상최대",
+      "title_kr": "반도체기업 호황에…은행 파킹자금 사상최대",
+      "summary": "반도체 호황으로 삼성전자, SK하이닉스 등 반도체 기업들이 쓸어담은 막대한 현금이 은행권 파킹 상품으로 몰리고 있다. 투자, 배당 등 대규모 자금 집행을 앞두고 있는 기업들이 언제..",
+      "summary_kr": "반도체 호황으로 삼성전자, SK하이닉스 등 반도체 기업들이 쓸어담은 막대한 현금이 은행권 파킹 상품으로 몰리고 있다. 투자, 배당 등 대규모 자금 집행을 앞두고 있는 기업들이 언제..",
+      "url": "https://www.mk.co.kr/news/economy/12103563",
+      "source": "매경 경제",
+      "published_at": "2026-07-21T08:24:45+00:00",
+      "related_tickers": [
+        {
+          "name": "SK하이닉스",
+          "code": "000660"
+        }
+      ],
+      "change_pct": 6.15
     },
     {
       "id": "kr_29d154c02774f0",
@@ -743,7 +771,7 @@
       ]
     },
     {
-      "id": "kr_6f4365ebf13556",
+      "id": "kr_1f30b1f027e649",
       "market": "kr",
       "provider": "rss",
       "ticker": null,
@@ -753,7 +781,7 @@
       "title_kr": "'삼전·닉스' 급등에 코스피 3.6%↑...매수 사이드카도 발동 - YTN",
       "summary": "'삼전·닉스' 급등에 코스피 3.6%↑...매수 사이드카도 발동&nbsp;&nbsp;YTN",
       "summary_kr": "'삼전·닉스' 급등에 코스피 3.6%↑...매수 사이드카도 발동&nbsp;&nbsp;YTN",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xMjN3UzBiU0I3U2NNcUFnb3dxMzZ5RkJHdy1GTWtXeXVLOFhhSFlkekZkel9iWG5jTWEtMnVNZWFLSlp1Ui1kR0czV29LQUU0Wmc1ell4dHpvNEsxM3k4UHE5Y29sM29yVlVBV1hNUQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE42NFRfN1FodTBxODFfNE5uM3IyOC1lcGRCR21nYzdwRnl4MUdnR2tUVVFnUnBkaFlFSm5FWThtLWliMlRIUTk4QlQ1UmJhc1Y1TVlkaTU5WkdmRUVsb2c?oc=5",
       "source": "Google News KR",
       "published_at": "2026-07-21T09:08:00+00:00",
       "related_tickers": []
@@ -1043,22 +1071,6 @@
       "url": "https://www.yna.co.kr/view/AKR20260721155351008",
       "source": "연합뉴스 경제",
       "published_at": "2026-07-21T07:58:24+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_053eb2214522d1",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "macro",
-      "title": "코스피, 3%대 상승해 6,700대 회복…환율 1,470원대 - KBS 뉴스",
-      "title_kr": "코스피, 3%대 상승해 6,700대 회복…환율 1,470원대 - KBS 뉴스",
-      "summary": "코스피, 3%대 상승해 6,700대 회복…환율 1,470원대&nbsp;&nbsp;KBS 뉴스",
-      "summary_kr": "코스피, 3%대 상승해 6,700대 회복…환율 1,470원대&nbsp;&nbsp;KBS 뉴스",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NWlIxNEthRTA3c2RWMWlMMlVieFdCRUk2NUpBdUh2bi1rTUVIdFpPS3NyZlNfQWFGcmRwNVJ2OGV5ZHEzMkdLTWVKNDNkZ1FwRGVvclBnSlY0Yzg?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-21T07:31:00+00:00",
       "related_tickers": []
     },
     {
@@ -1798,6 +1810,22 @@
       "related_tickers": []
     },
     {
+      "id": "kr_2552e75f4cff8c",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "급락장 후 PBR 밴드로 본 증시 : 코스피는 한숨 돌렸고 코스닥과 스몰캡지수는? - Investing.com 한국어",
+      "title_kr": "급락장 후 PBR 밴드로 본 증시 : 코스피는 한숨 돌렸고 코스닥과 스몰캡지수는? - Investing.com 한국어",
+      "summary": "급락장 후 PBR 밴드로 본 증시 : 코스피는 한숨 돌렸고 코스닥과 스몰캡지수는?&nbsp;&nbsp;Investing.com 한국어",
+      "summary_kr": "급락장 후 PBR 밴드로 본 증시 : 코스피는 한숨 돌렸고 코스닥과 스몰캡지수는?&nbsp;&nbsp;Investing.com 한국어",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1a0VReXdGY1gxdDd0UmxoSjdHZTFoMVdQOVdTUHdMUVNNQnA4M1hvMjgxT25mc0JCZ1RneUtDNGxpZVBPVDJBTUVZeDNPdlRQVzVRUW1pblpRQm12MlJZWQ?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-21T07:53:03+00:00",
+      "related_tickers": []
+    },
+    {
       "id": "kr_fada19b8376c45",
       "market": "kr",
       "provider": "rss",
@@ -2003,6 +2031,22 @@
       "url": "https://www.yna.co.kr/view/AKR20260721148700054",
       "source": "연합뉴스 경제",
       "published_at": "2026-07-21T07:21:48+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_87f0bffbf3cb0d",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "코스피, '반도체 투 톱' 반등에 3.6% 상승…6,700대 회복(종합) - v.daum.net",
+      "title_kr": "코스피, '반도체 투 톱' 반등에 3.6% 상승…6,700대 회복(종합) - v.daum.net",
+      "summary": "코스피, '반도체 투 톱' 반등에 3.6% 상승…6,700대 회복(종합)&nbsp;&nbsp;v.daum.net",
+      "summary_kr": "코스피, '반도체 투 톱' 반등에 3.6% 상승…6,700대 회복(종합)&nbsp;&nbsp;v.daum.net",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40NW1DakhZZlE3ZHZVc3pFNThEd244UUhaN1RYVkNiLTZDaHprQWNxOGhZOVZZUndOOFBYRThVVFo0c3Y2Nlc4eGpvS192UWM?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-21T07:20:53+00:00",
       "related_tickers": []
     },
     {
@@ -2230,22 +2274,6 @@
       "related_tickers": []
     },
     {
-      "id": "kr_36780dd60e2492",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "“코스피 변동성 심하네”…중심에는 비중 높은 삼전닉스 영향 있다는데 - 매일경제 마켓",
-      "title_kr": "“코스피 변동성 심하네”…중심에는 비중 높은 삼전닉스 영향 있다는데 - 매일경제 마켓",
-      "summary": "“코스피 변동성 심하네”…중심에는 비중 높은 삼전닉스 영향 있다는데&nbsp;&nbsp;매일경제 마켓",
-      "summary_kr": "“코스피 변동성 심하네”…중심에는 비중 높은 삼전닉스 영향 있다는데&nbsp;&nbsp;매일경제 마켓",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1oTWdGVHFwUFVWRGdQOUpCZ0lYcjFqV1lGWG1tRWhIZ1pMSXdwN1NPQ2tiZkd1RFlfeVZRb1JVb1NTRTI5M2lsR3BoaFVRd1RFS2c?oc=5",
-      "source": "Google News KR",
-      "published_at": "2026-07-21T06:43:12+00:00",
-      "related_tickers": []
-    },
-    {
       "id": "kr_336bec922dd283",
       "market": "kr",
       "provider": "rss",
@@ -2259,6 +2287,22 @@
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBWX2JtVnd6OFduZjBmYUU2YllyTjZKc0s1VTZ5ZHE5aV9vZDBQR21rSC1DRVdaVDVDOW1hTlRaeUxXTmZVdW15aTAxd0QwZkp6VV94MFZWTWhkdVVrNjkwd1FsV1JlM1U?oc=5",
       "source": "Google News KR",
       "published_at": "2026-07-21T06:37:00+00:00",
+      "related_tickers": []
+    },
+    {
+      "id": "kr_1f61edc9fe9fd4",
+      "market": "kr",
+      "provider": "rss",
+      "ticker": null,
+      "ticker_name": null,
+      "category": "general",
+      "title": "3%대 반등 성공한 코스피, 6,747.95 마감…코스닥도 0.49% 올라 - 연합인포맥스",
+      "title_kr": "3%대 반등 성공한 코스피, 6,747.95 마감…코스닥도 0.49% 올라 - 연합인포맥스",
+      "summary": "3%대 반등 성공한 코스피, 6,747.95 마감…코스닥도 0.49% 올라&nbsp;&nbsp;연합인포맥스",
+      "summary_kr": "3%대 반등 성공한 코스피, 6,747.95 마감…코스닥도 0.49% 올라&nbsp;&nbsp;연합인포맥스",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CT3YyVF9wdW9vdUlIZGV6VGE0UUVEOTlPSFdWSjFVN2ctam4tZ1o3UmZLaFF2MXJaNFd6eXM0UURPUEVKajZWOFdOZWthWFJqeWI1Q0hVWV84TWxpYmhVOUdFdGl0dGV4clpXYjAxT27SAXRBVV95cUxNZFlKbjJwVWJRQUFVZGJESDFLSE1PVTdoX2cxcGs4QjdYWWlfdlRnMEtXNmNmR3FhSzFRMk5KbXFsZlplYXBGNDlGVUlHSm5lc2tPQ25kUTZTLTA1MEZ5R3lFOEF1UWdqRDNpMkw3U3pzNW9PcQ?oc=5",
+      "source": "Google News KR",
+      "published_at": "2026-07-21T06:34:45+00:00",
       "related_tickers": []
     },
     {
@@ -2403,22 +2447,6 @@
       "url": "https://www.mk.co.kr/news/business/12103307",
       "source": "매경 산업",
       "published_at": "2026-07-21T05:26:39+00:00",
-      "related_tickers": []
-    },
-    {
-      "id": "kr_18e3eab2c16210",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "“지역 청년 일 경험 기회 확대”…남부발전, 부산시·부산중소벤처기업청과 협약",
-      "title_kr": "“지역 청년 일 경험 기회 확대”…남부발전, 부산시·부산중소벤처기업청과 협약",
-      "summary": "청년고용 상생협력 첫경력 보장 시범사업 청년 대상 최대 4개월간 인건비 지원 예정한국남부발전이 지역 청년 일 경험 기회 확대를 위해 나섰다. 한국남부발전은 부산시, 부산지방중소벤..",
-      "summary_kr": "청년고용 상생협력 첫경력 보장 시범사업 청년 대상 최대 4개월간 인건비 지원 예정한국남부발전이 지역 청년 일 경험 기회 확대를 위해 나섰다. 한국남부발전은 부산시, 부산지방중소벤..",
-      "url": "https://www.mk.co.kr/news/business/12103295",
-      "source": "매경 산업",
-      "published_at": "2026-07-21T05:18:18+00:00",
       "related_tickers": []
     },
     {
@@ -2676,24 +2704,8 @@
       "source": "Google News KR",
       "published_at": "2026-07-21T00:09:57+00:00",
       "related_tickers": []
-    },
-    {
-      "id": "kr_ae4f485d1f5bf2",
-      "market": "kr",
-      "provider": "rss",
-      "ticker": null,
-      "ticker_name": null,
-      "category": "general",
-      "title": "27년전 기준으로 AI칩 만들 뻔했다…공장 면적규정 개편착수",
-      "title_kr": "27년전 기준으로 AI칩 만들 뻔했다…공장 면적규정 개편착수",
-      "summary": "정부가 26년 만에 ‘공장 용지 내 제조시설 면적 규정’ 기준을 전면 개편한다. 첨단 제조기술이 발전하고 산업이 고부가가치화되면서 제조업 생산 방식 등이 바뀌고 있음에도 공장입지 ..",
-      "summary_kr": "정부가 26년 만에 ‘공장 용지 내 제조시설 면적 규정’ 기준을 전면 개편한다. 첨단 제조기술이 발전하고 산업이 고부가가치화되면서 제조업 생산 방식 등이 바뀌고 있음에도 공장입지 ..",
-      "url": "https://www.mk.co.kr/news/economy/12102906",
-      "source": "매경 경제",
-      "published_at": "2026-07-20T21:02:28+00:00",
-      "related_tickers": []
     }
   ],
-  "fetched_at": "2026-07-21T11:46:59.231434+00:00",
+  "fetched_at": "2026-07-21T13:15:50.942905+00:00",
   "source_count": 2
 }
