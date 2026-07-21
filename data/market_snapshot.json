@@ -1,125 +1,125 @@
 {
-  "fetched_at": "2026-07-21T13:15:26.892284+00:00",
+  "fetched_at": "2026-07-21T15:18:24.723890+00:00",
   "sp500": {
-    "price": 7443.28,
-    "change_pct": -1.2,
+    "price": 7499.0,
+    "change_pct": 0.55,
     "label": "S&P 500"
   },
   "nasdaq": {
-    "price": 25508.07,
-    "change_pct": -1.44,
+    "price": 25827.05,
+    "change_pct": 1.2,
     "label": "Nasdaq"
   },
   "dow": {
-    "price": 51839.26,
-    "change_pct": -1.36,
+    "price": 52164.46,
+    "change_pct": 0.03,
     "label": "Dow"
   },
   "vix": {
-    "price": 17.82,
-    "change_pct": -4.45,
+    "price": 17.5,
+    "change_pct": -6.17,
     "label": "VIX"
   },
   "btc": {
-    "price": 66633.37,
-    "change_pct": 2.97,
+    "price": 66722,
+    "change_pct": 2.81,
     "label": "BTC"
   },
   "watchlist": {
     "NVDA": {
-      "price": 203.28,
-      "change_pct": 0.23
+      "price": 206.17,
+      "change_pct": 1.42
     },
     "MRVL": {
-      "price": 194.94,
-      "change_pct": 3.32
+      "price": 208.96,
+      "change_pct": 7.19
     },
     "TSLA": {
-      "price": 369.57,
-      "change_pct": -2.96
+      "price": 381.88,
+      "change_pct": 3.33
     },
     "MSTR": {
-      "price": 97.82,
-      "change_pct": 3.13
+      "price": 102.93,
+      "change_pct": 5.22
     },
     "GOOGL": {
-      "price": 351.99,
-      "change_pct": 1.51
+      "price": 348.67,
+      "change_pct": -0.94
     },
     "AMD": {
-      "price": 503.57,
-      "change_pct": 1.58
+      "price": 534.21,
+      "change_pct": 6.08
     },
     "META": {
-      "price": 645.85,
-      "change_pct": -0.02
+      "price": 647.41,
+      "change_pct": 0.24
     },
     "MSFT": {
-      "price": 402.29,
-      "change_pct": 2.15
+      "price": 398.36,
+      "change_pct": -0.98
     },
     "AMZN": {
-      "price": 249.99,
-      "change_pct": 1.12
+      "price": 247.58,
+      "change_pct": -0.96
     },
     "AVGO": {
-      "price": 378.16,
+      "price": 385.66,
       "change_pct": 1.98
     }
   },
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 97,
+      "mentions": 88,
       "surge_pct": 0
     },
     {
       "ticker": "GOOGL",
-      "mentions": 37,
+      "mentions": 38,
       "surge_pct": 0
     },
     {
       "ticker": "TSLA",
-      "mentions": 21,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MU",
-      "mentions": 8,
+      "mentions": 15,
       "surge_pct": 0
     },
     {
       "ticker": "MSFT",
-      "mentions": 6,
+      "mentions": 11,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MU",
+      "mentions": 9,
       "surge_pct": 0
     },
     {
       "ticker": "MRVL",
-      "mentions": 4,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "AAPL",
-      "mentions": 4,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "AMD",
-      "mentions": 3,
+      "mentions": 7,
       "surge_pct": 0
     },
     {
       "ticker": "META",
-      "mentions": 3,
+      "mentions": 7,
       "surge_pct": 0
     },
     {
-      "ticker": "MSTR",
+      "ticker": "AMD",
+      "mentions": 4,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "INTC",
+      "mentions": 4,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "NBIS",
       "mentions": 3,
       "surge_pct": 0
     }
   ],
-  "mood_score": 36,
-  "mood": "bearish",
-  "mood_summary": "S&P -1.20% · Nasdaq -1.44%"
+  "mood_score": 64,
+  "mood": "neutral",
+  "mood_summary": "S&P +0.55% · Nasdaq +1.20%"
 }
