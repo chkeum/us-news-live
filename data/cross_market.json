@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-21T07:28:25.422710+00:00",
-  "us_mood_score": 34,
+  "fetched_at": "2026-07-21T09:59:58.335924+00:00",
+  "us_mood_score": 37,
   "kr_mood_score": 78,
   "us_mood": "bearish",
   "kr_mood": "bullish",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "TSLA",
-      "title": "Tesla (TSLA) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "title_kr": "Tesla(TSLA) 2분기 보고서: 수익에 앞서 알아야 할 모든 것",
+      "ticker": "NVDA",
+      "title": "Palantir and Sandisk Both Posted Blowout Earnings in 2026. The Stock Market Rewarded Only One of Them the Same Day. Here's the Difference.",
+      "title_kr": "Palantir와 Sandisk는 모두 2026년에 폭발적인 수익을 기록했습니다. 같은 날 주식 시장은 그들 중 하나만 보상했습니다. 차이점은 다음과 같습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-21T05:10:26+00:00",
+      "published_at": "2026-07-21T06:43:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "TSLA Stock Falls Behind MSFT To Become Mag 7’s Worst Performer Ahead Of Q2 Earnings — But Retail Is Betting On A Musk Surprise",
+      "title_kr": "TSLA 주식은 MSFT에 뒤쳐져 2분기 실적을 앞두고 Mag 7의 최악의 실적을 기록했지만 소매업체는 머스크 서프라이즈에 베팅하고 있습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-07-21T06:04:04+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
@@ -350,18 +362,6 @@
         "NAVER",
         "카카오"
       ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Netflix Has Plummeted Over the Past Year and Just Dropped Again on Earnings. At 22 Times Profits, Is It a Buy?",
-      "title_kr": "넷플릭스는 지난 1년 동안 급락했고 수익이 다시 하락했습니다. 이익 22배, 매수인가?",
-      "source": "Yahoo",
-      "published_at": "2026-07-21T00:26:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
     }
   ],
   "macro": {
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 18.65,
-      "change_pct": 0.0,
+      "price": 17.56,
+      "change_pct": -5.84,
       "label": "VIX"
     },
     "btc": {
-      "price": 65929.99,
-      "change_pct": 2.81,
+      "price": 66284.66,
+      "change_pct": 3.22,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +3.3% → 한미반도체 개장 상방 압력 예상 (+2.1% 전후). US 무드 34/100, KR 무드 78/100."
+  "summary": "미국 MRVL +3.3% → 한미반도체 개장 상방 압력 예상 (+2.1% 전후). US 무드 37/100, KR 무드 78/100."
 }
