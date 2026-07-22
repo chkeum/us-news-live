@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T11:31:00.608003+00:00",
+  "fetched_at": "2026-07-22T12:59:16.651279+00:00",
   "us_mood_score": 60,
   "kr_mood_score": 53,
   "us_mood": "neutral",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "TSLA",
-      "title": "Nasdaq, S&P 500 Futures Slip Ahead Of TSLA, GOOGL Earnings: Why SMCI, INTC, SLS, BATL, OKLO, RKLB Are In Focus",
-      "title_kr": "Nasdaq, S&P 500 선물은 TSLA, GOOGL 수익보다 앞서 나갑니다: SMCI, INTC, SLS, BATL, OKLO, RKLB가 주목받는 이유",
+      "ticker": "NVDA",
+      "title": "This Unsung Artificial Intelligence (AI) Hero Just Announced Incredible News. Is It Still a Buy?",
+      "title_kr": "알려지지 않은 인공 지능(AI) 영웅이 놀라운 소식을 발표했습니다. 아직도 매수인가요?",
       "source": "Yahoo",
-      "published_at": "2026-07-22T08:30:11+00:00",
+      "published_at": "2026-07-22T10:20:00+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Stocks Fall Pre-Bell Ahead of Alphabet, Tesla Earnings",
+      "title_kr": "주식은 알파벳, Tesla 수익보다 앞서 하락합니다.",
+      "source": "Yahoo",
+      "published_at": "2026-07-22T11:51:56+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
@@ -341,25 +353,14 @@
     },
     {
       "ticker": "GOOGL",
-      "title": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market’s Next AI Trade",
-      "title_kr": "Google, 대규모 기술 수익 개시: 클라우드 성장이 아닌 Capex가 시장의 다음 AI 거래를 결정할 수 있는 이유",
+      "title": "Oil price hits $95, rate hike odds rise ahead of Alphabet earnings",
+      "title_kr": "유가는 95달러를 기록했고, 알파벳 실적에 앞서 금리 인상 확률이 높아졌습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-22T06:35:46+00:00",
+      "published_at": "2026-07-22T11:31:43+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
         "카카오"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "title": "Is SK Hynix Buying Intel’s Ohio Fab? Korean Chipmaker Denies Report — Now All Eyes Are on Earnings",
-      "title_kr": "SK하이닉스, 인텔 오하이오 공장 인수하나? 한국 칩 제조업체, 보고서 거부 - 이제 모든 시선은 수익에 쏠려 있음",
-      "source": "Yahoo",
-      "published_at": "2026-07-22T03:42:55+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스"
       ]
     }
   ],
@@ -375,13 +376,13 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.45,
-      "change_pct": 2.35,
+      "price": 17.51,
+      "change_pct": 2.7,
       "label": "VIX"
     },
     "btc": {
-      "price": 66032.01,
-      "change_pct": -0.3,
+      "price": 65652.01,
+      "change_pct": -1.36,
       "label": "BTC"
     }
   },
