@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-22T07:23:22.209773+00:00",
+  "fetched_at": "2026-07-22T09:45:24.792138+00:00",
   "sp500": {
     "price": 7509.2,
     "change_pct": 0.69,
@@ -16,13 +16,13 @@
     "label": "Dow"
   },
   "vix": {
-    "price": 17.05,
-    "change_pct": 0.0,
+    "price": 17.39,
+    "change_pct": 1.99,
     "label": "VIX"
   },
   "btc": {
-    "price": 65941.87,
-    "change_pct": -0.02,
+    "price": 65895.38,
+    "change_pct": -0.62,
     "label": "BTC"
   },
   "watchlist": {
@@ -70,7 +70,7 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 117,
+      "mentions": 113,
       "surge_pct": 0
     },
     {
@@ -80,7 +80,12 @@
     },
     {
       "ticker": "GOOGL",
-      "mentions": 12,
+      "mentions": 15,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MU",
+      "mentions": 8,
       "surge_pct": 0
     },
     {
@@ -89,18 +94,13 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MU",
+      "ticker": "AMD",
       "mentions": 6,
       "surge_pct": 0
     },
     {
       "ticker": "AMZN",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "AMD",
-      "mentions": 6,
+      "mentions": 5,
       "surge_pct": 0
     },
     {
@@ -119,7 +119,7 @@
       "surge_pct": 0
     }
   ],
-  "mood_score": 62,
+  "mood_score": 61,
   "mood": "neutral",
   "mood_summary": "S&P +0.69% · Nasdaq +1.24%"
 }
