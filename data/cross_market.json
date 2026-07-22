@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-07-22T01:29:33.834404+00:00",
+  "fetched_at": "2026-07-22T04:46:14.210116+00:00",
   "us_mood_score": 66,
-  "kr_mood_score": 100,
+  "kr_mood_score": 99,
   "us_mood": "bullish",
   "kr_mood": "bullish",
   "predictions": [
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 4.7,
-      "actual_kr_pct": 8.77,
+      "actual_kr_pct": 5.66,
       "reason": "MI355X용 HBM 공급",
       "us_price": 544.43,
-      "kr_price": 1997000.0
+      "kr_price": 1940000.0
     },
     {
       "us_ticker": "MRVL",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 3.01,
-      "actual_kr_pct": 8.77,
+      "actual_kr_pct": 5.66,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 207.96,
-      "kr_price": 1997000.0
+      "kr_price": 1940000.0
     },
     {
       "us_ticker": "TSLA",
@@ -96,10 +96,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.57,
-      "actual_kr_pct": 3.49,
+      "actual_kr_pct": 4.91,
       "reason": "NCA 양극재 공급",
       "us_price": 378.93,
-      "kr_price": 109600.0
+      "kr_price": 111100.0
     },
     {
       "us_ticker": "NVDA",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.42,
-      "actual_kr_pct": 8.77,
+      "actual_kr_pct": 5.66,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 207.29,
-      "kr_price": 1997000.0
+      "kr_price": 1940000.0
     },
     {
       "us_ticker": "TSLA",
@@ -192,10 +192,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.02,
-      "actual_kr_pct": 6.27,
+      "actual_kr_pct": 4.54,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 207.29,
-      "kr_price": 275250.0
+      "kr_price": 270750.0
     },
     {
       "us_ticker": "AVGO",
@@ -204,10 +204,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 0.93,
-      "actual_kr_pct": 8.77,
+      "actual_kr_pct": 5.66,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 386.5,
-      "kr_price": 1997000.0
+      "kr_price": 1940000.0
     },
     {
       "us_ticker": "MSTR",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.58,
-      "actual_kr_pct": 3.63,
+      "actual_kr_pct": 4.66,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 347.15,
-      "kr_price": 200000.0
+      "kr_price": 202000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 7.52,
+      "kr_actual_avg_pct": 5.1,
       "beta": 0.65,
       "predicted_kr_avg_pct": 3.08,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 3.48,
+      "kr_actual_avg_pct": 4.19,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.47,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 3.16,
+      "kr_actual_avg_pct": 3.67,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.36,
       "lag_hours": 8
@@ -329,14 +329,26 @@
   "overnight_digest": [
     {
       "ticker": "TSLA",
-      "title": "S&P 500, Dow Snap Three-Day Losses, Nasdaq Ends Best Day In Three Weeks As Earnings Take Centerstage — GOOGL, AAPL, AMD, TSLA, DIS In Focus",
-      "title_kr": "S&P 500, Dow Snap 3일 손실, Nasdaq은 수익이 중심이 되면서 3주 만에 최고의 날 마감 — GOOGL, AAPL, AMD, TSLA, DIS In Focus",
+      "title": "S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus",
+      "title_kr": "S&P 500, Nasdaq, Dow Futures는 석유 랠리로 인해 AI 낙관론이 거대 기술 수익에 앞서 완화됨: SMCI, OKLO, XE, SKHY, GOOG 집중",
       "source": "Yahoo",
-      "published_at": "2026-07-21T22:02:41+00:00",
+      "published_at": "2026-07-22T02:13:34+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
         "에코프로비엠"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Google Earnings Today: What to Expect as AI Spending Faces Scrutiny",
+      "title_kr": "오늘의 Google 수익: AI 지출이 정밀 조사에 직면함에 따라 예상되는 사항",
+      "source": "Yahoo",
+      "published_at": "2026-07-22T01:22:05+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
       ]
     },
     {
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Look To Profit From Microsoft Earnings With A Short-Term, High-Risk Trade",
-      "title_kr": "단기적이고 위험도가 높은 거래를 통해 Microsoft 수익에서 이익을 얻으세요",
-      "source": "Yahoo",
-      "published_at": "2026-07-21T19:29:23+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 66411.66,
-      "change_pct": 1.44,
+      "price": 66412.41,
+      "change_pct": 1.37,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +8.1% → 한미반도체 개장 상방 압력 예상 (+5.5% 전후). US 무드 66/100, KR 무드 100/100."
+  "summary": "미국 AMD +8.1% → 한미반도체 개장 상방 압력 예상 (+5.5% 전후). US 무드 66/100, KR 무드 99/100."
 }
