@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-22T04:46:14.210116+00:00",
-  "us_mood_score": 66,
-  "kr_mood_score": 99,
-  "us_mood": "bullish",
-  "kr_mood": "bullish",
+  "fetched_at": "2026-07-22T07:23:52.948565+00:00",
+  "us_mood_score": 62,
+  "kr_mood_score": 53,
+  "us_mood": "neutral",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "AMD",
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 4.7,
-      "actual_kr_pct": 5.66,
+      "actual_kr_pct": -0.33,
       "reason": "MI355X용 HBM 공급",
       "us_price": 544.43,
-      "kr_price": 1940000.0
+      "kr_price": 1830000.0
     },
     {
       "us_ticker": "MRVL",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 3.01,
-      "actual_kr_pct": 5.66,
+      "actual_kr_pct": -0.33,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 207.96,
-      "kr_price": 1940000.0
+      "kr_price": 1830000.0
     },
     {
       "us_ticker": "TSLA",
@@ -72,10 +72,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.72,
-      "actual_kr_pct": 3.47,
+      "actual_kr_pct": 1.26,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 378.93,
-      "kr_price": 328000.0
+      "kr_price": 321000.0
     },
     {
       "us_ticker": "NVDA",
@@ -96,10 +96,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.57,
-      "actual_kr_pct": 4.91,
+      "actual_kr_pct": 1.51,
       "reason": "NCA 양극재 공급",
       "us_price": 378.93,
-      "kr_price": 111100.0
+      "kr_price": 107500.0
     },
     {
       "us_ticker": "NVDA",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.42,
-      "actual_kr_pct": 5.66,
+      "actual_kr_pct": -0.33,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 207.29,
-      "kr_price": 1940000.0
+      "kr_price": 1830000.0
     },
     {
       "us_ticker": "TSLA",
@@ -192,10 +192,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.02,
-      "actual_kr_pct": 4.54,
+      "actual_kr_pct": 0.58,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 207.29,
-      "kr_price": 270750.0
+      "kr_price": 260500.0
     },
     {
       "us_ticker": "AVGO",
@@ -204,10 +204,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 0.93,
-      "actual_kr_pct": 5.66,
+      "actual_kr_pct": -0.33,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 386.5,
-      "kr_price": 1940000.0
+      "kr_price": 1830000.0
     },
     {
       "us_ticker": "MSTR",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.58,
-      "actual_kr_pct": 4.66,
+      "actual_kr_pct": 2.02,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 347.15,
-      "kr_price": 202000.0
+      "kr_price": 196900.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 5.1,
+      "kr_actual_avg_pct": 0.12,
       "beta": 0.65,
       "predicted_kr_avg_pct": 3.08,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 4.19,
+      "kr_actual_avg_pct": 1.39,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.47,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 3.67,
+      "kr_actual_avg_pct": 1.29,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.36,
       "lag_hours": 8
@@ -328,6 +328,17 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "INTC",
+      "title": "Is SK Hynix Buying Intel’s Ohio Fab? Korean Chipmaker Denies Report — Now All Eyes Are on Earnings",
+      "title_kr": "SK하이닉스, 인텔 오하이오 공장 인수하나? 한국 칩 제조업체, 보고서 거부 - 이제 모든 시선은 수익에 쏠려 있음",
+      "source": "Yahoo",
+      "published_at": "2026-07-22T03:42:55+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스"
+      ]
+    },
+    {
       "ticker": "TSLA",
       "title": "S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus",
       "title_kr": "S&P 500, Nasdaq, Dow Futures는 석유 랠리로 인해 AI 낙관론이 거대 기술 수익에 앞서 완화됨: SMCI, OKLO, XE, SKHY, GOOG 집중",
@@ -350,18 +361,6 @@
         "NAVER",
         "카카오"
       ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Netflix “Is Not a Broken Company” and Trades At Just 19x Earnings. Jim Cramer Says Start Buying",
-      "title_kr": "넷플릭스는 “망가진 회사가 아니다”고 19배의 수익으로 거래합니다. Jim Cramer는 구매를 시작한다고 말합니다.",
-      "source": "Yahoo",
-      "published_at": "2026-07-21T21:43:38+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
     }
   ],
   "macro": {
@@ -377,14 +376,14 @@
     },
     "vix": {
       "price": 17.05,
-      "change_pct": -8.58,
+      "change_pct": 0.0,
       "label": "VIX"
     },
     "btc": {
-      "price": 66412.41,
-      "change_pct": 1.37,
+      "price": 65941.87,
+      "change_pct": -0.02,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +8.1% → 한미반도체 개장 상방 압력 예상 (+5.5% 전후). US 무드 66/100, KR 무드 99/100."
+  "summary": "미국 AMD +8.1% → 한미반도체 개장 상방 압력 예상 (+5.5% 전후). US 무드 62/100, KR 무드 53/100."
 }
