@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-22T09:45:42.359934+00:00",
-  "us_mood_score": 61,
+  "fetched_at": "2026-07-22T11:31:00.608003+00:00",
+  "us_mood_score": 60,
   "kr_mood_score": 53,
   "us_mood": "neutral",
   "kr_mood": "neutral",
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "TSLA",
+      "title": "Nasdaq, S&P 500 Futures Slip Ahead Of TSLA, GOOGL Earnings: Why SMCI, INTC, SLS, BATL, OKLO, RKLB Are In Focus",
+      "title_kr": "Nasdaq, S&P 500 선물은 TSLA, GOOGL 수익보다 앞서 나갑니다: SMCI, INTC, SLS, BATL, OKLO, RKLB가 주목받는 이유",
+      "source": "Yahoo",
+      "published_at": "2026-07-22T08:30:11+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "LG에너지솔루션",
+        "에코프로비엠"
+      ]
+    },
+    {
       "ticker": "GOOGL",
       "title": "Google Kicks Off Big Tech Earnings: Why Capex, Not Cloud Growth, Could Decide Market’s Next AI Trade",
       "title_kr": "Google, 대규모 기술 수익 개시: 클라우드 성장이 아닌 Capex가 시장의 다음 AI 거래를 결정할 수 있는 이유",
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "SK하이닉스"
       ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "S&P 500, Nasdaq, Dow Futures Ease As Oil Rally Tempers AI Optimism Ahead of Big Tech Earnings: SMCI, OKLO, XE, SKHY, GOOG In Focus",
-      "title_kr": "S&P 500, Nasdaq, Dow Futures는 석유 랠리로 인해 AI 낙관론이 거대 기술 수익에 앞서 완화됨: SMCI, OKLO, XE, SKHY, GOOG 집중",
-      "source": "Yahoo",
-      "published_at": "2026-07-22T02:13:34+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "LG에너지솔루션",
-        "에코프로비엠"
-      ]
     }
   ],
   "macro": {
@@ -375,15 +375,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.39,
-      "change_pct": 1.99,
+      "price": 17.45,
+      "change_pct": 2.35,
       "label": "VIX"
     },
     "btc": {
-      "price": 65895.38,
-      "change_pct": -0.62,
+      "price": 66032.01,
+      "change_pct": -0.3,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +8.1% → 한미반도체 개장 상방 압력 예상 (+5.5% 전후). US 무드 61/100, KR 무드 53/100."
+  "summary": "미국 AMD +8.1% → 한미반도체 개장 상방 압력 예상 (+5.5% 전후). US 무드 60/100, KR 무드 53/100."
 }
