@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-23T10:06:30.413866+00:00",
-  "us_mood_score": 56,
+  "fetched_at": "2026-07-23T12:02:10.531717+00:00",
+  "us_mood_score": 54,
   "kr_mood_score": 100,
   "us_mood": "neutral",
   "kr_mood": "bullish",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "GOOGL",
-      "title": "Alphabet cloud-fuelled earnings beat fails to address fundamental long-term issues",
-      "title_kr": "Alphabet 클라우드 기반 수익 창출로 근본적인 장기 문제를 해결하지 못함",
+      "ticker": "TSLA",
+      "title": "Nasdaq, S&P 500 Futures Fall As Tesla, Alphabet Earnings Revive AI Spending Fears: Why TSLA, GOOGL, SPCX, NOW, INTC, AMD, SLS Are In Focus",
+      "title_kr": "Nasdaq, S&P 500 선물 하락, Tesla, Alphabet 수익으로 AI 지출 우려 부활: TSLA, GOOGL, SPCX, NOW, INTC, AMD, SLS가 주목받는 이유",
       "source": "Yahoo",
-      "published_at": "2026-07-23T06:53:00+00:00",
+      "published_at": "2026-07-23T08:41:43+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "LG에너지솔루션",
+        "에코프로비엠"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Alphabet Q2 Earnings: CapEx Pains, Moat Gains",
+      "title_kr": "알파벳 2분기 수익: CapEx 어려움, 해자 이익",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-23T07:40:21+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -340,27 +352,14 @@
       ]
     },
     {
-      "ticker": "AAPL",
-      "title": "Intel Earnings Arrive as Chip Stocks Continue to Wobble",
-      "title_kr": "칩 주식이 계속 흔들리면서 인텔 수익이 발생합니다.",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T05:15:00+00:00",
+      "ticker": "INTC",
+      "title": "Intel Bearish Momentum Intact Below 120.35 As Earnings Loom",
+      "title_kr": "Intel Bearish Momentum은 실적이 밝아짐에 따라 120.35 이하로 그대로 유지됩니다.",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-23T07:38:00+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "삼성전자",
         "SK하이닉스"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Tesla Inc (TSLA) Q2 2026 Earnings Call Highlights: Record Deliveries and Strategic Investments ...",
-      "title_kr": "Tesla Inc(TSLA) 2026년 2분기 실적 발표 하이라이트: 기록적인 납품 및 전략적 투자 ...",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T05:01:38+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "LG에너지솔루션",
-        "에코프로비엠"
       ]
     }
   ],
@@ -376,15 +375,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 17.66,
-      "change_pct": 6.13,
+      "price": 18.27,
+      "change_pct": 9.8,
       "label": "VIX"
     },
     "btc": {
-      "price": 65694.01,
-      "change_pct": -0.35,
+      "price": 65513.15,
+      "change_pct": -0.75,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +2.3% → 한미반도체 개장 상방 압력 예상 (+1.9% 전후). US 무드 56/100, KR 무드 100/100."
+  "summary": "미국 NVDA +2.3% → 한미반도체 개장 상방 압력 예상 (+1.9% 전후). US 무드 54/100, KR 무드 100/100."
 }
