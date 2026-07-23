@@ -1,6 +1,6 @@
 {
-  "fetched_at": "2026-07-23T12:02:10.531717+00:00",
-  "us_mood_score": 54,
+  "fetched_at": "2026-07-23T13:23:55.795394+00:00",
+  "us_mood_score": 51,
   "kr_mood_score": 100,
   "us_mood": "neutral",
   "kr_mood": "bullish",
@@ -328,38 +328,39 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "TSLA",
-      "title": "Nasdaq, S&P 500 Futures Fall As Tesla, Alphabet Earnings Revive AI Spending Fears: Why TSLA, GOOGL, SPCX, NOW, INTC, AMD, SLS Are In Focus",
-      "title_kr": "Nasdaq, S&P 500 선물 하락, Tesla, Alphabet 수익으로 AI 지출 우려 부활: TSLA, GOOGL, SPCX, NOW, INTC, AMD, SLS가 주목받는 이유",
+      "ticker": "AVGO",
+      "title": "TSMC Just Announced Incredible News for Nvidia and Broadcom Investors",
+      "title_kr": "TSMC는 Nvidia와 Broadcom 투자자를 위한 놀라운 소식을 발표했습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-23T08:41:43+00:00",
+      "published_at": "2026-07-23T10:05:00+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "한미반도체",
+        "SK하이닉스"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Nvidia, Teradyne, and Omnicell Earnings Set to Test Robotics Sector’s Divergent Momentum",
+      "title_kr": "엔비디아, 테라다인, 옴니셀 수익으로 로봇 부문의 다양한 모멘텀 테스트 예정",
+      "source": "ChartMill",
+      "published_at": "2026-07-23T12:35:37+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Dow Jones Futures Fall As Oil Prices Top $90; Google, Tesla Skid On Earnings, Capital Spending",
+      "title_kr": "다우존스 선물은 유가가 90달러를 넘어서면서 하락합니다. 구글, 테슬라 스키드 온 수입, 자본 지출",
+      "source": "Yahoo",
+      "published_at": "2026-07-23T11:59:33+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
         "에코프로비엠"
-      ]
-    },
-    {
-      "ticker": "GOOGL",
-      "title": "Alphabet Q2 Earnings: CapEx Pains, Moat Gains",
-      "title_kr": "알파벳 2분기 수익: CapEx 어려움, 해자 이익",
-      "source": "SeekingAlpha",
-      "published_at": "2026-07-23T07:40:21+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "title": "Intel Bearish Momentum Intact Below 120.35 As Earnings Loom",
-      "title_kr": "Intel Bearish Momentum은 실적이 밝아짐에 따라 120.35 이하로 그대로 유지됩니다.",
-      "source": "SeekingAlpha",
-      "published_at": "2026-07-23T07:38:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스"
       ]
     }
   ],
@@ -375,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 18.27,
-      "change_pct": 9.8,
+      "price": 19.15,
+      "change_pct": 15.08,
       "label": "VIX"
     },
     "btc": {
-      "price": 65513.15,
-      "change_pct": -0.75,
+      "price": 65050.01,
+      "change_pct": -0.84,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +2.3% → 한미반도체 개장 상방 압력 예상 (+1.9% 전후). US 무드 54/100, KR 무드 100/100."
+  "summary": "미국 NVDA +2.3% → 한미반도체 개장 상방 압력 예상 (+1.9% 전후). US 무드 51/100, KR 무드 100/100."
 }
