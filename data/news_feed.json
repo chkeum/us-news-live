@@ -362,20 +362,6 @@
       "summary_kr": "MercadoLibre는 몇 년 만에 최악의 마진 분기를 기록하며 주가를 폭락시켰습니다. 그러나 한 분석가는 월스트리트에서 군중보다 훨씬 높은 목표를 가지고 홀로 서 있습니다. 황소 사건의 생존 여부에 대해 숫자가 실제로 말하는 내용은 다음과 같습니다."
     },
     {
-      "id": "f_1e128318ca91e1",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "analyst",
-      "title": "JP Morgan Maintains Neutral on Tesla, Lowers Price Target to $445",
-      "summary": "JP Morgan  analyst Rajat Gupta   maintains Tesla (NASDAQ:TSLA) with a Neutral and lowers the price target from $475 to $445.",
-      "url": "https://finnhub.io/api/news?id=b1dbe9f836022b33d83b9e101f7c042ec24731a49795d46dd84bc9f5159cc16b",
-      "source": "Benzinga",
-      "published_at": "2026-07-23T14:27:09+00:00",
-      "change_pct": -14.52,
-      "title_kr": "JP Morgan, Tesla에 대해 중립 유지, 목표 가격을 445달러로 낮춤",
-      "summary_kr": "JP Morgan 분석가 Rajat Gupta는 Tesla(NASDAQ:TSLA)에 중립 의견을 유지하고 목표 가격을 475달러에서 445달러로 낮췄습니다."
-    },
-    {
       "id": "av_8c2f0573c4344d",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -385,7 +371,7 @@
       "url": "https://ca.investing.com/news/stock-market-news/synopsys-outlook-raised-to-positive-by-sp-on-debt-reduction-93CH-4750189",
       "source": "Investing.com Canada",
       "published_at": "2026-07-23T19:39:38+00:00",
-      "sentiment": 0.323896,
+      "sentiment": 0.344424,
       "change_pct": -1.56,
       "title_kr": "S&P가 부채 감소에 대해 Synopsys 전망을 긍정적으로 상향 조정",
       "summary_kr": "S&P Global Ratings는 Synopsys Inc.에 대한 전망을 안정적에서 긍정적으로 수정했으며 회사의 상당한 부채 감소로 인해 BBB 등급을 확인했습니다. Synopsys는 Ansys 인수로 인해 발생한 부채 중 43억 달러를 상환하고 수익금을 사용했습니다."
@@ -400,10 +386,25 @@
       "url": "https://observer.com/2026/07/jensen-huang-nvidias-future-japan-physical-ai/",
       "source": "Observer",
       "published_at": "2026-07-23T12:33:22+00:00",
-      "sentiment": 0.82866,
+      "sentiment": 0.814894,
       "change_pct": -1.56,
       "title_kr": "Jensen Huang, Nvidia의 차세대 성장 엔진으로 일본의 로봇 선택",
       "summary_kr": "엔비디아 CEO 젠슨 황(Jensen Huang)은 생성 AI 분야에서 큰 성공을 거둔 데 이어 일본의 로봇 공학 및 제조 부문을 회사의 차세대 주요 성장 영역으로 집중하고 있습니다. 최근 도쿄를 방문하는 동안 Huang은 Jap을 강조하면서 '물리적 A.I.'를 홍보했습니다."
+    },
+    {
+      "id": "av_28db52aaf6ef71",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "FVAL ETF Profile: Dividends, Returns (BOATS:FVAL)",
+      "summary": "This article provides a comprehensive profile of the Fidelity Value Factor ETF (FVAL), detailing its investment strategy, holdings, and financial performance. FVAL focuses on US value investing, selecting constituents from the largest 1,000 US stocks based on specific value measu",
+      "url": "https://www.tradingview.com/symbols/BOATS-FVAL/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-23T17:39:47+00:00",
+      "sentiment": 0.33299,
+      "change_pct": -1.56,
+      "title_kr": "FVAL ETF 프로필: 배당금, 수익(BOATS:FVAL)",
+      "summary_kr": "이 기사에서는 FVAL(Fidelity Value Factor ETF)의 포괄적인 프로필을 제공하고 투자 전략, 보유 자산 및 재무 성과를 자세히 설명합니다. FVAL은 미국 가치 투자에 중점을 두고 있으며, 다음을 기반으로 미국 최대 1,000개 주식에서 구성 요소를 선택합니다."
     },
     {
       "id": "av_791065038a2330",
@@ -415,7 +416,7 @@
       "url": "https://simplywall.st/stocks/us/tech/nyse-fn/fabrinet/news/fabrinet-fn-falls-17-in-a-month-is-it-cheap-or-fully-valued",
       "source": "Simply Wall Street",
       "published_at": "2026-07-23T17:10:29+00:00",
-      "sentiment": 0.347573,
+      "sentiment": 0.323097,
       "change_pct": -1.56,
       "title_kr": "Fabrinet(FN)이 한 달 만에 17% 하락했습니다. 저렴한 가격인가요, 아니면 충분히 가치 있는 가격인가요?",
       "summary_kr": "Fabrinet(FN)은 강력한 장기 실적에도 불구하고 지난 달 주가가 17% 하락했습니다. 일반적인 평가 내러티브에서는 공정 가치 $635로 19.1% 저평가된 것으로 나타났지만 할인된 현금 흐름 모델에서는 현재보다 높은 수준으로 거래되고 있음을 시사합니다."
@@ -430,7 +431,7 @@
       "url": "https://www.tradingview.com/news/zacks:e3468aba0094b:0-buy-these-5-semiconductor-stocks-charged-up-by-ai-enthusiasm/",
       "source": "TradingView",
       "published_at": "2026-07-23T12:37:02+00:00",
-      "sentiment": 0.40946,
+      "sentiment": 0.434142,
       "change_pct": -1.56,
       "title_kr": "AI 열정으로 충전된 반도체 주식 5개 매수",
       "summary_kr": "인공지능(AI) 붐이 반도체 산업에 대한 열의와 수요를 지속적으로 견인하며 관련 주식의 큰 성장으로 이어지고 있습니다. 이 기사에서는 Micron Technology, Intel Corporation, NVIDIA Co 등 5개 반도체 회사를 조명합니다."
@@ -445,7 +446,7 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
       "source": "Bloomberg",
       "published_at": "2026-07-23T20:01:00+00:00",
-      "sentiment": 0.204262,
+      "sentiment": 0.183095,
       "change_pct": -1.56,
       "title_kr": "인텔 예측은 데이터 센터 성장에 힘입어 예상치를 깨뜨렸습니다.",
       "summary_kr": "Intel Corp.은 현재 기간에 대해 분석가의 추정치를 뛰어넘는 놀랍도록 강력한 수익 예측을 발표했습니다. 회사는 3분기 매출을 158억~168억 달러로 예상하고 있다. 이러한 긍정적인 전망은 da의 급증에 기인합니다."
@@ -460,40 +461,10 @@
       "url": "https://seekingalpha.com/news/4617582-amd-expects-compute-market-to-reach-2t-by-2030-as-helios-enters-full-production",
       "source": "Seeking Alpha",
       "published_at": "2026-07-23T18:47:04+00:00",
-      "sentiment": 0.220613,
+      "sentiment": 0.203475,
       "change_pct": -1.56,
       "title_kr": "AMD는 Helios가 본격 생산에 들어가면서 컴퓨팅 시장이 2030년까지 2조 달러에 이를 것으로 예상합니다.",
       "summary_kr": "AMD는 Advancing AI 2026 이벤트에서 현재 정식 생산 중인 Helios 랙 스케일 시스템을 공식 출시했습니다. 회사는 AI 가속기의 전체 주소 지정 가능 시장이 2030년까지 1조 4천억 달러에 이를 것으로 예상하며, GPU가 이 중 대부분을 차지할 것입니다."
-    },
-    {
-      "id": "av_ac3f5920452010",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA Corporation $NVDA Stock Holdings Increased by UNIVEST FINANCIAL Corp",
-      "summary": "UNIVEST FINANCIAL Corp significantly increased its stake in NVIDIA (NASDAQ:NVDA) by 8.4% in the first quarter, now holding 316,215 shares valued at over $55.1 million, making NVIDIA its 7th largest holding. Wall Street analysts maintain",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stock-holdings-increased-by-univest-financial-corp-2026-07-23/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-23T09:10:20+00:00",
-      "sentiment": 0.430043,
-      "change_pct": -1.56,
-      "title_kr": "NVIDIA Corporation $NVDA 주식 보유량은 UNIVEST FINANCIAL Corp에 의해 증가됩니다.",
-      "summary_kr": "UNIVEST FINANCIAL Corp는 1분기에 NVIDIA(NASDAQ:NVDA) 지분을 8.4% 크게 늘려 현재 5,510만 달러 상당의 주식 316,215주를 보유하여 NVIDIA를 7번째로 큰 지분으로 만들었습니다. 월스트리트 분석가들은 다음과 같이 주장합니다."
-    },
-    {
-      "id": "av_4a86aa5a359a4d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "VCI Global Launches VGAIN Cloud, A Post-Quantum-Ready Sovereign AI Cloud Platform in Malaysia",
-      "summary": "VCI Global Limited (NASDAQ: VCIG) has launched VGAIN Cloud through its subsidiary V Gallant Limited, a sovereign AI cloud platform featuring post-quantum-ready encryption and high-performance computing. This platform, with a planned US$6 million first-phase rollout, is designed t",
-      "url": "https://sg.finance.yahoo.com/news/vci-global-launches-vgain-cloud-123300111.html",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-07-23T12:10:19+00:00",
-      "sentiment": 0.334479,
-      "change_pct": -1.56,
-      "title_kr": "VCI Global, 말레이시아에서 Post-Quantum-Ready 주권 AI 클라우드 플랫폼인 VGAIN Cloud 출시",
-      "summary_kr": "VCI Global Limited(NASDAQ: VCIG)는 자회사 V Gallant Limited를 통해 포스트퀀텀 암호화 및 고성능 컴퓨팅을 갖춘 독립 AI 클라우드 플랫폼인 VGAIN Cloud를 출시했습니다. 이 플랫폼은 1단계 투자액이 600만 달러로 계획되어 있습니다."
     },
     {
       "id": "av_a5de3987df90c4",
@@ -505,10 +476,25 @@
       "url": "https://247wallst.com/investing/2026/07/23/applied-digital-could-have-155-upside-ahead-of-july-27-q2-earnings/",
       "source": "24/7 Wall St.",
       "published_at": "2026-07-23T14:40:01+00:00",
-      "sentiment": 0.268565,
+      "sentiment": 0.29563,
       "change_pct": -1.56,
       "title_kr": "Applied Digital은 7월 27일 2분기 실적을 앞두고 155% 상승 여력을 가질 수 있습니다.",
       "summary_kr": "APLD(Applied Digital)는 전문 데이터 센터를 운영하고 AI 및 고성능 컴퓨팅 고객에게 용량을 임대하는 등 강력한 AI 인프라 투자로 제시됩니다. 이 회사는 서명된 하이퍼스케일러 임대로 160억 달러를 자랑하며 상당한 수익을 올리고 있습니다."
+    },
+    {
+      "id": "av_ac3f5920452010",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA Corporation $NVDA Stock Holdings Increased by UNIVEST FINANCIAL Corp",
+      "summary": "UNIVEST FINANCIAL Corp significantly increased its stake in NVIDIA (NASDAQ:NVDA) by 8.4% in the first quarter, now holding 316,215 shares valued at over $55.1 million, making NVIDIA its 7th largest holding. Wall Street analysts maintain",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stock-holdings-increased-by-univest-financial-corp-2026-07-23/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-23T09:10:20+00:00",
+      "sentiment": 0.418413,
+      "change_pct": -1.56,
+      "title_kr": "NVIDIA Corporation $NVDA 주식 보유량은 UNIVEST FINANCIAL Corp에 의해 증가됩니다.",
+      "summary_kr": "UNIVEST FINANCIAL Corp는 1분기에 NVIDIA(NASDAQ:NVDA) 지분을 8.4% 크게 늘려 현재 5,510만 달러 상당의 주식 316,215주를 보유하여 NVIDIA를 7번째로 큰 지분으로 만들었습니다. 월스트리트 분석가들은 다음과 같이 주장합니다."
     },
     {
       "id": "av_c965430c52e50a",
@@ -520,7 +506,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/3427090/1-brilliant-dividend-etf-to-build-long-term-passive-income/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-23T13:09:36+00:00",
-      "sentiment": 0.301513,
+      "sentiment": 0.316748,
       "change_pct": -1.56,
       "title_kr": "1 장기 수동적 소득 구축을 위한 훌륭한 배당금 ETF",
       "summary_kr": "Fidelity High Dividend ETF (FDVV)는 배당을 통해 장기 수동적 소득을 추구하는 투자자에게 탁월한 옵션으로 제시됩니다. 이 ETF는 고수익 우량주와 대형 기술주를 결합하여 상당한 배당금을 제공합니다."
@@ -535,55 +521,10 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-rockets-10-rtx-144735229.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-23T18:09:20+00:00",
-      "sentiment": -0.164613,
+      "sentiment": -0.18655,
       "change_pct": -1.56,
       "title_kr": "Lockheed Martin Rockets 10%, RTX는 Beat-and-Raise 분기 및 기록 백로그에서 7% 점프",
       "summary_kr": "록히드 마틴과 RTX는 2026년 2분기 실적을 발표해 각각 10%와 7%의 상당한 주가 급등을 기록했습니다. 록히드 마틴(Lockheed Martin)이 2,300억 달러, RTX가 289달러를 기록하는 등 두 방산업계 계약업체 모두 기록적인 백로그를 달성했습니다."
-    },
-    {
-      "id": "av_e8c3f143f0a3f7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
-      "summary": "The article discusses current market conditions influenced by Houthi attacks, Google's significant AI cash burn, and Tesla's increased spending on AI and humanoid robots. It highlights negative money flows in major tech stocks and ETFs like SPY and QQQ, alongside rising oil price",
-      "url": "https://www.benzinga.com/Opinion/26/07/60646424/market-selling-as-houthis-open-a-new-front-google-ai-cash-burn-tesla-humanoid-spending",
-      "source": "Benzinga",
-      "published_at": "2026-07-23T16:07:52+00:00",
-      "sentiment": -0.210959,
-      "change_pct": -1.56,
-      "title_kr": "Houthis가 새로운 전선을 열면서 시장 판매; 구글 AI 캐시 소각; Tesla 휴머노이드 지출",
-      "summary_kr": "이 기사에서는 Houthi 공격, Google의 상당한 AI 현금 소모, Tesla의 AI 및 휴머노이드 로봇에 대한 지출 증가로 인해 영향을 받은 현재 시장 상황에 대해 설명합니다. 이는 SPY 및 QQQ와 같은 주요 기술주 및 ETF의 부정적인 자금 흐름을 강조합니다."
-    },
-    {
-      "id": "av_219c51d7e990ef",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "UnitedHealth, Ardagh Metal Packaging, Nvidia And More: CNBC’s ‘Final Trades’",
-      "summary": "This article summarizes stock recommendations from CNBC's 'Final Trades', featuring UnitedHealth Group, Ardagh Metal Packaging, Invesco S&P 500 Equal Weight ETF, and NVIDIA Corporation. It highlights UnitedHealth's strong Q2 results and raised guidance, Ardagh Metal Packaging's h",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60634476/unitedhealth-ardagh-metal-packaging-nvidia-and-more-cnbc-final-trades",
-      "source": "Benzinga",
-      "published_at": "2026-07-23T12:14:50+00:00",
-      "sentiment": 0.307466,
-      "change_pct": -1.56,
-      "title_kr": "UnitedHealth, Ardagh Metal Packaging, Nvidia 등: CNBC의 '최종 거래'",
-      "summary_kr": "이 기사에서는 UnitedHealth Group, Ardagh Metal Packaging, Invesco S&P 500 Equal Weight ETF 및 NVIDIA Corporation이 포함된 CNBC의 'Final Trades'에서 나온 주식 추천을 요약합니다. UnitedHealth의 강력한 2분기 결과를 강조하고 지침을 높였습니다. Ardagh"
-    },
-    {
-      "id": "av_0fc5a4ab5a49be",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Texas Instruments Inc Stock (TXN) Moved Down by 3.38% on Jul 23: Drivers Behind the Movement",
-      "summary": "Texas Instruments Inc (TXN) stock declined by 3.38% on July 23, driven primarily by a cautious outlook for industrial and automotive sector recoveries and high capital expenditures impacting free cash flow. Analysts have revised price targets downwards due to margin compression a",
-      "url": "https://www.tradingkey.com/news/market-movers/262050471-market-movers-txn-20260723",
-      "source": "TradingKey",
-      "published_at": "2026-07-23T16:15:00+00:00",
-      "sentiment": -0.20719,
-      "change_pct": -1.56,
-      "title_kr": "7월 23일 Texas Instruments Inc 주식(TXN)이 3.38% 하락했습니다: 이 움직임의 원동력",
-      "summary_kr": "텍사스 인스트루먼트(TXN) 주가는 7월 23일 3.38% 하락했는데, 이는 주로 산업 및 자동차 부문 회복에 대한 신중한 전망과 잉여현금흐름에 영향을 미치는 높은 자본 지출에 기인합니다. 애널리스트들은 목표 주가를 하향 조정했다."
     },
     {
       "id": "av_0560de39739506",
@@ -595,25 +536,55 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-fifth-third-bancorp-has-237-billion-position-in-nvidia-corporation-nvda-2026-07-23/",
       "source": "MarketBeat",
       "published_at": "2026-07-23T07:35:52+00:00",
-      "sentiment": 0.421122,
+      "sentiment": 0.448468,
       "change_pct": -1.56,
       "title_kr": "Fifth Third Bancorp는 NVIDIA Corporation $NVDA에서 23억 7천만 달러의 지분을 보유하고 있습니다.",
       "summary_kr": "Fifth Third Bancorp는 NVIDIA Corporation의 지분을 크게 늘려 373만 주를 추가하여 총 1,358만 주에 달했으며 그 가치는 약 23억 7천만 달러에 달해 NVDA를 가장 큰 포트폴리오 위치로 만들었습니다. 애널리스트들은 '매수' 의견 유지"
     },
     {
-      "id": "av_269ff99cd5e064",
+      "id": "av_4a86aa5a359a4d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Does Your ETF Portfolio Reflect Your Goals? A Look at the SPDR Global Stock Market ETF vs. the Climate Paris Aligned ETF.",
-      "summary": "This article compares two ETFs from State Street: the SPDR Global Stock Market ETF (SPGM) and the Climate Paris Aligned ETF (NZAC). SPGM offers broad, low-cost global equity exposure with nearly 3,000 holdings, while NZAC provides specialized, ESG-screened global exposure focused",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/23/does-your-etf-portfolio-reflect-your-goals-a-look-at-the-spdr-global-stock-market-etf-vs-the-climate-paris-aligned-etf/",
-      "source": "The Motley Fool",
-      "published_at": "2026-07-23T11:34:20+00:00",
-      "sentiment": 0.317937,
+      "title": "VCI Global Launches VGAIN Cloud, A Post-Quantum-Ready Sovereign AI Cloud Platform in Malaysia",
+      "summary": "VCI Global Limited (NASDAQ: VCIG) has launched VGAIN Cloud through its subsidiary V Gallant Limited, a sovereign AI cloud platform featuring post-quantum-ready encryption and high-performance computing. This platform, with a planned US$6 million first-phase rollout, is designed t",
+      "url": "https://sg.finance.yahoo.com/news/vci-global-launches-vgain-cloud-123300111.html",
+      "source": "Yahoo Finance Singapore",
+      "published_at": "2026-07-23T12:10:19+00:00",
+      "sentiment": 0.334056,
       "change_pct": -1.56,
-      "title_kr": "귀하의 ETF 포트폴리오가 귀하의 목표를 반영합니까? SPDR Global Stock Market ETF와 Climate Paris Aligned ETF를 살펴보세요.",
-      "summary_kr": "이 기사에서는 State Street의 두 ETF인 SPDR Global Stock Market ETF(SPGM)와 Climate Paris Aligned ETF(NZAC)를 비교합니다. SPGM은 약 3,000개 보유 종목으로 광범위하고 저렴한 글로벌 주식 노출을 제공하는 반면, NZAC는 전문화된 ESG 심사 글로를 제공합니다."
+      "title_kr": "VCI Global, 말레이시아에서 Post-Quantum-Ready 주권 AI 클라우드 플랫폼인 VGAIN Cloud 출시",
+      "summary_kr": "VCI Global Limited(NASDAQ: VCIG)는 자회사 V Gallant Limited를 통해 포스트퀀텀 암호화 및 고성능 컴퓨팅을 갖춘 독립 AI 클라우드 플랫폼인 VGAIN Cloud를 출시했습니다. 이 플랫폼은 1단계 투자액이 600만 달러로 계획되어 있습니다."
+    },
+    {
+      "id": "av_219c51d7e990ef",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "UnitedHealth, Ardagh Metal Packaging, Nvidia And More: CNBC’s ‘Final Trades’",
+      "summary": "This article summarizes stock recommendations from CNBC's 'Final Trades', featuring UnitedHealth Group, Ardagh Metal Packaging, Invesco S&P 500 Equal Weight ETF, and NVIDIA Corporation. It highlights UnitedHealth's strong Q2 results and raised guidance, Ardagh Metal Packaging's h",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60634476/unitedhealth-ardagh-metal-packaging-nvidia-and-more-cnbc-final-trades",
+      "source": "Benzinga",
+      "published_at": "2026-07-23T12:14:50+00:00",
+      "sentiment": 0.32987,
+      "change_pct": -1.56,
+      "title_kr": "UnitedHealth, Ardagh Metal Packaging, Nvidia 등: CNBC의 '최종 거래'",
+      "summary_kr": "이 기사에서는 UnitedHealth Group, Ardagh Metal Packaging, Invesco S&P 500 Equal Weight ETF 및 NVIDIA Corporation이 포함된 CNBC의 'Final Trades'에서 나온 주식 추천을 요약합니다. UnitedHealth의 강력한 2분기 결과를 강조하고 지침을 높였습니다. Ardagh"
+    },
+    {
+      "id": "av_e8c3f143f0a3f7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Market Selling As Houthis Open A New Front; Google AI Cash Burn; Tesla Humanoid Spending",
+      "summary": "The article discusses current market conditions influenced by Houthi attacks, Google's significant AI cash burn, and Tesla's increased spending on AI and humanoid robots. It highlights negative money flows in major tech stocks and ETFs like SPY and QQQ, alongside rising oil price",
+      "url": "https://www.benzinga.com/Opinion/26/07/60646424/market-selling-as-houthis-open-a-new-front-google-ai-cash-burn-tesla-humanoid-spending",
+      "source": "Benzinga",
+      "published_at": "2026-07-23T16:07:52+00:00",
+      "sentiment": -0.228765,
+      "change_pct": -1.56,
+      "title_kr": "Houthis가 새로운 전선을 열면서 시장 판매; 구글 AI 캐시 소각; Tesla 휴머노이드 지출",
+      "summary_kr": "이 기사에서는 Houthi 공격, Google의 상당한 AI 현금 소모, Tesla의 AI 및 휴머노이드 로봇에 대한 지출 증가로 인해 영향을 받은 현재 시장 상황에 대해 설명합니다. 이는 SPY 및 QQQ와 같은 주요 기술주 및 ETF의 부정적인 자금 흐름을 강조합니다."
     },
     {
       "id": "av_363287bc98edc0",
@@ -625,25 +596,55 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-kbc-group-nv-buys-7114-shares-of-lumentum-holdings-inc-lite-2026-07-23/",
       "source": "MarketBeat",
       "published_at": "2026-07-23T09:41:13+00:00",
-      "sentiment": 0.355768,
+      "sentiment": 0.371823,
       "change_pct": -1.56,
       "title_kr": "KBC 그룹 NV, Lumentum Holdings Inc. $LITE의 주식 7,114주 매입",
       "summary_kr": "KBC 그룹 NV는 1분기에 Lumentum Holdings Inc.의 지분을 342.8% 크게 늘려 7,114주를 추가하여 646만 달러 상당의 총 9,189주를 소유했습니다. 이번 투자는 EPS를 기록한 Lumentum의 강력한 분기별 실적에 따른 것입니다."
     },
     {
-      "id": "av_0e1a90ef5e95cd",
+      "id": "av_0fc5a4ab5a49be",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Why Arista Networks Stock Rocketed 30% Higher in the First Half of 2026 and Why There's Likely More to Come",
-      "summary": "Arista Networks (NYSE: ANET) saw its stock surge by nearly 30% in the first half of 2026, significantly outperforming the S&P 500, due to strong demand for its networking hardware driven by the proliferation of AI. The company delivered impressive Q4 2025 and Q1 2026 results, rep",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ANET/pressreleases/3419696/why-arista-networks-stock-rocketed-30-higher-in-the-first-half-of-2026-and-why-theres-likely-more-to-come/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-23T07:23:11+00:00",
-      "sentiment": 0.367682,
+      "title": "Texas Instruments Inc Stock (TXN) Moved Down by 3.38% on Jul 23: Drivers Behind the Movement",
+      "summary": "Texas Instruments Inc (TXN) stock declined by 3.38% on July 23, driven primarily by a cautious outlook for industrial and automotive sector recoveries and high capital expenditures impacting free cash flow. Analysts have revised price targets downwards due to margin compression a",
+      "url": "https://www.tradingkey.com/news/market-movers/262050471-market-movers-txn-20260723",
+      "source": "TradingKey",
+      "published_at": "2026-07-23T16:15:00+00:00",
+      "sentiment": -0.204267,
       "change_pct": -1.56,
-      "title_kr": "Arista Networks 주가가 2026년 상반기에 30% 상승한 이유와 앞으로 더 많은 주가가 상승할 가능성이 있는 이유",
-      "summary_kr": "Arista Networks(NYSE: ANET)는 AI 확산으로 인해 네트워킹 하드웨어에 대한 수요가 높아짐에 따라 2026년 상반기에 주가가 거의 30% 급등하여 S&P 500을 크게 능가했습니다. 회사는 인상적인 2025년 4분기를 달성했으며"
+      "title_kr": "7월 23일 Texas Instruments Inc 주식(TXN)이 3.38% 하락했습니다: 이 움직임의 원동력",
+      "summary_kr": "텍사스 인스트루먼트(TXN) 주가는 7월 23일 3.38% 하락했는데, 이는 주로 산업 및 자동차 부문 회복에 대한 신중한 전망과 잉여현금흐름에 영향을 미치는 높은 자본 지출에 기인합니다. 애널리스트들은 목표 주가를 하향 조정했다."
+    },
+    {
+      "id": "av_269ff99cd5e064",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Does Your ETF Portfolio Reflect Your Goals? A Look at the SPDR Global Stock Market ETF vs. the Climate Paris Aligned ETF.",
+      "summary": "This article compares two ETFs from State Street: the SPDR Global Stock Market ETF (SPGM) and the Climate Paris Aligned ETF (NZAC). SPGM offers broad, low-cost global equity exposure with nearly 3,000 holdings, while NZAC provides specialized, ESG-screened global exposure focused",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/23/does-your-etf-portfolio-reflect-your-goals-a-look-at-the-spdr-global-stock-market-etf-vs-the-climate-paris-aligned-etf/",
+      "source": "The Motley Fool",
+      "published_at": "2026-07-23T11:34:20+00:00",
+      "sentiment": 0.307069,
+      "change_pct": -1.56,
+      "title_kr": "귀하의 ETF 포트폴리오가 귀하의 목표를 반영합니까? SPDR Global Stock Market ETF와 Climate Paris Aligned ETF를 살펴보세요.",
+      "summary_kr": "이 기사에서는 State Street의 두 ETF인 SPDR Global Stock Market ETF(SPGM)와 Climate Paris Aligned ETF(NZAC)를 비교합니다. SPGM은 약 3,000개 보유 종목으로 광범위하고 저렴한 글로벌 주식 노출을 제공하는 반면, NZAC는 전문화된 ESG 심사 글로를 제공합니다."
+    },
+    {
+      "id": "av_bf90ef2d5b224a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Semiconductor ETFs Surge Ahead of Intel Earnings",
+      "summary": "Semiconductor ETFs have seen significant surges this year, with some gaining over 25%, driven by demand for AI server chips. Intel's second-quarter earnings report is highly anticipated, as its stock has climbed but faces recent valuation concerns and a slowdown in its consumer c",
+      "url": "https://etfdb.com/equity-etf-content-hub/as-intel-earnings-loom-semiconductor-etfs-surge/",
+      "source": "ETF Database",
+      "published_at": "2026-07-23T19:40:55+00:00",
+      "sentiment": 0.101945,
+      "change_pct": -1.56,
+      "title_kr": "인텔 실적보다 반도체 ETF 급등",
+      "summary_kr": "올해 반도체 ETF는 AI 서버 칩 수요에 힘입어 25% 이상 상승하는 등 크게 급증했습니다. Intel의 2분기 수익 보고서는 주가가 상승했지만 최근 가치 평가에 대한 우려와 둔화에 직면해 있어 매우 기대됩니다."
     },
     {
       "id": "av_33ad39f79936be",
@@ -655,55 +656,10 @@
       "url": "https://247wallst.com/activity-cards/api/feed/more?limit=12&pitches=1&cursor=1784815759000%3A01KY7NKSJEP6KH60VQ1ZBCWMK4",
       "source": "24/7 Wall St.",
       "published_at": "2026-07-23T16:18:32+00:00",
-      "sentiment": 0.141027,
+      "sentiment": 0.149675,
       "change_pct": -1.56,
       "title_kr": "반디타 자데자(Vandita Jadeja) - 연중무휴 월 스트리트",
       "summary_kr": "Bank of America는 AMD에 대한 입장을 업데이트하여 AMD의 중요한 수익 보고서를 앞두고 투자자의 관점에 영향을 미쳤습니다. 이 기사는 AMD의 강세와 약세 사례를 모두 조명하고 S&P 500, Dow Jones 및 Nasdaq 성과를 포함한 최신 시장 업데이트를 제공합니다."
-    },
-    {
-      "id": "av_6d49db16f242f7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple Fails to Get All AI Voice Training Suits Under Same Judge",
-      "summary": "Apple Inc. was denied its request to consolidate eight related lawsuits under a single judge. These lawsuits accuse major tech companies, including Apple, Nvidia, Microsoft, Amazon, and Meta, of violating biometric privacy laws by using individuals' voices to train AI without con",
-      "url": "https://news.bloomberglaw.com/litigation/apple-fails-to-get-all-ai-voice-training-suits-under-same-judge",
-      "source": "Bloomberg Law News",
-      "published_at": "2026-07-23T15:36:58+00:00",
-      "sentiment": 0.146561,
-      "change_pct": -1.56,
-      "title_kr": "Apple, 동일한 판사에게 모든 AI 음성 트레이닝 슈트 제공 실패",
-      "summary_kr": "Apple Inc.는 8건의 관련 소송을 단일 판사로 통합해 달라는 요청을 거부당했습니다. 이러한 소송은 Apple, Nvidia, Microsoft, Amazon 및 Meta를 포함한 주요 기술 회사가 개인의 목소리를 사용하여 생체 인식 개인 정보 보호법을 위반했다고 비난합니다."
-    },
-    {
-      "id": "av_5b6fe9be169323",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
-      "summary": "Dell Technologies (DELL) saw a significant stock increase of 9.32% due to robust demand for AI servers powered by Nvidia chips, a trend further supported by Super Micro Computer's (SMCI) record backlog. The company reported a substantial revenue jump for Q1 FY26, with AI orders c",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T02:38:24+00:00",
-      "sentiment": 0.457544,
-      "change_pct": -1.56,
-      "title_kr": "Dell Technologies(DELL)는 Nvidia 기반 AI 서버에 대한 수요 급증으로 9.3% 증가했습니다.",
-      "summary_kr": "Dell Technologies(DELL)는 Nvidia 칩으로 구동되는 AI 서버에 대한 강력한 수요로 인해 9.32%의 상당한 주가 상승을 보였으며, 이러한 추세는 Super Micro Computer(SMCI)의 기록 백로그에 의해 더욱 뒷받침되었습니다. 회사는 회계연도 1분기에 상당한 매출 증가를 보고했습니다."
-    },
-    {
-      "id": "av_8b0b0cc846c177",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "10,239 Shares in Ciena Corporation $CIEN Acquired by Andra AP fonden",
-      "summary": "Andra AP fonden acquired a new stake in Ciena Corporation, purchasing 10,239 shares valued at approximately $3.98 million during the first quarter. This comes as institutional ownership in Ciena remains high at 91.99%, with several other hedge funds also increasing their position",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-10239-shares-in-ciena-corporation-cien-acquired-by-andra-ap-fonden-2026-07-23/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-23T07:12:18+00:00",
-      "sentiment": 0.340723,
-      "change_pct": -1.56,
-      "title_kr": "Ciena Corporation의 주식 10,239개 $CIEN Andra AP 폰덴이 인수",
-      "summary_kr": "Andra AP Fonten은 1분기 동안 약 398만 달러 상당의 주식 10,239주를 매입하여 Ciena Corporation의 새로운 지분을 인수했습니다. 이는 Ciena의 기관 소유권이 91.99%로 여전히 높은 수준을 유지하고 있으며 다른 여러 헤지 펀드도 증가하고 있기 때문입니다."
     },
     {
       "id": "av_224b711282d8d6",
@@ -715,23 +671,104 @@
       "url": "https://247wallst.com/investing/2026/07/23/will-american-express-or-verizon-come-out-as-an-earnings-winner/",
       "source": "24/7 Wall St.",
       "published_at": "2026-07-23T12:15:09+00:00",
-      "sentiment": 0.209445,
+      "sentiment": 0.249596,
       "change_pct": -1.56,
       "title_kr": "American Express나 Verizon이 수익 승자가 될까요?",
       "summary_kr": "American Express(AXP)와 Verizon Communications(VZ)는 모두 7월 24일에 2026년 2분기 실적을 보고할 예정입니다. Verizon은 더 강력한 분석가 합의, 긍정적인 연간 실적,"
     },
     {
-      "id": "av_a13a63b859bcd5",
+      "id": "av_0e1a90ef5e95cd",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Benchmark raises AMD stock price target on cloud infrastructure wins",
-      "summary": "Benchmark has increased its price target for Advanced Micro Devices Inc. (AMD) to $685 from $485, maintaining a Buy rating, due to recent cloud infrastructure advancements. These include Microsoft expanding its Azure roadmap with AMD Helios and Anthropic committing to 2 gigawatts",
-      "url": "https://www.investing.com/news/analyst-ratings/benchmark-raises-amd-stock-price-target-on-cloud-infrastructure-wins-93CH-4809379",
-      "source": "Investing.com",
-      "published_at": "2026-07-23T15:07:03+00:00",
-      "sentiment": -0.120657,
-      "change_pct": -1.56
+      "title": "Why Arista Networks Stock Rocketed 30% Higher in the First Half of 2026 and Why There's Likely More to Come",
+      "summary": "Arista Networks (NYSE: ANET) saw its stock surge by nearly 30% in the first half of 2026, significantly outperforming the S&P 500, due to strong demand for its networking hardware driven by the proliferation of AI. The company delivered impressive Q4 2025 and Q1 2026 results, rep",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ANET/pressreleases/3419696/why-arista-networks-stock-rocketed-30-higher-in-the-first-half-of-2026-and-why-theres-likely-more-to-come/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-23T07:23:11+00:00",
+      "sentiment": 0.364495,
+      "change_pct": -1.56,
+      "title_kr": "Arista Networks 주가가 2026년 상반기에 30% 상승한 이유와 앞으로 더 많은 주가가 상승할 가능성이 있는 이유",
+      "summary_kr": "Arista Networks(NYSE: ANET)는 AI 확산으로 인해 네트워킹 하드웨어에 대한 수요가 높아짐에 따라 2026년 상반기에 주가가 거의 30% 급등하여 S&P 500을 크게 능가했습니다. 회사는 인상적인 2025년 4분기를 달성했으며"
+    },
+    {
+      "id": "av_5b6fe9be169323",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Dell Technologies (DELL) Climbs 9.3% on Booming Demand for Nvidia-Powered AI Servers",
+      "summary": "Dell Technologies (DELL) saw a significant stock increase of 9.32% due to robust demand for AI servers powered by Nvidia chips, a trend further supported by Super Micro Computer's (SMCI) record backlog. The company reported a substantial revenue jump for Q1 FY26, with AI orders c",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dell-technologies-dell-climbs-9-022911228.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T02:38:24+00:00",
+      "sentiment": 0.479821,
+      "change_pct": -1.56,
+      "title_kr": "Dell Technologies(DELL)는 Nvidia 기반 AI 서버에 대한 수요 급증으로 9.3% 증가했습니다.",
+      "summary_kr": "Dell Technologies(DELL)는 Nvidia 칩으로 구동되는 AI 서버에 대한 강력한 수요로 인해 9.32%의 상당한 주가 상승을 보였으며, 이러한 추세는 Super Micro Computer(SMCI)의 기록 백로그에 의해 더욱 뒷받침되었습니다. 회사는 회계연도 1분기에 상당한 매출 증가를 보고했습니다."
+    },
+    {
+      "id": "av_a61d3e65b4876f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NOK Stock Rises Overnight: Retail Bulls Charged After SMCI's Backlog Surge, Call Nokia 'Pillar Of Infrastructure' Ahead Of Earnings",
+      "summary": "Nokia's stock rose nearly 3% overnight, driven by retail investor optimism following Super Micro Computer's record AI infrastructure backlog. Investors believe Nokia, with its expanding AI-driven networking offerings and partnerships, is well-positioned to benefit from the growin",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-rises-overnight-retail-bulls-charged-after-smci-s-backlog-surge-call-nokia-pillar-of-infrastructure-ahead-of-earnings/cZZmGS6R7w5",
+      "source": "Stocktwits",
+      "published_at": "2026-07-23T07:40:36+00:00",
+      "sentiment": 0.339477,
+      "change_pct": -1.56,
+      "title_kr": "NOK 주가 밤새 상승: SMCI의 백로그 급증 이후 소매 강세론자들이 수익보다 노키아를 '인프라 기둥'이라고 부르다",
+      "summary_kr": "노키아의 주가는 슈퍼 마이크로 컴퓨터(Super Micro Computer)의 기록적인 AI 인프라 백로그에 따른 소매 투자자들의 낙관론에 힘입어 하룻밤 사이에 거의 3% 상승했습니다. 투자자들은 AI 기반 네트워킹 제품과 파트너십을 확대하는 Nokia가 벤에게 좋은 위치에 있다고 믿습니다."
+    },
+    {
+      "id": "f_d8483ef8072f2e",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
+      "summary": "The regular session of the US market on Thursday is now over, but let's get a preview of the after-hours session and explore the top S&P500 gainers and losers driving the post-market movements.",
+      "url": "https://finnhub.io/api/news?id=d32847d0307152ac4528851d0189d27c3f79291e50e1560ca3d49c3033173e86",
+      "source": "ChartMill",
+      "published_at": "2026-07-23T21:05:01+00:00",
+      "change_pct": -2.29
+    },
+    {
+      "id": "f_f8dee07ce03516",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "general",
+      "title": "These stocks are moving in today's after hours session",
+      "summary": "Wondering what's happening in today's after-hours session? Stay tuned for the latest updates on stock movements.",
+      "url": "https://finnhub.io/api/news?id=f4a879721c30ed886a85a5dfccbfce11ec49ee457dab1a67675cf451f5ae6f97",
+      "source": "ChartMill",
+      "published_at": "2026-07-23T21:00:00+00:00"
+    },
+    {
+      "id": "av_dc01a40120600a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "STMicroelectronics reports Q2 revenue growth",
+      "summary": "STMicroelectronics has announced stronger-than-expected Q2 2026 results, surpassing revenue guidance due to recovering demand across several end markets. The company reported a 26% year-on-year revenue increase to $3.49 billion and raised its revenue ambitions for AI datacenter a",
+      "url": "https://www.eenewseurope.com/en/stmicroelectronics-reports-q2-revenue-growth/",
+      "source": "eeNews Europe",
+      "published_at": "2026-07-23T10:10:39+00:00",
+      "sentiment": 0.265722,
+      "change_pct": -1.56,
+      "title_kr": "STMicroelectronics, 2분기 매출 성장 발표",
+      "summary_kr": "STMicroelectronics가 예상보다 강한 2026년 2분기 실적을 발표했습니다. 이는 여러 최종 시장의 수요 회복으로 매출 지침을 뛰어넘었습니다. 회사는 전년 대비 26% 증가한 34억 9천만 달러의 매출을 기록했으며 매출 목표를 높였습니다."
+    },
+    {
+      "id": "f_159cb67975c0d3",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "general",
+      "title": "Intel (NASDAQ:INTC) Shatters Q2 Estimates on AI-Driven Record Growth, Shares Surge",
+      "summary": "Intel smashed Q2 estimates with $0.42 EPS and $16.1B revenue, fueled by surging AI demand. Shares jumped 12% after-hours on record data center growth and a strong Q3 outlook.",
+      "url": "https://finnhub.io/api/news?id=63288fb87710a82cce25ea66cbb8ed8a6d563af94997327bbd4792b6730e60fb",
+      "source": "ChartMill",
+      "published_at": "2026-07-23T20:42:41+00:00"
     },
     {
       "id": "f_d0da670a91bfaa",
@@ -746,6 +783,19 @@
       "change_pct": -2.24
     },
     {
+      "id": "av_a13a63b859bcd5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Benchmark raises AMD stock price target on cloud infrastructure wins",
+      "summary": "Benchmark has increased its price target for Advanced Micro Devices Inc. (AMD) to $685 from $485, maintaining a Buy rating, due to recent cloud infrastructure advancements. These include Microsoft expanding its Azure roadmap with AMD Helios and Anthropic committing to 2 gigawatts",
+      "url": "https://www.investing.com/news/analyst-ratings/benchmark-raises-amd-stock-price-target-on-cloud-infrastructure-wins-93CH-4809379",
+      "source": "Investing.com",
+      "published_at": "2026-07-23T15:07:03+00:00",
+      "sentiment": -0.11803,
+      "change_pct": -1.56
+    },
+    {
       "id": "f_364d2dc32f7844",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -756,21 +806,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T19:47:22+00:00",
       "change_pct": -14.52
-    },
-    {
-      "id": "av_a61d3e65b4876f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NOK Stock Rises Overnight: Retail Bulls Charged After SMCI's Backlog Surge, Call Nokia 'Pillar Of Infrastructure' Ahead Of Earnings",
-      "summary": "Nokia's stock rose nearly 3% overnight, driven by retail investor optimism following Super Micro Computer's record AI infrastructure backlog. Investors believe Nokia, with its expanding AI-driven networking offerings and partnerships, is well-positioned to benefit from the growin",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nok-stock-rises-overnight-retail-bulls-charged-after-smci-s-backlog-surge-call-nokia-pillar-of-infrastructure-ahead-of-earnings/cZZmGS6R7w5",
-      "source": "Stocktwits",
-      "published_at": "2026-07-23T07:40:36+00:00",
-      "sentiment": 0.301877,
-      "change_pct": -1.56,
-      "title_kr": "NOK 주가 밤새 상승: SMCI의 백로그 급증 이후 소매 강세론자들이 수익보다 노키아를 '인프라 기둥'이라고 부르다",
-      "summary_kr": "노키아의 주가는 슈퍼 마이크로 컴퓨터(Super Micro Computer)의 기록적인 AI 인프라 백로그에 따른 소매 투자자들의 낙관론에 힘입어 하룻밤 사이에 거의 3% 상승했습니다. 투자자들은 AI 기반 네트워킹 제품과 파트너십을 확대하는 Nokia가 벤에게 좋은 위치에 있다고 믿습니다."
     },
     {
       "id": "f_8c41b308579870",
@@ -818,6 +853,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T19:41:00+00:00",
       "change_pct": -1.56
+    },
+    {
+      "id": "av_6d49db16f242f7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple Fails to Get All AI Voice Training Suits Under Same Judge",
+      "summary": "Apple Inc. was denied its request to consolidate eight related lawsuits under a single judge. These lawsuits accuse major tech companies, including Apple, Nvidia, Microsoft, Amazon, and Meta, of violating biometric privacy laws by using individuals' voices to train AI without con",
+      "url": "https://news.bloomberglaw.com/litigation/apple-fails-to-get-all-ai-voice-training-suits-under-same-judge",
+      "source": "Bloomberg Law News",
+      "published_at": "2026-07-23T15:36:58+00:00",
+      "sentiment": 0.101532,
+      "change_pct": -1.56,
+      "title_kr": "Apple, 동일한 판사에게 모든 AI 음성 트레이닝 슈트 제공 실패",
+      "summary_kr": "Apple Inc.는 8건의 관련 소송을 단일 판사로 통합해 달라는 요청을 거부당했습니다. 이러한 소송은 Apple, Nvidia, Microsoft, Amazon 및 Meta를 포함한 주요 기술 회사가 개인의 목소리를 사용하여 생체 인식 개인 정보 보호법을 위반했다고 비난합니다."
     },
     {
       "id": "f_af827a25cf4b86",
@@ -882,6 +932,21 @@
       "change_pct": -14.52
     },
     {
+      "id": "av_2fa2274daab062",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Is Deeper Arm Tie-Up And AI Chip Wins Altering The Investment Case For Arteris (AIP)?",
+      "summary": "Arteris has expanded its partnership with Arm and secured a win with Speedata, integrating its Cycuity Radix security technology into Arm's CPU programs and its FlexNoC interconnect into Speedata’s AI processor. These developments strengthen Arteris's position in advanced process",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-aip/arteris/news/is-deeper-arm-tie-up-and-ai-chip-wins-altering-the-investmen",
+      "source": "Simply Wall Street",
+      "published_at": "2026-07-23T10:40:58+00:00",
+      "sentiment": 0.219348,
+      "change_pct": -1.56,
+      "title_kr": "Deeper Arm 제휴와 AI 칩 승리로 Arteris(AIP)의 투자 사례가 바뀌나요?",
+      "summary_kr": "Arteris는 Arm과의 파트너십을 확대하고 Cycuity Radix 보안 기술을 Arm의 CPU 프로그램에 통합하고 FlexNoC 상호 연결을 Speedata의 AI 프로세서에 통합하여 Speedata와의 승리를 확보했습니다. 이러한 발전으로 Arteris의 입지가 강화되었습니다."
+    },
+    {
       "id": "f_6bf0a79602c0d5",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -942,19 +1007,19 @@
       "change_pct": -1.56
     },
     {
-      "id": "av_dc01a40120600a",
+      "id": "av_8b0b0cc846c177",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "STMicroelectronics reports Q2 revenue growth",
-      "summary": "STMicroelectronics has announced stronger-than-expected Q2 2026 results, surpassing revenue guidance due to recovering demand across several end markets. The company reported a 26% year-on-year revenue increase to $3.49 billion and raised its revenue ambitions for AI datacenter a",
-      "url": "https://www.eenewseurope.com/en/stmicroelectronics-reports-q2-revenue-growth/",
-      "source": "eeNews Europe",
-      "published_at": "2026-07-23T10:10:39+00:00",
-      "sentiment": 0.227345,
+      "title": "10,239 Shares in Ciena Corporation $CIEN Acquired by Andra AP fonden",
+      "summary": "Andra AP fonden acquired a new stake in Ciena Corporation, purchasing 10,239 shares valued at approximately $3.98 million during the first quarter. This comes as institutional ownership in Ciena remains high at 91.99%, with several other hedge funds also increasing their position",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-10239-shares-in-ciena-corporation-cien-acquired-by-andra-ap-fonden-2026-07-23/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-23T07:12:18+00:00",
+      "sentiment": 0.301117,
       "change_pct": -1.56,
-      "title_kr": "STMicroelectronics, 2분기 매출 성장 발표",
-      "summary_kr": "STMicroelectronics가 예상보다 강한 2026년 2분기 실적을 발표했습니다. 이는 여러 최종 시장의 수요 회복으로 매출 지침을 뛰어넘었습니다. 회사는 전년 대비 26% 증가한 34억 9천만 달러의 매출을 기록했으며 매출 목표를 높였습니다."
+      "title_kr": "Ciena Corporation의 주식 10,239개 $CIEN Andra AP 폰덴이 인수",
+      "summary_kr": "Andra AP Fonten은 1분기 동안 약 398만 달러 상당의 주식 10,239주를 매입하여 Ciena Corporation의 새로운 지분을 인수했습니다. 이는 Ciena의 기관 소유권이 91.99%로 여전히 높은 수준을 유지하고 있으며 다른 여러 헤지 펀드도 증가하고 있기 때문입니다."
     },
     {
       "id": "f_130bf33bc984c7",
@@ -991,21 +1056,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T19:08:31+00:00",
       "change_pct": -7.13
-    },
-    {
-      "id": "av_2fa2274daab062",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Is Deeper Arm Tie-Up And AI Chip Wins Altering The Investment Case For Arteris (AIP)?",
-      "summary": "Arteris has expanded its partnership with Arm and secured a win with Speedata, integrating its Cycuity Radix security technology into Arm's CPU programs and its FlexNoC interconnect into Speedata’s AI processor. These developments strengthen Arteris's position in advanced process",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-aip/arteris/news/is-deeper-arm-tie-up-and-ai-chip-wins-altering-the-investmen",
-      "source": "Simply Wall Street",
-      "published_at": "2026-07-23T10:40:58+00:00",
-      "sentiment": 0.210044,
-      "change_pct": -1.56,
-      "title_kr": "Deeper Arm 제휴와 AI 칩 승리로 Arteris(AIP)의 투자 사례가 바뀌나요?",
-      "summary_kr": "Arteris는 Arm과의 파트너십을 확대하고 Cycuity Radix 보안 기술을 Arm의 CPU 프로그램에 통합하고 FlexNoC 상호 연결을 Speedata의 AI 프로세서에 통합하여 Speedata와의 승리를 확보했습니다. 이러한 발전으로 Arteris의 입지가 강화되었습니다."
     },
     {
       "id": "f_d5394a1bc8c39c",
@@ -1140,19 +1190,6 @@
       "change_pct": -7.13
     },
     {
-      "id": "av_d2c1b95a46e264",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "CORSAIR pairs real-time biomolecular physics with racing sims",
-      "summary": "CORSAIR is participating in AMD Advancing AI 2026 to demonstrate how its PRO systems, powered by AMD, deliver real-world AI performance. This includes a workstation configured for professional AI development, running biomolecular simulations, and high-performance racing simulator",
-      "url": "https://www.stocktitan.net/news/CRSR/corsair-collaborates-with-amd-to-showcase-ai-compute-at-amd-28nkt3sii7nn.html",
-      "source": "Stock Titan",
-      "published_at": "2026-07-23T12:40:20+00:00",
-      "sentiment": 0.148121,
-      "change_pct": -1.56
-    },
-    {
       "id": "f_1d3e28c4c832c6",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1211,6 +1248,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T18:32:41+00:00",
       "change_pct": -2.29
+    },
+    {
+      "id": "av_d2c1b95a46e264",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "CORSAIR pairs real-time biomolecular physics with racing sims",
+      "summary": "CORSAIR is participating in AMD Advancing AI 2026 to demonstrate how its PRO systems, powered by AMD, deliver real-world AI performance. This includes a workstation configured for professional AI development, running biomolecular simulations, and high-performance racing simulator",
+      "url": "https://www.stocktitan.net/news/CRSR/corsair-collaborates-with-amd-to-showcase-ai-compute-at-amd-28nkt3sii7nn.html",
+      "source": "Stock Titan",
+      "published_at": "2026-07-23T12:40:20+00:00",
+      "sentiment": 0.14619,
+      "change_pct": -1.56
     },
     {
       "id": "f_fea840c31b60fa",
@@ -1430,6 +1480,21 @@
       "published_at": "2026-07-23T18:03:00+00:00"
     },
     {
+      "id": "av_e83296c30ed09c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Qualcomm’s AI Story Is Hot. Why Is First Solar’s Future Clearer?",
+      "summary": "This article compares Qualcomm (QCOM) and First Solar (FSLR) as semiconductor exposure options, arguing that First Solar presents a more compelling future due to its locked-in demand and superior financial metrics. While Qualcomm has an exciting AI narrative, First Solar boasts c",
+      "url": "https://www.trefis.com/stock/qcom/articles/608554/qualcomms-ai-story-is-hot-why-is-first-solars-future-clearer/2026-07-23",
+      "source": "Trefis",
+      "published_at": "2026-07-23T12:34:44+00:00",
+      "sentiment": -0.136529,
+      "change_pct": -1.56,
+      "title_kr": "Qualcomm의 AI 스토리는 뜨겁습니다. First Solar의 미래가 더 명확한 이유는 무엇입니까?",
+      "summary_kr": "이 기사에서는 Qualcomm(QCOM)과 First Solar(FSLR)를 반도체 노출 옵션으로 비교하면서 First Solar가 고정된 수요와 우수한 재무 지표로 인해 더욱 매력적인 미래를 제시한다고 주장합니다. Qualcomm은 흥미로운 AI 이야기를 가지고 있지만,"
+    },
+    {
       "id": "f_0125323a2cd757",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1464,21 +1529,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T17:52:38+00:00",
       "change_pct": -2.24
-    },
-    {
-      "id": "av_e83296c30ed09c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Qualcomm’s AI Story Is Hot. Why Is First Solar’s Future Clearer?",
-      "summary": "This article compares Qualcomm (QCOM) and First Solar (FSLR) as semiconductor exposure options, arguing that First Solar presents a more compelling future due to its locked-in demand and superior financial metrics. While Qualcomm has an exciting AI narrative, First Solar boasts c",
-      "url": "https://www.trefis.com/stock/qcom/articles/608554/qualcomms-ai-story-is-hot-why-is-first-solars-future-clearer/2026-07-23",
-      "source": "Trefis",
-      "published_at": "2026-07-23T12:34:44+00:00",
-      "sentiment": -0.130505,
-      "change_pct": -1.56,
-      "title_kr": "Qualcomm의 AI 스토리는 뜨겁습니다. First Solar의 미래가 더 명확한 이유는 무엇입니까?",
-      "summary_kr": "이 기사에서는 Qualcomm(QCOM)과 First Solar(FSLR)를 반도체 노출 옵션으로 비교하면서 First Solar가 고정된 수요와 우수한 재무 지표로 인해 더욱 매력적인 미래를 제시한다고 주장합니다. Qualcomm은 흥미로운 AI 이야기를 가지고 있지만,"
     },
     {
       "id": "f_d22b247de177ae",
@@ -1526,6 +1576,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T17:38:19+00:00",
       "change_pct": -14.52
+    },
+    {
+      "id": "av_77a70fd149b007",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "American Public Education provides education to approximately 109,000 students",
+      "summary": "American Public Education, Inc. (NASDAQ: APEI) has scheduled its second-quarter 2026 earnings conference call for Monday, August 10, 2026, at 5:00 PM ET to discuss financial results for the quarter ended June 30, 2026. The company provides postsecondary education to approximately",
+      "url": "https://www.stocktitan.net/news/APEI/american-public-education-inc-schedules-second-quarter-2026-earnings-4awzv8d6mve7.html",
+      "source": "Stock Titan",
+      "published_at": "2026-07-23T11:40:16+00:00",
+      "sentiment": 0.148114,
+      "change_pct": -1.56
     },
     {
       "id": "f_49815c2a673cab",
@@ -1608,6 +1671,18 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T17:12:08+00:00",
       "change_pct": -4.57
+    },
+    {
+      "id": "f_7c7e54bfa48a9e",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "My Call For An AI Top May Have Been Premature And Somewhat Incomplete",
+      "summary": "AI infrastructure demand is strong as GPU rentals and DRAM prices rise. Read more macro analysis here.",
+      "url": "https://finnhub.io/api/news?id=eed3b5a59985dc2883a2fd20a198b91cd0a90e545c65decbdf1f5e306a72cfba",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-23T17:12:00+00:00",
+      "change_pct": -1.56
     },
     {
       "id": "f_8bad70497aadff",
@@ -1701,19 +1776,6 @@
       "url": "https://finnhub.io/api/news?id=f1105419ea2cce2b5a6cb54decd122c53e9d0ace4639f27ae593095757e18631",
       "source": "Yahoo",
       "published_at": "2026-07-23T17:00:17+00:00"
-    },
-    {
-      "id": "av_77a70fd149b007",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "American Public Education provides education to approximately 109,000 students",
-      "summary": "American Public Education, Inc. (NASDAQ: APEI) has scheduled its second-quarter 2026 earnings conference call for Monday, August 10, 2026, at 5:00 PM ET to discuss financial results for the quarter ended June 30, 2026. The company provides postsecondary education to approximately",
-      "url": "https://www.stocktitan.net/news/APEI/american-public-education-inc-schedules-second-quarter-2026-earnings-4awzv8d6mve7.html",
-      "source": "Stock Titan",
-      "published_at": "2026-07-23T11:40:16+00:00",
-      "sentiment": 0.133139,
-      "change_pct": -1.56
     },
     {
       "id": "f_cba93327ce3c1f",
@@ -1838,14 +1900,14 @@
     {
       "id": "f_2bd18ec09f4ac7",
       "provider": "finnhub",
-      "ticker": "AMZN",
+      "ticker": "GOOGL",
       "category": "general",
       "title": "Big Tech's Free Cash Flow Is Turning Negative - Who's Next?",
       "summary": "Most of Big Tech is tapping capital markets to fortify their balance sheets, leading to huge debt increases. Click for a look at what the biggest players are doing.",
       "url": "https://finnhub.io/api/news?id=adf5fd35162ea84ece377a4cd152701c723917830d7e103a811e1b4820224640",
       "source": "SeekingAlpha",
       "published_at": "2026-07-23T16:20:31+00:00",
-      "change_pct": -4.57
+      "change_pct": -7.13
     },
     {
       "id": "f_c9b3be7c89d267",
@@ -1869,21 +1931,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T16:16:18+00:00",
       "change_pct": -4.57
-    },
-    {
-      "id": "av_c6f6a536b49876",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AMD set to unveil next generation AI hardware to challenge Nvidia",
-      "summary": "AMD is preparing to launch new AI hardware, including its Helios server racks and Venice CPU, to compete with Nvidia in the data center chip market, particularly for inference computing. The company recently announced a deal to sell its Instinct MI450 chips to AI lab Anthropic, a",
-      "url": "https://www.theglobeandmail.com/business/article-amd-set-to-unveil-next-generation-ai-hardware-to-challenge-nvidia/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-23T11:08:26+00:00",
-      "sentiment": -0.127591,
-      "change_pct": -1.56,
-      "title_kr": "AMD, 엔비디아에 도전할 차세대 AI 하드웨어 공개 예정",
-      "summary_kr": "AMD는 데이터 센터 칩 시장, 특히 추론 컴퓨팅 분야에서 Nvidia와 경쟁하기 위해 Helios 서버 랙 및 Venice CPU를 포함한 새로운 AI 하드웨어 출시를 준비하고 있습니다. 이 회사는 최근 Instinct MI450 칩을 다음과 같이 판매하는 계약을 발표했습니다."
     },
     {
       "id": "f_ce4df6638994e8",
@@ -1934,21 +1981,6 @@
       "change_pct": -14.52
     },
     {
-      "id": "av_0d07f37d4a15d2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Dell Stock Rallies As AI Server Boom Fuels Aggressive Targets",
-      "summary": "Dell Technologies (DELL) stock is experiencing a significant rally due to explosive demand for AI servers and a substantial AI backlog. The company reported $16.1 billion in AI-optimized server revenue and a total revenue jump of 88% in Q1 FY2027, leading top Wall Street firms to",
-      "url": "https://stockstotrade.com/news/dell-technologies-inc-class-c-dell-news-2026_07_22-2/",
-      "source": "StocksToTrade",
-      "published_at": "2026-07-22T20:03:10+00:00",
-      "sentiment": 0.521761,
-      "change_pct": -1.56,
-      "title_kr": "AI 서버 붐이 공격적인 목표를 촉진함에 따라 Dell 주가 상승",
-      "summary_kr": "델 테크놀로지스(DELL) 주식은 AI 서버에 대한 폭발적인 수요와 상당한 AI 백로그로 인해 상당한 상승세를 보이고 있습니다. 이 회사는 2027 회계연도 1분기에 AI 최적화 서버 매출 161억 달러, 총 매출 88% 증가를 기록하며 1위를 기록했습니다."
-    },
-    {
       "id": "f_bd88e8db34f727",
       "provider": "finnhub",
       "ticker": "AVGO",
@@ -1995,6 +2027,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T15:53:03+00:00",
       "change_pct": -14.52
+    },
+    {
+      "id": "av_c6f6a536b49876",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AMD set to unveil next generation AI hardware to challenge Nvidia",
+      "summary": "AMD is preparing to launch new AI hardware, including its Helios server racks and Venice CPU, to compete with Nvidia in the data center chip market, particularly for inference computing. The company recently announced a deal to sell its Instinct MI450 chips to AI lab Anthropic, a",
+      "url": "https://www.theglobeandmail.com/business/article-amd-set-to-unveil-next-generation-ai-hardware-to-challenge-nvidia/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-23T11:08:26+00:00",
+      "sentiment": -0.117657,
+      "change_pct": -1.56,
+      "title_kr": "AMD, 엔비디아에 도전할 차세대 AI 하드웨어 공개 예정",
+      "summary_kr": "AMD는 데이터 센터 칩 시장, 특히 추론 컴퓨팅 분야에서 Nvidia와 경쟁하기 위해 Helios 서버 랙 및 Venice CPU를 포함한 새로운 AI 하드웨어 출시를 준비하고 있습니다. 이 회사는 최근 Instinct MI450 칩을 다음과 같이 판매하는 계약을 발표했습니다."
     },
     {
       "id": "f_f5aa622630dce2",
@@ -2378,19 +2425,6 @@
       "change_pct": -2.29
     },
     {
-      "id": "av_e1a90aaccfcf08",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "T. Rowe Price Has Increased Its Dividend for 40 Consecutive Years and Yields 4.4%. Is the Payout a Bargain or a Value Trap?",
-      "summary": "T. Rowe Price, a mutual fund manager, boasts a 40-year streak of dividend growth and a 4.4% yield, but its stock has stagnated since mid-2022 due to investor focus on AI stocks. The article argues that while the stock appears cheap, it's not a value trap, as the company has conti",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/t-rowe-price-increased-dividend-085000381.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T09:09:22+00:00",
-      "sentiment": 0.149311,
-      "change_pct": -1.56
-    },
-    {
       "id": "f_d52eef519f95f3",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -2497,44 +2531,10 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T15:00:00+00:00",
       "change_pct": -2.24
-    },
-    {
-      "id": "f_5c478a5d2492bb",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "general",
-      "title": "OpenSearchCon North America 2026 to Showcase Five Years of Innovation Powering Enterprise Search, Observability and Analytics",
-      "summary": "The OpenSearch Software Foundation, the neutral home for the OpenSearch Project, today announced the schedule for OpenSearchCon North America (NA) 2026, which takes place in San Jose, California from September 22-24. The event will bring together developers, architects, and enterprise leaders to explore how OpenSearch is powering the next generation of AI, search, observability and analytics at enterprise scale.",
-      "url": "https://finnhub.io/api/news?id=6827364237b8a04e6e9dd84623a8b28f70587df3e1269b42d32cb8243d83dfac",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T15:00:00+00:00"
-    },
-    {
-      "id": "f_aaa5a2049779e4",
-      "provider": "finnhub",
-      "ticker": "RKLB",
-      "category": "general",
-      "title": "RKLB vs. LUNR: Which Emerging Space Stock Is the Better Pick Today?",
-      "summary": "Rocket Lab and Intuitive Machines expand launch, spacecraft and lunar mission capabilities as growing space investments create new long-term opportunities.",
-      "url": "https://finnhub.io/api/news?id=422fc7eafb70c4abef46f27a3fe15faa6fcef78c82f9b51f0d1d0b6d2895ec27",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T14:54:00+00:00"
-    },
-    {
-      "id": "f_ec3dbc7684edb7",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "Super Micro Launches H15 Server Portfolio Powered By AMD 6th Gen EPYC CPUs For AI, Cloud And High-Performance Computing Workloads",
-      "summary": "33% more cores, 2X PCIe Bandwidth and 2.6X higher memory bandwidth supercharge high-performance workloadsPowered by 6 th Gen AMD EPYC CPUs and AMD Instinct™ GPUs, comprehensive rack-scale systems, built on DCBBS",
-      "url": "https://finnhub.io/api/news?id=de38c62fa01bee1d6e5b23efa5c91378692abfee9691133e0b4a0e8882b665be",
-      "source": "Benzinga",
-      "published_at": "2026-07-23T14:51:45+00:00",
-      "change_pct": -2.29
     }
   ],
-  "fetched_at": "2026-07-23T20:41:42.867528+00:00",
+  "fetched_at": "2026-07-23T21:40:56.069103+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-23T20:41:44.837767+00:00",
+  "translated_at": "2026-07-23T21:40:58.312787+00:00",
   "translation_engine": "google-parallel"
 }
