@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-22T23:34:28.934047+00:00",
+  "fetched_at": "2026-07-23T01:05:56.916610+00:00",
   "us_mood_score": 60,
-  "kr_mood_score": 50,
+  "kr_mood_score": 100,
   "us_mood": "neutral",
-  "kr_mood": "neutral",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "NVDA",
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.66,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 5.74,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 212.06,
-      "kr_price": 1830000.0
+      "kr_price": 1935000.0
     },
     {
       "us_ticker": "AVGO",
@@ -60,10 +60,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.2,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 3.93,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 212.06,
-      "kr_price": 260500.0
+      "kr_price": 270750.0
     },
     {
       "us_ticker": "AVGO",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.12,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 5.74,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 396.81,
-      "kr_price": 1830000.0
+      "kr_price": 1935000.0
     },
     {
       "us_ticker": "AMD",
@@ -96,10 +96,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.98,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 6.91,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 627.17,
-      "kr_price": 196900.0
+      "kr_price": 210500.0
     },
     {
       "us_ticker": "MRVL",
@@ -120,10 +120,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.88,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.65,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 374.01,
-      "kr_price": 321000.0
+      "kr_price": 329500.0
     },
     {
       "us_ticker": "MRVL",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 0.84,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 5.74,
       "reason": "MI355X용 HBM 공급",
       "us_price": 552.33,
-      "kr_price": 1830000.0
+      "kr_price": 1935000.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.81,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.0,
       "reason": "NCA 양극재 공급",
       "us_price": 374.01,
-      "kr_price": 107500.0
+      "kr_price": 111800.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.66,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 5.74,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 210.99,
-      "kr_price": 1830000.0
+      "kr_price": 1935000.0
     },
     {
       "us_ticker": "MSTR",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.65,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 6.91,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 390.34,
-      "kr_price": 196900.0
+      "kr_price": 210500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 4.83,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.28,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 3.33,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.75,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 4.3,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.66,
       "lag_hours": 8
@@ -329,10 +329,10 @@
   "overnight_digest": [
     {
       "ticker": "TSLA",
-      "title": "Dow Jones Futures: Google, Tesla Fall On Earnings, But Strong Capex Lifts AI Stocks",
-      "title_kr": "다우존스 선물: Google, Tesla는 실적 하락, 그러나 강력한 Capex로 인해 AI 주식 상승",
+      "title": "S&P 500, Nasdaq close lower ahead of technology earnings",
+      "title_kr": "S&P 500, 나스닥은 기술 부문 실적에 앞서 하락 마감",
       "source": "Yahoo",
-      "published_at": "2026-07-22T21:46:07+00:00",
+      "published_at": "2026-07-22T23:17:36+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
@@ -341,10 +341,10 @@
     },
     {
       "ticker": "GOOGL",
-      "title": "Google Earnings, Revenue Top Views As Cloud Growth Accelerates. Search Results In-Line.",
-      "title_kr": "클라우드 성장이 가속화됨에 따라 Google 수익, 수익 상위 뷰. 검색 결과 인라인.",
+      "title": "S&P 500 Stock Rockets Late On Earnings As Google Boosts Capex",
+      "title_kr": "Google이 Capex를 늘리면서 S&P 500 주식 로켓이 수익을 늦게 올렸습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-22T21:37:42+00:00",
+      "published_at": "2026-07-22T22:45:23+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -352,15 +352,15 @@
       ]
     },
     {
-      "ticker": "PLTR",
-      "title": "After a Tough Day, ServiceNow Reports Solid Earnings",
-      "title_kr": "힘든 하루를 보낸 후 ServiceNow는 견고한 수익을 보고했습니다.",
+      "ticker": "NVDA",
+      "title": "Intel's Foundry Just Landed Its First Named Outside Customer Under Lip-Bu Tan. The Stock Jumped More Than 8% -- 2 Days Before Earnings.",
+      "title_kr": "인텔의 파운드리는 방금 Lip-Bu Tan 아래 처음으로 외부 고객을 지명했습니다. 주가는 수익 창출 2일 전 8% 이상 급등했습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-22T21:26:00+00:00",
+      "published_at": "2026-07-22T22:12:00+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "한화에어로스페이스",
-        "LIG넥스원"
+        "SK하이닉스",
+        "한미반도체"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 65974.09,
-      "change_pct": -0.7,
+      "price": 66157.74,
+      "change_pct": -0.69,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +2.3% → 한미반도체 개장 상방 압력 예상 (+1.9% 전후). US 무드 60/100, KR 무드 50/100."
+  "summary": "미국 NVDA +2.3% → 한미반도체 개장 상방 압력 예상 (+1.9% 전후). US 무드 60/100, KR 무드 100/100."
 }
