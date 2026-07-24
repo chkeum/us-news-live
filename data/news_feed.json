@@ -28,19 +28,6 @@
       "summary_kr": "오마하의 오라클은 인내심을 갖지 못했고 그에 대한 대가를 치렀습니다."
     },
     {
-      "id": "f_ac377db340f075",
-      "provider": "finnhub",
-      "ticker": "INTC",
-      "category": "earnings",
-      "title": "Intel shares rise after AI-driven revenue beats expectations and outlook improves",
-      "summary": "Intel (NASDAQ:INTC) shares climbed more than 4% in premarket trading on Friday after the semiconductor company posted its fastest quarterly revenue growth in over 15 years and issued stronger guidance for the current quarter, highlighting continued momentum from artificial intelligence investment. The latest results exceeded Wall Street forecasts and reinforced investor confidence that Intel’s turnaround strategy is gaining traction under Chief Executive Lip-Bu Tan.",
-      "url": "https://finnhub.io/api/news?id=766582cdb32fa9394892b70ed9567f31c74af70fa2cb644f4a5c211d67efa7ee",
-      "source": "Yahoo",
-      "published_at": "2026-07-24T10:33:30+00:00",
-      "title_kr": "AI 기반 매출이 기대치를 상회하고 전망이 개선된 후 인텔 주가 상승",
-      "summary_kr": "Intel(NASDAQ:INTC) 반도체 회사가 15년 만에 가장 빠른 분기별 매출 성장을 기록하고 이번 분기에 대한 더 강력한 지침을 발표한 후 금요일 시판 전 거래에서 주가가 4% 이상 상승하여 지속적인 모멘텀을 강조했습니다."
-    },
-    {
       "id": "f_f517f64d963ef3",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -479,18 +466,18 @@
       "summary_kr": "2026년 7월 23일 오늘, 분석가들은 마진 압박과 자율 주행 주의가 EV 리더를 압박함에 따라 가격 목표를 낮췄습니다."
     },
     {
-      "id": "f_df6cd9c457301b",
+      "id": "f_2a48e50de39bf4",
       "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Ladder Capital Corp Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Ladder Capital Corp's Q2 2026 earnings call",
-      "url": "https://finnhub.io/api/news?id=b2a12fc5bf767344e350c68c1a481875ca7c4f03f3c704d5287458bd35d6ff45",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T21:18:43+00:00",
-      "change_pct": -1.56,
-      "title_kr": "Ladder Capital Corp 2026년 2분기 실적 요약",
-      "summary_kr": "Ladder Capital Corp의 2026년 2분기 실적 발표에 대한 Moby 요약"
+      "ticker": "GOOGL",
+      "category": "analyst",
+      "title": "Alphabet: A Decade Of EU Litigation, Cleared For 2 Weeks Of CapEx (Rating Upgrade)",
+      "summary": "Alphabet has shown it can adapt Search fast enough to stay at the pace of change dictated by AI. Check out why GOOGL stock is a buy.",
+      "url": "https://finnhub.io/api/news?id=359ba81fc686c7af855d0fc39444e0ffa89eae813f1441ab643c039251f0d2db",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-24T08:45:00+00:00",
+      "change_pct": -7.13,
+      "title_kr": "알파벳: 10년 간의 EU 소송, 2주간의 CapEx 완료(등급 업그레이드)",
+      "summary_kr": "Alphabet은 AI가 지시하는 변화의 속도에 맞춰 검색을 빠르게 조정할 수 있음을 보여주었습니다. GOOGL 주식이 매수인 이유를 확인해 보세요."
     },
     {
       "id": "f_408e46caca411b",
@@ -530,7 +517,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-acquired-by-uptick-partners-llc-2026-07-24/",
       "source": "MarketBeat",
       "published_at": "2026-07-24T08:54:29+00:00",
-      "sentiment": 0.509402,
+      "sentiment": 0.511073,
       "change_pct": -1.56,
       "title_kr": "Uptick Partners LLC가 NVIDIA Corporation $NVDA 주식을 인수했습니다.",
       "summary_kr": "Uptick Partners LLC는 1분기에 NVIDIA Corporation의 지분을 16.2% 늘렸고, 추가로 3,034주를 인수하여 총 보유 주식 수는 약 379만 달러에 달하는 21,731주가 되었습니다. 이러한 움직임은 지속적인 제도적 노력을 반영합니다."
@@ -573,10 +560,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/vertiv-nysevrt-rating-increased-to-strong-buy-at-keycorp-2026-07-24/",
       "source": "MarketBeat",
       "published_at": "2026-07-24T11:39:12+00:00",
-      "sentiment": 0.310838,
+      "sentiment": 0.325899,
       "change_pct": -1.56,
       "title_kr": "KeyCorp에서 Vertiv(NYSE:VRT) 등급을 적극 매수로 상향 조정",
       "summary_kr": "KeyCorp는 Vertiv(NYSE:VRT)를 \"적극 매수\" 등급으로 업그레이드하여 전반적으로 긍정적인 분석가 전망에 기여했습니다. Vertiv의 1분기 수익은 AI와 관련된 강력한 수요에 힘입어 전년 동기 대비 30.1%의 매출 증가에 힘입어 예상을 뛰어넘었습니다."
+    },
+    {
+      "id": "av_a85a1dae37f777",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel shares rise after AI-driven revenue beats expectations and outlook improves",
+      "summary": "Intel's shares rose over 4% in premarket trading after the company reported its fastest quarterly revenue growth in over 15 years, driven by AI investments, and issued a stronger outlook for the current quarter. The semiconductor giant exceeded Wall Street expectations for both e",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-shares-rise-ai-driven-103330505.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T10:37:56+00:00",
+      "sentiment": 0.349674,
+      "change_pct": -1.56,
+      "title_kr": "AI 기반 매출이 기대치를 상회하고 전망이 개선된 후 인텔 주가 상승",
+      "summary_kr": "Intel(NASDAQ:INTC) 반도체 회사가 15년 만에 가장 빠른 분기별 매출 성장을 기록하고 이번 분기에 대한 더 강력한 지침을 발표한 후 금요일 시판 전 거래에서 주가가 4% 이상 상승하여 지속적인 모멘텀을 강조했습니다."
     },
     {
       "id": "av_e8445a54686cf6",
@@ -588,25 +590,10 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-liberty-one-investment-management-llc-grows-position-in-texas-instruments-incorporated-txn-2026-07-24/",
       "source": "MarketBeat",
       "published_at": "2026-07-24T10:38:57+00:00",
-      "sentiment": 0.317307,
+      "sentiment": 0.312429,
       "change_pct": -1.56,
       "title_kr": "Liberty One Investment Management LLC, Texas Instruments Incorporated $TXN에서 입지 확대",
       "summary_kr": "Liberty One Investment Management LLC는 1분기에 Texas Instruments Incorporated의 지분을 33.7% 증가시켜 현재 542만 달러 상당의 27,912주를 보유하고 있습니다. 이는 Texas Instruments가 애널리스트 추정치를 뛰어넘는 강력한 2분기 실적을 발표한 이후에 나온 것입니다."
-    },
-    {
-      "id": "av_ff12967e24b1e9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "8,861 Shares in Nova Ltd. $NVMI Purchased by ABN Amro Investment Solutions",
-      "summary": "ABN Amro Investment Solutions recently acquired 8,861 shares of Nova Ltd. (NASDAQ:NVMI) for approximately $3.85 million during the first quarter. Institutional investors now hold 82.99% of Nova's stock, with several other hedge funds also adjusting their positions. The company ha",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-8861-shares-in-nova-ltd-nvmi-purchased-by-abn-amro-investment-solutions-2026-07-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-24T07:11:24+00:00",
-      "sentiment": 0.307986,
-      "change_pct": -1.56,
-      "title_kr": "Nova Ltd.의 주식 8,861주 $NVMI가 ABN Amro Investment Solutions에 인수됨",
-      "summary_kr": "ABN Amro Investment Solutions는 최근 1분기 동안 Nova Ltd.(NASDAQ:NVMI)의 주식 8,861주를 약 385만 달러에 인수했습니다. 기관 투자자는 현재 Nova 주식의 82.99%를 보유하고 있으며 다른 여러 헤지 펀드도 입장을 조정하고 있습니다."
     },
     {
       "id": "av_6ee953d5490823",
@@ -618,40 +605,25 @@
       "url": "https://www.tradingkey.com/markets/stocks/lrcx",
       "source": "TradingKey",
       "published_at": "2026-07-24T08:13:31+00:00",
-      "sentiment": 0.270273,
+      "sentiment": 0.283695,
       "change_pct": -1.56,
       "title_kr": "LRCX|램리서치|가격:319.530|Chg%:+0.240",
       "summary_kr": "이 기사에서는 Lam Research Corp(LRCX)에 대한 심층적인 재무 개요를 제공하며 강력한 기본 원칙, 높은 성장 잠재력 및 현재 가치 평가를 강조합니다. 최근 시장 변동에도 불구하고 회사는 높은 기관 소유권과"
     },
     {
-      "id": "av_904249d2cbe797",
+      "id": "av_ff12967e24b1e9",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nokia Oyj (HEL:NOKIA) slides as €2.8 billion AI orders outrun near-term sales",
-      "summary": "Nokia's shares fell 3.4% despite beating profit estimates, as investors focused on the disconnect between substantial AI and cloud orders (€2.8 billion) and lower related quarterly sales (€446 million). While management anticipates about half of these orders will convert to reven",
-      "url": "https://ts2.tech/en/nokia-oyj-helnokia-slides-as-e2-8-billion-ai-orders-outrun-near-term-sales/",
-      "source": "TechStock²",
-      "published_at": "2026-07-24T09:11:30+00:00",
-      "sentiment": 0.238587,
+      "title": "8,861 Shares in Nova Ltd. $NVMI Purchased by ABN Amro Investment Solutions",
+      "summary": "ABN Amro Investment Solutions recently acquired 8,861 shares of Nova Ltd. (NASDAQ:NVMI) for approximately $3.85 million during the first quarter. Institutional investors now hold 82.99% of Nova's stock, with several other hedge funds also adjusting their positions. The company ha",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-8861-shares-in-nova-ltd-nvmi-purchased-by-abn-amro-investment-solutions-2026-07-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-24T07:11:24+00:00",
+      "sentiment": 0.302254,
       "change_pct": -1.56,
-      "title_kr": "Nokia Oyj (HEL:NOKIA), 28억 유로의 AI 주문이 단기 매출을 앞지르면서 하락",
-      "summary_kr": "투자자들이 상당한 AI 및 클라우드 주문(28억 유로)과 관련 분기 매출 감소(4억 4600만 유로) 사이의 불일치에 초점을 맞추면서 노키아의 주가는 수익 추정치를 상회했음에도 불구하고 3.4% 하락했습니다. 경영진은 이러한 주문의 약 절반을 예상하고 있습니다."
-    },
-    {
-      "id": "av_5e936fee7e5e1d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
-      "summary": "NVIDIA and KAIST have launched a joint AI research laboratory in Seoul to advance agentic AI models, specifically for South Korea's industries, language, and future. This collaboration involves significant compute contributions, annual funding for KAIST researchers with NVIDIA in",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-07-23T22:38:18+00:00",
-      "sentiment": 0.86258,
-      "change_pct": -1.56,
-      "title_kr": "NVIDIA와 KAIST, 한국의 AI 혁신 가속화를 위해 공동 AI 연구소 설립",
-      "summary_kr": "NVIDIA와 KAIST는 특히 한국의 산업, 언어 및 미래를 위한 에이전트 AI 모델을 발전시키기 위해 서울에 공동 AI 연구소를 설립했습니다. 이 협력에는 상당한 컴퓨팅 기여와 KAIST 연구를 위한 연간 자금 지원이 포함됩니다."
+      "title_kr": "Nova Ltd.의 주식 8,861주 $NVMI가 ABN Amro Investment Solutions에 인수됨",
+      "summary_kr": "ABN Amro Investment Solutions는 최근 1분기 동안 Nova Ltd.(NASDAQ:NVMI)의 주식 8,861주를 약 385만 달러에 인수했습니다. 기관 투자자는 현재 Nova 주식의 82.99%를 보유하고 있으며 다른 여러 헤지 펀드도 입장을 조정하고 있습니다."
     },
     {
       "id": "av_9808b37b70878c",
@@ -663,40 +635,55 @@
       "url": "https://simplywall.st/stocks/us/tech/nyse-tel/te-connectivity/news/what-te-connectivity-tels-record-orders-and-raised-outlook-m/amp",
       "source": "Simply Wall Street",
       "published_at": "2026-07-24T04:56:11+00:00",
-      "sentiment": 0.327796,
+      "sentiment": 0.348214,
       "change_pct": -1.56,
       "title_kr": "TE Connectivity(TEL)의 기록적인 주문과 전망 상승이 주주들에게 미치는 영향",
       "summary_kr": "TE Connectivity(TEL)는 매출이 미화 51억 6천만 달러로 증가하고 순이익이 미화 7억 4,800만 달러로 증가하는 2026년 3분기 실적을 발표했습니다. 미화 57억 달러에 달하는 회사의 기록적인 주문과 14억 달러 규모의 Astrodyne TDI의 지원으로 연간 전망이 높아졌습니다."
     },
     {
-      "id": "av_eac3cf0ca5173f",
+      "id": "av_5e936fee7e5e1d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Amkor inks $1.5B deal with Nvidia to expand Arizona chip packaging capacity",
-      "summary": "Nvidia has entered into a multiyear strategic agreement with Amkor, providing a $1.5 billion prepayment to support Amkor's expansion of U.S. advanced chip packaging capacity. This deal is part of Amkor's ongoing $7 billion project in the Peoria Innovation Core, aiming to boost se",
-      "url": "https://www.bizjournals.com/phoenix/news/2026/07/23/nvidia-amkor-chip-packaging-agreement.html",
-      "source": "The Business Journals",
-      "published_at": "2026-07-24T04:10:19+00:00",
-      "sentiment": 0.340669,
+      "title": "NVIDIA and KAIST Launch Joint AI Research Lab to Accelerate AI Innovation in Korea",
+      "summary": "NVIDIA and KAIST have launched a joint AI research laboratory in Seoul to advance agentic AI models, specifically for South Korea's industries, language, and future. This collaboration involves significant compute contributions, annual funding for KAIST researchers with NVIDIA in",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-kaist-launch-joint-ai-research-lab-to-accelerate-ai-innovation-in-korea",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-07-23T22:38:18+00:00",
+      "sentiment": 0.879947,
       "change_pct": -1.56,
-      "title_kr": "앰코, 애리조나 칩 패키징 용량 확장을 위해 Nvidia와 15억 달러 규모 계약 체결",
-      "summary_kr": "Nvidia는 Amkor의 미국 고급 칩 패키징 역량 확장을 지원하기 위해 15억 달러의 선불금을 제공하는 다년간의 전략적 계약을 Amkor와 체결했습니다. 이번 거래는 Peoria Innovation Core에서 진행 중인 앰코의 70억 달러 규모 프로젝트의 일환입니다."
+      "title_kr": "NVIDIA와 KAIST, 한국의 AI 혁신 가속화를 위해 공동 AI 연구소 설립",
+      "summary_kr": "NVIDIA와 KAIST는 특히 한국의 산업, 언어 및 미래를 위한 에이전트 AI 모델을 발전시키기 위해 서울에 공동 AI 연구소를 설립했습니다. 이 협력에는 상당한 컴퓨팅 기여와 KAIST 연구를 위한 연간 자금 지원이 포함됩니다."
     },
     {
-      "id": "av_df7ac38b307a52",
+      "id": "av_904249d2cbe797",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia Partnership Gets Amkor Technology (AMKR) Stock Trending: Here's What You Should Know",
-      "summary": "Amkor Technology (AMKR) shares rose 12.20% after hours due to a new multi-year partnership with Nvidia (NVDA). This agreement involves Nvidia prepaying to expand Amkor's U.S. advanced packaging capacity in Arizona and aligning on long-term roadmaps for AI and accelerated computin",
-      "url": "https://www.benzinga.com/markets/equities/26/07/60659435/amkor-stock-nvidia-partnership-what-to-know",
-      "source": "Benzinga",
-      "published_at": "2026-07-24T03:42:19+00:00",
-      "sentiment": 0.327858,
+      "title": "Nokia Oyj (HEL:NOKIA) slides as €2.8 billion AI orders outrun near-term sales",
+      "summary": "Nokia's shares fell 3.4% despite beating profit estimates, as investors focused on the disconnect between substantial AI and cloud orders (€2.8 billion) and lower related quarterly sales (€446 million). While management anticipates about half of these orders will convert to reven",
+      "url": "https://ts2.tech/en/nokia-oyj-helnokia-slides-as-e2-8-billion-ai-orders-outrun-near-term-sales/",
+      "source": "TechStock²",
+      "published_at": "2026-07-24T09:11:30+00:00",
+      "sentiment": 0.214465,
       "change_pct": -1.56,
-      "title_kr": "Nvidia 파트너십으로 Amkor Technology(AMKR) 주식 동향 확보: 알아야 할 사항은 다음과 같습니다.",
-      "summary_kr": "Amkor Technology(AMKR) 주가는 Nvidia(NVDA)와의 새로운 다년간의 파트너십으로 인해 시간 외 12.20% 상승했습니다. 이번 계약에는 Nvidia가 애리조나주에서 Amkor의 미국 고급 패키징 용량을 확장하기 위해 선불로 비용을 지불하고 AI 및 AI에 대한 장기 로드맵을 조정하는 내용이 포함되어 있습니다."
+      "title_kr": "Nokia Oyj (HEL:NOKIA), 28억 유로의 AI 주문이 단기 매출을 앞지르면서 하락",
+      "summary_kr": "투자자들이 상당한 AI 및 클라우드 주문(28억 유로)과 관련 분기 매출 감소(4억 4600만 유로) 사이의 불일치에 초점을 맞추면서 노키아의 주가는 수익 추정치를 상회했음에도 불구하고 3.4% 하락했습니다. 경영진은 이러한 주문의 약 절반을 예상하고 있습니다."
+    },
+    {
+      "id": "av_44caf0d00887b0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "PCGG ETF Profile: Dividends, Returns (BOATS:PCGG)",
+      "summary": "This article provides a detailed profile of the Polen Capital Global Growth ETF (PCGG), an actively managed fund aiming for long-term capital growth by investing in 25-40 large-capitalization companies. Key details include its investment strategy focusing on high-quality firms wi",
+      "url": "https://www.tradingview.com/symbols/BOATS-PCGG/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-24T03:40:32+00:00",
+      "sentiment": 0.342139,
+      "change_pct": -1.56,
+      "title_kr": "PCGG ETF 프로필: 배당금, 수익(BOATS:PCGG)",
+      "summary_kr": "이 기사에서는 25~40개의 대규모 자본 회사에 투자하여 장기적인 자본 성장을 목표로 하는 적극적으로 관리되는 펀드인 PCGG(Polen Capital Global Growth ETF)에 대한 자세한 프로필을 제공합니다. 주요 내용에는 h에 초점을 맞춘 투자 전략이 포함됩니다."
     },
     {
       "id": "av_c67c665402d392",
@@ -708,7 +695,65 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-andra-ap-fonden-invests-178-million-in-flex-ltd-flex-2026-07-24/",
       "source": "MarketBeat",
       "published_at": "2026-07-24T07:57:05+00:00",
-      "sentiment": 0.217178,
+      "sentiment": 0.234657,
+      "change_pct": -1.56,
+      "title_kr": "Andra AP 폰덴, Flex Ltd. $FLEX에 178만 달러 투자",
+      "summary_kr": "Andra AP 폰덴은 1분기 동안 약 178만 달러 상당의 Flex Ltd.(NASDAQ:FLEX) 주식 27,224주의 새로운 지분을 인수했습니다. 이 투자는 다른 주요 투자자들이 지분을 늘리는 등 보다 광범위한 기관 관심의 일부입니다."
+    },
+    {
+      "id": "av_eac3cf0ca5173f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amkor inks $1.5B deal with Nvidia to expand Arizona chip packaging capacity",
+      "summary": "Nvidia has entered into a multiyear strategic agreement with Amkor, providing a $1.5 billion prepayment to support Amkor's expansion of U.S. advanced chip packaging capacity. This deal is part of Amkor's ongoing $7 billion project in the Peoria Innovation Core, aiming to boost se",
+      "url": "https://www.bizjournals.com/phoenix/news/2026/07/23/nvidia-amkor-chip-packaging-agreement.html",
+      "source": "The Business Journals",
+      "published_at": "2026-07-24T04:10:19+00:00",
+      "sentiment": 0.304285,
+      "change_pct": -1.56,
+      "title_kr": "앰코, 애리조나 칩 패키징 용량 확장을 위해 Nvidia와 15억 달러 규모 계약 체결",
+      "summary_kr": "Nvidia는 Amkor의 미국 고급 칩 패키징 역량 확장을 지원하기 위해 15억 달러의 선불금을 제공하는 다년간의 전략적 계약을 Amkor와 체결했습니다. 이번 거래는 Peoria Innovation Core에서 진행 중인 앰코의 70억 달러 규모 프로젝트의 일환입니다."
+    },
+    {
+      "id": "av_374a1c1234d142",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "What's Going on With Netflix Stock?",
+      "summary": "This article discusses Netflix's recent struggles with investor sentiment, which turned negative last year. It highlights that The Motley Fool Stock Advisor analyst team did not include Netflix in their top 10 stock picks, suggesting better opportunities exist elsewhere, such as ",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/3440883/whats-going-on-with-netflix-stock/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-24T05:26:36+00:00",
+      "sentiment": 0.267948,
+      "change_pct": -1.56
+    },
+    {
+      "id": "av_df7ac38b307a52",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia Partnership Gets Amkor Technology (AMKR) Stock Trending: Here's What You Should Know",
+      "summary": "Amkor Technology (AMKR) shares rose 12.20% after hours due to a new multi-year partnership with Nvidia (NVDA). This agreement involves Nvidia prepaying to expand Amkor's U.S. advanced packaging capacity in Arizona and aligning on long-term roadmaps for AI and accelerated computin",
+      "url": "https://www.benzinga.com/markets/equities/26/07/60659435/amkor-stock-nvidia-partnership-what-to-know",
+      "source": "Benzinga",
+      "published_at": "2026-07-24T03:42:19+00:00",
+      "sentiment": 0.305916,
+      "change_pct": -1.56,
+      "title_kr": "Nvidia 파트너십으로 Amkor Technology(AMKR) 주식 동향 확보: 알아야 할 사항은 다음과 같습니다.",
+      "summary_kr": "Amkor Technology(AMKR) 주가는 Nvidia(NVDA)와의 새로운 다년간의 파트너십으로 인해 시간 외 12.20% 상승했습니다. 이번 계약에는 Nvidia가 애리조나주에서 Amkor의 미국 고급 패키징 용량을 확장하기 위해 선불로 비용을 지불하고 AI 및 AI에 대한 장기 로드맵을 조정하는 내용이 포함되어 있습니다."
+    },
+    {
+      "id": "av_af2c45f0b51fb8",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "DUHP Dividend: 0.96% Yield, $0.38/Share — History & Dates",
+      "summary": "This article provides a detailed dividend history and current statistics for Dimensional US High Profitability ETF (DUHP). It highlights DUHP's dividend yield of 0.96% ($0.38 per share annually), a payout ratio of 0.29, and a 5-year dividend growth rate of 13.05%. The ETF has bee",
+      "url": "https://www.gurufocus.com/etf/DUHP/dividend",
+      "source": "GuruFocus",
+      "published_at": "2026-07-24T02:40:08+00:00",
+      "sentiment": 0.320899,
       "change_pct": -1.56
     },
     {
@@ -721,46 +766,7 @@
       "url": "https://247wallst.com/investing/2026/07/24/how-safe-is-cvs-healths-dividend/",
       "source": "24/7 Wall St.",
       "published_at": "2026-07-24T11:15:34+00:00",
-      "sentiment": -0.126639,
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_374a1c1234d142",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "What's Going on With Netflix Stock?",
-      "summary": "This article discusses Netflix's recent struggles with investor sentiment, which turned negative last year. It highlights that The Motley Fool Stock Advisor analyst team did not include Netflix in their top 10 stock picks, suggesting better opportunities exist elsewhere, such as ",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/3440883/whats-going-on-with-netflix-stock/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-24T05:26:36+00:00",
-      "sentiment": 0.270786,
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_af2c45f0b51fb8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "DUHP Dividend: 0.96% Yield, $0.38/Share — History & Dates",
-      "summary": "This article provides a detailed dividend history and current statistics for Dimensional US High Profitability ETF (DUHP). It highlights DUHP's dividend yield of 0.96% ($0.38 per share annually), a payout ratio of 0.29, and a 5-year dividend growth rate of 13.05%. The ETF has bee",
-      "url": "https://www.gurufocus.com/etf/DUHP/dividend",
-      "source": "GuruFocus",
-      "published_at": "2026-07-24T02:40:08+00:00",
-      "sentiment": 0.332147,
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_713ee39c27c7c5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Swiss National Bank Purchases 57,500 Shares of IonQ, Inc. $IONQ",
-      "summary": "The Swiss National Bank increased its stake in IonQ, Inc. by 7.1% during the first quarter, purchasing an additional 57,500 shares and bringing its total holdings to 866,648 shares valued at $24.985 million. Other institutional investors also modified their holdings, but insiders",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-purchases-57500-shares-of-ionq-inc-ionq-2026-07-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-24T08:59:37+00:00",
-      "sentiment": 0.129737,
+      "sentiment": -0.105226,
       "change_pct": -1.56
     },
     {
@@ -773,23 +779,64 @@
       "url": "https://seekingalpha.com/news/4617822-amkor-technology-nvidia-sign-multi-year-deal-to-boost-us-ai-chip-packaging",
       "source": "Seeking Alpha",
       "published_at": "2026-07-23T21:31:00+00:00",
-      "sentiment": 0.407056,
+      "sentiment": 0.437638,
       "change_pct": -1.56
     },
     {
-      "id": "av_ab4998cecede93",
+      "id": "av_713ee39c27c7c5",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Marvell Technology vs. Nvidia: What Do the Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
-      "summary": "This article compares the revenue trends of Marvell Technology and Nvidia, highlighting Nvidia's significantly stronger upward trajectory and larger absolute gains. While both companies show consistent quarter-over-quarter revenue increases due to the growth of the AI sector, Nvi",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MRVL/pressreleases/3434797/marvell-technology-vs-nvidia-what-do-the-revenue-trends-of-these-artificial-intelligence-companies-tell-investors/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-23T19:40:48+00:00",
-      "sentiment": 0.413961,
+      "title": "Swiss National Bank Purchases 57,500 Shares of IonQ, Inc. $IONQ",
+      "summary": "The Swiss National Bank increased its stake in IonQ, Inc. by 7.1% during the first quarter, purchasing an additional 57,500 shares and bringing its total holdings to 866,648 shares valued at $24.985 million. Other institutional investors also modified their holdings, but insiders",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-purchases-57500-shares-of-ionq-inc-ionq-2026-07-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-24T08:59:37+00:00",
+      "sentiment": 0.134508,
+      "change_pct": -1.56
+    },
+    {
+      "id": "f_524a0e3867e7f6",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "general",
+      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "summary": "As the US market prepares to open on Friday, let's get an early glimpse into the pre-market session and identify the S&P500 stocks leading the pack in terms of gains and losses.",
+      "url": "https://finnhub.io/api/news?id=ab72008a4b23c5002a67cdd879c5165c836f6ad4e946cb7eaf13fce827bc33f2",
+      "source": "ChartMill",
+      "published_at": "2026-07-24T12:35:00+00:00",
+      "title_kr": "이 S&P500 주식은 오늘의 시장 전 세션에서 움직이고 있습니다.",
+      "summary_kr": "2026년 7월 7일 S&P500 주식의 시판 전 주식 분석: 오늘 세션의 최고 상승자와 하락자."
+    },
+    {
+      "id": "av_a106c64d4276f9",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Pelican Acquisition II Prices $75M IPO Offering | PLCI Stock News",
+      "summary": "Pelican Acquisition II Corporation has priced its initial public offering of 7.5 million units at $10.00 per unit, aiming to raise $75 million. The units, which begin trading on Nasdaq under \"PLCIU\" on July 24, 2026, include one ordinary share and one right entitling the holder t",
+      "url": "https://www.stocktitan.net/news/PLCI/pelican-acquisition-ii-corporation-announces-pricing-of-75-000-000-yobxz3ks5juk.html",
+      "source": "Stock Titan",
+      "published_at": "2026-07-23T23:11:18+00:00",
+      "sentiment": 0.32778,
       "change_pct": -1.56,
-      "title_kr": "Marvell Technology vs. Nvidia: 인공 지능 회사의 수익 추세가 투자자에게 무엇을 말해주는가?",
-      "summary_kr": "Nvidia의 최근 분기는 816억 달러를 기록했고 Marvell은 24억 달러를 기록했습니다. 이는 8분기에 걸쳐 34배의 격차가 벌어진 것입니다."
+      "title_kr": "Pelican Acquisition II 가격 $75M IPO 제안 | PLCI 주식 뉴스",
+      "summary_kr": "Pelican Acquisition II Corporation은 750만 달러의 모금을 목표로 단위당 10.00달러에 750만 유닛의 초기 공모 가격을 책정했습니다. 2026년 7월 24일에 \"PLCIU\"로 나스닥에서 거래를 시작하는 단위에는 보통주 1주와 권리 1주가 포함됩니다."
+    },
+    {
+      "id": "av_060381181eceb1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel Benefits From a New Shift in A.I. Spending",
+      "summary": "Intel has reported its fastest revenue growth in 15 years, with a 25 percent increase in the latest quarter, driven by increasing purchases of central processing units by AI firms. The company's data center segment saw nearly 60 percent growth, pushing Intel's stock up significan",
+      "url": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
+      "source": "The New York Times",
+      "published_at": "2026-07-23T22:09:54+00:00",
+      "sentiment": 0.3456,
+      "change_pct": -1.56,
+      "title_kr": "인텔은 AI의 새로운 변화로 이점을 얻습니다. 지출",
+      "summary_kr": "인텔은 AI 기업의 중앙 처리 장치 구매 증가에 힘입어 최근 분기에 25% 증가하는 등 15년 만에 가장 빠른 매출 성장을 기록했다고 밝혔습니다. 회사의 데이터 센터 부문은 거의 60%의 성장을 보이며 Intel의 성장을 견인했습니다."
     },
     {
       "id": "f_1eb625a59e6d8e",
@@ -840,6 +887,21 @@
       "change_pct": -1.56
     },
     {
+      "id": "av_ab4998cecede93",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Marvell Technology vs. Nvidia: What Do the Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+      "summary": "This article compares the revenue trends of Marvell Technology and Nvidia, highlighting Nvidia's significantly stronger upward trajectory and larger absolute gains. While both companies show consistent quarter-over-quarter revenue increases due to the growth of the AI sector, Nvi",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MRVL/pressreleases/3434797/marvell-technology-vs-nvidia-what-do-the-revenue-trends-of-these-artificial-intelligence-companies-tell-investors/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-23T19:40:48+00:00",
+      "sentiment": 0.403199,
+      "change_pct": -1.56,
+      "title_kr": "Marvell Technology vs. Nvidia: 인공 지능 회사의 수익 추세가 투자자에게 무엇을 말해주는가?",
+      "summary_kr": "Nvidia의 최근 분기는 816억 달러를 기록했고 Marvell은 24억 달러를 기록했습니다. 이는 8분기에 걸쳐 34배의 격차가 벌어진 것입니다."
+    },
+    {
       "id": "f_dc6ab8cb3ef840",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -850,21 +912,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-24T11:41:00+00:00",
       "change_pct": -1.56
-    },
-    {
-      "id": "av_a106c64d4276f9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Pelican Acquisition II Prices $75M IPO Offering | PLCI Stock News",
-      "summary": "Pelican Acquisition II Corporation has priced its initial public offering of 7.5 million units at $10.00 per unit, aiming to raise $75 million. The units, which begin trading on Nasdaq under \"PLCIU\" on July 24, 2026, include one ordinary share and one right entitling the holder t",
-      "url": "https://www.stocktitan.net/news/PLCI/pelican-acquisition-ii-corporation-announces-pricing-of-75-000-000-yobxz3ks5juk.html",
-      "source": "Stock Titan",
-      "published_at": "2026-07-23T23:11:18+00:00",
-      "sentiment": 0.311159,
-      "change_pct": -1.56,
-      "title_kr": "Pelican Acquisition II 가격 $75M IPO 제안 | PLCI 주식 뉴스",
-      "summary_kr": "Pelican Acquisition II Corporation은 750만 달러의 모금을 목표로 단위당 10.00달러에 750만 유닛의 초기 공모 가격을 책정했습니다. 2026년 7월 24일에 \"PLCIU\"로 나스닥에서 거래를 시작하는 단위에는 보통주 1주와 권리 1주가 포함됩니다."
     },
     {
       "id": "f_51a583b91cce99",
@@ -915,19 +962,6 @@
       "change_pct": -14.52
     },
     {
-      "id": "av_8d1d5f73361489",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
-      "summary": "Amkor Technology announced a multi-year deal worth $1.5 billion with Nvidia to boost advanced semiconductor packaging and test capacity in the U.S., driven by the growing demand for AI infrastructure. Nvidia will provide prepayment for Amkor's operations expansion in Arizona, and",
-      "url": "https://wtvbam.com/2026/07/23/nvidia-amkor-strike-1-5-billion-chip-packaging-deal/",
-      "source": "WTVB",
-      "published_at": "2026-07-23T21:45:09+00:00",
-      "sentiment": 0.343419,
-      "change_pct": -1.56
-    },
-    {
       "id": "f_fcbad5fb6eb098",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -937,6 +971,19 @@
       "url": "https://finnhub.io/api/news?id=c0c1404cdbd56aca47b55001d57ea8518e9866b81699f633147c3c8c09041465",
       "source": "Yahoo",
       "published_at": "2026-07-24T11:08:00+00:00",
+      "change_pct": -1.56
+    },
+    {
+      "id": "av_19bc54afc18393",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia Signs $1.5 Billion Accord With Amkor for Chip Packaging",
+      "summary": "Nvidia Corp. has signed a $1.5 billion agreement with Amkor Technology Inc. to enhance its chip packaging capabilities, supporting the expansion of semiconductor operations in the US. The deal includes a prepayment from Nvidia, which will help Amkor boost its manufacturing facili",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging?srnd=homepage-americas",
+      "source": "Bloomberg",
+      "published_at": "2026-07-23T21:27:00+00:00",
+      "sentiment": 0.341257,
       "change_pct": -1.56
     },
     {
@@ -998,6 +1045,19 @@
       "published_at": "2026-07-24T11:00:00+00:00"
     },
     {
+      "id": "av_bd2d50ab9950dc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Performance Comparison: NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry -",
+      "summary": "This article analyzes NVIDIA's financial performance within the Semiconductors & Semiconductor Equipment industry by comparing it to key competitors. It highlights NVIDIA's strong financial position with a low debt-to-equity ratio and robust operational performance, evidenced by ",
+      "url": "https://www.benzinga.com/news/26/07/60661365/performance-comparison-nvidia-and-competitors-semiconductors-amp-semiconductor-equipment-industry",
+      "source": "Benzinga",
+      "published_at": "2026-07-24T10:08:55+00:00",
+      "sentiment": 0.021259,
+      "change_pct": -1.56
+    },
+    {
       "id": "av_9f8bbec084f3b0",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1007,20 +1067,7 @@
       "url": "https://simplywall.st/stocks/us/tech/nyse-cohr/coherent/news/coherent-cohr-is-up-131-after-ai-driven-q4-2026-guidance-top",
       "source": "Simply Wall Street",
       "published_at": "2026-07-23T22:40:08+00:00",
-      "sentiment": 0.306418,
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_65aa96b8cb23df",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Swiss National Bank Grows Stake in Gen Digital Inc. $GEN",
-      "summary": "The Swiss National Bank increased its stake in Gen Digital Inc. by 7.1% in the first quarter, acquiring an additional 101,500 shares, bringing its total holdings to over 1.5 million shares valued at approximately $29 million. Other institutional investors also adjusted their posi",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-grows-stake-in-gen-digital-inc-gen-2026-07-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-24T09:18:55+00:00",
-      "sentiment": 0.040081,
+      "sentiment": 0.30742,
       "change_pct": -1.56
     },
     {
@@ -1033,19 +1080,6 @@
       "url": "https://finnhub.io/api/news?id=b4105d9ced1eadf6ae216849b8dc3359f72b259bb7dc0c3532a7583d7a486827",
       "source": "Yahoo",
       "published_at": "2026-07-24T10:54:01+00:00",
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_bd2d50ab9950dc",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Performance Comparison: NVIDIA And Competitors In Semiconductors & Semiconductor Equipment Industry -",
-      "summary": "This article analyzes NVIDIA's financial performance within the Semiconductors & Semiconductor Equipment industry by comparing it to key competitors. It highlights NVIDIA's strong financial position with a low debt-to-equity ratio and robust operational performance, evidenced by ",
-      "url": "https://www.benzinga.com/news/26/07/60661365/performance-comparison-nvidia-and-competitors-semiconductors-amp-semiconductor-equipment-industry",
-      "source": "Benzinga",
-      "published_at": "2026-07-24T10:08:55+00:00",
-      "sentiment": 0.017834,
       "change_pct": -1.56
     },
     {
@@ -1073,6 +1107,19 @@
       "change_pct": -7.13
     },
     {
+      "id": "av_8d1d5f73361489",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
+      "summary": "Amkor Technology announced a multi-year deal worth $1.5 billion with Nvidia to boost advanced semiconductor packaging and test capacity in the U.S., driven by the growing demand for AI infrastructure. Nvidia will provide prepayment for Amkor's operations expansion in Arizona, and",
+      "url": "https://wtvbam.com/2026/07/23/nvidia-amkor-strike-1-5-billion-chip-packaging-deal/",
+      "source": "WTVB",
+      "published_at": "2026-07-23T21:45:09+00:00",
+      "sentiment": 0.326646,
+      "change_pct": -1.56
+    },
+    {
       "id": "f_2471f5806cbd13",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1083,19 +1130,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-24T10:46:01+00:00",
       "change_pct": -14.52
-    },
-    {
-      "id": "av_19bc54afc18393",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia Signs $1.5 Billion Accord With Amkor for Chip Packaging",
-      "summary": "Nvidia Corp. has signed a $1.5 billion agreement with Amkor Technology Inc. to enhance its chip packaging capabilities, supporting the expansion of semiconductor operations in the US. The deal includes a prepayment from Nvidia, which will help Amkor boost its manufacturing facili",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/nvidia-signs-1-5-billion-accord-with-amkor-for-chip-packaging?srnd=homepage-americas",
-      "source": "Bloomberg",
-      "published_at": "2026-07-23T21:27:00+00:00",
-      "sentiment": 0.330865,
-      "change_pct": -1.56
     },
     {
       "id": "f_0512a48e16db35",
@@ -1205,21 +1239,6 @@
       "published_at": "2026-07-24T10:21:00+00:00"
     },
     {
-      "id": "av_060381181eceb1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Intel Benefits From a New Shift in A.I. Spending",
-      "summary": "Intel has reported its fastest revenue growth in 15 years, with a 25 percent increase in the latest quarter, driven by increasing purchases of central processing units by AI firms. The company's data center segment saw nearly 60 percent growth, pushing Intel's stock up significan",
-      "url": "https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html",
-      "source": "The New York Times",
-      "published_at": "2026-07-23T22:09:54+00:00",
-      "sentiment": 0.304007,
-      "change_pct": -1.56,
-      "title_kr": "인텔은 AI의 새로운 변화로 이점을 얻습니다. 지출",
-      "summary_kr": "인텔은 AI 기업의 중앙 처리 장치 구매 증가에 힘입어 최근 분기에 25% 증가하는 등 15년 만에 가장 빠른 매출 성장을 기록했다고 밝혔습니다. 회사의 데이터 센터 부문은 거의 60%의 성장을 보이며 Intel의 성장을 견인했습니다."
-    },
-    {
       "id": "f_dc2bf51c709fd4",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1230,6 +1249,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-24T10:15:00+00:00",
       "change_pct": -7.13
+    },
+    {
+      "id": "av_65aa96b8cb23df",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Swiss National Bank Grows Stake in Gen Digital Inc. $GEN",
+      "summary": "The Swiss National Bank increased its stake in Gen Digital Inc. by 7.1% in the first quarter, acquiring an additional 101,500 shares, bringing its total holdings to over 1.5 million shares valued at approximately $29 million. Other institutional investors also adjusted their posi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-swiss-national-bank-grows-stake-in-gen-digital-inc-gen-2026-07-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-24T09:18:55+00:00",
+      "sentiment": 0.023234,
+      "change_pct": -1.56
     },
     {
       "id": "f_e8131fb17787dc",
@@ -1445,21 +1477,6 @@
       "change_pct": -1.56
     },
     {
-      "id": "av_8c2f0573c4344d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Synopsys outlook raised to positive by S&P on debt reduction",
-      "summary": "S&P Global Ratings has revised its outlook on Synopsys Inc. to positive from stable, while affirming its BBB rating, due to the company's significant debt reduction. Synopsys repaid $4.3 billion of the debt incurred from its Ansys acquisition and used proceeds from Nvidia's $2 bi",
-      "url": "https://ca.investing.com/news/stock-market-news/synopsys-outlook-raised-to-positive-by-sp-on-debt-reduction-93CH-4750189",
-      "source": "Investing.com Canada",
-      "published_at": "2026-07-23T19:39:38+00:00",
-      "sentiment": 0.338614,
-      "change_pct": -1.56,
-      "title_kr": "S&P가 부채 감소에 대해 Synopsys 전망을 긍정적으로 상향 조정",
-      "summary_kr": "S&P Global Ratings는 Synopsys Inc.에 대한 전망을 안정적에서 긍정적으로 수정했으며 회사의 상당한 부채 감소로 인해 BBB 등급을 확인했습니다. Synopsys는 Ansys 인수로 인해 발생한 부채 중 43억 달러를 상환하고 수익금을 사용했습니다."
-    },
-    {
       "id": "f_4bf23019d92017",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1496,6 +1513,17 @@
       "change_pct": -1.56
     },
     {
+      "id": "f_290d07e2220df4",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "general",
+      "title": "Rocket Lab: I Bought The Panic",
+      "summary": "Rocket Lab shares have fallen despite Iridium, defense wins and continued Neutron commercialization progress. Learn why RKLB stock is a strong buy.",
+      "url": "https://finnhub.io/api/news?id=957d31ada21f58c899f7edbbf49e3dafddb2f0d14e704cfda38eecae2c7b392b",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-24T08:55:53+00:00"
+    },
+    {
       "id": "f_06d0d74626977c",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1529,6 +1557,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-24T08:49:45+00:00",
       "change_pct": -14.52
+    },
+    {
+      "id": "av_ece31305482fdf",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Are CSX (CSX) Shares Soaring Today",
+      "summary": "Shares of CSX (NASDAQ:CSX) jumped 5.6% after the company reported better-than-expected second-quarter financial results. The freight rail service provider exceeded consensus estimates for earnings and revenue, with a significant increase in sales volume and improved operating mar",
+      "url": "https://stockstory.org/us/stocks/nasdaq/csx/news/why-up-down/why-are-csx-csx-shares-soaring-today",
+      "source": "StockStory",
+      "published_at": "2026-07-23T21:47:27+00:00",
+      "sentiment": 0.274985,
+      "change_pct": -1.56,
+      "title_kr": "오늘 CSX(CSX) 주가가 급등하는 이유",
+      "summary_kr": "CSX(NASDAQ:CSX)의 주가는 회사가 예상보다 나은 2분기 재무 결과를 보고한 후 5.6% 상승했습니다. 화물 철도 서비스 제공업체는 매출과 수익이 크게 증가하면서 수익과 수익에 대한 합의된 추정치를 초과했습니다."
     },
     {
       "id": "f_3d020083e33865",
@@ -1637,19 +1680,32 @@
       "change_pct": -1.56
     },
     {
-      "id": "av_ece31305482fdf",
+      "id": "av_8c2f0573c4344d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Why Are CSX (CSX) Shares Soaring Today",
-      "summary": "Shares of CSX (NASDAQ:CSX) jumped 5.6% after the company reported better-than-expected second-quarter financial results. The freight rail service provider exceeded consensus estimates for earnings and revenue, with a significant increase in sales volume and improved operating mar",
-      "url": "https://stockstory.org/us/stocks/nasdaq/csx/news/why-up-down/why-are-csx-csx-shares-soaring-today",
-      "source": "StockStory",
-      "published_at": "2026-07-23T21:47:27+00:00",
-      "sentiment": 0.252024,
+      "title": "Synopsys outlook raised to positive by S&P on debt reduction",
+      "summary": "S&P Global Ratings has revised its outlook on Synopsys Inc. to positive from stable, while affirming its BBB rating, due to the company's significant debt reduction. Synopsys repaid $4.3 billion of the debt incurred from its Ansys acquisition and used proceeds from Nvidia's $2 bi",
+      "url": "https://ca.investing.com/news/stock-market-news/synopsys-outlook-raised-to-positive-by-sp-on-debt-reduction-93CH-4750189",
+      "source": "Investing.com Canada",
+      "published_at": "2026-07-23T19:39:38+00:00",
+      "sentiment": 0.30824,
       "change_pct": -1.56,
-      "title_kr": "오늘 CSX(CSX) 주가가 급등하는 이유",
-      "summary_kr": "CSX(NASDAQ:CSX)의 주가는 회사가 예상보다 나은 2분기 재무 결과를 보고한 후 5.6% 상승했습니다. 화물 철도 서비스 제공업체는 매출과 수익이 크게 증가하면서 수익과 수익에 대한 합의된 추정치를 초과했습니다."
+      "title_kr": "S&P가 부채 감소에 대해 Synopsys 전망을 긍정적으로 상향 조정",
+      "summary_kr": "S&P Global Ratings는 Synopsys Inc.에 대한 전망을 안정적에서 긍정적으로 수정했으며 회사의 상당한 부채 감소로 인해 BBB 등급을 확인했습니다. Synopsys는 Ansys 인수로 인해 발생한 부채 중 43억 달러를 상환하고 수익금을 사용했습니다."
+    },
+    {
+      "id": "av_deaa5c8f344690",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Marvell Technology Stock And The Forecast It Kept Outgrowing",
+      "summary": "Marvell Technology (MRVL) stock saw a 189% gain due to the company consistently outperforming and raising its own AI revenue forecasts. Management repeatedly indicated that their AI targets were too low, expanding bullish outlooks for fiscal years 2025 and 2026, and emphasizing t",
+      "url": "https://www.trefis.com/stock/mrvl/articles/608532/marvell-technology-stock-and-the-forecast-it-kept-outgrowing/2026-07-23",
+      "source": "Trefis",
+      "published_at": "2026-07-23T19:10:42+00:00",
+      "sentiment": 0.318663,
+      "change_pct": -1.56
     },
     {
       "id": "f_e9bca3453c14c5",
@@ -1724,19 +1780,6 @@
       "change_pct": -1.09
     },
     {
-      "id": "av_deaa5c8f344690",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Marvell Technology Stock And The Forecast It Kept Outgrowing",
-      "summary": "Marvell Technology (MRVL) stock saw a 189% gain due to the company consistently outperforming and raising its own AI revenue forecasts. Management repeatedly indicated that their AI targets were too low, expanding bullish outlooks for fiscal years 2025 and 2026, and emphasizing t",
-      "url": "https://www.trefis.com/stock/mrvl/articles/608532/marvell-technology-stock-and-the-forecast-it-kept-outgrowing/2026-07-23",
-      "source": "Trefis",
-      "published_at": "2026-07-23T19:10:42+00:00",
-      "sentiment": 0.301884,
-      "change_pct": -1.56
-    },
-    {
       "id": "f_e2374c3da1c469",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -1807,19 +1850,6 @@
       "published_at": "2026-07-24T06:30:00+00:00"
     },
     {
-      "id": "av_e043afb67cbd8b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Should Fidelity Nasdaq Composite Index ETF (ONEQ) Be on Your Investing Radar?",
-      "summary": "The Fidelity Nasdaq Composite Index ETF (ONEQ), launched in 2003, is a passively managed ETF offering exposure to the Large Cap Growth segment of the US equity market, with over $10.50 billion in assets. It has an expense ratio of 0.21% and holds a Zacks ETF Rank of 2 (Buy), maki",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-nasdaq-composite-index-etf-102002410.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T17:20:00+00:00",
-      "sentiment": 0.328483,
-      "change_pct": -1.56
-    },
-    {
       "id": "f_3066ff2d86cfcf",
       "provider": "finnhub",
       "ticker": "RKLB",
@@ -1843,6 +1873,19 @@
       "change_pct": -1.56
     },
     {
+      "id": "av_e043afb67cbd8b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Should Fidelity Nasdaq Composite Index ETF (ONEQ) Be on Your Investing Radar?",
+      "summary": "The Fidelity Nasdaq Composite Index ETF (ONEQ), launched in 2003, is a passively managed ETF offering exposure to the Large Cap Growth segment of the US equity market, with over $10.50 billion in assets. It has an expense ratio of 0.21% and holds a Zacks ETF Rank of 2 (Buy), maki",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fidelity-nasdaq-composite-index-etf-102002410.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T17:20:00+00:00",
+      "sentiment": 0.325327,
+      "change_pct": -1.56
+    },
+    {
       "id": "av_791065038a2330",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1852,7 +1895,7 @@
       "url": "https://simplywall.st/stocks/us/tech/nyse-fn/fabrinet/news/fabrinet-fn-falls-17-in-a-month-is-it-cheap-or-fully-valued",
       "source": "Simply Wall Street",
       "published_at": "2026-07-23T17:10:29+00:00",
-      "sentiment": 0.329036,
+      "sentiment": 0.327221,
       "change_pct": -1.56,
       "title_kr": "Fabrinet(FN)이 한 달 만에 17% 하락했습니다. 저렴한 가격인가요, 아니면 충분히 가치 있는 가격인가요?",
       "summary_kr": "Fabrinet(FN)은 강력한 장기 실적에도 불구하고 지난 달 주가가 17% 하락했습니다. 일반적인 평가 내러티브에서는 공정 가치 $635로 19.1% 저평가된 것으로 나타났지만 할인된 현금 흐름 모델에서는 현재보다 높은 수준으로 거래되고 있음을 시사합니다."
@@ -1882,6 +1925,19 @@
       "change_pct": -1.56
     },
     {
+      "id": "av_48aca0954a6db6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "09SF ETF Profile: Dividends, Returns (TRADEGATE:09SF)",
+      "summary": "This ETF profile for 09SF (Schwab U.S. Large-Cap ETF) provides detailed information on its dividends, returns, and fundamental characteristics. It outlines key stats like AUM, expense ratio, inception date, and the index it tracks, which is the Dow Jones US Total Stock Market Lar",
+      "url": "https://www.tradingview.com/symbols/TRADEGATE-09SF/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-23T18:40:45+00:00",
+      "sentiment": 0.284305,
+      "change_pct": -1.56
+    },
+    {
       "id": "av_28db52aaf6ef71",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1891,10 +1947,23 @@
       "url": "https://www.tradingview.com/symbols/BOATS-FVAL/profile/",
       "source": "TradingView",
       "published_at": "2026-07-23T17:39:47+00:00",
-      "sentiment": 0.302386,
+      "sentiment": 0.304285,
       "change_pct": -1.56,
       "title_kr": "FVAL ETF 프로필: 배당금, 수익(BOATS:FVAL)",
       "summary_kr": "이 기사에서는 FVAL(Fidelity Value Factor ETF)의 포괄적인 프로필을 제공하고 투자 전략, 보유 자산 및 재무 성과를 자세히 설명합니다. FVAL은 미국 가치 투자에 중점을 두고 있으며, 다음을 기반으로 미국 최대 1,000개 주식에서 구성 요소를 선택합니다."
+    },
+    {
+      "id": "av_8d35ed838c4521",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nokia Jumps 6.9% After Q2 Profit Beats Estimates on AI Data Center Demand",
+      "summary": "Nokia reported stronger-than-expected Q2 results, with adjusted operating income and net sales exceeding forecasts, driven by growing demand from AI data centers. The company's shares climbed significantly after the announcement. CEO Justin Hotard is focused on restructuring Noki",
+      "url": "https://www.tradingview.com/news/gurufocus:715f9a9a8094b:0-nokia-jumps-6-9-after-q2-profit-beats-estimates-on-ai-data-center-demand/",
+      "source": "TradingView",
+      "published_at": "2026-07-23T20:41:29+00:00",
+      "sentiment": 0.228537,
+      "change_pct": -1.56
     },
     {
       "id": "f_7b2cd0463ded34",
@@ -1909,19 +1978,6 @@
       "change_pct": -2.29
     },
     {
-      "id": "av_48aca0954a6db6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "09SF ETF Profile: Dividends, Returns (TRADEGATE:09SF)",
-      "summary": "This ETF profile for 09SF (Schwab U.S. Large-Cap ETF) provides detailed information on its dividends, returns, and fundamental characteristics. It outlines key stats like AUM, expense ratio, inception date, and the index it tracks, which is the Dow Jones US Total Stock Market Lar",
-      "url": "https://www.tradingview.com/symbols/TRADEGATE-09SF/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-23T18:40:45+00:00",
-      "sentiment": 0.27297,
-      "change_pct": -1.56
-    },
-    {
       "id": "f_9dd5f0a05a639f",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1931,19 +1987,6 @@
       "url": "https://finnhub.io/api/news?id=da62f0b615436ed0c4cec1535370564ae097c707203f8ef70261b0341a1b4fe1",
       "source": "Yahoo",
       "published_at": "2026-07-24T05:35:00+00:00",
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_8d35ed838c4521",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nokia Jumps 6.9% After Q2 Profit Beats Estimates on AI Data Center Demand",
-      "summary": "Nokia reported stronger-than-expected Q2 results, with adjusted operating income and net sales exceeding forecasts, driven by growing demand from AI data centers. The company's shares climbed significantly after the announcement. CEO Justin Hotard is focused on restructuring Noki",
-      "url": "https://www.tradingview.com/news/gurufocus:715f9a9a8094b:0-nokia-jumps-6-9-after-q2-profit-beats-estimates-on-ai-data-center-demand/",
-      "source": "TradingView",
-      "published_at": "2026-07-23T20:41:29+00:00",
-      "sentiment": 0.217782,
       "change_pct": -1.56
     },
     {
@@ -1983,30 +2026,19 @@
       "change_pct": -1.56
     },
     {
-      "id": "av_36d219e8cc0a3b",
+      "id": "av_4275b12f720d1d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Annaly Capital Management's EAD Topped Its Dividend for a 9th Straight Quarter. Here's Why That Matters for Its 12.5%+ Yielding Payout.",
-      "summary": "Annaly Capital Management (NLY) has maintained its Earnings Available for Distribution (EAD) above its dividend for nine consecutive quarters, supporting its 12.5%+ yield. This consistent performance, driven by the REIT's scale, diversification, and financial strength, has allowe",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/annaly-capital-managements-ead-topped-152900494.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T15:40:01+00:00",
-      "sentiment": 0.326919,
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_3473eb42aafb4e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Earnings call transcript: AtriCure tops Q2 2026 estimates, shares fall after hours",
-      "summary": "AtriCure Inc. reported strong second-quarter 2026 results, beating Wall Street expectations for both profit and revenue, primarily driven by growth in pain management, appendage management, and open ablation. Despite the positive financial performance and improved gross margins, ",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-atricure-tops-q2-2026-estimates-shares-fall-after-hours-93CH-4810142",
-      "source": "Investing.com",
-      "published_at": "2026-07-23T22:11:09+00:00",
-      "sentiment": -0.161138,
-      "change_pct": -1.56
+      "title": "Intel Forecast Shatters Estimates, Fueled by Data Center Growth",
+      "summary": "Intel Corp. has issued a surprisingly strong revenue forecast for the current period, exceeding analyst estimates. The company anticipates sales between $15.8 billion and $16.8 billion for the third quarter. This positive outlook is attributed to a surge in data center spending, ",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
+      "source": "Bloomberg",
+      "published_at": "2026-07-23T20:01:00+00:00",
+      "sentiment": 0.217103,
+      "change_pct": -1.56,
+      "title_kr": "인텔 예측은 데이터 센터 성장에 힘입어 예상치를 깨뜨렸습니다.",
+      "summary_kr": "Intel Corp.은 현재 기간에 대해 분석가의 추정치를 뛰어넘는 놀랍도록 강력한 수익 예측을 발표했습니다. 회사는 3분기 매출을 158억~168억 달러로 예상하고 있다. 이러한 긍정적인 전망은 da의 급증에 기인합니다."
     },
     {
       "id": "f_e0cc35c85d9d08",
@@ -2021,19 +2053,17 @@
       "change_pct": -1.56
     },
     {
-      "id": "av_4275b12f720d1d",
+      "id": "av_3473eb42aafb4e",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Intel Forecast Shatters Estimates, Fueled by Data Center Growth",
-      "summary": "Intel Corp. has issued a surprisingly strong revenue forecast for the current period, exceeding analyst estimates. The company anticipates sales between $15.8 billion and $16.8 billion for the third quarter. This positive outlook is attributed to a surge in data center spending, ",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/intel-forecast-shatters-estimates-fueled-by-data-center-growth",
-      "source": "Bloomberg",
-      "published_at": "2026-07-23T20:01:00+00:00",
-      "sentiment": 0.213169,
-      "change_pct": -1.56,
-      "title_kr": "인텔 예측은 데이터 센터 성장에 힘입어 예상치를 깨뜨렸습니다.",
-      "summary_kr": "Intel Corp.은 현재 기간에 대해 분석가의 추정치를 뛰어넘는 놀랍도록 강력한 수익 예측을 발표했습니다. 회사는 3분기 매출을 158억~168억 달러로 예상하고 있다. 이러한 긍정적인 전망은 da의 급증에 기인합니다."
+      "title": "Earnings call transcript: AtriCure tops Q2 2026 estimates, shares fall after hours",
+      "summary": "AtriCure Inc. reported strong second-quarter 2026 results, beating Wall Street expectations for both profit and revenue, primarily driven by growth in pain management, appendage management, and open ablation. Despite the positive financial performance and improved gross margins, ",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-atricure-tops-q2-2026-estimates-shares-fall-after-hours-93CH-4810142",
+      "source": "Investing.com",
+      "published_at": "2026-07-23T22:11:09+00:00",
+      "sentiment": -0.152614,
+      "change_pct": -1.56
     },
     {
       "id": "f_763141781678b4",
@@ -2048,19 +2078,17 @@
       "change_pct": -14.52
     },
     {
-      "id": "av_33e0c30c7b2f19",
+      "id": "av_179b931da709be",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "AMD expects compute market to reach $2T by 2030 as Helios enters full production",
-      "summary": "AMD officially launched its Helios rack-scale system, which is now in full production, at its Advancing AI 2026 event. The company anticipates the AI accelerator total addressable market will reach $1.4 trillion by 2030, with GPUs forming the bulk of this, while the broader compu",
-      "url": "https://seekingalpha.com/news/4617582-amd-expects-compute-market-to-reach-2t-by-2030-as-helios-enters-full-production",
-      "source": "Seeking Alpha",
-      "published_at": "2026-07-23T18:47:04+00:00",
-      "sentiment": 0.228039,
-      "change_pct": -1.56,
-      "title_kr": "AMD는 Helios가 본격 생산에 들어가면서 컴퓨팅 시장이 2030년까지 2조 달러에 이를 것으로 예상합니다.",
-      "summary_kr": "AMD는 Advancing AI 2026 이벤트에서 현재 정식 생산 중인 Helios 랙 스케일 시스템을 공식 출시했습니다. 회사는 AI 가속기의 전체 주소 지정 가능 시장이 2030년까지 1조 4천억 달러에 이를 것으로 예상하며, GPU가 이 중 대부분을 차지할 것입니다."
+      "title": "Why ARM's AI Opportunity Could Extend Beyond Market Hype",
+      "summary": "Arm Holdings (ARM) is positioned for long-term growth in AI beyond current market hype due to its foundational processor architecture, which enables efficient computing across various applications like data centers and automotive systems. The company's royalty-driven business mod",
+      "url": "https://www.tradingview.com/news/zacks:812c1e57a094b:0-why-arm-s-ai-opportunity-could-extend-beyond-market-hype/",
+      "source": "TradingView",
+      "published_at": "2026-07-23T16:10:59+00:00",
+      "sentiment": 0.295332,
+      "change_pct": -1.56
     },
     {
       "id": "f_935a92557b3859",
@@ -2121,17 +2149,19 @@
       "published_at": "2026-07-24T03:16:46+00:00"
     },
     {
-      "id": "av_179b931da709be",
+      "id": "av_33e0c30c7b2f19",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Why ARM's AI Opportunity Could Extend Beyond Market Hype",
-      "summary": "Arm Holdings (ARM) is positioned for long-term growth in AI beyond current market hype due to its foundational processor architecture, which enables efficient computing across various applications like data centers and automotive systems. The company's royalty-driven business mod",
-      "url": "https://www.tradingview.com/news/zacks:812c1e57a094b:0-why-arm-s-ai-opportunity-could-extend-beyond-market-hype/",
-      "source": "TradingView",
-      "published_at": "2026-07-23T16:10:59+00:00",
-      "sentiment": 0.268641,
-      "change_pct": -1.56
+      "title": "AMD expects compute market to reach $2T by 2030 as Helios enters full production",
+      "summary": "AMD officially launched its Helios rack-scale system, which is now in full production, at its Advancing AI 2026 event. The company anticipates the AI accelerator total addressable market will reach $1.4 trillion by 2030, with GPUs forming the bulk of this, while the broader compu",
+      "url": "https://seekingalpha.com/news/4617582-amd-expects-compute-market-to-reach-2t-by-2030-as-helios-enters-full-production",
+      "source": "Seeking Alpha",
+      "published_at": "2026-07-23T18:47:04+00:00",
+      "sentiment": 0.206083,
+      "change_pct": -1.56,
+      "title_kr": "AMD는 Helios가 본격 생산에 들어가면서 컴퓨팅 시장이 2030년까지 2조 달러에 이를 것으로 예상합니다.",
+      "summary_kr": "AMD는 Advancing AI 2026 이벤트에서 현재 정식 생산 중인 Helios 랙 스케일 시스템을 공식 출시했습니다. 회사는 AI 가속기의 전체 주소 지정 가능 시장이 2030년까지 1조 4천억 달러에 이를 것으로 예상하며, GPU가 이 중 대부분을 차지할 것입니다."
     },
     {
       "id": "f_1854ee2283c9cb",
@@ -2216,19 +2246,17 @@
       "published_at": "2026-07-24T02:03:00+00:00"
     },
     {
-      "id": "av_0fc5a4ab5a49be",
+      "id": "av_3a10558cbe2735",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Texas Instruments Inc Stock (TXN) Moved Down by 3.38% on Jul 23: Drivers Behind the Movement",
-      "summary": "Texas Instruments Inc (TXN) stock declined by 3.38% on July 23, driven primarily by a cautious outlook for industrial and automotive sector recoveries and high capital expenditures impacting free cash flow. Analysts have revised price targets downwards due to margin compression a",
-      "url": "https://www.tradingkey.com/news/market-movers/262050471-market-movers-txn-20260723",
-      "source": "TradingKey",
-      "published_at": "2026-07-23T16:15:00+00:00",
-      "sentiment": -0.237986,
-      "change_pct": -1.56,
-      "title_kr": "7월 23일 Texas Instruments Inc 주식(TXN)이 3.38% 하락했습니다: 이 움직임의 원동력",
-      "summary_kr": "텍사스 인스트루먼트(TXN) 주가는 7월 23일 3.38% 하락했는데, 이는 주로 산업 및 자동차 부문 회복에 대한 신중한 전망과 잉여현금흐름에 영향을 미치는 높은 자본 지출에 기인합니다. 애널리스트들은 목표 주가를 하향 조정했다."
+      "title": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
+      "summary": "Intel's recent financial forecast exceeded analysts' estimates for quarterly profit and revenue, driven by robust demand for its server CPU chips fueled by the AI boom. The company anticipates third-quarter revenue between US$15.8-billion and US$16.8-billion and adjusted profit o",
+      "url": "https://www.theglobeandmail.com/business/international-business/article-intel-earnings-quarterly-revenue-estimates-ai-server-chip-demand/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-23T20:08:03+00:00",
+      "sentiment": 0.139587,
+      "change_pct": -1.56
     },
     {
       "id": "av_e8c3f143f0a3f7",
@@ -2240,10 +2268,23 @@
       "url": "https://www.benzinga.com/Opinion/26/07/60646424/market-selling-as-houthis-open-a-new-front-google-ai-cash-burn-tesla-humanoid-spending",
       "source": "Benzinga",
       "published_at": "2026-07-23T16:07:52+00:00",
-      "sentiment": -0.237889,
+      "sentiment": -0.23679,
       "change_pct": -1.56,
       "title_kr": "Houthis가 새로운 전선을 열면서 시장 판매; 구글 AI 캐시 소각; Tesla 휴머노이드 지출",
       "summary_kr": "이 기사에서는 Houthi 공격, Google의 상당한 AI 현금 소모, Tesla의 AI 및 휴머노이드 로봇에 대한 지출 증가로 인해 영향을 받은 현재 시장 상황에 대해 설명합니다. 이는 SPY 및 QQQ와 같은 주요 기술주 및 ETF의 부정적인 자금 흐름을 강조합니다."
+    },
+    {
+      "id": "av_fb79ac7417ad38",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cytokinetics Will Share Q2 Results Aug. 6, Then Host Live Call",
+      "summary": "Cytokinetics (Nasdaq: CYTK) announced it will report its second-quarter 2026 financial results on August 6, 2026, at 4:00 PM Eastern Time. Following the announcement, senior management will host a conference call at 4:30 PM Eastern Time to discuss financial results and provide bu",
+      "url": "https://www.stocktitan.net/news/CYTK/cytokinetics-to-announce-second-quarter-results-on-august-6-7wiohqygjqtd.html",
+      "source": "Stock Titan",
+      "published_at": "2026-07-23T20:10:39+00:00",
+      "sentiment": 0.134879,
+      "change_pct": -1.56
     },
     {
       "id": "f_b9f207a8f8d9aa",
@@ -2258,6 +2299,34 @@
       "change_pct": -1.56
     },
     {
+      "id": "av_5aebe77aac12ce",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lockheed Martin Rockets 10%, RTX Jumps 7% on Beat-and-Raise Quarters and Record Backlogs",
+      "summary": "Lockheed Martin and RTX reported beat-and-raise second-quarter results for 2026, leading to significant stock surges of 10% and 7% respectively. Both defense contractors achieved record backlogs, with Lockheed Martin reaching $230 billion and RTX hitting $289 billion. The strong ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-rockets-10-rtx-144735229.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-23T18:09:20+00:00",
+      "sentiment": -0.180473,
+      "change_pct": -1.56,
+      "title_kr": "Lockheed Martin Rockets 10%, RTX는 Beat-and-Raise 분기 및 기록 백로그에서 7% 점프",
+      "summary_kr": "록히드 마틴과 RTX는 2026년 2분기 실적을 발표해 각각 10%와 7%의 상당한 주가 급등을 기록했습니다. 록히드 마틴(Lockheed Martin)이 2,300억 달러, RTX가 289달러를 기록하는 등 두 방산업계 계약업체 모두 기록적인 백로그를 달성했습니다."
+    },
+    {
+      "id": "av_2cf04acb99d44e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AMD EPYC 9006 LP is the Company's Answer to NVIDIA Vera CPU",
+      "summary": "The article states that AMD's EPYC 9006 LP is positioned as a direct competitor to NVIDIA's Vera CPU. The content provided is minimal and appears to be part of a bot check process rather than a full article.",
+      "url": "https://www.techpowerup.com/351002/amd-epyc-9006-lp-is-the-companys-answer-to-nvidia-vera-cpu",
+      "source": "TechPowerUp",
+      "published_at": "2026-07-23T19:38:24+00:00",
+      "sentiment": -0.143313,
+      "change_pct": -1.56
+    },
+    {
       "id": "f_ebc27571a22fc7",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2268,34 +2337,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-24T01:20:00+00:00",
       "change_pct": -1.56
-    },
-    {
-      "id": "av_3a10558cbe2735",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Intel forecast crushes estimates as AI boom boosts chip demand; shares jump",
-      "summary": "Intel's recent financial forecast exceeded analysts' estimates for quarterly profit and revenue, driven by robust demand for its server CPU chips fueled by the AI boom. The company anticipates third-quarter revenue between US$15.8-billion and US$16.8-billion and adjusted profit o",
-      "url": "https://www.theglobeandmail.com/business/international-business/article-intel-earnings-quarterly-revenue-estimates-ai-server-chip-demand/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-23T20:08:03+00:00",
-      "sentiment": 0.128122,
-      "change_pct": -1.56
-    },
-    {
-      "id": "av_bf90ef2d5b224a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Semiconductor ETFs Surge Ahead of Intel Earnings",
-      "summary": "Semiconductor ETFs have seen significant surges this year, with some gaining over 25%, driven by demand for AI server chips. Intel's second-quarter earnings report is highly anticipated, as its stock has climbed but faces recent valuation concerns and a slowdown in its consumer c",
-      "url": "https://etfdb.com/equity-etf-content-hub/as-intel-earnings-loom-semiconductor-etfs-surge/",
-      "source": "ETF Database",
-      "published_at": "2026-07-23T19:40:55+00:00",
-      "sentiment": 0.132529,
-      "change_pct": -1.56,
-      "title_kr": "인텔 실적보다 반도체 ETF 급등",
-      "summary_kr": "올해 반도체 ETF는 AI 서버 칩 수요에 힘입어 25% 이상 상승하는 등 크게 급증했습니다. Intel의 2분기 수익 보고서는 주가가 상승했지만 최근 가치 평가에 대한 우려와 둔화에 직면해 있어 매우 기대됩니다."
     },
     {
       "id": "f_6ef8a3d2f918a8",
@@ -2322,21 +2363,6 @@
       "change_pct": -1.56
     },
     {
-      "id": "av_5aebe77aac12ce",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lockheed Martin Rockets 10%, RTX Jumps 7% on Beat-and-Raise Quarters and Record Backlogs",
-      "summary": "Lockheed Martin and RTX reported beat-and-raise second-quarter results for 2026, leading to significant stock surges of 10% and 7% respectively. Both defense contractors achieved record backlogs, with Lockheed Martin reaching $230 billion and RTX hitting $289 billion. The strong ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lockheed-martin-rockets-10-rtx-144735229.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-23T18:09:20+00:00",
-      "sentiment": -0.164961,
-      "change_pct": -1.56,
-      "title_kr": "Lockheed Martin Rockets 10%, RTX는 Beat-and-Raise 분기 및 기록 백로그에서 7% 점프",
-      "summary_kr": "록히드 마틴과 RTX는 2026년 2분기 실적을 발표해 각각 10%와 7%의 상당한 주가 급등을 기록했습니다. 록히드 마틴(Lockheed Martin)이 2,300억 달러, RTX가 289달러를 기록하는 등 두 방산업계 계약업체 모두 기록적인 백로그를 달성했습니다."
-    },
-    {
       "id": "f_a827c39c4c324e",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -2361,6 +2387,36 @@
       "change_pct": -1.56
     },
     {
+      "id": "av_bf90ef2d5b224a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Semiconductor ETFs Surge Ahead of Intel Earnings",
+      "summary": "Semiconductor ETFs have seen significant surges this year, with some gaining over 25%, driven by demand for AI server chips. Intel's second-quarter earnings report is highly anticipated, as its stock has climbed but faces recent valuation concerns and a slowdown in its consumer c",
+      "url": "https://etfdb.com/equity-etf-content-hub/as-intel-earnings-loom-semiconductor-etfs-surge/",
+      "source": "ETF Database",
+      "published_at": "2026-07-23T19:40:55+00:00",
+      "sentiment": 0.121588,
+      "change_pct": -1.56,
+      "title_kr": "인텔 실적보다 반도체 ETF 급등",
+      "summary_kr": "올해 반도체 ETF는 AI 서버 칩 수요에 힘입어 25% 이상 상승하는 등 크게 급증했습니다. Intel의 2분기 수익 보고서는 주가가 상승했지만 최근 가치 평가에 대한 우려와 둔화에 직면해 있어 매우 기대됩니다."
+    },
+    {
+      "id": "av_0fc5a4ab5a49be",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Texas Instruments Inc Stock (TXN) Moved Down by 3.38% on Jul 23: Drivers Behind the Movement",
+      "summary": "Texas Instruments Inc (TXN) stock declined by 3.38% on July 23, driven primarily by a cautious outlook for industrial and automotive sector recoveries and high capital expenditures impacting free cash flow. Analysts have revised price targets downwards due to margin compression a",
+      "url": "https://www.tradingkey.com/news/market-movers/262050471-market-movers-txn-20260723",
+      "source": "TradingKey",
+      "published_at": "2026-07-23T16:15:00+00:00",
+      "sentiment": -0.204221,
+      "change_pct": -1.56,
+      "title_kr": "7월 23일 Texas Instruments Inc 주식(TXN)이 3.38% 하락했습니다: 이 움직임의 원동력",
+      "summary_kr": "텍사스 인스트루먼트(TXN) 주가는 7월 23일 3.38% 하락했는데, 이는 주로 산업 및 자동차 부문 회복에 대한 신중한 전망과 잉여현금흐름에 영향을 미치는 높은 자본 지출에 기인합니다. 애널리스트들은 목표 주가를 하향 조정했다."
+    },
+    {
       "id": "f_dace4e19081b5e",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2373,18 +2429,6 @@
       "change_pct": -1.56
     },
     {
-      "id": "f_56918e4f33f723",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Tesla's Operating Margin Just Fell to 1.4% and Free Cash Flow Went Negative. Here's Where the Money Is Going.",
-      "summary": "A record quarter for revenue was also the thinnest for profit in a while. But the spending behind that gap is the real story.",
-      "url": "https://finnhub.io/api/news?id=ccb593730adcbbe16bc0472fa987b5cfb38a98eebbb414de71056a672c8a4b0d",
-      "source": "Yahoo",
-      "published_at": "2026-07-24T00:20:00+00:00",
-      "change_pct": -1.56
-    },
-    {
       "id": "av_da913c6093f47a",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -2394,20 +2438,19 @@
       "url": "https://etfdb.com/disruptive-technology-content-hub/robo-botz-comparison/",
       "source": "ETF Database",
       "published_at": "2026-07-23T20:10:21+00:00",
-      "sentiment": 0.103338,
+      "sentiment": 0.104365,
       "change_pct": -1.56
     },
     {
-      "id": "av_fb79ac7417ad38",
-      "provider": "alphavantage",
+      "id": "f_56918e4f33f723",
+      "provider": "finnhub",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Cytokinetics Will Share Q2 Results Aug. 6, Then Host Live Call",
-      "summary": "Cytokinetics (Nasdaq: CYTK) announced it will report its second-quarter 2026 financial results on August 6, 2026, at 4:00 PM Eastern Time. Following the announcement, senior management will host a conference call at 4:30 PM Eastern Time to discuss financial results and provide bu",
-      "url": "https://www.stocktitan.net/news/CYTK/cytokinetics-to-announce-second-quarter-results-on-august-6-7wiohqygjqtd.html",
-      "source": "Stock Titan",
-      "published_at": "2026-07-23T20:10:39+00:00",
-      "sentiment": 0.101597,
+      "title": "Tesla's Operating Margin Just Fell to 1.4% and Free Cash Flow Went Negative. Here's Where the Money Is Going.",
+      "summary": "A record quarter for revenue was also the thinnest for profit in a while. But the spending behind that gap is the real story.",
+      "url": "https://finnhub.io/api/news?id=ccb593730adcbbe16bc0472fa987b5cfb38a98eebbb414de71056a672c8a4b0d",
+      "source": "Yahoo",
+      "published_at": "2026-07-24T00:20:00+00:00",
       "change_pct": -1.56
     },
     {
@@ -2504,46 +2547,10 @@
       "source": "Yahoo",
       "published_at": "2026-07-23T23:35:00+00:00",
       "change_pct": -1.56
-    },
-    {
-      "id": "f_117d2bf87da8a3",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "CapEx Fears Eclipse Alphabet’s Strong Q2, but GOOGL Stock Still Looks Attractive",
-      "summary": "While GOOGL stock could remain volatile as investors digest elevated spending, Alphabet remains well positioned to benefit from the accelerating AI investment cycle.",
-      "url": "https://finnhub.io/api/news?id=23e05a2a3d62e43f44f46544e4f925905b58cecac011c201f069db754a73a8a3",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T23:30:02+00:00",
-      "change_pct": -7.13
-    },
-    {
-      "id": "f_7eecee7fcee18f",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Better Stock for Passive Income: Enbridge with Its 70+ Years of Payouts or Energy Transfer with Its 6.6% Yield?",
-      "summary": "Consistency matters more than a high yield.",
-      "url": "https://finnhub.io/api/news?id=47488488d4b8fca395b559836863b9e79fdfc24277e2c79410a9782ee027169b",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T23:25:00+00:00",
-      "change_pct": -1.56
-    },
-    {
-      "id": "f_3ba26e03b021b7",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Walmart shares its quiet plan to take down Amazon",
-      "summary": "For years, Amazon was my default option when I wanted quick delivery. As a Prime member, I get free two-day delivery, and in many cases, the online giant actually delivers the next day, sometimes even before 8 a.m. That's a bar Walmart wants to raise. Fast Company writer Elizabeth Segran ...",
-      "url": "https://finnhub.io/api/news?id=ae2a120a5ea43b697b730929fb30e2f8e7272e391488d4354577cb3d2c517cfb",
-      "source": "Yahoo",
-      "published_at": "2026-07-23T23:17:00+00:00",
-      "change_pct": -4.57
     }
   ],
-  "fetched_at": "2026-07-24T12:53:07.946001+00:00",
+  "fetched_at": "2026-07-24T13:16:28.714074+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-24T12:53:10.196751+00:00",
+  "translated_at": "2026-07-24T13:16:30.972014+00:00",
   "translation_engine": "google-parallel"
 }
