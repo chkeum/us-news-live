@@ -390,34 +390,6 @@
       "summary_kr": "Southside Bancshares, Inc.의 2026년 2분기 실적 발표에 대한 Moby 요약"
     },
     {
-      "id": "f_a4f2a2bf66214d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Charter Communications, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Moby summary of Charter Communications, Inc.'s Q2 2026 earnings call",
-      "url": "https://finnhub.io/api/news?id=4ed817e87850a5e72f3b373c22799c2601dec7b5ac98bc5753d90321aa568651",
-      "source": "Yahoo",
-      "published_at": "2026-07-24T20:48:23+00:00",
-      "change_pct": -0.92,
-      "title_kr": "Charter Communications, Inc. 2026년 2분기 실적 요약",
-      "summary_kr": "Charter Communications, Inc.의 2026년 2분기 실적 발표에 대한 Moby 요약"
-    },
-    {
-      "id": "f_869a5bd454e0d8",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "earnings",
-      "title": "S&P 500 Posts Weekly Decline Amid Mixed Earnings, US-Iran Turmoil",
-      "summary": "The Standard & Poor's 500 index shed 0.6% this week amid mixed corporate earnings and continued worr",
-      "url": "https://finnhub.io/api/news?id=affc373443b47675c54804bdf37a4353456cb988e736598b08ef4456a676d6aa",
-      "source": "Yahoo",
-      "published_at": "2026-07-24T20:45:02+00:00",
-      "change_pct": -2.08,
-      "title_kr": "S&P 500은 미국-이란 혼란으로 인해 주간 하락세를 기록했습니다.",
-      "summary_kr": "Standard & Poor's 500 지수는 기업 실적이 엇갈리고 우려가 계속되는 가운데 이번 주 0.6% 하락했습니다."
-    },
-    {
       "id": "f_0cdb2673e94b28",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -441,10 +413,25 @@
       "url": "https://uk.finance.yahoo.com/news/morgan-stanley-says-ai-memory-130000519.html",
       "source": "Yahoo Finance UK",
       "published_at": "2026-07-25T12:39:31+00:00",
-      "sentiment": 0.450984,
+      "sentiment": 0.478427,
       "change_pct": -0.92,
       "title_kr": "Morgan Stanley는 AI 메모리 수요가 투자 사례를 그대로 유지한다고 말합니다.",
       "summary_kr": "모건스탠리는 최근 미국 메모리 주가 하락세가 AI 데이터센터의 지속적인 수요로 인해 매력적인 투자 기회가 될 것이라고 내다봤다. 회사는 공급 긴축과 데이터 센터 메모리 가격 상승이 메모리 시장을 강화하고 있다고 강조합니다."
+    },
+    {
+      "id": "av_2190e0a10e4e86",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amkor announces $1.5 billion partnership with NVIDIA for chip packaging and testing",
+      "summary": "Amkor Technology, based in Tempe, has secured a $1.5 billion partnership with NVIDIA for chip packaging and testing. This collaboration aims to localize a critical part of the semiconductor manufacturing process within the U.S., specifically Arizona. The move is expected to bolst",
+      "url": "https://www.kjzz.org/business/2026-07-25/amkor-announces-1-5-billion-partnership-with-nvidia-for-chip-packaging-and-testing",
+      "source": "KJZZ",
+      "published_at": "2026-07-25T12:12:00+00:00",
+      "sentiment": 0.436671,
+      "change_pct": -0.92,
+      "title_kr": "앰코, 칩 패키징 및 테스트를 위해 NVIDIA와 15억 달러 규모 파트너십 발표",
+      "summary_kr": "Tempe에 본사를 둔 Amkor Technology는 칩 패키징 및 테스트를 위해 NVIDIA와 15억 달러 규모의 파트너십을 확보했습니다. 이번 협력의 목적은 미국, 특히 애리조나 내에서 반도체 제조 공정의 중요한 부분을 현지화하는 것입니다. 움직임"
     },
     {
       "id": "av_3c186976ef7712",
@@ -456,7 +443,7 @@
       "url": "https://www.koreatimes.co.kr/business/20260725/nvidia-chief-says-will-announce-500-bil-partnership-with-sk-group-in-meeting-with-lee",
       "source": "The Korea Times",
       "published_at": "2026-07-25T08:51:00+00:00",
-      "sentiment": 0.802265,
+      "sentiment": 0.815559,
       "change_pct": -0.92,
       "title_kr": "Nvidia CEO는 5000억 달러를 발표할 것이라고 말했습니다. 이 회장과의 만남에서 SK그룹과 파트너십",
       "summary_kr": "엔비디아의 젠슨 황 CEO는 샌프란시스코에서 이재명 한국 대통령과의 만남에서 SK그룹과 5천억 달러 규모의 파트너십을 발표했습니다. 황 회장은 현대차그룹과 자율주행 제네시스 세단 협력 및 투자 계획도 공개했다."
@@ -484,40 +471,10 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stake-raised-by-archer-investment-corp-2026-07-25/",
       "source": "MarketBeat",
       "published_at": "2026-07-25T07:13:21+00:00",
-      "sentiment": 0.482319,
+      "sentiment": 0.468865,
       "change_pct": -0.92,
       "title_kr": "Archer Investment Corp가 NVIDIA Corporation $NVDA 지분을 모집했습니다.",
       "summary_kr": "Archer Investment Corp는 1분기에 NVIDIA Corporation(NASDAQ:NVDA) 지분을 20.8% 늘려 현재 461만 2천 달러 상당의 26,444주를 보유하여 18번째로 큰 지분을 보유하고 있습니다. Norges Bank, J. Stern과 같은 기타 기관 투자자"
-    },
-    {
-      "id": "av_5314b68d8fb18e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVMI|Nova Ltd|Price:437.980|Chg%:-17.390",
-      "summary": "This article provides a detailed overview of Nova Ltd (NVMI), an Israel-based company offering metrology solutions for the semiconductor manufacturing industry. It highlights the company's strong fundamentals, high growth potential, and relatively fair valuation within its indust",
-      "url": "https://www.tradingkey.com/markets/stocks/nvmi",
-      "source": "TradingKey",
-      "published_at": "2026-07-25T09:41:53+00:00",
-      "sentiment": 0.344344,
-      "change_pct": -0.92,
-      "title_kr": "NVMI|노바(Nova Ltd)|가격:437.980|Chg%:-17.390",
-      "summary_kr": "이 기사에서는 반도체 제조 산업을 위한 계측 솔루션을 제공하는 이스라엘 기반 회사인 Nova Ltd(NVMI)에 대한 자세한 개요를 제공합니다. 이는 회사의 강력한 펀더멘털, 높은 성장 잠재력, 상대적으로 공정한 가치 평가를 강조합니다."
-    },
-    {
-      "id": "av_4fd5dd19a8e82d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout",
-      "summary": "NAVER, NVIDIA, and Brookfield announced a proposed expansion of Korea's sovereign AI factory infrastructure, planning to increase the initial NVIDIA DSX AI factory deployment from 55 megawatts to 200 megawatts by 2028, with NAVER aiming for 1 gigawatt. This expansion, backed by N",
-      "url": "https://sg.finance.yahoo.com/news/naver-nvidia-brookfield-expand-korea-051000938.html",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-07-25T05:10:22+00:00",
-      "sentiment": 0.454493,
-      "change_pct": -0.92,
-      "title_kr": "네이버, 엔비디아, 브룩필드, 한국 국가 AI 공장 인프라 구축 확대 나선다",
-      "summary_kr": "네이버, 엔비디아, 브룩필드는 한국의 주권 AI 공장 인프라 확장 제안을 발표했으며, 2028년까지 초기 엔비디아 DSX AI 공장 배치를 55메가와트에서 200메가와트로 늘릴 계획이며, 네이버는 1기가와트를 목표로 하고 있습니다. 이 전"
     },
     {
       "id": "av_8c355d7f5edd9c",
@@ -529,25 +486,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-has-19380-million-stake-in-colgate-palmolive-company-cl-2026-07-25/",
       "source": "MarketBeat",
       "published_at": "2026-07-25T10:17:38+00:00",
-      "sentiment": 0.320949,
+      "sentiment": 0.334609,
       "change_pct": -0.92,
       "title_kr": "Renaissance Technologies LLC는 Colgate-Palmolive Company $CL에서 1억 9380만 달러의 지분을 보유하고 있습니다.",
       "summary_kr": "Renaissance Technologies LLC는 1분기에 Colgate-Palmolive Company(NYSE:CL)의 지분을 17.9% 줄여 총 보유액을 1억 9,380만 달러로 늘렸습니다. 그럼에도 불구하고 다른 기관투자자들의 포지션이 늘었고 애널리스트들은 \""
     },
     {
-      "id": "av_f09d2be25239f4",
+      "id": "av_4fd5dd19a8e82d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nuclear Company Oklo Receives Startup Authorization for Groves Reactor, A Key Step In Its Regulatory Journey",
-      "summary": "Oklo (NYSE:OKLO) has received \"startup authorization\" from the U.S. Department of Energy for its Groves Reactor in Texas, a significant step that allows the company to load nuclear fuel and begin testing. This authorization, achieved in just over 10 months from groundbreaking, is",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3461979/nuclear-company-oklo-receives-startup-authorization-for-groves-reactor-a-key-step-in-its-regulatory-journey/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-25T12:25:12+00:00",
-      "sentiment": 0.24111,
+      "title": "NAVER, NVIDIA and Brookfield to Expand Korea’s National AI Factory Infrastructure Buildout",
+      "summary": "NAVER, NVIDIA, and Brookfield announced a proposed expansion of Korea's sovereign AI factory infrastructure, planning to increase the initial NVIDIA DSX AI factory deployment from 55 megawatts to 200 megawatts by 2028, with NAVER aiming for 1 gigawatt. This expansion, backed by N",
+      "url": "https://sg.finance.yahoo.com/news/naver-nvidia-brookfield-expand-korea-051000938.html",
+      "source": "Yahoo Finance Singapore",
+      "published_at": "2026-07-25T05:10:22+00:00",
+      "sentiment": 0.45448,
       "change_pct": -0.92,
-      "title_kr": "원자력 회사 Oklo, 규제 여정의 핵심 단계인 Groves 원자로에 대한 시동 승인 획득",
-      "summary_kr": "Oklo(NYSE:OKLO)는 미국 에너지부로부터 텍사스에 있는 Groves 원자로에 대한 \"시동 승인\"을 받았습니다. 이는 회사가 핵연료를 장전하고 테스트를 시작할 수 있는 중요한 단계입니다. 이 승인은 불과 10개월 만에 달성되었습니다."
+      "title_kr": "네이버, 엔비디아, 브룩필드, 한국 국가 AI 공장 인프라 구축 확대 나선다",
+      "summary_kr": "네이버, 엔비디아, 브룩필드는 한국의 주권 AI 공장 인프라 확장 제안을 발표했으며, 2028년까지 초기 엔비디아 DSX AI 공장 배치를 55메가와트에서 200메가와트로 늘릴 계획이며, 네이버는 1기가와트를 목표로 하고 있습니다. 이 전"
     },
     {
       "id": "av_ab74cd42fa2440",
@@ -559,10 +516,55 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-cannell-spears-llc-has-9188-million-holdings-in-analog-devices-inc-adi-2026-07-25/",
       "source": "MarketBeat",
       "published_at": "2026-07-25T08:20:59+00:00",
-      "sentiment": 0.325806,
+      "sentiment": 0.356295,
       "change_pct": -0.92,
       "title_kr": "Cannell & Spears LLC는 Analog Devices, Inc.에 9,188만 달러의 지분을 보유하고 있습니다. $ADI",
       "summary_kr": "Cannell & Spears LLC는 1분기 동안 Analog Devices, Inc.(NASDAQ:ADI)의 지분을 15.6% 감소시켜 현재 9,188만 달러 상당의 293,257주를 보유하고 있습니다. 이러한 감소에도 불구하고 Analog Devices는 여전히 12번째로 큰 투자 규모를 유지하고 있습니다. 다른 기관"
+    },
+    {
+      "id": "av_8ba7aa0e0d267b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amkor Technology (AMKR) Lands Nvidia Deal As Investors Ask If The Stock Is Already Priced In",
+      "summary": "Amkor Technology (AMKR) has announced a multi-year, $1.5 billion partnership with NVIDIA, which includes a prepayment for expanding Amkor's semiconductor packaging and testing capacity in the U.S. While the stock's share price has been choppy recently, it's up over 50% year-to-da",
+      "url": "https://uk.finance.yahoo.com/news/amkor-technology-amkr-lands-nvidia-091055217.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-25T09:12:00+00:00",
+      "sentiment": 0.333896,
+      "change_pct": -0.92,
+      "title_kr": "투자자들이 주식 가격이 이미 책정되었는지 묻는 가운데 Amkor Technology(AMKR)가 Nvidia 거래를 성사시켰습니다.",
+      "summary_kr": "Amkor Technology(AMKR)는 미국에서 Amkor의 첨단 반도체 패키징 및 테스트 역량을 확장하기 위한 대규모 선불을 포함하여 NVIDIA와 다년간 15억 달러 규모의 파트너십을 발표한 후 다시 주목을 받고 있습니다. Amko에 대한 최신 분석 보기"
+    },
+    {
+      "id": "av_5314b68d8fb18e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVMI|Nova Ltd|Price:437.980|Chg%:-17.390",
+      "summary": "This article provides a detailed overview of Nova Ltd (NVMI), an Israel-based company offering metrology solutions for the semiconductor manufacturing industry. It highlights the company's strong fundamentals, high growth potential, and relatively fair valuation within its indust",
+      "url": "https://www.tradingkey.com/markets/stocks/nvmi",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T09:41:53+00:00",
+      "sentiment": 0.31235,
+      "change_pct": -0.92,
+      "title_kr": "NVMI|노바(Nova Ltd)|가격:437.980|Chg%:-17.390",
+      "summary_kr": "이 기사에서는 반도체 제조 산업을 위한 계측 솔루션을 제공하는 이스라엘 기반 회사인 Nova Ltd(NVMI)에 대한 자세한 개요를 제공합니다. 이는 회사의 강력한 펀더멘털, 높은 성장 잠재력, 상대적으로 공정한 가치 평가를 강조합니다."
+    },
+    {
+      "id": "av_f09d2be25239f4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nuclear Company Oklo Receives Startup Authorization for Groves Reactor, A Key Step In Its Regulatory Journey",
+      "summary": "Oklo (NYSE:OKLO) has received \"startup authorization\" from the U.S. Department of Energy for its Groves Reactor in Texas, a significant step that allows the company to load nuclear fuel and begin testing. This authorization, achieved in just over 10 months from groundbreaking, is",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3461979/nuclear-company-oklo-receives-startup-authorization-for-groves-reactor-a-key-step-in-its-regulatory-journey/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-25T12:25:12+00:00",
+      "sentiment": 0.235813,
+      "change_pct": -0.92,
+      "title_kr": "원자력 회사 Oklo, 규제 여정의 핵심 단계인 Groves 원자로에 대한 시동 승인 획득",
+      "summary_kr": "Oklo(NYSE:OKLO)는 미국 에너지부로부터 텍사스에 있는 Groves 원자로에 대한 \"시동 승인\"을 받았습니다. 이는 회사가 핵연료를 장전하고 테스트를 시작할 수 있는 중요한 단계입니다. 이 승인은 불과 10개월 만에 달성되었습니다."
     },
     {
       "id": "av_5ac818c524aa0a",
@@ -574,25 +576,10 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-caxton-associates-llp-cuts-stock-holdings-in-lumentum-holdings-inc-lite-2026-07-25/",
       "source": "MarketBeat",
       "published_at": "2026-07-25T08:42:25+00:00",
-      "sentiment": 0.315419,
+      "sentiment": 0.309779,
       "change_pct": -0.92,
       "title_kr": "Caxton Associates LLP, Lumentum Holdings Inc. $LITE의 주식 보유 감소",
       "summary_kr": "Caxton Associates LLP는 1분기에 Lumentum Holdings Inc.의 지분을 65.0% 대폭 줄여 6,041주를 매각했습니다. 그럼에도 불구하고, 다른 주요 기관투자자들은 보유 지분을 늘렸고, 애널리스트들은 L에 대해 '보통 매수' 투자의견을 유지했다."
-    },
-    {
-      "id": "av_7174b8e1164b20",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Western Digital Corporation (NASDAQ:WDC) Got Lucky While Micron’s The Real Deal, Says Jim Cramer",
-      "summary": "Jim Cramer believes Western Digital Corporation (NASDAQ:WDC) has been fortunate, despite its significant stock rally, and he considers Micron to be a more substantial company. Cramer notes Western Digital's inability to forecast customer demand and its \"also-ran\" status compared ",
-      "url": "https://ca.finance.yahoo.com/news/western-digital-corporation-nasdaq-wdc-080209259.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-07-25T08:02:22+00:00",
-      "sentiment": 0.309069,
-      "change_pct": -0.92,
-      "title_kr": "Western Digital Corporation(NASDAQ:WDC)은 마이크론이 진짜 거래를 하는 동안 운이 좋았다고 Jim Cramer는 말합니다.",
-      "summary_kr": "Jim Cramer는 Western Digital Corporation(NASDAQ:WDC)이 상당한 주가 상승에도 불구하고 행운을 누렸다고 믿으며 Micron을 보다 실질적인 회사로 간주합니다. Cramer는 Western Digital이 고객 수요를 예측할 능력이 없으며 \"또한-r\"이라고 지적합니다."
     },
     {
       "id": "av_24d43d7f7aed20",
@@ -604,25 +591,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-dai-ichi-life-insurance-company-ltd-cuts-stock-holdings-in-colgate-palmolive-company-cl-2026-07-25/",
       "source": "MarketBeat",
       "published_at": "2026-07-25T08:20:35+00:00",
-      "sentiment": 0.298772,
+      "sentiment": 0.297528,
       "change_pct": -0.92,
       "title_kr": "Dai ichi Life Insurance Company Ltd, Colgate-Palmolive Company $CL의 주식 보유량을 줄였습니다.",
       "summary_kr": "Dai ichi Life Insurance Company Ltd는 1분기에 Colgate-Palmolive Company의 지분을 5.7% 줄여 11,566주를 매각하고 약 1,642만 달러 상당의 192,622주를 보유했습니다. 한 기관투자자의 이러한 감소에도 불구하고,"
     },
     {
-      "id": "av_5bbf091a090c73",
+      "id": "av_7174b8e1164b20",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Renaissance Technologies LLC Sells 3,920 Shares of Ubiquiti Inc. $UI",
-      "summary": "Renaissance Technologies LLC reduced its stake in Ubiquiti Inc. by 1.8% in the first quarter, selling 3,920 shares to hold 218,944 shares valued at $173 million. Other institutional investors like M&T Bank Corp and Tudor Investment Corp ET AL significantly increased their positio",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-sells-3920-shares-of-ubiquiti-inc-ui-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T10:10:25+00:00",
-      "sentiment": 0.243947,
+      "title": "Western Digital Corporation (NASDAQ:WDC) Got Lucky While Micron’s The Real Deal, Says Jim Cramer",
+      "summary": "Jim Cramer believes Western Digital Corporation (NASDAQ:WDC) has been fortunate, despite its significant stock rally, and he considers Micron to be a more substantial company. Cramer notes Western Digital's inability to forecast customer demand and its \"also-ran\" status compared ",
+      "url": "https://ca.finance.yahoo.com/news/western-digital-corporation-nasdaq-wdc-080209259.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-07-25T08:02:22+00:00",
+      "sentiment": 0.30248,
       "change_pct": -0.92,
-      "title_kr": "Renaissance Technologies LLC는 Ubiquiti Inc.의 주식 3,920주를 매각합니다. $UI",
-      "summary_kr": "Renaissance Technologies LLC는 1분기에 Ubiquiti Inc.의 지분을 1.8% 줄여 3,920주를 매각하여 1억 7,300만 달러 상당의 218,944주를 보유했습니다. M&T Bank Corp 및 Tudor Investment Corp ET AL과 같은 기타 기관 투자자"
+      "title_kr": "Western Digital Corporation(NASDAQ:WDC)은 마이크론이 진짜 거래를 하는 동안 운이 좋았다고 Jim Cramer는 말합니다.",
+      "summary_kr": "Jim Cramer는 Western Digital Corporation(NASDAQ:WDC)이 상당한 주가 상승에도 불구하고 행운을 누렸다고 믿으며 Micron을 보다 실질적인 회사로 간주합니다. Cramer는 Western Digital이 고객 수요를 예측할 능력이 없으며 \"또한-r\"이라고 지적합니다."
     },
     {
       "id": "av_99c11c693ba065",
@@ -634,40 +621,55 @@
       "url": "https://www.stl.news/hidden-giants-ai-boom-micron-technology-qualcomm/",
       "source": "STL.News",
       "published_at": "2026-07-25T12:39:49+00:00",
-      "sentiment": 0.14345,
+      "sentiment": 0.148958,
       "change_pct": -0.92,
       "title_kr": "AI 붐의 숨겨진 거인: Micron 기술과 Qualcomm이 여전히 크게 저평가되어 있는 이유",
       "summary_kr": "이 기사에서는 마이크론 테크놀로지(MU)와 퀄컴(QCOM)이 인공지능 붐에서 중요한 역할을 하고 있음에도 불구하고 크게 저평가되어 있다고 주장합니다. 마이크론은 AI 가속기에 필수적인 고대역폭 메모리 독점 공급업체로 자리매김하고 있으며,"
     },
     {
-      "id": "av_aefce53f7da253",
+      "id": "av_5bbf091a090c73",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "ABN Amro Investment Solutions Takes $1.34 Million Position in Flex Ltd. $FLEX",
-      "summary": "ABN Amro Investment Solutions recently acquired a new position in Flex Ltd. (NASDAQ:FLEX), purchasing 20,497 shares valued at approximately $1.34 million during the first quarter. This comes as other institutional investors, such as Vanguard Group Inc. and Norges Bank, significan",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-abn-amro-investment-solutions-takes-134-million-position-in-flex-ltd-flex-2026-07-25/",
+      "title": "Renaissance Technologies LLC Sells 3,920 Shares of Ubiquiti Inc. $UI",
+      "summary": "Renaissance Technologies LLC reduced its stake in Ubiquiti Inc. by 1.8% in the first quarter, selling 3,920 shares to hold 218,944 shares valued at $173 million. Other institutional investors like M&T Bank Corp and Tudor Investment Corp ET AL significantly increased their positio",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-sells-3920-shares-of-ubiquiti-inc-ui-2026-07-25/",
       "source": "MarketBeat",
-      "published_at": "2026-07-25T07:10:17+00:00",
-      "sentiment": 0.249718,
+      "published_at": "2026-07-25T10:10:25+00:00",
+      "sentiment": 0.203163,
       "change_pct": -0.92,
-      "title_kr": "ABN Amro Investment Solutions, Flex Ltd. $FLEX에서 134만 달러 규모의 포지션 확보",
-      "summary_kr": "ABN Amro Investment Solutions는 최근 Flex Ltd.(NASDAQ:FLEX)에서 새로운 지위를 인수하여 1분기 동안 약 134만 달러 상당의 주식 20,497주를 매입했습니다. 이는 Vanguard Group Inc. 및 Nor와 같은 다른 기관 투자자들에게서 나옵니다."
+      "title_kr": "Renaissance Technologies LLC는 Ubiquiti Inc.의 주식 3,920주를 매각합니다. $UI",
+      "summary_kr": "Renaissance Technologies LLC는 1분기에 Ubiquiti Inc.의 지분을 1.8% 줄여 3,920주를 매각하여 1억 7,300만 달러 상당의 218,944주를 보유했습니다. M&T Bank Corp 및 Tudor Investment Corp ET AL과 같은 기타 기관 투자자"
     },
     {
-      "id": "av_90e82f3869be2a",
+      "id": "av_2715487e85aff0",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "YieldMax NVDA Option Income Strategy ETF (NVDY) stock price, news, quote and history",
-      "summary": "This article provides detailed financial information for the YieldMax NVDA Option Income Strategy ETF (NVDY), including its current stock price, historical data, performance metrics, and key statistics. It highlights the ETF's investment strategy, which involves options on NVDA, ",
-      "url": "https://uk.finance.yahoo.com/quote/NVDY?p=NVDY",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-25T12:41:35+00:00",
-      "sentiment": 0.09991,
+      "title": "FXHO|UTime Ord Shs Class A|Price:12.040|Chg%:-0.260",
+      "summary": "This article provides a detailed financial overview of UTime Ord Shs Class A (FXHO), including its current price, market capitalization, key figures, and technical indicators. It shows the stock closed at $12.040, down 2.11% from the previous day. The analysis also lists related ",
+      "url": "https://www.tradingkey.com/markets/stocks/fxho",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T10:41:21+00:00",
+      "sentiment": -0.189579,
       "change_pct": -0.92,
-      "title_kr": "YieldMax NVDA Option Income Strategy ETF (NVDY) 주가, 뉴스, 시세 및 내역",
-      "summary_kr": "이 기사에서는 현재 주가, 과거 데이터, 성과 지표 및 주요 통계를 포함하여 YieldMax NVDA Option Income Strategy ETF(NVDY)에 대한 자세한 재무 정보를 제공합니다. 이는 ETF의 투자 전략을 강조합니다."
+      "title_kr": "FXHO|UTime Ord Shs 클래스 A|가격:12.040|Chg%:-0.260",
+      "summary_kr": "이 기사에서는 현재 가격, 시가 총액, 주요 수치 및 기술 지표를 포함하여 FXHO(UTime Ord Shs Class A)의 자세한 재무 개요를 제공합니다. 주가는 전날보다 2.11% 하락한 $12.040에 마감된 것으로 나타났습니다. 분석"
+    },
+    {
+      "id": "av_d2b0bc91a1cd7f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Xeris Biopharma Holdings, Inc. $XERS Shares Sold by Granahan Investment Management LLC",
+      "summary": "Granahan Investment Management LLC reduced its stake in Xeris Biopharma Holdings, Inc. (NASDAQ:XERS) by 24.6% in the first quarter, selling 301,550 shares and retaining 921,854 shares valued at approximately $5.35 million. This divestment comes amidst mixed signals, with Weiss Ra",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-xeris-biopharma-holdings-inc-xers-shares-sold-by-granahan-investment-management-llc-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T10:10:15+00:00",
+      "sentiment": 0.142637,
+      "change_pct": -0.92,
+      "title_kr": "Xeris Biopharma Holdings, Inc. $XERS 주식은 Granahan Investment Management LLC에 매각되었습니다.",
+      "summary_kr": "Granahan Investment Management LLC는 1분기에 Xeris Biopharma Holdings, Inc.(NASDAQ:XERS)의 지분을 24.6% 줄여 301,550주를 매각하고 약 535만 달러 상당의 921,854주를 보유했습니다. 이번 매각은 혼합된 상황 속에서 이루어졌습니다."
     },
     {
       "id": "f_fbf79b6c3beed0",
@@ -681,21 +683,6 @@
       "published_at": "2026-07-25T15:52:27+00:00",
       "title_kr": "DGRW 내부: 시장이 변화하는 동안 32% 지급 비율이 분배를 안전하게 유지하는 방법",
       "summary_kr": "DGRW 수익률은 1.3%에 불과하며 NVIDIA를 최고 보유자로 간주합니다. 이는 이 펀드가 실제로 안정적인 수입을 제공하는지 아니면 월별 분배가 첨부된 메가캡 모멘텀을 타는 것인지에 대한 공정한 질문을 제기합니다."
-    },
-    {
-      "id": "av_6772fab567583c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Gamco Investors INC. ET AL Sells 21,379 Shares of Deere & Company $DE",
-      "summary": "Gamco Investors INC. ET AL reduced its stake in Deere & Company (NYSE:DE) by 18.4% in the first quarter, selling 21,379 shares and valuing its remaining holdings at $53.47 million. Despite this insider selling, other hedge funds increased their positions, and 68.58% of the stock ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gamco-investors-inc-et-al-sells-21379-shares-of-deere-company-de-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T10:16:57+00:00",
-      "sentiment": 0.138051,
-      "change_pct": -0.92,
-      "title_kr": "Gamco Investors INC. ET AL, Deere & Company $DE 주식 21,379주 매각",
-      "summary_kr": "Gamco Investors INC. ET AL은 1분기에 Deere & Company(NYSE:DE)의 지분을 18.4% 줄여 21,379주를 매각하고 나머지 보유 자산의 가치를 5,347만 달러로 평가했습니다. 이러한 내부자 매각에도 불구하고 다른 헤지펀드들은 포지션을 늘렸고,"
     },
     {
       "id": "f_24dee357eb68eb",
@@ -721,7 +708,9 @@
       "url": "https://finnhub.io/api/news?id=d3da66409983c7b7c0ab1e80e405394e3851f5df383fd2dec934d2fc1277ae1b",
       "source": "Yahoo",
       "published_at": "2026-07-25T15:30:51+00:00",
-      "change_pct": -0.92
+      "change_pct": -0.92,
+      "title_kr": "억만장자 투자자 세스 클라먼(Seth Klarman)의 상위 5개 주식: 오늘 더 많이 사겠습니까?",
+      "summary_kr": "Seth Klarman의 Baupost Group은 방금 자사의 5대 주식 포지션을 공개했으며, 이 목록에는 첫 페이지에 유명인과 함께 폭발적인 수익 성장을 기록한 잘 알려지지 않은 산업 유통업체가 포함되어 있습니다. 그의 논리를 리버스 엔지니어링하여 공개"
     },
     {
       "id": "f_779de65a52c248",
@@ -736,19 +725,34 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_4d853773ef41e6",
+      "id": "av_96d46a18d7c03b",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Marvell Technology, Inc. $MRVL Shares Acquired by Punch & Associates Investment Management Inc.",
-      "summary": "Punch & Associates Investment Management Inc. significantly increased its stake in Marvell Technology, Inc. by 80.6% in the first quarter, now holding 140,137 shares valued at $13.9 million. Marvell Technology (NASDAQ:MRVL) is highlighted as a key beneficiary of the burgeoning AI",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-marvell-technology-inc-mrvl-shares-acquired-by-punch-associates-investment-management-inc-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T10:15:35+00:00",
-      "sentiment": -0.128135,
+      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
+      "summary": "Samsung Electronics has secured a significant partnership with U.S. chip designer Broadcom, valued at over $200 billion until 2030, covering memory chips, contract chip making, and advanced packaging for AI chips. This collaboration aims to boost Samsung's foundry utilization and",
+      "url": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25/",
+      "source": "Reuters",
+      "published_at": "2026-07-25T09:37:28+00:00",
+      "sentiment": 0.14632,
       "change_pct": -0.92,
-      "title_kr": "Marvell Technology, Inc. $MRVL 주식을 Punch & Associates Investment Management Inc.에 인수",
-      "summary_kr": "Punch & Associates Investment Management Inc.는 1분기에 Marvell Technology, Inc.의 지분을 80.6% 크게 늘려 현재 1,390만 달러 상당의 140,137주를 보유하고 있습니다. Marvell Technology(NASDAQ:MRVL)가 주요 수혜자로 부각됩니다."
+      "title_kr": "삼성전자, 2000억 달러 규모의 브로드컴 AI 칩 파트너십 체결로 파운드리 추진 박차",
+      "summary_kr": "삼성전자는 메모리 칩, 계약 칩 제조, AI 칩용 첨단 패키징 등을 포함해 2030년까지 가치가 2000억 달러가 넘는 미국 칩 설계업체 브로드컴과 중요한 파트너십을 확보했다. 이번 협업은 삼성의 FOU를 향상시키는 것을 목표로 합니다."
+    },
+    {
+      "id": "av_aefce53f7da253",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "ABN Amro Investment Solutions Takes $1.34 Million Position in Flex Ltd. $FLEX",
+      "summary": "ABN Amro Investment Solutions recently acquired a new position in Flex Ltd. (NASDAQ:FLEX), purchasing 20,497 shares valued at approximately $1.34 million during the first quarter. This comes as other institutional investors, such as Vanguard Group Inc. and Norges Bank, significan",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-abn-amro-investment-solutions-takes-134-million-position-in-flex-ltd-flex-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T07:10:17+00:00",
+      "sentiment": 0.207645,
+      "change_pct": -0.92,
+      "title_kr": "ABN Amro Investment Solutions, Flex Ltd. $FLEX에서 134만 달러 규모의 포지션 확보",
+      "summary_kr": "ABN Amro Investment Solutions는 최근 Flex Ltd.(NASDAQ:FLEX)에서 새로운 지위를 인수하여 1분기 동안 약 134만 달러 상당의 주식 20,497주를 매입했습니다. 이는 Vanguard Group Inc. 및 Nor와 같은 다른 기관 투자자들에게서 나옵니다."
     },
     {
       "id": "f_01a838712d57f7",
@@ -763,21 +767,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_c9550fe8a5e0ef",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Will Lofty Q3 2026 Earnings Expectations Reshape Analog Devices' (ADI) AI and Automation Narrative?",
-      "summary": "Analog Devices (ADI) is set to release its Q3 fiscal 2026 results on August 19, 2026, with analysts anticipating a significant year-on-year earnings increase, driven by strong demand in industrial, data center, and automotive sectors. This optimism hinges on ADI's high-margin pro",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/will-lofty-q3-2026-earnings-expectations-reshape-analog-devi",
-      "source": "Simply Wall Street",
-      "published_at": "2026-07-25T09:41:04+00:00",
-      "sentiment": 0.141195,
-      "change_pct": -0.92,
-      "title_kr": "높은 2026년 3분기 수익 기대치가 Analog Devices(ADI)의 AI 및 자동화 내러티브를 바꿀까요?",
-      "summary_kr": "아나로그디바이스(ADI)는 2026년 8월 19일 2026 회계연도 3분기 실적을 발표할 예정이며, 분석가들은 산업, 데이터센터, 자동차 부문의 강한 수요에 힘입어 전년 대비 상당한 수익 증가를 예상하고 있습니다. 이러한 낙관론은 A에 달려 있습니다."
-    },
-    {
       "id": "av_0ece5fee91e45d",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -787,7 +776,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262053329-market-movers-lrcx-20260724",
       "source": "TradingKey",
       "published_at": "2026-07-24T19:18:36+00:00",
-      "sentiment": -0.640622,
+      "sentiment": -0.618735,
       "change_pct": -0.92,
       "title_kr": "Lam Research Corp 주식(LRCX)은 7월 24일 4.71% 하락: 주요 동인 공개",
       "summary_kr": "Lam Research Corp(LRCX) 주가는 반도체 장비 부문의 차익 실현, 국제 수익에 영향을 미치는 지정학적 긴장, 메모리 시장의 고르지 못한 회복으로 인해 7월 24일 4.71% 하락했습니다. 기술 지표는 매도 조건을 나타냅니다."
@@ -817,6 +806,21 @@
       "change_pct": 0.65
     },
     {
+      "id": "av_4d853773ef41e6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Marvell Technology, Inc. $MRVL Shares Acquired by Punch & Associates Investment Management Inc.",
+      "summary": "Punch & Associates Investment Management Inc. significantly increased its stake in Marvell Technology, Inc. by 80.6% in the first quarter, now holding 140,137 shares valued at $13.9 million. Marvell Technology (NASDAQ:MRVL) is highlighted as a key beneficiary of the burgeoning AI",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-marvell-technology-inc-mrvl-shares-acquired-by-punch-associates-investment-management-inc-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T10:15:35+00:00",
+      "sentiment": -0.121047,
+      "change_pct": -0.92,
+      "title_kr": "Marvell Technology, Inc. $MRVL 주식을 Punch & Associates Investment Management Inc.에 인수",
+      "summary_kr": "Punch & Associates Investment Management Inc.는 1분기에 Marvell Technology, Inc.의 지분을 80.6% 크게 늘려 현재 1,390만 달러 상당의 140,137주를 보유하고 있습니다. Marvell Technology(NASDAQ:MRVL)가 주요 수혜자로 부각됩니다."
+    },
+    {
       "id": "f_67d5a303ed237d",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -827,6 +831,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T15:05:00+00:00",
       "change_pct": -0.92
+    },
+    {
+      "id": "av_90e82f3869be2a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "YieldMax NVDA Option Income Strategy ETF (NVDY) stock price, news, quote and history",
+      "summary": "This article provides detailed financial information for the YieldMax NVDA Option Income Strategy ETF (NVDY), including its current stock price, historical data, performance metrics, and key statistics. It highlights the ETF's investment strategy, which involves options on NVDA, ",
+      "url": "https://uk.finance.yahoo.com/quote/NVDY?p=NVDY",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-25T12:41:35+00:00",
+      "sentiment": 0.055403,
+      "change_pct": -0.92,
+      "title_kr": "YieldMax NVDA Option Income Strategy ETF (NVDY) 주가, 뉴스, 시세 및 내역",
+      "summary_kr": "이 기사에서는 현재 주가, 과거 데이터, 성과 지표 및 주요 통계를 포함하여 YieldMax NVDA Option Income Strategy ETF(NVDY)에 대한 자세한 재무 정보를 제공합니다. 이는 ETF의 투자 전략을 강조합니다."
     },
     {
       "id": "f_b6c43bbe263314",
@@ -853,19 +872,19 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_96d46a18d7c03b",
+      "id": "av_c9550fe8a5e0ef",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Samsung Elec wins $200 billion Broadcom AI chip partnership, boosting foundry push",
-      "summary": "Samsung Electronics has secured a significant partnership with U.S. chip designer Broadcom, valued at over $200 billion until 2030, covering memory chips, contract chip making, and advanced packaging for AI chips. This collaboration aims to boost Samsung's foundry utilization and",
-      "url": "https://www.reuters.com/business/autos-transportation/samsung-elec-wins-200-billion-broadcom-ai-chip-partnership-boosting-foundry-push-2026-07-25/",
-      "source": "Reuters",
-      "published_at": "2026-07-25T09:37:28+00:00",
-      "sentiment": 0.125283,
+      "title": "Will Lofty Q3 2026 Earnings Expectations Reshape Analog Devices' (ADI) AI and Automation Narrative?",
+      "summary": "Analog Devices (ADI) is set to release its Q3 fiscal 2026 results on August 19, 2026, with analysts anticipating a significant year-on-year earnings increase, driven by strong demand in industrial, data center, and automotive sectors. This optimism hinges on ADI's high-margin pro",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/will-lofty-q3-2026-earnings-expectations-reshape-analog-devi",
+      "source": "Simply Wall Street",
+      "published_at": "2026-07-25T09:41:04+00:00",
+      "sentiment": 0.127462,
       "change_pct": -0.92,
-      "title_kr": "삼성전자, 2000억 달러 규모의 브로드컴 AI 칩 파트너십 체결로 파운드리 추진 박차",
-      "summary_kr": "삼성전자는 메모리 칩, 계약 칩 제조, AI 칩용 첨단 패키징 등을 포함해 2030년까지 가치가 2000억 달러가 넘는 미국 칩 설계업체 브로드컴과 중요한 파트너십을 확보했다. 이번 협업은 삼성의 FOU를 향상시키는 것을 목표로 합니다."
+      "title_kr": "높은 2026년 3분기 수익 기대치가 Analog Devices(ADI)의 AI 및 자동화 내러티브를 바꿀까요?",
+      "summary_kr": "아나로그디바이스(ADI)는 2026년 8월 19일 2026 회계연도 3분기 실적을 발표할 예정이며, 분석가들은 산업, 데이터센터, 자동차 부문의 강한 수요에 힘입어 전년 대비 상당한 수익 증가를 예상하고 있습니다. 이러한 낙관론은 A에 달려 있습니다."
     },
     {
       "id": "f_35a23b3840ade9",
@@ -890,6 +909,36 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T14:35:00+00:00",
       "change_pct": -0.92
+    },
+    {
+      "id": "av_96e119872f2ade",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "DA Davidson reiterates SS&C Technologies stock rating on Q2 beat",
+      "summary": "DA Davidson maintained a Buy rating and a $96.00 price target for SS&C Technologies Holdings (NASDAQ: SSNC) after the company surpassed Q2 consensus estimates for revenue and adjusted EPS. The company also increased the midpoint of its fiscal 2026 adjusted EPS guidance by 3%, rei",
+      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-ssc-technologies-stock-rating-on-q2-beat-93CH-4811982",
+      "source": "Investing.com",
+      "published_at": "2026-07-25T09:44:00+00:00",
+      "sentiment": 0.121248,
+      "change_pct": -0.92,
+      "title_kr": "DA Davidson, 2분기에 SS&C Technologies 주식 등급 재확인",
+      "summary_kr": "DA Davidson은 SS&C Technologies Holdings(NASDAQ: SSNC)가 매출 및 조정 EPS에 대한 2분기 컨센서스 추정치를 넘어선 후 매수 등급과 목표 주가 96.00달러를 유지했습니다. 회사는 또한 2026 회계연도 조정 EPS의 중간점을 늘렸습니다."
+    },
+    {
+      "id": "av_6772fab567583c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Gamco Investors INC. ET AL Sells 21,379 Shares of Deere & Company $DE",
+      "summary": "Gamco Investors INC. ET AL reduced its stake in Deere & Company (NYSE:DE) by 18.4% in the first quarter, selling 21,379 shares and valuing its remaining holdings at $53.47 million. Despite this insider selling, other hedge funds increased their positions, and 68.58% of the stock ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-gamco-investors-inc-et-al-sells-21379-shares-of-deere-company-de-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T10:16:57+00:00",
+      "sentiment": 0.105765,
+      "change_pct": -0.92,
+      "title_kr": "Gamco Investors INC. ET AL, Deere & Company $DE 주식 21,379주 매각",
+      "summary_kr": "Gamco Investors INC. ET AL은 1분기에 Deere & Company(NYSE:DE)의 지분을 18.4% 줄여 21,379주를 매각하고 나머지 보유 자산의 가치를 5,347만 달러로 평가했습니다. 이러한 내부자 매각에도 불구하고 다른 헤지펀드들은 포지션을 늘렸고,"
     },
     {
       "id": "f_981ecb72525860",
@@ -938,34 +987,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T14:20:00+00:00",
       "change_pct": -0.92
-    },
-    {
-      "id": "av_1b15aaa2c5e38e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Discerene Group LP Reduces Stake in Telecom Argentina Stet - France Telecom S.A. $TEO",
-      "summary": "Discerene Group LP significantly reduced its stake in Telecom Argentina Stet - France Telecom S.A. (NYSE: TEO) by 15.1% in the first quarter, selling 73,615 shares, though it remains its 11th largest holding. Concurrently, Director Alejandro Alberto Urricelqui increased his owner",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-discerene-group-lp-reduces-stake-in-telecom-argentina-stet-france-telecom-sa-teo-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T08:41:52+00:00",
-      "sentiment": 0.136121,
-      "change_pct": -0.92
-    },
-    {
-      "id": "av_96e119872f2ade",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "DA Davidson reiterates SS&C Technologies stock rating on Q2 beat",
-      "summary": "DA Davidson maintained a Buy rating and a $96.00 price target for SS&C Technologies Holdings (NASDAQ: SSNC) after the company surpassed Q2 consensus estimates for revenue and adjusted EPS. The company also increased the midpoint of its fiscal 2026 adjusted EPS guidance by 3%, rei",
-      "url": "https://www.investing.com/news/analyst-ratings/da-davidson-reiterates-ssc-technologies-stock-rating-on-q2-beat-93CH-4811982",
-      "source": "Investing.com",
-      "published_at": "2026-07-25T09:44:00+00:00",
-      "sentiment": 0.108534,
-      "change_pct": -0.92,
-      "title_kr": "DA Davidson, 2분기에 SS&C Technologies 주식 등급 재확인",
-      "summary_kr": "DA Davidson은 SS&C Technologies Holdings(NASDAQ: SSNC)가 매출 및 조정 EPS에 대한 2분기 컨센서스 추정치를 넘어선 후 매수 등급과 목표 주가 96.00달러를 유지했습니다. 회사는 또한 2026 회계연도 조정 EPS의 중간점을 늘렸습니다."
     },
     {
       "id": "f_12bf326e2ec978",
@@ -1040,6 +1061,19 @@
       "change_pct": -0.92
     },
     {
+      "id": "av_1b15aaa2c5e38e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Discerene Group LP Reduces Stake in Telecom Argentina Stet - France Telecom S.A. $TEO",
+      "summary": "Discerene Group LP significantly reduced its stake in Telecom Argentina Stet - France Telecom S.A. (NYSE: TEO) by 15.1% in the first quarter, selling 73,615 shares, though it remains its 11th largest holding. Concurrently, Director Alejandro Alberto Urricelqui increased his owner",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-discerene-group-lp-reduces-stake-in-telecom-argentina-stet-france-telecom-sa-teo-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T08:41:52+00:00",
+      "sentiment": 0.123607,
+      "change_pct": -0.92
+    },
+    {
       "id": "av_c801222cff8a9a",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1049,10 +1083,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-lido-advisors-llc-sells-41866-shares-of-marvell-technology-inc-mrvl-2026-07-25/",
       "source": "MarketBeat",
       "published_at": "2026-07-25T09:15:36+00:00",
-      "sentiment": -0.108449,
+      "sentiment": -0.109252,
       "change_pct": -0.92,
       "title_kr": "Lido Advisors LLC는 Marvell Technology, Inc. $MRVL의 주식 41,866주를 매각합니다.",
       "summary_kr": "Lido Advisors LLC는 41,866주를 매각하여 Marvell Technology, Inc.의 지분을 크게 줄여 1분기 동안 보유 지분을 46.5% 줄였습니다. 그럼에도 불구하고 다른 헤지펀드들은 포지션을 조정했고 일부는 지분을 늘렸다."
+    },
+    {
+      "id": "av_4b3d6a8b053325",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Moderna: A Stock to Watch or a Risky Bet?",
+      "summary": "This article features a Motley Fool Scoreboard episode discussing Moderna (NASDAQ: MRNA) to help investors gain insights into market trends and potential opportunities. While experts analyze Moderna, the article also highlights other investment recommendations from Motley Fool's ",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/3456615/moderna-a-stock-to-watch-or-a-risky-bet/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-25T00:10:10+00:00",
+      "sentiment": 0.335973,
+      "change_pct": -0.92,
+      "title_kr": "Moderna: 주목해야 할 주식인가 위험한 베팅인가?",
+      "summary_kr": "이 기사에서는 투자자들이 시장 동향과 잠재적 기회에 대한 통찰력을 얻을 수 있도록 Moderna(NASDAQ: MRNA)에 대해 논의하는 Motley Fool Scoreboard 에피소드를 제공합니다. 전문가들이 Moderna를 분석하는 동안 이 기사에서는 다른 투자 권장 사항도 강조합니다."
     },
     {
       "id": "f_c84bc1b33f4cc7",
@@ -1079,6 +1128,21 @@
       "change_pct": -0.92
     },
     {
+      "id": "av_8d6f5af2580034",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "5,965 Shares in Apple Inc. $AAPL Acquired by AlpenGlobal Capital LLC",
+      "summary": "AlpenGlobal Capital LLC has acquired 5,965 shares of Apple Inc. (NASDAQ:AAPL) stock, valued at approximately $1.51 million, during the first quarter. This comes amidst significant institutional activity, with other large firms also adjusting their holdings in the iPhone maker. Th",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-5965-shares-in-apple-inc-aapl-acquired-by-alpenglobal-capital-llc-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T07:16:08+00:00",
+      "sentiment": 0.147152,
+      "change_pct": -0.92,
+      "title_kr": "Apple Inc.의 주식 5,965주 $AAPL, AlpenGlobal Capital LLC에서 인수",
+      "summary_kr": "AlpenGlobal Capital LLC는 1분기 동안 약 151만 달러 상당의 Apple Inc.(NASDAQ:AAPL) 주식 5,965주를 인수했습니다. 이는 다른 대기업도 보유 지분을 조정하는 등 중요한 제도적 활동 중에 발생합니다."
+    },
+    {
       "id": "f_2d994f2028536b",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1101,21 +1165,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T13:05:00+00:00",
       "change_pct": -0.92
-    },
-    {
-      "id": "av_4b3d6a8b053325",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Moderna: A Stock to Watch or a Risky Bet?",
-      "summary": "This article features a Motley Fool Scoreboard episode discussing Moderna (NASDAQ: MRNA) to help investors gain insights into market trends and potential opportunities. While experts analyze Moderna, the article also highlights other investment recommendations from Motley Fool's ",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/3456615/moderna-a-stock-to-watch-or-a-risky-bet/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-25T00:10:10+00:00",
-      "sentiment": 0.321659,
-      "change_pct": -0.92,
-      "title_kr": "Moderna: 주목해야 할 주식인가 위험한 베팅인가?",
-      "summary_kr": "이 기사에서는 투자자들이 시장 동향과 잠재적 기회에 대한 통찰력을 얻을 수 있도록 Moderna(NASDAQ: MRNA)에 대해 논의하는 Motley Fool Scoreboard 에피소드를 제공합니다. 전문가들이 Moderna를 분석하는 동안 이 기사에서는 다른 투자 권장 사항도 강조합니다."
     },
     {
       "id": "f_cdeb90c6f6c310",
@@ -1142,21 +1191,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_945211d972e186",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
-      "summary": "Several major tech companies, including Nvidia, Microsoft, IBM, and Meta, have signed an open letter calling on policymakers not to ban open-source artificial intelligence models. This initiative follows reports that some Trump administration officials considered restricting the ",
-      "url": "https://siliconangle.com/2026/07/24/nvidia-tech-giants-caution-open-source-ai-ban-open-letter/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-07-25T00:08:48+00:00",
-      "sentiment": 0.319034,
-      "change_pct": -0.92,
-      "title_kr": "엔비디아 등 거대 기술 기업, 공개서한 통해 오픈소스 AI 금지 반대 경고",
-      "summary_kr": "Nvidia, Microsoft, IBM, Meta를 포함한 몇몇 주요 기술 회사는 정책 입안자들에게 오픈 소스 인공 지능 모델을 금지하지 말 것을 촉구하는 공개 서한에 서명했습니다. 이 계획은 일부 트럼프 행정부 관리들이 고려하는 보고서에 따른 것입니다."
-    },
-    {
       "id": "f_a67304fcd13349",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1167,6 +1201,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T12:54:00+00:00",
       "change_pct": 0.65
+    },
+    {
+      "id": "av_945211d972e186",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia, other tech giants caution against open-source AI ban in open letter",
+      "summary": "Several major tech companies, including Nvidia, Microsoft, IBM, and Meta, have signed an open letter calling on policymakers not to ban open-source artificial intelligence models. This initiative follows reports that some Trump administration officials considered restricting the ",
+      "url": "https://siliconangle.com/2026/07/24/nvidia-tech-giants-caution-open-source-ai-ban-open-letter/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-07-25T00:08:48+00:00",
+      "sentiment": 0.313192,
+      "change_pct": -0.92,
+      "title_kr": "엔비디아 등 거대 기술 기업, 공개서한 통해 오픈소스 AI 금지 반대 경고",
+      "summary_kr": "Nvidia, Microsoft, IBM, Meta를 포함한 몇몇 주요 기술 회사는 정책 입안자들에게 오픈 소스 인공 지능 모델을 금지하지 말 것을 촉구하는 공개 서한에 서명했습니다. 이 계획은 일부 트럼프 행정부 관리들이 고려하는 보고서에 따른 것입니다."
     },
     {
       "id": "f_2c1bed81b3293f",
@@ -1193,6 +1242,21 @@
       "change_pct": -0.92
     },
     {
+      "id": "av_cbf396b62b041d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arrowstreet Capital Limited Partnership Buys 4,115,676 Shares of Gen Digital Inc. $GEN",
+      "summary": "Arrowstreet Capital Limited Partnership significantly increased its holdings in Gen Digital Inc. (NASDAQ:GEN) by 45.8% in the first quarter, purchasing over 4.1 million additional shares. This move brings their total stake to 13,094,386 shares, valued at $246.57 million. Other in",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-arrowstreet-capital-limited-partnership-buys-4115676-shares-of-gen-digital-inc-gen-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T07:09:18+00:00",
+      "sentiment": 0.129525,
+      "change_pct": -0.92,
+      "title_kr": "Arrowstreet Capital Limited Partnership, Gen Digital Inc. $GEN의 주식 4,115,676주 매입",
+      "summary_kr": "Arrowstreet Capital Limited Partnership은 1분기에 Gen Digital Inc.(NASDAQ:GEN)의 지분을 45.8% 증가시켜 410만 주 이상의 추가 주식을 매입했습니다. 이번 움직임으로 그들의 총 지분은 13,094,386주(246달러 상당)로 늘어났습니다."
+    },
+    {
       "id": "f_e58bdded6864e7",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1205,19 +1269,17 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_cbf396b62b041d",
+      "id": "av_ef6c5e12460a1d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Arrowstreet Capital Limited Partnership Buys 4,115,676 Shares of Gen Digital Inc. $GEN",
-      "summary": "Arrowstreet Capital Limited Partnership significantly increased its holdings in Gen Digital Inc. (NASDAQ:GEN) by 45.8% in the first quarter, purchasing over 4.1 million additional shares. This move brings their total stake to 13,094,386 shares, valued at $246.57 million. Other in",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-arrowstreet-capital-limited-partnership-buys-4115676-shares-of-gen-digital-inc-gen-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T07:09:18+00:00",
-      "sentiment": 0.128633,
-      "change_pct": -0.92,
-      "title_kr": "Arrowstreet Capital Limited Partnership, Gen Digital Inc. $GEN의 주식 4,115,676주 매입",
-      "summary_kr": "Arrowstreet Capital Limited Partnership은 1분기에 Gen Digital Inc.(NASDAQ:GEN)의 지분을 45.8% 증가시켜 410만 주 이상의 추가 주식을 매입했습니다. 이번 움직임으로 그들의 총 지분은 13,094,386주(246달러 상당)로 늘어났습니다."
+      "title": "Interlink Electronics Inc|Price:4.860|Chg%:+0.030",
+      "summary": "Interlink Electronics Inc. (LINK) is currently trading at $4.860, up 0.62%, with a market capitalization of $76.55 million. Analysts rate the stock as a \"Buy\" with a target price of $8.67, indicating a 136.15% upside. The company, a provider of sensors and printed electronics for",
+      "url": "https://www.tradingkey.com/markets/stocks/link",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T07:13:13+00:00",
+      "sentiment": 0.127368,
+      "change_pct": -0.92
     },
     {
       "id": "f_512380c1dda14a",
@@ -1314,19 +1376,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_ef6c5e12460a1d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Interlink Electronics Inc|Price:4.860|Chg%:+0.030",
-      "summary": "Interlink Electronics Inc. (LINK) is currently trading at $4.860, up 0.62%, with a market capitalization of $76.55 million. Analysts rate the stock as a \"Buy\" with a target price of $8.67, indicating a 136.15% upside. The company, a provider of sensors and printed electronics for",
-      "url": "https://www.tradingkey.com/markets/stocks/link",
-      "source": "TradingKey",
-      "published_at": "2026-07-25T07:13:13+00:00",
-      "sentiment": 0.108323,
-      "change_pct": -0.92
-    },
-    {
       "id": "f_0c286034b06543",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1337,21 +1386,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T11:25:00+00:00",
       "change_pct": -0.92
-    },
-    {
-      "id": "av_8d6f5af2580034",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "5,965 Shares in Apple Inc. $AAPL Acquired by AlpenGlobal Capital LLC",
-      "summary": "AlpenGlobal Capital LLC has acquired 5,965 shares of Apple Inc. (NASDAQ:AAPL) stock, valued at approximately $1.51 million, during the first quarter. This comes amidst significant institutional activity, with other large firms also adjusting their holdings in the iPhone maker. Th",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-5965-shares-in-apple-inc-aapl-acquired-by-alpenglobal-capital-llc-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T07:16:08+00:00",
-      "sentiment": 0.101835,
-      "change_pct": -0.92,
-      "title_kr": "Apple Inc.의 주식 5,965주 $AAPL, AlpenGlobal Capital LLC에서 인수",
-      "summary_kr": "AlpenGlobal Capital LLC는 1분기 동안 약 151만 달러 상당의 Apple Inc.(NASDAQ:AAPL) 주식 5,965주를 인수했습니다. 이는 다른 대기업도 보유 지분을 조정하는 등 중요한 제도적 활동 중에 발생합니다."
     },
     {
       "id": "f_6ff46a7366373f",
@@ -1377,6 +1411,19 @@
       "published_at": "2026-07-25T11:09:23+00:00"
     },
     {
+      "id": "av_2843b9881fba49",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy Inc Stock (MSTR) Moved Up by 7.06% on May 1: Facts Behind the Movement",
+      "summary": "MicroStrategy's (MSTR) stock rose by 7.06% on May 1st, primarily due to Bitcoin's strong rally and the company's substantial Bitcoin holdings. Analyst price target increases and anticipation for the Q1 2026 earnings report, expected to highlight gains on Bitcoin, further fueled i",
+      "url": "https://www.tradingkey.com/news/market-movers/261848152-market-movers-mstr-20260501",
+      "source": "TradingKey",
+      "published_at": "2026-05-01T17:15:00+00:00",
+      "sentiment": 0.641896,
+      "change_pct": -2.09
+    },
+    {
       "id": "f_06ba771a58fcf6",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1387,6 +1434,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T11:05:00+00:00",
       "change_pct": -0.92
+    },
+    {
+      "id": "av_010b84ed8990ea",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy Announces Digital Credit Capital Framework, USD Reserve Policy, STRC Dividend Policy, Digital Credit and MSTR Repurchase Authorizations, and BTC Monetization Program",
+      "summary": "Strategy Inc. has unveiled a comprehensive Digital Credit Capital Framework to bolster its preferred securities, enhance liquidity, and sustain long-term Bitcoin exposure. Key components include a Board-Approved USD Reserve policy, a revised STRC dividend policy with potential ra",
+      "url": "https://www.strategy.com/press/strategy-announces-digital-credit-capital-framework_06-29-2026",
+      "source": "Strategy",
+      "published_at": "2026-06-29T12:11:46+00:00",
+      "sentiment": 0.49307,
+      "change_pct": -2.09
     },
     {
       "id": "f_af4d396fffb81e",
@@ -1448,6 +1508,21 @@
       "change_pct": -2.09
     },
     {
+      "id": "av_4ddc8e686d592d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Atomera Inc (ATOM) Earnings Forecast: Future EPS & Revenue Growth Estimates",
+      "summary": "Atomera Inc (ATOM) has an earnings forecast score of 8.00, placing it 34th in the Semiconductors & Semiconductor Equipment industry. Analysts have a \"Buy\" rating for ATOM, with an average price target of $5.00, indicating a potential 70.79% upside. The company's expected revenue ",
+      "url": "https://www.tradingkey.com/markets/stocks/atom/earnings",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T04:41:57+00:00",
+      "sentiment": 0.143445,
+      "change_pct": -0.92,
+      "title_kr": "Atomera Inc(ATOM) 수익 예측: 미래 EPS 및 수익 성장 추정",
+      "summary_kr": "Atomera Inc(ATOM)는 수익 예측 점수가 8.00으로 반도체 및 반도체 장비 업계에서 34위를 기록했습니다. 분석가들은 ATOM에 대해 \"매수\" 등급을 부여했으며 평균 목표 가격은 5.00달러로 잠재적 상승 여력은 70.79%입니다. 회사"
+    },
+    {
       "id": "f_ebe5327d437e2f",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1472,6 +1547,47 @@
       "change_pct": -0.92
     },
     {
+      "id": "av_dc37b603644733",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Semtech Slides as Chip Selloff and Valuation Reset Appear to Pressure Shares",
+      "summary": "Semtech (SMTC) stock is down 8.6% today, likely due to a broader semiconductor selloff and a re-evaluation of AI-related chip valuations rather than company-specific news. The company had previously reported strong quarterly net sales in May and disclosed a new revolving credit f",
+      "url": "https://www.quiverquant.com/news/Semtech+Slides+as+Chip+Selloff+and+Valuation+Reset+Appear+to+Pressure+Shares",
+      "source": "Quiver Quantitative",
+      "published_at": "2026-07-24T21:23:00+00:00",
+      "sentiment": -0.318833,
+      "change_pct": -0.92,
+      "title_kr": "칩 매도 및 가치 평가 재설정이 압력 점유율로 나타나면서 Semtech 슬라이드",
+      "summary_kr": "Semtech(SMTC) 주가는 오늘 8.6% 하락했는데, 이는 회사별 뉴스보다는 광범위한 반도체 매도와 AI 관련 칩 가치 평가 재평가로 인한 것으로 보입니다. 회사는 이전에 5월에 강한 분기별 순매출을 보고했으며 새로운 소식을 공개했습니다."
+    },
+    {
+      "id": "av_fe4425ec99738d",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Key facts: Institutions Add $1.344B to MSTR; Saylor Says BTC Demand",
+      "summary": "Institutions have significantly increased their holdings in MicroStrategy (MSTR), with Vanguard and BlackRock adding a combined $1.344 billion. MicroStrategy's executive chairman, Michael Saylor, highlighted strong institutional demand for Bitcoin, stating that the company's subs",
+      "url": "https://www.tradingview.com/news/tradingview:571fc03fd3a89:0-key-facts-institutions-add-1-344b-to-mstr-saylor-says-btc-demand/",
+      "source": "TradingView",
+      "published_at": "2026-05-22T07:40:10+00:00",
+      "sentiment": 0.474054,
+      "change_pct": -2.09
+    },
+    {
+      "id": "av_6674cc415471a6",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy Inc Stock (MSTR) Moved Up by 9.41% on Apr 22: Key Drivers Unveiled",
+      "summary": "MicroStrategy's (MSTR) stock jumped by 9.41% on April 22nd, driven by its aggressive Bitcoin acquisition strategy, notably buying 34,164 BTC for $2.54 billion. The rally was further fueled by Capital Group's significant purchase of MSTR shares, an increase in Bitcoin's price, and",
+      "url": "https://www.tradingkey.com/news/market-movers/261811975-market-movers-mstr-20260422",
+      "source": "TradingKey",
+      "published_at": "2026-04-22T19:45:17+00:00",
+      "sentiment": 0.473661,
+      "change_pct": -2.09
+    },
+    {
       "id": "f_09671dde179e80",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1482,32 +1598,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T10:02:00+00:00",
       "change_pct": -0.92
-    },
-    {
-      "id": "av_d214ec34c3b65a",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Technology, Inc. Stock 12‑Month Price Target Raised to $268.15, Implies 29% Upside",
-      "summary": "The average 12-month price target for Marvell Technology, Inc. (MRVL) stock has increased to $268.15, up from $264.77, according to 36 analysts. This new target suggests a potential upside of approximately 29% from its July 21st closing price. The consensus rating among 41 coveri",
-      "url": "https://www.tradingview.com/news/tradingview:6665abe29fcb5:0-marvell-technology-inc-stock-12-month-price-target-raised-to-268-15-implies-29-upside/",
-      "source": "TradingView",
-      "published_at": "2026-07-22T07:10:44+00:00",
-      "sentiment": 0.507197,
-      "change_pct": -7.21
-    },
-    {
-      "id": "av_fb792bb8d0d26b",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "$Marvell Technology (MRVL.US)$ let go up up up",
-      "summary": "A Moomoo user expressed bullish sentiment towards Marvell Technology (MRVL.US), encouraging its stock to go \"up up up.\" The post, shared within the Moomoo community, highlights an individual's positive outlook on the company's stock performance. This brief comment serves as a soc",
-      "url": "https://www.moomoo.com/community/feed/marvell-technology-mrvl-us-let-go-up-up-up-116956545613830",
-      "source": "Moomoo",
-      "published_at": "2026-07-21T06:41:17+00:00",
-      "sentiment": 0.534119,
-      "change_pct": -7.21
     },
     {
       "id": "f_e9c6a87cba62dd",
@@ -1522,19 +1612,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_b3970ca9e4deae",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Crashed Below $200: This Wall Street Firm Thinks It Doubles From Here",
-      "summary": "Marvell Technology (MRVL) stock recently crashed 33% despite strong Q1 revenue and Q2 guidance, becoming a sentiment-driven selloff rather than a fundamental collapse. KeyBanc analyst John Vinh upgraded the stock with a $400 price target, citing a potential $12 billion Google \"Me",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-crashed-below-200-wall-160716356.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-16T12:07:00+00:00",
-      "sentiment": 0.498437,
-      "change_pct": -7.21
-    },
-    {
       "id": "f_2da082f97a9f5e",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -1547,21 +1624,6 @@
       "change_pct": -3.29
     },
     {
-      "id": "av_dc37b603644733",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Semtech Slides as Chip Selloff and Valuation Reset Appear to Pressure Shares",
-      "summary": "Semtech (SMTC) stock is down 8.6% today, likely due to a broader semiconductor selloff and a re-evaluation of AI-related chip valuations rather than company-specific news. The company had previously reported strong quarterly net sales in May and disclosed a new revolving credit f",
-      "url": "https://www.quiverquant.com/news/Semtech+Slides+as+Chip+Selloff+and+Valuation+Reset+Appear+to+Pressure+Shares",
-      "source": "Quiver Quantitative",
-      "published_at": "2026-07-24T21:23:00+00:00",
-      "sentiment": -0.308186,
-      "change_pct": -0.92,
-      "title_kr": "칩 매도 및 가치 평가 재설정이 압력 점유율로 나타나면서 Semtech 슬라이드",
-      "summary_kr": "Semtech(SMTC) 주가는 오늘 8.6% 하락했는데, 이는 회사별 뉴스보다는 광범위한 반도체 매도와 AI 관련 칩 가치 평가 재평가로 인한 것으로 보입니다. 회사는 이전에 5월에 강한 분기별 순매출을 보고했으며 새로운 소식을 공개했습니다."
-    },
-    {
       "id": "av_1e3e2fd66aa5f4",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1571,25 +1633,10 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/navitas-semiconductor-vs-servicenow-recent-202401324.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-24T20:40:45+00:00",
-      "sentiment": 0.323402,
+      "sentiment": 0.325122,
       "change_pct": -0.92,
       "title_kr": "Navitas Semiconductor와 ServiceNow: 최근 분기별 수익 추세가 투자자에게 이러한 기술 회사에 대해 알려주는 내용",
       "summary_kr": "ServiceNow의 매출은 40억 달러로 꾸준히 증가한 반면 Navitas는 급격하게 감소했습니다. 그러나 최근의 상승세는 잠재적인 변곡점을 암시합니다."
-    },
-    {
-      "id": "av_4ddc8e686d592d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Atomera Inc (ATOM) Earnings Forecast: Future EPS & Revenue Growth Estimates",
-      "summary": "Atomera Inc (ATOM) has an earnings forecast score of 8.00, placing it 34th in the Semiconductors & Semiconductor Equipment industry. Analysts have a \"Buy\" rating for ATOM, with an average price target of $5.00, indicating a potential 70.79% upside. The company's expected revenue ",
-      "url": "https://www.tradingkey.com/markets/stocks/atom/earnings",
-      "source": "TradingKey",
-      "published_at": "2026-07-25T04:41:57+00:00",
-      "sentiment": 0.122084,
-      "change_pct": -0.92,
-      "title_kr": "Atomera Inc(ATOM) 수익 예측: 미래 EPS 및 수익 성장 추정",
-      "summary_kr": "Atomera Inc(ATOM)는 수익 예측 점수가 8.00으로 반도체 및 반도체 장비 업계에서 34위를 기록했습니다. 분석가들은 ATOM에 대해 \"매수\" 등급을 부여했으며 평균 목표 가격은 5.00달러로 잠재적 상승 여력은 70.79%입니다. 회사"
     },
     {
       "id": "f_bf4a3fe0126f31",
@@ -1604,17 +1651,19 @@
       "change_pct": 0.65
     },
     {
-      "id": "av_2ad34f81b8daec",
+      "id": "av_b119c5a555fc8e",
       "provider": "alphavantage",
-      "ticker": "MRVL",
+      "ticker": "NVDA",
       "category": "general",
-      "title": "Is Marvell Technology's Q4 Beat a Game Changer for Investors",
-      "summary": "Marvell Technology's robust Q4 CY2025 financial performance, exceeding revenue expectations and offering strong Q1 CY2026 guidance, highlights its strategic importance in the burgeoning AI infrastructure market. The company is actively capitalizing on this growth through its data",
-      "url": "https://www.kavout.com/market-lens/is-marvell-technology-s-q4-beat-a-game-changer-for-investors",
-      "source": "Kavout | AI",
-      "published_at": "2026-07-22T03:11:23+00:00",
-      "sentiment": 0.486287,
-      "change_pct": -7.21
+      "title": "SWKS|Skyworks Solutions Inc|Price:60.220|Chg%:-0.250",
+      "summary": "Skyworks Solutions Inc. (SWKS) shows relatively healthy fundamentals and significant growth potential, although its valuation is considered fairly valued within the Semiconductors & Semiconductor Equipment industry. Analysts have largely rated it as a Hold, with institutional own",
+      "url": "https://www.tradingkey.com/markets/stocks/swks",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T03:39:50+00:00",
+      "sentiment": 0.145808,
+      "change_pct": -0.92,
+      "title_kr": "SWKS|스카이웍스 솔루션즈|가격:60.220|Chg%:-0.250",
+      "summary_kr": "Skyworks Solutions Inc.(SWKS)는 반도체 및 반도체 장비 산업 내에서 그 가치가 상당히 높은 평가를 받고 있음에도 불구하고 비교적 건전한 펀더멘털과 상당한 성장 잠재력을 보여줍니다. 애널리스트들은 대체로 이를 보류로 평가했습니다."
     },
     {
       "id": "f_dac260218ad542",
@@ -1682,33 +1731,6 @@
       "change_pct": -0.92,
       "title_kr": "JPMorgan CEO Jamie Dimon은 월스트리트에 불길한 경고를 보냈습니다: \"가능한 한 좋은 결과에 가까워졌습니다\"",
       "summary_kr": "Dimon은 월스트리트에서 가장 많은 관심을 받는 CEO 중 한 명입니다."
-    },
-    {
-      "id": "av_9fb7df6cc67421",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Technology Inc Stock (MRVL) Moved Down by 5.22% on Jul 24: Key Drivers Unveiled",
-      "summary": "Marvell Technology Inc. (MRVL) stock fell by 5.22% on July 24, driven by broader semiconductor sector weakness, macroeconomic interest rate concerns, and fears of cooling cloud infrastructure spending. Technical indicators suggest a \"sell\" signal for MRVL. The company, which has ",
-      "url": "https://www.tradingkey.com/news/market-movers/262053185-market-movers-mrvl-20260724",
-      "source": "TradingKey",
-      "published_at": "2026-07-24T17:15:35+00:00",
-      "sentiment": -0.398246,
-      "change_pct": -7.21
-    },
-    {
-      "id": "f_5991f2385990c9",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Amkor Technology (AMKR) Lands Nvidia Deal As Investors Ask If The Stock Is Already Priced In",
-      "summary": "Amkor Technology (AMKR) is back in focus after announcing a multi-year, $1.5b partnership with NVIDIA, including a sizeable prepayment aimed at expanding Amkor’s advanced semiconductor packaging and testing capacity in the U.S. See our latest analysis for Amkor Technology. Amkor Technology’s share price has been choppy, with a 30 day share price return down 21.5% and a 90 day share price return down 16.8%. Yet year to date the share price return is up 51.35% and the 1 year total shareholder...",
-      "url": "https://finnhub.io/api/news?id=0e20e6e5f4fc14829c55ab4bcca623deb635bea8e1f25a3598db3b3b003da532",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T09:10:55+00:00",
-      "change_pct": -0.92,
-      "title_kr": "투자자들이 주식 가격이 이미 책정되었는지 묻는 가운데 Amkor Technology(AMKR)가 Nvidia 거래를 성사시켰습니다.",
-      "summary_kr": "Amkor Technology(AMKR)는 미국에서 Amkor의 첨단 반도체 패키징 및 테스트 역량을 확장하기 위한 대규모 선불을 포함하여 NVIDIA와 다년간 15억 달러 규모의 파트너십을 발표한 후 다시 주목을 받고 있습니다. Amko에 대한 최신 분석 보기"
     },
     {
       "id": "f_fa2dcd49037e5e",
@@ -1805,6 +1827,19 @@
       "summary_kr": "네이버, 브룩필드, 엔비디아가 한국의 AI 공장 인프라 확충을 발표했습니다. 새로운 투자로 초기 NVIDIA DSX™ AI 공장 배포가 55메가와트에서 200메가와트로 증가할 것입니다."
     },
     {
+      "id": "av_0a809a2cce168f",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Rosen Law Firm Encourages Strategy Inc Investors to Inquire About Securities Class Action Investigation – MSTR, STRF, STRC, STRK, STRD",
+      "summary": "The Rosen Law Firm has announced an investigation into potential securities claims on behalf of investors in Strategy Inc (NASDAQ: MSTR, STRF, STRC, STRK, STRD). The firm alleges that Strategy Inc may have issued materially misleading business information, entitling affected shar",
+      "url": "https://www.businesswire.com/news/home/20260624221688/en/Rosen-Law-Firm-Encourages-Strategy-Inc-Investors-to-Inquire-About-Securities-Class-Action-Investigation-MSTR-STRF-STRC-STRK-STRD",
+      "source": "Business Wire",
+      "published_at": "2026-06-25T00:40:12+00:00",
+      "sentiment": -0.443696,
+      "change_pct": -2.09
+    },
+    {
       "id": "f_568b66ea9a418c",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1819,19 +1854,16 @@
       "summary_kr": "세계 최대 규모의 암호화폐는 지난 1년 동안 가치의 거의 절반을 잃었습니다."
     },
     {
-      "id": "av_f50c18795d946d",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
+      "id": "f_5c4f5edb19921e",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
       "category": "general",
-      "title": "Marvell Technology (NASDAQ:MRVL) Shares Up 6.4% - What's Next?",
-      "summary": "Marvell Technology (NASDAQ:MRVL) saw its shares rise by 6.4% in midday trading, reaching $199.33, propelled by several analysts raising their price targets on the stock. The company recently reported strong quarterly results, meeting EPS estimates at $0.80 and exceeding revenue e",
-      "url": "https://www.marketbeat.com/instant-alerts/marvell-technology-nasdaqmrvl-shares-up-64-whats-next-2026-07-20/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-20T18:39:25+00:00",
-      "sentiment": 0.468529,
-      "change_pct": -7.21,
-      "title_kr": "Marvell Technology(NASDAQ:MRVL) 주가가 6.4% 상승 - 다음 단계는 무엇입니까?",
-      "summary_kr": "Marvell Technology(NASDAQ:MRVL)는 여러 분석가들이 주식 목표 가격을 높이면서 정오 거래에서 주가가 6.4% 상승하여 $199.33에 도달했습니다. 이 회사는 최근 EPS 추정치인 0.80달러를 충족하는 강력한 분기별 결과를 보고했습니다."
+      "title": "Imax 70 mm screenings become the biggest star for Christopher Nolan’s ‘The Odyssey’",
+      "summary": "Moviegoers are traveling, lining up and paying premiums to see Christopher Nolan’s ‘The Odyssey’ in scarce Imax 70 mm screenings.",
+      "url": "https://finnhub.io/api/news?id=cb08628ae24a8bf19813365d74e696fb26bc0b2cdc54cb2f3140137cb2ad0c40",
+      "source": "CNBC",
+      "published_at": "2026-07-25T08:46:34+00:00",
+      "change_pct": 0.65
     },
     {
       "id": "f_65cc381088390a",
@@ -1857,60 +1889,16 @@
       "change_pct": -2.08
     },
     {
-      "id": "av_269403a2a20550",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
+      "id": "f_7e382a9106cc94",
+      "provider": "finnhub",
+      "ticker": "TSLA",
       "category": "general",
-      "title": "Is Marvell Technology Inc (MRVL) Set to Underperform? Analyzing the Factors Limiting Growth",
-      "summary": "Marvell Technology Inc (MRVL) shows potential for underperformance despite its strong market position and recent gains, according to its GF Score. The analysis highlights diminished rankings in financial strength, growth, and valuation, with a GF Score of 69 out of 100 which typi",
-      "url": "https://www.gurufocus.com/news/8974991/is-marvell-technology-inc-mrvl-set-to-underperform-analyzing-the-factors-limiting-growth",
-      "source": "GuruFocus",
-      "published_at": "2026-07-23T14:40:48+00:00",
-      "sentiment": -0.464581,
-      "change_pct": -7.21
-    },
-    {
-      "id": "av_039452f2832d65",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Should Applied Optoelectronics’ Pearland Capacity Expansion Reshape AAOI’s AI Infrastructure Investment Narrative?",
-      "summary": "Applied Optoelectronics, Inc. (AAOI) is expanding its manufacturing capacity in Pearland, Texas, to increase production of 800G and 1.6T optical transceivers for AI and cloud infrastructure, adding nearly 400,000 square feet. This move reinforces the company's commitment to scali",
-      "url": "https://simplywall.st/stocks/us/tech/nasdaq-aaoi/applied-optoelectronics/news/should-applied-optoelectronics-pearland-capacity-expansion-r/amp",
-      "source": "Simply Wall Street",
-      "published_at": "2026-07-24T23:43:05+00:00",
-      "sentiment": 0.222167,
-      "change_pct": -0.92,
-      "title_kr": "Applied Optoelectronics의 Pearland 용량 확장이 AAOI의 AI 인프라 투자 내러티브를 재구성해야 합니까?",
-      "summary_kr": "AAOI(Applied Optoelectronics, Inc.)는 AI 및 클라우드 인프라용 800G 및 1.6T 광트랜시버 생산을 늘리기 위해 텍사스주 펄랜드의 제조 역량을 확장하여 약 400,000평방피트를 추가하고 있습니다. 이번 움직임은 회사의"
-    },
-    {
-      "id": "av_4eec0153614de1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "WEKA pushes full-stack approach to keep GPUs fed",
-      "summary": "WEKA has launched WEKApod 3, its first custom-designed hardware appliance, and NeuralMesh 6 software to optimize AI inference workloads. This full-stack approach aims to maximize GPU efficiency and minimize storage bottlenecks, offering up to 10 times higher token throughput and ",
-      "url": "https://www.techtarget.com/searchstorage/news/366646204/WEKA-pushes-full-stack-approach-to-keep-GPUs-fed",
-      "source": "TechTarget",
-      "published_at": "2026-07-24T18:40:38+00:00",
-      "sentiment": 0.347507,
-      "change_pct": -0.92,
-      "title_kr": "WEKA는 GPU 공급을 유지하기 위해 풀 스택 접근 방식을 추진합니다.",
-      "summary_kr": "WEKA는 AI 추론 워크로드를 최적화하기 위해 최초의 맞춤형 설계 하드웨어 어플라이언스인 WEKApod 3와 NeuralMesh 6 소프트웨어를 출시했습니다. 이 풀 스택 접근 방식은 GPU 효율성을 극대화하고 스토리지 병목 현상을 최소화하여 최대 10배 더 높은 t를 제공하는 것을 목표로 합니다."
-    },
-    {
-      "id": "av_02647665b9519d",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Stock’s AI Bet Is Even Bigger Than You Think",
-      "summary": "Marvell Technology has fundamentally shifted its focus from diversified semiconductor businesses to a concentrated bet on AI infrastructure, with its data center business now accounting for 76% of total revenue. Management projects significant growth in this sector, expecting 50%",
-      "url": "https://www.trefis.com/stock/mrvl/articles/607498/marvell-stocks-ai-bet-is-even-bigger-than-you-think/2026-07-16",
-      "source": "Trefis",
-      "published_at": "2026-07-17T10:11:36+00:00",
-      "sentiment": 0.460563,
-      "change_pct": -7.21
+      "title": "Intel, Tesla, IBM And More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "summary": "Retail investors talked up five hot stocks during July 20 to July 24 on X and Reddit&#39;s r/WallStreetBets: INTC, TSLA, GOOG, IBM, NOW.",
+      "url": "https://finnhub.io/api/news?id=7f3c71e31b7de9ab1c2ad9615c293eb73787efd7dcddf80d6b474664f9d49e2d",
+      "source": "Benzinga",
+      "published_at": "2026-07-25T08:30:14+00:00",
+      "change_pct": -2.08
     },
     {
       "id": "f_d163ab7c66fe48",
@@ -1927,17 +1915,32 @@
       "summary_kr": "인플레이션으로 인한 최악의 상황은 끝났다고 생각한다면 큰 착각에 빠지게 됩니다."
     },
     {
-      "id": "av_deaa5c8f344690",
+      "id": "av_445e1ccf39e393",
       "provider": "alphavantage",
-      "ticker": "MRVL",
+      "ticker": "MSTR",
       "category": "general",
-      "title": "Marvell Technology Stock And The Forecast It Kept Outgrowing",
-      "summary": "Marvell Technology (MRVL) stock saw a 189% gain due to the company consistently outperforming and raising its own AI revenue forecasts. Management repeatedly indicated that their AI targets were too low, expanding bullish outlooks for fiscal years 2025 and 2026, and emphasizing t",
-      "url": "https://www.trefis.com/stock/mrvl/articles/608532/marvell-technology-stock-and-the-forecast-it-kept-outgrowing/2026-07-23",
-      "source": "Trefis",
-      "published_at": "2026-07-23T19:10:42+00:00",
-      "sentiment": 0.459443,
-      "change_pct": -7.21
+      "title": "Strategy Inc Stock (MSTR) Moved Up by 7.23% on May 14: A Full Analysis",
+      "summary": "MicroStrategy (MSTR) stock rose by 7.23% on May 14, primarily due to a surge in Bitcoin's price approaching $80,000 and the company's continuous Bitcoin accumulation strategy, now holding nearly 820,000 BTC. Strong analyst \"Buy\" ratings with a median price target of $347.50, sign",
+      "url": "https://www.tradingkey.com/news/market-movers/261896107-market-movers-mstr-20260514",
+      "source": "TradingKey",
+      "published_at": "2026-05-14T17:15:00+00:00",
+      "sentiment": 0.431531,
+      "change_pct": -2.09
+    },
+    {
+      "id": "av_4eec0153614de1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "WEKA pushes full-stack approach to keep GPUs fed",
+      "summary": "WEKA has launched WEKApod 3, its first custom-designed hardware appliance, and NeuralMesh 6 software to optimize AI inference workloads. This full-stack approach aims to maximize GPU efficiency and minimize storage bottlenecks, offering up to 10 times higher token throughput and ",
+      "url": "https://www.techtarget.com/searchstorage/news/366646204/WEKA-pushes-full-stack-approach-to-keep-GPUs-fed",
+      "source": "TechTarget",
+      "published_at": "2026-07-24T18:40:38+00:00",
+      "sentiment": 0.336857,
+      "change_pct": -0.92,
+      "title_kr": "WEKA는 GPU 공급을 유지하기 위해 풀 스택 접근 방식을 추진합니다.",
+      "summary_kr": "WEKA는 AI 추론 워크로드를 최적화하기 위해 최초의 맞춤형 설계 하드웨어 어플라이언스인 WEKApod 3와 NeuralMesh 6 소프트웨어를 출시했습니다. 이 풀 스택 접근 방식은 GPU 효율성을 극대화하고 스토리지 병목 현상을 최소화하여 최대 10배 더 높은 t를 제공하는 것을 목표로 합니다."
     },
     {
       "id": "av_2b489d0ef0ae2a",
@@ -1949,25 +1952,25 @@
       "url": "https://www.tradingview.com/symbols/AMEX-IWLG/profile/",
       "source": "TradingView",
       "published_at": "2026-07-24T19:12:05+00:00",
-      "sentiment": 0.326016,
+      "sentiment": 0.32362,
       "change_pct": -0.92,
       "title_kr": "IWLG ETF 프로필: 배당금, 수익(AMEX:IWLG)",
       "summary_kr": "New York Life Insurance Co.가 관리하는 IWLG ETF는 강력한 시장 성장 기회와 경쟁 우위를 보이는 기업에 초점을 맞춰 미국 대형 성장주에 적극적으로 투자합니다. 펀드의 주요 부문은 전자 기술(Electronic Technology)과 T(T)입니다."
     },
     {
-      "id": "av_bfa28adcd98080",
+      "id": "av_039452f2832d65",
       "provider": "alphavantage",
-      "ticker": "MRVL",
+      "ticker": "NVDA",
       "category": "general",
-      "title": "Marvell Technology Jumps 5.6% Amid Sector-Wide Rally",
-      "summary": "Marvell Technology (MRVL) saw a 5.6% surge in its stock price, closing at $199.33, as part of a broad-based rally across the semiconductor sector. This increase added significant value to Marvell's market cap, driven by investor rotation into chip stocks and positive analyst sent",
-      "url": "https://news.alphastreet.com/marvell-technology-jumps-5-6-amid-sector-wide-rally/",
-      "source": "AlphaStreet",
-      "published_at": "2026-07-20T15:39:25+00:00",
-      "sentiment": 0.452833,
-      "change_pct": -7.21,
-      "title_kr": "Marvell Technology는 부문 전반의 랠리 속에서 5.6% 상승했습니다.",
-      "summary_kr": "Marvell Technology(MRVL)는 반도체 부문 전반에 걸친 광범위한 반등의 일환으로 주가가 5.6% 급등하여 199.33달러로 마감했습니다. 이러한 증가는 투자자가 칩 주식 및 P로 순환함으로써 Marvell의 시가총액에 상당한 가치를 추가했습니다."
+      "title": "Should Applied Optoelectronics’ Pearland Capacity Expansion Reshape AAOI’s AI Infrastructure Investment Narrative?",
+      "summary": "Applied Optoelectronics, Inc. (AAOI) is expanding its manufacturing capacity in Pearland, Texas, to increase production of 800G and 1.6T optical transceivers for AI and cloud infrastructure, adding nearly 400,000 square feet. This move reinforces the company's commitment to scali",
+      "url": "https://simplywall.st/stocks/us/tech/nasdaq-aaoi/applied-optoelectronics/news/should-applied-optoelectronics-pearland-capacity-expansion-r/amp",
+      "source": "Simply Wall Street",
+      "published_at": "2026-07-24T23:43:05+00:00",
+      "sentiment": 0.208631,
+      "change_pct": -0.92,
+      "title_kr": "Applied Optoelectronics의 Pearland 용량 확장이 AAOI의 AI 인프라 투자 내러티브를 재구성해야 합니까?",
+      "summary_kr": "AAOI(Applied Optoelectronics, Inc.)는 AI 및 클라우드 인프라용 800G 및 1.6T 광트랜시버 생산을 늘리기 위해 텍사스주 펄랜드의 제조 역량을 확장하여 약 400,000평방피트를 추가하고 있습니다. 이번 움직임은 회사의"
     },
     {
       "id": "f_abd9166970a019",
@@ -1982,6 +1985,18 @@
       "change_pct": -0.92,
       "title_kr": "Alphabet의 예상 2,050억 달러 Capex로 이 3개 AI 주식 상승 가능",
       "summary_kr": "Alphabet이 계속해서 자본 지출 예산을 늘리면서 Cipher Digital, Micron 및 Broadcom은 모두 큰 승자가 될 것으로 보입니다."
+    },
+    {
+      "id": "f_65361b3380465d",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Benzinga Bulls and Bears: IBM, Super Micro, Tesla",
+      "summary": "Benzinga examined the prospects for many investors’ favorite stocks over the last week — here’s a look at some of our top stories.",
+      "url": "https://finnhub.io/api/news?id=8614cf81f82a0f8d509eb025636405d798723406cb04853bc0d590a59ad7ef4d",
+      "source": "Benzinga",
+      "published_at": "2026-07-25T08:00:37+00:00",
+      "change_pct": -0.92
     },
     {
       "id": "f_f34b6f621b0420",
@@ -2008,19 +2023,6 @@
       "change_pct": -2.08
     },
     {
-      "id": "av_9d0c6de7252e66",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "What the Options Market Is Signaling About Marvell Technology Stock’s Next Big Swing",
-      "summary": "The options market indicates a wide and asymmetric risk range for Marvell Technology (MRVL) stock over the next year, with potential prices ranging from $85 to $456.57, suggesting high uncertainty. This elevated volatility reflects the market's focus on Marvell's ambitious growth",
-      "url": "https://www.trefis.com/stock/mrvl/articles/608172/what-the-options-market-is-signaling-about-marvell-technology-stocks-next-big-swing/2026-07-22",
-      "source": "Trefis",
-      "published_at": "2026-07-22T13:11:23+00:00",
-      "sentiment": 0.448072,
-      "change_pct": -7.21
-    },
-    {
       "id": "f_0a95c3450a5425",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -2031,19 +2033,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T07:56:38+00:00",
       "change_pct": 0.65
-    },
-    {
-      "id": "av_3f86cd9829af38",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "NFSG Corp Purchases 6,347 Shares of Marvell Technology, Inc. $MRVL",
-      "summary": "NFSG Corp increased its stake in Marvell Technology (NASDAQ:MRVL) by 11.7% in the first quarter, acquiring 6,347 additional shares and bringing its total holdings to 60,533 shares valued at approximately $6.0 million. Wall Street analysts maintain a \"Moderate Buy\" rating for MRVL",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nfsg-corp-purchases-6347-shares-of-marvell-technology-inc-mrvl-2026-07-15/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-15T10:41:19+00:00",
-      "sentiment": 0.446449,
-      "change_pct": -7.21
     },
     {
       "id": "f_da5cf41bd672e9",
@@ -2058,21 +2047,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_b119c5a555fc8e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SWKS|Skyworks Solutions Inc|Price:60.220|Chg%:-0.250",
-      "summary": "Skyworks Solutions Inc. (SWKS) shows relatively healthy fundamentals and significant growth potential, although its valuation is considered fairly valued within the Semiconductors & Semiconductor Equipment industry. Analysts have largely rated it as a Hold, with institutional own",
-      "url": "https://www.tradingkey.com/markets/stocks/swks",
-      "source": "TradingKey",
-      "published_at": "2026-07-25T03:39:50+00:00",
-      "sentiment": 0.102856,
-      "change_pct": -0.92,
-      "title_kr": "SWKS|스카이웍스 솔루션즈|가격:60.220|Chg%:-0.250",
-      "summary_kr": "Skyworks Solutions Inc.(SWKS)는 반도체 및 반도체 장비 산업 내에서 그 가치가 상당히 높은 평가를 받고 있음에도 불구하고 비교적 건전한 펀더멘털과 상당한 성장 잠재력을 보여줍니다. 애널리스트들은 대체로 이를 보류로 평가했습니다."
-    },
-    {
       "id": "f_182a90c5fe2de6",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2083,6 +2057,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T07:40:00+00:00",
       "change_pct": -0.92
+    },
+    {
+      "id": "av_a13eb2209bc6a2",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy Inc Class A Trade Ideas — LSX:722713",
+      "summary": "This article compiles various trade ideas and analyses for Strategy Inc Class A (LSX:722713), primarily focusing on MicroStrategy (MSTR) due to its significant Bitcoin holdings. Traders share both long and short positions, discussing financial performance, options data, technical",
+      "url": "https://www.tradingview.com/symbols/LSX-722713/ideas/page-35/",
+      "source": "TradingView",
+      "published_at": "2026-05-16T17:39:43+00:00",
+      "sentiment": 0.411908,
+      "change_pct": -2.09
     },
     {
       "id": "f_2fd7d8ce33d6a5",
@@ -2097,43 +2084,56 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_676b32284c6df3",
+      "id": "av_192a4b382b66b6",
       "provider": "alphavantage",
-      "ticker": "MRVL",
+      "ticker": "MSTR",
       "category": "general",
-      "title": "This One Factor Keeps Me Buying Marvell Technology Now",
-      "summary": "The author is continuing to buy Marvell Technology (MRVL) shares despite a recent 33% drop, citing the company's strong underlying business performance, particularly in AI infrastructure. Marvell's Q1 FY2027 revenue grew 28% year-over-year, and free cash flow surged 127%. The CEO",
-      "url": "https://247wallst.com/investing/2026/07/22/this-one-factor-keeps-me-buying-marvell-technology-now/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-07-22T14:15:00+00:00",
-      "sentiment": 0.433414,
-      "change_pct": -7.21
+      "title": "Strategy shares jump after unveiling framework that could allow Bitcoin sales",
+      "summary": "MicroStrategy's shares rose by almost 12% after the company introduced a new Digital Credit Capital Framework. This framework allows for the potential sale of up to $1.25 billion in Bitcoin under specific conditions, while reaffirming its primary strategy of holding Bitcoin as it",
+      "url": "https://ca.finance.yahoo.com/news/strategy-shares-jump-unveiling-framework-191800176.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-06-29T15:18:00+00:00",
+      "sentiment": 0.407658,
+      "change_pct": -2.09
     },
     {
-      "id": "av_92b9d8e216e0ff",
+      "id": "av_ef6be90640437c",
       "provider": "alphavantage",
-      "ticker": "MRVL",
+      "ticker": "MSTR",
       "category": "general",
-      "title": "Adell Harriman & Carpenter Inc. Boosts Stake in Marvell Technology, Inc. $MRVL",
-      "summary": "Adell Harriman & Carpenter Inc. increased its stake in Marvell Technology (NASDAQ:MRVL) by 6.8% in the first quarter, now holding 74,160 shares valued at approximately $7.35 million. This comes as Marvell reported record revenue of $2.42 billion, a 27.6% year-over-year increase, ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-adell-harriman-carpenter-inc-boosts-stake-in-marvell-technology-inc-mrvl-2026-07-15/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-15T07:32:03+00:00",
-      "sentiment": 0.43132,
-      "change_pct": -7.21
+      "title": "Strategy Inc Class A Trade Ideas — SIX:MSTR",
+      "summary": "This article compiles various trade ideas and analyses for MicroStrategy (SIX:MSTR), with many analysts focusing on its strong correlation with Bitcoin's price action. Several entries discuss short-term bullish setups based on technical patterns like inverted head and shoulders o",
+      "url": "https://www.tradingview.com/symbols/SIX-MSTR/ideas/page-8/",
+      "source": "TradingView",
+      "published_at": "2026-07-02T16:41:08+00:00",
+      "sentiment": 0.405879,
+      "change_pct": -2.09
     },
     {
-      "id": "av_e6fbbdc6170441",
+      "id": "av_33390884b7742c",
       "provider": "alphavantage",
-      "ticker": "MRVL",
+      "ticker": "MSTR",
       "category": "general",
-      "title": "Marvell Technology Inc Stock (MRVL) Moved Up by 3.10% on Jul 20: A Full Analysis",
-      "summary": "Marvell Technology Inc (MRVL) saw a 3.10% stock price increase on July 20, driven by strong institutional confidence in custom AI silicon and data center infrastructure markets. The company's leadership in 800G and 1.6T optical interconnects, along with analyst upgrades citing ex",
-      "url": "https://www.tradingkey.com/news/market-movers/262041910-market-movers-mrvl-20260720",
-      "source": "TradingKey",
-      "published_at": "2026-07-20T15:39:25+00:00",
-      "sentiment": 0.430347,
-      "change_pct": -7.21
+      "title": "Strategy Inc Class A Trade Ideas — BVL:MSTRUS",
+      "summary": "This article compiles various trade ideas and analyses for MicroStrategy (MSTR), highlighting its strong correlation with Bitcoin's performance and Michael Saylor's strategic Bitcoin acquisitions. Traders offer bullish outlooks based on technical analysis, potential S&P 500 inclu",
+      "url": "https://www.tradingview.com/symbols/BVL-MSTRUS/ideas/page-41/",
+      "source": "TradingView",
+      "published_at": "2026-05-28T01:11:03+00:00",
+      "sentiment": 0.405619,
+      "change_pct": -2.09
+    },
+    {
+      "id": "av_521ba110d18c18",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Why Strategy (MSTR) Shares Are Plunging Today",
+      "summary": "Shares of Bitcoin development company Strategy (MSTR) fell significantly after a decline in Bitcoin's price and an analyst lowered the company's price target. The company's stock is considered a \"leveraged bet on Bitcoin's price,\" making it highly sensitive to cryptocurrency fluc",
+      "url": "https://www.tradingview.com/news/stockstory:b05009870094b:0-why-strategy-mstr-shares-are-plunging-today/",
+      "source": "TradingView",
+      "published_at": "2026-06-30T14:40:20+00:00",
+      "sentiment": -0.404072,
+      "change_pct": -2.09
     },
     {
       "id": "f_29d8cc902c3e59",
@@ -2148,47 +2148,17 @@
       "change_pct": -2.09
     },
     {
-      "id": "av_3c08ba64daaf18",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell (MRVL) Lands 5 Million Tower PIC Shipments For AI Data Center Optics",
-      "summary": "Marvell Technology (MRVL) has received 5 million coherent photonic integrated circuit (PIC) shipments from Tower Semiconductor, crucial for its next-generation optical networking solutions in AI data centers. This milestone highlights Marvell's strengthening position in AI infras",
-      "url": "https://finance.yahoo.com/technology/ai/articles/marvell-mrvl-lands-5-million-121521608.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-10T23:15:00+00:00",
-      "sentiment": 0.427486,
-      "change_pct": -7.21
-    },
-    {
-      "id": "av_911ffd4d8cbbca",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Technology Inc Stock (MRVL) Moved Down by 6.62% on Jul 15: What Investors Need To Know",
-      "summary": "Marvell Technology Inc (MRVL) stock declined by 6.62% on July 15, primarily due to revised capital expenditure forecasts from major hyperscale cloud providers signaling a slowdown in AI infrastructure spending. The company's short-term growth outlook is further impacted by a slow",
-      "url": "https://www.tradingkey.com/news/market-movers/262032735-market-movers-mrvl-20260715",
-      "source": "TradingKey",
-      "published_at": "2026-07-15T18:41:19+00:00",
-      "sentiment": -0.424943,
-      "change_pct": -7.21,
-      "title_kr": "Marvell Technology Inc 주식(MRVL)은 7월 15일에 6.62% 하락했습니다: 투자자가 알아야 할 사항",
-      "summary_kr": "MRVL(Marvell Technology Inc) 주식은 7월 15일 6.62% 하락했는데, 이는 주로 AI 인프라 지출 둔화를 알리는 주요 하이퍼스케일 클라우드 제공업체의 수정된 자본 지출 예측으로 인해 발생했습니다. 회사의 단기 성장 전망은 더 밝습니다."
-    },
-    {
-      "id": "av_d870280ee89a4c",
+      "id": "av_6927ee46463b45",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia, Microsoft lead call for open-weight AI models after Kimi",
-      "summary": "A coalition of tech companies including Nvidia and Microsoft is advocating for open-weight AI models to ensure the US maintains its technological leadership. They argue that this approach, which allows for customization and accessibility, is crucial for continued innovation and w",
-      "url": "https://fortune.com/2026/07/24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi/",
-      "source": "Fortune",
-      "published_at": "2026-07-24T17:17:27+00:00",
-      "sentiment": 0.338851,
-      "change_pct": -0.92,
-      "title_kr": "Nvidia, Microsoft는 Kimi 이후 개방형 AI 모델을 요구합니다.",
-      "summary_kr": "Nvidia와 Microsoft를 포함한 기술 회사 연합은 미국이 기술 리더십을 유지할 수 있도록 개방형 AI 모델을 옹호하고 있습니다. 그들은 맞춤화와 접근성을 허용하는 이 접근 방식이 지속적인 비즈니스에 매우 중요하다고 주장합니다."
+      "title": "Amkor Technology, Inc. $AMKR Shares Bought by Assetmark Inc.",
+      "summary": "Assetmark Inc. significantly increased its stake in Amkor Technology, Inc. ($AMKR) by 12,448% in Q1 2026, acquiring 60,105 shares valued at $2.7 million. Despite insider selling, the company has received a \"Moderate Buy\" consensus rating from analysts, with an average price targe",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amkor-technology-inc-amkr-shares-bought-by-assetmark-inc-2026-07-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-24T17:12:01+00:00",
+      "sentiment": 0.343162,
+      "change_pct": -0.92
     },
     {
       "id": "f_be4b8a332a79e5",
@@ -2215,21 +2185,6 @@
       "change_pct": -2.69
     },
     {
-      "id": "av_20a8b91b5e4dac",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Technology Inc Stock (MRVL) Moved Up by 6.61% on Jul 21: A Full Analysis",
-      "summary": "Marvell Technology Inc (MRVL) saw a 6.61% increase in its stock price, driven by high demand for AI infrastructure and optical interconnects, particularly for next-generation data centers. Analysts have revised revenue projections upward due to the company's successful custom ASI",
-      "url": "https://www.tradingkey.com/news/market-movers/262045082-market-movers-mrvl-20260721",
-      "source": "TradingKey",
-      "published_at": "2026-07-21T19:40:57+00:00",
-      "sentiment": 0.411301,
-      "change_pct": -7.21,
-      "title_kr": "Marvell Technology Inc 주식(MRVL)은 7월 21일 6.61% 상승: 전체 분석",
-      "summary_kr": "Marvell Technology Inc(MRVL)는 특히 차세대 데이터 센터를 위한 AI 인프라 및 광 상호 연결에 대한 높은 수요로 인해 주가가 6.61% 상승했습니다. 분석가들은 회사의 부진으로 인해 매출 전망을 상향 조정했습니다."
-    },
-    {
       "id": "f_a51c9532bef281",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2240,21 +2195,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T06:25:00+00:00",
       "change_pct": -0.92
-    },
-    {
-      "id": "av_def0587eff6d39",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "World Acceptance Corporation Q1 2027 Earnings Call Summary",
-      "summary": "World Acceptance Corporation reported strong Q1 2027 results, driven by disciplined loan portfolio growth and expense management, resulting in a 4.8% revenue increase and improved credit quality. The company noted a decrease in net charge-off rates and front-end delinquency, attr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/world-acceptance-corporation-q1-2027-204253996.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-24T21:12:42+00:00",
-      "sentiment": 0.230118,
-      "change_pct": -0.92,
-      "title_kr": "World Acceptance Corporation 2027년 1분기 실적 요약",
-      "summary_kr": "World Acceptance Corporation의 2027년 1분기 실적 발표에 대한 Moby 요약"
     },
     {
       "id": "f_4cf42b96267f50",
@@ -2269,6 +2209,21 @@
       "change_pct": -0.92
     },
     {
+      "id": "av_def0587eff6d39",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "World Acceptance Corporation Q1 2027 Earnings Call Summary",
+      "summary": "World Acceptance Corporation reported strong Q1 2027 results, driven by disciplined loan portfolio growth and expense management, resulting in a 4.8% revenue increase and improved credit quality. The company noted a decrease in net charge-off rates and front-end delinquency, attr",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/world-acceptance-corporation-q1-2027-204253996.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-24T21:12:42+00:00",
+      "sentiment": 0.224971,
+      "change_pct": -0.92,
+      "title_kr": "World Acceptance Corporation 2027년 1분기 실적 요약",
+      "summary_kr": "World Acceptance Corporation의 2027년 1분기 실적 발표에 대한 Moby 요약"
+    },
+    {
       "id": "f_dabe41a2b60863",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2279,21 +2234,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T06:09:29+00:00",
       "change_pct": -0.92
-    },
-    {
-      "id": "av_28f5029223a4e7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "KLA Corp Stock (KLAC) Closed Down by 3.92% on Jul 24: Key Drivers Unveiled",
-      "summary": "KLA Corp (KLAC) stock closed down by 3.92% on July 24, driven by broader selling pressure in the semiconductor equipment sector, cautious industry demand forecasts, and macroeconomic concerns. Geopolitical tensions and potential export controls also contributed to the decline, wh",
-      "url": "https://www.tradingkey.com/news/market-movers/262053420-market-movers-klac-20260724",
-      "source": "TradingKey",
-      "published_at": "2026-07-24T20:23:19+00:00",
-      "sentiment": -0.24247,
-      "change_pct": -0.92,
-      "title_kr": "KLA Corp 주식(KLAC)은 7월 24일 3.92% 하락 마감: 주요 동인 공개",
-      "summary_kr": "KLA Corp(KLAC) 주가는 반도체 장비 부문의 광범위한 매도 압력, 신중한 산업 수요 전망, 거시경제적 우려로 인해 7월 24일 3.92% 하락 마감했습니다. 지정학적 긴장과 잠재적인 수출 통제도 영향을 미칩니다."
     },
     {
       "id": "f_739e57d20c1f25",
@@ -2308,19 +2248,19 @@
       "change_pct": -2.08
     },
     {
-      "id": "av_806af4ef32bd4d",
+      "id": "av_d870280ee89a4c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Cadence Design to Release Q2 Earnings: Here's What to Expect",
-      "summary": "Cadence Design Systems, Inc. (CDNS) is set to release its Q2 2026 earnings on July 27, with analysts expecting a 24.2% increase in EPS to $2.05 per share and revenues of $1.58 billion, up 23.6% year-over-year. The company's performance is driven by broad momentum in electronic de",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CLS/pressreleases/3450658/cadence-design-to-release-q2-earnings-heres-what-to-expect/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-24T16:07:31+00:00",
-      "sentiment": 0.332495,
+      "title": "Nvidia, Microsoft lead call for open-weight AI models after Kimi",
+      "summary": "A coalition of tech companies including Nvidia and Microsoft is advocating for open-weight AI models to ensure the US maintains its technological leadership. They argue that this approach, which allows for customization and accessibility, is crucial for continued innovation and w",
+      "url": "https://fortune.com/2026/07/24/nvidia-microsoft-lead-call-for-open-weight-ai-models-after-kimi/",
+      "source": "Fortune",
+      "published_at": "2026-07-24T17:17:27+00:00",
+      "sentiment": 0.303905,
       "change_pct": -0.92,
-      "title_kr": "2분기 실적 발표를 위한 Cadence Design: 예상되는 내용은 다음과 같습니다.",
-      "summary_kr": "Cadence Design Systems, Inc.(CDNS)는 7월 27일에 2026년 2분기 실적을 발표할 예정이며, 분석가들은 EPS가 24.2% 증가한 주당 2.05달러, 매출이 전년 대비 23.6% 증가한 15억 8천만 달러를 기록할 것으로 예상하고 있습니다. 회사의 성과는 광범위한 모멘텀에 의해 주도됩니다"
+      "title_kr": "Nvidia, Microsoft는 Kimi 이후 개방형 AI 모델을 요구합니다.",
+      "summary_kr": "Nvidia와 Microsoft를 포함한 기술 회사 연합은 미국이 기술 리더십을 유지할 수 있도록 개방형 AI 모델을 옹호하고 있습니다. 그들은 맞춤화와 접근성을 허용하는 이 접근 방식이 지속적인 비즈니스에 매우 중요하다고 주장합니다."
     },
     {
       "id": "f_12d92baee8ab49",
@@ -2335,19 +2275,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_af4e35d959cc98",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Technology Inc (MRVL) Stock Down 7.3% but Still Overvalued -- GF Score: 69/100",
-      "summary": "Marvell Technology Inc (MRVL) shares dropped 7.3% to $206.26 on July 15, 2026, yet the stock remains \"Significantly Overvalued\" according to its GF Value™ of $111.04. Despite a strong Growth Rank of 10/10, its Valuation Rank is low at 1/10, and recent insider selling of $27.2 mil",
-      "url": "https://www.gurufocus.com/news/8961119/marvell-technology-inc-mrvl-stock-down-73-but-still-overvalued-gf-score-69100?mobile=true",
-      "source": "GuruFocus",
-      "published_at": "2026-07-15T21:40:53+00:00",
-      "sentiment": -0.380207,
-      "change_pct": -7.21
-    },
-    {
       "id": "f_bae0770ea92f59",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2360,21 +2287,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_11a3b397a54ca8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AMD: Firm Raises the Server CPU Bar Yet Again at Its Advancing AI Event",
-      "summary": "AMD's recent Advancing AI event showcased new AI products, notably Helios AI racks and Venice CPUs, and significant upward revisions to its AI market forecasts. The company now expects the server CPU total addressable market (TAM) to reach $220 billion by 2030, a substantial incr",
-      "url": "https://www.morningstar.com/stocks/amd-firm-raises-server-cpu-bar-yet-again-its-advancing-ai-event",
-      "source": "Morningstar",
-      "published_at": "2026-07-24T17:04:07+00:00",
-      "sentiment": 0.300936,
-      "change_pct": -0.92,
-      "title_kr": "AMD: 회사는 발전하는 AI 이벤트에서 다시 한번 서버 CPU 기준을 높였습니다.",
-      "summary_kr": "AMD의 최근 AI 발전 이벤트에서는 새로운 AI 제품, 특히 Helios AI 랙 및 Venice CPU를 선보였으며 AI 시장 예측에 대한 상당한 상향 조정이 이루어졌습니다. 회사는 현재 서버 CPU 총 주소 지정 가능 시장(TAM)이 2030년까지 2,200억 달러에 이를 것으로 예상하고 있습니다."
-    },
-    {
       "id": "f_f8d2e23458e8ca",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -2385,6 +2297,34 @@
       "source": "SeekingAlpha",
       "published_at": "2026-07-25T04:56:16+00:00",
       "change_pct": -2.08
+    },
+    {
+      "id": "av_e86002100fbd9f",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Key facts: MSTR 843,706 BTC (~$10B loss); no forced liquidation; Saylor selling",
+      "summary": "MicroStrategy (MSTR) currently holds 843,706 BTC, facing an approximate unrealized loss of $10-10.8 billion. Despite this, the company is financially stable and has no contractual obligations for forced Bitcoin liquidation related to its convertible debt. However, Michael Saylor'",
+      "url": "https://www.tradingview.com/news/tradingview:754f2d1757e8b:0-key-facts-mstr-843-706-btc-10b-loss-no-forced-liquidation-saylor-selling/",
+      "source": "TradingView",
+      "published_at": "2026-06-03T15:41:00+00:00",
+      "sentiment": -0.34368,
+      "change_pct": -2.09
+    },
+    {
+      "id": "av_28f5029223a4e7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "KLA Corp Stock (KLAC) Closed Down by 3.92% on Jul 24: Key Drivers Unveiled",
+      "summary": "KLA Corp (KLAC) stock closed down by 3.92% on July 24, driven by broader selling pressure in the semiconductor equipment sector, cautious industry demand forecasts, and macroeconomic concerns. Geopolitical tensions and potential export controls also contributed to the decline, wh",
+      "url": "https://www.tradingkey.com/news/market-movers/262053420-market-movers-klac-20260724",
+      "source": "TradingKey",
+      "published_at": "2026-07-24T20:23:19+00:00",
+      "sentiment": -0.206356,
+      "change_pct": -0.92,
+      "title_kr": "KLA Corp 주식(KLAC)은 7월 24일 3.92% 하락 마감: 주요 동인 공개",
+      "summary_kr": "KLA Corp(KLAC) 주가는 반도체 장비 부문의 광범위한 매도 압력, 신중한 산업 수요 전망, 거시경제적 우려로 인해 7월 24일 3.92% 하락 마감했습니다. 지정학적 긴장과 잠재적인 수출 통제도 영향을 미칩니다."
     },
     {
       "id": "f_a1e054b54546e2",
@@ -2423,34 +2363,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_c4ee0341b202ac",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Himax, Teradyne, Entegris, IPG Photonics, and Penguin Solutions Shares Plummet, What You Need To Know",
-      "summary": "Shares of Himax, Teradyne, Entegris, IPG Photonics, and Penguin Solutions fell due to new U.S. tariffs on 60 trading partners, including key semiconductor supply chain nations. These tariffs, ranging from 10% to 12.5%, target concerns related to forced labor and are expected to c",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TER/pressreleases/3450823/himax-teradyne-entegris-ipg-photonics-and-penguin-solutions-shares-plummet-what-you-need-to-know/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-24T15:42:08+00:00",
-      "sentiment": 0.310254,
-      "change_pct": -0.92,
-      "title_kr": "Himax, Teradyne, Entegris, IPG Photonics 및 Penguin Solutions 주가 급락, 알아야 할 사항",
-      "summary_kr": "Himax, Teradyne, Entegris, IPG Photonics 및 Penguin Solutions의 주가는 주요 반도체 공급망 국가를 포함한 60개 무역 파트너에 대한 미국의 새로운 관세로 인해 하락했습니다. 10%에서 12.5%에 이르는 이러한 관세는 강제 노동과 관련된 우려를 표적으로 삼고 있습니다."
-    },
-    {
-      "id": "av_e6da33f049a762",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "5,149 Shares in Marvell Technology, Inc. $MRVL Bought by Oslo Pensjonsforsikring AS",
-      "summary": "Oslo Pensjonsforsikring AS recently purchased 5,149 shares of Marvell Technology, Inc. (NASDAQ:MRVL) valued at approximately $510,000 during the first quarter. This comes as multiple institutional investors have adjusted their holdings in the semiconductor company, and analysts g",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-5149-shares-in-marvell-technology-inc-mrvl-bought-by-oslo-pensjonsforsikring-as-2026-07-22/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-22T10:10:45+00:00",
-      "sentiment": 0.348017,
-      "change_pct": -7.21
-    },
-    {
       "id": "f_259e544aaff617",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2463,19 +2375,19 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_4330c712956958",
+      "id": "av_2e4b72b02583ba",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "The Anti-Nvidia ETF: Why Contrarians Are Buying the Stocks Nobody Wants",
-      "summary": "The article discusses the Schwab Fundamental International Equity ETF (FNDF), an \"anti-Nvidia\" ETF that weights stocks based on fundamental measures like sales, cash flow, and dividends instead of market capitalization. This method leads to a contrarian approach, as it trims allo",
-      "url": "https://247wallst.com/investing/etf/2026/07/24/the-anti-nvidia-etf-why-contrarians-are-buying-the-stocks-nobody-wants/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-07-24T18:40:56+00:00",
-      "sentiment": -0.224077,
+      "title": "Jensen Huang just used his first ever X post to warn the AI industry not to make the mistake that software narrowly avoided in the 1980s",
+      "summary": "Jensen Huang, CEO of NVIDIA, used his first X post to share an open letter signed by 25 companies, including Microsoft and Palantir, urging Washington not to over-restrict open-weight AI models. The letter draws parallels to the open-source software movement of the 1980s, arguing",
+      "url": "https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi/",
+      "source": "Fortune",
+      "published_at": "2026-07-24T17:50:37+00:00",
+      "sentiment": 0.243231,
       "change_pct": -0.92,
-      "title_kr": "Anti-Nvidia ETF: 반대론자들이 아무도 원하지 않는 주식을 구매하는 이유",
-      "summary_kr": "이 기사에서는 시가총액 대신 매출, 현금 흐름, 배당금과 같은 기본 지표를 기준으로 주식에 가중치를 부여하는 \"반Nvidia\" ETF인 Schwab Fundamental International Equity ETF(FNDF)에 대해 설명합니다. 이 방법은 반대적인 접근으로 이어진다."
+      "title_kr": "Jensen Huang은 자신의 첫 번째 X 게시물을 사용하여 1980년대에 소프트웨어가 간신히 피할 수 있었던 실수를 저지르지 말라고 AI 업계에 경고했습니다.",
+      "summary_kr": "NVIDIA의 CEO인 Jensen Huang은 자신의 첫 번째 X 게시물을 사용하여 Microsoft와 Palantir를 포함한 25개 회사가 서명한 공개 서한을 공유하여 워싱턴에 개방형 AI 모델을 과도하게 제한하지 말 것을 촉구했습니다. 이 편지는 오픈 소스 소프트웨어 운동과 유사합니다."
     },
     {
       "id": "f_6ce3820d50156c",
@@ -2490,19 +2402,19 @@
       "change_pct": 0.65
     },
     {
-      "id": "av_2e4b72b02583ba",
+      "id": "av_4330c712956958",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Jensen Huang just used his first ever X post to warn the AI industry not to make the mistake that software narrowly avoided in the 1980s",
-      "summary": "Jensen Huang, CEO of NVIDIA, used his first X post to share an open letter signed by 25 companies, including Microsoft and Palantir, urging Washington not to over-restrict open-weight AI models. The letter draws parallels to the open-source software movement of the 1980s, arguing",
-      "url": "https://fortune.com/2026/07/24/jensen-huang-open-source-letter-nvidia-kimi/",
-      "source": "Fortune",
-      "published_at": "2026-07-24T17:50:37+00:00",
-      "sentiment": 0.233133,
+      "title": "The Anti-Nvidia ETF: Why Contrarians Are Buying the Stocks Nobody Wants",
+      "summary": "The article discusses the Schwab Fundamental International Equity ETF (FNDF), an \"anti-Nvidia\" ETF that weights stocks based on fundamental measures like sales, cash flow, and dividends instead of market capitalization. This method leads to a contrarian approach, as it trims allo",
+      "url": "https://247wallst.com/investing/etf/2026/07/24/the-anti-nvidia-etf-why-contrarians-are-buying-the-stocks-nobody-wants/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-24T18:40:56+00:00",
+      "sentiment": -0.215083,
       "change_pct": -0.92,
-      "title_kr": "Jensen Huang은 자신의 첫 번째 X 게시물을 사용하여 1980년대에 소프트웨어가 간신히 피할 수 있었던 실수를 저지르지 말라고 AI 업계에 경고했습니다.",
-      "summary_kr": "NVIDIA의 CEO인 Jensen Huang은 자신의 첫 번째 X 게시물을 사용하여 Microsoft와 Palantir를 포함한 25개 회사가 서명한 공개 서한을 공유하여 워싱턴에 개방형 AI 모델을 과도하게 제한하지 말 것을 촉구했습니다. 이 편지는 오픈 소스 소프트웨어 운동과 유사합니다."
+      "title_kr": "Anti-Nvidia ETF: 반대론자들이 아무도 원하지 않는 주식을 구매하는 이유",
+      "summary_kr": "이 기사에서는 시가총액 대신 매출, 현금 흐름, 배당금과 같은 기본 지표를 기준으로 주식에 가중치를 부여하는 \"반Nvidia\" ETF인 Schwab Fundamental International Equity ETF(FNDF)에 대해 설명합니다. 이 방법은 반대적인 접근으로 이어진다."
     },
     {
       "id": "f_86a18cef9c6296",
@@ -2528,6 +2440,19 @@
       "change_pct": -2.08
     },
     {
+      "id": "av_8be99f7bb5e915",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Key facts: MicroStrategy $1.2B STRC Cost; $1.4B Cash, 847K BTC; Probe",
+      "summary": "MicroStrategy (MSTR) faces an annual STRC dividend cost of approximately $1.2 billion and holds $1.4 billion in cash, alongside 847,363 BTC acquired at an average cost near $75,500 per BTC. The company is also under investigation by a law firm regarding potential misleading discl",
+      "url": "https://www.tradingview.com/news/tradingview:72db9c7bdf5c1:0-key-facts-microstrategy-1-2b-strc-cost-1-4b-cash-847k-btc-probe/",
+      "source": "TradingView",
+      "published_at": "2026-06-26T07:39:54+00:00",
+      "sentiment": -0.299641,
+      "change_pct": -2.09
+    },
+    {
       "id": "f_8e146513df8c76",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2538,19 +2463,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T03:02:33+00:00",
       "change_pct": -0.92
-    },
-    {
-      "id": "av_18c0f226750ac1",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "CI Investments Inc. Acquires 297,837 Shares of Marvell Technology, Inc. $MRVL",
-      "summary": "CI Investments Inc. significantly increased its stake in Marvell Technology, Inc. (NASDAQ:MRVL) by purchasing 297,837 additional shares, bringing their total holdings to 323,682 shares valued at over $32 million. This move comes amidst mixed sentiment for Marvell Technology, driv",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ci-investments-inc-acquires-297837-shares-of-marvell-technology-inc-mrvl-2026-07-23/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-23T08:39:44+00:00",
-      "sentiment": 0.323332,
-      "change_pct": -7.21
     },
     {
       "id": "f_7025fda67ea79b",
@@ -2600,19 +2512,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_ec9a52ed9cf478",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "LGT Fund Management Co Ltd. Takes $4.44 Million Position in Marvell Technology, Inc. $MRVL",
-      "summary": "LGT Fund Management Co Ltd. has acquired a new position in Marvell Technology, Inc. (NASDAQ:MRVL), purchasing 44,803 shares valued at approximately $4.44 million during the first quarter. Marvell Technology is gaining attention due to its strong AI growth outlook and demand for i",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lgt-fund-management-co-ltd-takes-444-million-position-in-marvell-technology-inc-mrvl-2026-07-12/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-12T17:41:24+00:00",
-      "sentiment": 0.30221,
-      "change_pct": -7.21
-    },
-    {
       "id": "av_3b8cc633a11de7",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -2622,27 +2521,111 @@
       "url": "https://www.marketbeat.com/instant-alerts/altria-group-nysemo-trading-12-higher-still-a-buy-2026-07-24/",
       "source": "MarketBeat",
       "published_at": "2026-07-24T21:43:04+00:00",
-      "sentiment": 0.107602,
+      "sentiment": 0.104226,
       "change_pct": -0.92,
       "title_kr": "Altria Group (NYSE:MO) 거래가 1.2% 상승 - 여전히 매수인가요?",
       "summary_kr": "알트리아 그룹(NYSE:MO) 주가는 최근 전반적인 \"보유\" 컨센서스를 유지하면서 일부 목표 가격 인상을 포함한 분석가들의 엇갈린 정서 속에 1.2% 상승했습니다. 회사는 EPS 및 수익 추정치를 뛰어넘는 강력한 분기별 수익을 보고했습니다."
     },
     {
-      "id": "av_8048d77084b64e",
-      "provider": "alphavantage",
-      "ticker": "MRVL",
+      "id": "f_ddace17794656d",
+      "provider": "finnhub",
+      "ticker": "NVDA",
       "category": "general",
-      "title": "Glenview Trust Co Sells 15,728 Shares of Marvell Technology, Inc. $MRVL",
-      "summary": "Glenview Trust Co reduced its stake in Marvell Technology ($MRVL) by 6.2% in the first quarter, selling 15,728 shares. Marvell Technology reported strong quarterly results, with EPS meeting estimates and revenue exceeding forecasts, and analysts maintain a \"Moderate Buy\" consensu",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-glenview-trust-co-sells-15728-shares-of-marvell-technology-inc-mrvl-2026-07-21/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-21T08:41:17+00:00",
-      "sentiment": 0.299448,
-      "change_pct": -7.21
+      "title": "Uber’s New Acquisition and GE Aerospace’s Search for Parts",
+      "summary": "Uber is leaning into delivery services with its acquisition of Delivery Hero. Plus, GE Aerospace is having a hard time sourcing materials.",
+      "url": "https://finnhub.io/api/news?id=be905b6acd6a20b64f592937da2f780793d42478f6243c2d12b21182537ed74f",
+      "source": "Yahoo",
+      "published_at": "2026-07-25T01:51:55+00:00",
+      "change_pct": -0.92
+    },
+    {
+      "id": "f_3d38c7c3475110",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Bank of America Just Raised Its Dividend 14%. The Buyback Is the Bigger Story.",
+      "summary": "It's the last of the Big Four banks to declare a dividend raise this earnings season.",
+      "url": "https://finnhub.io/api/news?id=67f40cb637b9db9633d00af71f6b3718c7739756aa67013b144a002498ca2acd",
+      "source": "Yahoo",
+      "published_at": "2026-07-25T01:51:33+00:00",
+      "change_pct": -0.92
+    },
+    {
+      "id": "av_71670e29172a6e",
+      "provider": "alphavantage",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy Inc Class A Trade Ideas — BOATS:MSTR",
+      "summary": "This article compiles various trade ideas and analyses for MicroStrategy (MSTR), discussing its performance, correlation with Bitcoin, technical indicators, and fundamental outlook. Analysts offer diverse perspectives ranging from bullish long-term accumulation strategies to shor",
+      "url": "https://www.tradingview.com/symbols/BOATS-MSTR/ideas/page-3/",
+      "source": "TradingView",
+      "published_at": "2026-05-16T15:10:27+00:00",
+      "sentiment": 0.26548,
+      "change_pct": -2.09
+    },
+    {
+      "id": "f_d723809d0fb1d3",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Does PayPal Have a Buyer?",
+      "summary": "Stripe is reportedly circling PayPal in a deal that could end a frustrating run for the fintech giant, but is it a good enough deal?",
+      "url": "https://finnhub.io/api/news?id=5c10bc0162533a4bf0bf35e19474439a697677179f95faaee57891b759074e87",
+      "source": "Yahoo",
+      "published_at": "2026-07-25T01:36:55+00:00",
+      "change_pct": -0.92
+    },
+    {
+      "id": "f_45d9e448b67c63",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Verizon Just Signed a More Than $1 Billion Dark Fiber Deal With Google. Here's What It Means for the 6.3% Dividend.",
+      "summary": "The telecom giant just signed a major dark fiber agreement with one of the world's biggest AI spenders.",
+      "url": "https://finnhub.io/api/news?id=61121ccb31be84119afe193a672ee0ebb72b1547d47bd508eb6ed98a7e7fb036",
+      "source": "Yahoo",
+      "published_at": "2026-07-25T01:31:00+00:00",
+      "change_pct": -0.92
+    },
+    {
+      "id": "f_48466af25967d0",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Verizon Stock Climbed Today",
+      "summary": "Artificial intelligence (AI) is \"fundamentally reshaping Verizon's growth trajectory,\" according to CEO Dan Schulman.",
+      "url": "https://finnhub.io/api/news?id=7a8ac893fea299c66204b77625001e62430de9536f45d9b4458525f0d4cecdc4",
+      "source": "Yahoo",
+      "published_at": "2026-07-25T01:22:22+00:00",
+      "change_pct": -0.92
+    },
+    {
+      "id": "f_f166a832920288",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "10 Years Later: 5 Brexit-Inspired Stocks",
+      "summary": "The team reviews how five stocks picked in the days following Brexit have fared against the market 10 years later.",
+      "url": "https://finnhub.io/api/news?id=340a6899f34788ea66a8eb3924e9198323385aac093221ee6a48612bd67010ee",
+      "source": "Yahoo",
+      "published_at": "2026-07-25T01:22:19+00:00",
+      "change_pct": -0.92
+    },
+    {
+      "id": "f_22e3d0f9ebb0df",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Kevin Warsh Just Vowed to Bring a \"Regime Change\" to the Fed. It Could Rattle Wall Street.",
+      "summary": "Warsh's re-evaluation of Fed procedures could add volatility to the bond market and a headwind to growth and tech stocks.",
+      "url": "https://finnhub.io/api/news?id=05d41da07af8107659072dec9e6b94d960b8a7a99b75277421eadab80d1e4768",
+      "source": "Yahoo",
+      "published_at": "2026-07-25T01:20:00+00:00",
+      "change_pct": -0.92
     }
   ],
-  "fetched_at": "2026-07-25T16:41:24.472285+00:00",
+  "fetched_at": "2026-07-25T17:46:04.231638+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-25T16:41:27.575071+00:00",
+  "translated_at": "2026-07-25T17:46:06.390073+00:00",
   "translation_engine": "google-parallel"
 }
