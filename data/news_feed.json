@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "f_0b625cf74edb45",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "Did Citigroup's Latest Earnings Change the Investment Case?",
+      "summary": "Citigroup stock dropped 7% post-earnings.",
+      "url": "https://finnhub.io/api/news?id=89724521406b7eea413c59b2df05823ef2ca598bb5a085c009c11256ef3ce190",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T17:05:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "씨티그룹의 최근 수익이 투자 사례를 바꾸었나요?",
+      "summary_kr": "씨티그룹 주가는 실적 후 7% 하락했다."
+    },
+    {
       "id": "f_e94507c21eb41d",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -323,32 +337,19 @@
       "summary_kr": "Seagate의 하이퍼스케일러 계약은 올해 이후에도 계속되고, 잉여 현금 흐름은 세 자릿수 급등을 기록했으며, 4분기 수익은 7월 28일에 달성됩니다. 이러한 조합이 현재 가격을 정당화하는지 여부는 숫자가 놀라운 방식으로 대답하는 질문입니다."
     },
     {
-      "id": "f_aa068068d09a59",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "earnings",
-      "title": "Tesla's Revenue Beat Hid The Number That Actually Sank The Stock",
-      "summary": "Revenue cleared the bar, but a profit running below half its usual level and cash turning to burn told owners what the company's future really costs.",
-      "url": "https://finnhub.io/api/news?id=2907eecc4fd30ff31ec62933222f829c89081a914de4a05f1bffcd8f733e7a42",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T14:43:56+00:00",
-      "change_pct": -2.08,
-      "title_kr": "Tesla의 수익은 실제로 주식을 하락시킨 수치를 숨겼습니다.",
-      "summary_kr": "수익은 목표를 달성했지만 평소 수준의 절반 이하로 떨어지는 이익과 소진되는 현금으로 인해 소유자는 회사의 미래에 실제로 어떤 비용이 발생하는지 알 수 있었습니다."
-    },
-    {
-      "id": "f_84beeee693ef9a",
-      "provider": "finnhub",
+      "id": "av_6ab93cfe9424d7",
+      "provider": "alphavantage",
       "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Should You Buy Bloom Energy Before July 28 Earnings After Its 40% 1-Month Decline?",
-      "summary": "Bloom Energy just shed 43% in a single month while its contracted backlog and cash position kept climbing. Before the July 28 earnings call, there are a few things retirement investors need to weigh carefully.",
-      "url": "https://finnhub.io/api/news?id=e0d0d00dbf0737c862b9d808d5f88f7553d49af3616254f7a63a9d0ccca3a04d",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T14:20:25+00:00",
+      "category": "general",
+      "title": "Nvidia's Jensen Huang Confirmed Vera Rubin Chips Are Already in Production",
+      "summary": "Nvidia CEO Jensen Huang has refuted claims of delays for the company's Vera Rubin AI platform, stating that the chips are already in production and in \"giant amounts.\" This follows a SemiAnalysis report that suggested setbacks for the Kyber NVL144 rack-scale solution, which house",
+      "url": "https://www.fool.com/investing/2026/07/26/nvidias-jensen-huang-confirmed-vera-rubin-chips-ar/",
+      "source": "The Motley Fool",
+      "published_at": "2026-07-26T12:34:57+00:00",
+      "sentiment": 0.428315,
       "change_pct": -0.92,
-      "title_kr": "1개월간 40% 하락한 후 7월 28일 수익이 발생하기 전에 Bloom Energy를 구매해야 합니까?",
-      "summary_kr": "Bloom Energy는 계약 잔고와 현금 포지션이 계속 증가하는 동안 한 달 만에 43% 하락했습니다. 7월 28일 실적 발표 전에 은퇴 투자자들이 신중하게 고려해야 할 몇 가지 사항이 있습니다."
+      "title_kr": "Nvidia의 Jensen Huang은 Vera Rubin 칩이 이미 생산 중임을 확인했습니다.",
+      "summary_kr": "Nvidia CEO Jensen Huang은 회사의 Vera Rubin AI 플랫폼에 대한 지연 주장을 반박하며 칩이 이미 생산 중이며 \"거대한 양\"이라고 말했습니다. 이는 Kyber NVL144 랙 규모에 대한 문제점을 제안한 SemiAnalytic 보고서를 따릅니다."
     },
     {
       "id": "av_a7a22365dd3780",
@@ -360,25 +361,10 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/buy-procter-gamble-stock-july-153500075.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-26T15:34:50+00:00",
-      "sentiment": 0.333747,
+      "sentiment": 0.324613,
       "change_pct": -0.92,
       "title_kr": "7월 29일 이전에 Procter & Gamble 주식을 구매해야 합니까?",
       "summary_kr": "Procter & Gamble(NYSE: PG)은 어려운 지정학적, 경제적 환경으로 인해 역풍에 직면해 있으며, 이로 인해 2026회계연도에 예상되는 저가 실적과 2027회계연도에 대한 보수적인 지침이 나올 가능성이 있습니다. 최근 주가 하락에도 불구하고,"
-    },
-    {
-      "id": "av_6ab93cfe9424d7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia's Jensen Huang Confirmed Vera Rubin Chips Are Already in Production",
-      "summary": "Nvidia CEO Jensen Huang has refuted claims of delays for the company's Vera Rubin AI platform, stating that the chips are already in production and in \"giant amounts.\" This follows a SemiAnalysis report that suggested setbacks for the Kyber NVL144 rack-scale solution, which house",
-      "url": "https://www.fool.com/investing/2026/07/26/nvidias-jensen-huang-confirmed-vera-rubin-chips-ar/",
-      "source": "The Motley Fool",
-      "published_at": "2026-07-26T12:34:57+00:00",
-      "sentiment": 0.400516,
-      "change_pct": -0.92,
-      "title_kr": "Nvidia의 Jensen Huang은 Vera Rubin 칩이 이미 생산 중임을 확인했습니다.",
-      "summary_kr": "Nvidia CEO Jensen Huang은 회사의 Vera Rubin AI 플랫폼에 대한 지연 주장을 반박하며 칩이 이미 생산 중이며 \"거대한 양\"이라고 말했습니다. 이는 Kyber NVL144 랙 규모에 대한 문제점을 제안한 SemiAnalytic 보고서를 따릅니다."
     },
     {
       "id": "av_d4bfde4a3a30a2",
@@ -390,25 +376,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-purchased-by-hartford-funds-management-co-llc-2026-07-26/",
       "source": "MarketBeat",
       "published_at": "2026-07-26T09:08:52+00:00",
-      "sentiment": 0.401972,
+      "sentiment": 0.425924,
       "change_pct": -0.92,
       "title_kr": "Hartford Funds Management Co LLC가 NVIDIA Corporation $NVDA 주식을 매입했습니다.",
       "summary_kr": "Hartford Funds Management Co LLC는 1분기에 NVIDIA Corporation(NASDAQ:NVDA)의 지분을 6.2% 늘려 3,131주를 추가하여 현재 930만 달러 상당의 53,284주를 보유하고 있습니다. 이는 NVIDI의 지속적인 높은 기관 소유권 추세를 반영합니다."
     },
     {
-      "id": "av_3ccd9c77550b2a",
+      "id": "av_42b5f1560d3037",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Intel Corporation (INTC) Just Had Its Best Quarter in 15 Years. Is the Turnaround Finally Real?",
-      "summary": "Intel Corporation experienced its best quarter in nearly 15 years, with sales up 25% and adjusted profit double analyst expectations, largely driven by a 59% jump in data center chip sales due to \"agentic AI.\" Despite this positive performance and a significant stock increase yea",
-      "url": "https://ca.finance.yahoo.com/news/intel-corporation-intc-just-had-102227136.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-07-26T10:22:25+00:00",
-      "sentiment": 0.334188,
+      "title": "Weiss Asset Management LP Has $13.51 Million Stock Position in Amkor Technology, Inc. $AMKR",
+      "summary": "Weiss Asset Management LP significantly increased its stake in Amkor Technology, purchasing an additional 217,484 shares to own 300,000 shares valued at $13.51 million. Other institutional investors also boosted their positions, with overall institutional ownership now at 42.76%.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-weiss-asset-management-lp-has-1351-million-stock-position-in-amkor-technology-inc-amkr-2026-07-26/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-26T10:40:39+00:00",
+      "sentiment": 0.383971,
       "change_pct": -0.92,
-      "title_kr": "Intel Corporation(INTC)이 15년 만에 최고의 분기를 기록했습니다. 마침내 턴어라운드가 현실화 되었는가?",
-      "summary_kr": "Intel Corporation은 \"에이전트 AI\"로 인해 데이터 센터 칩 판매가 59% 증가한 데 힘입어 매출이 25% 증가하고 조정 이익이 분석가 기대치의 두 배로 늘어나 거의 15년 만에 최고의 분기를 보냈습니다. 이러한 긍정적인 성과와 의미 있는 성과에도 불구하고"
+      "title_kr": "Weiss Asset Management LP는 Amkor Technology, Inc. $AMKR에서 1,351만 달러의 주식을 보유하고 있습니다.",
+      "summary_kr": "Weiss Asset Management LP는 Amkor Technology의 지분을 크게 늘려 217,484주를 추가로 매입하여 1,351만 달러 상당의 300,000주를 보유했습니다. 다른 기관투자자들도 전반적인 기관 소유로 인해 포지션이 상승했습니다."
     },
     {
       "id": "av_27a231184eb865",
@@ -420,10 +406,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-insight-holdings-group-llc-acquires-new-position-in-lumentum-holdings-inc-lite-2026-07-26/",
       "source": "MarketBeat",
       "published_at": "2026-07-26T11:10:16+00:00",
-      "sentiment": 0.313735,
+      "sentiment": 0.342917,
       "change_pct": -0.92,
       "title_kr": "Insight Holdings Group LLC, Lumentum Holdings Inc. $LITE에서 새로운 직위 인수",
       "summary_kr": "Insight Holdings Group LLC는 Lumentum Holdings Inc.(NASDAQ:LITE)의 새로운 지위를 인수하여 약 420만 달러 상당의 5,970주를 매입하여 25번째로 큰 보유 주식이 되었습니다. Lumentum은 최근 강력한 분기 실적을 발표했습니다."
+    },
+    {
+      "id": "av_3ccd9c77550b2a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel Corporation (INTC) Just Had Its Best Quarter in 15 Years. Is the Turnaround Finally Real?",
+      "summary": "Intel Corporation experienced its best quarter in nearly 15 years, with sales up 25% and adjusted profit double analyst expectations, largely driven by a 59% jump in data center chip sales due to \"agentic AI.\" Despite this positive performance and a significant stock increase yea",
+      "url": "https://ca.finance.yahoo.com/news/intel-corporation-intc-just-had-102227136.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-07-26T10:22:25+00:00",
+      "sentiment": 0.338543,
+      "change_pct": -0.92,
+      "title_kr": "Intel Corporation(INTC)이 15년 만에 최고의 분기를 기록했습니다. 마침내 턴어라운드가 현실화 되었는가?",
+      "summary_kr": "Intel Corporation은 \"에이전트 AI\"로 인해 데이터 센터 칩 판매가 59% 증가한 데 힘입어 매출이 25% 증가하고 조정 이익이 분석가 기대치의 두 배로 늘어나 거의 15년 만에 최고의 분기를 보냈습니다. 이러한 긍정적인 성과와 의미 있는 성과에도 불구하고"
     },
     {
       "id": "av_df2374db53cf09",
@@ -435,25 +436,40 @@
       "url": "https://ca.finance.yahoo.com/news/ge-healthcare-technologies-inc-gehc-115820182.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-07-26T11:58:07+00:00",
-      "sentiment": 0.286301,
+      "sentiment": 0.268531,
       "change_pct": -0.92,
       "title_kr": "GE HealthCare Technologies Inc.(GEHC)는 2분기 기대치를 상회하고 CFO 전환에도 불구하고 2026년 전망을 재확인했습니다.",
       "summary_kr": "GE HealthCare Technologies Inc.(GEHC)는 CFO James Saccaro의 퇴임에도 불구하고 매출 성장과 수익이 가속화되어 2026년 2분기 기대치를 초과했습니다. 회사는 강력한 운영 모멘텀을 언급하며 2026년 전체 전망을 재확인했습니다."
     },
     {
-      "id": "av_73a48a8054a00f",
+      "id": "av_b662df21116e57",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "1ST Source Bank Has $11.57 Million Position in NVIDIA Corporation $NVDA",
-      "summary": "1ST Source Bank recently reduced its stake in NVIDIA Corporation by 4.6% during the first quarter, now owning 66,332 shares valued at $11.57 million. Despite this, other major institutional investors like State Street Corp and Geode Capital Management LLC significantly increased ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-1st-source-bank-has-1157-million-position-in-nvidia-corporation-nvda-2026-07-26/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-26T07:40:43+00:00",
-      "sentiment": 0.32043,
+      "title": "Brown & Brown (BRO) Reports Earnings Tomorrow: What To Expect",
+      "summary": "Brown & Brown (BRO) is set to report earnings, with analysts expecting a 33.8% year-on-year revenue growth. Despite missing Wall Street's revenue estimates multiple times in the past two years, the company's stock is up 5.4% over the last month, outperforming the professional ser",
+      "url": "https://www.tradingview.com/news/stockstory:e1d21f6bb094b:0-brown-brown-bro-reports-earnings-tomorrow-what-to-expect/",
+      "source": "TradingView",
+      "published_at": "2026-07-26T03:04:21+00:00",
+      "sentiment": 0.438345,
       "change_pct": -0.92,
-      "title_kr": "첫 번째 소스 은행은 NVIDIA Corporation $NVDA에서 1,157만 달러의 포지션을 보유하고 있습니다.",
-      "summary_kr": "1ST Source Bank는 최근 1분기 동안 NVIDIA Corporation의 지분을 4.6% 줄여 현재 1,157만 달러 상당의 66,332주를 소유하고 있습니다. 그럼에도 불구하고 State Street Corp 및 Geode Capital Management LLC와 같은 다른 주요 기관 투자가는 서명했습니다."
+      "title_kr": "Brown & Brown (BRO), 내일 수익 보고: 예상되는 사항",
+      "summary_kr": "Brown & Brown(BRO)은 수익을 보고할 예정이며 분석가들은 전년 대비 33.8%의 수익 성장을 예상하고 있습니다. 지난 2년 동안 월스트리트의 수익 추정치가 여러 번 누락되었음에도 불구하고 회사의 주가는 지난 달에 비해 5.4% 상승하여 우수한 성과를 거두었습니다."
+    },
+    {
+      "id": "av_575ae1886d2f83",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AMC, FLNC, HUBC Stocks Emerge Among Top Daily Gainers: What Fueled The Rally?",
+      "summary": "AMC Entertainment, Fluence Energy, and Hub Cyber Security experienced significant stock rallies driven by various factors. AMC's shares surged due to its highest May attendance since 2019, while Fluence Energy benefited from an exclusive energy storage partnership with Nvidia for",
+      "url": "https://stocktwits.com/news-articles/markets/equity/amc-flnc-hubc-stocks-emerge-among-top-daily-gainers/cZ0iN80Revs",
+      "source": "Stocktwits",
+      "published_at": "2026-07-26T08:12:10+00:00",
+      "sentiment": 0.29553,
+      "change_pct": -0.92,
+      "title_kr": "AMC, FLNC, HUBC 주식이 일일 최고 상승주로 등장: 무엇이 랠리를 촉진했나요?",
+      "summary_kr": "AMC Entertainment, Fluence Energy 및 Hub Cyber ​​Security는 다양한 요인으로 인해 상당한 주가 상승을 경험했습니다. AMC의 주가는 2019년 이후 가장 높은 5월 참석률로 급등했으며 Fluence Energy는 독점 에너지 저장 파트너의 혜택을 받았습니다."
     },
     {
       "id": "f_13f9ee712717f4",
@@ -470,19 +486,19 @@
       "summary_kr": "시장은 단일 세션에서 주식 가격을 재조정하여 많은 분석가의 목표 가격을 현재 주가보다 훨씬 높게 유지했습니다. 주가 반등 시점인가?"
     },
     {
-      "id": "av_b662df21116e57",
+      "id": "av_91564fb540708b",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Brown & Brown (BRO) Reports Earnings Tomorrow: What To Expect",
-      "summary": "Brown & Brown (BRO) is set to report earnings, with analysts expecting a 33.8% year-on-year revenue growth. Despite missing Wall Street's revenue estimates multiple times in the past two years, the company's stock is up 5.4% over the last month, outperforming the professional ser",
-      "url": "https://www.tradingview.com/news/stockstory:e1d21f6bb094b:0-brown-brown-bro-reports-earnings-tomorrow-what-to-expect/",
-      "source": "TradingView",
-      "published_at": "2026-07-26T03:04:21+00:00",
-      "sentiment": 0.407217,
+      "title": "AI Infrastructure Stocks With Real Data Center Cash Flow Potential",
+      "summary": "This article identifies three AI infrastructure stocks with strong cash flow potential: Digital Realty Trust (DLR), Forgent Power Solutions (FPS), and Vertiv Holdings Co (VRT). It highlights their operations, market positions, and financial metrics, emphasizing how they convert A",
+      "url": "https://simplywall.st/stocks/us/real-estate/nyse-dlr/digital-realty-trust/news/ai-infrastructure-stocks-with-real-data-center-cash-flow-pot/amp",
+      "source": "Simply Wall Street",
+      "published_at": "2026-07-26T05:37:47+00:00",
+      "sentiment": 0.34755,
       "change_pct": -0.92,
-      "title_kr": "Brown & Brown (BRO), 내일 수익 보고: 예상되는 사항",
-      "summary_kr": "Brown & Brown(BRO)은 수익을 보고할 예정이며 분석가들은 전년 대비 33.8%의 수익 성장을 예상하고 있습니다. 지난 2년 동안 월스트리트의 수익 추정치가 여러 번 누락되었음에도 불구하고 회사의 주가는 지난 달에 비해 5.4% 상승하여 우수한 성과를 거두었습니다."
+      "title_kr": "실제 데이터 센터 현금 흐름 잠재력을 갖춘 AI 인프라 주식",
+      "summary_kr": "이 기사에서는 DLR(Digital Realty Trust), FPS(Forgent Power Solutions), VRT(Vertiv Holdings Co) 등 세 가지 AI 인프라 주식을 식별합니다. 이 주식은 데이터 센터, 냉각 및 전기 인프라에 대한 수요 증가를 활용할 준비가 되어 있습니다."
     },
     {
       "id": "f_25ae74d88c5b2c",
@@ -499,34 +515,19 @@
       "summary_kr": "수년 동안 AI 칩에 대한 논의는 하나의 지배적인 이름과 격차를 줄이려는 수많은 도전자 목록을 갖고 있었습니다. 대부분은 그렇지 않았습니다. 그 중 하나가 달라 보이기 시작했고 Bank of America는 방금 서면으로 그 사례를 작성했습니다. Bank of America 분석가 V"
     },
     {
-      "id": "av_575ae1886d2f83",
+      "id": "av_73a48a8054a00f",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "AMC, FLNC, HUBC Stocks Emerge Among Top Daily Gainers: What Fueled The Rally?",
-      "summary": "AMC Entertainment, Fluence Energy, and Hub Cyber Security experienced significant stock rallies driven by various factors. AMC's shares surged due to its highest May attendance since 2019, while Fluence Energy benefited from an exclusive energy storage partnership with Nvidia for",
-      "url": "https://stocktwits.com/news-articles/markets/equity/amc-flnc-hubc-stocks-emerge-among-top-daily-gainers/cZ0iN80Revs",
-      "source": "Stocktwits",
-      "published_at": "2026-07-26T08:12:10+00:00",
-      "sentiment": 0.263927,
+      "title": "1ST Source Bank Has $11.57 Million Position in NVIDIA Corporation $NVDA",
+      "summary": "1ST Source Bank recently reduced its stake in NVIDIA Corporation by 4.6% during the first quarter, now owning 66,332 shares valued at $11.57 million. Despite this, other major institutional investors like State Street Corp and Geode Capital Management LLC significantly increased ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-1st-source-bank-has-1157-million-position-in-nvidia-corporation-nvda-2026-07-26/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-26T07:40:43+00:00",
+      "sentiment": 0.281685,
       "change_pct": -0.92,
-      "title_kr": "AMC, FLNC, HUBC 주식이 일일 최고 상승주로 등장: 무엇이 랠리를 촉진했나요?",
-      "summary_kr": "AMC Entertainment, Fluence Energy 및 Hub Cyber ​​Security는 다양한 요인으로 인해 상당한 주가 상승을 경험했습니다. AMC의 주가는 2019년 이후 가장 높은 5월 참석률로 급등했으며 Fluence Energy는 독점 에너지 저장 파트너의 혜택을 받았습니다."
-    },
-    {
-      "id": "av_91564fb540708b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI Infrastructure Stocks With Real Data Center Cash Flow Potential",
-      "summary": "This article identifies three AI infrastructure stocks with strong cash flow potential: Digital Realty Trust (DLR), Forgent Power Solutions (FPS), and Vertiv Holdings Co (VRT). It highlights their operations, market positions, and financial metrics, emphasizing how they convert A",
-      "url": "https://simplywall.st/stocks/us/real-estate/nyse-dlr/digital-realty-trust/news/ai-infrastructure-stocks-with-real-data-center-cash-flow-pot/amp",
-      "source": "Simply Wall Street",
-      "published_at": "2026-07-26T05:37:47+00:00",
-      "sentiment": 0.326844,
-      "change_pct": -0.92,
-      "title_kr": "실제 데이터 센터 현금 흐름 잠재력을 갖춘 AI 인프라 주식",
-      "summary_kr": "이 기사에서는 DLR(Digital Realty Trust), FPS(Forgent Power Solutions), VRT(Vertiv Holdings Co) 등 세 가지 AI 인프라 주식을 식별합니다. 이 주식은 데이터 센터, 냉각 및 전기 인프라에 대한 수요 증가를 활용할 준비가 되어 있습니다."
+      "title_kr": "첫 번째 소스 은행은 NVIDIA Corporation $NVDA에서 1,157만 달러의 포지션을 보유하고 있습니다.",
+      "summary_kr": "1ST Source Bank는 최근 1분기 동안 NVIDIA Corporation의 지분을 4.6% 줄여 현재 1,157만 달러 상당의 66,332주를 소유하고 있습니다. 그럼에도 불구하고 State Street Corp 및 Geode Capital Management LLC와 같은 다른 주요 기관 투자가는 서명했습니다."
     },
     {
       "id": "av_3fd58824aa80ba",
@@ -538,10 +539,95 @@
       "url": "https://simplywall.st/stocks/us/software/nasdaq-karo/karooooo/news/is-karooooo-karo-undervalued-as-it-reaffirms-fy2027-guidance",
       "source": "Simply Wall Street",
       "published_at": "2026-07-26T09:11:54+00:00",
-      "sentiment": 0.222369,
+      "sentiment": 0.238471,
       "change_pct": -0.92,
       "title_kr": "Karooooo(KARO)는 FY2027 지침을 재확인하면서 저평가되어 있습니까?",
       "summary_kr": "Karooooo(KARO)는 2027년 회계연도 지침을 재확인하여 상당한 1분기 실적에 이어 상당한 구독 수익과 영업 마진을 예상했습니다. 최근 주가 모멘텀에도 불구하고 애널리스트들은 동사의 주가가 13.8% 저평가된 것으로 평가하고 있다."
+    },
+    {
+      "id": "av_6ec4aa9ab4b59b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AIIA|AI Infrastructure Acquisition Ord Shs Class A|Price:10.210|Chg%:-0.030",
+      "summary": "AI Infrastructure Acquisition Corp. (AIIA) is a blank check company focused on mergers targeting businesses involved in artificial intelligence, machine learning, and next-generation data center infrastructure. The company's stock currently trades at $10.210, with a slight decrea",
+      "url": "https://www.tradingkey.com/markets/stocks/aiia/company",
+      "source": "TradingKey",
+      "published_at": "2026-07-26T12:09:52+00:00",
+      "sentiment": 0.14358,
+      "change_pct": -0.92,
+      "title_kr": "AIIA|AI 인프라 인수 Ord Shs Class A|가격:10.210|Chg%:-0.030",
+      "summary_kr": "AI 인프라 인수 공사(AIIA)는 인공 지능, 기계 학습 및 차세대 데이터 센터 인프라와 관련된 비즈니스를 대상으로 하는 합병에 중점을 둔 백지 수표 회사입니다. 현재 회사 주식은 10,210달러에 거래되고 있습니다."
+    },
+    {
+      "id": "f_0c5f2419065579",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Micron vs. Sandisk: Which Stock Is the Better Buy for the Memory Boom?",
+      "summary": "Micron and Sandisk have slipped substantially in the past month, but they can go on a terrific bull run once again.",
+      "url": "https://finnhub.io/api/news?id=aa34d893a6a6719a9ec41342809c23aeb5e01ba8cf91d94376b19e9ed1ff525b",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T17:43:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "Micron vs. Sandisk: 메모리 호황에 어떤 주식을 매수하는 것이 더 나을까요?",
+      "summary_kr": "마이크론과 샌디스크는 지난 한 달 동안 크게 하락했지만 다시 한 번 엄청난 강세를 보일 수 있습니다."
+    },
+    {
+      "id": "f_31f2a058f9ca22",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Here's Why Qualcomm Is Still Overlooked vs. Nvidia and Intel",
+      "summary": "Weak handset revenue is masking a big opportunity in other markets.",
+      "url": "https://finnhub.io/api/news?id=8d698e37a3e5b1d45010feb9f3677e325326cd8f25ce74ef26c5ca79fd03bd65",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T17:35:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "Qualcomm이 Nvidia 및 Intel에 비해 여전히 간과되는 이유는 다음과 같습니다.",
+      "summary_kr": "휴대폰 매출 약세로 인해 다른 시장에서의 큰 기회가 가려지고 있습니다."
+    },
+    {
+      "id": "f_7a7fc9ec888c44",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Is It Really Safe to Invest in the Vanguard S&P 500 ETF Right Now? Here's What History Says.",
+      "summary": "The S&P 500 index's 10% climb in 2026 shows that investors remain optimistic.",
+      "url": "https://finnhub.io/api/news?id=1115aad204afc24903e96a618b2792f96178012b7dee8407ff0e137c346c63c9",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T17:22:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "지금 Vanguard S&P 500 ETF에 투자하는 것이 정말 안전한가요? 역사가 말하는 내용은 다음과 같습니다.",
+      "summary_kr": "2026년 S&P 500 지수의 10% 상승은 투자자들이 여전히 낙관적이라는 것을 보여줍니다."
+    },
+    {
+      "id": "f_69f542813aaaba",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Wingstop Is Down 68% From Its All-Time High. Should You Buy Before July 29?",
+      "summary": "Wingstop stock is faltering and could be in for more declines if consumers remain frugal.",
+      "url": "https://finnhub.io/api/news?id=57b346fa181f7494eefa2b99215c525fd64997841bc1f4d52ce8876da7779773",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T17:11:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "Wingstop은 사상 최고치보다 68% 하락했습니다. 7월 29일 이전에 구매해야 합니까?",
+      "summary_kr": "Wingstop 주식은 흔들리고 있으며 소비자가 계속 절약한다면 더 많은 하락세를 보일 수 있습니다."
+    },
+    {
+      "id": "f_49948f39bec16a",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "If I Were Starting Over With $500 to Invest, I'd Begin by Building a Portfolio Around This Unstoppable Stock",
+      "summary": "Not every company is in a position to thrive indefinitely. This one is.",
+      "url": "https://finnhub.io/api/news?id=27fecca3a8c627f83f21332e412d1a8bde644dc3bc239bd62758cce4d3b827e7",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:50:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "만약 내가 투자할 500달러로 다시 시작한다면, 나는 멈출 수 없는 이 주식을 중심으로 포트폴리오를 구축하는 것부터 시작할 것입니다",
+      "summary_kr": "모든 회사가 무한정 성장할 수 있는 위치에 있는 것은 아닙니다. 이것은입니다."
     },
     {
       "id": "av_b5c27e9ed9e2b3",
@@ -553,10 +639,117 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-lombard-odier-asset-management-europe-ltd-reduces-stock-holdings-in-marvell-technology-inc-mrvl-2026-07-26/",
       "source": "MarketBeat",
       "published_at": "2026-07-26T10:41:58+00:00",
-      "sentiment": 0.138379,
+      "sentiment": 0.14858,
       "change_pct": -0.92,
       "title_kr": "Lombard Odier Asset Management Europe Ltd는 Marvell Technology, Inc. $MRVL의 주식 보유를 줄입니다.",
       "summary_kr": "Lombard Odier Asset Management Europe Ltd는 1분기에 Marvell Technology, Inc.(NASDAQ:MRVL)의 지분을 67% 대폭 줄여 78,274주를 매각하고 383만 달러 상당의 38,627주를 보유했습니다. 이러한 감소에도 불구하고 월스트리트 항문"
+    },
+    {
+      "id": "f_62f84358cece11",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Neocloud Stocks vs. the Hyperscalers -- Who Actually Wins AI Capex Boom?",
+      "summary": "The stakes are high as hundreds of billions of dollars flow into AI data centers.",
+      "url": "https://finnhub.io/api/news?id=4be45c2878389f162a1e43d7701d29dcc05ba97ea4500ea1352cad9c09d9bf1c",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:35:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "네오클라우드 주식과 하이퍼스케일러 - AI Capex 붐의 실제 승자는 누구입니까?",
+      "summary_kr": "수천억 달러가 AI 데이터 센터로 유입되면서 위험도 높습니다."
+    },
+    {
+      "id": "f_0ff3b77e80e2ec",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "Google spent $490 million a day on AI and burned $5.9 billion in cash — its first negative quarter since going public",
+      "summary": "Alphabet's $44.9B in AI spending outpaced its cash generation, ending the company's 22-year streak of positive free cash flow.",
+      "url": "https://finnhub.io/api/news?id=8752e6fabcb96f63e4435ca9e0cec7c4ed375716a1a753acb03d0f90826c18a0",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:30:00+00:00",
+      "change_pct": 0.65,
+      "title_kr": "구글은 AI에 하루 4억 9천만 달러를 지출하고 59억 달러의 현금을 소진했습니다. 이는 상장 이후 첫 번째 적자 분기입니다.",
+      "summary_kr": "Alphabet의 AI 지출 449억 달러는 현금 창출을 앞지르며 회사의 22년 연속 흑자 잉여 현금 흐름을 마감했습니다."
+    },
+    {
+      "id": "f_e3d1a229cba4ca",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "The Magic Number for a \"Comfortable\" Retirement is $1.2 Million. Here's How Much You Might Need to Invest Each Month to Be on Track for That",
+      "summary": "Investing regularly in the stock market can be an effective way for investors to build up their nest egg for retirement.",
+      "url": "https://finnhub.io/api/news?id=01a2d783e4d103b5dc8986297cdb5ca9a84b4c6a248d1285a92c0a0e02f64072",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:20:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "\"편안한\" 은퇴를 위한 매직 넘버는 120만 달러입니다. 이를 위해 매달 투자해야 할 금액은 다음과 같습니다.",
+      "summary_kr": "주식 시장에 정기적으로 투자하는 것은 투자자들이 은퇴를 위한 보금자리를 마련하는 효과적인 방법이 될 수 있습니다."
+    },
+    {
+      "id": "f_92047152ece242",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Best Quantum Computing Pick-and-Shovel Play: Nvidia, Microsoft, or Alphabet?",
+      "summary": "The pure plays are so risky that it makes sense to consider investing in their suppliers instead.",
+      "url": "https://finnhub.io/api/news?id=3a94a8467eecc81739776cba60550a83d06286acc3433456f75953a7678df9f3",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:14:00+00:00",
+      "change_pct": -0.92,
+      "title_kr": "최고의 양자 컴퓨팅 선택과 삽 놀이: Nvidia, Microsoft, 아니면 Alphabet?",
+      "summary_kr": "순수 플레이는 너무 위험하므로 대신 공급업체에 투자하는 것을 고려하는 것이 합리적입니다."
+    },
+    {
+      "id": "av_c55860561cba01",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "OMERS ADMINISTRATION Corp Purchases 8,405 Shares of Palo Alto Networks, Inc. $PANW",
+      "summary": "OMERS ADMINISTRATION Corp increased its stake in Palo Alto Networks (NASDAQ:PANW) by 1.0% in the first quarter, adding 8,405 shares to now own 867,264 shares valued at $139 million. Other institutional investors also adjusted their positions in the cybersecurity firm, which repor",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-omers-administration-corp-purchases-8405-shares-of-palo-alto-networks-inc-panw-2026-07-26/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-26T10:27:04+00:00",
+      "sentiment": 0.142605,
+      "change_pct": -0.92,
+      "title_kr": "OMERS ADMINISTRATION Corp, Palo Alto Networks, Inc.의 주식 8,405주 매입 $PANW",
+      "summary_kr": "OMERS ADMINISTRATION Corp는 1분기에 Palo Alto Networks(NASDAQ:PANW)의 지분을 1.0% 늘려 8,405주를 추가하여 현재 1억 3,900만 달러 상당의 867,264주를 소유하고 있습니다. 다른 기관 투자자들도 사이버 보안 분야에서 포지션을 조정했습니다."
+    },
+    {
+      "id": "f_194321ddf69f79",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Better AI Software Stock: Palantir vs. ServiceNow",
+      "summary": "Worries about AI making software companies obsolete may be overblown.",
+      "url": "https://finnhub.io/api/news?id=685802f7bed7bc1919de9187a364d7af6a69ac38fcbb1b71e3e981cd05e85d11",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:07:00+00:00",
+      "change_pct": -0.92
+    },
+    {
+      "id": "f_264a28748a47a7",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "TechCrunch Mobility: Uber bets on its former CEO",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "url": "https://finnhub.io/api/news?id=41b5133c82216db0c85a51dd046cec7e9f027a9d1e44ab51491812ab43e43369",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:03:00+00:00",
+      "change_pct": -2.08
+    },
+    {
+      "id": "f_b2fc4a24ae9811",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Want to Build Your Own Tesla Model S or X? Elon Musk Will Show You How.",
+      "summary": "Tesla  just gave away the plans for its recently canceled Model S and X vehicles.  Is CEO Elon Musk pulling a power move, daring the industry to build his products?  “Just as Tesla made the original Roadster design and software open source, we plan to do the same with Model S & X,” tweeted Musk on Friday afternoon.",
+      "url": "https://finnhub.io/api/news?id=39098652960f762953a9ff7ac153e6291454e829dbb8d4b89f507334ed9cabc3",
+      "source": "Yahoo",
+      "published_at": "2026-07-26T16:01:00+00:00",
+      "change_pct": -2.08
     },
     {
       "id": "f_478900acb09895",
@@ -657,21 +850,6 @@
       "summary_kr": "주요 은행 CEO들은 주식 시장을 바라보는 관점이 다릅니다. 장기적인 투자를 중단하지 마십시오."
     },
     {
-      "id": "av_c55860561cba01",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "OMERS ADMINISTRATION Corp Purchases 8,405 Shares of Palo Alto Networks, Inc. $PANW",
-      "summary": "OMERS ADMINISTRATION Corp increased its stake in Palo Alto Networks (NASDAQ:PANW) by 1.0% in the first quarter, adding 8,405 shares to now own 867,264 shares valued at $139 million. Other institutional investors also adjusted their positions in the cybersecurity firm, which repor",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-omers-administration-corp-purchases-8405-shares-of-palo-alto-networks-inc-panw-2026-07-26/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-26T10:27:04+00:00",
-      "sentiment": 0.114052,
-      "change_pct": -0.92,
-      "title_kr": "OMERS ADMINISTRATION Corp, Palo Alto Networks, Inc.의 주식 8,405주 매입 $PANW",
-      "summary_kr": "OMERS ADMINISTRATION Corp는 1분기에 Palo Alto Networks(NASDAQ:PANW)의 지분을 1.0% 늘려 8,405주를 추가하여 현재 1억 3,900만 달러 상당의 867,264주를 소유하고 있습니다. 다른 기관 투자자들도 사이버 보안 분야에서 포지션을 조정했습니다."
-    },
-    {
       "id": "f_6a0a47b6cf4144",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -686,21 +864,6 @@
       "summary_kr": "금융은 그 어느 때보다 탄탄하지만 시장은 더 많은 것을 원하고 있습니다."
     },
     {
-      "id": "av_243687a7b1cd18",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Marvell Technology, Inc. $MRVL Shares Acquired by Lombard Odier Asset Management Switzerland SA",
-      "summary": "Lombard Odier Asset Management Switzerland SA significantly increased its stake in Marvell Technology (NASDAQ:MRVL) by 54.2% in the first quarter, now owning 82,711 shares valued at $8.19 million. Marvell Technology is viewed as a key beneficiary of the growing demand for AI data",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-marvell-technology-inc-mrvl-shares-acquired-by-lombard-odier-asset-management-switzerland-sa-2026-07-26/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-26T10:41:58+00:00",
-      "sentiment": -0.101391,
-      "change_pct": -0.92,
-      "title_kr": "Marvell Technology, Inc. $MRVL 주식, Lombard Odier Asset Management Switzerland SA에 인수",
-      "summary_kr": "Lombard Odier Asset Management Switzerland SA는 1분기에 Marvell Technology(NASDAQ:MRVL)의 지분을 54.2% 증가시켜 현재 819만 달러 상당의 82,711주를 소유하고 있습니다. Marvell Technology는 성장의 주요 수혜자로 간주됩니다."
-    },
-    {
       "id": "f_76bd9eea3c6dd5",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -713,6 +876,36 @@
       "change_pct": -0.92,
       "title_kr": "IonQ vs. Rigetti: 2조 7천억 달러 규모의 양자 컴퓨팅 경쟁에서 누가 승리할까요?",
       "summary_kr": "두 주식이 귀하의 포트폴리오에 포함될 자격이 있는지 여부는 다음과 같습니다."
+    },
+    {
+      "id": "av_243687a7b1cd18",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Marvell Technology, Inc. $MRVL Shares Acquired by Lombard Odier Asset Management Switzerland SA",
+      "summary": "Lombard Odier Asset Management Switzerland SA significantly increased its stake in Marvell Technology (NASDAQ:MRVL) by 54.2% in the first quarter, now owning 82,711 shares valued at $8.19 million. Marvell Technology is viewed as a key beneficiary of the growing demand for AI data",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-marvell-technology-inc-mrvl-shares-acquired-by-lombard-odier-asset-management-switzerland-sa-2026-07-26/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-26T10:41:58+00:00",
+      "sentiment": -0.101257,
+      "change_pct": -0.92,
+      "title_kr": "Marvell Technology, Inc. $MRVL 주식, Lombard Odier Asset Management Switzerland SA에 인수",
+      "summary_kr": "Lombard Odier Asset Management Switzerland SA는 1분기에 Marvell Technology(NASDAQ:MRVL)의 지분을 54.2% 증가시켜 현재 819만 달러 상당의 82,711주를 소유하고 있습니다. Marvell Technology는 성장의 주요 수혜자로 간주됩니다."
+    },
+    {
+      "id": "av_206704f228c024",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Delta Global Management LP Buys New Shares in Marvell Technology, Inc. $MRVL",
+      "summary": "Delta Global Management LP has acquired a new stake of 27,068 shares in Marvell Technology, Inc. (NASDAQ:MRVL), valued at approximately $2.68 million during the first quarter. This comes as several other institutional investors also adjusted their holdings in the semiconductor co",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-delta-global-management-lp-buys-new-shares-in-marvell-technology-inc-mrvl-2026-07-26/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-26T08:41:58+00:00",
+      "sentiment": 0.147176,
+      "change_pct": -0.92,
+      "title_kr": "Delta Global Management LP, Marvell Technology, Inc. $MRVL의 신규 주식 매입",
+      "summary_kr": "Delta Global Management LP는 Marvell Technology, Inc.(NASDAQ:MRVL)의 새로운 지분 27,068주를 인수했는데, 이는 1분기 동안 약 268만 달러 가치에 해당합니다. 이는 다른 여러 기관 투자자들도 보유 지분을 조정함에 따라 발생합니다."
     },
     {
       "id": "f_360716c6fed917",
@@ -799,6 +992,21 @@
       "summary_kr": "풍력 주문이 계속 감소하고 있지만 이는 놀라운 모멘텀을 경험하고 있는 회사의 작은 부분일 뿐입니다."
     },
     {
+      "id": "av_25de644fc57f32",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Peraso Inc (PRSO) Earnings Forecast: Future EPS & Revenue Growth Estimates",
+      "summary": "Peraso Inc (PRSO) has a strong earnings forecast score of 9.00, ranking first in its industry, with analysts giving it a \"STRONG BUY\" rating and an average price target of $2.73. The company's expected revenue for the next quarter is $1.25M, and its EPS for the upcoming quarter i",
+      "url": "https://www.tradingkey.com/markets/stocks/prso/earnings",
+      "source": "TradingKey",
+      "published_at": "2026-07-26T07:41:55+00:00",
+      "sentiment": 0.143539,
+      "change_pct": -0.92,
+      "title_kr": "Peraso Inc(PRSO) 수익 예측: 미래 EPS 및 수익 성장 추정",
+      "summary_kr": "Peraso Inc(PRSO)는 9.00이라는 강력한 수익 예측 점수를 가지고 있어 업계 1위를 차지했으며 분석가들은 \"적극 매수\" 등급과 평균 목표 주가 $2.73를 부여했습니다. 회사의 다음 분기 예상 수익은 125만 달러이고 해당 분기의 EPS는"
+    },
+    {
       "id": "f_1817e05ffa1ef3",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -822,7 +1030,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-delta-global-management-lp-purchases-new-holdings-in-palo-alto-networks-inc-panw-2026-07-26/",
       "source": "MarketBeat",
       "published_at": "2026-07-26T08:50:08+00:00",
-      "sentiment": 0.113624,
+      "sentiment": 0.112626,
       "change_pct": -0.92,
       "title_kr": "Delta Global Management LP, Palo Alto Networks, Inc.의 신규 지분 매입 $PANW",
       "summary_kr": "Delta Global Management LP는 Palo Alto Networks(NASDAQ:PANW)에서 새로운 지위를 인수하여 약 2,387만 달러 상당의 148,896주를 매입하여 17번째로 큰 보유 주식이 되었습니다. 다른 기관투자자들도 지분을 조정했다."
@@ -842,19 +1050,19 @@
       "summary_kr": "Meta Platform이 초과 클라우드 컴퓨팅 용량을 판매할 계획이라는 보고서는 CoreWeave에 좋은 징조가 아닙니다."
     },
     {
-      "id": "av_206704f228c024",
+      "id": "av_979c57c2a34fad",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Delta Global Management LP Buys New Shares in Marvell Technology, Inc. $MRVL",
-      "summary": "Delta Global Management LP has acquired a new stake of 27,068 shares in Marvell Technology, Inc. (NASDAQ:MRVL), valued at approximately $2.68 million during the first quarter. This comes as several other institutional investors also adjusted their holdings in the semiconductor co",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-delta-global-management-lp-buys-new-shares-in-marvell-technology-inc-mrvl-2026-07-26/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-26T08:41:58+00:00",
-      "sentiment": 0.11511,
+      "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
+      "summary": "This article compares the Vanguard S&P 500 Growth ETF (VOOG) and the State Street SPDR S&P 600 Small Cap Growth ETF (SLYG), highlighting their differences in market capitalization focus, expense ratios, and performance. VOOG targets large-cap tech companies with a lower expense r",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/25/how-do-the-vanguard-s-and-p-500-growth-etf-and-the-state-street-small-cap-growth-etf-compare/",
+      "source": "The Motley Fool",
+      "published_at": "2026-07-25T23:21:50+00:00",
+      "sentiment": 0.347136,
       "change_pct": -0.92,
-      "title_kr": "Delta Global Management LP, Marvell Technology, Inc. $MRVL의 신규 주식 매입",
-      "summary_kr": "Delta Global Management LP는 Marvell Technology, Inc.(NASDAQ:MRVL)의 새로운 지분 27,068주를 인수했는데, 이는 1분기 동안 약 268만 달러 가치에 해당합니다. 이는 다른 여러 기관 투자자들도 보유 지분을 조정함에 따라 발생합니다."
+      "title_kr": "Vanguard S&P 500 성장 ETF와 State Street Small Cap 성장 ETF는 어떻게 비교됩니까?",
+      "summary_kr": "이 기사에서는 Vanguard S&P 500 Growth ETF(VOOG)와 State Street SPDR S&P 600 Small Cap Growth ETF(SLYG)를 비교하여 시가총액 초점, 비용 비율 및 성과의 차이점을 강조합니다. VOOG는 대형 기술 기업을 표적으로 삼았습니다."
     },
     {
       "id": "f_6b8dae973938b6",
@@ -899,21 +1107,6 @@
       "summary_kr": "몇몇 인기 있는 Vanguard ETF는 IPO 직후 SpaceX를 구매하는 데 시간을 낭비하지 않았습니다."
     },
     {
-      "id": "av_25de644fc57f32",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Peraso Inc (PRSO) Earnings Forecast: Future EPS & Revenue Growth Estimates",
-      "summary": "Peraso Inc (PRSO) has a strong earnings forecast score of 9.00, ranking first in its industry, with analysts giving it a \"STRONG BUY\" rating and an average price target of $2.73. The company's expected revenue for the next quarter is $1.25M, and its EPS for the upcoming quarter i",
-      "url": "https://www.tradingkey.com/markets/stocks/prso/earnings",
-      "source": "TradingKey",
-      "published_at": "2026-07-26T07:41:55+00:00",
-      "sentiment": 0.136218,
-      "change_pct": -0.92,
-      "title_kr": "Peraso Inc(PRSO) 수익 예측: 미래 EPS 및 수익 성장 추정",
-      "summary_kr": "Peraso Inc(PRSO)는 9.00이라는 강력한 수익 예측 점수를 가지고 있어 업계 1위를 차지했으며 분석가들은 \"적극 매수\" 등급과 평균 목표 주가 $2.73를 부여했습니다. 회사의 다음 분기 예상 수익은 125만 달러이고 해당 분기의 EPS는"
-    },
-    {
       "id": "f_59e581e4850c8e",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -926,21 +1119,6 @@
       "change_pct": -3.29,
       "title_kr": "UBS는 주요 AI Day 신호에 따라 AMD 주식 목표를 서둘러 재설정합니다.",
       "summary_kr": "월스트리트는 일반적으로 제품 이벤트를 소화하는 데 며칠이 걸립니다. 그러나 UBS는 1개 미만을 가져갔습니다. AMD(Advanced Micro Devices)는 7월 23일 샌프란시스코에서 Advanced AI 2026 기조 연설을 마쳤습니다. 다음날 아침 UBS 분석가 Timothy Arcuri는 이미"
-    },
-    {
-      "id": "av_979c57c2a34fad",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "How Do the Vanguard S&P 500 Growth ETF and the State Street Small Cap Growth ETF Compare?",
-      "summary": "This article compares the Vanguard S&P 500 Growth ETF (VOOG) and the State Street SPDR S&P 600 Small Cap Growth ETF (SLYG), highlighting their differences in market capitalization focus, expense ratios, and performance. VOOG targets large-cap tech companies with a lower expense r",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/25/how-do-the-vanguard-s-and-p-500-growth-etf-and-the-state-street-small-cap-growth-etf-compare/",
-      "source": "The Motley Fool",
-      "published_at": "2026-07-25T23:21:50+00:00",
-      "sentiment": 0.337665,
-      "change_pct": -0.92,
-      "title_kr": "Vanguard S&P 500 성장 ETF와 State Street Small Cap 성장 ETF는 어떻게 비교됩니까?",
-      "summary_kr": "이 기사에서는 Vanguard S&P 500 Growth ETF(VOOG)와 State Street SPDR S&P 600 Small Cap Growth ETF(SLYG)를 비교하여 시가총액 초점, 비용 비율 및 성과의 차이점을 강조합니다. VOOG는 대형 기술 기업을 표적으로 삼았습니다."
     },
     {
       "id": "f_d109d3799ca109",
@@ -1133,21 +1311,6 @@
       "summary_kr": "월스트리트가 역사를 만드는 문 앞에 섰습니다. 그러나 모든 역사적 사건이 투자자들에게 바람직한 것은 아닙니다."
     },
     {
-      "id": "av_54e3551e0dbab1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "MGRT|Mega Fortune Company Ord Shs|Price:95.000|Chg%:-3.100",
-      "summary": "This article provides a detailed financial overview of Mega Fortune Company Ord Shs (MGRT), including its current stock price, market capitalization, key figures, and recent price performance. It also lists technical indicators, shareholder information, and related instruments. T",
-      "url": "https://www.tradingkey.com/markets/stocks/mgrt",
-      "source": "TradingKey",
-      "published_at": "2026-07-25T21:09:48+00:00",
-      "sentiment": -0.341779,
-      "change_pct": -0.92,
-      "title_kr": "MGRT|메가 포춘 컴퍼니 Ord Shs|가격:95.000|Chg%:-3.100",
-      "summary_kr": "이 기사에서는 현재 주가, 시가총액, 주요 수치 및 최근 가격 성과를 포함하여 Mega Fortune Company Ord Shs(MGRT)의 자세한 재무 개요를 제공합니다. 또한 기술 지표, 주주 정보 및 재정보도 나열되어 있습니다."
-    },
-    {
       "id": "f_0dea115d4e1344",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1204,21 +1367,6 @@
       "summary_kr": "Colgate-Palmolive의 현재 딥은 상대적으로 얕지만 깊어지기를 기다리는 것은 위험할 수 있습니다."
     },
     {
-      "id": "av_732d91969385a7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia CEO Jensen Huang denies the chip boom will go bust soon and says 'this time is different'",
-      "summary": "Nvidia CEO Jensen Huang asserts that the current chip boom, driven by AI, is not headed for a bust soon, despite historical boom-and-bust cycles in the semiconductor industry. He claims \"this time is different\" because the shift is industrially driven by a fundamental change in c",
-      "url": "https://fortune.com/2026/07/25/nvidia-ceo-jensen-huang-chip-stocks-boom-bust-soon-this-time-is-different/",
-      "source": "Fortune",
-      "published_at": "2026-07-25T17:08:42+00:00",
-      "sentiment": 0.43397,
-      "change_pct": -0.92,
-      "title_kr": "엔비디아 CEO 젠슨 황은 칩 붐이 곧 파산할 것이라고 부인하며 '이번은 다르다'고 말했습니다.",
-      "summary_kr": "엔비디아 CEO 젠슨 황(Jensen Huang)은 반도체 산업의 역사적 호황 주기에도 불구하고 AI가 주도하는 현재의 칩 붐이 곧 붕괴되지는 않을 것이라고 주장합니다. 그는 변화가 산업적으로 재미에 의해 주도되기 때문에 \"이번은 다르다\"고 주장합니다."
-    },
-    {
       "id": "f_50b04456e5a14c",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1231,19 +1379,6 @@
       "change_pct": -0.92,
       "title_kr": "모두가 이 주식을 사기에는 너무 늦었다고 말했습니다. 그들은 틀렸다.",
       "summary_kr": "코스트코가 계속해서 투자자들에게 보상을 제공할 수 있나요?"
-    },
-    {
-      "id": "av_b1d8025ff3316e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
-      "summary": "SK Group and NVIDIA are expanding their strategic partnership with a $500-billion-plus initiative focused on AI factories and next-generation memory. SK Telecom plans to build a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory, with the first factory expected to open in 2027. Addition",
-      "url": "https://www.globenewswire.com/news-release/2026/07/25/3333161/0/en/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-07-25T14:41:39+00:00",
-      "sentiment": 0.480569,
-      "change_pct": -0.92
     },
     {
       "id": "f_a3f071cef1bfdc",
@@ -1260,6 +1395,49 @@
       "summary_kr": "SpaceX와 Nvidia는 둘 다 물러섰지만, 그중 하나는 오늘날 AI 붐에 투자할 수 있는 더 저렴하고 집중적이며 이익이 뒷받침되는 방법을 제공합니다."
     },
     {
+      "id": "av_999cbf78027bc0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Morgan Stanley Says AI Memory Demand Keeps the Investment Case Intact",
+      "summary": "Morgan Stanley suggests that the recent dip in U.S. memory stocks offers an attractive investment opportunity due to sustained demand from AI data centers. The firm highlights that tightening supply and increasing data center memory prices are reinforcing the investment case, des",
+      "url": "https://uk.finance.yahoo.com/news/morgan-stanley-says-ai-memory-130000519.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-25T12:39:31+00:00",
+      "sentiment": 0.451545,
+      "change_pct": -0.92,
+      "title_kr": "Morgan Stanley는 AI 메모리 수요가 투자 사례를 그대로 유지한다고 말합니다.",
+      "summary_kr": "모건스탠리는 최근 미국 메모리 주가 하락세가 AI 데이터센터의 지속적인 수요로 인해 매력적인 투자 기회가 될 것이라고 내다봤다. 회사는 공급 긴축과 데이터 센터 메모리 가격 상승이 메모리 시장을 강화하고 있다고 강조합니다."
+    },
+    {
+      "id": "av_b1d8025ff3316e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SK Group and NVIDIA Expand Strategic Partnership Across AI Factories and Next-Generation Memory",
+      "summary": "SK Group and NVIDIA are expanding their strategic partnership with a $500-billion-plus initiative focused on AI factories and next-generation memory. SK Telecom plans to build a 2-gigawatt NVIDIA Vera Rubin DSX AI Factory, with the first factory expected to open in 2027. Addition",
+      "url": "https://www.globenewswire.com/news-release/2026/07/25/3333161/0/en/sk-group-and-nvidia-expand-strategic-partnership-across-ai-factories-and-next-generation-memory.html",
+      "source": "GlobeNewswire",
+      "published_at": "2026-07-25T14:41:39+00:00",
+      "sentiment": 0.451033,
+      "change_pct": -0.92
+    },
+    {
+      "id": "av_b4c4395d28d809",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Synopsys (NASDAQ:SNPS) Approaches 52-Week Low; Debt Projection Brightens",
+      "summary": "Synopsys (NASDAQ:SNPS) shares dropped 2.8% over the past week, approaching its 52-week low despite S&P Global Ratings raising its outlook to positive due to declining credit risk. The company's debt leverage is projected to decrease significantly after its Ansys acquisition, with",
+      "url": "https://ts2.tech/en/synopsys-nasdaqsnps-approaches-52-week-low-debt-projection-brightens/",
+      "source": "TechStock²",
+      "published_at": "2026-07-25T21:25:53+00:00",
+      "sentiment": 0.317364,
+      "change_pct": -0.92,
+      "title_kr": "Synopsys (NASDAQ:SNPS)는 52주 최저치에 도달했습니다. 부채 전망 밝아진다",
+      "summary_kr": "Synopsys(NASDAQ:SNPS) 주가는 지난 주 동안 2.8% 하락하여 S&P Global Ratings가 신용 위험 감소로 전망을 긍정적으로 높였음에도 불구하고 52주 최저치에 근접했습니다. 회사의 부채 레버리지는 Ans 이후 크게 감소할 것으로 예상됩니다."
+    },
+    {
       "id": "f_79ef0e84cd12ce",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1274,19 +1452,19 @@
       "summary_kr": "둘 다 매우 유망한 미래를 가지고 있습니다."
     },
     {
-      "id": "av_999cbf78027bc0",
+      "id": "av_54e3551e0dbab1",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Morgan Stanley Says AI Memory Demand Keeps the Investment Case Intact",
-      "summary": "Morgan Stanley suggests that the recent dip in U.S. memory stocks offers an attractive investment opportunity due to sustained demand from AI data centers. The firm highlights that tightening supply and increasing data center memory prices are reinforcing the investment case, des",
-      "url": "https://uk.finance.yahoo.com/news/morgan-stanley-says-ai-memory-130000519.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-25T12:39:31+00:00",
-      "sentiment": 0.47346,
+      "title": "MGRT|Mega Fortune Company Ord Shs|Price:95.000|Chg%:-3.100",
+      "summary": "This article provides a detailed financial overview of Mega Fortune Company Ord Shs (MGRT), including its current stock price, market capitalization, key figures, and recent price performance. It also lists technical indicators, shareholder information, and related instruments. T",
+      "url": "https://www.tradingkey.com/markets/stocks/mgrt",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T21:09:48+00:00",
+      "sentiment": -0.320879,
       "change_pct": -0.92,
-      "title_kr": "Morgan Stanley는 AI 메모리 수요가 투자 사례를 그대로 유지한다고 말합니다.",
-      "summary_kr": "모건스탠리는 최근 미국 메모리 주가 하락세가 AI 데이터센터의 지속적인 수요로 인해 매력적인 투자 기회가 될 것이라고 내다봤다. 회사는 공급 긴축과 데이터 센터 메모리 가격 상승이 메모리 시장을 강화하고 있다고 강조합니다."
+      "title_kr": "MGRT|메가 포춘 컴퍼니 Ord Shs|가격:95.000|Chg%:-3.100",
+      "summary_kr": "이 기사에서는 현재 주가, 시가총액, 주요 수치 및 최근 가격 성과를 포함하여 Mega Fortune Company Ord Shs(MGRT)의 자세한 재무 개요를 제공합니다. 또한 기술 지표, 주주 정보 및 재정보도 나열되어 있습니다."
     },
     {
       "id": "f_575d2845456c42",
@@ -1303,6 +1481,21 @@
       "summary_kr": "미국 중앙은행의 새 총재는 계속해서 시장의 현미경 아래서 활동하고 있습니다."
     },
     {
+      "id": "av_732d91969385a7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia CEO Jensen Huang denies the chip boom will go bust soon and says 'this time is different'",
+      "summary": "Nvidia CEO Jensen Huang asserts that the current chip boom, driven by AI, is not headed for a bust soon, despite historical boom-and-bust cycles in the semiconductor industry. He claims \"this time is different\" because the shift is industrially driven by a fundamental change in c",
+      "url": "https://fortune.com/2026/07/25/nvidia-ceo-jensen-huang-chip-stocks-boom-bust-soon-this-time-is-different/",
+      "source": "Fortune",
+      "published_at": "2026-07-25T17:08:42+00:00",
+      "sentiment": 0.415868,
+      "change_pct": -0.92,
+      "title_kr": "엔비디아 CEO 젠슨 황은 칩 붐이 곧 파산할 것이라고 부인하며 '이번은 다르다'고 말했습니다.",
+      "summary_kr": "엔비디아 CEO 젠슨 황(Jensen Huang)은 반도체 산업의 역사적 호황 주기에도 불구하고 AI가 주도하는 현재의 칩 붐이 곧 붕괴되지는 않을 것이라고 주장합니다. 그는 변화가 산업적으로 재미에 의해 주도되기 때문에 \"이번은 다르다\"고 주장합니다."
+    },
+    {
       "id": "f_dfd42d671a188b",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1317,21 +1510,6 @@
       "summary_kr": "투자자들이 계속해서 주식을 피해야 하는 이유."
     },
     {
-      "id": "av_b4c4395d28d809",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Synopsys (NASDAQ:SNPS) Approaches 52-Week Low; Debt Projection Brightens",
-      "summary": "Synopsys (NASDAQ:SNPS) shares dropped 2.8% over the past week, approaching its 52-week low despite S&P Global Ratings raising its outlook to positive due to declining credit risk. The company's debt leverage is projected to decrease significantly after its Ansys acquisition, with",
-      "url": "https://ts2.tech/en/synopsys-nasdaqsnps-approaches-52-week-low-debt-projection-brightens/",
-      "source": "TechStock²",
-      "published_at": "2026-07-25T21:25:53+00:00",
-      "sentiment": 0.303374,
-      "change_pct": -0.92,
-      "title_kr": "Synopsys (NASDAQ:SNPS)는 52주 최저치에 도달했습니다. 부채 전망 밝아진다",
-      "summary_kr": "Synopsys(NASDAQ:SNPS) 주가는 지난 주 동안 2.8% 하락하여 S&P Global Ratings가 신용 위험 감소로 전망을 긍정적으로 높였음에도 불구하고 52주 최저치에 근접했습니다. 회사의 부채 레버리지는 Ans 이후 크게 감소할 것으로 예상됩니다."
-    },
-    {
       "id": "av_4dcaa80fa6c18e",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1341,7 +1519,7 @@
       "url": "https://www.tradingkey.com/markets/stocks/na",
       "source": "TradingKey",
       "published_at": "2026-07-25T20:11:01+00:00",
-      "sentiment": -0.333732,
+      "sentiment": -0.336977,
       "change_pct": -0.92,
       "title_kr": "NA|Nano Labs Ltd|가격:1.860|Chg%:-0.060",
       "summary_kr": "이 기사에서는 Nano Labs Ltd(NA)의 개요를 제공하고 주가, 주요 재무 수치, 다양한 기간에 따른 성과 지표 및 회사 정보를 자세히 설명합니다. 이는 팹리스 집적 회로(IC) 및 제품 솔루션에 대한 회사의 초점을 강조합니다."
@@ -1387,19 +1565,6 @@
       "summary_kr": "Jeff Bezos는 여전히 우주 회사 Blue Origin에 대한 통제권을 갖고 있지만 100% 통제권은 아닙니다."
     },
     {
-      "id": "av_910338b9d670d6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Vanguard S&P 500 Growth vs. iShares Small-Cap ETFs: Which Is the Better Buy for 2026?",
-      "summary": "This article compares the Vanguard S&P 500 Growth ETF (VOOG) and the iShares S&P Small-Cap 600 Growth ETF (IJT), along with a third option, the iShares Morningstar Small-Cap Growth ETF (ISCG), to determine which is a better buy for 2026. While VOOG, with its concentration in mega",
-      "url": "https://finance.biggo.com/news/9c1050c6-4626-42d9-a05f-20f07562ad09",
-      "source": "BigGo Finance",
-      "published_at": "2026-07-25T19:41:23+00:00",
-      "sentiment": 0.342092,
-      "change_pct": -0.92
-    },
-    {
       "id": "f_32c892599786e8",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1412,6 +1577,21 @@
       "change_pct": -0.92,
       "title_kr": "알파벳의 급증하는 Capex에 매수할 수 있는 최고의 주식 8개",
       "summary_kr": "이들 AI 주식은 알파벳의 설비투자 증가로 직접적인 수혜를 입을 것이다."
+    },
+    {
+      "id": "av_2190e0a10e4e86",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amkor announces $1.5 billion partnership with NVIDIA for chip packaging and testing",
+      "summary": "Amkor Technology, based in Tempe, has secured a $1.5 billion partnership with NVIDIA for chip packaging and testing. This collaboration aims to localize a critical part of the semiconductor manufacturing process within the U.S., specifically Arizona. The move is expected to bolst",
+      "url": "https://www.kjzz.org/business/2026-07-25/amkor-announces-1-5-billion-partnership-with-nvidia-for-chip-packaging-and-testing",
+      "source": "KJZZ",
+      "published_at": "2026-07-25T12:12:00+00:00",
+      "sentiment": 0.427114,
+      "change_pct": -0.92,
+      "title_kr": "앰코, 칩 패키징 및 테스트를 위해 NVIDIA와 15억 달러 규모 파트너십 발표",
+      "summary_kr": "Tempe에 본사를 둔 Amkor Technology는 칩 패키징 및 테스트를 위해 NVIDIA와 15억 달러 규모의 파트너십을 확보했습니다. 이번 협력의 목적은 미국, 특히 애리조나 내에서 반도체 제조 공정의 중요한 부분을 현지화하는 것입니다. 움직임"
     },
     {
       "id": "f_4162f3f40b25d5",
@@ -1481,6 +1661,19 @@
       "summary_kr": "비트코인은 마침내 4년 주기의 약세 국면이 거의 끝나가고 있을 수 있습니다."
     },
     {
+      "id": "av_910338b9d670d6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Vanguard S&P 500 Growth vs. iShares Small-Cap ETFs: Which Is the Better Buy for 2026?",
+      "summary": "This article compares the Vanguard S&P 500 Growth ETF (VOOG) and the iShares S&P Small-Cap 600 Growth ETF (IJT), along with a third option, the iShares Morningstar Small-Cap Growth ETF (ISCG), to determine which is a better buy for 2026. While VOOG, with its concentration in mega",
+      "url": "https://finance.biggo.com/news/9c1050c6-4626-42d9-a05f-20f07562ad09",
+      "source": "BigGo Finance",
+      "published_at": "2026-07-25T19:41:23+00:00",
+      "sentiment": 0.327148,
+      "change_pct": -0.92
+    },
+    {
       "id": "f_36935f2ed1f0c8",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1507,21 +1700,6 @@
       "change_pct": -0.92,
       "title_kr": "Alphabet은 주가를 폭락시킨 AI 관련 뉴스를 방금 전달했습니다. 하락장에서 매수해야 할까요, 아니면 언덕을 향해 달려야 할까요?",
       "summary_kr": "알파벳의 매력적인 가치평가가 전체 내용을 말해주지는 않습니다."
-    },
-    {
-      "id": "av_2190e0a10e4e86",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Amkor announces $1.5 billion partnership with NVIDIA for chip packaging and testing",
-      "summary": "Amkor Technology, based in Tempe, has secured a $1.5 billion partnership with NVIDIA for chip packaging and testing. This collaboration aims to localize a critical part of the semiconductor manufacturing process within the U.S., specifically Arizona. The move is expected to bolst",
-      "url": "https://www.kjzz.org/business/2026-07-25/amkor-announces-1-5-billion-partnership-with-nvidia-for-chip-packaging-and-testing",
-      "source": "KJZZ",
-      "published_at": "2026-07-25T12:12:00+00:00",
-      "sentiment": 0.436516,
-      "change_pct": -0.92,
-      "title_kr": "앰코, 칩 패키징 및 테스트를 위해 NVIDIA와 15억 달러 규모 파트너십 발표",
-      "summary_kr": "Tempe에 본사를 둔 Amkor Technology는 칩 패키징 및 테스트를 위해 NVIDIA와 15억 달러 규모의 파트너십을 확보했습니다. 이번 협력의 목적은 미국, 특히 애리조나 내에서 반도체 제조 공정의 중요한 부분을 현지화하는 것입니다. 움직임"
     },
     {
       "id": "f_04f7f22a716a5f",
@@ -1607,21 +1785,6 @@
       "change_pct": -0.92
     },
     {
-      "id": "av_3347df89e05cd5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Infleqtion to Deploy Fault-Tolerant Neutral-Atom Quantum Computer at Illinois Quantum Park - Quantum Computing Report",
-      "summary": "Infleqtion plans to deploy its Sqale quantum computer at the Illinois Quantum & Microelectronics Park (IQMP) by 2027 and has opened a Chicago Quantum Innovation Center to develop quantum optimization solutions for the U.S. energy grid. The Sqale platform aims for fault-tolerant o",
-      "url": "https://quantumcomputingreport.com/infleqtion-to-deploy-fault-tolerant-neutral-atom-quantum-computer-at-illinois-quantum-park/amp/",
-      "source": "Quantum Computing Report",
-      "published_at": "2026-07-25T18:39:54+00:00",
-      "sentiment": 0.336506,
-      "change_pct": -0.92,
-      "title_kr": "일리노이 양자 공원에 내결함성 중성 원자 양자 컴퓨터를 배포하는 Infleqtion - 양자 컴퓨팅 보고서",
-      "summary_kr": "Infleqtion은 2027년까지 IQMP(Illinois Quantum & Microelectronics Park)에 Sqale 양자 컴퓨터를 배치할 계획이며 미국 에너지 그리드를 위한 양자 최적화 솔루션을 개발하기 위해 Chicago Quantum Innovation Center를 개설했습니다. Sqale 플랫폼의 목표"
-    },
-    {
       "id": "f_959fc4cae57d31",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1636,6 +1799,18 @@
       "summary_kr": "다음은 두 기술 및 AI 거대 기업을 비교한 것입니다."
     },
     {
+      "id": "f_96926b1ceb6377",
+      "provider": "finnhub",
+      "ticker": "AVGO",
+      "category": "general",
+      "title": "Top Wall Street analysts back these 3 stocks for their long-term growth potential",
+      "summary": "Investors with a long-term horizon should look beyond the ongoing noise and focus on stocks that are well-positioned to generate strong returns.",
+      "url": "https://finnhub.io/api/news?id=2ba0e4abbe5a5dd9987ad9214815bea2cda8d1cf1dda24aa72600606fe0c3934",
+      "source": "CNBC",
+      "published_at": "2026-07-26T07:33:11+00:00",
+      "change_pct": -2.69
+    },
+    {
       "id": "f_5edf5f97823383",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1646,6 +1821,21 @@
       "source": "SeekingAlpha",
       "published_at": "2026-07-26T07:30:00+00:00",
       "change_pct": 0.65
+    },
+    {
+      "id": "av_c99e03285da0e6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Is the Vanguard S&P 500 Growth ETF or iShares Small-Cap 600 Growth ETF the Better Fund in 2026?",
+      "summary": "This article compares the Vanguard S&P 500 Growth ETF (VOOG) and the iShares S&P Small-Cap 600 Growth ETF (IJT), evaluating their cost structures, volatility, and long-term returns. While VOOG offers efficient access to large-cap growth with a lower expense ratio, IJT targets agg",
+      "url": "https://www.fool.com/coverage/etfs/2026/07/25/is-the-vanguard-s-and-p-500-growth-etf-or-ishares-small-cap-600-growth-etf-the-better-fund-in-2026/",
+      "source": "The Motley Fool",
+      "published_at": "2026-07-25T17:40:49+00:00",
+      "sentiment": 0.343857,
+      "change_pct": -0.92,
+      "title_kr": "Vanguard S&P 500 Growth ETF 또는 iShares Small-Cap 600 Growth ETF가 2026년 더 나은 펀드입니까?",
+      "summary_kr": "이 기사에서는 Vanguard S&P 500 Growth ETF(VOOG)와 iShares S&P Small-Cap 600 Growth ETF(IJT)를 비교하여 비용 구조, 변동성 및 장기 수익률을 평가합니다. VOOG는 더 낮은 비용으로 대규모 성장에 대한 효율적인 접근을 제공합니다."
     },
     {
       "id": "f_c3c7c4f5ff4800",
@@ -1660,6 +1850,21 @@
       "change_pct": -0.92,
       "title_kr": "패시브 인컴을 위해 지금 당장 매수할 수 있는 4.3% 이상의 수익률을 보이는 3가지 최고 배당주",
       "summary_kr": "이 주식은 현재 헐값이며 골치 아픈 일 없이 막대한 배당금을 제공합니다."
+    },
+    {
+      "id": "av_3347df89e05cd5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Infleqtion to Deploy Fault-Tolerant Neutral-Atom Quantum Computer at Illinois Quantum Park - Quantum Computing Report",
+      "summary": "Infleqtion plans to deploy its Sqale quantum computer at the Illinois Quantum & Microelectronics Park (IQMP) by 2027 and has opened a Chicago Quantum Innovation Center to develop quantum optimization solutions for the U.S. energy grid. The Sqale platform aims for fault-tolerant o",
+      "url": "https://quantumcomputingreport.com/infleqtion-to-deploy-fault-tolerant-neutral-atom-quantum-computer-at-illinois-quantum-park/amp/",
+      "source": "Quantum Computing Report",
+      "published_at": "2026-07-25T18:39:54+00:00",
+      "sentiment": 0.317227,
+      "change_pct": -0.92,
+      "title_kr": "일리노이 양자 공원에 내결함성 중성 원자 양자 컴퓨터를 배포하는 Infleqtion - 양자 컴퓨팅 보고서",
+      "summary_kr": "Infleqtion은 2027년까지 IQMP(Illinois Quantum & Microelectronics Park)에 Sqale 양자 컴퓨터를 배치할 계획이며 미국 에너지 그리드를 위한 양자 최적화 솔루션을 개발하기 위해 Chicago Quantum Innovation Center를 개설했습니다. Sqale 플랫폼의 목표"
     },
     {
       "id": "f_e6681d04d035bd",
@@ -1753,34 +1958,45 @@
       "change_pct": -1.8
     },
     {
-      "id": "av_c99e03285da0e6",
+      "id": "av_98588165f19648",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Is the Vanguard S&P 500 Growth ETF or iShares Small-Cap 600 Growth ETF the Better Fund in 2026?",
-      "summary": "This article compares the Vanguard S&P 500 Growth ETF (VOOG) and the iShares S&P Small-Cap 600 Growth ETF (IJT), evaluating their cost structures, volatility, and long-term returns. While VOOG offers efficient access to large-cap growth with a lower expense ratio, IJT targets agg",
-      "url": "https://www.fool.com/coverage/etfs/2026/07/25/is-the-vanguard-s-and-p-500-growth-etf-or-ishares-small-cap-600-growth-etf-the-better-fund-in-2026/",
-      "source": "The Motley Fool",
-      "published_at": "2026-07-25T17:40:49+00:00",
-      "sentiment": 0.305301,
-      "change_pct": -0.92,
-      "title_kr": "Vanguard S&P 500 Growth ETF 또는 iShares Small-Cap 600 Growth ETF가 2026년 더 나은 펀드입니까?",
-      "summary_kr": "이 기사에서는 Vanguard S&P 500 Growth ETF(VOOG)와 iShares S&P Small-Cap 600 Growth ETF(IJT)를 비교하여 비용 구조, 변동성 및 장기 수익률을 평가합니다. VOOG는 더 낮은 비용으로 대규모 성장에 대한 효율적인 접근을 제공합니다."
+      "title": "Granahan Investment Management LLC Acquires 125,144 Shares of Allegro MicroSystems, Inc. $ALGM",
+      "summary": "Granahan Investment Management LLC significantly increased its stake in Allegro MicroSystems (NASDAQ:ALGM) by 139.3% in the first quarter, purchasing an additional 125,144 shares. This brings their total holdings to 215,001 shares valued at approximately $6.78 million, representi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-granahan-investment-management-llc-acquires-125144-shares-of-allegro-microsystems-inc-algm-2026-07-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-25T17:39:46+00:00",
+      "sentiment": 0.309866,
+      "change_pct": -0.92
     },
     {
-      "id": "av_b5a9562cdcf28a",
+      "id": "av_b6f446ce6c878b",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Earnings To Watch: Agilysys (AGYS) Reports Q2 Results Tomorrow",
-      "summary": "Agilysys (AGYS), a hospitality software provider, is set to report its Q2 results, with the market anticipating a 12.4% year-on-year revenue growth. The company previously exceeded revenue and EBITDA estimates in the last quarter, reporting $82.95 million, an 11.7% increase year-",
-      "url": "https://ca.finance.yahoo.com/news/earnings-watch-agilysys-agys-reports-033313541.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-07-25T20:33:00+00:00",
-      "sentiment": 0.22876,
+      "title": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
+      "summary": "This article analyzes whether NVIDIA Corporation (NVDA) is a good stock to buy, presenting both bullish and bearish perspectives. It highlights NVIDIA's dominance in AI infrastructure, strong financial performance, and competitive advantages, leading to a bullish short-term outlo",
+      "url": "https://uk.finance.yahoo.com/news/nvidia-corporation-nvda-good-stock-190442460.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-25T19:04:38+00:00",
+      "sentiment": 0.272831,
       "change_pct": -0.92,
-      "title_kr": "주목해야 할 수익: Agilysys(AGYS), 내일 2분기 결과 보고",
-      "summary_kr": "호텔 소프트웨어 제공업체인 Agilysys(AGYS)는 2분기 결과를 보고할 예정이며, 시장에서는 전년 대비 12.4%의 매출 성장을 예상하고 있습니다. 회사는 이전에 지난 분기에 매출과 EBITDA 추정치를 초과하여 8,295만 달러를 기록했습니다."
+      "title_kr": "NVIDIA Corporation(NVDA)은 지금 매수하기에 좋은 주식인가요?",
+      "summary_kr": "이 기사에서는 NVIDIA Corporation(NVDA)이 매수하기에 좋은 주식인지 분석하여 강세와 약세 전망을 모두 제시합니다. 이는 AI 인프라에서의 NVIDIA의 지배력, 강력한 재무 성과 및 경쟁 우위를 강조하여 강세를 가져옵니다."
+    },
+    {
+      "id": "av_c4794e02b025ec",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "VanEck Semiconductor ETF (SMH) stock price, news, quote and history",
+      "summary": "This article provides comprehensive information on the VanEck Semiconductor ETF (SMH), including its current stock price, recent performance data, and key financial metrics. It details the fund's investment strategy, top holdings like NVIDIA and TSMC, and recent news related to t",
+      "url": "https://au.finance.yahoo.com/quote/SMH/",
+      "source": "Yahoo Finance Australia",
+      "published_at": "2026-07-25T15:11:34+00:00",
+      "sentiment": 0.340402,
+      "change_pct": -0.92
     },
     {
       "id": "f_bed41a914619cb",
@@ -1797,19 +2013,17 @@
       "summary_kr": "메모리 칩 제조사는 강력한 촉매제를 갖고 있다."
     },
     {
-      "id": "av_b6f446ce6c878b",
+      "id": "av_ab0cf00aa4c025",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Is NVIDIA Corporation (NVDA) A Good Stock To Buy Now?",
-      "summary": "This article analyzes whether NVIDIA Corporation (NVDA) is a good stock to buy, presenting both bullish and bearish perspectives. It highlights NVIDIA's dominance in AI infrastructure, strong financial performance, and competitive advantages, leading to a bullish short-term outlo",
-      "url": "https://uk.finance.yahoo.com/news/nvidia-corporation-nvda-good-stock-190442460.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-25T19:04:38+00:00",
-      "sentiment": 0.261329,
-      "change_pct": -0.92,
-      "title_kr": "NVIDIA Corporation(NVDA)은 지금 매수하기에 좋은 주식인가요?",
-      "summary_kr": "이 기사에서는 NVIDIA Corporation(NVDA)이 매수하기에 좋은 주식인지 분석하여 강세와 약세 전망을 모두 제시합니다. 이는 AI 인프라에서의 NVIDIA의 지배력, 강력한 재무 성과 및 경쟁 우위를 강조하여 강세를 가져옵니다."
+      "title": "Littelfuse vs. Corning: Big Tech Partnerships Win the Revenue War",
+      "summary": "This article compares the revenue performance of Littelfuse and Corning, highlighting Corning's significantly larger scale and higher revenue. While both companies have seen generally upward revenue trends, Corning benefits from major tech partnerships, including with Nvidia, Bro",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GLW/pressreleases/3461976/littelfuse-vs-corning-big-tech-partnerships-win-the-revenue-war/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-25T12:41:16+00:00",
+      "sentiment": 0.328635,
+      "change_pct": -0.92
     },
     {
       "id": "f_820284ac3d71b3",
@@ -1823,6 +2037,34 @@
       "published_at": "2026-07-26T05:12:43+00:00",
       "title_kr": "인텔: 기괴한 가치 평가",
       "summary_kr": "인텔은 AI 데이터센터 매출 급증으로 2분기 실적을 상회했지만 파운드리 손실이 지속되고 가치평가가 높아진 것으로 보인다. INTC 주식에 대한 자세한 내용을 보려면 클릭하세요."
+    },
+    {
+      "id": "av_b5a9562cdcf28a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Earnings To Watch: Agilysys (AGYS) Reports Q2 Results Tomorrow",
+      "summary": "Agilysys (AGYS), a hospitality software provider, is set to report its Q2 results, with the market anticipating a 12.4% year-on-year revenue growth. The company previously exceeded revenue and EBITDA estimates in the last quarter, reporting $82.95 million, an 11.7% increase year-",
+      "url": "https://ca.finance.yahoo.com/news/earnings-watch-agilysys-agys-reports-033313541.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-07-25T20:33:00+00:00",
+      "sentiment": 0.216113,
+      "change_pct": -0.92,
+      "title_kr": "주목해야 할 수익: Agilysys(AGYS), 내일 2분기 결과 보고",
+      "summary_kr": "호텔 소프트웨어 제공업체인 Agilysys(AGYS)는 2분기 결과를 보고할 예정이며, 시장에서는 전년 대비 12.4%의 매출 성장을 예상하고 있습니다. 회사는 이전에 지난 분기에 매출과 EBITDA 추정치를 초과하여 8,295만 달러를 기록했습니다."
+    },
+    {
+      "id": "av_020f166ae14f9f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Is Flex's Recent Insider Selling a Red Flag for Investors",
+      "summary": "Flex has experienced significant insider selling, with EVP and General Counsel David Scott Offer selling $3.16 million in stock as part of a broader trend of executives divesting shares. While this raises investor questions, Flex has shown strong financial performance, beating Q4",
+      "url": "https://www.kavout.com/market-lens/is-flex-s-recent-insider-selling-a-red-flag-for-investors",
+      "source": "Kavout | AI",
+      "published_at": "2026-07-25T15:12:34+00:00",
+      "sentiment": 0.322782,
+      "change_pct": -0.92
     },
     {
       "id": "f_92e5f2af0ae0f6",
@@ -1839,19 +2081,6 @@
       "summary_kr": "변동성이 높을수록 매수 기회가 될 수 있습니다."
     },
     {
-      "id": "av_ab0cf00aa4c025",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Littelfuse vs. Corning: Big Tech Partnerships Win the Revenue War",
-      "summary": "This article compares the revenue performance of Littelfuse and Corning, highlighting Corning's significantly larger scale and higher revenue. While both companies have seen generally upward revenue trends, Corning benefits from major tech partnerships, including with Nvidia, Bro",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/GLW/pressreleases/3461976/littelfuse-vs-corning-big-tech-partnerships-win-the-revenue-war/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-25T12:41:16+00:00",
-      "sentiment": 0.340639,
-      "change_pct": -0.92
-    },
-    {
       "id": "f_bcb46b88b4b56a",
       "provider": "finnhub",
       "ticker": "MU",
@@ -1863,19 +2092,6 @@
       "published_at": "2026-07-26T04:36:42+00:00",
       "title_kr": "98억 달러 규모의 IPO 이후 역사적인 상하이 데뷔를 앞두고 있는 CXMT",
       "summary_kr": "Investing.com -- 중국의 메모리 칩 제조사인 CXMT Corp.가 666억 위안(98억 달러)의 기업공개(IPO)를 유치한 후 상하이 데뷔 직후 본토에서 가장 가치 있는 상장회사가 될 수 있다고 Bloomberg가 보도했습니다."
-    },
-    {
-      "id": "av_c4794e02b025ec",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "VanEck Semiconductor ETF (SMH) stock price, news, quote and history",
-      "summary": "This article provides comprehensive information on the VanEck Semiconductor ETF (SMH), including its current stock price, recent performance data, and key financial metrics. It details the fund's investment strategy, top holdings like NVIDIA and TSMC, and recent news related to t",
-      "url": "https://au.finance.yahoo.com/quote/SMH/",
-      "source": "Yahoo Finance Australia",
-      "published_at": "2026-07-25T15:11:34+00:00",
-      "sentiment": 0.33439,
-      "change_pct": -0.92
     },
     {
       "id": "f_b190da4487f67d",
@@ -1890,36 +2106,6 @@
       "change_pct": -0.92,
       "title_kr": "스마트 양자 컴퓨팅 투자자가 구매하는 3가지 주식",
       "summary_kr": "양자 컴퓨팅이 곧 다가오고 있습니다."
-    },
-    {
-      "id": "av_8c355d7f5edd9c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Renaissance Technologies LLC Has $193.80 Million Stake in Colgate-Palmolive Company $CL",
-      "summary": "Renaissance Technologies LLC reduced its stake in Colgate-Palmolive Company (NYSE:CL) by 17.9% in the first quarter, bringing its total holding to $193.80 million. Despite this, other institutional investors increased their positions, and analysts maintain a \"Moderate Buy\" rating",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-has-19380-million-stake-in-colgate-palmolive-company-cl-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T10:17:38+00:00",
-      "sentiment": 0.326939,
-      "change_pct": -0.92,
-      "title_kr": "Renaissance Technologies LLC는 Colgate-Palmolive Company $CL에서 1억 9380만 달러의 지분을 보유하고 있습니다.",
-      "summary_kr": "Renaissance Technologies LLC는 1분기에 Colgate-Palmolive Company(NYSE:CL)의 지분을 17.9% 줄여 총 보유액을 1억 9,380만 달러로 늘렸습니다. 그럼에도 불구하고 다른 기관투자자들의 포지션이 늘었고 애널리스트들은 \""
-    },
-    {
-      "id": "av_0550948a749265",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "LSGR ETF Profile: Dividends, Returns (BOATS:LSGR)",
-      "summary": "The article provides a profile of the Natixis Loomis Sayles Focused Growth ETF (LSGR), detailing its investment strategy, holdings, and key financial metrics. LSGR aims for long-term capital growth by investing in 20-30 US-listed large-cap growth stocks, utilizing deep fundamenta",
-      "url": "https://www.tradingview.com/symbols/BOATS-LSGR/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-25T10:39:20+00:00",
-      "sentiment": 0.323757,
-      "change_pct": -0.92,
-      "title_kr": "LSGR ETF 프로필: 배당금, 수익(BOATS:LSGR)",
-      "summary_kr": "이 기사는 Natixis Loomis Sayles Focused Growth ETF(LSGR)의 프로필을 제공하며 투자 전략, 보유 자산 및 주요 재무 지표를 자세히 설명합니다. LSGR은 미국 상장 대형 성장주 20~30개사, 유틸리티에 투자해 장기적인 자본 성장을 목표로 합니다."
     },
     {
       "id": "f_994b7b39385bad",
@@ -1944,7 +2130,7 @@
       "url": "https://www.tradingview.com/symbols/BIVA-CARZ/profile/",
       "source": "TradingView",
       "published_at": "2026-07-25T23:10:10+00:00",
-      "sentiment": 0.117092,
+      "sentiment": 0.118206,
       "change_pct": -0.92,
       "title_kr": "CARZ ETF 프로필: 배당금, 수익(BIVA:CARZ)",
       "summary_kr": "이 기사에서는 전기 및 자율주행차와 관련 기술에 대한 투자에 초점을 맞춘 CARZ ETF의 자세한 프로필을 제공합니다. 운용자산, 배당수익률, 사업비율, 구조 등 주요 통계를 다루고 있습니다."
@@ -1964,19 +2150,6 @@
       "summary_kr": "Gemini가 가장 인기 있는 AI 모델은 아닐 수도 있지만, 투자자들이 Alphabet의 AI 발전을 무시하는 것은 잘못된 것입니다."
     },
     {
-      "id": "av_020f166ae14f9f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Is Flex's Recent Insider Selling a Red Flag for Investors",
-      "summary": "Flex has experienced significant insider selling, with EVP and General Counsel David Scott Offer selling $3.16 million in stock as part of a broader trend of executives divesting shares. While this raises investor questions, Flex has shown strong financial performance, beating Q4",
-      "url": "https://www.kavout.com/market-lens/is-flex-s-recent-insider-selling-a-red-flag-for-investors",
-      "source": "Kavout | AI",
-      "published_at": "2026-07-25T15:12:34+00:00",
-      "sentiment": 0.305347,
-      "change_pct": -0.92
-    },
-    {
       "id": "av_f01cadfce038e4",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1986,7 +2159,7 @@
       "url": "https://pluang.com/en/news-feed/etf-memori-ai-yang-bisa-dibeli-dengan-100-dolar",
       "source": "Pluang",
       "published_at": "2026-07-25T18:11:23+00:00",
-      "sentiment": -0.224519,
+      "sentiment": -0.22477,
       "change_pct": -0.92,
       "title_kr": "Michael Burry는 2026년 73% 상승에도 불구하고 iShares Semiconductor ETF를 공매도했습니다.",
       "summary_kr": "Michael Burry는 iShares Semiconductor ETF(SOXX)에 대해 숏 포지션을 취했습니다. 펀드가 2026년에 73%의 수익을 올렸음에도 불구하고 이는 해당 부문의 지속적인 성장에 대한 회의적인 입장을 나타냅니다. 이러한 움직임은 반도체 시장이 변동성을 경험하고"
@@ -2001,7 +2174,7 @@
       "url": "https://www.quiverquant.com/news/Iris+Energy+Stock+%28IREN%29+Opinions+on+AI+Cloud+Contracts",
       "source": "Quiver Quantitative",
       "published_at": "2026-07-25T14:06:00+00:00",
-      "sentiment": 0.298933,
+      "sentiment": 0.267977,
       "change_pct": -0.92,
       "title_kr": "AI 클라우드 계약에 대한 Iris Energy Stock (IREN) 의견",
       "summary_kr": "Iris Energy(IREN)는 Microsoft 및 NVIDIA와의 새로운 AI 클라우드 계약에서 28억 달러를 확보하여 큰 화제를 불러일으키고 있으며, 이를 통해 회사는 2026년 AI 수익 목표를 40억 달러 이상으로 끌어올릴 수 있습니다. 그럼에도 불구하고 운영 상승에 대한 의문은 계속 제기됩니다."
@@ -2044,7 +2217,20 @@
       "url": "https://www.gurufocus.com/etf/TCAF/dividend",
       "source": "GuruFocus",
       "published_at": "2026-07-25T20:40:03+00:00",
-      "sentiment": 0.131521,
+      "sentiment": 0.133019,
+      "change_pct": -0.92
+    },
+    {
+      "id": "av_6fa1aa412aa55a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Surf Air Mobility Inc. (SRFM) latest stock news and headlines",
+      "summary": "This article provides a compilation of recent news and headlines concerning Surf Air Mobility Inc. (SRFM), including updates on listing standards, upcoming financial results, partnerships with Palantir and NVIDIA, and debt financing. It also includes the company's stock performan",
+      "url": "https://uk.finance.yahoo.com/quote/SRFM/news/",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-25T15:39:58+00:00",
+      "sentiment": 0.23565,
       "change_pct": -0.92
     },
     {
@@ -2059,19 +2245,6 @@
       "published_at": "2026-07-26T01:30:20+00:00",
       "title_kr": "Intel CEO Lip-Bu Tan은 AI 공급 위기가 완화되지 않을 것이라고 경고합니다. 부족 현상은 '가까운 미래에도 지속될 것'입니다.",
       "summary_kr": "Intel Corp는 목요일에 예상보다 나은 2분기 실적을 보고했지만 AI 생태계 전반의 공급 제약이 여전히 심각하며 가까운 미래에도 공급 부족이 지속될 것으로 예상된다고 경고했습니다. AI 인프라 병목 현상이 지속됨 Intel sa"
-    },
-    {
-      "id": "av_6fa1aa412aa55a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Surf Air Mobility Inc. (SRFM) latest stock news and headlines",
-      "summary": "This article provides a compilation of recent news and headlines concerning Surf Air Mobility Inc. (SRFM), including updates on listing standards, upcoming financial results, partnerships with Palantir and NVIDIA, and debt financing. It also includes the company's stock performan",
-      "url": "https://uk.finance.yahoo.com/quote/SRFM/news/",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-25T15:39:58+00:00",
-      "sentiment": 0.245113,
-      "change_pct": -0.92
     },
     {
       "id": "f_60327e7c9665aa",
@@ -2123,7 +2296,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3461979/nuclear-company-oklo-receives-startup-authorization-for-groves-reactor-a-key-step-in-its-regulatory-journey/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-25T12:25:12+00:00",
-      "sentiment": 0.243021,
+      "sentiment": 0.216957,
       "change_pct": -0.92,
       "title_kr": "원자력 회사 Oklo, 규제 여정의 핵심 단계인 Groves 원자로에 대한 시동 승인 획득",
       "summary_kr": "Oklo(NYSE:OKLO)는 미국 에너지부로부터 텍사스에 있는 Groves 원자로에 대한 \"시동 승인\"을 받았습니다. 이는 회사가 핵연료를 장전하고 테스트를 시작할 수 있는 중요한 단계입니다. 이 승인은 불과 10개월 만에 달성되었습니다."
@@ -2228,6 +2401,21 @@
       "published_at": "2026-07-26T00:00:00+00:00"
     },
     {
+      "id": "av_2715487e85aff0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "FXHO|UTime Ord Shs Class A|Price:12.040|Chg%:-0.260",
+      "summary": "This article provides a detailed financial overview of UTime Ord Shs Class A (FXHO), including its current price, market capitalization, key figures, and technical indicators. It shows the stock closed at $12.040, down 2.11% from the previous day. The analysis also lists related ",
+      "url": "https://www.tradingkey.com/markets/stocks/fxho",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T10:41:21+00:00",
+      "sentiment": -0.183463,
+      "change_pct": -0.92,
+      "title_kr": "FXHO|UTime Ord Shs 클래스 A|가격:12.040|Chg%:-0.260",
+      "summary_kr": "이 기사에서는 현재 가격, 시가 총액, 주요 수치 및 기술 지표를 포함하여 FXHO(UTime Ord Shs Class A)의 자세한 재무 개요를 제공합니다. 주가는 전날보다 2.11% 하락한 $12.040에 마감된 것으로 나타났습니다. 분석"
+    },
+    {
       "id": "f_551ef5990795c6",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2267,21 +2455,6 @@
       "published_at": "2026-07-25T22:55:00+00:00"
     },
     {
-      "id": "av_2715487e85aff0",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "FXHO|UTime Ord Shs Class A|Price:12.040|Chg%:-0.260",
-      "summary": "This article provides a detailed financial overview of UTime Ord Shs Class A (FXHO), including its current price, market capitalization, key figures, and technical indicators. It shows the stock closed at $12.040, down 2.11% from the previous day. The analysis also lists related ",
-      "url": "https://www.tradingkey.com/markets/stocks/fxho",
-      "source": "TradingKey",
-      "published_at": "2026-07-25T10:41:21+00:00",
-      "sentiment": -0.192192,
-      "change_pct": -0.92,
-      "title_kr": "FXHO|UTime Ord Shs 클래스 A|가격:12.040|Chg%:-0.260",
-      "summary_kr": "이 기사에서는 현재 가격, 시가 총액, 주요 수치 및 기술 지표를 포함하여 FXHO(UTime Ord Shs Class A)의 자세한 재무 개요를 제공합니다. 주가는 전날보다 2.11% 하락한 $12.040에 마감된 것으로 나타났습니다. 분석"
-    },
-    {
       "id": "f_d5e457b123cff3",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2308,6 +2481,32 @@
       "summary_kr": "귀하의 월급은 퇴직일에 중단되지만 식료품비, 모기지 및 공과금 지불은 중단되지 않습니다. 4개의 ETF를 함께 쌓아서 거의 매달 귀하의 계좌에 소득이 들어오고 대부분의 퇴직자가 예상하는 것보다 훨씬 적은 비용으로 전략을 사용할 수 있습니다."
     },
     {
+      "id": "av_1ada7e2d33087c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AMBQ|Ambiq Micro Inc|Price:70.280|Chg%:-4.330",
+      "summary": "Ambiq Micro Inc. (AMBQ) is currently trading at $70.28, down 5.79%, with a market capitalization of $1.29 billion. The company, a provider of ultra-low power semiconductor solutions for AI on battery-powered devices, is seen as having healthy fundamentals and high growth potentia",
+      "url": "https://www.tradingkey.com/markets/stocks/ambq",
+      "source": "TradingKey",
+      "published_at": "2026-07-25T17:10:23+00:00",
+      "sentiment": 0.123787,
+      "change_pct": -0.92
+    },
+    {
+      "id": "av_0d74b3b0bac13b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "UCRP/N ETF Profile: Dividends, Returns (BMV:UCRP/N)",
+      "summary": "This article provides a detailed profile of the UCRP/N ETF, also known as Amundi USD Corporate Bond ESG ETF UCITS DR Capitalisation. It covers key metrics such as assets under management, expense ratio, inception date, and the index it tracks. The profile also includes informatio",
+      "url": "https://www.tradingview.com/symbols/BMV-UCRP/N/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-25T16:40:59+00:00",
+      "sentiment": 0.128726,
+      "change_pct": -0.92
+    },
+    {
       "id": "f_677ad3e172a671",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -2318,6 +2517,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-25T21:41:17+00:00",
       "change_pct": -2.08
+    },
+    {
+      "id": "av_99c11c693ba065",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Hidden Giants of the AI Boom: Why Micron Technology and Qualcomm Remain Deeply Undervalued",
+      "summary": "This article argues that Micron Technology (MU) and Qualcomm (QCOM) are deeply undervalued despite their critical roles in the artificial intelligence boom. Micron is positioned as a monopolistic supplier of high-bandwidth memory essential for AI accelerators, while Qualcomm domi",
+      "url": "https://www.stl.news/hidden-giants-ai-boom-micron-technology-qualcomm/",
+      "source": "STL.News",
+      "published_at": "2026-07-25T12:39:49+00:00",
+      "sentiment": 0.13426,
+      "change_pct": -0.92,
+      "title_kr": "AI 붐의 숨겨진 거인: Micron 기술과 Qualcomm이 여전히 크게 저평가되어 있는 이유",
+      "summary_kr": "이 기사에서는 마이크론 테크놀로지(MU)와 퀄컴(QCOM)이 인공지능 붐에서 중요한 역할을 하고 있음에도 불구하고 크게 저평가되어 있다고 주장합니다. 마이크론은 AI 가속기에 필수적인 고대역폭 메모리 독점 공급업체로 자리매김하고 있으며,"
     },
     {
       "id": "f_53f7a0318e0589",
@@ -2334,19 +2548,6 @@
       "summary_kr": "AI 클라우드 제공업체는 2026년에 전년도 수익 구축 용량의 약 5배를 지출할 계획입니다."
     },
     {
-      "id": "av_0d74b3b0bac13b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "UCRP/N ETF Profile: Dividends, Returns (BMV:UCRP/N)",
-      "summary": "This article provides a detailed profile of the UCRP/N ETF, also known as Amundi USD Corporate Bond ESG ETF UCITS DR Capitalisation. It covers key metrics such as assets under management, expense ratio, inception date, and the index it tracks. The profile also includes informatio",
-      "url": "https://www.tradingview.com/symbols/BMV-UCRP/N/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-25T16:40:59+00:00",
-      "sentiment": 0.118925,
-      "change_pct": -0.92
-    },
-    {
       "id": "f_39351ab9aa68a6",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2361,16 +2562,16 @@
       "summary_kr": "이 회사는 미래형 원자력 기술에 베팅했지만 계약을 따내지 못했습니다."
     },
     {
-      "id": "av_1ada7e2d33087c",
+      "id": "av_1c58d0fa7fffdb",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "AMBQ|Ambiq Micro Inc|Price:70.280|Chg%:-4.330",
-      "summary": "Ambiq Micro Inc. (AMBQ) is currently trading at $70.28, down 5.79%, with a market capitalization of $1.29 billion. The company, a provider of ultra-low power semiconductor solutions for AI on battery-powered devices, is seen as having healthy fundamentals and high growth potentia",
-      "url": "https://www.tradingkey.com/markets/stocks/ambq",
+      "title": "CEVA Inc|Price:36.350|Chg%:-2.410",
+      "summary": "CEVA Inc (CEVA) is trading at $36.35, down 6.22% for the day. Its fundamentals are strong with high growth potential, and it is considered fairly valued in the Semiconductors & Semiconductor Equipment industry. Analysts currently rate CEVA as a \"Buy\" with a target price of $49.62",
+      "url": "https://www.tradingkey.com/markets/stocks/ceva",
       "source": "TradingKey",
-      "published_at": "2026-07-25T17:10:23+00:00",
-      "sentiment": 0.102381,
+      "published_at": "2026-07-25T11:41:56+00:00",
+      "sentiment": 0.130373,
       "change_pct": -0.92
     },
     {
@@ -2400,21 +2601,6 @@
       "change_pct": -0.66,
       "title_kr": "워너 브라더스, 아마존이 경영진을 불법적으로 밀렵한 혐의로 소송 제기",
       "summary_kr": "이번 소송으로 인해 캘리포니아주에서 기간 고용 계약이 시행 가능한지 여부에 대한 논쟁이 다시 시작될 것입니다. 법"
-    },
-    {
-      "id": "av_6772fab567583c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Gamco Investors INC. ET AL Sells 21,379 Shares of Deere & Company $DE",
-      "summary": "Gamco Investors INC. ET AL reduced its stake in Deere & Company (NYSE:DE) by 18.4% in the first quarter, selling 21,379 shares and valuing its remaining holdings at $53.47 million. Despite this insider selling, other hedge funds increased their positions, and 68.58% of the stock ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-gamco-investors-inc-et-al-sells-21379-shares-of-deere-company-de-2026-07-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-25T10:16:57+00:00",
-      "sentiment": 0.135995,
-      "change_pct": -0.92,
-      "title_kr": "Gamco Investors INC. ET AL, Deere & Company $DE 주식 21,379주 매각",
-      "summary_kr": "Gamco Investors INC. ET AL은 1분기에 Deere & Company(NYSE:DE)의 지분을 18.4% 줄여 21,379주를 매각하고 나머지 보유 자산의 가치를 5,347만 달러로 평가했습니다. 이러한 내부자 매각에도 불구하고 다른 헤지펀드들은 포지션을 늘렸고,"
     },
     {
       "id": "f_418bb408e69b07",
@@ -2457,19 +2643,6 @@
       "change_pct": -0.92,
       "title_kr": "UCOP: 세상이 없이는 전기화할 수 없는 금속에 대한 2배의 베팅",
       "summary_kr": "구리는 전기 자동차, AI 데이터 센터 및 이들을 모두 연결하는 그리드에 전력을 공급하며, 하나의 레버리지 ETF는 금속이 움직이는 모든 움직임을 두 배로 약속합니다. 쌓이기 전에 먼저 이해해야 할 몇 가지 중요한 위험이 있습니다."
-    },
-    {
-      "id": "av_1c58d0fa7fffdb",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "CEVA Inc|Price:36.350|Chg%:-2.410",
-      "summary": "CEVA Inc (CEVA) is trading at $36.35, down 6.22% for the day. Its fundamentals are strong with high growth potential, and it is considered fairly valued in the Semiconductors & Semiconductor Equipment industry. Analysts currently rate CEVA as a \"Buy\" with a target price of $49.62",
-      "url": "https://www.tradingkey.com/markets/stocks/ceva",
-      "source": "TradingKey",
-      "published_at": "2026-07-25T11:41:56+00:00",
-      "sentiment": 0.113976,
-      "change_pct": -0.92
     },
     {
       "id": "f_4d2e9236ebadb3",
@@ -2548,175 +2721,10 @@
       "url": "https://finnhub.io/api/news?id=c95eee477a2ef9ad701d23f5e340030011c7c3e22c147178b7e81d4b2583ff14",
       "source": "Yahoo",
       "published_at": "2026-07-25T19:30:02+00:00"
-    },
-    {
-      "id": "av_99c11c693ba065",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Hidden Giants of the AI Boom: Why Micron Technology and Qualcomm Remain Deeply Undervalued",
-      "summary": "This article argues that Micron Technology (MU) and Qualcomm (QCOM) are deeply undervalued despite their critical roles in the artificial intelligence boom. Micron is positioned as a monopolistic supplier of high-bandwidth memory essential for AI accelerators, while Qualcomm domi",
-      "url": "https://www.stl.news/hidden-giants-ai-boom-micron-technology-qualcomm/",
-      "source": "STL.News",
-      "published_at": "2026-07-25T12:39:49+00:00",
-      "sentiment": 0.101143,
-      "change_pct": -0.92,
-      "title_kr": "AI 붐의 숨겨진 거인: Micron 기술과 Qualcomm이 여전히 크게 저평가되어 있는 이유",
-      "summary_kr": "이 기사에서는 마이크론 테크놀로지(MU)와 퀄컴(QCOM)이 인공지능 붐에서 중요한 역할을 하고 있음에도 불구하고 크게 저평가되어 있다고 주장합니다. 마이크론은 AI 가속기에 필수적인 고대역폭 메모리 독점 공급업체로 자리매김하고 있으며,"
-    },
-    {
-      "id": "f_13c6deb7019791",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "general",
-      "title": "Apple (AAPL) Readies Foldable iPhone As Samsung Launches New Rival Phones",
-      "summary": "Samsung has launched new foldable phones as Apple, NasdaqGS:AAPL, is reported to be preparing its first foldable iPhone for a planned September debut. This move sets up direct competition between Apple and Samsung in the foldable smartphone segment. Industry projections suggest Apple could take up to a quarter of the foldable market once its device is released. Apple is already a major player in premium smartphones, and a foldable iPhone would extend its hardware line into a segment where...",
-      "url": "https://finnhub.io/api/news?id=4ddee1f70c88077ced112fcc1bec9121f3e53fe6aed2c8926c1782525fbd6bd5",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T19:08:20+00:00"
-    },
-    {
-      "id": "f_7375f20f3c19ab",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Investors Are Debating Which Stocks They'd Never Buy, No Matter How Bullish Everyone Else Is. 'Money Is Money, But…'",
-      "summary": "Every investor has a stock they simply refuse to own, despite the excitement surrounding it. One Reddit user wanted to know exactly that and asked fellow investors recently which company they’d never buy and why, “no matter how much others...",
-      "url": "https://finnhub.io/api/news?id=30914d5633f6682dd7d41cf74142fd8745619e9476ee29e83cedeb8859f4a8e3",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T19:00:25+00:00",
-      "change_pct": -2.08
-    },
-    {
-      "id": "f_8016c0e23bd138",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Ford Just Put Apple Maps in the Dashboard of a $30,000 EV. Apple Didn't Have to Build a Car.",
-      "summary": "For Apple, a decade of work on a vehicle ended in 2024 when they shelved their rumored electric vehicle project. But the tech giant's technology is still finding its way into vehicles.",
-      "url": "https://finnhub.io/api/news?id=7c17fc038bc56f24dbc0f071fc40ffd00e4be1fbecc4dcd753710e6bdc660866",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T18:46:00+00:00",
-      "change_pct": -0.92
-    },
-    {
-      "id": "f_61a06736c3f9b2",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The Smartest Way to Invest $5,000 in a Trillion-Dollar Stock Over Private Space Rivals",
-      "summary": "Forget the private space race -- this trillion-dollar chipmaker may be the smartest way to invest in the future of space.",
-      "url": "https://finnhub.io/api/news?id=e38d3df2a111b0f8ceade1c12a257b90378660a947a9494feda2e16e4ba6e3c1",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T18:41:00+00:00",
-      "change_pct": -0.92
-    },
-    {
-      "id": "f_20afeb2c5fdeb6",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Why UPS Is Betting $48 Million on Temperature-Controlled Logistics Growth",
-      "summary": "UPS is in the middle of a turnaround, with a key goal of focusing on more profitable customers.",
-      "url": "https://finnhub.io/api/news?id=ea841c50a347d4b030355b33be5cded999e40b965b64f910dfdc1d1bb352b3d4",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T18:35:00+00:00",
-      "change_pct": -0.66
-    },
-    {
-      "id": "f_ef54a1692b4d16",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Micron, Nvidia, or SpaceX: Which Is the Best AI Stock to Put $1,000 in Right Now?",
-      "summary": "Each has its strengths, but one looks like a no-brainer buy.",
-      "url": "https://finnhub.io/api/news?id=2dbdeb0f4121e37164fd6ccd5397ffe795acf0d3e27277716061be66193d63b1",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T18:20:00+00:00",
-      "change_pct": -0.92
-    },
-    {
-      "id": "av_90e82f3869be2a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "YieldMax NVDA Option Income Strategy ETF (NVDY) stock price, news, quote and history",
-      "summary": "This article provides detailed financial information for the YieldMax NVDA Option Income Strategy ETF (NVDY), including its current stock price, historical data, performance metrics, and key statistics. It highlights the ETF's investment strategy, which involves options on NVDA, ",
-      "url": "https://uk.finance.yahoo.com/quote/NVDY?p=NVDY",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-25T12:41:35+00:00",
-      "sentiment": 0.074077,
-      "change_pct": -0.92,
-      "title_kr": "YieldMax NVDA Option Income Strategy ETF (NVDY) 주가, 뉴스, 시세 및 내역",
-      "summary_kr": "이 기사에서는 현재 주가, 과거 데이터, 성과 지표 및 주요 통계를 포함하여 YieldMax NVDA Option Income Strategy ETF(NVDY)에 대한 자세한 재무 정보를 제공합니다. 이는 ETF의 투자 전략을 강조합니다."
-    },
-    {
-      "id": "f_c4af263c355122",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "How a $25,000 Realty Income Investment Could Compound Into Real Retirement Income",
-      "summary": "Realty Income could turn $25,000 into a meaningful income stream in retirement.",
-      "url": "https://finnhub.io/api/news?id=6a0a36d307a2cae5c66c501b4b46f305509c6a521f9e488eaf4022d3b4c795b8",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T17:50:00+00:00",
-      "change_pct": -0.92
-    },
-    {
-      "id": "f_371e20e009a7c2",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia stock is doing something it hasn't done in years",
-      "summary": "Nvidia (NVDA) has spent the last three years as the loudest success story in the stock market. Its climb turned it into a household name well beyond Wall Street trading desks, and its chips have become shorthand for the entire artificial intelligence boom. This year looks different. The gains are ...",
-      "url": "https://finnhub.io/api/news?id=884eea94321f680ee65a34d044e5f05a4351424ddc13bc2d4ea71e18fde40c94",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T17:47:00+00:00",
-      "change_pct": -0.92,
-      "title_kr": "Nvidia 주식은 몇 년 동안 하지 않았던 일을 하고 있습니다.",
-      "summary_kr": "엔비디아(NVDA)는 지난 3년 동안 주식시장에서 가장 큰 성공 사례로 자리매김해왔습니다. 그 상승세는 월스트리트 트레이딩 데스크를 넘어 누구나 아는 이름이 되었고, 그 칩은 전체 인공 지능 붐의 약칭이 되었습니다. 티"
-    },
-    {
-      "id": "f_b213e7ad660736",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Right Now.",
-      "summary": "The iShares Semiconductor ETF offers exposure to multiple companies positioned to benefit from increased spending on advanced memory.",
-      "url": "https://finnhub.io/api/news?id=225bf8e13b69a75b507b78c71599807e39d1d284c0c6e178f287784353ae258a",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T17:31:00+00:00",
-      "change_pct": -0.92,
-      "title_kr": "100달러 있어? 1 지금 당장 매수해야 할 인공지능(AI) 메모리 ETF.",
-      "summary_kr": "iShares Semiconductor ETF는 고급 메모리에 대한 지출 증가로 이익을 얻을 수 있는 여러 회사에 대한 노출을 제공합니다."
-    },
-    {
-      "id": "f_4fcc0614cdcb44",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Intel's CEO Just Made a Bold AI Prediction. Here's Why NVDA Investors Should Pay Attention",
-      "summary": "For much of the generative AI boom, GPUs have dominated discussions around AI infrastructure as companies raced to build large language models, with Nvidia Corp. emerging as the biggest beneficiary, while CPUs took a back seat. On Thursday, Intel Corp.’s...",
-      "url": "https://finnhub.io/api/news?id=4eec9ab3f2dd4f1b12445e2c11ea4fc88fc23cd63e87e6cd40558768242e0670",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T17:30:23+00:00",
-      "change_pct": -0.92
-    },
-    {
-      "id": "f_b23eeeb11b7e66",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Alphabet Is Getting ‘Ambitious’ With AI. Don’t Get Ambitious With GOOGL Stock.",
-      "summary": "Alphabet is doubling down on AI and has been gradually raising its capex budget. The stock has come off its 2026 highs, and any further weakness would make the stock a compelling buy.",
-      "url": "https://finnhub.io/api/news?id=fd569ad0b2796543580213f6af959d198cc83d90da47581ce5f7e125f738e4d8",
-      "source": "Yahoo",
-      "published_at": "2026-07-25T17:30:02+00:00",
-      "change_pct": 0.65
     }
   ],
-  "fetched_at": "2026-07-26T17:50:10.682396+00:00",
+  "fetched_at": "2026-07-26T18:49:11.528534+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-26T17:50:10.880769+00:00",
+  "translated_at": "2026-07-26T18:49:13.253654+00:00",
   "translation_engine": "google-parallel"
 }
