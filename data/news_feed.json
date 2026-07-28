@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "f_56f3edec9f0d58",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "Chipotle Mexican Grill's Next Earnings Report on July 29 Could Send the Stock Sliding. Here's Why.",
+      "summary": "Can Chipotle return to meaningful growth?",
+      "url": "https://finnhub.io/api/news?id=267d4d2581cec34fa2e1094192366ecc612318f9ac6d0975a8af5b307a954c1d",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T06:35:01+00:00",
+      "change_pct": -4.99,
+      "title_kr": "7월 29일 Chipotle Mexican Grill의 다음 수익 보고서는 주식 하락을 가져올 수 있습니다. 이유는 다음과 같습니다.",
+      "summary_kr": "Chipotle이 의미 있는 성장을 이룰 수 있을까요?"
+    },
+    {
       "id": "f_c4c612b220639a",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -13,6 +27,20 @@
       "change_pct": -4.99,
       "title_kr": "포드는 지난 1년 동안 4.1%의 수익을 내고 61억 달러의 손실을 입었습니다. 화요일 오후에 수익이 발생합니다.",
       "summary_kr": "손실은 회계를 통해 발생했습니다. 지불금은 현금으로 지급됩니다."
+    },
+    {
+      "id": "f_02e12f4beeb573",
+      "provider": "finnhub",
+      "ticker": "AVGO",
+      "category": "earnings",
+      "title": "Broadcom: Why The Google Share Panic Misses What Broadcom's Moat Actually Is",
+      "summary": "Broadcom (AVGO) buy thesis: durable AI networking moat, strong EPS and margin expansion, and 2027 revenue outlook despite valuation. See more.",
+      "url": "https://finnhub.io/api/news?id=79ea789e038752aa5a2b7a3d3fb45face1c5d70062762696be3038bdc38db8a1",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-28T04:57:14+00:00",
+      "change_pct": 0.34,
+      "title_kr": "Broadcom: Google Share Panic이 Broadcom의 해자를 실제로 놓친 이유",
+      "summary_kr": "Broadcom(AVGO)은 내구성 있는 AI 네트워킹 해자, 강력한 EPS 및 마진 확장, 가치 평가에도 불구하고 2027년 수익 전망을 인수합니다. 자세히 알아보세요."
     },
     {
       "id": "f_d8c0c874625144",
@@ -374,34 +402,6 @@
       "summary_kr": "월스트리트는 인텔이 언제 코너를 돌지 궁금해하며 수년을 보냈습니다. 오랜 시간 동안 인내심이 약해졌습니다. 이제 월스트리트에서 가장 주목받는 칩 분석가 중 한 명이 턴어라운드 스토리에 다리가 있다는 분명한 신호를 보내고 있습니다. 그의 최근 노트 lande"
     },
     {
-      "id": "f_1e52d5e9b25aa6",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "earnings",
-      "title": "Update: Equities Mixed Intraday as Markets Await Fed Decision, More Earnings Reports",
-      "summary": "(Updates with latest market prices and developments.) US stocks were mixed intraday amid a sharp",
-      "url": "https://finnhub.io/api/news?id=039207139fd0f0d3272078cfd07aae8b0fb3efd623dcc3fce2410240b9b3f939",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T17:54:38+00:00",
-      "change_pct": -0.22,
-      "title_kr": "업데이트: 시장이 연준의 결정을 기다리면서 장중 주식이 뒤섞이고 추가 실적 보고서가 나옵니다",
-      "summary_kr": "(최신 시장 가격 및 상황 업데이트) 미국 증시는 급락 속에 장중 혼조세를 보였습니다."
-    },
-    {
-      "id": "f_b0348087c12af4",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "earnings",
-      "title": "STMicroelectronics Nosedives Following Q3 Revenue Guidance Miss. How to Play STM Stock Here.",
-      "summary": "Despite the lower-than-expected sales outlook, STM can be looked upon as an attractive investment option now.",
-      "url": "https://finnhub.io/api/news?id=f200ba8fffb3547aea8e301afff04772aaf30b5490a090fa2163849432e46307",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T17:52:20+00:00",
-      "change_pct": -1.22,
-      "title_kr": "STMicroelectronics, 3분기 매출 가이던스 미스에 이어 급락. 여기에서 STM 주식을 플레이하는 방법.",
-      "summary_kr": "예상보다 낮은 매출 전망에도 불구하고 현재 STM은 매력적인 투자처로 볼 수 있다."
-    },
-    {
       "id": "f_4065f4f330e8b9",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -444,6 +444,36 @@
       "summary_kr": "Baird는 AI 전망을 바탕으로 AMD의 목표 가격을 1,250달러로 두 배 늘렸습니다."
     },
     {
+      "id": "av_bab6c0d12d0130",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NewEdge Wealth LLC Reduces Stock Position in Synopsys, Inc. $SNPS",
+      "summary": "NewEdge Wealth LLC significantly reduced its stake in Synopsys, Inc. by 72.7% in the first quarter, selling 6,400 shares and leaving them with 2,399 shares valued at $951,000. This comes as other hedge funds have also adjusted their positions in SNPS, and Wall Street analysts mai",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-reduces-stock-position-in-synopsys-inc-snps-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T08:45:12+00:00",
+      "sentiment": 0.333425,
+      "change_pct": -4.99,
+      "title_kr": "NewEdge Wealth LLC는 Synopsys, Inc. $SNPS의 주식 포지션을 축소합니다.",
+      "summary_kr": "NewEdge Wealth LLC는 1분기에 Synopsys, Inc.의 지분을 72.7% 크게 줄여 6,400주를 매각하고 951,000달러 상당의 2,399주를 남겼습니다. 이는 다른 헤지펀드들도 SNPS에서 포지션을 조정했기 때문에 나온 것입니다."
+    },
+    {
+      "id": "av_990437fdd488f5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple Inc. $AAPL is Teachers Retirement System of The State of Kentucky's 2nd Largest Position",
+      "summary": "The Teachers Retirement System of the State of Kentucky reduced its stake in Apple Inc. ($AAPL) by 1.6% in the first quarter, selling over 30,000 shares but still maintaining Apple as its second-largest holding, valued at $479.6 million. Despite concerns about Apple's valuation a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-is-teachers-retirement-system-of-the-state-of-kentuckys-2nd-largest-position-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T08:38:57+00:00",
+      "sentiment": 0.32115,
+      "change_pct": -4.99,
+      "title_kr": "Apple Inc. $AAPL은 켄터키주에서 두 번째로 큰 직위에 있는 교사 퇴직 제도입니다.",
+      "summary_kr": "켄터키주 교사 퇴직 제도는 1분기에 Apple Inc.($AAPL)의 지분을 1.6% 줄여 30,000주 이상을 매각했지만 여전히 Apple을 4억 7,960만 달러 가치로 두 번째로 큰 지분으로 유지했습니다. 에 대한 우려에도 불구하고"
+    },
+    {
       "id": "av_fe10adfdeb9706",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -453,10 +483,25 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-28/taiwan-detains-nvidia-employee-in-china-chip-smuggling-probe",
       "source": "Bloomberg",
       "published_at": "2026-07-28T04:48:00+00:00",
-      "sentiment": -0.435677,
+      "sentiment": -0.400574,
       "change_pct": -4.99,
       "title_kr": "중국 칩 밀수 혐의로 대만에 구금된 Nvidia 직원",
       "summary_kr": "대만 검찰이 AI 가속기를 중국으로 밀수한 혐의에 대한 조사의 일환으로 엔비디아(Nvidia Corp.) 직원을 구금하고 회사 사무실을 수색했습니다. 이는 잠재적으로 취해지는 최초의 법적 조치라는 점에서 상당한 발전을 의미합니다."
+    },
+    {
+      "id": "av_333a666b314b43",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Moment Partners LLC Increases Holdings in Apple Inc. $AAPL",
+      "summary": "Moment Partners LLC has increased its holdings in Apple Inc. by 9.0% in the first quarter, now owning 18,895 shares valued at approximately $4.8 million. This makes Apple the fund's 12th biggest holding, representing about 0.9% of its portfolio. While institutional investors hold",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-moment-partners-llc-increases-holdings-in-apple-inc-aapl-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T08:27:57+00:00",
+      "sentiment": 0.308814,
+      "change_pct": -4.99,
+      "title_kr": "Moment Partners LLC는 Apple Inc. $AAPL의 지분을 늘립니다.",
+      "summary_kr": "Moment Partners LLC는 1분기에 Apple Inc.의 지분을 9.0% 증가시켜 현재 약 480만 달러 상당의 18,895주를 소유하고 있습니다. 이로 인해 Apple은 포트폴리오의 약 0.9%를 차지하는 펀드의 12번째로 큰 보유 자산이 되었습니다. 연구소에 있는 동안"
     },
     {
       "id": "f_2b8b7391620048",
@@ -472,6 +517,21 @@
       "summary_kr": "INTC의 DCAI 부문 매출은 전년 동기 대비 최대 60% 증가했으며 영업 이익률은 두 배 이상 증가했으며 파운드리 손실은 크게 줄었습니다. INTC 주식에 대한 자세한 내용은 여기를 참조하세요."
     },
     {
+      "id": "av_8eebd46398e261",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Noesis Capital Mangement Corp Raises Position in NVIDIA Corporation $NVDA",
+      "summary": "Noesis Capital Management Corp increased its stake in NVIDIA Corporation by 24.8% during the first quarter, now holding 15,450 shares valued at approximately $2.69 million. Despite concerns about valuation and extensive insider selling totaling over $410 million in the past three",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-noesis-capital-mangement-corp-raises-position-in-nvidia-corporation-nvda-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T08:29:47+00:00",
+      "sentiment": 0.294927,
+      "change_pct": -4.99,
+      "title_kr": "Noesis Capital Management Corp, NVIDIA Corporation $NVDA에서 지위 상승",
+      "summary_kr": "Noesis Capital Management Corp는 1분기 동안 NVIDIA Corporation의 지분을 24.8% 늘려 현재 약 269만 달러 상당의 주식 15,450주를 보유하고 있습니다. 가치 평가에 대한 우려와 총 4억 1천만 달러가 넘는 광범위한 내부자 매각에도 불구하고"
+    },
+    {
       "id": "av_6d5d5f32662011",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -481,10 +541,40 @@
       "url": "https://aimagazine.com/globenewswire/3333519",
       "source": "AI Magazine",
       "published_at": "2026-07-28T03:12:31+00:00",
-      "sentiment": 0.430928,
+      "sentiment": 0.421103,
       "change_pct": -4.99,
       "title_kr": "Axe Compute, 5년간 전용 AI 인프라 계약 15억 달러 확보, 2026년 서명 계약 가치 30억 달러 초과",
       "summary_kr": "Ax Compute Inc.는 대규모 NVIDIA Blackwell 기반 AI 인프라 클러스터를 배포하기 위한 새로운 5년 15억 달러 규모의 계약을 발표하여 2026년 총 계약 가치를 30억 달러 이상으로 끌어올렸습니다. 회사는 5억 3400만 달러 이상을 받을 것으로 예상합니다."
+    },
+    {
+      "id": "av_04b932c96ec83c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Renaissance Technologies LLC Makes New $44.60 Million Investment in Cadence Design Systems, Inc. $CDNS",
+      "summary": "Renaissance Technologies LLC has made a new investment of $44.60 million in Cadence Design Systems, acquiring 160,520 shares. Other institutional investors like Gamco Investors and Arrowstreet Capital also increased their stakes. The article discusses Cadence Design Systems' stro",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-makes-new-4460-million-investment-in-cadence-design-systems-inc-cdns-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T09:24:21+00:00",
+      "sentiment": 0.229313,
+      "change_pct": -4.99,
+      "title_kr": "Renaissance Technologies LLC, Cadence Design Systems, Inc. $CDNS에 4,460만 달러 신규 투자",
+      "summary_kr": "Renaissance Technologies LLC는 Cadence Design Systems에 4,460만 달러를 신규 투자하여 160,520주를 인수했습니다. Gamco Investors 및 Arrowstreet Capital과 같은 다른 기관 투자자들도 지분을 늘렸습니다. 이 기사에서는 Cadence에 대해 설명합니다."
+    },
+    {
+      "id": "av_8d79e6aef46d25",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Verisk (VRSK) Q2 Earnings Report Preview: What To Look For",
+      "summary": "Verisk Analytics (VRSK) is set to report its Q2 earnings this Wednesday, with analysts expecting a 4.1% year-on-year revenue growth. The company beat revenue estimates last quarter and analysts have reconfirmed their estimates, indicating an expectation of steady performance. Whi",
+      "url": "https://stockstory.org/us/stocks/nasdaq/vrsk/news/earnings/verisk-vrsk-q2-earnings-report-preview-what-to-look-for",
+      "source": "StockStory",
+      "published_at": "2026-07-28T05:09:27+00:00",
+      "sentiment": 0.321501,
+      "change_pct": -4.99,
+      "title_kr": "Verrisk (VRSK) 2분기 수익 보고서 미리보기: 찾아야 할 사항",
+      "summary_kr": "Verrisk Analytics(VRSK)는 이번 주 수요일에 2분기 실적을 발표할 예정이며, 분석가들은 전년 대비 4.1%의 매출 성장을 예상하고 있습니다. 회사는 지난 분기 수익 추정치를 상회했으며 분석가들은 추정치를 재확인하여 수익에 대한 기대를 나타냈습니다."
     },
     {
       "id": "av_4a3440d679a4c4",
@@ -496,7 +586,7 @@
       "url": "https://www.upi.com/Top_News/World-News/2026/07/27/nvidia-naver-ai-factories/7831785195985/",
       "source": "upi",
       "published_at": "2026-07-27T23:58:45+00:00",
-      "sentiment": 0.414576,
+      "sentiment": 0.423919,
       "change_pct": -4.99,
       "title_kr": "엔비디아, 한국 네이버에 10억 달러 투자 계획",
       "summary_kr": "엔비디아는 신주 사모를 통해 지분 4.5%를 인수해 한국 기술 기업 네이버에 10억 달러를 투자할 계획이다. 이번 투자로 양사의 글로벌 AI 공장 구축 및 주권 AI 인프라 확장을 위한 파트너십이 더욱 심화됐다. 네이버"
@@ -511,10 +601,25 @@
       "url": "https://www.tradingview.com/news/stockstory:69de1b049094b:0-electronic-arts-earnings-what-to-look-for-from-ea/",
       "source": "TradingView",
       "published_at": "2026-07-28T03:39:34+00:00",
-      "sentiment": 0.321765,
+      "sentiment": 0.321411,
       "change_pct": -4.99,
       "title_kr": "Electronic Arts 수익: EA에서 찾아야 할 사항",
       "summary_kr": "Electronic Arts(EA)는 이번 주 수요일에 수익을 보고할 예정이며, 분석가들은 지난 분기 수익 기대치를 달성하지 못했음에도 불구하고 전년 대비 2,512%의 상당한 수익 성장을 예상하고 있습니다. 시장에서는 EA의 사업이 안정적으로 유지될 것으로 예상하고 있습니다."
+    },
+    {
+      "id": "av_568584aabf5622",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "What To Expect From Vulcan Materials’s (VMC) Q2 Earnings",
+      "summary": "Vulcan Materials (VMC) is set to report its Q2 earnings this Wednesday, with analysts expecting a 1.2% year-on-year revenue growth after a strong Q1 performance. Despite missing Wall Street revenue estimates multiple times in the past two years, the company's past quarter showed ",
+      "url": "https://stockstory.org/us/stocks/nyse/vmc/news/earnings/what-to-expect-from-vulcan-materialss-vmc-q2-earnings",
+      "source": "StockStory",
+      "published_at": "2026-07-28T03:17:06+00:00",
+      "sentiment": 0.325717,
+      "change_pct": -4.99,
+      "title_kr": "Vulcan Materials(VMC)의 2분기 실적에서 기대할 수 있는 사항",
+      "summary_kr": "Vulcan Materials(VMC)는 이번 주 수요일에 2분기 실적을 발표할 예정이며, 분석가들은 1분기 실적이 호조를 보인 후 전년 대비 1.2%의 매출 성장을 예상하고 있습니다. 지난 2년 동안 월스트리트 수익 추정치가 여러 번 누락되었음에도 불구하고 회사의"
     },
     {
       "id": "av_9e4c841425dcd2",
@@ -526,7 +631,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/BIIB/pressreleases/3491442/biogen-biib-reports-q2-everything-you-need-to-know-ahead-of-earnings/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-28T03:23:50+00:00",
-      "sentiment": 0.322094,
+      "sentiment": 0.319143,
       "change_pct": -4.99,
       "title_kr": "Biogen (BIIB) 보고서 Q2: 수익에 앞서 알아야 할 모든 것",
       "summary_kr": "생명공학 기업 바이오젠(BIIB)이 이번주 수요일 2분기 실적을 발표할 예정이다. 분석가들은 회사가 지난 분기 매출 기대치를 초과했음에도 불구하고 전년 대비 7.8%의 매출 감소를 예상하고 있습니다. 바이오젠의 주가는 지난 달 7.2% 하락했지만,"
@@ -541,40 +646,10 @@
       "url": "https://tspasemiconductor.substack.com/p/made-in-america-built-by-taiwan-inside",
       "source": "semivision",
       "published_at": "2026-07-28T01:47:12+00:00",
-      "sentiment": 0.349669,
+      "sentiment": 0.334081,
       "change_pct": -4.99,
       "title_kr": "미국산, 대만산: 트럼프의 새로운 AI 슈퍼칩 공급망 내부",
       "summary_kr": "이 기사는 주로 대만 기업의 지원을 받는 국내 AI 하드웨어 공급망 구축에 대한 미국의 진행 상황을 자세히 설명합니다. 주요 이정표에는 애리조나에서 NVIDIA Blackwell 웨이퍼를 제조하는 TSMC와 GB300 Grace Blackw를 생산하는 Wistron이 포함됩니다."
-    },
-    {
-      "id": "av_568584aabf5622",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "What To Expect From Vulcan Materials’s (VMC) Q2 Earnings",
-      "summary": "Vulcan Materials (VMC) is set to report its Q2 earnings this Wednesday, with analysts expecting a 1.2% year-on-year revenue growth after a strong Q1 performance. Despite missing Wall Street revenue estimates multiple times in the past two years, the company's past quarter showed ",
-      "url": "https://stockstory.org/us/stocks/nyse/vmc/news/earnings/what-to-expect-from-vulcan-materialss-vmc-q2-earnings",
-      "source": "StockStory",
-      "published_at": "2026-07-28T03:17:06+00:00",
-      "sentiment": 0.303973,
-      "change_pct": -4.99,
-      "title_kr": "Vulcan Materials(VMC)의 2분기 실적에서 기대할 수 있는 사항",
-      "summary_kr": "Vulcan Materials(VMC)는 이번 주 수요일에 2분기 실적을 발표할 예정이며, 분석가들은 1분기 실적이 호조를 보인 후 전년 대비 1.2%의 매출 성장을 예상하고 있습니다. 지난 2년 동안 월스트리트 수익 추정치가 여러 번 누락되었음에도 불구하고 회사의"
-    },
-    {
-      "id": "av_d73b99ea488a08",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Phase one of Amkor's Peoria facility ‘fully committed’ as construction progresses",
-      "summary": "Amkor Technology's new advanced packaging and test facility in Peoria, Arizona, is seeing strong demand with its initial production capacity already fully committed by major customers like Apple, TSMC, and Nvidia, a year before its scheduled opening in 2027. Construction is progr",
-      "url": "https://www.bizjournals.com/phoenix/news/2026/07/27/amkor-q2-financial-results.html",
-      "source": "The Business Journals",
-      "published_at": "2026-07-28T00:10:53+00:00",
-      "sentiment": 0.349718,
-      "change_pct": -4.99,
-      "title_kr": "건설이 진행됨에 따라 앰코의 피오리아 시설 1단계 '완전히 투입'",
-      "summary_kr": "애리조나주 피오리아에 위치한 앰코테크놀로지의 새로운 첨단 패키징 및 테스트 시설은 2027년 개장 예정인 1년 전, 이미 Apple, TSMC, Nvidia와 같은 주요 고객들이 초기 생산 능력을 완전히 투입하여 높은 수요를 보이고 있습니다."
     },
     {
       "id": "av_e1efc9651b4450",
@@ -586,25 +661,25 @@
       "url": "https://www.tradingkey.com/news/market-movers/262056865-market-movers-mrvl-20260727",
       "source": "TradingKey",
       "published_at": "2026-07-27T17:51:04+00:00",
-      "sentiment": -0.639972,
+      "sentiment": -0.647857,
       "change_pct": -4.99,
       "title_kr": "Marvell Technology Inc 주식(MRVL)은 7월 27일 3.81% 하락: 주요 동인 공개",
       "summary_kr": "Marvell Technology Inc(MRVL) 주식은 AI 자본 지출에 대한 업계 전반의 우려와 통신업체 인프라 복구에 대한 Marvell의 어려움으로 인해 7월 27일 3.81% 하락했습니다. 기술적 지표는 매도 신호를 나타내며 회사는 다음과 같은 위험에 직면해 있습니다."
     },
     {
-      "id": "av_75432f00a839ee",
+      "id": "av_f95e7d55006a14",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia could reportedly backstop $250B loan for new OpenAI data center campus",
-      "summary": "Nvidia is reportedly in discussions to guarantee a $250 billion loan for OpenAI to fund a new data center campus in Ohio, which is expected to provide 10 gigawatts of computing capacity. This campus, developed by SoftBank's SB Energy Inc., would initially cover lease and construc",
-      "url": "https://siliconangle.com/2026/07/27/nvidia-reportedly-backstop-250b-loan-new-openai-data-center-campus/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-07-27T19:38:26+00:00",
-      "sentiment": 0.443878,
+      "title": "Apple Inc. $AAPL Shares Sold by Cdkv Holdings LLC",
+      "summary": "Cdkv Holdings LLC reduced its stake in Apple Inc. by 15.1% in the first quarter, selling 1,680 shares and holding 9,469 shares valued at $2.4 million, representing 2.1% of its portfolio. Various other institutional investors adjusted their positions in Apple, while analyst rating",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-shares-sold-by-cdkv-holdings-llc-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T07:45:02+00:00",
+      "sentiment": 0.141422,
       "change_pct": -4.99,
-      "title_kr": "Nvidia는 새로운 OpenAI 데이터 센터 캠퍼스에 대한 2,500억 달러의 대출을 막을 수 있다고 합니다.",
-      "summary_kr": "Nvidia는 10기가와트의 컴퓨팅 용량을 제공할 것으로 예상되는 오하이오의 새로운 데이터 센터 캠퍼스에 자금을 지원하기 위해 OpenAI에 2,500억 달러의 대출을 보장하기 위해 논의 중인 것으로 알려졌습니다. SoftBank의 SB Energy Inc.가 개발한 이 캠퍼스는 당초에는"
+      "title_kr": "Apple Inc. $AAPL 주식이 Cdkv Holdings LLC에 의해 매각되었습니다.",
+      "summary_kr": "Cdkv Holdings LLC는 1분기에 Apple Inc.의 지분을 15.1% 줄여 1,680주를 매각하고 포트폴리오의 2.1%에 해당하는 240만 달러 상당의 9,469주를 보유했습니다. 그 외 다양한 기관투자자들이 애플에 대한 포지션을 조정했고,"
     },
     {
       "id": "av_7c4d0e92ccac48",
@@ -616,10 +691,25 @@
       "url": "https://www.tradingkey.com/news/market-movers/262056826-market-movers-wdc-20260727",
       "source": "TradingKey",
       "published_at": "2026-07-27T17:16:13+00:00",
-      "sentiment": -0.549024,
+      "sentiment": -0.501216,
       "change_pct": -4.99,
       "title_kr": "7월 27일 Western Digital Corp 주식(WDC)이 6.10% 하락했습니다: 주요 동인 공개",
       "summary_kr": "WDC(Western Digital Corp) 주가는 NAND 플래시 가격 정상화에 대한 투자자 불안, 재고 안정화, 사업부 분사의 운영 복잡성에 대한 우려로 인해 7월 27일 6.10% 하락했습니다. 경쟁사 생산량 증가"
+    },
+    {
+      "id": "av_fc6f3ba97d5948",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "American Capital Management Inc. Purchases Shares of 624,084 Palo Alto Networks, Inc. $PANW",
+      "summary": "American Capital Management Inc. has acquired a new stake of 624,084 shares in Palo Alto Networks, Inc., valued at approximately $100,053,000, making it their second-largest position. Other hedge funds have also increased their holdings in PANW, while company insiders have sold o",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-american-capital-management-inc-purchases-shares-of-624084-palo-alto-networks-inc-panw-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T07:57:49+00:00",
+      "sentiment": 0.131813,
+      "change_pct": -4.99,
+      "title_kr": "American Capital Management Inc., Palo Alto Networks, Inc.의 주식 624,084주 매입 $PANW",
+      "summary_kr": "American Capital Management Inc.는 Palo Alto Networks, Inc.의 주식 624,084주(약 $100,053,000 상당)를 신규 인수하여 두 번째로 큰 위치를 차지했습니다. 다른 헤지펀드들도 PANW 지분을 늘렸다."
     },
     {
       "id": "av_9c1e4064722e47",
@@ -631,55 +721,23 @@
       "url": "https://www.akses.co.id/en/nvidia-stock-falls-leveraged-etf-declines",
       "source": "Akses.co.id",
       "published_at": "2026-07-27T17:05:48+00:00",
-      "sentiment": -0.547934,
+      "sentiment": -0.513157,
       "change_pct": -4.99,
       "title_kr": "엔비디아 주가는 레버리지 ETF 감소로 5% 하락",
       "summary_kr": "Nvidia의 주가는 5% 이상 하락한 196.46달러로 Direxion Daily NVDA Bull 2X Shares ETF와 같은 관련 레버리지 ETF가 4% 하락했습니다. 이 풀백은 $214.00 및 s의 주요 저항을 나타내는 기술 지표를 사용하여 이전 상승을 따릅니다."
     },
     {
-      "id": "av_892a613a9e1421",
+      "id": "av_9f64a994985d3b",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Bunge Global (BG) Q2 Earnings: What To Expect",
-      "summary": "Bunge Global (NYSE: BG) is set to announce its Q2 earnings this Wednesday before market hours. Analysts anticipate a 72.2% year-on-year revenue growth, a significant reversal from the previous year's decline. Despite missing revenue estimates multiple times in the past two years,",
-      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-bunge-global-bg-q2-earnings-what-to-expect",
-      "source": "FinancialContent",
-      "published_at": "2026-07-27T23:11:00+00:00",
-      "sentiment": 0.340917,
-      "change_pct": -4.99,
-      "title_kr": "Bunge Global (BG) 2분기 실적: 예상되는 사항",
-      "summary_kr": "Bunge Global(NYSE: BG)은 이번 주 수요일 시장 시간 전에 2분기 실적을 발표할 예정입니다. 분석가들은 전년 동기 대비 72.2%의 매출 성장을 예상하고 있는데, 이는 전년도 감소세에서 크게 반전된 수치입니다. 수익 추정치가 여러 번 누락되었음에도 불구하고"
-    },
-    {
-      "id": "av_697bfb8102730f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SRS 2026 recap: The biggest surgical robot stories of the last week",
-      "summary": "The Society of Robotic Surgery (SRS 2026) meeting featured significant advancements in surgical robotics, with AI playing a central role. Key developments included Johnson & Johnson's FDA authorization for its Ottava surgical robot, Medtronic's unveiling of an AI computing platfo",
-      "url": "https://www.massdevice.com/srs-2026-biggest-surgical-robot-stories/",
-      "source": "MassDevice",
-      "published_at": "2026-07-27T19:08:57+00:00",
-      "sentiment": 0.437249,
-      "change_pct": -4.99,
-      "title_kr": "SRS 2026 요약: 지난 주의 가장 큰 수술 로봇 이야기",
-      "summary_kr": "로봇수술학회(SRS 2026) 회의에서는 AI가 중심 역할을 하는 수술 로봇공학의 중요한 발전을 선보였습니다. 주요 개발에는 Ottava 수술 로봇에 대한 Johnson & Johnson의 FDA 승인, Medtronic의 공개 등이 포함됩니다."
-    },
-    {
-      "id": "av_1959cb613fe0a7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Axe Compute Inc. Secures $1,500 Million Five-Year Dedicated Ai Infrastructure Contract, Surpassing $3,000 Million in 2026 Signed Contracted Value",
-      "summary": "Axe Compute Inc. has secured a new five-year customer agreement valued at over $1,500 million for dedicated AI infrastructure, deploying 9,200 NVIDIA Blackwell B300 GPUs. This contract, part of its Build program, increases Axe Compute Inc.'s total 2026 signed contracted value to ",
-      "url": "https://www.marketscreener.com/news/axe-compute-inc-secures-1-500-million-five-year-dedicated-ai-infrastructure-contract-surpassing--ce7f51dcd189fe20",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-07-27T16:11:43+00:00",
-      "sentiment": 0.703885,
-      "change_pct": -4.99,
-      "title_kr": "Ax Compute Inc., 5년 전용 AI 인프라 계약 15억 달러 확보, 2026년 계약 금액 30억 달러 초과",
-      "summary_kr": "Ax Compute Inc.는 9,200개의 NVIDIA Blackwell B300 GPU를 배포하는 전용 AI 인프라에 대해 15억 달러 이상 규모의 새로운 5년 고객 계약을 체결했습니다. 빌드 프로그램의 일부인 이 계약은 Axe Compute Inc.의 총 2026년 계약을 증가시킵니다."
+      "title": "Applied Finance Capital Management LLC Has $59.88 Million Stake in Apple Inc. $AAPL",
+      "summary": "Applied Finance Capital Management LLC reduced its stake in Apple Inc. by 4.4% in the first quarter, although Apple remains its largest holding, valued at $59.88 million. Other institutional investors have varied their positions in Apple, with some increasing and others initiatin",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-applied-finance-capital-management-llc-has-5988-million-stake-in-apple-inc-aapl-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T08:06:57+00:00",
+      "sentiment": 0.117838,
+      "change_pct": -4.99
     },
     {
       "id": "av_45fb9bd31378b0",
@@ -691,40 +749,55 @@
       "url": "https://www.nytimes.com/2026/07/27/technology/apple-valuation.html",
       "source": "The New York Times",
       "published_at": "2026-07-27T20:26:00+00:00",
-      "sentiment": -0.384509,
+      "sentiment": -0.405951,
       "change_pct": -4.99,
       "title_kr": "Apple, 가장 가치 있는 상장 기업으로 Nvidia를 제치고 다시 자리매김",
       "summary_kr": "Apple은 다시 한번 Nvidia를 제치고 세계에서 가장 가치 있는 상장 기업이 되었으며, 시장 가치는 4조 9천억 달러로 마감되었습니다. 이러한 변화는 AI 관련 비용에 대한 우려로 인해 Nvidia의 주가가 하락하고 투자자들이 관심을 끌면서 발생했습니다."
     },
     {
-      "id": "av_d5f92dd49d0ad5",
+      "id": "av_d73b99ea488a08",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Amkor Technology, Inc (AMKR) Q2 2026 Earnings Call Transcript",
-      "summary": "Amkor Technology, Inc. reported strong Q2 2026 results, with revenue up 26% year-on-year to $1.9 billion, driven by record performance in Computing and Automotive Industrial markets. The company highlighted strategic partnerships with TSMC and NVIDIA, focusing on advanced packagi",
-      "url": "https://news.alphastreet.com/amkor-technology-inc-amkr-q2-2026-earnings-call-transcript/amp/",
-      "source": "AlphaStreet",
-      "published_at": "2026-07-27T22:04:00+00:00",
-      "sentiment": 0.337468,
+      "title": "Phase one of Amkor's Peoria facility ‘fully committed’ as construction progresses",
+      "summary": "Amkor Technology's new advanced packaging and test facility in Peoria, Arizona, is seeing strong demand with its initial production capacity already fully committed by major customers like Apple, TSMC, and Nvidia, a year before its scheduled opening in 2027. Construction is progr",
+      "url": "https://www.bizjournals.com/phoenix/news/2026/07/27/amkor-q2-financial-results.html",
+      "source": "The Business Journals",
+      "published_at": "2026-07-28T00:10:53+00:00",
+      "sentiment": 0.312234,
       "change_pct": -4.99,
-      "title_kr": "Amkor Technology, Inc(AMKR) 2026년 2분기 실적 통화 기록",
-      "summary_kr": "앰코테크놀로지(Amkor Technology, Inc.)는 컴퓨팅 및 자동차 산업 시장의 기록적인 성과에 힘입어 매출이 전년 동기 대비 26% 증가한 19억 달러를 기록하는 강력한 2026년 2분기 실적을 발표했습니다. 회사는 TSMC 및 NVIDIA와의 전략적 파트너십을 강조했습니다."
+      "title_kr": "건설이 진행됨에 따라 앰코의 피오리아 시설 1단계 '완전히 투입'",
+      "summary_kr": "애리조나주 피오리아에 위치한 앰코테크놀로지의 새로운 첨단 패키징 및 테스트 시설은 2027년 개장 예정인 1년 전, 이미 Apple, TSMC, Nvidia와 같은 주요 고객들이 초기 생산 능력을 완전히 투입하여 높은 수요를 보이고 있습니다."
     },
     {
-      "id": "av_f851d2bd94845a",
+      "id": "av_1959cb613fe0a7",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today?",
-      "summary": "Apple (AAPL) became the world's most valuable company at $4.95 trillion, Forte Biosciences (FBRX) was acquired by Argenx for $2.2 billion, and RTX (RTX) extended its rally due to strong Q2 earnings and increased demand. These developments fueled significant surges in all three st",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-aapl-fbrx-rtx-015733892.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T01:57:20+00:00",
-      "sentiment": -0.218838,
+      "title": "Axe Compute Inc. Secures $1,500 Million Five-Year Dedicated Ai Infrastructure Contract, Surpassing $3,000 Million in 2026 Signed Contracted Value",
+      "summary": "Axe Compute Inc. has secured a new five-year customer agreement valued at over $1,500 million for dedicated AI infrastructure, deploying 9,200 NVIDIA Blackwell B300 GPUs. This contract, part of its Build program, increases Axe Compute Inc.'s total 2026 signed contracted value to ",
+      "url": "https://www.marketscreener.com/news/axe-compute-inc-secures-1-500-million-five-year-dedicated-ai-infrastructure-contract-surpassing--ce7f51dcd189fe20",
+      "source": "www.marketscreener.com",
+      "published_at": "2026-07-27T16:11:43+00:00",
+      "sentiment": 0.701996,
       "change_pct": -4.99,
-      "title_kr": "오늘 AAPL, FBRX, RTX 주식이 52주 최고가로 급등한 이유는 무엇입니까?",
-      "summary_kr": "Apple(AAPL)은 4조 9500억 달러로 세계에서 가장 가치 있는 기업이 되었고, Forte Biosciences(FBRX)는 Argenx에 22억 달러에 인수되었으며, RTX(RTX)는 2분기 실적 호조와 수요 증가로 상승세를 이어갔습니다. 이러한 발전은 상당한 성장을 촉진했습니다."
+      "title_kr": "Ax Compute Inc., 5년 전용 AI 인프라 계약 15억 달러 확보, 2026년 계약 금액 30억 달러 초과",
+      "summary_kr": "Ax Compute Inc.는 9,200개의 NVIDIA Blackwell B300 GPU를 배포하는 전용 AI 인프라에 대해 15억 달러 이상 규모의 새로운 5년 고객 계약을 체결했습니다. 빌드 프로그램의 일부인 이 계약은 Axe Compute Inc.의 총 2026년 계약을 증가시킵니다."
+    },
+    {
+      "id": "av_75432f00a839ee",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia could reportedly backstop $250B loan for new OpenAI data center campus",
+      "summary": "Nvidia is reportedly in discussions to guarantee a $250 billion loan for OpenAI to fund a new data center campus in Ohio, which is expected to provide 10 gigawatts of computing capacity. This campus, developed by SoftBank's SB Energy Inc., would initially cover lease and construc",
+      "url": "https://siliconangle.com/2026/07/27/nvidia-reportedly-backstop-250b-loan-new-openai-data-center-campus/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-07-27T19:38:26+00:00",
+      "sentiment": 0.413545,
+      "change_pct": -4.99,
+      "title_kr": "Nvidia는 새로운 OpenAI 데이터 센터 캠퍼스에 대한 2,500억 달러의 대출을 막을 수 있다고 합니다.",
+      "summary_kr": "Nvidia는 10기가와트의 컴퓨팅 용량을 제공할 것으로 예상되는 오하이오의 새로운 데이터 센터 캠퍼스에 자금을 지원하기 위해 OpenAI에 2,500억 달러의 대출을 보장하기 위해 논의 중인 것으로 알려졌습니다. SoftBank의 SB Energy Inc.가 개발한 이 캠퍼스는 당초에는"
     },
     {
       "id": "av_30afe9409b616d",
@@ -736,25 +809,70 @@
       "url": "https://m.investing.com/news/transcripts/earnings-call-transcript-f5-tops-q3-2026-estimates-lifts-outlook-93CH-4815191?ampMode=1",
       "source": "Investing.com",
       "published_at": "2026-07-27T22:09:58+00:00",
-      "sentiment": 0.303784,
+      "sentiment": 0.347791,
       "change_pct": -4.99,
       "title_kr": "수익 통화 기록: F5가 2026년 3분기 추정치를 상회하고 전망을 높였습니다.",
       "summary_kr": "F5(NASDAQ: FFIV)는 2026 회계연도 3분기에 대한 월스트리트의 기대치를 뛰어넘어 주당 4.73달러의 수익과 8억 6,500만 달러의 매출을 기록해 분석가 추정치를 크게 웃돌았습니다. 회사는 또한 연간 매출 성장률을 높였습니다."
     },
     {
-      "id": "av_d3da0d2fb96507",
+      "id": "av_697bfb8102730f",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Flutter Entertainment to Release Q2 2026 Update",
-      "summary": "Flutter Entertainment (FLUT) is scheduled to release its Q2 2026 update before US market open on August 5, 2026, at 7:00 a.m. EDT, followed by a conference call at 8:30 a.m. EDT. The company, a leading online sports betting and iGaming operator, aims to maintain transparency and ",
-      "url": "https://intellectia.ai/news/stock/flutter-entertainment-to-release-q2-2026-update",
-      "source": "Intellectia AI",
-      "published_at": "2026-07-27T16:09:48+00:00",
-      "sentiment": -0.444315,
+      "title": "SRS 2026 recap: The biggest surgical robot stories of the last week",
+      "summary": "The Society of Robotic Surgery (SRS 2026) meeting featured significant advancements in surgical robotics, with AI playing a central role. Key developments included Johnson & Johnson's FDA authorization for its Ottava surgical robot, Medtronic's unveiling of an AI computing platfo",
+      "url": "https://www.massdevice.com/srs-2026-biggest-surgical-robot-stories/",
+      "source": "MassDevice",
+      "published_at": "2026-07-27T19:08:57+00:00",
+      "sentiment": 0.407583,
       "change_pct": -4.99,
-      "title_kr": "Flutter Entertainment, 2026년 2분기 업데이트 출시",
-      "summary_kr": "Flutter Entertainment(FLUT)는 2026년 8월 5일 오전 7시(EDT) 미국 시장 개장 전 2026년 2분기 업데이트를 발표한 후 오전 8시 30분(EDT)에 컨퍼런스 콜을 발표할 예정입니다. 선도적인 온라인 스포츠 베팅 및 iGaming 운영업체인 이 회사는"
+      "title_kr": "SRS 2026 요약: 지난 주의 가장 큰 수술 로봇 이야기",
+      "summary_kr": "로봇수술학회(SRS 2026) 회의에서는 AI가 중심 역할을 하는 수술 로봇공학의 중요한 발전을 선보였습니다. 주요 개발에는 Ottava 수술 로봇에 대한 Johnson & Johnson의 FDA 승인, Medtronic의 공개 등이 포함됩니다."
+    },
+    {
+      "id": "av_892a613a9e1421",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Bunge Global (BG) Q2 Earnings: What To Expect",
+      "summary": "Bunge Global (NYSE: BG) is set to announce its Q2 earnings this Wednesday before market hours. Analysts anticipate a 72.2% year-on-year revenue growth, a significant reversal from the previous year's decline. Despite missing revenue estimates multiple times in the past two years,",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-7-28-bunge-global-bg-q2-earnings-what-to-expect",
+      "source": "FinancialContent",
+      "published_at": "2026-07-27T23:11:00+00:00",
+      "sentiment": 0.30503,
+      "change_pct": -4.99,
+      "title_kr": "Bunge Global (BG) 2분기 실적: 예상되는 사항",
+      "summary_kr": "Bunge Global(NYSE: BG)은 이번 주 수요일 시장 시간 전에 2분기 실적을 발표할 예정입니다. 분석가들은 전년 동기 대비 72.2%의 매출 성장을 예상하고 있는데, 이는 전년도 감소세에서 크게 반전된 수치입니다. 수익 추정치가 여러 번 누락되었음에도 불구하고"
+    },
+    {
+      "id": "av_f851d2bd94845a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Did AAPL, FBRX, RTX Stocks Surge To 52-Week Highs Today?",
+      "summary": "Apple (AAPL) became the world's most valuable company at $4.95 trillion, Forte Biosciences (FBRX) was acquired by Argenx for $2.2 billion, and RTX (RTX) extended its rally due to strong Q2 earnings and increased demand. These developments fueled significant surges in all three st",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-aapl-fbrx-rtx-015733892.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T01:57:20+00:00",
+      "sentiment": -0.204771,
+      "change_pct": -4.99,
+      "title_kr": "오늘 AAPL, FBRX, RTX 주식이 52주 최고가로 급등한 이유는 무엇입니까?",
+      "summary_kr": "Apple(AAPL)은 4조 9500억 달러로 세계에서 가장 가치 있는 기업이 되었고, Forte Biosciences(FBRX)는 Argenx에 22억 달러에 인수되었으며, RTX(RTX)는 2분기 실적 호조와 수요 증가로 상승세를 이어갔습니다. 이러한 발전은 상당한 성장을 촉진했습니다."
+    },
+    {
+      "id": "av_d5f92dd49d0ad5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amkor Technology, Inc (AMKR) Q2 2026 Earnings Call Transcript",
+      "summary": "Amkor Technology, Inc. reported strong Q2 2026 results, with revenue up 26% year-on-year to $1.9 billion, driven by record performance in Computing and Automotive Industrial markets. The company highlighted strategic partnerships with TSMC and NVIDIA, focusing on advanced packagi",
+      "url": "https://news.alphastreet.com/amkor-technology-inc-amkr-q2-2026-earnings-call-transcript/amp/",
+      "source": "AlphaStreet",
+      "published_at": "2026-07-27T22:04:00+00:00",
+      "sentiment": 0.30146,
+      "change_pct": -4.99,
+      "title_kr": "Amkor Technology, Inc(AMKR) 2026년 2분기 실적 통화 기록",
+      "summary_kr": "앰코테크놀로지(Amkor Technology, Inc.)는 컴퓨팅 및 자동차 산업 시장의 기록적인 성과에 힘입어 매출이 전년 동기 대비 26% 증가한 19억 달러를 기록하는 강력한 2026년 2분기 실적을 발표했습니다. 회사는 TSMC 및 NVIDIA와의 전략적 파트너십을 강조했습니다."
     },
     {
       "id": "av_a3625199f97bc1",
@@ -766,10 +884,36 @@
       "url": "https://quantumzeitgeist.com/quantinuum-transformer-demonstration-quantum-generate/",
       "source": "Quantum Zeitgeist",
       "published_at": "2026-07-27T15:38:41+00:00",
-      "sentiment": 0.440729,
+      "sentiment": 0.435119,
       "change_pct": -4.99,
       "title_kr": "Quantinuum, NVIDIA Corporation 및 Pfizer Inc 변압기 모델은 이제 분자 모델용 양자 회로를 생성합니다.",
       "summary_kr": "Quantinuum, NVIDIA Corporation 및 Pfizer Inc.의 연구원들은 복잡한 분자 모델링을 위한 양자 회로 생성 속도를 크게 높이는 생성 AI 프레임워크인 ADAPT-GQE를 개발했습니다. 이 새로운 접근 방식은 회로 생성 시간을 단축합니다."
+    },
+    {
+      "id": "f_09941ee73193ca",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "general",
+      "title": "Micron Technology (NASDAQ:MU) is a High Growth Stock Meeting All Eight Fundamental Rules",
+      "summary": "Louis Navellier's eight-rule growth investing screen highlights Micron Technology (MU) as a top pick with surging earnings, sales, and margins.",
+      "url": "https://finnhub.io/api/news?id=0ff27126ba70873dd0b1f8dd312149a400625e2b73475893a3e74e812d85598c",
+      "source": "ChartMill",
+      "published_at": "2026-07-28T09:00:44+00:00"
+    },
+    {
+      "id": "av_d3da0d2fb96507",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Flutter Entertainment to Release Q2 2026 Update",
+      "summary": "Flutter Entertainment (FLUT) is scheduled to release its Q2 2026 update before US market open on August 5, 2026, at 7:00 a.m. EDT, followed by a conference call at 8:30 a.m. EDT. The company, a leading online sports betting and iGaming operator, aims to maintain transparency and ",
+      "url": "https://intellectia.ai/news/stock/flutter-entertainment-to-release-q2-2026-update",
+      "source": "Intellectia AI",
+      "published_at": "2026-07-27T16:09:48+00:00",
+      "sentiment": -0.415031,
+      "change_pct": -4.99,
+      "title_kr": "Flutter Entertainment, 2026년 2분기 업데이트 출시",
+      "summary_kr": "Flutter Entertainment(FLUT)는 2026년 8월 5일 오전 7시(EDT) 미국 시장 개장 전 2026년 2분기 업데이트를 발표한 후 오전 8시 30분(EDT)에 컨퍼런스 콜을 발표할 예정입니다. 선도적인 온라인 스포츠 베팅 및 iGaming 운영업체인 이 회사는"
     },
     {
       "id": "av_ec310034d975c1",
@@ -781,10 +925,57 @@
       "url": "https://www.bizjournals.com/austin/news/2026/07/27/coreweave-edgeconnex-bastrop-data-center-nvidia-ai.html",
       "source": "The Business Journals",
       "published_at": "2026-07-27T16:24:39+00:00",
-      "sentiment": 0.41247,
+      "sentiment": 0.403996,
       "change_pct": -4.99,
       "title_kr": "뉴저지에 본사를 둔 CoreWeave는 Bastrop 카운티 데이터 센터를 점유할 계획입니다.",
       "summary_kr": "Nvidia와 제휴한 AI 회사인 CoreWeave는 오스틴 근처 Bastrop 카운티의 데이터 센터에 중요한 사업장을 설립할 예정입니다. 이러한 움직임은 Nvidia가 올해 CoreWeave에 대한 20억 달러 지분 투자에 따른 것입니다. 회사가 점유하게 됩니다."
+    },
+    {
+      "id": "f_30a755c5b4dac4",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple Reclaims the Crown as a China Chip Scare Sinks the Semis",
+      "summary": "Wall Street opened strong on a sharp oil selloff but faded as a report on Chinese progress in advanced lithography rattled ASML and the entire semi complex. Apple leapfrogged Nvidia to reclaim its title as the world's most valuable listed company, right as the Fed, big-tech earnings and Q2 GDP move into focus.",
+      "url": "https://finnhub.io/api/news?id=5e1ce5cbe52b934114e5d154a15cf8489863c55a3d21f56dbbb132cb1afa6da2",
+      "source": "ChartMill",
+      "published_at": "2026-07-28T08:07:35+00:00",
+      "change_pct": -4.99
+    },
+    {
+      "id": "f_f1746180143e1f",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Rocket Lab Has Fallen 58% From Its High While Wall Street's Average Target Sits 79% Above the Price. One Side Is Badly Wrong.",
+      "summary": "The market and the analysts covering this launch company are about $50 per share apart. The deal it signed in late June explains most of the gap.",
+      "url": "https://finnhub.io/api/news?id=0c8e8188675e825aaa289431da0bed9cc066fe0afd52247e93709000e222b20c",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T07:52:00+00:00",
+      "change_pct": -4.99
+    },
+    {
+      "id": "f_ef0d327b9b7521",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia invests $5bn in researcher who plotted OpenAI coup",
+      "summary": "Nvidia has agreed to invest $5bn (£4bn) in a secretive artificial intelligence (AI) start-up founded by a former OpenAI executive who led a boardroom coup against Sam Altman.",
+      "url": "https://finnhub.io/api/news?id=97d2bdd96f7b8d1740627d6beadf8b2db56c5b096725c76b44f755f85f26e276",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T07:48:13+00:00",
+      "change_pct": -4.99
+    },
+    {
+      "id": "f_b5716beedfaafe",
+      "provider": "finnhub",
+      "ticker": "AAPL",
+      "category": "general",
+      "title": "Incoming Apple CEO aims to build on movie and TV progress",
+      "summary": "STORY: :: Los Angeles, California / July 27, 2026:: Apple's incoming CEO says he plans to build on the company's momentum in film and television:: John Ternus, Incoming Apple CEO\"Yeah, I think we have such tremendous momentum right now at Apple TV. There are so many amazing shows, so many amazing characters and stories and so we're just going to keep building on that momentum.\":: The company found success with the blockbuster film 'F1' and the Emmy-winning show 'Ted Lasso':: Tim Cook, Apple CEO\"We'll do things that we can bring something unique to, where we can innovate in a way that others might not be able to and I feel like we're really doing that with F1. We're so excited about how we're doing there and the viewership numbers that we're getting and so more things like that would be possible.\"The technology giant began offering original TV series and films through the Apple TV+ streaming app in 2019. The company found success with Oscar ​best picture winner \"CODA,\" box-office blockbuster \"F1\" and Emmy-winning shows such as \"The Studio\" ​and \"Ted Lasso.\"Cook said Apple was open to future partnerships in the entertainment realm if the company feels it can bring a particular expertise. He pointed to the arrangement with the Formula 1 racing league.For the Brad Pitt movie \"F1,\" Apple built custom cameras to help make audiences feel like they were inside a race car. F1 races are now shown exclusively on Apple TV in the United States, and the company provides leaderboards, updates and other coverage on Apple News and other apps.Last month, senior Apple executive Eddy Cue told Reuters the company's goal was to offer \"better and more\" TV shows and movies on streaming and in cinemas.",
+      "url": "https://finnhub.io/api/news?id=7b2fffb82ce266863683b08e3e99f9e596115d72bb83faf6150f59dbd0bf3807",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T07:27:14+00:00"
     },
     {
       "id": "av_4730ba40b877a5",
@@ -796,67 +987,33 @@
       "url": "https://www.marketbeat.com/instant-alerts/cadence-design-systems-q2-earnings-call-highlights-2026-07-27/",
       "source": "MarketBeat",
       "published_at": "2026-07-27T23:08:18+00:00",
-      "sentiment": 0.23272,
+      "sentiment": 0.20006,
       "change_pct": -4.99,
       "title_kr": "Cadence Design Systems Q2 수익 통화 하이라이트",
       "summary_kr": "Cadence Design Systems는 AI 및 고성능 컴퓨팅 설계 도구에 대한 수요에 힘입어 매출이 전년 동기 대비 24% 증가한 15억 8,400만 달러를 기록하는 등 강력한 2026년 2분기 결과를 보고했습니다. 회사는 19%의 매출 성장과 증가를 예상하면서 연간 전망을 높였습니다."
     },
     {
-      "id": "av_1176cc9d931e03",
-      "provider": "alphavantage",
+      "id": "f_84873e9f03b768",
+      "provider": "finnhub",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Amerant Bancorp stock hits 52-week high at $28.71",
-      "summary": "Amerant Bancorp Inc. Class A stock reached a new 52-week high of $28.71, reflecting a 41.3% increase in value over the past year. This comes after the company surpassed second-quarter financial expectations, reporting diluted earnings of $0.53 per share and revenue of $100.73 mil",
-      "url": "https://www.investing.com/news/company-news/amerant-bancorp-stock-hits-52week-high-at-2871-93CH-4814350",
-      "source": "Investing.com",
-      "published_at": "2026-07-27T15:11:50+00:00",
-      "sentiment": -0.424349,
-      "change_pct": -4.99,
-      "title_kr": "Amerant Bancorp 주가는 $28.71로 52주 최고가를 기록했습니다.",
-      "summary_kr": "Amerant Bancorp Inc. 클래스 A 주식은 지난 한 해 동안 가치가 41.3% 상승한 것을 반영하여 52주 최고가인 $28.71를 기록했습니다. 이는 회사가 2분기 재무 기대치를 뛰어넘어 주당 0.53달러의 희석 수익을 보고한 이후에 나온 것입니다."
+      "title": "Intel Just Broke a 15-Year-Old Company Record. Is the Comeback for Real?",
+      "summary": "Intel's revenue growth just reached levels not seen in more than a decade.",
+      "url": "https://finnhub.io/api/news?id=7ee0bfa9bda8bb954cde9d572b930ca95c2ce70f634da270657d9aec6c943eb7",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T07:05:00+00:00",
+      "change_pct": -4.99
     },
     {
-      "id": "av_bb05a2b05a335a",
-      "provider": "alphavantage",
+      "id": "f_a5aef8b4015920",
+      "provider": "finnhub",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Gabelli Dividend & Income stock hits all-time high at 30.09 USD",
-      "summary": "Gabelli Dividend & Income Trust (GDV) stock has reached an all-time high of $30.09 USD, boasting an 18.61% total return over the past year. This milestone reflects strong investor confidence in the trust's strategy of providing a consistent dividend income, with a current yield o",
-      "url": "https://www.investing.com/news/company-news/gabelli-dividend--income-stock-hits-alltime-high-at-3009-usd-93CH-4814410",
-      "source": "Investing.com",
-      "published_at": "2026-07-27T14:11:12+00:00",
-      "sentiment": -0.441881,
-      "change_pct": -4.99,
-      "title_kr": "Gabelli Dividend & Income 주식은 30.09 USD로 사상 최고치를 기록했습니다.",
-      "summary_kr": "Gabelli Dividend & Income Trust(GDV) 주식은 지난 1년 동안 18.61%의 총 수익률을 자랑하며 사상 최고치인 $30.09 USD를 기록했습니다. 이 이정표는 일관된 배당 수익을 제공하려는 신탁 전략에 대한 투자자의 강한 신뢰를 반영합니다."
-    },
-    {
-      "id": "av_b0ec4cbb7f2074",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple stock he record to outperform 'Mag 7' as iPhone maker avoids 'capex pitfalls'",
-      "summary": "Apple has reclaimed its position as the world's most valuable company, surpassing Nvidia, with its stock heading towards a record close. The company's shares have risen over 22% year to date, outperforming other \"Magnificent Seven\" stocks, as investors favor its restrained AI spe",
-      "url": "https://finance.yahoo.com/markets/article/apple-overtakes-nvidia-as-most-valuable-company-as-iphone-maker-avoids-capex-pitfalls-150316032.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-27T15:03:41+00:00",
-      "sentiment": -0.404517,
-      "change_pct": -4.99,
-      "title_kr": "아이폰 제조사가 'Capex 함정'을 피하면서 애플 주식은 'Mag 7'을 능가할 것으로 기록",
-      "summary_kr": "애플(Apple)이 엔비디아(Nvidia)를 제치고 세계에서 가장 가치 있는 기업의 자리를 되찾았고, 주가는 사상 최대치를 향해 가고 있다. 투자자들이 i를 선호함에 따라 이 회사의 주가는 현재까지 22% 이상 상승하여 다른 \"Magnificent Seven\" 주식을 능가했습니다."
-    },
-    {
-      "id": "av_2beb16575e4836",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple ends day as world's most valuable company, passing Nvidia",
-      "summary": "Apple has reclaimed its position as the world's most valuable company, surpassing Nvidia at market close for the first time since April 2025. This shift occurred as Nvidia's shares fell 5% and Apple's rose 1%, giving Apple a market capitalization of $4.95 trillion compared to Nvi",
-      "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
-      "source": "CNBC",
-      "published_at": "2026-07-27T21:10:00+00:00",
-      "sentiment": -0.242773,
+      "title": "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
+      "summary": "We may still be in the early innings of the AI revolution, and these companies could be among the biggest winners.",
+      "url": "https://finnhub.io/api/news?id=ad23d28d8c34d4508d2cbffbb9615b199a0fcd21b67f6ac291547a296e68e703",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T06:20:00+00:00",
       "change_pct": -4.99
     },
     {
@@ -881,6 +1038,19 @@
       "url": "https://finnhub.io/api/news?id=fc7faa512ae6e797908aabb475eff261501a26748c1b046fd769dcaaf4f68cd3",
       "source": "Yahoo",
       "published_at": "2026-07-28T05:20:00+00:00",
+      "change_pct": -4.99
+    },
+    {
+      "id": "av_2beb16575e4836",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple ends day as world's most valuable company, passing Nvidia",
+      "summary": "Apple has reclaimed its position as the world's most valuable company, surpassing Nvidia at market close for the first time since April 2025. This shift occurred as Nvidia's shares fell 5% and Apple's rose 1%, giving Apple a market capitalization of $4.95 trillion compared to Nvi",
+      "url": "https://www.cnbc.com/2026/07/27/apple-most-valuable-company-nvidia.html",
+      "source": "CNBC",
+      "published_at": "2026-07-27T21:10:00+00:00",
+      "sentiment": -0.200911,
       "change_pct": -4.99
     },
     {
@@ -916,7 +1086,7 @@
       "url": "https://siliconangle.com/2026/07/27/amd-nvidia-ai-systems-thecubepod/",
       "source": "SiliconANGLE",
       "published_at": "2026-07-27T17:07:03+00:00",
-      "sentiment": 0.293827,
+      "sentiment": 0.295208,
       "change_pct": -4.99,
       "title_kr": "CUBE Pod에서: AMD와 Nvidia의 AI 시스템이 경쟁합니다.",
       "summary_kr": "AI 경쟁은 개별 칩에서 완전한 AI 시스템으로 전환되고 있으며, AMD는 AI 인프라 구축에서 Nvidia에 이어 강력한 두 번째 선택으로 자리매김하고 있습니다. Nvidia가 여전히 지배적인 반면, AMD는 CPU, GPU 등의 통합 시스템에 중점을 두고 있습니다."
@@ -946,6 +1116,17 @@
       "change_pct": -4.99
     },
     {
+      "id": "f_0d3fdea12bd85d",
+      "provider": "finnhub",
+      "ticker": "NBIS",
+      "category": "general",
+      "title": "Nebius: A Software Company The Market Insists On Renting Out",
+      "summary": "Nebius posted 840% AI cloud revenue growth and a 45% EBITDA margin, signaling a successful transition to higher-margin offerings. See why NBIS stock is a buy.",
+      "url": "https://finnhub.io/api/news?id=778515bfbd3f0a18a43fb2e88bacd1c66052acb730ac7384f1d730db9ccb1a03",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-28T04:34:48+00:00"
+    },
+    {
       "id": "f_066895f4ab844c",
       "provider": "finnhub",
       "ticker": "MU",
@@ -969,6 +1150,21 @@
       "change_pct": -4.99
     },
     {
+      "id": "av_b7bb14d3df1d96",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia Stock Falls 5%: How Credit Risk Sharing Is Impacting the AI Trade",
+      "summary": "Nvidia stock fell 5% due to news of the company discussing financing options for OpenAI's large-scale AI buildouts, including providing credit risk sharing for chip purchases, moving beyond just hardware sales. Additionally, fresh concerns over potential new China-related export ",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60701139/nvidia-stock-falls-5-how-credit-risk-sharing-is-impacting-the-ai-trade",
+      "source": "Benzinga",
+      "published_at": "2026-07-27T15:43:39+00:00",
+      "sentiment": -0.310587,
+      "change_pct": -4.99,
+      "title_kr": "Nvidia 주가 5% 하락: 신용 위험 공유가 AI 거래에 미치는 영향",
+      "summary_kr": "엔비디아 주가는 회사가 단순한 하드웨어 판매를 넘어 칩 구매에 대한 신용 위험 공유 제공을 포함하여 OpenAI의 대규모 AI 구축을 위한 자금 조달 옵션을 논의하고 있다는 소식으로 인해 5% 하락했습니다. 또한, 잠재적인 새로운 C에 대한 새로운 우려가 제기되고 있습니다."
+    },
+    {
       "id": "f_902a0f04cc2be5",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -981,34 +1177,17 @@
       "change_pct": -1.22
     },
     {
-      "id": "av_b7bb14d3df1d96",
+      "id": "av_3eba67b8f3c060",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia Stock Falls 5%: How Credit Risk Sharing Is Impacting the AI Trade",
-      "summary": "Nvidia stock fell 5% due to news of the company discussing financing options for OpenAI's large-scale AI buildouts, including providing credit risk sharing for chip purchases, moving beyond just hardware sales. Additionally, fresh concerns over potential new China-related export ",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60701139/nvidia-stock-falls-5-how-credit-risk-sharing-is-impacting-the-ai-trade",
-      "source": "Benzinga",
-      "published_at": "2026-07-27T15:43:39+00:00",
-      "sentiment": -0.305868,
-      "change_pct": -4.99,
-      "title_kr": "Nvidia 주가 5% 하락: 신용 위험 공유가 AI 거래에 미치는 영향",
-      "summary_kr": "엔비디아 주가는 회사가 단순한 하드웨어 판매를 넘어 칩 구매에 대한 신용 위험 공유 제공을 포함하여 OpenAI의 대규모 AI 구축을 위한 자금 조달 옵션을 논의하고 있다는 소식으로 인해 5% 하락했습니다. 또한, 잠재적인 새로운 C에 대한 새로운 우려가 제기되고 있습니다."
-    },
-    {
-      "id": "av_c925994af474bb",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lam Research Corp Stock (LRCX) Moved Down by 6.33% on Jul 27: Drivers Behind the Movement",
-      "summary": "Lam Research Corp (LRCX) stock dropped 6.33% due to reduced capital expenditure from memory chipmakers, trade policy concerns impacting Chinese market revenue, and bearish technical indicators like a negative MACD. The company, a dominant provider of semiconductor equipment, is s",
-      "url": "https://www.tradingkey.com/news/market-movers/262056607-market-movers-lrcx-20260727",
-      "source": "TradingKey",
-      "published_at": "2026-07-27T15:15:00+00:00",
-      "sentiment": -0.310311,
-      "change_pct": -4.99,
-      "title_kr": "Lam Research Corp 주식(LRCX)은 7월 27일 6.33% 하락했습니다: 이 움직임의 원동력",
-      "summary_kr": "Lam Research Corp(LRCX) 주가는 메모리 칩 제조업체의 자본 지출 감소, 중국 시장 수익에 영향을 미치는 무역 정책 우려, 부정적인 MACD와 같은 약세 기술 지표로 인해 6.33% 하락했습니다. 반도체의 지배적 공급업체인 회사"
+      "title": "EquipmentShare.com Inc. Notice of September 21, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
+      "summary": "Kahn Swick & Foti, LLC (KSF) has issued a notice regarding a class action lawsuit against EquipmentShare.com Inc. (NASDAQ: EQPT). The lawsuit seeks to recover losses for investors who purchased common stock in connection with the company's January 2026 IPO, and/or EquipmentShare ",
+      "url": "https://www.streetinsider.com/Newsfile/EquipmentShare.com+Inc.+Notice+of+September+21%2C+2026+Application+Deadline+for+Class+Action+Lawsuit+-+Contact+Lewis+Kahn%2C+Esq.+at+Kahn+Swick+%26+Foti%2C+LLC%2C+Before+Application+Deadline/26818996.html",
+      "source": "StreetInsider",
+      "published_at": "2026-07-27T18:10:22+00:00",
+      "sentiment": 0.238374,
+      "change_pct": -4.99
     },
     {
       "id": "f_401b21f9e5b357",
@@ -1023,19 +1202,6 @@
       "change_pct": -4.99
     },
     {
-      "id": "av_56d426cc5a3c78",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Axe Compute Secures $1.5 Billion AI Deal Powered by Nvidia",
-      "summary": "Axe Compute secured a $1.5 billion AI infrastructure contract with a dedicated U.S. cluster featuring over 9,200 NVIDIA Blackwell B300 GPUs, causing its shares (NASDAQ: AGPU) to rise. This new deal nearly doubles its total signed contract value for 2026 to over $3 billion and is ",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60703667/axe-compute-secures-1-5-billion-ai-deal-powered-by-nvidia",
-      "source": "Benzinga",
-      "published_at": "2026-07-27T16:11:43+00:00",
-      "sentiment": 0.281059,
-      "change_pct": -4.99
-    },
-    {
       "id": "f_299c029d7f1976",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1045,6 +1211,19 @@
       "url": "https://finnhub.io/api/news?id=e952501cd312f20cd15e7507942807329ddf78bea9cfe38d59433869d6be81a7",
       "source": "Yahoo",
       "published_at": "2026-07-28T03:20:01+00:00",
+      "change_pct": -4.99
+    },
+    {
+      "id": "av_5617acbca6d4e8",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Tesla: I Made A Big Mistake Here (Downgrade) (NASDAQ:TSLA)",
+      "summary": "The author is downgrading Tesla (TSLA) to a Hold rating due to disappointing Q2 '26 earnings, despite strong delivery numbers. The key concerns are a significant drop in gross margin to 16.8% and negative free cash flow, mainly driven by a large increase in AI-related CapEx. Whil",
+      "url": "https://seekingalpha.com/article/4925988-tesla-i-made-a-big-mistake-here-downgrade",
+      "source": "Seeking Alpha",
+      "published_at": "2026-07-27T21:10:37+00:00",
+      "sentiment": 0.14807,
       "change_pct": -4.99
     },
     {
@@ -1071,16 +1250,16 @@
       "published_at": "2026-07-28T03:00:13+00:00"
     },
     {
-      "id": "av_3eba67b8f3c060",
+      "id": "av_56d426cc5a3c78",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "EquipmentShare.com Inc. Notice of September 21, 2026 Application Deadline for Class Action Lawsuit - Contact Lewis Kahn, Esq. at Kahn Swick & Foti, LLC, Before Application Deadline",
-      "summary": "Kahn Swick & Foti, LLC (KSF) has issued a notice regarding a class action lawsuit against EquipmentShare.com Inc. (NASDAQ: EQPT). The lawsuit seeks to recover losses for investors who purchased common stock in connection with the company's January 2026 IPO, and/or EquipmentShare ",
-      "url": "https://www.streetinsider.com/Newsfile/EquipmentShare.com+Inc.+Notice+of+September+21%2C+2026+Application+Deadline+for+Class+Action+Lawsuit+-+Contact+Lewis+Kahn%2C+Esq.+at+Kahn+Swick+%26+Foti%2C+LLC%2C+Before+Application+Deadline/26818996.html",
-      "source": "StreetInsider",
-      "published_at": "2026-07-27T18:10:22+00:00",
-      "sentiment": 0.208562,
+      "title": "Axe Compute Secures $1.5 Billion AI Deal Powered by Nvidia",
+      "summary": "Axe Compute secured a $1.5 billion AI infrastructure contract with a dedicated U.S. cluster featuring over 9,200 NVIDIA Blackwell B300 GPUs, causing its shares (NASDAQ: AGPU) to rise. This new deal nearly doubles its total signed contract value for 2026 to over $3 billion and is ",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60703667/axe-compute-secures-1-5-billion-ai-deal-powered-by-nvidia",
+      "source": "Benzinga",
+      "published_at": "2026-07-27T16:11:43+00:00",
+      "sentiment": 0.269877,
       "change_pct": -4.99
     },
     {
@@ -1093,19 +1272,6 @@
       "url": "https://finnhub.io/api/news?id=14ccd1b639cd8daa9f6535e68d6f9fa0b6d477939b9bebaef61086e2a3956e01",
       "source": "Yahoo",
       "published_at": "2026-07-28T02:29:02+00:00"
-    },
-    {
-      "id": "av_5617acbca6d4e8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Tesla: I Made A Big Mistake Here (Downgrade) (NASDAQ:TSLA)",
-      "summary": "The author is downgrading Tesla (TSLA) to a Hold rating due to disappointing Q2 '26 earnings, despite strong delivery numbers. The key concerns are a significant drop in gross margin to 16.8% and negative free cash flow, mainly driven by a large increase in AI-related CapEx. Whil",
-      "url": "https://seekingalpha.com/article/4925988-tesla-i-made-a-big-mistake-here-downgrade",
-      "source": "Seeking Alpha",
-      "published_at": "2026-07-27T21:10:37+00:00",
-      "sentiment": 0.131129,
-      "change_pct": -4.99
     },
     {
       "id": "f_5984b7c16037ad",
@@ -1142,19 +1308,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-28T02:08:58+00:00",
       "change_pct": 7.61
-    },
-    {
-      "id": "av_457abde2ab51c9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA’s Huang heads to Capitol Hill for AI talks",
-      "summary": "NVIDIA CEO Jensen Huang is on Capitol Hill for discussions regarding artificial intelligence. This visit highlights the growing importance of AI in policy discussions in Washington.",
-      "url": "https://www.politico.com/live-updates/2026/07/27/congress/nvidias-huang-heads-to-capitol-hill-for-ai-talks-01012902",
-      "source": "Politico",
-      "published_at": "2026-07-27T20:38:20+00:00",
-      "sentiment": 0.13098,
-      "change_pct": -4.99
     },
     {
       "id": "f_e6ef0f4f647c3b",
@@ -1229,6 +1382,19 @@
       "change_pct": -4.99
     },
     {
+      "id": "av_457abde2ab51c9",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA’s Huang heads to Capitol Hill for AI talks",
+      "summary": "NVIDIA CEO Jensen Huang is on Capitol Hill for discussions regarding artificial intelligence. This visit highlights the growing importance of AI in policy discussions in Washington.",
+      "url": "https://www.politico.com/live-updates/2026/07/27/congress/nvidias-huang-heads-to-capitol-hill-for-ai-talks-01012902",
+      "source": "Politico",
+      "published_at": "2026-07-27T20:38:20+00:00",
+      "sentiment": 0.122214,
+      "change_pct": -4.99
+    },
+    {
       "id": "f_07fcb6265287dc",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1253,19 +1419,17 @@
       "change_pct": -4.99
     },
     {
-      "id": "av_6c4fb4fff32ba2",
+      "id": "av_f03174ed0e99b3",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Arista Networks Inc Stock (ANET) Moved Down by 3.56% on Jul 27: A Full Analysis",
-      "summary": "Arista Networks Inc (ANET) stock declined 3.56% on July 27th, underperforming the Technology Equipment sector. This drop is attributed to investor caution ahead of its quarterly earnings report, competitive pressures from integrated AI infrastructure providers, and broader macroe",
-      "url": "https://www.tradingkey.com/news/market-movers/262056720-market-movers-anet-20260727",
-      "source": "TradingKey",
-      "published_at": "2026-07-27T16:16:08+00:00",
-      "sentiment": -0.224344,
-      "change_pct": -4.99,
-      "title_kr": "Arista Networks Inc 주식(ANET)은 7월 27일에 3.56% 하락했습니다: 전체 분석",
-      "summary_kr": "Arista Networks Inc(ANET) 주식은 7월 27일 3.56% 하락하여 기술 장비 부문 실적을 저조했습니다. 이러한 하락은 분기별 수익 보고서를 앞두고 투자자의 주의와 통합 AI 인프라 제공업체의 경쟁 압력에 기인합니다."
+      "title": "MaxLinear Rides on AI Infrastructure Momentum: More Upside Ahead?",
+      "summary": "MaxLinear's infrastructure business is rapidly growing, driven by strong demand for AI networking and optical interconnect solutions. The company's Keystone platform is a significant success, leading to increased revenue and a raised outlook for optical data center revenue. Howev",
+      "url": "https://www.tradingview.com/news/zacks:f2d89409d094b:0-maxlinear-rides-on-ai-infrastructure-momentum-more-upside-ahead/",
+      "source": "TradingView",
+      "published_at": "2026-07-27T16:47:49+00:00",
+      "sentiment": 0.209874,
+      "change_pct": -4.99
     },
     {
       "id": "f_20d26e8851251a",
@@ -1292,6 +1456,21 @@
       "change_pct": -1.22
     },
     {
+      "id": "av_6c4fb4fff32ba2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arista Networks Inc Stock (ANET) Moved Down by 3.56% on Jul 27: A Full Analysis",
+      "summary": "Arista Networks Inc (ANET) stock declined 3.56% on July 27th, underperforming the Technology Equipment sector. This drop is attributed to investor caution ahead of its quarterly earnings report, competitive pressures from integrated AI infrastructure providers, and broader macroe",
+      "url": "https://www.tradingkey.com/news/market-movers/262056720-market-movers-anet-20260727",
+      "source": "TradingKey",
+      "published_at": "2026-07-27T16:16:08+00:00",
+      "sentiment": -0.222254,
+      "change_pct": -4.99,
+      "title_kr": "Arista Networks Inc 주식(ANET)은 7월 27일에 3.56% 하락했습니다: 전체 분석",
+      "summary_kr": "Arista Networks Inc(ANET) 주식은 7월 27일 3.56% 하락하여 기술 장비 부문 실적을 저조했습니다. 이러한 하락은 분기별 수익 보고서를 앞두고 투자자의 주의와 통합 AI 인프라 제공업체의 경쟁 압력에 기인합니다."
+    },
+    {
       "id": "f_099ef4d77f0175",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -1316,6 +1495,21 @@
       "change_pct": 2.13
     },
     {
+      "id": "av_13b5db11b9afd4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Form FWP GOLDMAN SACHS GROUP INC Filed by: GOLDMAN SACHS GROUP INC",
+      "summary": "Goldman Sachs Group Inc. has filed Form FWP for Market Linked Securities, Autocallable with Contingent Coupon with Memory Feature and Contingent Downside Principal at Risk, linked to NVIDIA Corporation common stock, due August 12, 2027. These securities offer a contingent coupon ",
+      "url": "https://www.streetinsider.com/SEC+Filings/Form+FWP+GOLDMAN+SACHS+GROUP+INC+Filed+by%3A+GOLDMAN+SACHS+GROUP+INC/26818255.html",
+      "source": "StreetInsider",
+      "published_at": "2026-07-27T16:16:57+00:00",
+      "sentiment": 0.219352,
+      "change_pct": -4.99,
+      "title_kr": "양식 FWP GOLDMAN SACHS GROUP INC 제출자: GOLDMAN SACHS GROUP INC",
+      "summary_kr": "Goldman Sachs Group Inc.는 2027년 8월 12일 마감일까지 NVIDIA Corporation 보통주와 연결된 메모리 기능이 있는 조건부 쿠폰과 위험에 처한 조건부 하방 원금으로 자동 호출 가능한 시장 연결 증권에 대한 FWP 양식을 제출했습니다."
+    },
+    {
       "id": "f_8e9a1f22b0f49c",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1337,19 +1531,6 @@
       "url": "https://finnhub.io/api/news?id=3c44d7b7d9e91df6b04559f349ab25ff2e0b9f6db4cf7a07ea78be407bc8d4bf",
       "source": "Yahoo",
       "published_at": "2026-07-28T00:57:45+00:00",
-      "change_pct": -4.99
-    },
-    {
-      "id": "av_f03174ed0e99b3",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "MaxLinear Rides on AI Infrastructure Momentum: More Upside Ahead?",
-      "summary": "MaxLinear's infrastructure business is rapidly growing, driven by strong demand for AI networking and optical interconnect solutions. The company's Keystone platform is a significant success, leading to increased revenue and a raised outlook for optical data center revenue. Howev",
-      "url": "https://www.tradingview.com/news/zacks:f2d89409d094b:0-maxlinear-rides-on-ai-infrastructure-momentum-more-upside-ahead/",
-      "source": "TradingView",
-      "published_at": "2026-07-27T16:47:49+00:00",
-      "sentiment": 0.202114,
       "change_pct": -4.99
     },
     {
@@ -1401,21 +1582,6 @@
       "change_pct": -4.99
     },
     {
-      "id": "av_049d8d13144c3c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple overtakes Nvidia as world’s most valuable company as it barrels toward $5T",
-      "summary": "Apple has once again become the world's most valuable company by market capitalization, surpassing Nvidia during intraday trading. The company's stock is approaching a $5 trillion valuation, having already touched $4.9 trillion. This milestone follows a recovery from a brief dip ",
-      "url": "https://9to5mac.com/2026/07/27/apple-reclaims-most-valuable-company-title-from-nvidia-as-it-barrels-toward-5t/",
-      "source": "9to5Mac",
-      "published_at": "2026-07-27T14:13:35+00:00",
-      "sentiment": 0.258535,
-      "change_pct": -4.99,
-      "title_kr": "Apple, 5조 달러 목표 달성하면서 Nvidia를 제치고 세계에서 가장 가치 있는 회사로 선정",
-      "summary_kr": "애플은 장중 거래에서 엔비디아를 제치고 시가총액 기준으로 다시 한번 세계에서 가장 가치 있는 기업이 되었습니다. 회사의 주식 가치는 이미 4조9000억 달러에 도달해 5조 달러에 육박하고 있습니다. 이 이정표는 복구 이후에 이루어졌습니다."
-    },
-    {
       "id": "f_7a06e29511d31c",
       "provider": "finnhub",
       "ticker": "MSFT",
@@ -1428,19 +1594,17 @@
       "change_pct": 1.94
     },
     {
-      "id": "av_13b5db11b9afd4",
+      "id": "av_8fed253e5e6d43",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Form FWP GOLDMAN SACHS GROUP INC Filed by: GOLDMAN SACHS GROUP INC",
-      "summary": "Goldman Sachs Group Inc. has filed Form FWP for Market Linked Securities, Autocallable with Contingent Coupon with Memory Feature and Contingent Downside Principal at Risk, linked to NVIDIA Corporation common stock, due August 12, 2027. These securities offer a contingent coupon ",
-      "url": "https://www.streetinsider.com/SEC+Filings/Form+FWP+GOLDMAN+SACHS+GROUP+INC+Filed+by%3A+GOLDMAN+SACHS+GROUP+INC/26818255.html",
-      "source": "StreetInsider",
-      "published_at": "2026-07-27T16:16:57+00:00",
-      "sentiment": 0.20233,
-      "change_pct": -4.99,
-      "title_kr": "양식 FWP GOLDMAN SACHS GROUP INC 제출자: GOLDMAN SACHS GROUP INC",
-      "summary_kr": "Goldman Sachs Group Inc.는 2027년 8월 12일 마감일까지 NVIDIA Corporation 보통주와 연결된 메모리 기능이 있는 조건부 쿠폰과 위험에 처한 조건부 하방 원금으로 자동 호출 가능한 시장 연결 증권에 대한 FWP 양식을 제출했습니다."
+      "title": "Missed NVIDIA? This AI Infrastructure Stock Has More Room to Run",
+      "summary": "While NVIDIA's stock has seen muted gains recently due to high expectations and intensifying competition, the broader AI infrastructure market still offers strong growth opportunities. Western Digital Corporation (WDC), a key supplier of enterprise storage for AI workloads, is hi",
+      "url": "https://www.tradingview.com/news/zacks:cfdc94578094b:0-missed-nvidia-this-ai-infrastructure-stock-has-more-room-to-run/",
+      "source": "TradingView",
+      "published_at": "2026-07-27T19:09:06+00:00",
+      "sentiment": 0.132029,
+      "change_pct": -4.99
     },
     {
       "id": "f_6e4488c80dddfc",
@@ -1464,19 +1628,6 @@
       "url": "https://finnhub.io/api/news?id=fc5c517f2f2afbfd99c3e2795e3723d9b71fd541a29d6b7d2d9bade5c9226311",
       "source": "Yahoo",
       "published_at": "2026-07-28T00:05:00+00:00",
-      "change_pct": -4.99
-    },
-    {
-      "id": "av_8fed253e5e6d43",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Missed NVIDIA? This AI Infrastructure Stock Has More Room to Run",
-      "summary": "While NVIDIA's stock has seen muted gains recently due to high expectations and intensifying competition, the broader AI infrastructure market still offers strong growth opportunities. Western Digital Corporation (WDC), a key supplier of enterprise storage for AI workloads, is hi",
-      "url": "https://www.tradingview.com/news/zacks:cfdc94578094b:0-missed-nvidia-this-ai-infrastructure-stock-has-more-room-to-run/",
-      "source": "TradingView",
-      "published_at": "2026-07-27T19:09:06+00:00",
-      "sentiment": 0.120999,
       "change_pct": -4.99
     },
     {
@@ -1504,16 +1655,16 @@
       "change_pct": -4.99
     },
     {
-      "id": "av_5a09968a4ecf5e",
+      "id": "av_eaf40d1afac807",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Apple overtakes Nvidia as world's most valuable company",
-      "summary": "Apple has reclaimed its title as the world's most valuable public company, with its market capitalization reaching $4.94 trillion, surpassing Nvidia's $4.83 trillion. This shift reflects investor sentiment favoring companies with more controlled AI spending, a strategy Apple has ",
-      "url": "https://qz.com/apple-reclaims-most-valuable-company-nvidia-072726",
-      "source": "Quartz",
-      "published_at": "2026-07-27T17:53:01+00:00",
-      "sentiment": 0.142243,
+      "title": "China's $500B Memory Giant Isn't Chasing Nvidia. It's Betting on Intel and AMD",
+      "summary": "China's significant memory maker, CXMT Corp, valued at $500 billion, is concentrating on producing DDR5 memory for servers powered by Intel and AMD, rather than competing directly in the high-bandwidth memory (HBM) market dominated by Nvidia. This strategic move aligns with the g",
+      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60708035/chinas-500b-memory-giant-isnt-chasing-nvidia-its-betting-on-intel-and-amd",
+      "source": "Benzinga",
+      "published_at": "2026-07-27T19:07:03+00:00",
+      "sentiment": -0.111187,
       "change_pct": -4.99
     },
     {
@@ -1576,16 +1727,16 @@
       "change_pct": -4.99
     },
     {
-      "id": "av_eaf40d1afac807",
+      "id": "av_5a09968a4ecf5e",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "China's $500B Memory Giant Isn't Chasing Nvidia. It's Betting on Intel and AMD",
-      "summary": "China's significant memory maker, CXMT Corp, valued at $500 billion, is concentrating on producing DDR5 memory for servers powered by Intel and AMD, rather than competing directly in the high-bandwidth memory (HBM) market dominated by Nvidia. This strategic move aligns with the g",
-      "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/07/60708035/chinas-500b-memory-giant-isnt-chasing-nvidia-its-betting-on-intel-and-amd",
-      "source": "Benzinga",
-      "published_at": "2026-07-27T19:07:03+00:00",
-      "sentiment": -0.102461,
+      "title": "Apple overtakes Nvidia as world's most valuable company",
+      "summary": "Apple has reclaimed its title as the world's most valuable public company, with its market capitalization reaching $4.94 trillion, surpassing Nvidia's $4.83 trillion. This shift reflects investor sentiment favoring companies with more controlled AI spending, a strategy Apple has ",
+      "url": "https://qz.com/apple-reclaims-most-valuable-company-nvidia-072726",
+      "source": "Quartz",
+      "published_at": "2026-07-27T17:53:01+00:00",
+      "sentiment": 0.135868,
       "change_pct": -4.99
     },
     {
@@ -1599,21 +1750,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-27T23:12:25+00:00",
       "change_pct": -4.99
-    },
-    {
-      "id": "av_4324cf11e541c2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Incyte Corporation stock hits 52-week high at 119.6 USD",
-      "summary": "Incyte Corporation's stock reached a 52-week high of $119.60, reflecting a 68.7% increase over the past year and investor confidence in its performance. The company, with a market cap of $23.74 billion, boasts a P/E ratio of 16.68 and 21.48% revenue growth. Recent positive develo",
-      "url": "https://www.investing.com/news/company-news/incyte-corporation-stock-hits-52week-high-at-1196-usd-93CH-4814395",
-      "source": "Investing.com",
-      "published_at": "2026-07-27T14:24:08+00:00",
-      "sentiment": 0.219764,
-      "change_pct": -4.99,
-      "title_kr": "Incyte Corporation 주가는 119.6 USD로 52주 최고치를 기록했습니다.",
-      "summary_kr": "Incyte Corporation의 주가는 52주 최고가인 119.60달러에 도달했는데, 이는 지난 한 해 동안 68.7% 상승한 것과 실적에 대한 투자자의 신뢰를 반영한 ​​것입니다. 시가총액이 237억 4천만 달러인 이 회사는 16.68의 P/E 비율과 21.48%의 매출 성장을 자랑합니다. 답장"
     },
     {
       "id": "f_b5b075674767ca",
@@ -1699,19 +1835,6 @@
       "change_pct": 2.13
     },
     {
-      "id": "av_8503771f66d899",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "ARM to Post Q1 Earnings: Should the Stock Be in Your Portfolio Now?",
-      "summary": "ARM Holdings plc is set to report its first-quarter fiscal 2027 results on July 29, with analysts predicting a significant year-over-year increase in both earnings and revenues, though the company's model does not conclusively predict an earnings beat. Despite strong fundamentals",
-      "url": "https://www.tradingview.com/news/zacks:d252b753f094b:0-arm-to-post-q1-earnings-should-the-stock-be-in-your-portfolio-now/",
-      "source": "TradingView",
-      "published_at": "2026-07-27T16:40:55+00:00",
-      "sentiment": 0.1364,
-      "change_pct": -4.99
-    },
-    {
       "id": "f_dfd46bcebf6644",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1721,19 +1844,6 @@
       "url": "https://finnhub.io/api/news?id=423d131ae95f24901187032737ba800bc9dedc98821d956d9b2f10f50fb1942d",
       "source": "Yahoo",
       "published_at": "2026-07-27T22:03:03+00:00",
-      "change_pct": -4.99
-    },
-    {
-      "id": "av_2725f0c6e36e8e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia Stock Slumps After Data-Center Report",
-      "summary": "Nvidia's stock dropped 5% after a Wall Street Journal report indicated the company is discussing a $250 billion financial backstop for a massive OpenAI data-center project. This news raised investor concerns about circular financing within the AI economy and the extent of Nvidia'",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/nvidia-stock-slumps-after-data-center-report-i8YSwB1phOr8Gs1EtmNU",
-      "source": "WSJ",
-      "published_at": "2026-07-27T20:44:33+00:00",
-      "sentiment": 0.030072,
       "change_pct": -4.99
     },
     {
@@ -1869,6 +1979,19 @@
       "change_pct": -4.99
     },
     {
+      "id": "av_8503771f66d899",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "ARM to Post Q1 Earnings: Should the Stock Be in Your Portfolio Now?",
+      "summary": "ARM Holdings plc is set to report its first-quarter fiscal 2027 results on July 29, with analysts predicting a significant year-over-year increase in both earnings and revenues, though the company's model does not conclusively predict an earnings beat. Despite strong fundamentals",
+      "url": "https://www.tradingview.com/news/zacks:d252b753f094b:0-arm-to-post-q1-earnings-should-the-stock-be-in-your-portfolio-now/",
+      "source": "TradingView",
+      "published_at": "2026-07-27T16:40:55+00:00",
+      "sentiment": 0.117706,
+      "change_pct": -4.99
+    },
+    {
       "id": "f_504ab2547c27bf",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1914,6 +2037,19 @@
       "url": "https://finnhub.io/api/news?id=f97a226c411d85840c6ecd2d384d63daf81601f51e0133bef5e94bebbb874413",
       "source": "Yahoo",
       "published_at": "2026-07-27T21:17:18+00:00",
+      "change_pct": -4.99
+    },
+    {
+      "id": "av_2725f0c6e36e8e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia Stock Slumps After Data-Center Report",
+      "summary": "Nvidia's stock dropped 5% after a Wall Street Journal report indicated the company is discussing a $250 billion financial backstop for a massive OpenAI data-center project. This news raised investor concerns about circular financing within the AI economy and the extent of Nvidia'",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026/card/nvidia-stock-slumps-after-data-center-report-i8YSwB1phOr8Gs1EtmNU",
+      "source": "WSJ",
+      "published_at": "2026-07-27T20:44:33+00:00",
+      "sentiment": 0.01138,
       "change_pct": -4.99
     },
     {
@@ -2010,21 +2146,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-27T20:46:40+00:00",
       "change_pct": -4.99
-    },
-    {
-      "id": "av_f285242fa3528f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "STMicroelectronics Q2 FY 2026 Earnings Climb on Cloud AI and Satellite Strength",
-      "summary": "STMicroelectronics reported strong Q2 FY 2026 earnings with revenue up 26% year-on-year, driven by broad recovery across automotive, industrial, and communications, alongside accelerating AI data center business. The company raised its multi-year data center revenue ambition and ",
-      "url": "https://futurumgroup.com/insights/stmicroelectronics-q2-fy-2026-earnings-climb-on-cloud-ai-and-satellite-strength/",
-      "source": "The Futurum Group",
-      "published_at": "2026-07-27T14:41:44+00:00",
-      "sentiment": 0.151783,
-      "change_pct": -4.99,
-      "title_kr": "STMicroelectronics 2026년 2분기 실적, 클라우드 AI 및 위성 강점으로 상승",
-      "summary_kr": "ST마이크로일렉트로닉스(STMicroelectronics)는 AI 데이터센터 사업 가속화와 자동차, 산업, 통신 전반의 광범위한 회복에 힘입어 매출이 전년 동기 대비 26% 증가하는 2026 회계연도 2분기 실적을 발표했습니다. 회사는 다년간의 데이터 센터 r을 키웠습니다."
     },
     {
       "id": "f_481b12fc7cfc7a",
@@ -2147,6 +2268,19 @@
       "change_pct": -0.22
     },
     {
+      "id": "av_308248c92faaed",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SciSparc shifts focus to agentic AI market",
+      "summary": "SciSparc Ltd. (NASDAQ:SPRC) announced its decision to shift its strategic focus towards the agentic artificial intelligence (AI) market. The company plans to establish a Scientific Advisory Board dedicated to AI and cybersecurity, and is currently evaluating opportunities and eng",
+      "url": "https://www.investing.com/news/company-news/scisparc-shifts-focus-to-agentic-ai-market-93CH-4814104",
+      "source": "Investing.com",
+      "published_at": "2026-07-27T15:51:42+00:00",
+      "sentiment": 0.114847,
+      "change_pct": -4.99
+    },
+    {
       "id": "f_dc9efcd77761d0",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -2253,21 +2387,6 @@
       "change_pct": -5.17
     },
     {
-      "id": "av_a1cc31dc730cb7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Can Microsoft Q4 Earnings Boost AI ETFs?",
-      "summary": "Microsoft is set to report its Q4 fiscal 2026 earnings, with Azure's performance and AI spending under close scrutiny. Despite being a major player in AI, Microsoft's stock has underperformed compared to Nvidia, leading analysts to watch its earnings for impact on both the compan",
-      "url": "https://ca.finance.yahoo.com/news/microsoft-q4-earnings-boost-ai-150000206.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-07-27T15:09:27+00:00",
-      "sentiment": -0.122414,
-      "change_pct": -4.99,
-      "title_kr": "Microsoft 4분기 실적이 AI ETF를 강화할 수 있습니까?",
-      "summary_kr": "Microsoft는 Azure의 성능과 AI 지출을 면밀히 조사하면서 2026 회계연도 4분기 수익을 보고할 예정입니다. AI 분야의 주요 플레이어임에도 불구하고 Microsoft의 주가는 Nvidia에 비해 저조하여 분석가들이 임팩트에 대한 수익을 지켜보고 있습니다."
-    },
-    {
       "id": "f_852696c61a9eba",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -2337,19 +2456,6 @@
       "change_pct": 2.13
     },
     {
-      "id": "av_308248c92faaed",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SciSparc shifts focus to agentic AI market",
-      "summary": "SciSparc Ltd. (NASDAQ:SPRC) announced its decision to shift its strategic focus towards the agentic artificial intelligence (AI) market. The company plans to establish a Scientific Advisory Board dedicated to AI and cybersecurity, and is currently evaluating opportunities and eng",
-      "url": "https://www.investing.com/news/company-news/scisparc-shifts-focus-to-agentic-ai-market-93CH-4814104",
-      "source": "Investing.com",
-      "published_at": "2026-07-27T15:51:42+00:00",
-      "sentiment": 0.100445,
-      "change_pct": -4.99
-    },
-    {
       "id": "f_6a94db18a9d6e3",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2384,19 +2490,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-27T19:48:41+00:00",
       "change_pct": 1.94
-    },
-    {
-      "id": "av_38aa861274b0a4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lattice Semiconductor Corp (LSCC) Earnings Forecast: Future EPS & Revenue Growth Estimates",
-      "summary": "The article provides an earnings forecast for Lattice Semiconductor Corp (LSCC), highlighting its current earnings forecast score of 8.13 and ranking 30th in its industry. Analysts have set an average price target of $80.00 for LSCC, with most recommending a \"Buy\" trend. Key fina",
-      "url": "https://www.tradingkey.com/markets/stocks/lscc/earnings",
-      "source": "TradingKey",
-      "published_at": "2026-07-27T14:17:46+00:00",
-      "sentiment": 0.135391,
-      "change_pct": -4.99
     },
     {
       "id": "f_26397f83a6eb75",
@@ -2468,106 +2561,10 @@
       "source": "Yahoo",
       "published_at": "2026-07-27T19:33:09+00:00",
       "change_pct": -5.17
-    },
-    {
-      "id": "f_c77325711cf42e",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Why Microsoft Stock Could Stay Under Pressure Despite Bullish Q4 Outlook",
-      "summary": "Microsoft appears well-positioned to deliver another solid quarter, supported by resilient cloud and AI demand.",
-      "url": "https://finnhub.io/api/news?id=cd2eba619aab308fd6b883b8874b5ac8d195c290a940b12377244781f733fa3f",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T19:30:58+00:00",
-      "change_pct": 2.13
-    },
-    {
-      "id": "f_72d11b52f18b01",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Salesforce Won a $1.6 Billion Federal AI Contract on Friday. Here's What It Says About Agentforce Demand.",
-      "summary": "The Department of Veterans Affairs just handed the software giant a $1.6 billion vote of confidence in its AI agents.",
-      "url": "https://finnhub.io/api/news?id=fd2236b65559844181cab57a1954e158dea5dbaa00a976038f711d55b2c26db7",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T19:29:00+00:00",
-      "change_pct": -4.99
-    },
-    {
-      "id": "f_f0a2305613337e",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Gene Munster: The make-or-break signal for big tech this week",
-      "summary": "Big Tech names like Microsoft, Meta, Apple and Amazon report this week, and Gene Munster breaks down the one earnings signal that could determine whether the AI trade accelerates or stalls — plus why he still believes we’re only in the third inning of AI and how retail investors should position now.",
-      "url": "https://finnhub.io/api/news?id=916c9b2a4bdcfc3b07d217622b05d03590b411c7c056ea6e043f00c7a42d02ef",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T19:27:59+00:00",
-      "change_pct": -0.22
-    },
-    {
-      "id": "f_7645759169860d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Smart CEOs, Bad Returns: Avoid Hyperscaler AI Capex Beneficiaries Like Nvidia",
-      "summary": "AI hyperscaler capex faces 14 headwinds: cash flow strain, weak enterprise ROI, falling LLM pricing, and more. Click for how this affects Nvidia Corporation (NVDA).",
-      "url": "https://finnhub.io/api/news?id=291b6f9c2f0a82d626a4695fd8988b23d1ac4365041e91ed625c399048e5c384",
-      "source": "SeekingAlpha",
-      "published_at": "2026-07-27T19:23:41+00:00",
-      "change_pct": -4.99
-    },
-    {
-      "id": "f_2d503b32db4b0f",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia and SpaceX Just Joined a New AI Security Alliance. Here's What It Means for Both Stocks.",
-      "summary": "Nvidia is rallying big tech around a new security mission.",
-      "url": "https://finnhub.io/api/news?id=1906e7e42f9acf20b657336250fe9ba599b9eb5066fedc7a66785e3753a4f02c",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T19:22:01+00:00",
-      "change_pct": -4.99
-    },
-    {
-      "id": "f_ef419162e50d99",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia Forms AI Security Alliance After Hugging Face Incident",
-      "summary": "Nvidia joined Adobe, CrowdStrike, Dell and Hugging Face to develop shared tools for securing autonomous AI systems.",
-      "url": "https://finnhub.io/api/news?id=a69fb8ce8d303f063f7a1f370d9785c3b55fcf864b2e672c9158103a10a3f876",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T19:20:28+00:00",
-      "change_pct": -4.99
-    },
-    {
-      "id": "f_2304d3716429ea",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Speed Kills and What That Means for Microsoft and Meta on July 29",
-      "summary": "Meta and Microsoft both report on July 29, but their AI bets pay out on completely different timelines, and that gap could decide which stock gets punished and which gets rewarded before October.",
-      "url": "https://finnhub.io/api/news?id=574b5d80a46877652fb08122290fc7bd98605439c93874ccbcec59d05628a907",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T19:20:23+00:00",
-      "change_pct": -0.22
-    },
-    {
-      "id": "f_e424bfcf9227c8",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Prediction: This Is How SpaceX Stock Will Do After Aug. 4",
-      "summary": "The space stock's struggles could still be in their early stages.",
-      "url": "https://finnhub.io/api/news?id=99d7137bdd6475a6a499da3cac3c5b2cdb9a4e51cc09d497810aa930b93582ab",
-      "source": "Yahoo",
-      "published_at": "2026-07-27T19:20:00+00:00",
-      "change_pct": -4.99
     }
   ],
-  "fetched_at": "2026-07-28T07:22:56.856703+00:00",
+  "fetched_at": "2026-07-28T10:02:40.896925+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-28T07:22:59.218115+00:00",
+  "translated_at": "2026-07-28T10:02:43.778568+00:00",
   "translation_engine": "google-parallel"
 }
