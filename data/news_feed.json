@@ -602,6 +602,19 @@
       "summary_kr": "AMZN은 투자자들이 AI 지출과 마진을 비교하는 가운데 AWS 성장, Prime Day 시기 및 광고 모멘텀에 초점을 맞춰 2026년 2분기 수익을 달성할 예정입니다."
     },
     {
+      "id": "f_9c3f6de64ce12f",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "earnings",
+      "title": "SK Hynix Earnings Could Decide Whether Wall Street Has Misread The AI Memory Selloff",
+      "summary": "SK Hynix earnings could determine whether Wall Street misread the AI memory selloff as demand fears mount over China and HBM competition.",
+      "url": "https://finnhub.io/api/news?id=9d6c11f250e48b86c6a62366bf521d78e7cad6763782e80d8438b263a20a033b",
+      "source": "Benzinga",
+      "published_at": "2026-07-28T16:41:21+00:00",
+      "title_kr": "SK 하이닉스 수익은 월스트리트가 AI 메모리 매도를 잘못 읽었는지 여부를 결정할 수 있습니다",
+      "summary_kr": "SK하이닉스의 실적은 중국과 HBM 경쟁에 대한 수요 우려가 커지면서 월스트리트가 AI 메모리 매도를 잘못 읽었는지 여부를 결정할 수 있습니다."
+    },
+    {
       "id": "f_4c07bd538ee9fd",
       "provider": "finnhub",
       "ticker": "META",
@@ -669,20 +682,6 @@
       "change_pct": -0.08,
       "title_kr": "주요 정오 뉴스: 미지근한 3분기 판매 가이던스로 코닝 주가 하락; 코카콜라, EPS 증가, 수익 전망, 주가 상승",
       "summary_kr": "다우존스 산업평균지수와 S&P 500은 화요일 오전 거래에서 상승했고, 나스드는 상승했다."
-    },
-    {
-      "id": "f_8be4629028a695",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "earnings",
-      "title": "Here’s Why I Refuse To Stop Buying Alphabet After Its Earnings ‘Correction’",
-      "summary": "Alphabet just posted record earnings and the market punished it anyway. Here is the contrarian case for why that sell-off is the exact moment to load up on shares.",
-      "url": "https://finnhub.io/api/news?id=a9a605e6fa61e91fb7b2dcc13aba2460e8ae78afb96ee5cfd2aedd36c5a44b0e",
-      "source": "Yahoo",
-      "published_at": "2026-07-28T15:54:37+00:00",
-      "change_pct": 2.19,
-      "title_kr": "내가 수익 '수정' 이후 알파벳 구매 중단을 거부하는 이유는 다음과 같습니다.",
-      "summary_kr": "알파벳은 방금 기록적인 수익을 올렸고 시장은 어쨌든 이를 처벌했습니다. 매도가 주식에 쌓이는 정확한 순간인 이유에 대한 반대 사례는 다음과 같습니다."
     },
     {
       "id": "f_9163fc70171f2f",
@@ -759,7 +758,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-ceo-jensen-huang-urges-185108422.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-28T19:08:23+00:00",
-      "sentiment": 0.406611,
+      "sentiment": 0.41078,
       "change_pct": 0.25
     },
     {
@@ -772,10 +771,36 @@
       "url": "https://pluang.com/en/news-feed/soxx-dorongan-duv-cina-momen-deepseek-2-0",
       "source": "Pluang",
       "published_at": "2026-07-28T15:11:30+00:00",
-      "sentiment": -0.736504,
+      "sentiment": -0.747425,
       "change_pct": 0.25,
       "title_kr": "중국 경쟁 및 AI 지출 위험 증가로 iShares Semiconductor ETF에 대한 등급 매도",
       "summary_kr": "Agar Capital은 중국 경쟁으로 인한 위험 증가와 AI 관련 자본 지출의 잠재적 감소로 인해 iShares Semiconductor ETF(SOXX)에 대해 매도 등급을 발행했습니다. 중국의 반도체 발전이 즉각적인 위협은 아니지만,"
+    },
+    {
+      "id": "av_8c83fb56c74b1a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NXP Semiconductors Q2 Earnings Beat Expectations",
+      "summary": "NXP Semiconductors reported strong Q2 2026 results, surpassing analyst expectations with adjusted EPS of $3.61 and a 19% year-over-year revenue increase to $3.5 billion. The company also improved its adjusted gross margin to 58% and provided an optimistic outlook for Q3 with proj",
+      "url": "https://intellectia.ai/news/stock/nxp-semiconductors-q2-earnings-beat-expectations",
+      "source": "Intellectia AI",
+      "published_at": "2026-07-28T21:52:28+00:00",
+      "sentiment": 0.330757,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_f3ba016a572c11",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NXP Semiconductors (NASDAQ:NXPI) Q2: Beats On Revenue But Stock Drops",
+      "summary": "NXP Semiconductors reported strong Q2 CY2026 results, beating Wall Street's revenue and profit expectations with sales up 19.5% year-on-year. The company provided better-than-expected revenue and EPS guidance for Q3 CY2026, driven by growth in all end markets, particularly Softwa",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nxp-semiconductors-nasdaq-nxpi-q2-204813815.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T20:48:28+00:00",
+      "sentiment": 0.32662,
+      "change_pct": 0.25
     },
     {
       "id": "av_4922fda2890a90",
@@ -787,7 +812,7 @@
       "url": "https://www.investing.com/news/earnings/cts-corp-earnings-beat-by-014-revenue-topped-estimates-4816692",
       "source": "Investing.com",
       "published_at": "2026-07-28T13:11:31+00:00",
-      "sentiment": 0.549743,
+      "sentiment": 0.538996,
       "change_pct": 0.25,
       "title_kr": "CTS Corp 수익이 0.14달러 상회하고 수익이 예상치를 상회했습니다.",
       "summary_kr": "CTS Corp(NYSE: CTS)는 EPS 0.74달러, 애널리스트 추정치를 0.14달러 상회하고 매출 예측치 1억 4480만 달러를 넘어 강력한 2분기 실적을 발표했습니다. 또한 회사는 분석가 컨센서스를 초과하는 $2.55-$2.70의 낙관적인 FY 2026 EPS 지침을 제공했습니다."
@@ -802,25 +827,10 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3499198/if-youd-invested-1000-in-smh-10-years-ago-heres-how-much-youd-have-today/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-28T13:10:16+00:00",
-      "sentiment": 0.749026,
+      "sentiment": 0.725141,
       "change_pct": 0.25,
       "title_kr": "10년 전에 SMH에 1,000달러를 투자했다면 현재 얼마를 갖게 될지 알려드립니다.",
       "summary_kr": "VanEck Semiconductor ETF(SMH)는 AI 붐에 힘입어 지난 10년 동안 괄목할 만한 성장을 보였으며, 배당금 재투자를 통해 1,000달러 투자를 약 20,300달러로 전환했습니다. 이 35%의 연간 수익률은 S&P 500과 I를 크게 능가했습니다."
-    },
-    {
-      "id": "av_8cb7337bf872d6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Nvidia (NVDA), Intel (INTC) and Turtle Beach (TBCH)",
-      "summary": "This article summarizes analyst ratings for three technology companies: Nvidia (NVDA), Intel (INTC), and Turtle Beach (TBCH). Nvidia received a Strong Buy consensus, Intel a Hold, and Turtle Beach a Strong Buy, with specific price targets and analyst success rates detailed for ea",
-      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/3503310/analysts-have-conflicting-sentiments-on-these-technology-companies-nvidia-nvda-intel-intc-and-turtle-beach-tbch/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-28T14:40:48+00:00",
-      "sentiment": 0.414958,
-      "change_pct": 0.25,
-      "title_kr": "분석가들은 Nvidia(NVDA), Intel(INTC) 및 Turtle Beach(TBCH)와 같은 기술 회사에 대해 상반된 감정을 가지고 있습니다.",
-      "summary_kr": "이 기사에서는 Nvidia(NVDA), Intel(INTC), Turtle Beach(TBCH) 등 세 기술 회사에 대한 분석가 등급을 요약합니다. Nvidia는 구체적인 가격 목표와 분석가의 성공을 통해 Strong Buy 컨센서스, Intel은 보류, Turtle Beach는 Strong Buy를 받았습니다."
     },
     {
       "id": "av_463a3090c6f6fb",
@@ -832,10 +842,25 @@
       "url": "https://www.tradingview.com/news/zacks:2976f5693094b:0-eaton-vs-emerson-which-electrification-stock-is-the-better-buy/",
       "source": "TradingView",
       "published_at": "2026-07-28T17:37:41+00:00",
-      "sentiment": 0.3333,
+      "sentiment": 0.330936,
       "change_pct": 0.25,
       "title_kr": "Eaton 대 Emerson: 어떤 전기화 주식이 더 나은 구매입니까?",
       "summary_kr": "이 기사에서는 Eaton(ETN)과 Emerson(EMR)을 전기화 주식으로 비교하여 펀더멘털, 성장 동인 및 재무 성과를 분석합니다. 이는 전력 관리, 그리드 현대화, 데이터 센터에 대한 Eaton의 초점을 전략적으로 강조합니다."
+    },
+    {
+      "id": "av_8cb7337bf872d6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Analysts Have Conflicting Sentiments on These Technology Companies: Nvidia (NVDA), Intel (INTC) and Turtle Beach (TBCH)",
+      "summary": "This article summarizes analyst ratings for three technology companies: Nvidia (NVDA), Intel (INTC), and Turtle Beach (TBCH). Nvidia received a Strong Buy consensus, Intel a Hold, and Turtle Beach a Strong Buy, with specific price targets and analyst success rates detailed for ea",
+      "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/3503310/analysts-have-conflicting-sentiments-on-these-technology-companies-nvidia-nvda-intel-intc-and-turtle-beach-tbch/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-28T14:40:48+00:00",
+      "sentiment": 0.396531,
+      "change_pct": 0.25,
+      "title_kr": "분석가들은 Nvidia(NVDA), Intel(INTC) 및 Turtle Beach(TBCH)와 같은 기술 회사에 대해 상반된 감정을 가지고 있습니다.",
+      "summary_kr": "이 기사에서는 Nvidia(NVDA), Intel(INTC), Turtle Beach(TBCH) 등 세 기술 회사에 대한 분석가 등급을 요약합니다. Nvidia는 구체적인 가격 목표와 분석가의 성공을 통해 Strong Buy 컨센서스, Intel은 보류, Turtle Beach는 Strong Buy를 받았습니다."
     },
     {
       "id": "av_80329daf29cb70",
@@ -847,7 +872,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/textron-inc-q2-2026-earnings-173538035.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-28T17:35:00+00:00",
-      "sentiment": 0.321012,
+      "sentiment": 0.314713,
       "change_pct": 0.25,
       "title_kr": "Textron Inc. 2026년 2분기 실적 요약",
       "summary_kr": "Textron Inc.는 2026년 2분기 실적에 대해 논의하면서 항공우주 및 방위에 집중하기 위해 산업 부문을 분사할 계획을 강조했습니다. 회사는 항공 성능에 영향을 미치는 제조 비효율성과 공급망 문제를 해결하는 동시에 Bell의 군사"
@@ -862,40 +887,10 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/chipotle-reports-wednesday-stock-30-170700217.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-28T17:07:24+00:00",
-      "sentiment": 0.311106,
+      "sentiment": 0.316836,
       "change_pct": 0.25,
       "title_kr": "Chipotle은 수요일 주가가 최고치보다 30% 낮고 35명의 분석가가 30% 더 높다고 보고했습니다.",
       "summary_kr": "Chipotle Mexican Grill은 7월 29일 수요일에 2분기 실적을 발표할 예정이며, 분석가들이 평균 30% 높은 목표 가격을 제시했음에도 불구하고 현재 주가는 52주 최고치보다 약 30% 낮은 수준으로 거래되고 있습니다. 투자자들은 거래 성장을 면밀히 관찰할 것입니다."
-    },
-    {
-      "id": "av_e7bf6fdd173a04",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "All eyes on KLA earnings as AI chip buildout tests valuation",
-      "summary": "KLA Corporation is reporting its fiscal fourth-quarter results, with investors closely watching to see if the semiconductor equipment maker can justify its high valuation amidst increasing demand for chip-manufacturing tools driven by AI. Analysts anticipate EPS of $1.00 and reve",
-      "url": "https://www.investing.com/news/earnings/all-eyes-on-kla-earnings-as-ai-chip-buildout-tests-valuation-93CH-4817704",
-      "source": "Investing.com",
-      "published_at": "2026-07-28T16:16:20+00:00",
-      "sentiment": 0.324988,
-      "change_pct": 0.25,
-      "title_kr": "AI 칩 구축 테스트 가치 평가로 KLA 수익에 모든 관심이 집중되고 있습니다.",
-      "summary_kr": "KLA Corporation은 회계연도 4분기 실적을 보고하고 있으며, 투자자들은 AI가 주도하는 칩 제조 도구에 대한 수요가 증가하는 가운데 반도체 장비 제조업체가 높은 가치 평가를 정당화할 수 있는지 면밀히 관찰하고 있습니다. 분석가들은 E를 예상합니다."
-    },
-    {
-      "id": "av_e58bc289bcbfa9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Synopsys and NVIDIA advance agentic AI for chip design",
-      "summary": "Synopsys and NVIDIA are collaborating to advance agentic AI for chip design, introducing fully autonomous, long-running agentic capabilities for verification, AMS design, and thermal analysis. These workflows leverage NVIDIA Nemotron, OpenShell, and AgentEngineer technology, prom",
-      "url": "https://www.engineering.com/synopsys-and-nvidia-advance-agentic-ai-for-chip-design/",
-      "source": "Engineering.com",
-      "published_at": "2026-07-28T12:46:06+00:00",
-      "sentiment": 0.405136,
-      "change_pct": 0.25,
-      "title_kr": "칩 설계를 위한 Synopsys 및 NVIDIA 고급 에이전트 AI",
-      "summary_kr": "Synopsys와 NVIDIA는 검증, AMS 설계 및 열 분석을 위한 완전 자율적이고 장기 실행되는 에이전트 기능을 도입하여 칩 설계를 위한 에이전트 AI를 발전시키기 위해 협력하고 있습니다. 이러한 워크플로우는 NVIDIA Nemotron, OpenShell 및 AgentEngin을 활용합니다."
     },
     {
       "id": "av_be50dded828164",
@@ -907,10 +902,25 @@
       "url": "https://www.the-leader.com/story/business/manufacturing/2026/07/28/corning-reports-q2-2026-results-entering-new-phase-of-accelerated-growth/91075633007/",
       "source": "Corning Leader",
       "published_at": "2026-07-28T15:38:05+00:00",
-      "sentiment": 0.326241,
+      "sentiment": 0.348565,
       "change_pct": 0.25,
       "title_kr": "코닝, 광학, 태양광 성장에 힘입어 2분기 실적 추정치 최고 기록",
       "summary_kr": "코닝은 2026년 2분기에 AI 및 태양광 제품에 대한 높은 수요에 힘입어 핵심 ​​매출이 17% 증가한 47억 4천만 달러를 기록하며 9분기 연속 전년 대비 성장을 기록했다고 발표했습니다. 회사는 또한 다년간 수십억 달러 규모의 파트너십을 발표했습니다."
+    },
+    {
+      "id": "av_e58bc289bcbfa9",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Synopsys and NVIDIA advance agentic AI for chip design",
+      "summary": "Synopsys and NVIDIA are collaborating to advance agentic AI for chip design, introducing fully autonomous, long-running agentic capabilities for verification, AMS design, and thermal analysis. These workflows leverage NVIDIA Nemotron, OpenShell, and AgentEngineer technology, prom",
+      "url": "https://www.engineering.com/synopsys-and-nvidia-advance-agentic-ai-for-chip-design/",
+      "source": "Engineering.com",
+      "published_at": "2026-07-28T12:46:06+00:00",
+      "sentiment": 0.416722,
+      "change_pct": 0.25,
+      "title_kr": "칩 설계를 위한 Synopsys 및 NVIDIA 고급 에이전트 AI",
+      "summary_kr": "Synopsys와 NVIDIA는 검증, AMS 설계 및 열 분석을 위한 완전 자율적이고 장기 실행되는 에이전트 기능을 도입하여 칩 설계를 위한 에이전트 AI를 발전시키기 위해 협력하고 있습니다. 이러한 워크플로우는 NVIDIA Nemotron, OpenShell 및 AgentEngin을 활용합니다."
     },
     {
       "id": "av_6cd53e618feb4a",
@@ -922,10 +932,25 @@
       "url": "https://www.bloomberg.com/news/articles/2026-07-28/moonshot-seeks-more-nvidia-chips-for-next-ai-model-report-says",
       "source": "Bloomberg",
       "published_at": "2026-07-28T13:08:52+00:00",
-      "sentiment": 0.384064,
+      "sentiment": 0.391173,
       "change_pct": 0.25,
       "title_kr": "Moonshot은 다음 AI 모델을 위해 더 많은 Nvidia 칩을 찾고 있다고 보고서는 말합니다.",
       "summary_kr": "중국 AI 스타트업 Moonshot AI는 곧 출시될 Kimi K4 모델을 훈련하기 위해 Nvidia의 고급 Blackwell 칩을 더 많이 인수하려고 하는 것으로 알려졌습니다. 이러한 움직임은 미국의 수출 통제 제한에도 불구하고 Nvidia 칩을 사용하는 이전 Kimi K3 모델의 훈련에 따른 것입니다."
+    },
+    {
+      "id": "av_e7bf6fdd173a04",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "All eyes on KLA earnings as AI chip buildout tests valuation",
+      "summary": "KLA Corporation is reporting its fiscal fourth-quarter results, with investors closely watching to see if the semiconductor equipment maker can justify its high valuation amidst increasing demand for chip-manufacturing tools driven by AI. Analysts anticipate EPS of $1.00 and reve",
+      "url": "https://www.investing.com/news/earnings/all-eyes-on-kla-earnings-as-ai-chip-buildout-tests-valuation-93CH-4817704",
+      "source": "Investing.com",
+      "published_at": "2026-07-28T16:16:20+00:00",
+      "sentiment": 0.303704,
+      "change_pct": 0.25,
+      "title_kr": "AI 칩 구축 테스트 가치 평가로 KLA 수익에 모든 관심이 집중되고 있습니다.",
+      "summary_kr": "KLA Corporation은 회계연도 4분기 실적을 보고하고 있으며, 투자자들은 AI가 주도하는 칩 제조 도구에 대한 수요가 증가하는 가운데 반도체 장비 제조업체가 높은 가치 평가를 정당화할 수 있는지 면밀히 관찰하고 있습니다. 분석가들은 E를 예상합니다."
     },
     {
       "id": "av_87a205e28e54c7",
@@ -937,7 +962,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262059040-market-movers-tsm-20260728",
       "source": "TradingKey",
       "published_at": "2026-07-28T14:41:23+00:00",
-      "sentiment": -0.334575,
+      "sentiment": -0.324035,
       "change_pct": 0.25,
       "title_kr": "7월 28일 Taiwan Semiconductor Manufacturing Co Ltd (TSM) 주식이 3.61% 하락했습니다: 어떤 신호를 보내는가?",
       "summary_kr": "Taiwan Semiconductor Manufacturing Co Ltd(TSM) 주식은 지정학적 우려, 수출 통제 제한 가능성, 금리 인상이 자본 지출에 미치는 영향으로 인해 3.61% 하락했습니다. MACD 및 Williams %R과 같은 기술 지표는 다음과 같습니다."
@@ -952,10 +977,53 @@
       "url": "https://ca.finance.yahoo.com/news/siteone-reports-earnings-tomorrow-expect-150102125.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-07-28T15:00:58+00:00",
-      "sentiment": 0.320806,
+      "sentiment": 0.307055,
       "change_pct": 0.25,
       "title_kr": "SiteOne(SITE), 내일 수익 보고: 예상되는 사항",
       "summary_kr": "SiteOne Landscape Supply(NYSE:SITE)는 이번 주 수요일에 수익을 발표할 예정이며 분석가들은 전년 대비 5.5%의 수익 성장을 예상하고 있습니다. 회사는 지난 분기 예상 수익을 달성하지 못했고, 주식은 산업 분야의 경쟁사보다 실적이 저조했습니다."
+    },
+    {
+      "id": "av_ac4f7693b5fb20",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "How Corning (GLW) is Shaping Data Center Technology from Copper to Fiber",
+      "summary": "O'Keeffe Stevens Advisory's Q2 2026 investor letter highlights Corning Incorporated (GLW) and its role in the evolving data center technology landscape. Corning has secured significant partnerships with companies like Nvidia, Amazon, and Meta to supply optical fiber, cable, and c",
+      "url": "https://uk.finance.yahoo.com/news/corning-glw-shaping-data-center-144744173.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-28T14:47:00+00:00",
+      "sentiment": 0.30647,
+      "change_pct": 0.25,
+      "title_kr": "Corning(GLW)이 구리에서 광섬유에 이르기까지 데이터 센터 기술을 형성하는 방법",
+      "summary_kr": "O'Keeffe Stevens Advisory의 2026년 2분기 투자자 서한에서는 Corning Incorporated(GLW)와 진화하는 데이터 센터 기술 환경에서의 역할을 강조합니다. 코닝은 Nvidia, Amazon, Meta 등의 기업과 긴밀한 파트너십을 확보하여 광학 제품을 공급하고 있습니다."
+    },
+    {
+      "id": "av_b3696dbb1bafaf",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advanced Micro Devices vs. Arista Networks: Which Tech Stock Is a Better Buy in 2026?",
+      "summary": "This article compares Advanced Micro Devices (AMD) and Arista Networks (ANET), two prominent tech stocks, to determine which is a better investment in 2026. While both play critical roles in the AI and data center ecosystem and show strong financials, AMD is favored due to its im",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ANET/pressreleases/3512625/advanced-micro-devices-vs-arista-networks-which-tech-stock-is-a-better-buy-in-2026/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-28T22:18:10+00:00",
+      "sentiment": 0.111023,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_7354ec10edaf1b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Illinois Tool Works (NYSE:ITW) Surprises With Q2 CY2026 Sales",
+      "summary": "Illinois Tool Works (NYSE:ITW) reported strong Q2 CY2026 results, exceeding Wall Street's revenue and EPS expectations with sales up 6.1% year-on-year to $4.30 billion and GAAP profit at $2.84 per share. The company demonstrated solid operational performance with a 26.7% operatin",
+      "url": "https://stockstory.org/us/stocks/nyse/itw/news/earnings/illinois-tool-works-nyseitw-surprises-with-q2-cy2026-sales",
+      "source": "StockStory",
+      "published_at": "2026-07-28T12:45:12+00:00",
+      "sentiment": 0.34661,
+      "change_pct": 0.25,
+      "title_kr": "Illinois Tool Works(NYSE:ITW), 2026년 2분기 매출로 놀라운 성과 달성",
+      "summary_kr": "Illinois Tool Works(NYSE:ITW)는 전년 동기 대비 6.1% 증가한 매출 43억 달러, GAAP 이익 주당 2.84달러로 월스트리트의 매출 및 EPS 기대치를 초과하는 강력한 2026년 2분기 실적을 보고했습니다. 회사는 견고한 운영 성과를 보여주었습니다."
     },
     {
       "id": "av_4307ac7fa63d74",
@@ -967,7 +1035,7 @@
       "url": "https://247wallst.com/investing/2026/07/28/forget-vig-dgro-pays-26-more-dividend-income-for-nearly-the-same-fee/",
       "source": "24/7 Wall St.",
       "published_at": "2026-07-28T13:40:44+00:00",
-      "sentiment": 0.34001,
+      "sentiment": 0.320024,
       "change_pct": 0.25
     },
     {
@@ -980,25 +1048,49 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/TXN/pressreleases/3500733/buy-texas-instruments-as-a-momentum-play-after-solid-q2-2026-earnings/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-28T13:13:44+00:00",
-      "sentiment": 0.347576,
+      "sentiment": 0.328842,
       "change_pct": 0.25,
       "title_kr": "2026년 2분기 견고한 수익 이후 텍사스 인스트루먼트를 모멘텀 플레이로 구매",
       "summary_kr": "Texas Instruments(TXN)는 강력한 AI 기반 데이터 센터 수요와 포괄적인 제품 포트폴리오에 힘입어 수익과 EPS 모두에 대한 추정치를 뛰어 넘는 2026년 2분기 실적을 발표했습니다. 회사는 Ex를 통해 상당한 수익성 개선을 보였습니다."
     },
     {
-      "id": "av_ac4f7693b5fb20",
+      "id": "av_b1789c6e69a905",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "How Corning (GLW) is Shaping Data Center Technology from Copper to Fiber",
-      "summary": "O'Keeffe Stevens Advisory's Q2 2026 investor letter highlights Corning Incorporated (GLW) and its role in the evolving data center technology landscape. Corning has secured significant partnerships with companies like Nvidia, Amazon, and Meta to supply optical fiber, cable, and c",
-      "url": "https://uk.finance.yahoo.com/news/corning-glw-shaping-data-center-144744173.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-28T14:47:00+00:00",
-      "sentiment": 0.300095,
-      "change_pct": 0.25,
-      "title_kr": "Corning(GLW)이 구리에서 광섬유에 이르기까지 데이터 센터 기술을 형성하는 방법",
-      "summary_kr": "O'Keeffe Stevens Advisory의 2026년 2분기 투자자 서한에서는 Corning Incorporated(GLW)와 진화하는 데이터 센터 기술 환경에서의 역할을 강조합니다. 코닝은 Nvidia, Amazon, Meta 등의 기업과 긴밀한 파트너십을 확보하여 광학 제품을 공급하고 있습니다."
+      "title": "NXP Semiconductors slips after hours despite quarterly earnings, guidance beat",
+      "summary": "NXP Semiconductors reported a quarterly top and bottom-line beat and provided strong guidance for the current quarter, but its shares fell 5.5% after hours. The decline is attributed to a broader sell-off in the semiconductor space, fueled by concerns over uncertain returns from ",
+      "url": "https://ng.investing.com/news/earnings/nxp-semiconductors-slips-after-hours-despite-quarterly-earnings-guidance-beat-2621950",
+      "source": "Investing.com Nigeria",
+      "published_at": "2026-07-28T20:29:27+00:00",
+      "sentiment": -0.139721,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_c5bcce6bcc65a4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Western Digital Corp Stock (WDC) Closed Down by 7.00% on Jul 28: Key Drivers Unveiled",
+      "summary": "Western Digital Corp (WDC) stock closed down 7.00% on July 28, driven by factors including NAND flash oversupply, pricing volatility, and concerns over potential delays in its business unit separation. Institutional investors are also reacting to cautious guidance and a moderatin",
+      "url": "https://www.tradingkey.com/news/market-movers/262059550-market-movers-wdc-20260728",
+      "source": "TradingKey",
+      "published_at": "2026-07-28T20:16:05+00:00",
+      "sentiment": 0.132847,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_bafda8194ab7ed",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Franklin Electric (NASDAQ:FELE) Reaches New 52-Week High After Earnings Beat",
+      "summary": "Franklin Electric (NASDAQ:FELE) reached a new 52-week high after reporting strong quarterly earnings of $1.55 per share, surpassing analyst estimates. Despite the positive earnings and a declared quarterly dividend, analysts maintain a \"Hold\" rating with a target price of $106, a",
+      "url": "https://www.marketbeat.com/instant-alerts/franklin-electric-nasdaqfele-reaches-new-52-week-high-after-earnings-beat-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T14:10:14+00:00",
+      "sentiment": 0.28201,
+      "change_pct": 0.25
     },
     {
       "id": "av_5fa0d29c09e950",
@@ -1010,33 +1102,7 @@
       "url": "https://stockstotrade.com/news/united-microelectronics-corporation-new-umc-news-2026_07_28/",
       "source": "StocksToTrade",
       "published_at": "2026-07-28T13:10:59+00:00",
-      "sentiment": -0.331516,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_f08f381801a691",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Qualcomm’s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story",
-      "summary": "Qualcomm (QCOM) is entering a new growth phase driven by an expanded partnership with Samsung for Snapdragon platforms in premium devices and a strategic push into AI infrastructure. The company aims to reduce its reliance on the cyclical handset market by targeting significant a",
-      "url": "https://sg.finance.yahoo.com/news/qualcomm-qcom-samsung-expansion-ai-201124878.html",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-07-28T20:11:40+00:00",
-      "sentiment": -0.148193,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_25b9f24067cc93",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Broadcom Lands $230 Billion in New Deals, Yet Trades at Steep Discount",
-      "summary": "Broadcom has secured over $230 billion in new deals, including a $200 billion MOU with Samsung and a $30 billion-plus commitment from Apple, yet its stock trades significantly below recent highs. The market's caution stems from concerns about Google's potential diversification of",
-      "url": "https://www.techtimes.com/articles/321808/20260728/broadcom-lands-230-billion-new-deals-yet-trades-steep-discount.htm",
-      "source": "Tech Times",
-      "published_at": "2026-07-28T16:07:08+00:00",
-      "sentiment": 0.240809,
+      "sentiment": -0.302638,
       "change_pct": 0.25
     },
     {
@@ -1049,20 +1115,20 @@
       "url": "https://www.tradingkey.com/news/market-movers/262059372-market-movers-klac-20260728",
       "source": "TradingKey",
       "published_at": "2026-07-28T17:16:16+00:00",
-      "sentiment": 0.21037,
+      "sentiment": 0.198962,
       "change_pct": 0.25
     },
     {
-      "id": "av_7b110cb224940f",
+      "id": "av_f08f381801a691",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Qualcomm Inc Stock (QCOM) Moved Down by 4.36% on Jul 28: Key Drivers Unveiled",
-      "summary": "Qualcomm Inc (QCOM) stock dropped by 4.36% due to slowing AI-driven handset demand, geopolitical tensions, and client development of proprietary modem technology, threatening its royalty streams. Macroeconomic headwinds and increasing competition in the AI PC market also contribu",
-      "url": "https://www.tradingkey.com/news/market-movers/262059473-market-movers-qcom-20260728",
-      "source": "TradingKey",
-      "published_at": "2026-07-28T19:15:46+00:00",
-      "sentiment": 0.145683,
+      "title": "Qualcomm’s (QCOM) Samsung Expansion and AI Deals Could Reshape Its Growth Story",
+      "summary": "Qualcomm (QCOM) is entering a new growth phase driven by an expanded partnership with Samsung for Snapdragon platforms in premium devices and a strategic push into AI infrastructure. The company aims to reduce its reliance on the cyclical handset market by targeting significant a",
+      "url": "https://sg.finance.yahoo.com/news/qualcomm-qcom-samsung-expansion-ai-201124878.html",
+      "source": "Yahoo Finance Singapore",
+      "published_at": "2026-07-28T20:11:40+00:00",
+      "sentiment": -0.121905,
       "change_pct": 0.25
     },
     {
@@ -1075,7 +1141,7 @@
       "url": "https://www.tradingview.com/news/zacks:a5dcba19b094b:0-avt-vs-arw-which-ai-supply-chain-stock-is-the-better-buy/",
       "source": "TradingView",
       "published_at": "2026-07-28T16:09:47+00:00",
-      "sentiment": 0.219893,
+      "sentiment": 0.221332,
       "change_pct": 0.25
     },
     {
@@ -1090,85 +1156,16 @@
       "published_at": "2026-07-28T18:17:04+00:00"
     },
     {
-      "id": "av_7354ec10edaf1b",
+      "id": "av_25b9f24067cc93",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Illinois Tool Works (NYSE:ITW) Surprises With Q2 CY2026 Sales",
-      "summary": "Illinois Tool Works (NYSE:ITW) reported strong Q2 CY2026 results, exceeding Wall Street's revenue and EPS expectations with sales up 6.1% year-on-year to $4.30 billion and GAAP profit at $2.84 per share. The company demonstrated solid operational performance with a 26.7% operatin",
-      "url": "https://stockstory.org/us/stocks/nyse/itw/news/earnings/illinois-tool-works-nyseitw-surprises-with-q2-cy2026-sales",
-      "source": "StockStory",
-      "published_at": "2026-07-28T12:45:12+00:00",
-      "sentiment": 0.300721,
-      "change_pct": 0.25,
-      "title_kr": "Illinois Tool Works(NYSE:ITW), 2026년 2분기 매출로 놀라운 성과 달성",
-      "summary_kr": "Illinois Tool Works(NYSE:ITW)는 전년 동기 대비 6.1% 증가한 매출 43억 달러, GAAP 이익 주당 2.84달러로 월스트리트의 매출 및 EPS 기대치를 초과하는 강력한 2026년 2분기 실적을 보고했습니다. 회사는 견고한 운영 성과를 보여주었습니다."
-    },
-    {
-      "id": "av_c5bcce6bcc65a4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Western Digital Corp Stock (WDC) Closed Down by 7.00% on Jul 28: Key Drivers Unveiled",
-      "summary": "Western Digital Corp (WDC) stock closed down 7.00% on July 28, driven by factors including NAND flash oversupply, pricing volatility, and concerns over potential delays in its business unit separation. Institutional investors are also reacting to cautious guidance and a moderatin",
-      "url": "https://www.tradingkey.com/news/market-movers/262059550-market-movers-wdc-20260728",
-      "source": "TradingKey",
-      "published_at": "2026-07-28T20:16:05+00:00",
-      "sentiment": 0.110488,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_5e03d2e7059975",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Corning Shares Slide Despite Second-Quarter Earnings Beat as Guidance Disappoints",
-      "summary": "Corning Incorporated reported better-than-expected second-quarter earnings and revenue, with adjusted EPS of $0.78 and revenue of $4.74 billion, exceeding analyst estimates. However, the company's stock fell 11.2% due to disappointing third-quarter guidance, which projected adjus",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/corning-shares-slide-despite-second-122109735.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T12:20:57+00:00",
-      "sentiment": 0.305267,
-      "change_pct": 0.25,
-      "title_kr": "지침이 실망스러워서 2분기 실적이 부진했음에도 불구하고 코닝 주가 하락",
-      "summary_kr": "Corning Incorporated는 예상보다 나은 2분기 수익과 수익을 발표했습니다. 조정 EPS는 0.78달러, 수익은 47억 4천만 달러로 분석가 추정치를 뛰어넘었습니다. 그러나 실망스러운 3분기 가이던스로 인해 회사 주가는 11.2% 하락했다."
-    },
-    {
-      "id": "av_b1789c6e69a905",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NXP Semiconductors slips after hours despite quarterly earnings, guidance beat",
-      "summary": "NXP Semiconductors reported a quarterly top and bottom-line beat and provided strong guidance for the current quarter, but its shares fell 5.5% after hours. The decline is attributed to a broader sell-off in the semiconductor space, fueled by concerns over uncertain returns from ",
-      "url": "https://ng.investing.com/news/earnings/nxp-semiconductors-slips-after-hours-despite-quarterly-earnings-guidance-beat-2621950",
-      "source": "Investing.com Nigeria",
-      "published_at": "2026-07-28T20:29:27+00:00",
-      "sentiment": -0.100182,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_ddc79cd05dbb0a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Analog Devices (ADI) Stock Looks Fully Priced With Strong Returns But Rich Earnings",
-      "summary": "Analog Devices (ADI) has delivered strong returns over the past five years, but its stock appears expensive based on current valuations. The company trades at a P/E ratio of 54.7x, which is above its estimated fair P/E of 41.4x, suggesting the market has high expectations for fut",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/analog-devices-adi-stock-looks-fully-priced-with-strong-retu",
-      "source": "Simply Wall St",
-      "published_at": "2026-07-28T18:19:58+00:00",
-      "sentiment": 0.1488,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_f5f84355c9d64d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Rosenblatt raises Western Digital stock price target to $900",
-      "summary": "Rosenblatt initiated coverage on Western Digital (NASDAQ:WDC) with a Buy rating, raising its price target to $900 from $500, citing strong demand for hard disk drives and resetting long-term agreements at higher prices. The firm also increased its price target for Seagate Technol",
-      "url": "https://m.investing.com/news/analyst-ratings/rosenblatt-raises-western-digital-stock-price-target-to-900-93CH-4817256?ampMode=1",
-      "source": "Investing.com",
-      "published_at": "2026-07-28T14:39:33+00:00",
-      "sentiment": 0.240056,
+      "title": "Broadcom Lands $230 Billion in New Deals, Yet Trades at Steep Discount",
+      "summary": "Broadcom has secured over $230 billion in new deals, including a $200 billion MOU with Samsung and a $30 billion-plus commitment from Apple, yet its stock trades significantly below recent highs. The market's caution stems from concerns about Google's potential diversification of",
+      "url": "https://www.techtimes.com/articles/321808/20260728/broadcom-lands-230-billion-new-deals-yet-trades-steep-discount.htm",
+      "source": "Tech Times",
+      "published_at": "2026-07-28T16:07:08+00:00",
+      "sentiment": 0.212481,
       "change_pct": 0.25
     },
     {
@@ -1181,7 +1178,20 @@
       "url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/palo-alto-networks-panw-could-be-103-overvalued-on-its-most",
       "source": "Simply Wall St",
       "published_at": "2026-07-28T15:24:03+00:00",
-      "sentiment": 0.208216,
+      "sentiment": 0.22334,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_f5f84355c9d64d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Rosenblatt raises Western Digital stock price target to $900",
+      "summary": "Rosenblatt initiated coverage on Western Digital (NASDAQ:WDC) with a Buy rating, raising its price target to $900 from $500, citing strong demand for hard disk drives and resetting long-term agreements at higher prices. The firm also increased its price target for Seagate Technol",
+      "url": "https://m.investing.com/news/analyst-ratings/rosenblatt-raises-western-digital-stock-price-target-to-900-93CH-4817256?ampMode=1",
+      "source": "Investing.com",
+      "published_at": "2026-07-28T14:39:33+00:00",
+      "sentiment": 0.237699,
       "change_pct": 0.25
     },
     {
@@ -1194,46 +1204,7 @@
       "url": "https://www.benzinga.com/markets/tech/26/07/60740723/seagates-stock-rally-has-outrun-its-own-guidance-now-comes-the-q4-test",
       "source": "Benzinga",
       "published_at": "2026-07-28T19:03:54+00:00",
-      "sentiment": -0.116272,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_a3537607381873",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "How Teradyne’s (TER) AI Test Push and Tokyo Electron Partnership Could Reshape Investor Expectations",
-      "summary": "Teradyne (TER) is set to report its Q2 2026 results, with investor focus on its AI-related revenue growth and a new partnership with Tokyo Electron to shape expectations for its semiconductor test and robotics businesses. The article highlights that Teradyne's investment narrativ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-ai-test-push-180803804.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-28T18:08:04+00:00",
-      "sentiment": 0.133127,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_290cdd61064b17",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Amtech's Healthy Backlog Builds: Is Revenue Visibility Improving?",
-      "summary": "Amtech Systems, Inc. is experiencing strengthening revenue visibility due to a healthy backlog, with second-quarter fiscal 2026 bookings exceeding revenues. This growth is driven by increasing demand for semiconductor packaging equipment for AI infrastructure, contributing signif",
-      "url": "https://www.tradingview.com/news/zacks:b57e05279094b:0-amtech-s-healthy-backlog-builds-is-revenue-visibility-improving/",
-      "source": "TradingView",
-      "published_at": "2026-07-28T13:40:57+00:00",
-      "sentiment": 0.237741,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_84f4ae65f27f3d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple tops Nvidia as world’s most valuable company",
-      "summary": "Apple has overtaken Nvidia to become the world's most valuable company for the first time in over two years, with a market capitalization reaching nearly $5 trillion. While Nvidia saw its shares tumble amidst concerns about AI costs and Chinese competition, Apple's stock climbed ",
-      "url": "https://thehill.com/policy/technology/5994751-apple-nvidia-most-valuable-company-globally/",
-      "source": "The Hill",
-      "published_at": "2026-07-28T17:38:26+00:00",
-      "sentiment": 0.133886,
+      "sentiment": -0.126783,
       "change_pct": 0.25
     },
     {
@@ -1246,7 +1217,72 @@
       "url": "https://247wallst.com/investing/2026/07/28/berkshire-isnt-the-only-big-name-loading-up-on-alphabet-this-investor-bet-even-bigger/",
       "source": "24/7 Wall St.",
       "published_at": "2026-07-28T18:51:55+00:00",
-      "sentiment": -0.101081,
+      "sentiment": -0.129866,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_a3537607381873",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "How Teradyne’s (TER) AI Test Push and Tokyo Electron Partnership Could Reshape Investor Expectations",
+      "summary": "Teradyne (TER) is set to report its Q2 2026 results, with investor focus on its AI-related revenue growth and a new partnership with Tokyo Electron to shape expectations for its semiconductor test and robotics businesses. The article highlights that Teradyne's investment narrativ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/teradyne-ter-ai-test-push-180803804.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-28T18:08:04+00:00",
+      "sentiment": 0.138416,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_7b110cb224940f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Qualcomm Inc Stock (QCOM) Moved Down by 4.36% on Jul 28: Key Drivers Unveiled",
+      "summary": "Qualcomm Inc (QCOM) stock dropped by 4.36% due to slowing AI-driven handset demand, geopolitical tensions, and client development of proprietary modem technology, threatening its royalty streams. Macroeconomic headwinds and increasing competition in the AI PC market also contribu",
+      "url": "https://www.tradingkey.com/news/market-movers/262059473-market-movers-qcom-20260728",
+      "source": "TradingKey",
+      "published_at": "2026-07-28T19:15:46+00:00",
+      "sentiment": 0.108789,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_84f4ae65f27f3d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple tops Nvidia as world’s most valuable company",
+      "summary": "Apple has overtaken Nvidia to become the world's most valuable company for the first time in over two years, with a market capitalization reaching nearly $5 trillion. While Nvidia saw its shares tumble amidst concerns about AI costs and Chinese competition, Apple's stock climbed ",
+      "url": "https://thehill.com/policy/technology/5994751-apple-nvidia-most-valuable-company-globally/",
+      "source": "The Hill",
+      "published_at": "2026-07-28T17:38:26+00:00",
+      "sentiment": 0.145888,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_ddc79cd05dbb0a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Analog Devices (ADI) Stock Looks Fully Priced With Strong Returns But Rich Earnings",
+      "summary": "Analog Devices (ADI) has delivered strong returns over the past five years, but its stock appears expensive based on current valuations. The company trades at a P/E ratio of 54.7x, which is above its estimated fair P/E of 41.4x, suggesting the market has high expectations for fut",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/analog-devices-adi-stock-looks-fully-priced-with-strong-retu",
+      "source": "Simply Wall St",
+      "published_at": "2026-07-28T18:19:58+00:00",
+      "sentiment": 0.113267,
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_290cdd61064b17",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amtech's Healthy Backlog Builds: Is Revenue Visibility Improving?",
+      "summary": "Amtech Systems, Inc. is experiencing strengthening revenue visibility due to a healthy backlog, with second-quarter fiscal 2026 bookings exceeding revenues. This growth is driven by increasing demand for semiconductor packaging equipment for AI infrastructure, contributing signif",
+      "url": "https://www.tradingview.com/news/zacks:b57e05279094b:0-amtech-s-healthy-backlog-builds-is-revenue-visibility-improving/",
+      "source": "TradingView",
+      "published_at": "2026-07-28T13:40:57+00:00",
+      "sentiment": 0.222789,
       "change_pct": 0.25
     },
     {
@@ -1259,7 +1295,7 @@
       "url": "https://finance.yahoo.com/markets/article/micron-sk-hynix-stocks-sink-as-ai-chip-sell-off-deepens-125622548.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-28T17:38:24+00:00",
-      "sentiment": -0.125292,
+      "sentiment": -0.122374,
       "change_pct": 0.25
     },
     {
@@ -1272,6 +1308,19 @@
       "url": "https://finnhub.io/api/news?id=12a7091502c000f87f96eca1a7a0c6cbb40a80fb986611d797394c9e8c3ada80",
       "source": "Yahoo",
       "published_at": "2026-07-28T21:50:00+00:00",
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_0e44cc9dd2c382",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 7.73% on Jul 28: A Full Analysis",
+      "summary": "Lam Research Corp (LRCX) stock dropped by 7.73% due to slower non-AI memory spending, geopolitical export restrictions, and broader semiconductor sector volatility. Technical indicators show a sell signal, and analysts are adjusting price targets downwards amid concerns over mark",
+      "url": "https://www.tradingkey.com/news/market-movers/262059283-market-movers-lrcx-20260728",
+      "source": "TradingKey",
+      "published_at": "2026-07-28T16:16:25+00:00",
+      "sentiment": 0.138729,
       "change_pct": 0.25
     },
     {
@@ -1311,32 +1360,6 @@
       "change_pct": 0.25
     },
     {
-      "id": "av_57976066416e5f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Investors Buy High Volume of KLA Put Options (NASDAQ:KLAC)",
-      "summary": "Investors recently bought a significantly higher volume of KLA (NASDAQ:KLAC) put options, with 12,634 contracts traded, representing a 64% increase over the average daily volume, suggesting a bearish sentiment. This unusual activity comes after KLA's CFO and CEO sold a substantia",
-      "url": "https://www.marketbeat.com/instant-alerts/investors-buy-high-volume-of-kla-put-options-nasdaqklac-2026-07-28/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-28T16:36:20+00:00",
-      "sentiment": 0.122587,
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_0e44cc9dd2c382",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lam Research Corp Stock (LRCX) Moved Down by 7.73% on Jul 28: A Full Analysis",
-      "summary": "Lam Research Corp (LRCX) stock dropped by 7.73% due to slower non-AI memory spending, geopolitical export restrictions, and broader semiconductor sector volatility. Technical indicators show a sell signal, and analysts are adjusting price targets downwards amid concerns over mark",
-      "url": "https://www.tradingkey.com/news/market-movers/262059283-market-movers-lrcx-20260728",
-      "source": "TradingKey",
-      "published_at": "2026-07-28T16:16:25+00:00",
-      "sentiment": 0.127434,
-      "change_pct": 0.25
-    },
-    {
       "id": "f_f2822cb3b01138",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1358,19 +1381,6 @@
       "url": "https://finnhub.io/api/news?id=f5ceb4c7308de16df92e593219f8df9b4248892ae09e82fe102d1698eb2f4055",
       "source": "Yahoo",
       "published_at": "2026-07-28T21:20:00+00:00",
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_ffb6e754ac694d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple Became a $5 Trillion Company Thanks to Its Approach to AI",
-      "summary": "Apple temporarily reached a $5 trillion valuation, making it the second company after Nvidia to hit that mark. The company's success is attributed to strong product demand and its conservative approach to AI, which contrasts with other tech giants' heavy spending. Investors repor",
-      "url": "https://petapixel.com/2026/07/28/apple-became-a-5-trillion-company-thanks-to-its-approach-to-ai/",
-      "source": "PetaPixel",
-      "published_at": "2026-07-28T15:43:03+00:00",
-      "sentiment": -0.139833,
       "change_pct": 0.25
     },
     {
@@ -1410,6 +1420,19 @@
       "change_pct": 1.09
     },
     {
+      "id": "av_fd37a5fe04466e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel Emerges as America’s Only Leading-Edge Chipmaker as RAMP-C Hands the Department of War Domestic 18A Production",
+      "summary": "Intel Foundry has completed the Rapid Assured Microelectronics Prototypes - Commercial (RAMP-C) program, enabling domestic, leading-edge CMOS technology and manufacturing in the United States. This initiative positions Intel as the sole U.S. company capable of researching, develo",
+      "url": "https://wccftech.com/intel-emerges-as-americas-only-leading-edge-chipmaker-as-ramp-c-hands-domestic-18a-production/",
+      "source": "Wccftech",
+      "published_at": "2026-07-28T16:37:58+00:00",
+      "sentiment": 0.114248,
+      "change_pct": 0.25
+    },
+    {
       "id": "f_84815b728af06b",
       "provider": "finnhub",
       "ticker": "META",
@@ -1422,19 +1445,6 @@
       "change_pct": -0.08
     },
     {
-      "id": "av_3cbd4201ce0bea",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why Is GLW Stock Falling Today?",
-      "summary": "Corning Inc. (GLW) shares are falling today due to third-quarter guidance that missed Wall Street revenue expectations, despite slightly beating EPS consensus. Although the company announced robust long-term growth targets and significant partnerships with Amazon and Nvidia, its ",
-      "url": "https://stocktwits.com/news-articles/markets/equity/why-is-glw-stock-falling-today/cZZCnlDRJGU",
-      "source": "Stocktwits",
-      "published_at": "2026-07-28T12:38:11+00:00",
-      "sentiment": 0.211426,
-      "change_pct": 0.25
-    },
-    {
       "id": "f_c8baa57f5d6433",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1444,6 +1454,19 @@
       "url": "https://finnhub.io/api/news?id=acaa6b35baaeed80793da8ab38db07f522b11869f2e08f9bd2441b147b66535a",
       "source": "Yahoo",
       "published_at": "2026-07-28T21:01:06+00:00",
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_57976066416e5f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Investors Buy High Volume of KLA Put Options (NASDAQ:KLAC)",
+      "summary": "Investors recently bought a significantly higher volume of KLA (NASDAQ:KLAC) put options, with 12,634 contracts traded, representing a 64% increase over the average daily volume, suggesting a bearish sentiment. This unusual activity comes after KLA's CFO and CEO sold a substantia",
+      "url": "https://www.marketbeat.com/instant-alerts/investors-buy-high-volume-of-kla-put-options-nasdaqklac-2026-07-28/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-28T16:36:20+00:00",
+      "sentiment": 0.108679,
       "change_pct": 0.25
     },
     {
@@ -1459,6 +1482,17 @@
       "change_pct": -0.08
     },
     {
+      "id": "f_a173db318fe535",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "general",
+      "title": "SPCX, RKLB, ASTS, LUNR In Focus — Trump Administration To Expedite Approvals For Commercial Rocket Launches",
+      "summary": "The U.S. Transportation Department and the Federal Aviation Administration (FAA) have proposed sweeping rules to grant environmental review waivers for commercial rocket launches and spaceport operations, bypassing long-standing regulatory hurdles.",
+      "url": "https://finnhub.io/api/news?id=acffa80837b5c53d3615effcbe322bd82075df94bb4ea5933e7ec46f45e2b316",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T20:53:08+00:00"
+    },
+    {
       "id": "f_fa15e9f38496ea",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1471,17 +1505,15 @@
       "change_pct": 0.25
     },
     {
-      "id": "av_fd37a5fe04466e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_ae602b6adb6137",
+      "provider": "finnhub",
+      "ticker": "RKLB",
       "category": "general",
-      "title": "Intel Emerges as America’s Only Leading-Edge Chipmaker as RAMP-C Hands the Department of War Domestic 18A Production",
-      "summary": "Intel Foundry has completed the Rapid Assured Microelectronics Prototypes - Commercial (RAMP-C) program, enabling domestic, leading-edge CMOS technology and manufacturing in the United States. This initiative positions Intel as the sole U.S. company capable of researching, develo",
-      "url": "https://wccftech.com/intel-emerges-as-americas-only-leading-edge-chipmaker-as-ramp-c-hands-domestic-18a-production/",
-      "source": "Wccftech",
-      "published_at": "2026-07-28T16:37:58+00:00",
-      "sentiment": 0.103787,
-      "change_pct": 0.25
+      "title": "Trump Administration Slashes Environmental Rules To Accelerate Space Race",
+      "summary": "The FAA on Tuesday proposed cutting environmental regulations for licensing and commercial space activities.",
+      "url": "https://finnhub.io/api/news?id=2a5d7993cc194b2058fda1163088e8d1ab35280356357631022fde0010e29243",
+      "source": "Yahoo",
+      "published_at": "2026-07-28T20:37:16+00:00"
     },
     {
       "id": "f_e5cc3b0974eecb",
@@ -1589,6 +1621,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-28T20:15:00+00:00",
       "change_pct": -0.08
+    },
+    {
+      "id": "av_ffb6e754ac694d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple Became a $5 Trillion Company Thanks to Its Approach to AI",
+      "summary": "Apple temporarily reached a $5 trillion valuation, making it the second company after Nvidia to hit that mark. The company's success is attributed to strong product demand and its conservative approach to AI, which contrasts with other tech giants' heavy spending. Investors repor",
+      "url": "https://petapixel.com/2026/07/28/apple-became-a-5-trillion-company-thanks-to-its-approach-to-ai/",
+      "source": "PetaPixel",
+      "published_at": "2026-07-28T15:43:03+00:00",
+      "sentiment": -0.113135,
+      "change_pct": 0.25
     },
     {
       "id": "f_cbe0f812d2563a",
@@ -1876,21 +1921,6 @@
       "change_pct": 2.19
     },
     {
-      "id": "av_0e30f2973f2f9e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Should You Buy Altria for Its 5.8% Dividend Yield Ahead of July 30 Earnings?",
-      "summary": "Altria (MO) is presenting a compelling investment case for income-focused investors ahead of its Q2 2026 earnings report on July 30. The company boasts a 5.83% dividend yield, a forward P/E of just 13x, and a history of 56 consecutive dividend increases, having returned $8 billio",
-      "url": "https://247wallst.com/investing/2026/07/28/should-you-buy-altria-for-its-5-8-dividend-yield-ahead-of-july-30-earnings/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-07-28T13:32:59+00:00",
-      "sentiment": 0.14796,
-      "change_pct": 0.25,
-      "title_kr": "7월 30일 수익을 앞두고 5.8%의 배당수익률을 위해 알트리아를 구매해야 합니까?",
-      "summary_kr": "알트리아(MO)는 7월 30일 2026년 2분기 수익 보고서를 앞두고 소득 중심 투자자들을 위한 매력적인 투자 사례를 제시하고 있습니다. 이 회사는 배당 수익률 5.83%, 선도 P/E 13배, 56회 연속 배당 증가 이력을 자랑합니다."
-    },
-    {
       "id": "f_3d26dda73d52ca",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1983,19 +2013,6 @@
       "url": "https://finnhub.io/api/news?id=68013383e26e7f493f401c7c6e877fce75f4cff1a7c847a6e7df8a5dc5cc667c",
       "source": "ChartMill",
       "published_at": "2026-07-28T19:10:04+00:00",
-      "change_pct": 0.25
-    },
-    {
-      "id": "av_3867fa9dc47e26",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Earnings call transcript: Boeing Q2 2026 revenue beats as loss widens",
-      "summary": "Boeing reported mixed results for Q2 2026, with revenue of $24.6 billion exceeding Wall Street estimates but a wider-than-expected loss of $0.76 per share. Despite the loss, the company saw positive free cash flow of $631 million and increased commercial aircraft deliveries. Boei",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-boeing-q2-2026-revenue-beats-as-loss-widens-93CH-4817578",
-      "source": "Investing.com",
-      "published_at": "2026-07-28T15:52:10+00:00",
-      "sentiment": -0.081976,
       "change_pct": 0.25
     },
     {
@@ -2105,6 +2122,19 @@
       "change_pct": -0.58
     },
     {
+      "id": "av_90ab68c8df86b1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Ameren to Release Q2 Earnings: What's in Store for the Stock?",
+      "summary": "Ameren (AEE) is set to announce its second-quarter 2026 results on July 30, with expectations of continued benefits from grid modernization and increased electricity demand, particularly from AI workloads. Despite disruptions from severe storms, the company is projected to report",
+      "url": "https://www.tradingview.com/news/zacks:f2d74f32b094b:0-ameren-to-release-q2-earnings-what-s-in-store-for-the-stock/",
+      "source": "TradingView",
+      "published_at": "2026-07-28T14:06:59+00:00",
+      "sentiment": 0.11488,
+      "change_pct": 0.25
+    },
+    {
       "id": "f_2b61ba46cb3796",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2114,6 +2144,19 @@
       "url": "https://finnhub.io/api/news?id=0ee8f76d84428d40ed44680d287023dc5b200ace39df25180253afc9dbf08212",
       "source": "Yahoo",
       "published_at": "2026-07-28T18:37:20+00:00",
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_3867fa9dc47e26",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Earnings call transcript: Boeing Q2 2026 revenue beats as loss widens",
+      "summary": "Boeing reported mixed results for Q2 2026, with revenue of $24.6 billion exceeding Wall Street estimates but a wider-than-expected loss of $0.76 per share. Despite the loss, the company saw positive free cash flow of $631 million and increased commercial aircraft deliveries. Boei",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-boeing-q2-2026-revenue-beats-as-loss-widens-93CH-4817578",
+      "source": "Investing.com",
+      "published_at": "2026-07-28T15:52:10+00:00",
+      "sentiment": -0.06847,
       "change_pct": 0.25
     },
     {
@@ -2141,6 +2184,33 @@
       "change_pct": 0.25
     },
     {
+      "id": "f_9784e241712fd8",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel Vs. TSMC: How CoWoS Packaging Constraints Create Opportunity For Intel Foundry",
+      "summary": "TSMC leads foundry manufacturing as Intel scales external sales. Click for a look at how TSM issues could provide an opening for INTC to seize market share.",
+      "url": "https://finnhub.io/api/news?id=f2f93c4d8533a256a289879a12f0d662bf46804f344ef38fcd75f1ed247567a2",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-28T18:25:12+00:00",
+      "change_pct": 0.25
+    },
+    {
+      "id": "av_0e30f2973f2f9e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Should You Buy Altria for Its 5.8% Dividend Yield Ahead of July 30 Earnings?",
+      "summary": "Altria (MO) is presenting a compelling investment case for income-focused investors ahead of its Q2 2026 earnings report on July 30. The company boasts a 5.83% dividend yield, a forward P/E of just 13x, and a history of 56 consecutive dividend increases, having returned $8 billio",
+      "url": "https://247wallst.com/investing/2026/07/28/should-you-buy-altria-for-its-5-8-dividend-yield-ahead-of-july-30-earnings/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-28T13:32:59+00:00",
+      "sentiment": 0.121518,
+      "change_pct": 0.25,
+      "title_kr": "7월 30일 수익을 앞두고 5.8%의 배당수익률을 위해 알트리아를 구매해야 합니까?",
+      "summary_kr": "알트리아(MO)는 7월 30일 2026년 2분기 수익 보고서를 앞두고 소득 중심 투자자들을 위한 매력적인 투자 사례를 제시하고 있습니다. 이 회사는 배당 수익률 5.83%, 선도 P/E 13배, 56회 연속 배당 증가 이력을 자랑합니다."
+    },
+    {
       "id": "f_145081824e6ac0",
       "provider": "finnhub",
       "ticker": "META",
@@ -2153,21 +2223,6 @@
       "change_pct": -0.08
     },
     {
-      "id": "av_4fd05f3ef39f3e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple hits $5T market cap, first US company to reach milestone",
-      "summary": "Apple Inc. has achieved a historic milestone, becoming the first U.S. company to reach a $5 trillion market capitalization, building on its $4 trillion valuation from 2025. This surge signifies strong market confidence and reinforces Apple's continued dominance in the technology ",
-      "url": "https://cryptobriefing.com/apple-hits-5t-market-cap-first-us-company-to-reach-milestone/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-28T14:07:04+00:00",
-      "sentiment": -0.105663,
-      "change_pct": 0.25,
-      "title_kr": "애플, 시가총액 5조 달러 달성, 미국 기업 최초로 이정표 달성",
-      "summary_kr": "Apple Inc.는 2025년부터 4조 달러의 가치 평가를 바탕으로 미국 기업 최초로 시가총액 5조 달러를 달성하는 역사적인 이정표를 달성했습니다. 이러한 급등은 강력한 시장 신뢰를 의미하며 Apple의 지속적인 지배력을 강화합니다."
-    },
-    {
       "id": "f_57aebcb7eab4ee",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -2178,6 +2233,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-28T18:20:00+00:00",
       "change_pct": -0.58
+    },
+    {
+      "id": "av_4fd05f3ef39f3e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple hits $5T market cap, first US company to reach milestone",
+      "summary": "Apple Inc. has achieved a historic milestone, becoming the first U.S. company to reach a $5 trillion market capitalization, building on its $4 trillion valuation from 2025. This surge signifies strong market confidence and reinforces Apple's continued dominance in the technology ",
+      "url": "https://cryptobriefing.com/apple-hits-5t-market-cap-first-us-company-to-reach-milestone/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-28T14:07:04+00:00",
+      "sentiment": -0.104933,
+      "change_pct": 0.25,
+      "title_kr": "애플, 시가총액 5조 달러 달성, 미국 기업 최초로 이정표 달성",
+      "summary_kr": "Apple Inc.는 2025년부터 4조 달러의 가치 평가를 바탕으로 미국 기업 최초로 시가총액 5조 달러를 달성하는 역사적인 이정표를 달성했습니다. 이러한 급등은 강력한 시장 신뢰를 의미하며 Apple의 지속적인 지배력을 강화합니다."
     },
     {
       "id": "f_8472bd4ceaa569",
@@ -2214,19 +2284,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-28T18:10:15+00:00",
       "change_pct": 2.19
-    },
-    {
-      "id": "av_90ab68c8df86b1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Ameren to Release Q2 Earnings: What's in Store for the Stock?",
-      "summary": "Ameren (AEE) is set to announce its second-quarter 2026 results on July 30, with expectations of continued benefits from grid modernization and increased electricity demand, particularly from AI workloads. Despite disruptions from severe storms, the company is projected to report",
-      "url": "https://www.tradingview.com/news/zacks:f2d74f32b094b:0-ameren-to-release-q2-earnings-what-s-in-store-for-the-stock/",
-      "source": "TradingView",
-      "published_at": "2026-07-28T14:06:59+00:00",
-      "sentiment": 0.100464,
-      "change_pct": 0.25
     },
     {
       "id": "f_41b3f804f9eee5",
@@ -2468,6 +2525,21 @@
       "change_pct": -0.08
     },
     {
+      "id": "av_b9d824c7f33c5d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Should You Buy Fortinet Stock Before July 29 Q2 Earnings?",
+      "summary": "Fortinet (NASDAQ:FTNT) is set to release its Q2 earnings on July 29, boasting 24 consecutive quarters without an earnings miss, record free cash flow, and a significant share buyback program. The company's product revenue accelerated 41% year-over-year in Q1, with billings up 31%",
+      "url": "https://247wallst.com/investing/2026/07/28/should-you-buy-fortinet-stock-before-july-29-q2-earnings/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-28T13:07:56+00:00",
+      "sentiment": 0.110607,
+      "change_pct": 0.25,
+      "title_kr": "7월 29일 2분기 실적이 나오기 전에 Fortinet 주식을 구매해야 합니까?",
+      "summary_kr": "Fortinet은 다른 어떤 사이버 보안 회사도 따라올 수 없는 연속 성과, 대부분의 배당금을 축소하는 자사주 매입 프로그램, 폭발적인 성장을 기록한 방화벽 교체 주기를 자랑합니다. 문제는 수요일의 2분기 보고서가 실행을 연장할지 아니면 종료할지 여부입니다."
+    },
+    {
       "id": "f_37ca68a810ca12",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2502,82 +2574,10 @@
       "source": "Yahoo",
       "published_at": "2026-07-28T17:28:10+00:00",
       "change_pct": 0.25
-    },
-    {
-      "id": "f_98ba9d647ff71c",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Amazon Is Rethinking Its Biggest AI Bet",
-      "summary": "Existing Nova customers are expected to receive continued support.",
-      "url": "https://finnhub.io/api/news?id=da839204c0d48c15ace6d6c5cf71f7492ebc98aae730879740411e37c48babe5",
-      "source": "Yahoo",
-      "published_at": "2026-07-28T17:26:28+00:00",
-      "change_pct": -0.23
-    },
-    {
-      "id": "f_52bf21e3f06563",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Elon Musk warns America will 1,000% go bankrupt and fail as a country",
-      "summary": "The world's wealthiest person per Forbes, Elon Musk, is well-known for his appetite for risks and doesn't shy away from keeping risky assets like Bitcoin (BTC) on the balance sheets of his companies Tesla (Nasdaq: TSLA) and SpaceX (Nasdaq: SPCX). But there is a risk that he says the United ...",
-      "url": "https://finnhub.io/api/news?id=0c04bac161e3d2a0e2f6dc1be10478e663ad46ead70b17442c87835dc2f13b06",
-      "source": "Yahoo",
-      "published_at": "2026-07-28T17:25:27+00:00",
-      "change_pct": -0.58
-    },
-    {
-      "id": "f_75e782f864e91f",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Should You Buy SpaceX Stock Below $120?",
-      "summary": "The space economy giant is slipping after its mega-IPO.",
-      "url": "https://finnhub.io/api/news?id=3fd9f3d61a092a6d6c4b66eb2a15194d4a3d464c3eb8772c2c6e308ceff86b95",
-      "source": "Yahoo",
-      "published_at": "2026-07-28T17:25:00+00:00",
-      "change_pct": 0.25
-    },
-    {
-      "id": "f_efad414bceb01f",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Broadvoice Launches GoContact Integration for Microsoft Dynamics 365",
-      "summary": "LOS ANGELES, July 28, 2026--Broadvoice brings GoContact into Microsoft Dynamics 365, unifying calls, records, outcomes, and notes in one CRM workspace for simple agent workflows.",
-      "url": "https://finnhub.io/api/news?id=97c7383ef31239c550f8340373e287a8cd948f9d2d714583deafabca434167e0",
-      "source": "Yahoo",
-      "published_at": "2026-07-28T17:25:00+00:00",
-      "change_pct": 1.09
-    },
-    {
-      "id": "f_5977d1308a879e",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Meta's $14 Billion AI Move Comes With a Twist",
-      "summary": "The campus is expected to provide 1 gigawatt of computing capacity.",
-      "url": "https://finnhub.io/api/news?id=860190af42ea03e5181c5ea95d6b95828b11ff2ce65fa6fad4abeef8a5036920",
-      "source": "Yahoo",
-      "published_at": "2026-07-28T17:24:23+00:00",
-      "change_pct": -0.08
-    },
-    {
-      "id": "f_65aa19398cc293",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Next Level Solutions Selected by Safepoint MGA to Deliver New Customer Self-Service Portal",
-      "summary": "Next Level Solutions (NLS) today announced a new engagement with Safepoint MGA, a Tampa-based property and casualty insurance underwriter specializing in coastal regions, to develop a modern customer self-service portal designed to enhance the policyholder experience. The engagement adds to a strong first half of 2026 for NLS, marked by expanding client relationships and continued growth across the property and casualty insurance industry.",
-      "url": "https://finnhub.io/api/news?id=4ae7e07d26dbe742ec0a1e6383db605837a51ef43cbff7f1df4202515d8e96a2",
-      "source": "Yahoo",
-      "published_at": "2026-07-28T17:23:00+00:00",
-      "change_pct": 1.09
     }
   ],
-  "fetched_at": "2026-07-28T22:18:41.064706+00:00",
+  "fetched_at": "2026-07-28T23:18:12.569151+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-28T22:18:43.471830+00:00",
+  "translated_at": "2026-07-28T23:18:15.288859+00:00",
   "translation_engine": "google-parallel"
 }
