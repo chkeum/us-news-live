@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "f_07f03c361015b8",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "earnings",
+      "title": "Meta Platforms (NASDAQ:META) Shares Slide After Q2 Earnings Miss and Soft Guidance",
+      "summary": "Meta's Q2 earnings missed estimates amid legal costs, shares fell 6.6%. Revenue was near consensus but EPS fell 16% short, with a cautious Q3 outlook.",
+      "url": "https://finnhub.io/api/news?id=cf81eb9a1df0d09c12b8859439040c6b60a97d313d46a452792c27d6834e6f3b",
+      "source": "ChartMill",
+      "published_at": "2026-07-29T20:47:07+00:00",
+      "change_pct": -1.31,
+      "title_kr": "Meta Platforms (NASDAQ:META) 2분기 실적 부진 및 소프트 가이던스 이후 주가 하락",
+      "summary_kr": "Meta의 2분기 수익은 법적 비용으로 인해 예상치를 하회했으며 주가는 6.6% 하락했습니다. 매출은 컨센서스에 가깝지만 EPS는 16% 부족해 3분기 전망은 조심스러웠습니다."
+    },
+    {
       "id": "f_c0044565082909",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -680,20 +694,6 @@
       "summary_kr": "수익을 놓칠 수 있는 좋은 시기는 없지만, 메모리 칩 거대 기업인 SK하이닉스는 정말 그 순간을 골랐습니다."
     },
     {
-      "id": "f_fa3ddbaa635374",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Nvidia Supplier SK Hynix Stock Falls 9.6% on Earnings Miss",
-      "summary": "First-half revenue passed 100 trillion won for the first time",
-      "url": "https://finnhub.io/api/news?id=e85f766cd833c09ef93cde45870d8f025bb33c7f5b5fab02fb690fe824978fbb",
-      "source": "Yahoo",
-      "published_at": "2026-07-29T13:51:41+00:00",
-      "change_pct": -3.55,
-      "title_kr": "엔비디아 공급업체 SK하이닉스 주가는 실적 부진으로 9.6% 하락",
-      "summary_kr": "상반기 매출 사상 처음으로 100조원 돌파"
-    },
-    {
       "id": "f_b461d63ba97570",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -747,6 +747,32 @@
       "summary_kr": "CNBC와의 인터뷰에서 Wolfe Research 분석가 Chris Caso는 이러한 백스톱 전략이 자신을 \"불편하게\" 만드는 부채를 발생시킨다는 우려를 표명했습니다."
     },
     {
+      "id": "av_475f05a26cae0a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Analog Devices Inc Stock (ADI) Closed Down by 3.21% on Jul 29: What Investors Need To Know",
+      "summary": "Analog Devices Inc (ADI) closed down 3.21% due to weak industrial and automotive demand, downward revisions in revenue estimates by analysts, and technical sell signals. The semiconductor industry faces a cautious outlook, prolonged inventory correction, and high-interest rate en",
+      "url": "https://www.tradingkey.com/news/market-movers/262062320-market-movers-adi-20260729",
+      "source": "TradingKey",
+      "published_at": "2026-07-29T20:15:58+00:00",
+      "sentiment": -0.326761,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_de656c21c29feb",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Fortinet Product Revenue Grows 52% to $773M as Billings Reach $2.37B",
+      "summary": "Fortinet (FTNT) reported strong second-quarter 2026 financial results, with revenue increasing 26% year-over-year to $2.05 billion and product revenue surging 52% to $773 million. Total billings were up 33% to $2.37 billion, and the company raised its full-year 2026 revenue guida",
+      "url": "https://www.stocktitan.net/news/FTNT/fortinet-reports-strong-second-quarter-2026-financial-dcs0y51k9hbv.html",
+      "source": "Stock Titan",
+      "published_at": "2026-07-29T20:12:51+00:00",
+      "sentiment": 0.300655,
+      "change_pct": -3.55
+    },
+    {
       "id": "av_0cf23a70162c2d",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -756,7 +782,20 @@
       "url": "https://investingnews.com/f5-integrates-f5-ai-guardrails-with-nvidia-nemo-guardrails-to-extend-runtime-security-for-enterprise-ai-applications/",
       "source": "Investing News Network",
       "published_at": "2026-07-29T18:13:56+00:00",
-      "sentiment": 0.304412,
+      "sentiment": 0.305579,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_e99c71eb5af749",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Should You Buy Uber Stock Before Aug. 5?",
+      "summary": "Uber's stock has declined nearly 20% over the past year despite growth in monthly active users, total trips, and gross bookings. Concerns about affordable rides, robotaxi competition, and non-cash charges have weighed on the stock. However, analysts expect continued revenue and E",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/UBER-N/pressreleases/3531065/should-you-buy-uber-stock-before-aug-5/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-29T17:39:22+00:00",
+      "sentiment": 0.300017,
       "change_pct": -3.55
     },
     {
@@ -769,7 +808,7 @@
       "url": "https://ca.finance.yahoo.com/news/alignment-healthcare-alhc-reports-earnings-170102084.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-07-29T13:01:00+00:00",
-      "sentiment": 0.410095,
+      "sentiment": 0.409736,
       "change_pct": -3.55,
       "title_kr": "ALHC(Alignment Healthcare), 내일 수익 보고: 기대할 사항",
       "summary_kr": "ALHC(Alignment Healthcare)는 이번 주 목요일에 실적을 발표할 예정이며, 분석가들은 전년 대비 29%의 매출 성장을 예상하고 있습니다. 이 회사는 지난 분기에 월스트리트 기대치를 초과하고 매출 추정치를 웃도는 역사를 가지고 있습니다."
@@ -784,25 +823,10 @@
       "url": "https://www.marketscreener.com/news/f5-inc-integrates-f5-ai-guardrails-with-nvidia-corporation-nemo-guardrails-to-extend-runtime-secur-ce7f51d3db8df327",
       "source": "marketscreener.com",
       "published_at": "2026-07-29T16:06:01+00:00",
-      "sentiment": 0.301041,
+      "sentiment": 0.324528,
       "change_pct": -3.55,
       "title_kr": "F5, Inc.는 F5 Ai Guardrails를 Nvidia Corporation Nemo Guardrails와 통합하여 엔터프라이즈 Ai 애플리케이션에 대한 런타임 보안을 확장합니다.",
       "summary_kr": "F5, Inc.는 NVIDIA Corporation NeMo Guardrails와 통합되어 엔터프라이즈 AI 애플리케이션에 향상된 런타임 보안을 제공하는 F5 AI Guardrails를 출시했습니다. 이 솔루션은 AI 보안 정책을 중앙 집중화하고 표준화하며 프롬프트 및 LLM을 검사합니다."
-    },
-    {
-      "id": "av_7a66f8c8ea20b6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Earnings call transcript: Teradyne tops Q2 2026 estimates on AI demand",
-      "summary": "Teradyne (TER) reported Q2 2026 non-GAAP earnings of $2.47 per share on revenue of $1.33 billion, significantly surpassing analyst estimates due to strong demand driven by artificial intelligence and data center spending. The semiconductor-test and robotics equipment maker saw it",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-teradyne-tops-q2-2026-estimates-on-ai-demand-93CH-4820636",
-      "source": "Investing.com",
-      "published_at": "2026-07-29T14:20:43+00:00",
-      "sentiment": 0.342088,
-      "change_pct": -3.55,
-      "title_kr": "수익 통화 기록: Teradyne, AI 수요에 대한 2026년 2분기 추정치를 상회",
-      "summary_kr": "Teradyne(TER)은 2026년 2분기 비GAAP 수익을 주당 2.47달러, 매출 13억 3천만 달러로 보고했는데, 이는 인공 지능 및 데이터 센터 지출에 따른 강력한 수요로 인해 분석가 추정치를 크게 웃도는 수치입니다. 반도체 테스트 및 로봇공학 EQ"
     },
     {
       "id": "av_46854c00163484",
@@ -814,7 +838,7 @@
       "url": "https://im-mining.com/2026/07/29/john-deere-electronics-makes-its-advanced-vision-processing-unit-available-to-the-european-market/",
       "source": "International Mining",
       "published_at": "2026-07-29T14:37:41+00:00",
-      "sentiment": 0.322626,
+      "sentiment": 0.321676,
       "change_pct": -3.55,
       "title_kr": "John Deere Electronics, 유럽 시장에 고급 비전 처리 장치 출시",
       "summary_kr": "John Deere Electronics는 이제 유럽의 기계 제작업체와 OEM에 고급 비전 처리 장치(VPU)를 제공하고 있습니다. 원래 John Deere의 See &Spray™ 기술용으로 개발된 이 견고한 현장 테스트 하드웨어는 정교한 실시간 비전을 가능하게 합니다."
@@ -829,36 +853,25 @@
       "url": "https://adamtooze.substack.com/p/nvidia-and-hut-8-rebuilding-chinas",
       "source": "Adam Tooze | Substack",
       "published_at": "2026-07-29T09:39:58+00:00",
-      "sentiment": 0.412767,
+      "sentiment": 0.442559,
       "change_pct": -3.55,
       "title_kr": "Nvidia & Hut 8. 중국의 대차대조표 재구축. 브라이언 이노(Brian Eno)와 구멍의 화가.",
       "summary_kr": "Nvidia는 텍사스의 Hut 8과의 상당한 임대 계약, 오하이오의 시설에 대한 OpenAI와의 논의를 포함하여 GPU를 위한 대규모 데이터 센터에 자금을 조달함으로써 AI 인프라에 막대한 투자를 하고 있습니다. 이 전략은 Nvidia의 입지를 확고히 하는 것을 목표로 합니다."
     },
     {
-      "id": "av_624c23077998ab",
+      "id": "av_7a66f8c8ea20b6",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 6.55% on Jul 29: A Full Analysis",
-      "summary": "Arm Holdings PLC (ARM) stock decreased by 6.55% on July 29, primarily due to recalibrated expectations for its ARMv9 royalty growth and elevated valuation sensitivities in the semiconductor sector. Geopolitical tensions and competition from RISC-V are also contributing factors, l",
-      "url": "https://www.tradingkey.com/news/market-movers/262061893-market-movers-arm-20260729",
-      "source": "TradingKey",
-      "published_at": "2026-07-29T16:12:10+00:00",
-      "sentiment": -0.234811,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_02d6489f3c7a57",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Watch Out, Eli Lilly and Novo Nordisk: Amgen's Monthly Weight Loss Drug Has 6 Phase 3 Trials Running -- and It's Coming for Your Patients",
-      "summary": "Amgen is developing MariTide, a monthly injectable weight-loss drug, which aims to compete with weekly injections from Eli Lilly and Novo Nordisk. While MariTide offers convenience, its phase 2 results showed 12.3% to 16.2% weight loss, which is not as effective as Eli Lilly's Ze",
-      "url": "https://finance.yahoo.com/healthcare/articles/watch-eli-lilly-novo-nordisk-115000570.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T11:37:06+00:00",
-      "sentiment": 0.347222,
-      "change_pct": -3.55
+      "title": "Earnings call transcript: Teradyne tops Q2 2026 estimates on AI demand",
+      "summary": "Teradyne (TER) reported Q2 2026 non-GAAP earnings of $2.47 per share on revenue of $1.33 billion, significantly surpassing analyst estimates due to strong demand driven by artificial intelligence and data center spending. The semiconductor-test and robotics equipment maker saw it",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-teradyne-tops-q2-2026-estimates-on-ai-demand-93CH-4820636",
+      "source": "Investing.com",
+      "published_at": "2026-07-29T14:20:43+00:00",
+      "sentiment": 0.316391,
+      "change_pct": -3.55,
+      "title_kr": "수익 통화 기록: Teradyne, AI 수요에 대한 2026년 2분기 추정치를 상회",
+      "summary_kr": "Teradyne(TER)은 2026년 2분기 비GAAP 수익을 주당 2.47달러, 매출 13억 3천만 달러로 보고했는데, 이는 인공 지능 및 데이터 센터 지출에 따른 강력한 수요로 인해 분석가 추정치를 크게 웃도는 수치입니다. 반도체 테스트 및 로봇공학 EQ"
     },
     {
       "id": "av_70df373618f591",
@@ -870,7 +883,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262061970-market-movers-anet-20260729",
       "source": "TradingKey",
       "published_at": "2026-07-29T17:16:02+00:00",
-      "sentiment": -0.203724,
+      "sentiment": -0.239277,
       "change_pct": -3.55
     },
     {
@@ -883,7 +896,20 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3525755/sk-hynix-misses-estimates-despite-profit-surge-etfs-in-focus/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-29T12:40:46+00:00",
-      "sentiment": 0.315507,
+      "sentiment": 0.310644,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_02d6489f3c7a57",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Watch Out, Eli Lilly and Novo Nordisk: Amgen's Monthly Weight Loss Drug Has 6 Phase 3 Trials Running -- and It's Coming for Your Patients",
+      "summary": "Amgen is developing MariTide, a monthly injectable weight-loss drug, which aims to compete with weekly injections from Eli Lilly and Novo Nordisk. While MariTide offers convenience, its phase 2 results showed 12.3% to 16.2% weight loss, which is not as effective as Eli Lilly's Ze",
+      "url": "https://finance.yahoo.com/healthcare/articles/watch-eli-lilly-novo-nordisk-115000570.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T11:37:06+00:00",
+      "sentiment": 0.332278,
       "change_pct": -3.55
     },
     {
@@ -896,115 +922,22 @@
       "url": "https://uk.finance.yahoo.com/news/vulcan-materials-nyse-vmc-beats-121415470.html",
       "source": "Yahoo Finance UK",
       "published_at": "2026-07-29T12:14:33+00:00",
-      "sentiment": 0.309646,
+      "sentiment": 0.310949,
       "change_pct": -3.55,
       "title_kr": "Vulcan Materials(NYSE:VMC), 2026년 2분기 매출 기대치를 상회",
       "summary_kr": "Vulcan Materials(NYSE:VMC)는 2026년 2분기 매출이 전년 동기 대비 2.5% 증가한 21억 6천만 달러, 비GAAP 이익이 주당 2.59달러로 시장 매출 기대치를 뛰어넘는 결과를 발표했습니다. 이는 분석가 컨센서스를 4.9% 앞선 것입니다. 회사의 연간 EBITDA 구"
     },
     {
-      "id": "av_536d593dce54c6",
+      "id": "av_624c23077998ab",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "ePlus stock hits 52-week high at 93.99 USD By Investing.com",
-      "summary": "ePlus Inc. shares reached a 52-week high of $93.99, marking a 36.73% return over the past year. Despite trading near its high, InvestingPro's Fair Value analysis suggests the stock might be overvalued, though its PEG ratio of 0.66 indicates an attractive valuation relative to gro",
-      "url": "https://ca.investing.com/news/stock-market-news/eplus-stock-hits-52week-high-at-9399-usd-93CH-4760504",
-      "source": "Investing.com Canada",
-      "published_at": "2026-07-29T13:52:38+00:00",
-      "sentiment": 0.249903,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_d97d57b16012fe",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arista Investors Brace for Q2 Results After a Guidance-Driven May Selloff",
-      "summary": "Arista Networks (ANET) shares are under scrutiny as the company prepares to report Q2 results following a guidance-driven selloff in May, despite beating Q1 estimates. Investors will be closely watching Q2 guidance for signals on AI networking demand, which is crucial for the com",
-      "url": "https://www.tikr.com/blog/arista-investors-brace-for-q2-results-after-a-guidance-driven-may-selloff",
-      "source": "TIKR.com",
-      "published_at": "2026-07-29T15:37:05+00:00",
-      "sentiment": 0.205342,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_5538f30575867d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "GlobalFoundries signs $300M letter of intent with Commerce Dept.",
-      "summary": "GlobalFoundries has signed a $300 million letter of intent with the U.S. Department of Commerce to advance silicon photonics technology. This funding aims to accelerate the development of next-generation wafer technologies, optical materials, and advanced packaging, leveraging Gl",
-      "url": "https://www.streetinsider.com/Corporate+News/GlobalFoundries+signs+%24300M+letter+of+intent+with+Commerce+Dept./26829998.html",
-      "source": "StreetInsider",
-      "published_at": "2026-07-29T10:34:03+00:00",
-      "sentiment": 0.331382,
-      "change_pct": -3.55,
-      "title_kr": "GlobalFoundries는 상무부와 3억 달러 규모의 의향서를 체결했습니다.",
-      "summary_kr": "GlobalFoundries는 실리콘 포토닉스 기술을 발전시키기 위해 미국 상무부와 3억 달러 규모의 의향서를 체결했습니다. 이번 펀딩은 차세대 웨이퍼 기술, 광학소재, 첨단팩 개발을 가속화하는 것을 목표로 한다."
-    },
-    {
-      "id": "av_c57b9837e6f670",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Palo Alto Networks, Inc. $PANW Shares Purchased by Resources Management Corp CT ADV",
-      "summary": "Resources Management Corp CT ADV has increased its stake in Palo Alto Networks (NASDAQ:PANW) by 40.1% in the first quarter, now owning 24,571 shares valued at $3.94 million. Several other institutional investors also adjusted their holdings. Analysts have a \"Moderate Buy\" rating ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-palo-alto-networks-inc-panw-shares-purchased-by-resources-management-corp-ct-adv-2026-07-29/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-29T10:17:05+00:00",
-      "sentiment": 0.337915,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_e930bb53588ec9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.31% on Jul 29: Key Drivers Unveiled",
-      "summary": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) stock declined by 3.31% due to macroeconomic headwinds, particularly signals from the Federal Reserve about prolonged high interest rates, and sector-wide profit-taking. Concerns about the immediate returns on AI infrastructure inve",
-      "url": "https://www.tradingkey.com/news/market-movers/262061775-market-movers-tsm-20260729",
+      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 6.55% on Jul 29: A Full Analysis",
+      "summary": "Arm Holdings PLC (ARM) stock decreased by 6.55% on July 29, primarily due to recalibrated expectations for its ARMv9 royalty growth and elevated valuation sensitivities in the semiconductor sector. Geopolitical tensions and competition from RISC-V are also contributing factors, l",
+      "url": "https://www.tradingkey.com/news/market-movers/262061893-market-movers-arm-20260729",
       "source": "TradingKey",
-      "published_at": "2026-07-29T15:10:50+00:00",
-      "sentiment": -0.210827,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_9536e6ff25b668",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Veralto Corporation Q2 2026 Earnings Call Summary",
-      "summary": "Veralto Corporation reported accelerated core sales growth in Q2 2026, driven by strong performance in Water Quality and PQI segments, with industrial water demand boosted by the data center ecosystem. The company raised its full-year adjusted EPS guidance and targets margin expa",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/veralto-corporation-q2-2026-earnings-123000466.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T12:39:24+00:00",
-      "sentiment": 0.272371,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_889a50246aa50e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Applied Materials Inc Stock (AMAT) Moved Down by 4.70% on Jul 29: Facts Behind the Movement",
-      "summary": "Applied Materials Inc. (AMAT) stock decreased by 4.70% on July 29, primarily due to a broader retreat in the semiconductor equipment sector. Factors contributing to this decline include cautious capital expenditure recalibrations by key customers, potential new U.S. export contro",
-      "url": "https://www.tradingkey.com/news/market-movers/262061623-market-movers-amat-20260729",
-      "source": "TradingKey",
-      "published_at": "2026-07-29T14:15:10+00:00",
-      "sentiment": -0.2321,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_13d652aa7f56fc",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Equinix earnings on deck: Can bookings sustain AI data center boom?",
-      "summary": "Equinix",
-      "url": "https://m.investing.com/news/earnings/equinix-earnings-on-deck-can-bookings-sustain-ai-data-center-boom-93CH-4821414?ampMode=1",
-      "source": "Investing.com",
-      "published_at": "2026-07-29T17:07:53+00:00",
-      "sentiment": 0.1425,
+      "published_at": "2026-07-29T16:12:10+00:00",
+      "sentiment": -0.209134,
       "change_pct": -3.55
     },
     {
@@ -1017,7 +950,72 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-ranger-investment-management-lp-purchases-new-shares-in-modine-manufacturing-company-mod-2026-07-29/",
       "source": "MarketBeat",
       "published_at": "2026-07-29T10:13:04+00:00",
-      "sentiment": 0.309484,
+      "sentiment": 0.346768,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_d97d57b16012fe",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arista Investors Brace for Q2 Results After a Guidance-Driven May Selloff",
+      "summary": "Arista Networks (ANET) shares are under scrutiny as the company prepares to report Q2 results following a guidance-driven selloff in May, despite beating Q1 estimates. Investors will be closely watching Q2 guidance for signals on AI networking demand, which is crucial for the com",
+      "url": "https://www.tikr.com/blog/arista-investors-brace-for-q2-results-after-a-guidance-driven-may-selloff",
+      "source": "TIKR.com",
+      "published_at": "2026-07-29T15:37:05+00:00",
+      "sentiment": 0.207981,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_9536e6ff25b668",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Veralto Corporation Q2 2026 Earnings Call Summary",
+      "summary": "Veralto Corporation reported accelerated core sales growth in Q2 2026, driven by strong performance in Water Quality and PQI segments, with industrial water demand boosted by the data center ecosystem. The company raised its full-year adjusted EPS guidance and targets margin expa",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/veralto-corporation-q2-2026-earnings-123000466.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T12:39:24+00:00",
+      "sentiment": 0.281082,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_889a50246aa50e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Applied Materials Inc Stock (AMAT) Moved Down by 4.70% on Jul 29: Facts Behind the Movement",
+      "summary": "Applied Materials Inc. (AMAT) stock decreased by 4.70% on July 29, primarily due to a broader retreat in the semiconductor equipment sector. Factors contributing to this decline include cautious capital expenditure recalibrations by key customers, potential new U.S. export contro",
+      "url": "https://www.tradingkey.com/news/market-movers/262061623-market-movers-amat-20260729",
+      "source": "TradingKey",
+      "published_at": "2026-07-29T14:15:10+00:00",
+      "sentiment": -0.238182,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_c57b9837e6f670",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Palo Alto Networks, Inc. $PANW Shares Purchased by Resources Management Corp CT ADV",
+      "summary": "Resources Management Corp CT ADV has increased its stake in Palo Alto Networks (NASDAQ:PANW) by 40.1% in the first quarter, now owning 24,571 shares valued at $3.94 million. Several other institutional investors also adjusted their holdings. Analysts have a \"Moderate Buy\" rating ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-palo-alto-networks-inc-panw-shares-purchased-by-resources-management-corp-ct-adv-2026-07-29/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-29T10:17:05+00:00",
+      "sentiment": 0.337319,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_e930bb53588ec9",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Taiwan Semiconductor Manufacturing Co Ltd Stock (TSM) Moved Down by 3.31% on Jul 29: Key Drivers Unveiled",
+      "summary": "Taiwan Semiconductor Manufacturing Co Ltd (TSM) stock declined by 3.31% due to macroeconomic headwinds, particularly signals from the Federal Reserve about prolonged high interest rates, and sector-wide profit-taking. Concerns about the immediate returns on AI infrastructure inve",
+      "url": "https://www.tradingkey.com/news/market-movers/262061775-market-movers-tsm-20260729",
+      "source": "TradingKey",
+      "published_at": "2026-07-29T15:10:50+00:00",
+      "sentiment": -0.209213,
       "change_pct": -3.55
     },
     {
@@ -1030,7 +1028,35 @@
       "url": "https://www.gurufocus.com/news/8986574/ffiv-looks-495-overvalued-on-gf-value-as-ai-security-integration-spurs-momentum",
       "source": "GuruFocus",
       "published_at": "2026-07-29T14:26:59+00:00",
-      "sentiment": 0.201969,
+      "sentiment": 0.226106,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_5538f30575867d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "GlobalFoundries signs $300M letter of intent with Commerce Dept.",
+      "summary": "GlobalFoundries has signed a $300 million letter of intent with the U.S. Department of Commerce to advance silicon photonics technology. This funding aims to accelerate the development of next-generation wafer technologies, optical materials, and advanced packaging, leveraging Gl",
+      "url": "https://www.streetinsider.com/Corporate+News/GlobalFoundries+signs+%24300M+letter+of+intent+with+Commerce+Dept./26829998.html",
+      "source": "StreetInsider",
+      "published_at": "2026-07-29T10:34:03+00:00",
+      "sentiment": 0.3151,
+      "change_pct": -3.55,
+      "title_kr": "GlobalFoundries는 상무부와 3억 달러 규모의 의향서를 체결했습니다.",
+      "summary_kr": "GlobalFoundries는 실리콘 포토닉스 기술을 발전시키기 위해 미국 상무부와 3억 달러 규모의 의향서를 체결했습니다. 이번 펀딩은 차세대 웨이퍼 기술, 광학소재, 첨단팩 개발을 가속화하는 것을 목표로 한다."
+    },
+    {
+      "id": "av_536d593dce54c6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "ePlus stock hits 52-week high at 93.99 USD By Investing.com",
+      "summary": "ePlus Inc. shares reached a 52-week high of $93.99, marking a 36.73% return over the past year. Despite trading near its high, InvestingPro's Fair Value analysis suggests the stock might be overvalued, though its PEG ratio of 0.66 indicates an attractive valuation relative to gro",
+      "url": "https://ca.investing.com/news/stock-market-news/eplus-stock-hits-52week-high-at-9399-usd-93CH-4760504",
+      "source": "Investing.com Canada",
+      "published_at": "2026-07-29T13:52:38+00:00",
+      "sentiment": 0.229515,
       "change_pct": -3.55
     },
     {
@@ -1043,23 +1069,10 @@
       "url": "https://www.imveurope.com/article/john-deere-electronics-brings-vision-processing-unit-european-oem-market",
       "source": "Imaging and Machine Vision Europe",
       "published_at": "2026-07-29T10:17:48+00:00",
-      "sentiment": 0.303056,
+      "sentiment": 0.316544,
       "change_pct": -3.55,
       "title_kr": "John Deere Electronics, 유럽 OEM 시장에 비전 처리 장치 출시",
       "summary_kr": "John Deere Electronics는 이전에 See &Spray 기술에만 사용되었던 독점적인 비전 처리 장치(VPU)를 유럽 기계 제조업체 및 OEM에게 제공했습니다. 이러한 움직임은 강력한 실시간 컴퓨터 시각화의 적용 범위를 확대합니다."
-    },
-    {
-      "id": "av_93e8b2cf3a8afe",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Atreides Management LP Takes $90.07 Million Position in Palo Alto Networks, Inc. $PANW",
-      "summary": "Atreides Management LP has acquired a new position in Palo Alto Networks, Inc. (NASDAQ:PANW), purchasing 561,797 shares valued at approximately $90.07 million. This investment makes Palo Alto Networks the 16th largest holding in Atreides Management LP's portfolio, representing 1.",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-atreides-management-lp-takes-9007-million-position-in-palo-alto-networks-inc-panw-2026-07-29/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-29T08:18:45+00:00",
-      "sentiment": 0.337257,
-      "change_pct": -3.55
     },
     {
       "id": "av_7b2329c3701c2f",
@@ -1071,7 +1084,20 @@
       "url": "https://sg.finance.yahoo.com/news/qualcomm-qcom-lands-bmw-deal-170737758.html",
       "source": "Yahoo Finance Singapore",
       "published_at": "2026-07-29T16:38:56+00:00",
-      "sentiment": 0.128681,
+      "sentiment": 0.147948,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_ce1ee559f13cde",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "MAA REPORTS SECOND QUARTER 2026 RESULTS",
+      "summary": "Mid-America Apartment Communities (MAA) announced its second quarter 2026 operating results, with Core FFO exceeding expectations due to strong demand and expense management. The company reported improved blended lease-over-lease pricing and historically low resident turnover, in",
+      "url": "https://finance.yahoo.com/real-estate/articles/maa-reports-second-quarter-2026-201500866.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T20:15:25+00:00",
+      "sentiment": 0.038619,
       "change_pct": -3.55
     },
     {
@@ -1084,7 +1110,7 @@
       "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-generac-tops-profit-forecasts-in-q2-2026-on-data-center-surge-93CH-4821103",
       "source": "Investing.com",
       "published_at": "2026-07-29T15:57:04+00:00",
-      "sentiment": 0.139194,
+      "sentiment": 0.140964,
       "change_pct": -3.55
     },
     {
@@ -1097,7 +1123,46 @@
       "url": "https://www.stocktitan.net/news/VIVO/vivo-power-secures-us-50-million-pipe-at-us-7-50-conversion-price-01etgk9ihtyr.html",
       "source": "Stock Titan",
       "published_at": "2026-07-29T12:10:48+00:00",
-      "sentiment": 0.213594,
+      "sentiment": 0.234074,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_13d652aa7f56fc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Equinix earnings on deck: Can bookings sustain AI data center boom?",
+      "summary": "Equinix",
+      "url": "https://m.investing.com/news/earnings/equinix-earnings-on-deck-can-bookings-sustain-ai-data-center-boom-93CH-4821414?ampMode=1",
+      "source": "Investing.com",
+      "published_at": "2026-07-29T17:07:53+00:00",
+      "sentiment": 0.109268,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_cf7f47d4cde685",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "EverSource Wealth Advisors LLC Has $7.96 Million Stock Position in Ciena Corporation $CIEN",
+      "summary": "EverSource Wealth Advisors LLC reduced its stake in Ciena Corporation by 14.9% in the first quarter, selling 3,601 shares but still holding 20,512 shares valued at approximately $7.96 million. Despite a significant year-over-year revenue increase of 39.5% and exceeding earnings e",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-eversource-wealth-advisors-llc-has-796-million-stock-position-in-ciena-corporation-cien-2026-07-29/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-29T08:39:57+00:00",
+      "sentiment": 0.316273,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_93e8b2cf3a8afe",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Atreides Management LP Takes $90.07 Million Position in Palo Alto Networks, Inc. $PANW",
+      "summary": "Atreides Management LP has acquired a new position in Palo Alto Networks, Inc. (NASDAQ:PANW), purchasing 561,797 shares valued at approximately $90.07 million. This investment makes Palo Alto Networks the 16th largest holding in Atreides Management LP's portfolio, representing 1.",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-atreides-management-lp-takes-9007-million-position-in-palo-alto-networks-inc-panw-2026-07-29/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-29T08:18:45+00:00",
+      "sentiment": 0.31402,
       "change_pct": -3.55
     },
     {
@@ -1110,20 +1175,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-lumentum-holdings-inc-lite-is-value-aligned-research-advisors-llcs-5th-largest-position-2026-07-29/",
       "source": "MarketBeat",
       "published_at": "2026-07-29T11:10:53+00:00",
-      "sentiment": 0.235216,
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_a5548d909b5f61",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Amundi Buys 61,077 Shares of Synopsys, Inc. $SNPS",
-      "summary": "Amundi increased its stake in Synopsys, Inc. by 3.6% in the first quarter, purchasing an additional 61,077 shares and now owning 1,761,983 shares valued at $698.59 million. Other institutional investors also adjusted their positions in the semiconductor company. Insider activity ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-buys-61077-shares-of-synopsys-inc-snps-2026-07-29/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-29T07:18:11+00:00",
-      "sentiment": 0.324153,
+      "sentiment": 0.235812,
       "change_pct": -3.55
     },
     {
@@ -1174,16 +1226,42 @@
       "change_pct": -1.31
     },
     {
-      "id": "av_8cce9d132c4296",
+      "id": "av_4f49f11d2d73f3",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Citigroup upgrades Ford after better-than-expected earnings",
-      "summary": "Citigroup has upgraded Ford stock to buy from neutral, raising its price target to $20 after the automaker reported better-than-expected Q2 2026 earnings. Analyst Michael Ward highlighted strong first-half results, a profitable product mix, and improved pricing, expecting further",
-      "url": "https://www.cnbc.com/2026/07/29/citigroup-upgrades-ford-after-better-than-expected-earnings-.html",
-      "source": "CNBC",
-      "published_at": "2026-07-29T14:05:22+00:00",
-      "sentiment": 0.136618,
+      "title": "Is Nuveen ESG Large-Cap Growth ETF (NULG) a Strong ETF Right Now?",
+      "summary": "This article evaluates the Nuveen ESG Large-Cap Growth ETF (NULG), a smart beta ETF designed for broad exposure to large-cap growth. It details NULG's structure, expense ratio, sector allocation, top holdings, and performance, comparing it with alternatives like ESGV and ESGU. Th",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nuveen-esg-large-cap-growth-102002732.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T10:11:09+00:00",
+      "sentiment": 0.234825,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_7954b7ee8c7cac",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arista Stock Before Q2 Earnings: Is it a Smart Buy or Risky Move?",
+      "summary": "Arista Networks (ANET) is set to report Q2 2026 earnings, with analysts projecting revenues of $2.83 billion and earnings of 89 cents per share, showing positive estimate revisions. The company is expected to beat estimates, bolstered by the launch of its 7060XE7 Series networkin",
+      "url": "https://www.tradingview.com/news/zacks:77323bd1d094b:0-arista-stock-before-q2-earnings-is-it-a-smart-buy-or-risky-move/",
+      "source": "TradingView",
+      "published_at": "2026-07-29T14:37:06+00:00",
+      "sentiment": 0.12375,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_a5548d909b5f61",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amundi Buys 61,077 Shares of Synopsys, Inc. $SNPS",
+      "summary": "Amundi increased its stake in Synopsys, Inc. by 3.6% in the first quarter, purchasing an additional 61,077 shares and now owning 1,761,983 shares valued at $698.59 million. Other institutional investors also adjusted their positions in the semiconductor company. Insider activity ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-buys-61077-shares-of-synopsys-inc-snps-2026-07-29/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-29T07:18:11+00:00",
+      "sentiment": 0.305646,
       "change_pct": -3.55
     },
     {
@@ -1294,19 +1372,6 @@
       "change_pct": 0.9
     },
     {
-      "id": "av_7954b7ee8c7cac",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arista Stock Before Q2 Earnings: Is it a Smart Buy or Risky Move?",
-      "summary": "Arista Networks (ANET) is set to report Q2 2026 earnings, with analysts projecting revenues of $2.83 billion and earnings of 89 cents per share, showing positive estimate revisions. The company is expected to beat estimates, bolstered by the launch of its 7060XE7 Series networkin",
-      "url": "https://www.tradingview.com/news/zacks:77323bd1d094b:0-arista-stock-before-q2-earnings-is-it-a-smart-buy-or-risky-move/",
-      "source": "TradingView",
-      "published_at": "2026-07-29T14:37:06+00:00",
-      "sentiment": 0.110993,
-      "change_pct": -3.55
-    },
-    {
       "id": "f_1034f2d24d590e",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1390,16 +1455,29 @@
       "change_pct": -3.55
     },
     {
-      "id": "av_4f49f11d2d73f3",
+      "id": "av_8cce9d132c4296",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Is Nuveen ESG Large-Cap Growth ETF (NULG) a Strong ETF Right Now?",
-      "summary": "This article evaluates the Nuveen ESG Large-Cap Growth ETF (NULG), a smart beta ETF designed for broad exposure to large-cap growth. It details NULG's structure, expense ratio, sector allocation, top holdings, and performance, comparing it with alternatives like ESGV and ESGU. Th",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nuveen-esg-large-cap-growth-102002732.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-29T10:11:09+00:00",
-      "sentiment": 0.211861,
+      "title": "Citigroup upgrades Ford after better-than-expected earnings",
+      "summary": "Citigroup has upgraded Ford stock to buy from neutral, raising its price target to $20 after the automaker reported better-than-expected Q2 2026 earnings. Analyst Michael Ward highlighted strong first-half results, a profitable product mix, and improved pricing, expecting further",
+      "url": "https://www.cnbc.com/2026/07/29/citigroup-upgrades-ford-after-better-than-expected-earnings-.html",
+      "source": "CNBC",
+      "published_at": "2026-07-29T14:05:22+00:00",
+      "sentiment": 0.113651,
+      "change_pct": -3.55
+    },
+    {
+      "id": "av_14ef3e1f209226",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Coca-Cola Stock Is More Expensive Than Nvidia, and Deservedly So",
+      "summary": "Coca-Cola's stock valuation has become higher than that of Nvidia and other \"Magnificent Seven\" stocks following strong second-quarter earnings. This unusual positioning for the soft-drink leader reflects a situation reminiscent of the 1990s, where Coca-Cola (KO) commanded a prem",
+      "url": "https://www.barrons.com/articles/coca-cola-stock-more-expensive-nvidia-3a5baa61",
+      "source": "Barron's",
+      "published_at": "2026-07-29T13:53:36+00:00",
+      "sentiment": -0.118087,
       "change_pct": -3.55
     },
     {
@@ -1617,19 +1695,6 @@
       "change_pct": -3.55
     },
     {
-      "id": "av_14ef3e1f209226",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Coca-Cola Stock Is More Expensive Than Nvidia, and Deservedly So",
-      "summary": "Coca-Cola's stock valuation has become higher than that of Nvidia and other \"Magnificent Seven\" stocks following strong second-quarter earnings. This unusual positioning for the soft-drink leader reflects a situation reminiscent of the 1990s, where Coca-Cola (KO) commanded a prem",
-      "url": "https://www.barrons.com/articles/coca-cola-stock-more-expensive-nvidia-3a5baa61",
-      "source": "Barron's",
-      "published_at": "2026-07-29T13:53:36+00:00",
-      "sentiment": -0.102624,
-      "change_pct": -3.55
-    },
-    {
       "id": "f_8bf8fd4f5e8c44",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -1807,18 +1872,6 @@
       "change_pct": -1.31
     },
     {
-      "id": "f_88dee3bbc8edb9",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Should You Buy Uber Stock Before Aug. 5?",
-      "summary": "The world's top ride-hailing company is still growing rapidly.",
-      "url": "https://finnhub.io/api/news?id=83ddb3cf30e063e8364135e7d5d36fa6c7946a3989598628ff976e5fb2d56cee",
-      "source": "Yahoo",
-      "published_at": "2026-07-29T17:27:14+00:00",
-      "change_pct": -3.55
-    },
-    {
       "id": "f_bd0f7fa45b5e63",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1828,19 +1881,6 @@
       "url": "https://finnhub.io/api/news?id=af9fe5ce9afa31ec35c0b2b775d4e32cae95e26a203c55601572fee467a07d47",
       "source": "Yahoo",
       "published_at": "2026-07-29T17:25:29+00:00",
-      "change_pct": -3.55
-    },
-    {
-      "id": "av_74785e357b91e0",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Altshuler Shaham Ltd Invests $3.86 Million in Argan, Inc. $AGX",
-      "summary": "Altshuler Shaham Ltd has purchased a new stake of 7,079 shares in Argan, Inc. (NYSE:AGX) valued at approximately $3.86 million during the first quarter, representing about 0.05% of Argan's stock. Other institutional investors have also adjusted their holdings in Argan, with signi",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-altshuler-shaham-ltd-invests-386-million-in-argan-inc-agx-2026-07-29/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-29T07:11:04+00:00",
-      "sentiment": 0.255254,
       "change_pct": -3.55
     },
     {
@@ -2089,19 +2129,6 @@
       "published_at": "2026-07-29T16:20:00+00:00"
     },
     {
-      "id": "av_ce4a560030085a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why Is International Paper (IP) Stock Soaring Today",
-      "summary": "Shares of International Paper (IP) jumped 5% after JPMorgan upgraded the stock from Neutral to Overweight and raised its price target to $61, citing a recent $140 per ton price increase for U.S. kraftliner. Despite this gain, the stock remains below its 52-week high, and long-ter",
-      "url": "https://uk.finance.yahoo.com/news/why-international-paper-ip-stock-040502986.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-29T04:08:18+00:00",
-      "sentiment": 0.30463,
-      "change_pct": -3.55
-    },
-    {
       "id": "f_426abcb436b44f",
       "provider": "finnhub",
       "ticker": "META",
@@ -2185,16 +2212,28 @@
       "change_pct": 0.9
     },
     {
-      "id": "av_e314ce9b556b54",
+      "id": "av_71a829986c2590",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Hilltop Holdings Inc. Trims Stock Holdings in Meta Platforms, Inc. $META",
-      "summary": "Hilltop Holdings Inc. reduced its stake in Meta Platforms, Inc. by 58.0% in the first quarter, selling 11,735 shares and retaining 8,494 shares valued at $4,859,000. This article also details modifications in Meta Platforms holdings by other institutional investors and recent ins",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hilltop-holdings-inc-trims-stock-holdings-in-meta-platforms-inc-meta-2026-07-29/",
+      "title": "Smith Group Asset Management LLC Invests $752,000 in Kulicke and Soffa Industries, Inc. $KLIC",
+      "summary": "Smith Group Asset Management LLC recently acquired a new stake of 11,449 shares, valued at $752,000, in Kulicke and Soffa Industries during the first quarter. Institutional investors and hedge funds own 98.22% of the company, which reported strong quarterly earnings and revenue g",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-smith-group-asset-management-llc-invests-752000-in-kulicke-and-soffa-industries-inc-klic-2026-07-29/",
       "source": "MarketBeat",
-      "published_at": "2026-07-29T10:11:50+00:00",
-      "sentiment": 0.14695,
+      "published_at": "2026-07-29T10:41:42+00:00",
+      "sentiment": 0.136117,
+      "change_pct": -3.55
+    },
+    {
+      "id": "f_66c12db6e66ed4",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia's $5 Billion SSI Bet Could Protect Its Post-LLM Lead",
+      "summary": "Nvidia Corporationâs $5B SSI investment: analyze the AI strategy, hyperscaler risk, valuation and Buy call ($197â$251). Click for this NVDA update.",
+      "url": "https://finnhub.io/api/news?id=6a654a613ce1117d478a2466b7352d6aa1ffdb7134e4dd442aba5955f0eab051",
+      "source": "SeekingAlpha",
+      "published_at": "2026-07-29T16:05:58+00:00",
       "change_pct": -3.55
     },
     {
@@ -2210,6 +2249,19 @@
       "change_pct": 0.9
     },
     {
+      "id": "av_b4f7926aa0a6f3",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SiTime (SITM) Expected to Announce Earnings on Wednesday",
+      "summary": "SiTime (SITM) is anticipated to release its Q2 2026 earnings after market close on Wednesday, August 5th, with analysts projecting an EPS of $1.93 and revenue of $146.46 million. The company beat estimates in its previous quarter, reporting $1.44 EPS and $113.57 million in revenu",
+      "url": "https://www.marketbeat.com/instant-alerts/sitime-sitm-expected-to-announce-earnings-on-wednesday-2026-07-29/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-29T11:12:25+00:00",
+      "sentiment": 0.119578,
+      "change_pct": -3.55
+    },
+    {
       "id": "f_ff7b714cb8f29d",
       "provider": "finnhub",
       "ticker": "META",
@@ -2220,6 +2272,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-29T15:57:00+00:00",
       "change_pct": -1.31
+    },
+    {
+      "id": "av_5dc70cdc1d9b1c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Should iShares MSCI USA Min Vol Factor ETF (USMV) Be on Your Investing Radar?",
+      "summary": "The iShares MSCI USA Min Vol Factor ETF (USMV) offers broad exposure to the Large Cap Blend segment of the US equity market with a focus on lower volatility, making it a potentially attractive option for investors. Launched in 2011, it holds over $23.76 billion in assets and has ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-msci-usa-min-vol-102002253.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-29T10:09:08+00:00",
+      "sentiment": 0.143684,
+      "change_pct": -3.55
     },
     {
       "id": "f_6f5b11dd78796d",
@@ -2269,6 +2334,19 @@
       "change_pct": -3.55
     },
     {
+      "id": "av_4b27d62f85af7d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Renaissance Technologies LLC Takes $36.13 Million Position in TTM Technologies, Inc. $TTMI",
+      "summary": "Renaissance Technologies LLC has acquired a new stake of 370,869 shares in TTM Technologies, Inc. (NASDAQ:TTMI), valued at approximately $36.13 million. This investment makes up about 0.36% of TTM Technologies. Other institutional investors have also increased their holdings in t",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-takes-3613-million-position-in-ttm-technologies-inc-ttmi-2026-07-29/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-29T10:10:38+00:00",
+      "sentiment": 0.140688,
+      "change_pct": -3.55
+    },
+    {
       "id": "f_3f2c911f0cfce3",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -2278,19 +2356,6 @@
       "url": "https://finnhub.io/api/news?id=84f73ba0f445a57ecb30d6073f11b0b7bcfbc2356635012100fea04bdf92629e",
       "source": "Yahoo",
       "published_at": "2026-07-29T15:48:08+00:00"
-    },
-    {
-      "id": "av_b4f7926aa0a6f3",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SiTime (SITM) Expected to Announce Earnings on Wednesday",
-      "summary": "SiTime (SITM) is anticipated to release its Q2 2026 earnings after market close on Wednesday, August 5th, with analysts projecting an EPS of $1.93 and revenue of $146.46 million. The company beat estimates in its previous quarter, reporting $1.44 EPS and $113.57 million in revenu",
-      "url": "https://www.marketbeat.com/instant-alerts/sitime-sitm-expected-to-announce-earnings-on-wednesday-2026-07-29/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-29T11:12:25+00:00",
-      "sentiment": 0.11427,
-      "change_pct": -3.55
     },
     {
       "id": "f_5d9808cff2bfc0",
@@ -2303,6 +2368,18 @@
       "source": "Yahoo",
       "published_at": "2026-07-29T15:41:48+00:00",
       "change_pct": 0.9
+    },
+    {
+      "id": "f_bf146ffa8da076",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "This Anti-Tesla ETF Is Up 75%+ in July—Here's What's Driving the Stunning Rally",
+      "summary": "Bearish Tesla ETFs are back in focus with solid returns in July, fueled by Tesla&#39;s post-earnings selloff and shifting investor sentiment.",
+      "url": "https://finnhub.io/api/news?id=6a59cdc3d7abd6c5dfbb0d5677ffaf884a1a07908935b899ee8203be54c5d6ce",
+      "source": "Benzinga",
+      "published_at": "2026-07-29T15:39:47+00:00",
+      "change_pct": -2.97
     },
     {
       "id": "f_10d01c806816f6",
@@ -2457,81 +2534,10 @@
       "source": "Yahoo",
       "published_at": "2026-07-29T15:08:00+00:00",
       "change_pct": -1.31
-    },
-    {
-      "id": "f_d79acc8c9e27eb",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "How Far Tesla Stock Needs to Fall to Lose Trillion-Dollar Status",
-      "summary": "The shares dropped for five consecutive days, including a four-day losing streak since the car maker reported weaker-than-expected second-quarter earnings.",
-      "url": "https://finnhub.io/api/news?id=bb4fe2e08ba8990ddbfcc0f7736b6300679e6de238c77a1390bbd861b7598402",
-      "source": "Yahoo",
-      "published_at": "2026-07-29T15:07:00+00:00",
-      "change_pct": -2.97
-    },
-    {
-      "id": "f_ecb89a5e84a29c",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Coinbase CEO Brian Armstrong's Bold Fix for America's $39.7 Trillion Debt Crisis (Hint: It Involves Bitcoin.)",
-      "summary": "Can Bitcoin really solve America's debt crisis? Coinbase CEO Brian Armstrong thinks so, but the math tells a different story.",
-      "url": "https://finnhub.io/api/news?id=2fa200a1c74b667e2134b9a6114432ffed3ba859190ad3aa9d34c6b64e08e76e",
-      "source": "Yahoo",
-      "published_at": "2026-07-29T15:03:00+00:00",
-      "change_pct": -3.55
-    },
-    {
-      "id": "f_65517e6a6a247a",
-      "provider": "finnhub",
-      "ticker": "MSTR",
-      "category": "general",
-      "title": "Cleveland‑Cliffs Signs 3-Year Agreement With Palantir; Financial Terms Not Disclosed",
-      "summary": "",
-      "url": "https://finnhub.io/api/news?id=085dd41fce8ac2b4b96a12a8c312b5ea0ef6230a9dd75044cff0c2e112073018",
-      "source": "Benzinga",
-      "published_at": "2026-07-29T15:02:47+00:00",
-      "change_pct": -2.94
-    },
-    {
-      "id": "f_69ed76af3c4f87",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The AI Trade Is Still On: Why Nvidia Remains at the Center of It",
-      "summary": "Nvidia has already handed investors a 14,797% return over the past decade, yet the forces driving that run show no sign of exhausting themselves. Whether the next leg holds depends on a few fault lines most bulls are not watching closely enough.",
-      "url": "https://finnhub.io/api/news?id=56657e684baa5edcc80f5b07716565b163cf0a63f15265459e5ffd4a1494db37",
-      "source": "Yahoo",
-      "published_at": "2026-07-29T15:00:58+00:00",
-      "change_pct": -3.55
-    },
-    {
-      "id": "f_29b88c0144787c",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Meta's Mark Zuckerberg goes on the offensive selling AI optimism",
-      "summary": "Meta Platforms (META) CEO Mark Zuckerberg has been defending AI in a media campaign, telling the New York Times that artificial intelligence discourse is \"overwhelmingly filled with doom.\" Morning Brief Host Julie Hyman is joined by Yahoo Finance Senior Reporter Pras Subramanian and Breaking News Reporter Jake Conley to break down the latest comments from Zuckerberg and Anthropic (ANTH.PVT) CEO Dario Amodei. Meta, alongside Microsoft (MSFT), will be releasing its latest quarterly earnings results after Wednesday's market close.",
-      "url": "https://finnhub.io/api/news?id=639d502a2c12f7a0b6be5d9ebaf85df112c2737a1d47c406ab8ef73e1fd5d484",
-      "source": "Yahoo",
-      "published_at": "2026-07-29T15:00:00+00:00",
-      "change_pct": -1.31
-    },
-    {
-      "id": "f_c047536b5f4322",
-      "provider": "finnhub",
-      "ticker": "SOFI",
-      "category": "general",
-      "title": "SoFi Technologies: Opportunity Knocks On This Huge Correction",
-      "summary": "SoFi Technologies, Inc. is upgraded to Strong Buy after a significant valuation correction and robust Q2 results. Read more on SOFI stock here.",
-      "url": "https://finnhub.io/api/news?id=059ee4128f73679be5b8cbd7a1278a60da1cb5bec7bd077bff3551e75c1afd3a",
-      "source": "SeekingAlpha",
-      "published_at": "2026-07-29T14:56:05+00:00"
     }
   ],
-  "fetched_at": "2026-07-29T20:18:39.240348+00:00",
+  "fetched_at": "2026-07-29T21:14:53.333966+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-29T20:18:41.958991+00:00",
+  "translated_at": "2026-07-29T21:14:55.421785+00:00",
   "translation_engine": "google-parallel"
 }
