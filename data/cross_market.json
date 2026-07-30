@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-07-30T00:10:43.995214+00:00",
+  "fetched_at": "2026-07-30T01:22:17.026747+00:00",
   "us_mood_score": 24,
-  "kr_mood_score": 66,
+  "kr_mood_score": 50,
   "us_mood": "bearish",
-  "kr_mood": "bullish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "MRVL",
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -3.2,
-      "actual_kr_pct": -2.0,
+      "actual_kr_pct": -2.5,
       "reason": "MI355X용 HBM 공급",
       "us_price": 429.56,
-      "kr_price": 1373000.0
+      "kr_price": 1366000.0
     },
     {
       "us_ticker": "NVDA",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -2.85,
-      "actual_kr_pct": -2.0,
+      "actual_kr_pct": -2.5,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 163.4,
-      "kr_price": 1373000.0
+      "kr_price": 1366000.0
     },
     {
       "us_ticker": "NVDA",
@@ -96,10 +96,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -2.56,
-      "actual_kr_pct": -2.0,
+      "actual_kr_pct": -2.5,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 190.01,
-      "kr_price": 1373000.0
+      "kr_price": 1366000.0
     },
     {
       "us_ticker": "TSLA",
@@ -108,10 +108,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -2.02,
-      "actual_kr_pct": 2.0,
+      "actual_kr_pct": 7.4,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 298.32,
-      "kr_price": 306500.0
+      "kr_price": 322750.0
     },
     {
       "us_ticker": "NVDA",
@@ -120,10 +120,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.85,
-      "actual_kr_pct": 2.16,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 190.01,
-      "kr_price": 213000.0
+      "kr_price": 208500.0
     },
     {
       "us_ticker": "TSLA",
@@ -132,10 +132,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -1.84,
-      "actual_kr_pct": 3.13,
+      "actual_kr_pct": 4.64,
       "reason": "NCA 양극재 공급",
       "us_price": 298.32,
-      "kr_price": 95500.0
+      "kr_price": 96900.0
     },
     {
       "us_ticker": "TSLA",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.17,
-      "actual_kr_pct": -2.0,
+      "actual_kr_pct": -2.5,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 370.32,
-      "kr_price": 1373000.0
+      "kr_price": 1366000.0
     },
     {
       "us_ticker": "MSTR",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.55,
-      "actual_kr_pct": 0.74,
+      "actual_kr_pct": -0.89,
       "reason": "커머스·클라우드 동행",
       "us_price": 226.65,
-      "kr_price": 203000.0
+      "kr_price": 199700.0
     },
     {
       "us_ticker": "AMZN",
@@ -240,10 +240,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": -0.51,
-      "actual_kr_pct": 2.16,
+      "actual_kr_pct": 0.0,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 226.65,
-      "kr_price": 213000.0
+      "kr_price": 208500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.08,
+      "kr_actual_avg_pct": -1.25,
       "beta": 0.65,
       "predicted_kr_avg_pct": -2.95,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 2.56,
+      "kr_actual_avg_pct": 6.02,
       "beta": 0.58,
       "predicted_kr_avg_pct": -1.72,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.72,
+      "kr_actual_avg_pct": 1.04,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.28,
       "lag_hours": 8
@@ -329,10 +329,10 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "Bunge Global S.A. Q2 2026 Earnings Call Summary",
-      "title_kr": "Bunge Global S.A. 2026년 2분기 실적 요약",
+      "title": "Starbucks Raises Its Full-Year Guidance as Comparable Store Sales Jump 7.9%. Here’s What Investors Need to Know.",
+      "title_kr": "스타벅스는 비교 가능한 매장 매출이 7.9% 증가함에 따라 연간 지침을 높였습니다. 투자자가 알아야 할 사항은 다음과 같습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-29T21:42:56+00:00",
+      "published_at": "2026-07-29T23:22:05+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -340,27 +340,27 @@
       ]
     },
     {
-      "ticker": "META",
-      "title": "Dow Jones Futures: Stock Market Tumbles, Oil Prices Soar On Trump's Iran Threats; Microsoft, Meta, Fortinet Earnings Late",
-      "title_kr": "다우 존스 선물: 트럼프의 이란 위협으로 인해 주식 시장이 폭락하고 유가가 치솟습니다. Microsoft, Meta, Fortinet 수익 지연",
+      "ticker": "AAPL",
+      "title": "QCOM Stock Drops Nearly 8% After Hours — Qualcomm’s Q3 Earnings Miss, Weak Q4 Outlook Overshadows Revenue Beat",
+      "title_kr": "QCOM 주식은 영업 시간 이후 거의 8% 하락합니다. Qualcomm의 3분기 실적이 부진하고 4분기 전망이 부진하여 수익이 더 어두워졌습니다.",
       "source": "Yahoo",
-      "published_at": "2026-07-29T21:40:29+00:00",
+      "published_at": "2026-07-29T22:41:08+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "삼성전자",
+        "SK하이닉스"
+      ]
+    },
+    {
+      "ticker": "META",
+      "title": "Meta misses profit expectations, sticks to massive AI spending",
+      "title_kr": "Meta는 이익 기대치를 놓치고 막대한 AI 지출을 고수합니다.",
+      "source": "Yahoo",
+      "published_at": "2026-07-29T22:06:14+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
         "하이브"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Microsoft's Q4 results are 'narrative changing,' according to one analyst",
-      "title_kr": "한 분석가에 따르면 Microsoft의 4분기 결과는 '서술적 변화'입니다.",
-      "source": "Yahoo",
-      "published_at": "2026-07-29T21:30:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 64041.99,
-      "change_pct": -0.02,
+      "price": 63762.7,
+      "change_pct": -0.18,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL -6.3% → 한미반도체 개장 하방 압력 예상 (-3.9% 전후). US 무드 24/100, KR 무드 66/100."
+  "summary": "미국 MRVL -6.3% → 한미반도체 개장 하방 압력 예상 (-3.9% 전후). US 무드 24/100, KR 무드 50/100."
 }
