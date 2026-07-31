@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T10:51:10.380129+00:00",
+  "fetched_at": "2026-07-31T12:53:05.498228+00:00",
   "sp500": {
     "price": 7437.63,
     "change_pct": 0.12,
@@ -16,86 +16,45 @@
     "label": "Dow"
   },
   "vix": {
-    "price": 16.81,
-    "change_pct": -1.64,
+    "price": 17.22,
+    "change_pct": 0.76,
     "label": "VIX"
   },
   "btc": {
-    "price": 63902.82,
-    "change_pct": -1.07,
+    "price": 63667.73,
+    "change_pct": -1.63,
     "label": "BTC"
   },
-  "watchlist": {
-    "NVDA": {
-      "price": 195.04,
-      "change_pct": 2.65
-    },
-    "MRVL": {
-      "price": 183.3,
-      "change_pct": 12.18
-    },
-    "TSLA": {
-      "price": 308.85,
-      "change_pct": 3.53
-    },
-    "MSTR": {
-      "price": 97.74,
-      "change_pct": 4.73
-    },
-    "GOOGL": {
-      "price": 333.66,
-      "change_pct": -0.91
-    },
-    "AMD": {
-      "price": 485.39,
-      "change_pct": 13.0
-    },
-    "META": {
-      "price": 539.03,
-      "change_pct": -7.95
-    },
-    "MSFT": {
-      "price": 451.1,
-      "change_pct": 15.51
-    },
-    "AMZN": {
-      "price": 235.5,
-      "change_pct": 3.9
-    },
-    "AVGO": {
-      "price": 387.84,
-      "change_pct": 4.73
-    }
-  },
+  "watchlist": {},
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 95,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "AAPL",
-      "mentions": 20,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "AMZN",
-      "mentions": 15,
+      "mentions": 96,
       "surge_pct": 0
     },
     {
       "ticker": "GOOGL",
-      "mentions": 14,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSFT",
-      "mentions": 13,
+      "mentions": 19,
       "surge_pct": 0
     },
     {
       "ticker": "TSLA",
-      "mentions": 12,
+      "mentions": 17,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "AAPL",
+      "mentions": 14,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "AMZN",
+      "mentions": 13,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MSFT",
+      "mentions": 11,
       "surge_pct": 0
     },
     {
@@ -110,16 +69,16 @@
     },
     {
       "ticker": "MSTR",
-      "mentions": 8,
+      "mentions": 5,
       "surge_pct": 0
     },
     {
       "ticker": "RKLB",
-      "mentions": 2,
+      "mentions": 3,
       "surge_pct": 0
     }
   ],
-  "mood_score": 57,
+  "mood_score": 56,
   "mood": "neutral",
   "mood_summary": "S&P +0.12% · Nasdaq +0.99%"
 }
