@@ -719,19 +719,6 @@
       "summary_kr": "마이크로소프트의 주가는 수익 측면에서 15% 급등했지만, 연초 주가는 여전히 뒤처져 있습니다. 이러한 움직임이 너무 늦었다고 일축하기 전에, 시장이 완전히 반영하지 못한 결과에는 두 가지 근본적인 신호가 묻혀 있습니다."
     },
     {
-      "id": "f_d51ea828545b98",
-      "provider": "finnhub",
-      "ticker": "COIN",
-      "category": "earnings",
-      "title": "Coinbase Global, Inc. 2026 Q2 - Results - Earnings Call Presentation",
-      "summary": "2026-07-31. The following slide deck was published by Coinbase Global, Inc.",
-      "url": "https://finnhub.io/api/news?id=42edcec8568c8c348770422f7fe4312a1f2d0d2c98383a377ac3155fc9cb462c",
-      "source": "SeekingAlpha",
-      "published_at": "2026-07-31T16:01:30+00:00",
-      "title_kr": "Coinbase Global, Inc. 2026년 2분기 - 결과 - 실적 발표 프레젠테이션",
-      "summary_kr": "2026-07-31. 다음 슬라이드 자료는 Coinbase Global, Inc.에서 게시되었습니다."
-    },
-    {
       "id": "f_432843f0324a7e",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -790,6 +777,42 @@
       "change_pct": 0.76
     },
     {
+      "id": "f_324a75cbc85ea0",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "analyst",
+      "title": "UBS Maintains Buy on Amazon.com, Raises Price Target to $318",
+      "summary": "UBS  analyst Stephen Ju   maintains Amazon.com (NASDAQ:AMZN) with a Buy and raises the price target from $305 to $318.",
+      "url": "https://finnhub.io/api/news?id=941a2d26315dc6bc6a631043247dacacc9b9281cce8f1629b29bfa3b27c68dab",
+      "source": "Benzinga",
+      "published_at": "2026-07-31T17:08:43+00:00",
+      "change_pct": 15.32
+    },
+    {
+      "id": "f_f00b5ef714a328",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "analyst",
+      "title": "Telsey Advisory Group Maintains Outperform on Amazon.com, Raises Price Target to $335",
+      "summary": "Telsey Advisory Group  analyst Joseph Feldman   maintains Amazon.com (NASDAQ:AMZN) with a Outperform and raises the price target from $315 to $335.",
+      "url": "https://finnhub.io/api/news?id=ccb99334408760a1c00c911afdc9e4593e3067827b945380996b78b8fd3629cb",
+      "source": "Benzinga",
+      "published_at": "2026-07-31T17:01:19+00:00",
+      "change_pct": 15.32
+    },
+    {
+      "id": "f_7e49c2596328ec",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "analyst",
+      "title": "Bernstein Maintains Outperform on Amazon.com, Raises Price Target to $320",
+      "summary": "Bernstein  analyst Mark L. Moerdler   maintains Amazon.com (NASDAQ:AMZN) with a Outperform and raises the price target from $315 to $320.",
+      "url": "https://finnhub.io/api/news?id=a292641f5daaa2bc8da50a5cf262f1f2ee446b58c9a34b2e58f464f50ead588d",
+      "source": "Benzinga",
+      "published_at": "2026-07-31T16:13:25+00:00",
+      "change_pct": 15.32
+    },
+    {
       "id": "av_0bf51cb72729bb",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -799,7 +822,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3584602/prediction-nvidia-will-be-a-10-trillion-company-by-2030-heres-the-math/",
       "source": "The Globe and Mail",
       "published_at": "2026-07-31T20:38:25+00:00",
-      "sentiment": 0.504699,
+      "sentiment": 0.47807,
       "change_pct": 2.93
     },
     {
@@ -812,7 +835,7 @@
       "url": "https://www.barrons.com/articles/nvidia-stock-price-amazon-2354d905",
       "source": "Barron's",
       "published_at": "2026-07-31T21:15:25+00:00",
-      "sentiment": 0.433981,
+      "sentiment": 0.425568,
       "change_pct": 2.93
     },
     {
@@ -825,23 +848,21 @@
       "url": "https://finance.yahoo.com/markets/article/did-apple-just-signal-a-bottom-in-momentum-driven-memory-chip-stocks-184019981.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-31T18:39:56+00:00",
-      "sentiment": 0.37098,
+      "sentiment": 0.368059,
       "change_pct": 2.93
     },
     {
-      "id": "av_b775f75a7903eb",
+      "id": "av_669b66f4dd59a9",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia regains title of largest company in the world",
-      "summary": "Nvidia has once again surpassed Apple to become the world's most valuable public company after a volatile July where the two tech giants frequently exchanged the top spot. Nvidia's rise is attributed to the high demand for its GPUs in AI training and inference, following its pivo",
-      "url": "https://cryptobriefing.com/nvidia-regains-largest-company-title/",
-      "source": "Crypto Briefing",
-      "published_at": "2026-07-31T14:34:52+00:00",
-      "sentiment": 0.42665,
-      "change_pct": 2.93,
-      "title_kr": "엔비디아, 세계 최대 기업 타이틀 탈환",
-      "summary_kr": "Nvidia는 두 거대 기술 기업이 자주 1위 자리를 교체했던 불안한 7월 이후 다시 한번 Apple을 제치고 세계에서 가장 가치 있는 상장 기업이 되었습니다. Nvidia의 상승은 AI 훈련 및 추론 분야에서 GPU에 대한 수요가 높기 때문입니다."
+      "title": "These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
+      "summary": "This article examines three dividend ETFs—Fidelity High Dividend ETF (FDVV), First Trust Dividend Strength ETF (TDVI), and Amplify CWP Growth & Income ETF (QDVO)—that provide exposure to mega-cap tech stocks like Nvidia and Microsoft while offering substantial distribution yields",
+      "url": "https://247wallst.com/investing/2026/07/31/these-3-dividend-etfs-own-nvidia-and-microsoft-and-still-pay-up-to-8-percent/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-31T18:40:08+00:00",
+      "sentiment": 0.342848,
+      "change_pct": 2.93
     },
     {
       "id": "av_e57d0d30bf5f83",
@@ -853,10 +874,25 @@
       "url": "https://www.techtimes.com/articles/322398/20260731/ai-factory-buildout-lifts-teradyne-robotics-first-ever-100m-quarter.htm",
       "source": "Tech Times",
       "published_at": "2026-07-31T14:23:15+00:00",
-      "sentiment": 0.418139,
+      "sentiment": 0.408857,
       "change_pct": 2.93,
       "title_kr": "AI 공장 증축으로 Teradyne Robotics가 사상 최초로 분기 1억 달러 달성",
       "summary_kr": "Teradyne Robotics는 AI 데이터 센터를 구축하는 전자 및 반도체 제조업체의 주문이 50% 급증한 데 힘입어 2026년 2분기에 최초로 분기별 매출 1억 달러를 달성했습니다. 이 이정표는 산업용 로봇의 중요한 변화를 강조합니다."
+    },
+    {
+      "id": "av_b775f75a7903eb",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia regains title of largest company in the world",
+      "summary": "Nvidia has once again surpassed Apple to become the world's most valuable public company after a volatile July where the two tech giants frequently exchanged the top spot. Nvidia's rise is attributed to the high demand for its GPUs in AI training and inference, following its pivo",
+      "url": "https://cryptobriefing.com/nvidia-regains-largest-company-title/",
+      "source": "Crypto Briefing",
+      "published_at": "2026-07-31T14:34:52+00:00",
+      "sentiment": 0.403957,
+      "change_pct": 2.93,
+      "title_kr": "엔비디아, 세계 최대 기업 타이틀 탈환",
+      "summary_kr": "Nvidia는 두 거대 기술 기업이 자주 1위 자리를 교체했던 불안한 7월 이후 다시 한번 Apple을 제치고 세계에서 가장 가치 있는 상장 기업이 되었습니다. Nvidia의 상승은 AI 훈련 및 추론 분야에서 GPU에 대한 수요가 높기 때문입니다."
     },
     {
       "id": "av_4638d42837f68c",
@@ -868,7 +904,7 @@
       "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/07/60836312/michael-burry-expands-bets-against-nvidia-micron-and-is-now-buying-lululemon-and-draftkings",
       "source": "Benzinga",
       "published_at": "2026-07-31T13:19:26+00:00",
-      "sentiment": -0.41272,
+      "sentiment": -0.42344,
       "change_pct": 2.93,
       "title_kr": "Michael Burry는 Nvidia, Micron에 대한 투자를 확대하고 현재 Lululemon 및 DraftKings를 인수하고 있습니다.",
       "summary_kr": "\"The Big Short\"로 알려진 Michael Burry는 iShares Semiconductor ETF 및 Invesco QQQ Trust와 같은 광범위한 시장 ETF와 함께 거대 반도체 기업인 Nvidia 및 Micron에 대한 약세 포지션을 높였습니다. 동시에 Burry는 매수 포지션을 구축했습니다."
@@ -883,7 +919,7 @@
       "url": "https://www.trefis.com/stock/avgo/articles/609671/broadcom-no-longer-sells-itself-as-a-chip-cycle-story/2026-07-31",
       "source": "Trefis",
       "published_at": "2026-07-31T15:07:09+00:00",
-      "sentiment": 0.33827,
+      "sentiment": 0.338332,
       "change_pct": 2.93
     },
     {
@@ -896,33 +932,7 @@
       "url": "https://sg.finance.yahoo.com/news/fortinet-securing-ai-revolution-181700463.html",
       "source": "Yahoo Finance Singapore",
       "published_at": "2026-07-31T18:37:43+00:00",
-      "sentiment": 0.242308,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_550871b12ab26e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Corning Rides AI Data Center Growth as Optical Demand Accelerates",
-      "summary": "Corning is experiencing significant growth driven by increasing demand from AI data centers, leading to expanded orders for its optical fiber, cable, and connectivity products. The company has secured multiyear, multibillion-dollar agreements with major hyperscalers like Meta Pla",
-      "url": "https://ca.finance.yahoo.com/news/corning-rides-ai-data-center-174500670.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-07-31T18:07:50+00:00",
-      "sentiment": 0.24837,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_3503eb1bdea687",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Bit Origin proposes name change to Sangrix, eyes AI focus",
-      "summary": "Bit Origin Ltd (NASDAQ:BTOG) announced a proposed name change to Sangrix Inc., pending shareholder approval on August 11, 2026. This rebranding reflects a strategic shift towards AI computing infrastructure, with a primary focus on deploying sixteen NVIDIA Blackwell B300 AI serve",
-      "url": "https://m.in.investing.com/news/stock-market-news/bit-origin-proposes-name-change-to-sangrix-eyes-ai-focus-93CH-5528005?ampMode=1",
-      "source": "Investing.com India",
-      "published_at": "2026-07-31T13:39:32+00:00",
-      "sentiment": 0.321967,
+      "sentiment": 0.236753,
       "change_pct": 2.93
     },
     {
@@ -935,22 +945,22 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-planning-alternatives-ltd-adv-purchases-5287-shares-of-nvidia-corporation-nvda-2026-07-31/",
       "source": "MarketBeat",
       "published_at": "2026-07-31T09:04:33+00:00",
-      "sentiment": 0.432028,
+      "sentiment": 0.437324,
       "change_pct": 2.93,
       "title_kr": "Planning Alternatives Ltd. ADV, NVIDIA Corporation $NVDA의 주식 5,287주 매입",
       "summary_kr": "Planning Alternatives Ltd. ADV는 1분기에 NVIDIA Corporation의 지분을 26.6% 늘려 5,287주를 추가로 매입하여 총 25,192주(약 440만 달러 상당)를 확보했습니다. 상당한 내부자 매각에도 불구하고"
     },
     {
-      "id": "av_646b6da2499cbd",
+      "id": "av_550871b12ab26e",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "DexCom DXCM Jumps After Earnings Beat And FDA AI Win",
-      "summary": "DexCom (DXCM) stock surged over 10% following a strong Q2 2026 earnings beat, exceeding revenue and adjusted EPS expectations. The company also raised its full-year guidance and was selected by the FDA for its TEMPO digital health pilot, integrating its AI-driven Glucose Health P",
-      "url": "https://stockstotrade.com/news/dexcom-inc-dxcm-news-2026_07_31/",
-      "source": "StocksToTrade",
-      "published_at": "2026-07-31T12:34:00+00:00",
-      "sentiment": -0.338115,
+      "title": "Corning Rides AI Data Center Growth as Optical Demand Accelerates",
+      "summary": "Corning is experiencing significant growth driven by increasing demand from AI data centers, leading to expanded orders for its optical fiber, cable, and connectivity products. The company has secured multiyear, multibillion-dollar agreements with major hyperscalers like Meta Pla",
+      "url": "https://ca.finance.yahoo.com/news/corning-rides-ai-data-center-174500670.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-07-31T18:07:50+00:00",
+      "sentiment": 0.204498,
       "change_pct": 2.93
     },
     {
@@ -963,46 +973,20 @@
       "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-alab/astera-labs/news/astera-labs-alab-faces-an-earnings-test-on-a-pricey-ai-growt",
       "source": "Simply Wall St",
       "published_at": "2026-07-31T16:41:01+00:00",
-      "sentiment": 0.231395,
+      "sentiment": 0.236845,
       "change_pct": 2.93
     },
     {
-      "id": "av_52e08f3a22ed98",
+      "id": "av_3503eb1bdea687",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Astera Labs vs. CoreWeave: A Tale of Two AI Infrastructure Bets in 2026",
-      "summary": "The article compares Astera Labs and CoreWeave as two distinct AI infrastructure investment opportunities in 2026. Astera Labs demonstrates profitability with high net margins but faces significant customer concentration risk, while CoreWeave exhibits hyper-growth and critical pa",
-      "url": "https://finance.biggo.com/news/480961d1-7524-40f7-9232-2306345e3f64",
-      "source": "BigGo Finance",
-      "published_at": "2026-07-31T07:41:01+00:00",
-      "sentiment": 0.449558,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_22cba5a69a5bc4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Weekly news roundup: Anthropic hacking and Al safety concerns, plus ServiceNow layoffs",
-      "summary": "This weekly tech news roundup covers Anthropic's AI model hacking incident, Sam Altman's call for a slower pace in AI development, and the launch of the Open Secure AI Alliance (OSAIA) by various tech giants to improve AI security. Additionally, ServiceNow announced job cuts as i",
-      "url": "https://www.techtarget.com/searchcio/news/366646579/Weekly-news-roundup-Anthropic-hacking-and-Al-safety-concerns-plus-ServiceNow-layoffs",
-      "source": "TechTarget",
-      "published_at": "2026-07-31T15:39:42+00:00",
-      "sentiment": 0.248552,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_d4c64cbae88743",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Does Zacks’ Strong Sell on Riot (RIOT) Hint at Deeper Cracks in Its Earnings Story?",
-      "summary": "Zacks has issued a \"Strong Sell\" rating for Riot Platforms (RIOT) due to recent earnings estimate cuts, ahead of its August 5, 2026, earnings report. This new sentiment contrasts with previous positive analyst recommendations and highlights concerns about the Bitcoin miner's prof",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-riot/riot-platforms/news/does-zacks-strong-sell-on-riot-riot-hint-at-deeper-cracks-in",
-      "source": "Simply Wall St",
-      "published_at": "2026-07-31T13:41:41+00:00",
-      "sentiment": 0.284761,
+      "title": "Bit Origin proposes name change to Sangrix, eyes AI focus",
+      "summary": "Bit Origin Ltd (NASDAQ:BTOG) announced a proposed name change to Sangrix Inc., pending shareholder approval on August 11, 2026. This rebranding reflects a strategic shift towards AI computing infrastructure, with a primary focus on deploying sixteen NVIDIA Blackwell B300 AI serve",
+      "url": "https://m.in.investing.com/news/stock-market-news/bit-origin-proposes-name-change-to-sangrix-eyes-ai-focus-93CH-5528005?ampMode=1",
+      "source": "Investing.com India",
+      "published_at": "2026-07-31T13:39:32+00:00",
+      "sentiment": 0.308258,
       "change_pct": 2.93
     },
     {
@@ -1015,7 +999,59 @@
       "url": "https://www.stocktitan.net/news/BTOG/bit-origin-outlined-strategic-priorities-and-proposed-corporate-nehs96bcscvc.html",
       "source": "Stock Titan",
       "published_at": "2026-07-31T12:39:32+00:00",
-      "sentiment": 0.310377,
+      "sentiment": 0.320832,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_646b6da2499cbd",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "DexCom DXCM Jumps After Earnings Beat And FDA AI Win",
+      "summary": "DexCom (DXCM) stock surged over 10% following a strong Q2 2026 earnings beat, exceeding revenue and adjusted EPS expectations. The company also raised its full-year guidance and was selected by the FDA for its TEMPO digital health pilot, integrating its AI-driven Glucose Health P",
+      "url": "https://stockstotrade.com/news/dexcom-inc-dxcm-news-2026_07_31/",
+      "source": "StocksToTrade",
+      "published_at": "2026-07-31T12:34:00+00:00",
+      "sentiment": -0.316171,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_d4c64cbae88743",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Does Zacks’ Strong Sell on Riot (RIOT) Hint at Deeper Cracks in Its Earnings Story?",
+      "summary": "Zacks has issued a \"Strong Sell\" rating for Riot Platforms (RIOT) due to recent earnings estimate cuts, ahead of its August 5, 2026, earnings report. This new sentiment contrasts with previous positive analyst recommendations and highlights concerns about the Bitcoin miner's prof",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-riot/riot-platforms/news/does-zacks-strong-sell-on-riot-riot-hint-at-deeper-cracks-in",
+      "source": "Simply Wall St",
+      "published_at": "2026-07-31T13:41:41+00:00",
+      "sentiment": 0.286494,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_52e08f3a22ed98",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Astera Labs vs. CoreWeave: A Tale of Two AI Infrastructure Bets in 2026",
+      "summary": "The article compares Astera Labs and CoreWeave as two distinct AI infrastructure investment opportunities in 2026. Astera Labs demonstrates profitability with high net margins but faces significant customer concentration risk, while CoreWeave exhibits hyper-growth and critical pa",
+      "url": "https://finance.biggo.com/news/480961d1-7524-40f7-9232-2306345e3f64",
+      "source": "BigGo Finance",
+      "published_at": "2026-07-31T07:41:01+00:00",
+      "sentiment": 0.429038,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_22cba5a69a5bc4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Weekly news roundup: Anthropic hacking and Al safety concerns, plus ServiceNow layoffs",
+      "summary": "This weekly tech news roundup covers Anthropic's AI model hacking incident, Sam Altman's call for a slower pace in AI development, and the launch of the Open Secure AI Alliance (OSAIA) by various tech giants to improve AI security. Additionally, ServiceNow announced job cuts as i",
+      "url": "https://www.techtarget.com/searchcio/news/366646579/Weekly-news-roundup-Anthropic-hacking-and-Al-safety-concerns-plus-ServiceNow-layoffs",
+      "source": "TechTarget",
+      "published_at": "2026-07-31T15:39:42+00:00",
+      "sentiment": 0.210529,
       "change_pct": 2.93
     },
     {
@@ -1028,7 +1064,7 @@
       "url": "https://www.blackrock.com/corporate/insights/blackrock-investment-institute/mega-forces",
       "source": "BlackRock",
       "published_at": "2026-07-31T11:14:13+00:00",
-      "sentiment": 0.325785,
+      "sentiment": 0.307955,
       "change_pct": 2.93,
       "title_kr": "메가포스: 투자 기회",
       "summary_kr": "BlackRock은 경제 및 부문 전반에 걸쳐 장기적인 성장, 인플레이션 및 수익성에 영향을 미치는 중요한 구조적 변화인 5가지 \"메가 힘\"을 식별하여 투자자에게 기회와 위험을 모두 제시합니다. 이러한 세력에는 인구통계학적 다이버가 포함됩니다."
@@ -1043,38 +1079,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/serve-robotics-inc-nasdaqserv-given-consensus-recommendation-of-moderate-buy-by-analysts-2026-07-31/",
       "source": "MarketBeat",
       "published_at": "2026-07-31T09:09:54+00:00",
-      "sentiment": 0.369996,
+      "sentiment": 0.35335,
       "change_pct": 2.93
-    },
-    {
-      "id": "av_de751f2ce59ee2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NewEdge Advisors LLC Sells 55,821 Shares of Colgate-Palmolive Company $CL",
-      "summary": "NewEdge Advisors LLC reduced its stake in Colgate-Palmolive Company by 51.0% in the first quarter, selling 55,821 shares and now owning 53,655 shares valued at $4,573,000. Other institutions like Teacher Retirement System of Texas, Flputnam Investment Management Co., and Mirae As",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-advisors-llc-sells-55821-shares-of-colgate-palmolive-company-cl-2026-07-31/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-31T09:58:21+00:00",
-      "sentiment": 0.32148,
-      "change_pct": 2.93,
-      "title_kr": "NewEdge Advisors LLC는 Colgate-Palmolive Company $CL의 주식 55,821주를 매각합니다.",
-      "summary_kr": "NewEdge Advisors LLC는 1분기에 Colgate-Palmolive Company의 지분을 51.0% 줄여 55,821주를 매각했으며 현재 4,573,000달러 상당의 53,655주를 소유하고 있습니다. Texas Teacher Retirement System, Flputnam Investment Managemente와 같은 기타 기관"
-    },
-    {
-      "id": "av_9386589b16d505",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Analog Devices (ADI) Could Be 19% Undervalued Following Earnings Estimate Upgrades",
-      "summary": "Analog Devices (ADI) has seen its stock gain 3.76% recently after upward revisions to earnings estimates, though it's still down 7% over the past month. A prominent narrative suggests ADI is 18.7% undervalued with a fair value of $451.03, based on expected growth from advanced ro",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/analog-devices-adi-could-be-19-undervalued-following-earning",
-      "source": "Simply Wall St",
-      "published_at": "2026-07-31T08:27:57+00:00",
-      "sentiment": 0.346992,
-      "change_pct": 2.93,
-      "title_kr": "Analog Devices(ADI)는 수익 추정 업그레이드로 인해 19% 저평가될 수 있습니다.",
-      "summary_kr": "아나로그디바이스(ADI)는 수익 추정치를 상향 조정한 후 최근 주가가 3.76% 상승했지만 지난 한 달 동안 여전히 7% 하락했습니다. 눈에 띄는 설명에 따르면 ADI는 예상 매출총이익(GRO)을 기준으로 공정가치 $451.03으로 18.7% 저평가되어 있습니다."
     },
     {
       "id": "av_fc857e30b4b785",
@@ -1086,10 +1092,25 @@
       "url": "https://finance.yahoo.com/technology/article/apple-ceo-tim-cook-says-this-100-year-flood-wont-be-receding-anytime-soon-121832016.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-31T12:18:59+00:00",
-      "sentiment": 0.250524,
+      "sentiment": 0.266074,
       "change_pct": 2.93,
       "title_kr": "애플 CEO 팀 쿡은 '100년의 홍수'가 조만간 수그러들지 않을 것이라고 말했다.",
       "summary_kr": "Apple CEO Tim Cook은 현재의 메모리 칩 공급 부족을 \"100년의 홍수\"로 묘사하며 Apple은 마지못해 Mac, iPad, Vision Pro와 같은 제품의 가격을 인상할 수밖에 없었습니다. AI 서버 구성 요소에 대한 높은 수요로 인한 이러한 부족 현상은 앞으로도 계속될 것으로 예상됩니다."
+    },
+    {
+      "id": "av_de751f2ce59ee2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NewEdge Advisors LLC Sells 55,821 Shares of Colgate-Palmolive Company $CL",
+      "summary": "NewEdge Advisors LLC reduced its stake in Colgate-Palmolive Company by 51.0% in the first quarter, selling 55,821 shares and now owning 53,655 shares valued at $4,573,000. Other institutions like Teacher Retirement System of Texas, Flputnam Investment Management Co., and Mirae As",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-advisors-llc-sells-55821-shares-of-colgate-palmolive-company-cl-2026-07-31/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-31T09:58:21+00:00",
+      "sentiment": 0.32009,
+      "change_pct": 2.93,
+      "title_kr": "NewEdge Advisors LLC는 Colgate-Palmolive Company $CL의 주식 55,821주를 매각합니다.",
+      "summary_kr": "NewEdge Advisors LLC는 1분기에 Colgate-Palmolive Company의 지분을 51.0% 줄여 55,821주를 매각했으며 현재 4,573,000달러 상당의 53,655주를 소유하고 있습니다. Texas Teacher Retirement System, Flputnam Investment Managemente와 같은 기타 기관"
     },
     {
       "id": "av_5aaaf9d618619a",
@@ -1101,8 +1122,23 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-sei-investments-co-purchases-35220-shares-of-applied-optoelectronics-inc-aaoi-2026-07-31/",
       "source": "MarketBeat",
       "published_at": "2026-07-31T09:41:25+00:00",
-      "sentiment": 0.302682,
+      "sentiment": 0.307582,
       "change_pct": 2.93
+    },
+    {
+      "id": "av_18352cb9e7939f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Sei Investments Co. Boosts Stock Position in Kulicke and Soffa Industries, Inc. $KLIC",
+      "summary": "Sei Investments Co. significantly increased its stake in Kulicke and Soffa Industries, Inc. (NASDAQ:KLIC) by 70.7% in the first quarter, now owning 221,358 shares valued at $14.5 million. Other institutional investors have also adjusted their positions, with hedge funds holding 9",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sei-investments-co-boosts-stock-position-in-kulicke-and-soffa-industries-inc-klic-2026-07-31/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-31T09:09:55+00:00",
+      "sentiment": 0.314894,
+      "change_pct": 2.93,
+      "title_kr": "Sei Investments Co., Kulicke 및 Soffa Industries, Inc.의 주식 포지션 강화 $KLIC",
+      "summary_kr": "Sei Investments Co.는 1분기에 Kulicke and Soffa Industries, Inc.(NASDAQ:KLIC)의 지분을 70.7% 크게 늘려 현재 1,450만 달러 상당의 221,358주를 소유하고 있습니다. 다른 기관투자자들도 포지션을 조정했다."
     },
     {
       "id": "f_525658e0423340",
@@ -1117,6 +1153,21 @@
       "change_pct": 2.93
     },
     {
+      "id": "av_9386589b16d505",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Analog Devices (ADI) Could Be 19% Undervalued Following Earnings Estimate Upgrades",
+      "summary": "Analog Devices (ADI) has seen its stock gain 3.76% recently after upward revisions to earnings estimates, though it's still down 7% over the past month. A prominent narrative suggests ADI is 18.7% undervalued with a fair value of $451.03, based on expected growth from advanced ro",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/analog-devices-adi-could-be-19-undervalued-following-earning",
+      "source": "Simply Wall St",
+      "published_at": "2026-07-31T08:27:57+00:00",
+      "sentiment": 0.330822,
+      "change_pct": 2.93,
+      "title_kr": "Analog Devices(ADI)는 수익 추정 업그레이드로 인해 19% 저평가될 수 있습니다.",
+      "summary_kr": "아나로그디바이스(ADI)는 수익 추정치를 상향 조정한 후 최근 주가가 3.76% 상승했지만 지난 한 달 동안 여전히 7% 하락했습니다. 눈에 띄는 설명에 따르면 ADI는 예상 매출총이익(GRO)을 기준으로 공정가치 $451.03으로 18.7% 저평가되어 있습니다."
+    },
+    {
       "id": "f_45ce4c5f76b3ae",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1127,21 +1178,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-31T21:41:00+00:00",
       "change_pct": 2.93
-    },
-    {
-      "id": "av_18352cb9e7939f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Sei Investments Co. Boosts Stock Position in Kulicke and Soffa Industries, Inc. $KLIC",
-      "summary": "Sei Investments Co. significantly increased its stake in Kulicke and Soffa Industries, Inc. (NASDAQ:KLIC) by 70.7% in the first quarter, now owning 221,358 shares valued at $14.5 million. Other institutional investors have also adjusted their positions, with hedge funds holding 9",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sei-investments-co-boosts-stock-position-in-kulicke-and-soffa-industries-inc-klic-2026-07-31/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-31T09:09:55+00:00",
-      "sentiment": 0.312531,
-      "change_pct": 2.93,
-      "title_kr": "Sei Investments Co., Kulicke 및 Soffa Industries, Inc.의 주식 포지션 강화 $KLIC",
-      "summary_kr": "Sei Investments Co.는 1분기에 Kulicke and Soffa Industries, Inc.(NASDAQ:KLIC)의 지분을 70.7% 크게 늘려 현재 1,450만 달러 상당의 221,358주를 소유하고 있습니다. 다른 기관투자자들도 포지션을 조정했다."
     },
     {
       "id": "f_7dd9ae7ee1200e",
@@ -1157,14 +1193,14 @@
     {
       "id": "f_dfda8ed0ea4cb4",
       "provider": "finnhub",
-      "ticker": "AMD",
+      "ticker": "MSTR",
       "category": "general",
       "title": "Weekly Wrap: Crypto Stays Rangebound Amid Market Volatility",
       "summary": "Bitcoin (CRYPTO: $BTC) is pacing for a roughly 5% gain in July, although the largest cryptocurrency remains largely...",
       "url": "https://finnhub.io/api/news?id=5128180d32df69128c8360cfa49c94f8a7dc860c6d818d274d73adcabf8b143a",
       "source": "Yahoo",
       "published_at": "2026-07-31T21:33:00+00:00",
-      "change_pct": -1.9
+      "change_pct": -4.56
     },
     {
       "id": "f_361650334a2bfe",
@@ -1191,6 +1227,34 @@
       "change_pct": 2.93
     },
     {
+      "id": "av_2af41a87163f00",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Does Amkor Technology’s (AMKR) NVIDIA Alliance Reframe Its Role in the AI Hardware Value Chain?",
+      "summary": "Amkor Technology (AMKR) reported strong Q2 2026 results and announced a multi-year partnership with NVIDIA to co-develop advanced AI packaging technologies and expand U.S. capacity. This alliance, alongside robust earnings, reinforces Amkor's critical role in high-performance com",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amkr/amkor-technology/news/does-amkor-technologys-amkr-nvidia-alliance-reframe-its-role/amp",
+      "source": "Simply Wall St",
+      "published_at": "2026-07-31T08:09:34+00:00",
+      "sentiment": 0.327954,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_f81cb1c776d7a2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Zacks.com featured highlights include Micron, NVIDIA and TD SYNNEX",
+      "summary": "Zacks Investment Research highlights Micron Technology (MU), NVIDIA Corp. (NVDA), and TD SYNNEX Corp. (SNX) as profitable stock picks before August, a month known for market volatility. These companies are recommended due to their strong net income ratios and solid growth prospec",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/3570050/zackscom-featured-highlights-include-micron-nvidia-and-td-synnex/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-31T07:52:28+00:00",
+      "sentiment": 0.334491,
+      "change_pct": 2.93,
+      "title_kr": "Zacks.com 주요 하이라이트에는 Micron, NVIDIA 및 TD SYNNEX가 포함됩니다.",
+      "summary_kr": "Zacks Investment Research는 시장 변동성으로 알려진 8월 이전에 Micron Technology(MU), NVIDIA Corp.(NVDA) 및 TD SYNNEX Corp.(SNX)를 수익성 있는 주식으로 강조합니다. 이들 기업은 순이익 비율이 높고"
+    },
+    {
       "id": "f_e4457238750c1b",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1215,6 +1279,32 @@
       "change_pct": 15.32
     },
     {
+      "id": "av_5b7a3fb2ef1988",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Vistra Backs KKR’s $10 Billion AI Infrastructure Bet. Here’s the Story Behind It",
+      "summary": "Vistra Corp (VST) is gaining investor attention for its role in AI infrastructure, especially after partnering with KKR and Nvidia on the $10 billion Helix Digital Infrastructure venture. This move, alongside a strong Q1 performance, positions Vistra beyond a traditional utility.",
+      "url": "https://www.tikr.com/blog/vistra-backs-kkrs-10-billion-ai-infrastructure-bet-heres-the-story-behind-it",
+      "source": "TIKR.com",
+      "published_at": "2026-07-31T09:12:10+00:00",
+      "sentiment": 0.299854,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_93723a66c093bc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "FTI Consulting News Bytes – 31 July 2026",
+      "summary": "This FTI Consulting News Bytes issue covers the continued fallout from OpenAI's AI agent hack, Big Tech's mixed AI investment returns, and Vinted's US expansion and potential IPO plans. It also discusses Mark Zuckerberg's stance against banning Chinese AI models and PwC facing sc",
+      "url": "https://fticommunications.com/fti-consulting-news-bytes-31-july-2026/",
+      "source": "fticommunications.com",
+      "published_at": "2026-07-31T11:39:36+00:00",
+      "sentiment": 0.237337,
+      "change_pct": 2.93
+    },
+    {
       "id": "f_d2e74ffb1cd768",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1224,45 +1314,6 @@
       "url": "https://finnhub.io/api/news?id=fb9249cb84fda29fd12d4ebb41128379fa6aab0269654e8ef26eb6da11d60288",
       "source": "Yahoo",
       "published_at": "2026-07-31T21:08:42+00:00",
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_2453ba502b63d6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Applied Materials Stock Jumped 15% as the Memory Trade Roared Back. Is the Bounce Real?",
-      "summary": "Applied Materials (AMAT) stock saw a significant 15% jump following positive news from other chip companies like Microsoft, Lam Research, and Samsung, despite no company-specific catalysts. This surge, primarily driven by expectations of a prolonged memory chip shortage and incre",
-      "url": "https://www.tikr.com/blog/applied-materials-stock-jumped-15-as-the-memory-trade-roared-back-is-the-bounce-real",
-      "source": "TIKR.com",
-      "published_at": "2026-07-31T15:10:13+00:00",
-      "sentiment": -0.148002,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_3cc068f7ea41a0",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arista Networks Inc Stock (ANET) Moved Up by 4.49% on Jul 31: Key Drivers Unveiled",
-      "summary": "Arista Networks Inc (ANET) saw its stock price rise by 4.49% on July 31st, driven by strong quarterly results that exceeded expectations and an increased full-year guidance. The company is benefiting from high demand for AI-ready networking infrastructure and its leadership in Et",
-      "url": "https://www.tradingkey.com/news/market-movers/262067852-market-movers-anet-20260731",
-      "source": "TradingKey",
-      "published_at": "2026-07-31T15:15:14+00:00",
-      "sentiment": -0.142265,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_2af41a87163f00",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Does Amkor Technology’s (AMKR) NVIDIA Alliance Reframe Its Role in the AI Hardware Value Chain?",
-      "summary": "Amkor Technology (AMKR) reported strong Q2 2026 results and announced a multi-year partnership with NVIDIA to co-develop advanced AI packaging technologies and expand U.S. capacity. This alliance, alongside robust earnings, reinforces Amkor's critical role in high-performance com",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amkr/amkor-technology/news/does-amkor-technologys-amkr-nvidia-alliance-reframe-its-role/amp",
-      "source": "Simply Wall St",
-      "published_at": "2026-07-31T08:09:34+00:00",
-      "sentiment": 0.319148,
       "change_pct": 2.93
     },
     {
@@ -1288,6 +1339,17 @@
       "source": "Yahoo",
       "published_at": "2026-07-31T20:50:00+00:00",
       "change_pct": 2.93
+    },
+    {
+      "id": "f_50b1f10b3fe919",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "general",
+      "title": "AST SpaceMobile vs. Rocket Lab: Which Space-Based Network Stock Is a Better Buy in 2026?",
+      "summary": "Both companies are unprofitable and burning cash, but their balance sheets and risk profiles tell very different stories for 2026.",
+      "url": "https://finnhub.io/api/news?id=c389efbfaa6ef6e76245203bf30f021d58cfa6988065f0fcaca65088300dcbe1",
+      "source": "Yahoo",
+      "published_at": "2026-07-31T20:48:01+00:00"
     },
     {
       "id": "f_030d8cc34a9ca8",
@@ -1324,19 +1386,17 @@
       "published_at": "2026-07-31T20:26:34+00:00"
     },
     {
-      "id": "av_f81cb1c776d7a2",
+      "id": "av_f78b18dc849fe4",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Zacks.com featured highlights include Micron, NVIDIA and TD SYNNEX",
-      "summary": "Zacks Investment Research highlights Micron Technology (MU), NVIDIA Corp. (NVDA), and TD SYNNEX Corp. (SNX) as profitable stock picks before August, a month known for market volatility. These companies are recommended due to their strong net income ratios and solid growth prospec",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MU/pressreleases/3570050/zackscom-featured-highlights-include-micron-nvidia-and-td-synnex/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-31T07:52:28+00:00",
-      "sentiment": 0.313636,
-      "change_pct": 2.93,
-      "title_kr": "Zacks.com 주요 하이라이트에는 Micron, NVIDIA 및 TD SYNNEX가 포함됩니다.",
-      "summary_kr": "Zacks Investment Research는 시장 변동성으로 알려진 8월 이전에 Micron Technology(MU), NVIDIA Corp.(NVDA) 및 TD SYNNEX Corp.(SNX)를 수익성 있는 주식으로 강조합니다. 이들 기업은 순이익 비율이 높고"
+      "title": "PXLW|Pixelworks Inc|Price:5.910|Chg%:+0.070",
+      "summary": "Pixelworks Inc (PXLW) is currently trading at $5.895, up 0.43%, with a market cap of $37.36M. The company, a provider of visual processing semiconductor and software solutions, has strong fundamentals and good growth potential, with its valuation considered fairly valued. Analyst",
+      "url": "https://www.tradingkey.com/markets/stocks/pxlw",
+      "source": "TradingKey",
+      "published_at": "2026-07-31T07:40:50+00:00",
+      "sentiment": 0.318299,
+      "change_pct": 2.93
     },
     {
       "id": "f_6596669bac0786",
@@ -1387,6 +1447,19 @@
       "change_pct": 3.02
     },
     {
+      "id": "av_3cc068f7ea41a0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arista Networks Inc Stock (ANET) Moved Up by 4.49% on Jul 31: Key Drivers Unveiled",
+      "summary": "Arista Networks Inc (ANET) saw its stock price rise by 4.49% on July 31st, driven by strong quarterly results that exceeded expectations and an increased full-year guidance. The company is benefiting from high demand for AI-ready networking infrastructure and its leadership in Et",
+      "url": "https://www.tradingkey.com/news/market-movers/262067852-market-movers-anet-20260731",
+      "source": "TradingKey",
+      "published_at": "2026-07-31T15:15:14+00:00",
+      "sentiment": -0.123443,
+      "change_pct": 2.93
+    },
+    {
       "id": "f_bbf1325116a3a6",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -1396,21 +1469,6 @@
       "url": "https://finnhub.io/api/news?id=f4f83f057bbf61fc065fbd058e1af71f1aab17b9e1982167a60f0a249fa76be4",
       "source": "Yahoo",
       "published_at": "2026-07-31T20:09:27+00:00"
-    },
-    {
-      "id": "av_ca3e267c803ae0",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm",
-      "summary": "This Zacks Analyst Blog highlights Arm Holdings (ARM), NVIDIA (NVDA), and Qualcomm (QCOM), focusing on ARM's strong performance in AI, cloud infrastructure, and edge computing. It details ARM's financial results, its growing diversification beyond smartphones, and its competitive",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arm-063600954.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-31T06:38:33+00:00",
-      "sentiment": 0.337213,
-      "change_pct": 2.93,
-      "title_kr": "Zacks 분석가 블로그는 Arm Holdings, NVIDIA 및 Qualcomm을 강조합니다.",
-      "summary_kr": "Arm Holdings는 클라우드, 엣지 및 자동차 시장 전반에서 AI 중심 성장을 타고 있지만, 실행과 높은 기대치는 여전히 전망의 핵심입니다."
     },
     {
       "id": "f_716ddf2e82e66f",
@@ -1471,19 +1529,6 @@
       "change_pct": 15.32
     },
     {
-      "id": "av_f78b18dc849fe4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "PXLW|Pixelworks Inc|Price:5.910|Chg%:+0.070",
-      "summary": "Pixelworks Inc (PXLW) is currently trading at $5.895, up 0.43%, with a market cap of $37.36M. The company, a provider of visual processing semiconductor and software solutions, has strong fundamentals and good growth potential, with its valuation considered fairly valued. Analyst",
-      "url": "https://www.tradingkey.com/markets/stocks/pxlw",
-      "source": "TradingKey",
-      "published_at": "2026-07-31T07:40:50+00:00",
-      "sentiment": 0.306661,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_42668ba0f93ca1",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1505,21 +1550,6 @@
       "url": "https://finnhub.io/api/news?id=7521cd1055ddf1d0c74fbd6efec7d8b63eb0e6ee5a0fbefa143ef565a52708a9",
       "source": "Yahoo",
       "published_at": "2026-07-31T19:55:48+00:00"
-    },
-    {
-      "id": "av_4914640c559a1a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "JHDV ETF Profile: Dividends, Returns (AMEX:JHDV)",
-      "summary": "This article provides a detailed profile of the John Hancock U.S. High Dividend ETF (JHDV), an actively managed ETF that invests in high-dividend US large- and mid-cap equities. It outlines key statistics such as its $10.74 million AUM, 2.06% dividend yield, and 0.34% expense rat",
-      "url": "https://www.tradingview.com/symbols/AMEX-JHDV/profile/",
-      "source": "TradingView",
-      "published_at": "2026-07-31T07:10:30+00:00",
-      "sentiment": 0.318669,
-      "change_pct": 2.93,
-      "title_kr": "JHDV ETF 프로필: 배당금, 수익(AMEX:JHDV)",
-      "summary_kr": "이 기사는 고배당 미국 대형주 및 중형주에 투자하는 액티브 운용형 ETF인 John Hancock U.S. High Dividend ETF(JHDV)에 대한 자세한 프로필을 제공합니다. 이는 1,074만 달러의 AUM, 2.06% 배당수익률,"
     },
     {
       "id": "f_3719c0fe2548a3",
@@ -1554,6 +1584,21 @@
       "source": "Yahoo",
       "published_at": "2026-07-31T19:50:00+00:00",
       "change_pct": 2.93
+    },
+    {
+      "id": "av_ca3e267c803ae0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "The Zacks Analyst Blog Highlights Arm Holdings, NVIDIA and Qualcomm",
+      "summary": "This Zacks Analyst Blog highlights Arm Holdings (ARM), NVIDIA (NVDA), and Qualcomm (QCOM), focusing on ARM's strong performance in AI, cloud infrastructure, and edge computing. It details ARM's financial results, its growing diversification beyond smartphones, and its competitive",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-arm-063600954.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T06:38:33+00:00",
+      "sentiment": 0.328728,
+      "change_pct": 2.93,
+      "title_kr": "Zacks 분석가 블로그는 Arm Holdings, NVIDIA 및 Qualcomm을 강조합니다.",
+      "summary_kr": "Arm Holdings는 클라우드, 엣지 및 자동차 시장 전반에서 AI 중심 성장을 타고 있지만, 실행과 높은 기대치는 여전히 전망의 핵심입니다."
     },
     {
       "id": "f_f0cab551d4f561",
@@ -1602,19 +1647,6 @@
       "change_pct": 15.32
     },
     {
-      "id": "av_c81c74b1aa4e10",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cisco Systems, Inc. $CSCO Shares Sold by South Dakota Investment Council",
-      "summary": "South Dakota Investment Council significantly reduced its holdings in Cisco Systems by 41.9% in the first quarter, selling 72,209 shares but still retaining a substantial stake. Despite this, other major institutional investors like Vanguard Group and State Street Corp increased ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-shares-sold-by-south-dakota-investment-council-2026-07-31/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-31T09:49:27+00:00",
-      "sentiment": 0.246434,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_435a3cfb98be7e",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -1636,6 +1668,19 @@
       "url": "https://finnhub.io/api/news?id=8a182e4a0bb942b0448d96aaa02445ccd8ca2c15e679c7ddf08d697f9a463698",
       "source": "Yahoo",
       "published_at": "2026-07-31T19:40:37+00:00",
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_2453ba502b63d6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Applied Materials Stock Jumped 15% as the Memory Trade Roared Back. Is the Bounce Real?",
+      "summary": "Applied Materials (AMAT) stock saw a significant 15% jump following positive news from other chip companies like Microsoft, Lam Research, and Samsung, despite no company-specific catalysts. This surge, primarily driven by expectations of a prolonged memory chip shortage and incre",
+      "url": "https://www.tikr.com/blog/applied-materials-stock-jumped-15-as-the-memory-trade-roared-back-is-the-bounce-real",
+      "source": "TIKR.com",
+      "published_at": "2026-07-31T15:10:13+00:00",
+      "sentiment": -0.112377,
       "change_pct": 2.93
     },
     {
@@ -1711,6 +1756,21 @@
       "change_pct": 0.76
     },
     {
+      "id": "av_4914640c559a1a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "JHDV ETF Profile: Dividends, Returns (AMEX:JHDV)",
+      "summary": "This article provides a detailed profile of the John Hancock U.S. High Dividend ETF (JHDV), an actively managed ETF that invests in high-dividend US large- and mid-cap equities. It outlines key statistics such as its $10.74 million AUM, 2.06% dividend yield, and 0.34% expense rat",
+      "url": "https://www.tradingview.com/symbols/AMEX-JHDV/profile/",
+      "source": "TradingView",
+      "published_at": "2026-07-31T07:10:30+00:00",
+      "sentiment": 0.308852,
+      "change_pct": 2.93,
+      "title_kr": "JHDV ETF 프로필: 배당금, 수익(AMEX:JHDV)",
+      "summary_kr": "이 기사는 고배당 미국 대형주 및 중형주에 투자하는 액티브 운용형 ETF인 John Hancock U.S. High Dividend ETF(JHDV)에 대한 자세한 프로필을 제공합니다. 이는 1,074만 달러의 AUM, 2.06% 배당수익률,"
+    },
+    {
       "id": "f_fb46055049b013",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1783,19 +1843,6 @@
       "change_pct": 15.32
     },
     {
-      "id": "av_ff388f6c22ad4e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Update: US Equity Indexes Surge as Microsoft Triggers Rebound in Chipmakers While Inflation Rate Falls in June",
-      "summary": "US equity indexes experienced a notable surge following a rebound in chipmaker stocks, largely attributed to Microsoft's influence. This market upswing coincided with a reported decline in the inflation rate for June. The article, however, is a premium content piece requiring a s",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-indexes-surge-microsoft-204930306.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-31T06:08:19+00:00",
-      "sentiment": 0.331459,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_a0d18c6f0d9c68",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1808,6 +1855,19 @@
       "change_pct": 2.93
     },
     {
+      "id": "av_c81c74b1aa4e10",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cisco Systems, Inc. $CSCO Shares Sold by South Dakota Investment Council",
+      "summary": "South Dakota Investment Council significantly reduced its holdings in Cisco Systems by 41.9% in the first quarter, selling 72,209 shares but still retaining a substantial stake. Despite this, other major institutional investors like Vanguard Group and State Street Corp increased ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cisco-systems-inc-csco-shares-sold-by-south-dakota-investment-council-2026-07-31/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-31T09:49:27+00:00",
+      "sentiment": 0.236978,
+      "change_pct": 2.93
+    },
+    {
       "id": "f_cdecced31ffec5",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1817,32 +1877,6 @@
       "url": "https://finnhub.io/api/news?id=a03604ac6e7b3ffe7f75a1113d1dde5153f3da9ee2a1b114051dbacf6c80772e",
       "source": "Yahoo",
       "published_at": "2026-07-31T19:17:49+00:00",
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_c9c84e14961235",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Is Stronger Net Interest Income And Buybacks Altering The Investment Case For Business First Bancshares (BFST)?",
-      "summary": "Business First Bancshares (BFST) reported stronger Q2 2026 results with increased net interest income and net income, reinforcing its investment narrative. The company also declared regular dividends and completed a share repurchase program. While these results support the bank's",
-      "url": "https://uk.finance.yahoo.com/news/stronger-net-interest-income-buybacks-140912687.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-31T13:41:14+00:00",
-      "sentiment": 0.140126,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_ab460a506b9898",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "VanEck Semiconductor ETF (bStocks Tokenized Stock) (SMHB) Price Prediction & Forecast 2026 - 2030",
-      "summary": "This article provides a price prediction and forecast for the VanEck Semiconductor ETF (bStocks Tokenized Stock) (SMHB) for 2026-2030. It includes a technical analysis by an expert, outlining current price, RSI, Moving Averages, and MACD indicators, and discusses fundamental anal",
-      "url": "https://beincrypto.com/price/vaneck-semiconductor-etf-bstocks-tokenized-stock/price-prediction/",
-      "source": "BeInCrypto",
-      "published_at": "2026-07-31T10:40:16+00:00",
-      "sentiment": -0.21476,
       "change_pct": 2.93
     },
     {
@@ -1891,19 +1925,6 @@
       "source": "Yahoo",
       "published_at": "2026-07-31T19:13:00+00:00",
       "change_pct": 3.28
-    },
-    {
-      "id": "av_5b7a3fb2ef1988",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Vistra Backs KKR’s $10 Billion AI Infrastructure Bet. Here’s the Story Behind It",
-      "summary": "Vistra Corp (VST) is gaining investor attention for its role in AI infrastructure, especially after partnering with KKR and Nvidia on the $10 billion Helix Digital Infrastructure venture. This move, alongside a strong Q1 performance, positions Vistra beyond a traditional utility.",
-      "url": "https://www.tikr.com/blog/vistra-backs-kkrs-10-billion-ai-infrastructure-bet-heres-the-story-behind-it",
-      "source": "TIKR.com",
-      "published_at": "2026-07-31T09:12:10+00:00",
-      "sentiment": 0.250195,
-      "change_pct": 2.93
     },
     {
       "id": "f_fd3b6532807755",
@@ -1989,6 +2010,19 @@
       "change_pct": 3.02
     },
     {
+      "id": "av_ab460a506b9898",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "VanEck Semiconductor ETF (bStocks Tokenized Stock) (SMHB) Price Prediction & Forecast 2026 - 2030",
+      "summary": "This article provides a price prediction and forecast for the VanEck Semiconductor ETF (bStocks Tokenized Stock) (SMHB) for 2026-2030. It includes a technical analysis by an expert, outlining current price, RSI, Moving Averages, and MACD indicators, and discusses fundamental anal",
+      "url": "https://beincrypto.com/price/vaneck-semiconductor-etf-bstocks-tokenized-stock/price-prediction/",
+      "source": "BeInCrypto",
+      "published_at": "2026-07-31T10:40:16+00:00",
+      "sentiment": -0.206759,
+      "change_pct": 2.93
+    },
+    {
       "id": "f_0ae41e61249462",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1998,6 +2032,19 @@
       "url": "https://finnhub.io/api/news?id=856e09a2870b13b921136cf71a6144f63652b914cd9ac1ea9f42a1c3e26087b6",
       "source": "Yahoo",
       "published_at": "2026-07-31T18:54:43+00:00",
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_c9c84e14961235",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Is Stronger Net Interest Income And Buybacks Altering The Investment Case For Business First Bancshares (BFST)?",
+      "summary": "Business First Bancshares (BFST) reported stronger Q2 2026 results with increased net interest income and net income, reinforcing its investment narrative. The company also declared regular dividends and completed a share repurchase program. While these results support the bank's",
+      "url": "https://uk.finance.yahoo.com/news/stronger-net-interest-income-buybacks-140912687.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-31T13:41:14+00:00",
+      "sentiment": 0.129617,
       "change_pct": 2.93
     },
     {
@@ -2145,19 +2192,6 @@
       "change_pct": 3.02
     },
     {
-      "id": "av_90694a358951e5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Bloomberg: Moonshot used 20K Nvidia chips via Alibaba to rival US",
-      "summary": "Chinese AI startup Moonshot AI leveraged approximately 20,000 Nvidia Hopper chips through a massive computing agreement with Alibaba to develop its Kimi K3 model, which rivals top US systems. This arrangement highlights the complex interplay of partnerships and technological work",
-      "url": "https://www.investing.com/news/stock-market-news/bloomberg-moonshot-used-20k-nvidia-chips-via-alibaba-to-rival-us-4828264",
-      "source": "Investing.com",
-      "published_at": "2026-07-31T12:40:23+00:00",
-      "sentiment": 0.1423,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_30d9c6da3f66ee",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -2167,18 +2201,6 @@
       "url": "https://finnhub.io/api/news?id=9aa676e077c58b07950bb64215a0c4a2aa3b999cd8baa87bad2b526e2ab83e56",
       "source": "Yahoo",
       "published_at": "2026-07-31T18:19:02+00:00"
-    },
-    {
-      "id": "f_d97c17e6c737e0",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
-      "summary": "Owning Nvidia and Microsoft while collecting a fat dividend income used to mean picking one or the other. A new generation of ETFs rewrites that tradeoff in three very different ways, and the mechanics behind each one matter before you buy.",
-      "url": "https://finnhub.io/api/news?id=666f398b3c9903163793a2fb36e4591fd07d0216f6c1860a3081546801102cd9",
-      "source": "Yahoo",
-      "published_at": "2026-07-31T18:17:26+00:00",
-      "change_pct": 2.93
     },
     {
       "id": "f_9e3a56126eb259",
@@ -2296,6 +2318,19 @@
       "source": "Yahoo",
       "published_at": "2026-07-31T17:39:36+00:00",
       "change_pct": 15.32
+    },
+    {
+      "id": "av_90694a358951e5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Bloomberg: Moonshot used 20K Nvidia chips via Alibaba to rival US",
+      "summary": "Chinese AI startup Moonshot AI leveraged approximately 20,000 Nvidia Hopper chips through a massive computing agreement with Alibaba to develop its Kimi K3 model, which rivals top US systems. This arrangement highlights the complex interplay of partnerships and technological work",
+      "url": "https://www.investing.com/news/stock-market-news/bloomberg-moonshot-used-20k-nvidia-chips-via-alibaba-to-rival-us-4828264",
+      "source": "Investing.com",
+      "published_at": "2026-07-31T12:40:23+00:00",
+      "sentiment": 0.122573,
+      "change_pct": 2.93
     },
     {
       "id": "f_5f3fac69663bef",
@@ -2496,46 +2531,10 @@
       "source": "Yahoo",
       "published_at": "2026-07-31T17:03:54+00:00",
       "change_pct": 6.73
-    },
-    {
-      "id": "f_6a286fd87efb3b",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why Wall Street Likes Apple's AI Strategy Despite Friday's Stock Tumble",
-      "summary": "Apple earnings growth is picking up while largely avoiding the AI spending spree by other tech giants.",
-      "url": "https://finnhub.io/api/news?id=a6d08be3ba56bf52d6d20f493406334dfd41bdb7d92ce6fb1bf2e9d179f071d6",
-      "source": "Yahoo",
-      "published_at": "2026-07-31T17:02:45+00:00",
-      "change_pct": 2.93
-    },
-    {
-      "id": "f_b61535a50b3034",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Microsoft Copilot Lawsuit Deadline Is August 11: Will Investors Get Money Back?",
-      "summary": "Microsoft faces an August 11 Copilot lawsuit deadline, days after the biggest one-day market cap gain in US history.",
-      "url": "https://finnhub.io/api/news?id=a3401a8f046bb0644ffb232982db44326b5e52193862cc9d005b4c7b5c164d9c",
-      "source": "Yahoo",
-      "published_at": "2026-07-31T17:02:17+00:00",
-      "change_pct": 3.02
-    },
-    {
-      "id": "f_be314eed50ed94",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "OpenAI Resets Prices as AI Rivalry Intensifies",
-      "summary": "Cheaper models could reshape enterprise AI economics",
-      "url": "https://finnhub.io/api/news?id=cb8697138b9977a782b61fcc37d5afe7a3726a3c638ed57bae9d56eab700d261",
-      "source": "Yahoo",
-      "published_at": "2026-07-31T16:59:31+00:00",
-      "change_pct": 2.93
     }
   ],
-  "fetched_at": "2026-07-31T22:17:37.184477+00:00",
+  "fetched_at": "2026-07-31T23:17:06.090277+00:00",
   "source_count": 4,
-  "translated_at": "2026-07-31T22:17:40.950405+00:00",
+  "translated_at": "2026-07-31T23:17:06.276280+00:00",
   "translation_engine": "google-parallel"
 }
