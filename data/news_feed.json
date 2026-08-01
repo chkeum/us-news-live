@@ -515,20 +515,6 @@
       "summary_kr": "Chevron Corporation의 2026년 2분기 실적 발표에 대한 Moby 요약"
     },
     {
-      "id": "f_089353945a12f1",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "earnings",
-      "title": "Wall Street Rushes to Raise Amazon Targets After 15% Post-Earnings Stock Surge",
-      "summary": "Analysts raised Amazon price targets to as high as $400 after AWS growth of 37% drove a 15% single day surge.",
-      "url": "https://finnhub.io/api/news?id=60d4d094283ede79c45a1d11aa619e5e927ac8f6d59cc93fd85545bf0770089e",
-      "source": "Yahoo",
-      "published_at": "2026-07-31T20:34:17+00:00",
-      "change_pct": 15.32,
-      "title_kr": "월스트리트, 실적 후 주가 급등 후 아마존 목표 상향 조정 서두르다",
-      "summary_kr": "분석가들은 AWS 성장이 37%로 하루 동안 15% 급등한 후 Amazon 가격 목표를 최대 400달러까지 높였습니다."
-    },
-    {
       "id": "f_9efa1b91a559b5",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -543,19 +529,19 @@
       "summary_kr": "Celestica는 AMD 및 OpenAI와의 심화된 공동 설계 파트너십을 통해 수익 집중 위험을 낮추는 이점을 누리고 있습니다. CLS 주식이 매수로 업그레이드된 이유를 알아보세요."
     },
     {
-      "id": "av_cec39f279dd1e0",
+      "id": "av_106ad409fb8d66",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "VOO ETF Crosses $1 Trillion: Buffett Legacy Validated, With One Caveat",
-      "summary": "Vanguard's S&P 500 ETF (VOO) has become the first ETF to reach $1 trillion in assets under management, validating Warren Buffett's long-standing advice to invest in low-cost index funds. The article highlights the fund's low expense ratio, the historical underperformance of activ",
-      "url": "https://www.techtimes.com/articles/322640/20260801/voo-etf-crosses-1-trillion-buffett-legacy-validated-one-caveat.htm",
-      "source": "Tech Times",
-      "published_at": "2026-08-01T17:03:56+00:00",
-      "sentiment": -0.334882,
+      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
+      "summary": "Uber, after divesting from its own autonomous vehicle (AV) development in 2020, has re-entered the AV space with a global strategy, partnering with and investing in over 30 AV companies in the last two years. The article details each of these partnerships, ranging from autonomous",
+      "url": "https://techcrunch.com/2026/08/01/ubers-autonomous-vehicle-deal-tracker/",
+      "source": "TechCrunch",
+      "published_at": "2026-08-01T14:38:54+00:00",
+      "sentiment": 0.427053,
       "change_pct": 2.93,
-      "title_kr": "VOO ETF, 1조 달러 돌파: 버핏의 유산 검증, 한 가지 주의사항",
-      "summary_kr": "Vanguard의 S&P 500 ETF(VOO)는 운용 자산 규모가 1조 달러에 도달한 최초의 ETF가 되었으며, 이는 저비용 인덱스 펀드에 투자하라는 워렌 버핏의 오랜 조언을 입증했습니다. 기사는 펀드의 낮은 비용 비율, 역사적 언더그라운드를 강조합니다."
+      "title_kr": "Uber는 자율주행 자동차 제국을 건설하고 있습니다. 이를 위해 Uber가 사용하는 모든 회사는 다음과 같습니다.",
+      "summary_kr": "Uber는 2020년 자체 자율주행차(AV) 개발에서 손을 뗀 후 지난 2년 동안 30개가 넘는 AV 기업과 파트너십을 맺고 투자하는 등 글로벌 전략을 가지고 AV 분야에 다시 진출했습니다. 기사에서는 이러한 각 파트너십을 자세히 설명하고"
     },
     {
       "id": "av_6570610ecdd31e",
@@ -567,10 +553,25 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-rose-15-thursday-164600333.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-01T16:46:02+00:00",
-      "sentiment": 0.314522,
+      "sentiment": 0.327373,
       "change_pct": 2.93,
       "title_kr": "Applied Materials는 목요일에 15% 상승했으며 여전히 최고치보다 30% 이상 낮습니다. 8월 13일자 보도입니다.",
       "summary_kr": "Applied Materials(AMAT)는 동료 Lam Research의 강력한 실적에 힘입어 회사별 뉴스 없이 7월 30일 목요일에 주가가 15% 상승했습니다. 상승에도 불구하고 주가는 52주 최고가보다 30% 이상 낮은 수준을 유지하고 있다. 투자자들은 이제 Applied Mat를 찾고 있습니다."
+    },
+    {
+      "id": "av_cec39f279dd1e0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "VOO ETF Crosses $1 Trillion: Buffett Legacy Validated, With One Caveat",
+      "summary": "Vanguard's S&P 500 ETF (VOO) has become the first ETF to reach $1 trillion in assets under management, validating Warren Buffett's long-standing advice to invest in low-cost index funds. The article highlights the fund's low expense ratio, the historical underperformance of activ",
+      "url": "https://www.techtimes.com/articles/322640/20260801/voo-etf-crosses-1-trillion-buffett-legacy-validated-one-caveat.htm",
+      "source": "Tech Times",
+      "published_at": "2026-08-01T17:03:56+00:00",
+      "sentiment": -0.307434,
+      "change_pct": 2.93,
+      "title_kr": "VOO ETF, 1조 달러 돌파: 버핏의 유산 검증, 한 가지 주의사항",
+      "summary_kr": "Vanguard의 S&P 500 ETF(VOO)는 운용 자산 규모가 1조 달러에 도달한 최초의 ETF가 되었으며, 이는 저비용 인덱스 펀드에 투자하라는 워렌 버핏의 오랜 조언을 입증했습니다. 기사는 펀드의 낮은 비용 비율, 역사적 언더그라운드를 강조합니다."
     },
     {
       "id": "av_03e6b6ae0b5d7d",
@@ -582,7 +583,7 @@
       "url": "https://www.fool.com/investing/2026/08/01/5000-in-ge-vernova-at-its-2024-low-would-be-worth/",
       "source": "The Motley Fool",
       "published_at": "2026-08-01T15:01:47+00:00",
-      "sentiment": 0.283755,
+      "sentiment": 0.299054,
       "change_pct": 2.93,
       "title_kr": "2024년 최저치인 GE Vernova의 5,000달러 가치는 지금 이만큼 가치가 있을 것입니다",
       "summary_kr": "General Electric의 에너지 분사 기업인 GE Vernova는 2024년 4월 출시 이후 주가가 급등했습니다. 사상 최저치인 5,000달러의 초기 투자 가치는 이제 40,400달러가 넘습니다. 이러한 인상적인 성장은 강한 수요에 기인합니다"
@@ -597,10 +598,25 @@
       "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-adi/analog-devices/news/should-upbeat-earnings-revisions-around-ai-and-electrificati",
       "source": "Simply Wall St",
       "published_at": "2026-08-01T12:26:58+00:00",
-      "sentiment": 0.322555,
+      "sentiment": 0.327477,
       "change_pct": 2.93,
       "title_kr": "AI 및 전기화에 대한 낙관적인 수익 개정에는 ADI(Analog Devices) 투자자의 조치가 필요합니까?",
       "summary_kr": "Analog Devices(ADI)는 분석가들이 자동화, AI 및 전기화 분야의 높은 이익 기대에 힘입어 수익 추정치를 높인 후 투자자 관심이 증가하고 Zacks 순위 2위(매수)를 기록했습니다. 이러한 개정은 단기적인 낙관론을 강화하는 반면,"
+    },
+    {
+      "id": "av_20e20d64654640",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Montchanin Asset Management LLC Makes New Investment in Alphabet Inc. $GOOG",
+      "summary": "Montchanin Asset Management LLC has acquired a new stake of 24,663 shares in Alphabet Inc. (NASDAQ:GOOG) during the first quarter, valued at approximately $7.075 million, making it their second-largest holding. The article also highlights recent positive sentiments for Alphabet d",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-montchanin-asset-management-llc-makes-new-investment-in-alphabet-inc-goog-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T10:44:05+00:00",
+      "sentiment": 0.349794,
+      "change_pct": 2.93,
+      "title_kr": "Montchanin Asset Management LLC, Alphabet Inc. $GOOG에 신규 투자",
+      "summary_kr": "Montchanin Asset Management LLC는 1분기 동안 Alphabet Inc.(NASDAQ:GOOG)의 새로운 지분 24,663주를 인수했는데, 그 가치는 약 707만 5천 달러에 달해 두 번째로 큰 지분이 되었습니다. 이 기사는 또한 최근의 긍정적인 센티를 강조합니다."
     },
     {
       "id": "av_d442c4a67c90e8",
@@ -612,7 +628,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/DE/pressreleases/3589160/deere-stock-buy-hold-or-sell/",
       "source": "The Globe and Mail",
       "published_at": "2026-08-01T04:30:35+00:00",
-      "sentiment": 0.727555,
+      "sentiment": 0.71966,
       "change_pct": 2.93,
       "title_kr": "Deere 주식: 매수, 보유, 매도?",
       "summary_kr": "이 기사에서는 투자자들이 Deere & Company(NYSE: DE) 주식을 매수, 보유 또는 매도해야 하는지에 대해 논의하고 최근의 강력한 실적을 언급합니다. Motley Fool의 Stock Advisor 팀은 상위 10개 주식 추천에 Deere를 포함시키지 않고 대신에 다음을 강조했습니다."
@@ -631,19 +647,34 @@
       "summary_kr": "GF증권이 가이던스를 '보유'로 하향 조정함에 따라 애플 주가가 하락했습니다. 오늘 투자 회사가 연구 노트에서 말한 내용은 다음과 같습니다."
     },
     {
-      "id": "av_20e20d64654640",
+      "id": "av_a1d6fddf7998f3",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Montchanin Asset Management LLC Makes New Investment in Alphabet Inc. $GOOG",
-      "summary": "Montchanin Asset Management LLC has acquired a new stake of 24,663 shares in Alphabet Inc. (NASDAQ:GOOG) during the first quarter, valued at approximately $7.075 million, making it their second-largest holding. The article also highlights recent positive sentiments for Alphabet d",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-montchanin-asset-management-llc-makes-new-investment-in-alphabet-inc-goog-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T10:44:05+00:00",
-      "sentiment": 0.316736,
+      "title": "Bit Origin (NASDAQ: BTOG) maps SANGRIX rebrand and NVIDIA AI rollout",
+      "summary": "Bit Origin Ltd (NASDAQ: BTOG) has outlined its strategic priorities for fiscal year 2027, including a proposed corporate rebranding to SANGRIX INC. to reflect a stronger focus on AI computing and digital infrastructure. This name change is pending shareholder approval on August 1",
+      "url": "https://www.stocktitan.net/sec-filings/BTOG/6-k-bit-origin-ltd-current-report-foreign-issuer-8bb0c25efcd5.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-01T08:40:44+00:00",
+      "sentiment": 0.336817,
       "change_pct": 2.93,
-      "title_kr": "Montchanin Asset Management LLC, Alphabet Inc. $GOOG에 신규 투자",
-      "summary_kr": "Montchanin Asset Management LLC는 1분기 동안 Alphabet Inc.(NASDAQ:GOOG)의 새로운 지분 24,663주를 인수했는데, 그 가치는 약 707만 5천 달러에 달해 두 번째로 큰 지분이 되었습니다. 이 기사는 또한 최근의 긍정적인 센티를 강조합니다."
+      "title_kr": "Bit Origin(NASDAQ: BTOG)은 SANGRIX 리브랜딩 및 NVIDIA AI 출시를 지도합니다.",
+      "summary_kr": "Bit Origin Ltd(NASDAQ: BTOG)는 AI 컴퓨팅 및 디지털 인프라에 대한 더 강력한 초점을 반영하기 위해 SANGRIX INC.로 기업 브랜드 변경 제안을 포함하여 2027회계연도의 전략적 우선순위를 설명했습니다. 이 이름 변경은 보류 중인 주주입니다."
+    },
+    {
+      "id": "av_20f8621f8de0d2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Is Applied Materials (AMAT) Undervalued On Record Q2 Results And AI Demand?",
+      "summary": "Applied Materials (AMAT) is experiencing renewed interest following record Q2 fiscal 2026 results, driven by increased AI infrastructure spending. While the company's stock has seen significant long-term gains, recent performance shows a sharp pullback. Current valuations suggest",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amat/applied-materials/news/is-applied-materials-amat-undervalued-on-record-q2-results-a",
+      "source": "Simply Wall St",
+      "published_at": "2026-08-01T04:27:10+00:00",
+      "sentiment": 0.44085,
+      "change_pct": 2.93,
+      "title_kr": "Applied Materials(AMAT)는 기록적인 2분기 결과와 AI 수요에 비해 저평가되어 있습니까?",
+      "summary_kr": "Applied Materials(AMAT)는 AI 인프라 지출 증가로 인해 기록적인 2026 회계연도 2분기 결과에 따라 새로운 관심을 받고 있습니다. 회사의 주가는 장기적으로 상당한 상승세를 보였지만 최근 실적은 급격한 하락세를 보이고 있습니다. 현재"
     },
     {
       "id": "av_4a066cf0e5e0ab",
@@ -655,7 +686,7 @@
       "url": "https://www.tradingview.com/news/benzinga:5cdbd2d27094b:0-michael-burry-just-turned-his-guns-on-nvidia-micron-and-soxx-etf-investors-are-watching-the-fallout/",
       "source": "TradingView",
       "published_at": "2026-08-01T05:10:29+00:00",
-      "sentiment": -0.437049,
+      "sentiment": -0.407582,
       "change_pct": 2.93,
       "title_kr": "Michael Burry가 방금 Nvidia, Micron 및 SOXX에 총을 돌렸습니다 — ETF 투자자들은 낙진을 지켜보고 있습니다",
       "summary_kr": "Michael Burry는 Nvidia 풋 옵션을 추가하고 Micron Technology 및 iShares Semiconductor ETF(SOXX)에서 매도 포지션을 확대하는 등 인공 지능 부문에 대한 약세 베팅을 늘렸습니다. 이 반대 움직임은 반드시 서명할 필요는 없지만"
@@ -670,7 +701,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-increases-position-in-ciena-corporation-cien-2026-08-01/",
       "source": "MarketBeat",
       "published_at": "2026-08-01T08:29:45+00:00",
-      "sentiment": 0.347596,
+      "sentiment": 0.322707,
       "change_pct": 2.93,
       "title_kr": "Empowered Funds LLC, Ciena Corporation $CIEN에서 입지 확대",
       "summary_kr": "Empowered Funds LLC는 1분기 동안 Ciena Corporation(NYSE:CIEN)의 지분을 26.6% 늘려 현재 8,022,000달러 상당의 주식 20,663주를 소유하고 있습니다. 다른 기관투자자들도 지분을 늘리는 등 포지션을 조정했다."
@@ -685,68 +716,10 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-axiom-investment-management-llc-makes-new-investment-in-advanced-micro-devices-inc-amd-2026-08-01/",
       "source": "MarketBeat",
       "published_at": "2026-08-01T08:37:10+00:00",
-      "sentiment": -0.329979,
+      "sentiment": -0.319606,
       "change_pct": 2.93,
       "title_kr": "Axiom Investment Management LLC, Advanced Micro Devices, Inc. $AMD에 신규 투자",
       "summary_kr": "Axiom Investment Management LLC는 AMD(Advanced Micro Devices)에 신규 투자하여 1분기 동안 약 $252,000 상당의 주식 1,238주를 매입했습니다. 이 투자는 기관 투자자들이 자신의 자산을 조정하는 더 넓은 추세의 일부입니다."
-    },
-    {
-      "id": "av_20f8621f8de0d2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Is Applied Materials (AMAT) Undervalued On Record Q2 Results And AI Demand?",
-      "summary": "Applied Materials (AMAT) is experiencing renewed interest following record Q2 fiscal 2026 results, driven by increased AI infrastructure spending. While the company's stock has seen significant long-term gains, recent performance shows a sharp pullback. Current valuations suggest",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-amat/applied-materials/news/is-applied-materials-amat-undervalued-on-record-q2-results-a",
-      "source": "Simply Wall St",
-      "published_at": "2026-08-01T04:27:10+00:00",
-      "sentiment": 0.416805,
-      "change_pct": 2.93,
-      "title_kr": "Applied Materials(AMAT)는 기록적인 2분기 결과와 AI 수요에 비해 저평가되어 있습니까?",
-      "summary_kr": "Applied Materials(AMAT)는 AI 인프라 지출 증가로 인해 기록적인 2026 회계연도 2분기 결과에 따라 새로운 관심을 받고 있습니다. 회사의 주가는 장기적으로 상당한 상승세를 보였지만 최근 실적은 급격한 하락세를 보이고 있습니다. 현재"
-    },
-    {
-      "id": "av_a1d6fddf7998f3",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Bit Origin (NASDAQ: BTOG) maps SANGRIX rebrand and NVIDIA AI rollout",
-      "summary": "Bit Origin Ltd (NASDAQ: BTOG) has outlined its strategic priorities for fiscal year 2027, including a proposed corporate rebranding to SANGRIX INC. to reflect a stronger focus on AI computing and digital infrastructure. This name change is pending shareholder approval on August 1",
-      "url": "https://www.stocktitan.net/sec-filings/BTOG/6-k-bit-origin-ltd-current-report-foreign-issuer-8bb0c25efcd5.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-01T08:40:44+00:00",
-      "sentiment": 0.311055,
-      "change_pct": 2.93,
-      "title_kr": "Bit Origin(NASDAQ: BTOG)은 SANGRIX 리브랜딩 및 NVIDIA AI 출시를 지도합니다.",
-      "summary_kr": "Bit Origin Ltd(NASDAQ: BTOG)는 AI 컴퓨팅 및 디지털 인프라에 대한 더 강력한 초점을 반영하기 위해 SANGRIX INC.로 기업 브랜드 변경 제안을 포함하여 2027회계연도의 전략적 우선순위를 설명했습니다. 이 이름 변경은 보류 중인 주주입니다."
-    },
-    {
-      "id": "av_1c6f0001954bfa",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock Be in 3 Years?",
-      "summary": "Netflix stock is currently trading 43% below its 52-week high at 20 times forward earnings, signaling a reasonable valuation after a period of rapid growth. The article analyzes Netflix's business trajectory, including double-digit revenue growth, expanding operating margins, sig",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-43-below-52-week-073100507.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-01T07:29:32+00:00",
-      "sentiment": 0.320848,
-      "change_pct": 2.93,
-      "title_kr": "넷플릭스는 선행 수익의 20배로 52주 최고치보다 43% ​​낮습니다. 3년 후 주식은 어디에 있을까?",
-      "summary_kr": "넷플릭스 주식은 현재 52주 최고가보다 43% ​​낮은 수준에 거래되고 있으며, 이는 순익 20배로, 급격한 성장 기간 이후 합리적인 가치 평가를 시사하고 있습니다. 이 기사에서는 두 자릿수 수익 성장, 영업 확대 등 Netflix의 비즈니스 궤적을 분석합니다."
-    },
-    {
-      "id": "av_4f5f757ae4c7e6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The Manufacturers Life Insurance Company Has $27.04 Million Stake in Lumentum Holdings Inc. $LITE",
-      "summary": "The Manufacturers Life Insurance Company significantly reduced its stake in Lumentum Holdings Inc. by 23.7% in the first quarter, selling 11,965 shares and retaining 38,477 shares valued at $27.04 million. Despite this, institutional investors collectively own 94.05% of Lumentum,",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-has-2704-million-stake-in-lumentum-holdings-inc-lite-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T10:40:36+00:00",
-      "sentiment": 0.221527,
-      "change_pct": 2.93
     },
     {
       "id": "av_5a0f8c165b1ff3",
@@ -758,20 +731,48 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/amazon-vs-microsoft-vs-alphabet-071500797.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-01T07:07:10+00:00",
-      "sentiment": 0.306578,
+      "sentiment": 0.334028,
       "change_pct": 2.93
     },
     {
-      "id": "av_84bfb5517e3e3c",
+      "id": "av_1c6f0001954bfa",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Compass Capital Management Inc. Sells 17,978 Shares of Illinois Tool Works Inc. $ITW",
-      "summary": "Compass Capital Management Inc. reduced its stake in Illinois Tool Works Inc. by 8.0%, selling 17,978 shares and now holding 205,582 shares valued at approximately $53.5 million. Despite this, other institutional investors have increased their positions in ITW. The company report",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-capital-management-inc-sells-17978-shares-of-illinois-tool-works-inc-itw-2026-08-01/",
+      "title": "Netflix Is 43% Below Its 52-Week High at 20 Times Forward Earnings. Where Will the Stock Be in 3 Years?",
+      "summary": "Netflix stock is currently trading 43% below its 52-week high at 20 times forward earnings, signaling a reasonable valuation after a period of rapid growth. The article analyzes Netflix's business trajectory, including double-digit revenue growth, expanding operating margins, sig",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-43-below-52-week-073100507.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-01T07:29:32+00:00",
+      "sentiment": 0.322655,
+      "change_pct": 2.93,
+      "title_kr": "넷플릭스는 선행 수익의 20배로 52주 최고치보다 43% ​​낮습니다. 3년 후 주식은 어디에 있을까?",
+      "summary_kr": "넷플릭스 주식은 현재 52주 최고가보다 43% ​​낮은 수준에 거래되고 있으며, 이는 순익 20배로, 급격한 성장 기간 이후 합리적인 가치 평가를 시사하고 있습니다. 이 기사에서는 두 자릿수 수익 성장, 영업 확대 등 Netflix의 비즈니스 궤적을 분석합니다."
+    },
+    {
+      "id": "av_116257ac145899",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Westshore Wealth LLC Purchases New Holdings in Advanced Micro Devices, Inc. $AMD",
+      "summary": "Westshore Wealth LLC has acquired 1,639 shares of Advanced Micro Devices (AMD) valued at approximately $333,000 during the first quarter. This purchase contributes to the 71.34% institutional ownership of AMD stock. Despite recent insider selling, analysts generally maintain a \"M",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-westshore-wealth-llc-purchases-new-holdings-in-advanced-micro-devices-inc-amd-2026-08-01/",
       "source": "MarketBeat",
-      "published_at": "2026-08-01T09:07:58+00:00",
-      "sentiment": 0.245028,
+      "published_at": "2026-08-01T11:37:02+00:00",
+      "sentiment": -0.211153,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_4f5f757ae4c7e6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "The Manufacturers Life Insurance Company Has $27.04 Million Stake in Lumentum Holdings Inc. $LITE",
+      "summary": "The Manufacturers Life Insurance Company significantly reduced its stake in Lumentum Holdings Inc. by 23.7% in the first quarter, selling 11,965 shares and retaining 38,477 shares valued at $27.04 million. Despite this, institutional investors collectively own 94.05% of Lumentum,",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-the-manufacturers-life-insurance-company-has-2704-million-stake-in-lumentum-holdings-inc-lite-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T10:40:36+00:00",
+      "sentiment": 0.21665,
       "change_pct": 2.93
     },
     {
@@ -784,10 +785,36 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-groupe-la-francaise-has-617-million-stock-holdings-in-cadence-design-systems-inc-cdns-2026-08-01/",
       "source": "MarketBeat",
       "published_at": "2026-08-01T10:44:24+00:00",
-      "sentiment": 0.201165,
+      "sentiment": 0.205941,
       "change_pct": 2.93,
       "title_kr": "Groupe la Francaise는 Cadence Design Systems, Inc. $CDNS에서 617만 달러의 주식을 보유하고 있습니다.",
       "summary_kr": "Groupe la Francaise는 1분기에 Cadence Design Systems(NASDAQ:CDNS)의 지분을 12.3% 줄였으며 현재 617만 달러 상당의 주식을 보유하고 있습니다. 이러한 감소에도 불구하고 다른 기관 투자자들은 소프트웨어 제조업체에서 포지션을 늘렸습니다. 치사한 사람"
+    },
+    {
+      "id": "av_84bfb5517e3e3c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Compass Capital Management Inc. Sells 17,978 Shares of Illinois Tool Works Inc. $ITW",
+      "summary": "Compass Capital Management Inc. reduced its stake in Illinois Tool Works Inc. by 8.0%, selling 17,978 shares and now holding 205,582 shares valued at approximately $53.5 million. Despite this, other institutional investors have increased their positions in ITW. The company report",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-compass-capital-management-inc-sells-17978-shares-of-illinois-tool-works-inc-itw-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T09:07:58+00:00",
+      "sentiment": 0.245453,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_6003413ca0dfca",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Montchanin Asset Management LLC Purchases New Position in Advanced Micro Devices, Inc. $AMD",
+      "summary": "Montchanin Asset Management LLC has acquired a new stake in Advanced Micro Devices (NASDAQ:AMD), purchasing 9,210 shares valued at approximately $1.87 million, making it their 16th largest holding. AMD's stock has shown strong performance, but faces competition and a high valuati",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-montchanin-asset-management-llc-purchases-new-position-in-advanced-micro-devices-inc-amd-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T10:37:04+00:00",
+      "sentiment": -0.194132,
+      "change_pct": 2.93
     },
     {
       "id": "f_19dc7a63ca1ad7",
@@ -823,7 +850,7 @@
       "url": "https://simplywall.st/stocks/us/real-estate/nyse-dlr/digital-realty-trust/news/digital-realty-trust-dlr-could-be-14-undervalued-on-raised-2",
       "source": "Simply Wall St",
       "published_at": "2026-08-01T05:37:37+00:00",
-      "sentiment": 0.296988,
+      "sentiment": 0.297808,
       "change_pct": 2.93
     },
     {
@@ -851,19 +878,6 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_6003413ca0dfca",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Montchanin Asset Management LLC Purchases New Position in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Montchanin Asset Management LLC has acquired a new stake in Advanced Micro Devices (NASDAQ:AMD), purchasing 9,210 shares valued at approximately $1.87 million, making it their 16th largest holding. AMD's stock has shown strong performance, but faces competition and a high valuati",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-montchanin-asset-management-llc-purchases-new-position-in-advanced-micro-devices-inc-amd-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T10:37:04+00:00",
-      "sentiment": -0.162628,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_1ecb4bc019471e",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -888,19 +902,6 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_785e841afec595",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Vestor Capital LLC Decreases Stock Holdings in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Vestor Capital LLC significantly reduced its stake in Advanced Micro Devices (AMD) by 99.3% in the first quarter, selling 179,656 shares and retaining only 1,321 shares valued at $269,000. Despite this, institutional investors still hold 71.34% of AMD, and the company reported st",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vestor-capital-llc-decreases-stock-holdings-in-advanced-micro-devices-inc-amd-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T10:07:01+00:00",
-      "sentiment": -0.16997,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_573e8325bcf89f",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -913,16 +914,16 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_0bf51cb72729bb",
+      "id": "av_785e841afec595",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Prediction: Nvidia Will Be a $10 Trillion Company by 2030. Here's the Math.",
-      "summary": "This article predicts that Nvidia could become a $10 trillion company by 2030, requiring an annualized return of about 18%. This growth is supported by the rapid expansion of the AI market and increasing spending on AI-optimized servers. Analysts' projections of $688 billion in f",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3584602/prediction-nvidia-will-be-a-10-trillion-company-by-2030-heres-the-math/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-07-31T20:38:25+00:00",
-      "sentiment": 0.506328,
+      "title": "Vestor Capital LLC Decreases Stock Holdings in Advanced Micro Devices, Inc. $AMD",
+      "summary": "Vestor Capital LLC significantly reduced its stake in Advanced Micro Devices (AMD) by 99.3% in the first quarter, selling 179,656 shares and retaining only 1,321 shares valued at $269,000. Despite this, institutional investors still hold 71.34% of AMD, and the company reported st",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vestor-capital-llc-decreases-stock-holdings-in-advanced-micro-devices-inc-amd-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T10:07:01+00:00",
+      "sentiment": -0.168271,
       "change_pct": 2.93
     },
     {
@@ -961,16 +962,16 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_924992cd563bca",
+      "id": "av_01df925086dafa",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Colgate-Palmolive Company $CL Stock Position Cut by Vestor Capital LLC",
-      "summary": "Vestor Capital LLC significantly cut its stake in Colgate-Palmolive (CL) by 95.1% in Q1 2026, selling over 30,000 shares but still retaining 1,560 shares. Despite this, other institutional investors increased their positions, and 80.41% of the stock is held by institutions. The a",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-colgate-palmolive-company-cl-stock-position-cut-by-vestor-capital-llc-2026-08-01/",
+      "title": "Lazard Asset Management LLC Acquires 34,206 Shares of Douglas Dynamics, Inc. $PLOW",
+      "summary": "Lazard Asset Management LLC significantly increased its stake in Douglas Dynamics, Inc. (NYSE:PLOW) by 51.1% in the first quarter, acquiring an additional 34,206 shares to reach a total of 101,109 shares valued at $4.26 million. Douglas Dynamics exceeded quarterly earnings expect",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-lazard-asset-management-llc-acquires-34206-shares-of-douglas-dynamics-inc-plow-2026-08-01/",
       "source": "MarketBeat",
-      "published_at": "2026-08-01T11:07:30+00:00",
-      "sentiment": 0.134084,
+      "published_at": "2026-08-01T11:39:10+00:00",
+      "sentiment": 0.118875,
       "change_pct": 2.93
     },
     {
@@ -1022,16 +1023,16 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_01df925086dafa",
+      "id": "av_0bf51cb72729bb",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Lazard Asset Management LLC Acquires 34,206 Shares of Douglas Dynamics, Inc. $PLOW",
-      "summary": "Lazard Asset Management LLC significantly increased its stake in Douglas Dynamics, Inc. (NYSE:PLOW) by 51.1% in the first quarter, acquiring an additional 34,206 shares to reach a total of 101,109 shares valued at $4.26 million. Douglas Dynamics exceeded quarterly earnings expect",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lazard-asset-management-llc-acquires-34206-shares-of-douglas-dynamics-inc-plow-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T11:39:10+00:00",
-      "sentiment": 0.111282,
+      "title": "Prediction: Nvidia Will Be a $10 Trillion Company by 2030. Here's the Math.",
+      "summary": "This article predicts that Nvidia could become a $10 trillion company by 2030, requiring an annualized return of about 18%. This growth is supported by the rapid expansion of the AI market and increasing spending on AI-optimized servers. Analysts' projections of $688 billion in f",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3584602/prediction-nvidia-will-be-a-10-trillion-company-by-2030-heres-the-math/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-07-31T20:38:25+00:00",
+      "sentiment": 0.487664,
       "change_pct": 2.93
     },
     {
@@ -1071,6 +1072,19 @@
       "change_pct": 2.93
     },
     {
+      "id": "av_924992cd563bca",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Colgate-Palmolive Company $CL Stock Position Cut by Vestor Capital LLC",
+      "summary": "Vestor Capital LLC significantly cut its stake in Colgate-Palmolive (CL) by 95.1% in Q1 2026, selling over 30,000 shares but still retaining 1,560 shares. Despite this, other institutional investors increased their positions, and 80.41% of the stock is held by institutions. The a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-colgate-palmolive-company-cl-stock-position-cut-by-vestor-capital-llc-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T11:07:30+00:00",
+      "sentiment": 0.111661,
+      "change_pct": 2.93
+    },
+    {
       "id": "f_1ba78ec63f64cc",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1105,18 +1119,6 @@
       "source": "Yahoo",
       "published_at": "2026-08-01T15:19:00+00:00",
       "change_pct": 2.93
-    },
-    {
-      "id": "f_465b969e833d3e",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Uber is building an autonomous vehicle empire, and here’s every company it’s using to do it",
-      "summary": "Uber has partnered with — and in some cases made direct investments in — about 30 autonomous vehicle companies over the past two years. Here's the list and the latest on the partnerships.",
-      "url": "https://finnhub.io/api/news?id=70ef54aa7ccd63ab6ab70c50d4066515877a386494dc74f451ed320e9bd509c3",
-      "source": "Yahoo",
-      "published_at": "2026-08-01T15:05:00+00:00",
-      "change_pct": 6.73
     },
     {
       "id": "f_4bf61c5ad9ad30",
@@ -1155,16 +1157,16 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_a2f02ee65c766a",
+      "id": "av_c8bdfcc22a8eef",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "F5 (FFIV) Launches AI Guardrails With Nvidia For Enterprise AI Security",
-      "summary": "F5 (FFIV) has launched enterprise-grade AI Guardrails in collaboration with NVIDIA, integrating with NVIDIA NeMo Guardrails to offer centralized, real-time security for AI applications. This initiative aims to address the security needs of organizations deploying generative AI at",
-      "url": "https://simplywall.st/stocks/us/tech/nasdaq-ffiv/f5/news/f5-ffiv-launches-ai-guardrails-with-nvidia-for-enterprise-ai",
-      "source": "Simply Wall St",
-      "published_at": "2026-08-01T03:44:51+00:00",
-      "sentiment": 0.272287,
+      "title": "Sei Investments Co. Raises Holdings in SiTime Corporation $SITM",
+      "summary": "Sei Investments Co. significantly increased its stake in SiTime Corporation, acquiring an additional 11,619 shares to hold a total of 33,524 shares valued at $11.58 million. This comes as SiTime reported strong quarterly earnings, beating analyst expectations with an 88.3% year-o",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-sei-investments-co-raises-holdings-in-sitime-corporation-sitm-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T10:09:35+00:00",
+      "sentiment": 0.112357,
       "change_pct": 2.93
     },
     {
@@ -1204,16 +1206,28 @@
       "change_pct": -4.56
     },
     {
-      "id": "av_62deed4d2c42be",
+      "id": "av_ac7faa9f8cea15",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles",
-      "summary": "Nvidia has once again become the world's most valuable company. This shift occurred after Apple's stock declined and Amazon highlighted the crucial role of Nvidia's processors in the booming artificial intelligence sector. Nvidia's shares have seen approximately a 15% increase ov",
-      "url": "https://www.barrons.com/articles/nvidia-stock-price-amazon-2354d905",
-      "source": "Barron's",
-      "published_at": "2026-07-31T21:15:25+00:00",
-      "sentiment": 0.428739,
+      "title": "Cadence Design Systems, Inc. $CDNS Shares Bought by Groupama Asset Managment",
+      "summary": "Groupama Asset Management increased its stake in Cadence Design Systems (NASDAQ:CDNS) by 5.1% in the first quarter, now owning 67,891 shares valued at $18.865 million. Other institutional investors also adjusted their positions, with institutional ownership of the company's stock",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-cadence-design-systems-inc-cdns-shares-bought-by-groupama-asset-managment-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T09:07:17+00:00",
+      "sentiment": 0.134074,
+      "change_pct": 2.93
+    },
+    {
+      "id": "f_175e6a166a2b78",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Top Four Nasdaq 100 Stocks to Watch Next Week: AMD, Uber, Palantir, Airbnb",
+      "summary": "The top Nasdaq 100 index stocks to watch next week include heavyweights like AMD, Uber, Palantir and Airbnb.",
+      "url": "https://finnhub.io/api/news?id=aa279fcdc74385c4ce84c3cbf08930b5481f27af7343e1c36e115bcdf521e97a",
+      "source": "Benzinga",
+      "published_at": "2026-08-01T14:25:17+00:00",
       "change_pct": 2.93
     },
     {
@@ -1229,19 +1243,6 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_c8bdfcc22a8eef",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Sei Investments Co. Raises Holdings in SiTime Corporation $SITM",
-      "summary": "Sei Investments Co. significantly increased its stake in SiTime Corporation, acquiring an additional 11,619 shares to hold a total of 33,524 shares valued at $11.58 million. This comes as SiTime reported strong quarterly earnings, beating analyst expectations with an 88.3% year-o",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-sei-investments-co-raises-holdings-in-sitime-corporation-sitm-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T10:09:35+00:00",
-      "sentiment": 0.103812,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_c4569bfaf5d610",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1252,6 +1253,18 @@
       "source": "Yahoo",
       "published_at": "2026-08-01T14:15:18+00:00",
       "change_pct": 2.93
+    },
+    {
+      "id": "f_7b4908d7edc881",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Top Three Crypto Stocks to Watch Next Week: CRCL, RIOT, MSTR",
+      "summary": "The top crypto stocks to watch next week include popular names like Circle (CRCL), Riot Platforms and Strategy.",
+      "url": "https://finnhub.io/api/news?id=0765b6e5b1706b9bfccaed31af32b4a6fd7807c9e1fb5cf787aa23d3346ba51d",
+      "source": "Benzinga",
+      "published_at": "2026-08-01T14:15:18+00:00",
+      "change_pct": -4.56
     },
     {
       "id": "f_b9a4052dccbe00",
@@ -1266,19 +1279,6 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_ac7faa9f8cea15",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cadence Design Systems, Inc. $CDNS Shares Bought by Groupama Asset Managment",
-      "summary": "Groupama Asset Management increased its stake in Cadence Design Systems (NASDAQ:CDNS) by 5.1% in the first quarter, now owning 67,891 shares valued at $18.865 million. Other institutional investors also adjusted their positions, with institutional ownership of the company's stock",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-cadence-design-systems-inc-cdns-shares-bought-by-groupama-asset-managment-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T09:07:17+00:00",
-      "sentiment": 0.12395,
-      "change_pct": 2.93
-    },
-    {
       "id": "av_795ce94982d716",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1288,7 +1288,20 @@
       "url": "https://stockstotrade.com/news/nvent-electric-plc-nvt-news-2026_07_31/",
       "source": "StocksToTrade",
       "published_at": "2026-07-31T18:03:00+00:00",
-      "sentiment": 0.541234,
+      "sentiment": 0.517651,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_a2f02ee65c766a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "F5 (FFIV) Launches AI Guardrails With Nvidia For Enterprise AI Security",
+      "summary": "F5 (FFIV) has launched enterprise-grade AI Guardrails in collaboration with NVIDIA, integrating with NVIDIA NeMo Guardrails to offer centralized, real-time security for AI applications. This initiative aims to address the security needs of organizations deploying generative AI at",
+      "url": "https://simplywall.st/stocks/us/tech/nasdaq-ffiv/f5/news/f5-ffiv-launches-ai-guardrails-with-nvidia-for-enterprise-ai",
+      "source": "Simply Wall St",
+      "published_at": "2026-08-01T03:44:51+00:00",
+      "sentiment": 0.253223,
       "change_pct": 2.93
     },
     {
@@ -1316,19 +1329,6 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_82ffb3ac6d6e0b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "1 Small-Cap Stock to Own for Decades and 2 We Avoid",
-      "summary": "This article identifies one small-cap stock, StoneX (SNEX), as a long-term buy due to its strong revenue and earnings growth and increasing tangible book value. Conversely, it advises avoiding Himax (HIMX) due to sales declines, high capital intensity, and significant debt, and E",
-      "url": "https://uk.finance.yahoo.com/news/1-small-cap-stock-own-203557129.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-31T20:35:00+00:00",
-      "sentiment": 0.426601,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_6fde43f8ed02a4",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1350,6 +1350,32 @@
       "url": "https://finnhub.io/api/news?id=f5960f6d8f8765e81eebe055a840b264cf50d4132545b124ffda21fd9db40af0",
       "source": "Yahoo",
       "published_at": "2026-08-01T13:30:41+00:00",
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_62deed4d2c42be",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia Is Back on Top as Most Valuable Company After Apple Stumbles",
+      "summary": "Nvidia has once again become the world's most valuable company. This shift occurred after Apple's stock declined and Amazon highlighted the crucial role of Nvidia's processors in the booming artificial intelligence sector. Nvidia's shares have seen approximately a 15% increase ov",
+      "url": "https://www.barrons.com/articles/nvidia-stock-price-amazon-2354d905",
+      "source": "Barron's",
+      "published_at": "2026-07-31T21:15:25+00:00",
+      "sentiment": 0.406029,
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_82ffb3ac6d6e0b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "1 Small-Cap Stock to Own for Decades and 2 We Avoid",
+      "summary": "This article identifies one small-cap stock, StoneX (SNEX), as a long-term buy due to its strong revenue and earnings growth and increasing tangible book value. Conversely, it advises avoiding Himax (HIMX) due to sales declines, high capital intensity, and significant debt, and E",
+      "url": "https://uk.finance.yahoo.com/news/1-small-cap-stock-own-203557129.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-31T20:35:00+00:00",
+      "sentiment": 0.421353,
       "change_pct": 2.93
     },
     {
@@ -1421,20 +1447,20 @@
       "url": "https://www.tradingview.com/news/stocktwits:269902281094b:0-baba-stock-at-near-two-month-highs-kimi-ai-s-moonshot-reportedly-has-a-power-agreement-with-alibaba-for-20k-nvidia-chips/",
       "source": "TradingView",
       "published_at": "2026-08-01T07:41:59+00:00",
-      "sentiment": 0.121838,
+      "sentiment": 0.120688,
       "change_pct": 2.93
     },
     {
-      "id": "av_74bc7e6949bbbe",
+      "id": "av_4f6696377144c6",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Segall Bryant & Hamill LLC Has $23.36 Million Stake in Synaptics Incorporated $SYNA",
-      "summary": "Segall Bryant & Hamill LLC significantly increased its stake in Synaptics Incorporated, now holding 333,602 shares valued at $23.36 million. This comes as Synaptics exceeded Q1 earnings expectations, though analyst sentiment has shifted to a consensus \"Hold\" rating. Insider sales",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-segall-bryant-hamill-llc-has-2336-million-stake-in-synaptics-incorporated-syna-2026-08-01/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-01T11:39:05+00:00",
-      "sentiment": 0.019623,
+      "title": "Jim Cramer Said Trouble Was Brewing As Salesforce Inc. (NYSE:CRM)’s Shares Rose",
+      "summary": "Jim Cramer commented on Salesforce Inc.'s stock performance, noting that despite a rise, trouble might be brewing for the company, whose shares have struggled in the current AI era. He highlighted a split in market sentiment, with bulls pointing to the Agentforce platform and ear",
+      "url": "https://ca.finance.yahoo.com/news/jim-cramer-said-trouble-brewing-023532261.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-07-31T22:35:00+00:00",
+      "sentiment": 0.347006,
       "change_pct": 2.93
     },
     {
@@ -1497,15 +1523,16 @@
       "change_pct": 6.73
     },
     {
-      "id": "f_9f441aad8b0450",
-      "provider": "finnhub",
+      "id": "av_74bc7e6949bbbe",
+      "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Bristol Myers Squibb Isn't Nearly as Cheap as It Looks -- Here's the 1 Thing That Could Change That",
-      "summary": "Bristol Myers Squibb's P/E ratio is below the industry average, but you have to take this key fact into consideration before buying it.",
-      "url": "https://finnhub.io/api/news?id=679c4328e708a8f8fd436919a30464508cc254953331dee08017dc057eb91ccd",
-      "source": "Yahoo",
-      "published_at": "2026-08-01T11:35:00+00:00",
+      "title": "Segall Bryant & Hamill LLC Has $23.36 Million Stake in Synaptics Incorporated $SYNA",
+      "summary": "Segall Bryant & Hamill LLC significantly increased its stake in Synaptics Incorporated, now holding 333,602 shares valued at $23.36 million. This comes as Synaptics exceeded Q1 earnings expectations, though analyst sentiment has shifted to a consensus \"Hold\" rating. Insider sales",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-segall-bryant-hamill-llc-has-2336-million-stake-in-synaptics-incorporated-syna-2026-08-01/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-01T11:39:05+00:00",
+      "sentiment": 0.002799,
       "change_pct": 2.93
     },
     {
@@ -1518,7 +1545,19 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-cybersecurity-stocks-023451210.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-31T22:34:00+00:00",
-      "sentiment": 0.323781,
+      "sentiment": 0.325588,
+      "change_pct": 2.93
+    },
+    {
+      "id": "f_9f441aad8b0450",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Bristol Myers Squibb Isn't Nearly as Cheap as It Looks -- Here's the 1 Thing That Could Change That",
+      "summary": "Bristol Myers Squibb's P/E ratio is below the industry average, but you have to take this key fact into consideration before buying it.",
+      "url": "https://finnhub.io/api/news?id=679c4328e708a8f8fd436919a30464508cc254953331dee08017dc057eb91ccd",
+      "source": "Yahoo",
+      "published_at": "2026-08-01T11:35:00+00:00",
       "change_pct": 2.93
     },
     {
@@ -1569,19 +1608,6 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_4f6696377144c6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Jim Cramer Said Trouble Was Brewing As Salesforce Inc. (NYSE:CRM)’s Shares Rose",
-      "summary": "Jim Cramer commented on Salesforce Inc.'s stock performance, noting that despite a rise, trouble might be brewing for the company, whose shares have struggled in the current AI era. He highlighted a split in market sentiment, with bulls pointing to the Agentforce platform and ear",
-      "url": "https://ca.finance.yahoo.com/news/jim-cramer-said-trouble-brewing-023532261.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-07-31T22:35:00+00:00",
-      "sentiment": 0.309623,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_2e0e47901cdcf5",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1614,7 +1640,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/clarivate-nyseclvt-lowered-to-hold-rating-by-wall-street-zen-2026-08-01/",
       "source": "MarketBeat",
       "published_at": "2026-08-01T05:10:10+00:00",
-      "sentiment": 0.136777,
+      "sentiment": 0.137521,
       "change_pct": 2.93
     },
     {
@@ -1725,19 +1751,6 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_2360951fa17e8b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Did Apple just signal a bottom in momentum-driven memory chip stocks?",
-      "summary": "Apple's recent revenue guidance, which cited a significant shortage and exponential price increases for memory chips, suggests a potential bottom for momentum-driven memory chip stocks. Despite recent pullbacks due to fears of Big Tech overspending on AI, analysts believe the und",
-      "url": "https://finance.yahoo.com/markets/article/did-apple-just-signal-a-bottom-in-momentum-driven-memory-chip-stocks-184019981.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-07-31T18:39:56+00:00",
-      "sentiment": 0.379218,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_0d055e2f7b0578",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1845,6 +1858,19 @@
       "change_pct": 0.76
     },
     {
+      "id": "av_2360951fa17e8b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Did Apple just signal a bottom in momentum-driven memory chip stocks?",
+      "summary": "Apple's recent revenue guidance, which cited a significant shortage and exponential price increases for memory chips, suggests a potential bottom for momentum-driven memory chip stocks. Despite recent pullbacks due to fears of Big Tech overspending on AI, analysts believe the und",
+      "url": "https://finance.yahoo.com/markets/article/did-apple-just-signal-a-bottom-in-momentum-driven-memory-chip-stocks-184019981.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-07-31T18:39:56+00:00",
+      "sentiment": 0.36438,
+      "change_pct": 2.93
+    },
+    {
       "id": "f_3dacb31c4a7814",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1928,19 +1954,6 @@
       "change_pct": 3.28
     },
     {
-      "id": "av_669b66f4dd59a9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
-      "summary": "This article examines three dividend ETFs—Fidelity High Dividend ETF (FDVV), First Trust Dividend Strength ETF (TDVI), and Amplify CWP Growth & Income ETF (QDVO)—that provide exposure to mega-cap tech stocks like Nvidia and Microsoft while offering substantial distribution yields",
-      "url": "https://247wallst.com/investing/2026/07/31/these-3-dividend-etfs-own-nvidia-and-microsoft-and-still-pay-up-to-8-percent/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-07-31T18:40:08+00:00",
-      "sentiment": 0.346488,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_3edc355277d4a6",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1951,6 +1964,19 @@
       "source": "Benzinga",
       "published_at": "2026-08-01T08:30:21+00:00",
       "change_pct": 0.76
+    },
+    {
+      "id": "av_2fea964406aed1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "QGRW ETF Profile: Dividends, Returns (HAM:QGRW)",
+      "summary": "This article provides a detailed profile of the WisdomTree US Quality Growth UCITS ETF (QGRW), traded on the Hamburg Stock Exchange. It covers key statistics such as Assets Under Management (AUM), expense ratio, inception date, and the index it tracks. The ETF focuses primarily o",
+      "url": "https://www.tradingview.com/symbols/HAM-QGRW/profile/",
+      "source": "TradingView",
+      "published_at": "2026-08-01T03:34:19+00:00",
+      "sentiment": 0.122859,
+      "change_pct": 2.93
     },
     {
       "id": "f_39c4aa05d70c3b",
@@ -1974,7 +2000,7 @@
       "url": "https://www.tradingview.com/news/zacks:bb0a9b652094b:0-fortinet-securing-the-ai-revolution/",
       "source": "TradingView",
       "published_at": "2026-07-31T18:37:55+00:00",
-      "sentiment": 0.344853,
+      "sentiment": 0.344271,
       "change_pct": 2.93
     },
     {
@@ -1990,16 +2016,16 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_2fea964406aed1",
+      "id": "av_669b66f4dd59a9",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "QGRW ETF Profile: Dividends, Returns (HAM:QGRW)",
-      "summary": "This article provides a detailed profile of the WisdomTree US Quality Growth UCITS ETF (QGRW), traded on the Hamburg Stock Exchange. It covers key statistics such as Assets Under Management (AUM), expense ratio, inception date, and the index it tracks. The ETF focuses primarily o",
-      "url": "https://www.tradingview.com/symbols/HAM-QGRW/profile/",
-      "source": "TradingView",
-      "published_at": "2026-08-01T03:34:19+00:00",
-      "sentiment": 0.116089,
+      "title": "These 3 Dividend ETFs Own Nvidia and Microsoft and Still Pay Up to 8 Percent",
+      "summary": "This article examines three dividend ETFs—Fidelity High Dividend ETF (FDVV), First Trust Dividend Strength ETF (TDVI), and Amplify CWP Growth & Income ETF (QDVO)—that provide exposure to mega-cap tech stocks like Nvidia and Microsoft while offering substantial distribution yields",
+      "url": "https://247wallst.com/investing/2026/07/31/these-3-dividend-etfs-own-nvidia-and-microsoft-and-still-pay-up-to-8-percent/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-31T18:40:08+00:00",
+      "sentiment": 0.335448,
       "change_pct": 2.93
     },
     {
@@ -2036,7 +2062,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/why-abbvie-stock-slumped-today-000121612.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-31T23:37:00+00:00",
-      "sentiment": 0.204482,
+      "sentiment": 0.202815,
       "change_pct": 2.93
     },
     {
@@ -2061,19 +2087,6 @@
       "url": "https://finnhub.io/api/news?id=b325c98f6bc14434e190992b6b8260fc6a9e5ab09b97c35c878066ef6050d4af",
       "source": "Yahoo",
       "published_at": "2026-08-01T07:25:00+00:00",
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_440e23f46a59b1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Mizuho Lowers Allegro MicroSystems (NASDAQ:ALGM) Price Target to $58.00",
-      "summary": "Mizuho has lowered its price target for Allegro MicroSystems (NASDAQ:ALGM) to $58.00 from $67.00, while maintaining an \"outperform\" rating, indicating a potential upside of 37.64%. The company recently exceeded quarterly earnings expectations with $0.23 EPS and $259.24 million in",
-      "url": "https://www.marketbeat.com/instant-alerts/mizuho-lowers-allegro-microsystems-nasdaqalgm-price-target-to-5800-2026-07-31/",
-      "source": "MarketBeat",
-      "published_at": "2026-07-31T18:10:20+00:00",
-      "sentiment": 0.327533,
       "change_pct": 2.93
     },
     {
@@ -2147,6 +2160,19 @@
       "change_pct": 3.02
     },
     {
+      "id": "av_440e23f46a59b1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Mizuho Lowers Allegro MicroSystems (NASDAQ:ALGM) Price Target to $58.00",
+      "summary": "Mizuho has lowered its price target for Allegro MicroSystems (NASDAQ:ALGM) to $58.00 from $67.00, while maintaining an \"outperform\" rating, indicating a potential upside of 37.64%. The company recently exceeded quarterly earnings expectations with $0.23 EPS and $259.24 million in",
+      "url": "https://www.marketbeat.com/instant-alerts/mizuho-lowers-allegro-microsystems-nasdaqalgm-price-target-to-5800-2026-07-31/",
+      "source": "MarketBeat",
+      "published_at": "2026-07-31T18:10:20+00:00",
+      "sentiment": 0.317063,
+      "change_pct": 2.93
+    },
+    {
       "id": "f_ce3976a7c40f8d",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2168,6 +2194,19 @@
       "url": "https://finnhub.io/api/news?id=c531df0e1f7c84e64a3e5e39a7ea2d7bc399cd704a041121227d9e8ca4878f6b",
       "source": "Yahoo",
       "published_at": "2026-08-01T06:25:00+00:00",
+      "change_pct": 2.93
+    },
+    {
+      "id": "av_071078d42cab0c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "USMC ETF Profile: Dividends, Returns (BOATS:USMC)",
+      "summary": "This article provides a detailed profile of the Principal U.S. Mega-Cap ETF (USMC), highlighting its dividends, returns, and key characteristics. It outlines the fund's investment strategy, asset allocation, top holdings, and essential financial metrics such as AUM and expense ra",
+      "url": "https://www.tradingview.com/symbols/BOATS-USMC/profile/",
+      "source": "TradingView",
+      "published_at": "2026-08-01T00:09:26+00:00",
+      "sentiment": 0.144632,
       "change_pct": 2.93
     },
     {
@@ -2231,16 +2270,16 @@
       "change_pct": 2.93
     },
     {
-      "id": "av_071078d42cab0c",
+      "id": "av_f56d078c3a6dd5",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "USMC ETF Profile: Dividends, Returns (BOATS:USMC)",
-      "summary": "This article provides a detailed profile of the Principal U.S. Mega-Cap ETF (USMC), highlighting its dividends, returns, and key characteristics. It outlines the fund's investment strategy, asset allocation, top holdings, and essential financial metrics such as AUM and expense ra",
-      "url": "https://www.tradingview.com/symbols/BOATS-USMC/profile/",
-      "source": "TradingView",
-      "published_at": "2026-08-01T00:09:26+00:00",
-      "sentiment": 0.112857,
+      "title": "1 AI Stock I’d Buy Before It Hits Another All-Time High",
+      "summary": "Despite a 77% jump in net income for Q2 2026 and advanced 2nm node technology, Taiwan Semiconductor (NYSE: TSM) shares are trading 15% below their all-time high. The article suggests TSM could reach $550 by 2027 if 2nm pricing power holds, AI hyperscaler demand remains strong, an",
+      "url": "https://247wallst.com/investing/2026/07/31/1-ai-stock-id-buy-before-it-hits-another-all-time-high/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-07-31T17:40:23+00:00",
+      "sentiment": 0.277516,
       "change_pct": 2.93
     },
     {
@@ -2277,23 +2316,10 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/pfizer-yields-6-8-trades-192900503.html",
       "source": "Yahoo Finance",
       "published_at": "2026-07-31T19:29:00+00:00",
-      "sentiment": 0.219792,
+      "sentiment": 0.21246,
       "change_pct": 2.93,
       "title_kr": "화이자는 수익률 6.8%, 수익 8.5배로 거래되며 유망한 후기 체중 감량 약물을 보유하고 있습니다. 왜 그렇게 많은 투자자들이 여전히 주식을 무시하고 있습니까?",
       "summary_kr": "이 주식에는 눈에 보이는 것보다 더 많은 것이 있습니다."
-    },
-    {
-      "id": "av_f56d078c3a6dd5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "1 AI Stock I’d Buy Before It Hits Another All-Time High",
-      "summary": "Despite a 77% jump in net income for Q2 2026 and advanced 2nm node technology, Taiwan Semiconductor (NYSE: TSM) shares are trading 15% below their all-time high. The article suggests TSM could reach $550 by 2027 if 2nm pricing power holds, AI hyperscaler demand remains strong, an",
-      "url": "https://247wallst.com/investing/2026/07/31/1-ai-stock-id-buy-before-it-hits-another-all-time-high/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-07-31T17:40:23+00:00",
-      "sentiment": 0.256159,
-      "change_pct": 2.93
     },
     {
       "id": "f_f18377a439141f",
@@ -2317,7 +2343,7 @@
       "url": "https://www.invesco.com/fr/fr/analyses/iad-q1-2026-long-term-value-investing-amid-global-volatility.html",
       "source": "Invesco",
       "published_at": "2026-07-31T22:47:01+00:00",
-      "sentiment": 0.124414,
+      "sentiment": 0.124058,
       "change_pct": 2.93
     },
     {
@@ -2368,6 +2394,19 @@
       "change_pct": 2.93
     },
     {
+      "id": "av_7537ea53dfb290",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
+      "summary": "The U.S. Federal Trade Commission has approved IonQ's $1.8 billion acquisition of SkyWater Technology, despite disagreements among agency leaders. Chairman Andrew Ferguson had proposed conditions to ensure fair access for rival quantum computing companies, but Commissioner Mark M",
+      "url": "https://uk.finance.yahoo.com/news/ftc-approves-ionq-acquisition-skywater-214316391.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-07-31T21:45:00+00:00",
+      "sentiment": 0.128229,
+      "change_pct": 2.93
+    },
+    {
       "id": "av_550871b12ab26e",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -2377,7 +2416,7 @@
       "url": "https://ca.finance.yahoo.com/news/corning-rides-ai-data-center-174500670.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-07-31T18:07:50+00:00",
-      "sentiment": 0.218873,
+      "sentiment": 0.217512,
       "change_pct": 2.93
     },
     {
@@ -2475,32 +2514,6 @@
       "change_pct": -1.9
     },
     {
-      "id": "av_39a78a39cc243d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Astera Labs (ALAB) Faces An Earnings Test On A Pricey AI Growth Narrative",
-      "summary": "Astera Labs (ALAB) is facing an earnings test amid a cooling share price, despite previous rapid growth and profitability. The stock is currently trading at $299.69, which is considered overvalued compared to its fair value of $244.97, based on aggressive growth assumptions relat",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-alab/astera-labs/news/astera-labs-alab-faces-an-earnings-test-on-a-pricey-ai-growt",
-      "source": "Simply Wall St",
-      "published_at": "2026-07-31T16:41:01+00:00",
-      "sentiment": 0.24579,
-      "change_pct": 2.93
-    },
-    {
-      "id": "av_7537ea53dfb290",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
-      "summary": "The U.S. Federal Trade Commission has approved IonQ's $1.8 billion acquisition of SkyWater Technology, despite disagreements among agency leaders. Chairman Andrew Ferguson had proposed conditions to ensure fair access for rival quantum computing companies, but Commissioner Mark M",
-      "url": "https://uk.finance.yahoo.com/news/ftc-approves-ionq-acquisition-skywater-214316391.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-07-31T21:45:00+00:00",
-      "sentiment": 0.111017,
-      "change_pct": 2.93
-    },
-    {
       "id": "f_a1f6185ea9b492",
       "provider": "finnhub",
       "ticker": "META",
@@ -2523,22 +2536,10 @@
       "source": "Yahoo",
       "published_at": "2026-08-01T01:42:00+00:00",
       "change_pct": 2.93
-    },
-    {
-      "id": "f_6d3bbe671605d0",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Insurance ETFs Top Defensive Sector Chart In July As Investors Look To Pivot Slightly From Chips And AI",
-      "summary": "Insurance ETFs are garnering attention as a defensive play as investors look to hedge against tech and AI.",
-      "url": "https://finnhub.io/api/news?id=f8dcdd0def118578b70ecba6821d753b2ad86bb062148b401ea90318f40e7f06",
-      "source": "Yahoo",
-      "published_at": "2026-08-01T01:15:39+00:00",
-      "change_pct": 0.76
     }
   ],
-  "fetched_at": "2026-08-01T18:47:38.447992+00:00",
+  "fetched_at": "2026-08-01T20:02:44.492556+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-01T18:47:41.146420+00:00",
+  "translated_at": "2026-08-01T20:02:45.190031+00:00",
   "translation_engine": "google-parallel"
 }
