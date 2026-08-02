@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-02T22:15:54.537492+00:00",
+  "fetched_at": "2026-08-02T23:25:46.374123+00:00",
   "us_mood_score": 90,
-  "kr_mood_score": 100,
+  "kr_mood_score": 50,
   "us_mood": "bullish",
-  "kr_mood": "bullish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "AMZN",
@@ -12,7 +12,7 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 4.6,
-      "actual_kr_pct": 6.83,
+      "actual_kr_pct": 0.0,
       "reason": "커머스·클라우드 동행",
       "us_price": 271.58,
       "kr_price": 208000.0
@@ -24,7 +24,7 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": 4.29,
-      "actual_kr_pct": 26.81,
+      "actual_kr_pct": 0.0,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 271.58,
       "kr_price": 262500.0
@@ -48,7 +48,7 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 2.83,
-      "actual_kr_pct": 6.83,
+      "actual_kr_pct": 0.0,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 356.13,
       "kr_price": 208000.0
@@ -72,7 +72,7 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 2.36,
-      "actual_kr_pct": 3.46,
+      "actual_kr_pct": 0.0,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 356.13,
       "kr_price": 37400.0
@@ -96,7 +96,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 2.11,
-      "actual_kr_pct": 29.95,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 200.75,
       "kr_price": 1718000.0
@@ -120,7 +120,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.52,
-      "actual_kr_pct": 26.81,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 200.75,
       "kr_price": 262500.0
@@ -168,7 +168,7 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 1.25,
-      "actual_kr_pct": 6.83,
+      "actual_kr_pct": 0.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 556.71,
       "kr_price": 208000.0
@@ -180,7 +180,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -1.1,
-      "actual_kr_pct": 29.95,
+      "actual_kr_pct": 0.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 476.15,
       "kr_price": 1718000.0
@@ -192,7 +192,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 1.06,
-      "actual_kr_pct": 6.83,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 464.72,
       "kr_price": 208000.0
@@ -204,7 +204,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.04,
-      "actual_kr_pct": 29.95,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 187.56,
       "kr_price": 1718000.0
@@ -228,7 +228,7 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": 0.97,
-      "actual_kr_pct": 3.46,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 464.72,
       "kr_price": 37400.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 28.38,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.6,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 4.88,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.44,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 5.14,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": 2.69,
       "lag_hours": 8
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 63682.52,
-      "change_pct": 1.31,
+      "price": 63499.69,
+      "change_pct": 1.14,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMZN +15.3% → NAVER 개장 상방 압력 예상 (+4.6% 전후). US 무드 90/100, KR 무드 100/100."
+  "summary": "미국 AMZN +15.3% → NAVER 개장 상방 압력 예상 (+4.6% 전후). US 무드 90/100, KR 무드 50/100."
 }
