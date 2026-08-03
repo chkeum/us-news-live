@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-03T22:19:10.877022+00:00",
+  "fetched_at": "2026-08-03T23:29:50.848214+00:00",
   "us_mood_score": 82,
-  "kr_mood_score": 31,
+  "kr_mood_score": 50,
   "us_mood": "bullish",
-  "kr_mood": "bearish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "NVDA",
@@ -24,7 +24,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.37,
-      "actual_kr_pct": -3.66,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 322.08,
       "kr_price": 316000.0
@@ -60,7 +60,7 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 2.29,
-      "actual_kr_pct": -0.24,
+      "actual_kr_pct": 0.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 590.24,
       "kr_price": 207500.0
@@ -72,7 +72,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.16,
-      "actual_kr_pct": -6.47,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 322.08,
       "kr_price": 96800.0
@@ -84,7 +84,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 2.11,
-      "actual_kr_pct": -8.79,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 206.64,
       "kr_price": 1567000.0
@@ -108,7 +108,7 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 2.05,
-      "actual_kr_pct": -0.24,
+      "actual_kr_pct": 0.0,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 373.51,
       "kr_price": 207500.0
@@ -156,7 +156,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 1.73,
-      "actual_kr_pct": -0.24,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 487.65,
       "kr_price": 207500.0
@@ -168,7 +168,7 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 1.71,
-      "actual_kr_pct": -0.53,
+      "actual_kr_pct": 0.0,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 373.51,
       "kr_price": 37200.0
@@ -204,7 +204,7 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": 1.58,
-      "actual_kr_pct": -0.53,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 487.65,
       "kr_price": 37200.0
@@ -216,7 +216,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.52,
-      "actual_kr_pct": -8.76,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 206.64,
       "kr_price": 239500.0
@@ -228,7 +228,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.49,
-      "actual_kr_pct": -8.79,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 193.78,
       "kr_price": 1567000.0
@@ -240,7 +240,7 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 1.37,
-      "actual_kr_pct": -0.24,
+      "actual_kr_pct": 0.0,
       "reason": "커머스·클라우드 동행",
       "us_price": 284.02,
       "kr_price": 207500.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -8.77,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.43,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -5.06,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": 2.02,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.39,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": 1.94,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "MSTR",
+      "title": "What Wall Street expects from Circle, MARA, Galaxy earnings this week",
+      "title_kr": "월스트리트가 이번 주 Circle, MARA, Galaxy 실적에서 기대하는 것",
+      "source": "Yahoo",
+      "published_at": "2026-08-03T22:00:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "카카오게임즈",
+        "위메이드"
+      ]
+    },
+    {
       "ticker": "PLTR",
       "title": "Palantir Earnings Beat As U.S. Sales Growth Reaccelerates",
       "title_kr": "미국 판매 성장이 재가속되면서 Palantir 수익이 앞섰습니다.",
@@ -350,18 +362,6 @@
         "SK하이닉스",
         "한미반도체"
       ]
-    },
-    {
-      "ticker": "META",
-      "title": "Meta Platforms Stock Plunges On Earnings; This Bearish Options Trade Could Earn $470",
-      "title_kr": "메타 플랫폼 주식은 수익 급락; 이 약세 옵션 거래는 $470를 벌 수 있습니다",
-      "source": "Yahoo",
-      "published_at": "2026-08-03T20:25:26+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "하이브"
-      ]
     }
   ],
   "macro": {
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 63658,
-      "change_pct": -0.1,
+      "price": 63572,
+      "change_pct": 0.04,
       "label": "BTC"
     }
   },
-  "summary": "미국 NVDA +2.9% → 한미반도체 개장 상방 압력 예상 (+2.5% 전후). US 무드 82/100, KR 무드 31/100."
+  "summary": "미국 NVDA +2.9% → 한미반도체 개장 상방 압력 예상 (+2.5% 전후). US 무드 82/100, KR 무드 50/100."
 }
