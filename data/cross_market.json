@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-05T04:42:58.135561+00:00",
-  "us_mood_score": 96,
-  "kr_mood_score": 96,
+  "fetched_at": "2026-08-05T07:23:40.533190+00:00",
+  "us_mood_score": 98,
+  "kr_mood_score": 93,
   "us_mood": "bullish",
   "kr_mood": "bullish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 5.76,
-      "actual_kr_pct": 7.29,
+      "actual_kr_pct": 5.77,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 218.59,
-      "kr_price": 1692000.0
+      "kr_price": 1668000.0
     },
     {
       "us_ticker": "AMD",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 4.06,
-      "actual_kr_pct": 7.29,
+      "actual_kr_pct": 5.77,
       "reason": "MI355X용 HBM 공급",
       "us_price": 518.58,
-      "kr_price": 1692000.0
+      "kr_price": 1668000.0
     },
     {
       "us_ticker": "AVGO",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 2.78,
-      "actual_kr_pct": 7.29,
+      "actual_kr_pct": 5.77,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 418.16,
-      "kr_price": 1692000.0
+      "kr_price": 1668000.0
     },
     {
       "us_ticker": "NVDA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.84,
-      "actual_kr_pct": 7.29,
+      "actual_kr_pct": 5.77,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 211.94,
-      "kr_price": 1692000.0
+      "kr_price": 1668000.0
     },
     {
       "us_ticker": "NVDA",
@@ -132,10 +132,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.33,
-      "actual_kr_pct": 3.33,
+      "actual_kr_pct": 2.5,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 211.94,
-      "kr_price": 248000.0
+      "kr_price": 246000.0
     },
     {
       "us_ticker": "TSLA",
@@ -144,10 +144,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.12,
-      "actual_kr_pct": 1.22,
+      "actual_kr_pct": 2.13,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 327.35,
-      "kr_price": 332500.0
+      "kr_price": 335500.0
     },
     {
       "us_ticker": "MSTR",
@@ -168,10 +168,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.02,
-      "actual_kr_pct": -0.98,
+      "actual_kr_pct": -0.78,
       "reason": "NCA 양극재 공급",
       "us_price": 327.35,
-      "kr_price": 101500.0
+      "kr_price": 101700.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.7,
-      "actual_kr_pct": 1.55,
+      "actual_kr_pct": 1.1,
       "reason": "커머스·클라우드 동행",
       "us_price": 277.42,
-      "kr_price": 230000.0
+      "kr_price": 229000.0
     },
     {
       "us_ticker": "AMZN",
@@ -228,10 +228,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": -0.65,
-      "actual_kr_pct": 3.33,
+      "actual_kr_pct": 2.5,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 277.42,
-      "kr_price": 248000.0
+      "kr_price": 246000.0
     },
     {
       "us_ticker": "MSTR",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 5.31,
+      "kr_actual_avg_pct": 4.13,
       "beta": 0.65,
       "predicted_kr_avg_pct": 4.71,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.12,
+      "kr_actual_avg_pct": 0.67,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.95,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 1.24,
+      "kr_actual_avg_pct": 0.88,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.05,
       "lag_hours": 8
@@ -352,15 +352,15 @@
       ]
     },
     {
-      "ticker": "TSLA",
-      "title": "Dow Jones Futures Rise; SpaceX, AMD, Arista Lead Earnings Movers After S&P 500 Jumps To High",
-      "title_kr": "다우존스 선물 상승; SpaceX, AMD, Arista, S&P 500 지수 상승 후 수익 주도자",
+      "ticker": "AMZN",
+      "title": "Niagen Bioscience Inc (NAGE) (Q2 2026) Earnings Call Highlights: E-Commerce Surge and China ...",
+      "title_kr": "Niagen Bioscience Inc(NAGE)(2026년 2분기) 실적 발표 하이라이트: 전자상거래 급증 및 중국 ...",
       "source": "Yahoo",
-      "published_at": "2026-08-05T01:57:56+00:00",
+      "published_at": "2026-08-05T05:04:56+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "LG에너지솔루션",
-        "에코프로비엠"
+        "NAVER",
+        "삼성전자"
       ]
     }
   ],
@@ -377,14 +377,14 @@
     },
     "vix": {
       "price": 16.5,
-      "change_pct": 4.04,
+      "change_pct": 0.0,
       "label": "VIX"
     },
     "btc": {
-      "price": 64186,
-      "change_pct": 0.29,
+      "price": 64073.53,
+      "change_pct": 0.87,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +12.8% → 한미반도체 개장 상방 압력 예상 (+7.9% 전후). US 무드 96/100, KR 무드 96/100."
+  "summary": "미국 MRVL +12.8% → 한미반도체 개장 상방 압력 예상 (+7.9% 전후). US 무드 98/100, KR 무드 93/100."
 }
