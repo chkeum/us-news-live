@@ -467,18 +467,18 @@
       "summary_kr": "NVDL은 강세 돌파 후 NVIDIA에 2배의 레버리지 노출을 제공합니다."
     },
     {
-      "id": "f_8adb2cadfcb0a9",
+      "id": "f_f2a7a21647da5e",
       "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "earnings",
-      "title": "AMD Revenue Rockets 50%: 2 Undervalued Chip Stocks With Long-Term EPS Growth +100%",
-      "summary": "Big tech earnings have reinforced the AI bull case, despite recent skepticism. Discover 2 undervalued semiconductor stocks poised to benefit in H2 2026.",
-      "url": "https://finnhub.io/api/news?id=db01e972426e38a8c46aae5cd3b99ca378a6cb5f201963b48eaac54e8d856eeb",
+      "ticker": "GOOGL",
+      "category": "analyst",
+      "title": "Broadcom: Big, Bad News When Compute Leaders Need Optical Advantage (Upgrade)",
+      "summary": "Broadcom Inc. is upgraded to Buy, driven by its AI compute leadership and robust supply-chain position. Read more on AVGO stock here.",
+      "url": "https://finnhub.io/api/news?id=30cdad70cc876fc684008b369f3ad588e5bca6c35f2bc682991246e19354ab67",
       "source": "SeekingAlpha",
-      "published_at": "2026-08-05T14:12:21+00:00",
-      "change_pct": -7.04,
-      "title_kr": "AMD 매출 50% 증가: 장기 EPS 성장 +100%로 저평가된 2개의 칩 주식",
-      "summary_kr": "최근의 회의론에도 불구하고 거대 기술 부문의 수익은 AI 강세론을 강화했습니다. 2026년 하반기에 수혜를 입을 저평가된 반도체 주식 2개를 알아보세요."
+      "published_at": "2026-08-05T16:44:58+00:00",
+      "change_pct": -4.03,
+      "title_kr": "Broadcom: 컴퓨팅 리더에게 광학적 이점이 필요할 때의 크고 나쁜 소식(업그레이드)",
+      "summary_kr": "Broadcom Inc.는 AI 컴퓨팅 리더십과 강력한 공급망 위치에 힘입어 매수로 업그레이드되었습니다. 여기에서 AVGO 주식에 대해 자세히 알아보세요."
     },
     {
       "id": "f_afb510e9ae981e",
@@ -517,10 +517,40 @@
       "url": "https://finance.yahoo.com/technology/article/nvidia-stock-rises-after-musk-says-spacex-will-exclusively-use-companys-chips-211803293.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-05T16:39:21+00:00",
-      "sentiment": 0.474681,
+      "sentiment": 0.480985,
       "change_pct": 3.43,
       "title_kr": "머스크가 스페이스X가 회사 칩을 독점적으로 사용할 것이라고 말한 후 엔비디아 주가 상승",
       "summary_kr": "Nvidia의 주가는 Elon Musk가 SpaceX가 서비스에 Nvidia의 AI 시스템을 독점적으로 사용할 것이라고 발표하여 두 회사 간의 강력한 파트너십을 강조한 후 크게 상승했습니다. SpaceX는 다음을 포함하여 상당한 컴퓨팅 용량을 구축할 계획입니다."
+    },
+    {
+      "id": "av_aabc87a0461bea",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SolarEdge Technologies Inc earnings beat by $0.07, revenue topped estimates",
+      "summary": "SolarEdge Technologies Inc (NASDAQ: SEDG) reported better-than-expected Q2 EPS of $0.05, surpassing analyst estimates by $0.07, and revenue of $346.2 million, which also topped consensus. Despite the strong Q2 performance, the company provided Q3 2026 revenue guidance of $310.00M",
+      "url": "https://www.investing.com/news/earnings/solaredge-technologies-inc-earnings-beat-by-007-revenue-topped-estimates-4837198",
+      "source": "Investing.com",
+      "published_at": "2026-08-05T11:12:00+00:00",
+      "sentiment": 0.529851,
+      "change_pct": 3.43,
+      "title_kr": "SolarEdge Technologies Inc의 수익은 0.07달러 상회하고 수익은 예상치를 상회했습니다.",
+      "summary_kr": "SolarEdge Technologies Inc(NASDAQ: SEDG)는 예상보다 나은 2분기 EPS를 0.05달러로 보고하여 분석가 추정치를 0.07달러 상회했으며 매출은 3억 4,620만 달러로 컨센서스를 넘어섰습니다. 강력한 2분기 실적에도 불구하고 회사는 2026년 3분기 수익을 제공했습니다."
+    },
+    {
+      "id": "av_1384a6ed500acd",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SK Telecom Q2 2026 Earnings Call Transcript",
+      "summary": "SK Telecom reported strong Q2 2026 earnings with operating profit up 67.3% year-over-year and AI data center revenue growing 92.5%, largely due to the Pangyo facility and new Seoul data center construction. The company announced the establishment of SK Hyper, a dedicated subsidia",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-8-5-sk-telecom-coltd-stock/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-05T17:44:39+00:00",
+      "sentiment": 0.335945,
+      "change_pct": 3.43,
+      "title_kr": "SK텔레콤 2026년 2분기 실적 통화 녹취록",
+      "summary_kr": "SK텔레콤은 2026년 2분기 영업이익이 전년 대비 67.3% 증가하고 AI 데이터센터 매출이 92.5% 증가하는 등 견조한 실적을 발표했는데, 이는 주로 판교 ​​시설과 서울 신규 데이터센터 건설에 힘입은 것입니다. SK하이퍼 설립을 발표했다."
     },
     {
       "id": "av_f80595c8897690",
@@ -532,25 +562,25 @@
       "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/08/60961422/broadcom-marvell-nvidia-face-risk-china-ai-component-ban",
       "source": "Benzinga",
       "published_at": "2026-08-05T17:15:22+00:00",
-      "sentiment": -0.334321,
+      "sentiment": -0.337992,
       "change_pct": 3.43,
       "title_kr": "Broadcom, Nvidia, 중국 AI 구성 요소 금지로 인해 위험에 직면 - Broadcom(NASDAQ:AVGO), Advanced Micro Devices",
       "summary_kr": "AI 인프라에 중요한 중국산 광트랜시버에 대한 미국의 금지 제안은 Broadcom, Nvidia, Advanced Micro Devices와 같은 미국 거대 기술 기업에 부정적인 영향을 미칠 수 있습니다. BNP Paribas 분석가 Karl Ackerman은 그러한 금지 조치가 최고치를 혼란에 빠뜨릴 수 있다고 경고했습니다."
     },
     {
-      "id": "av_a0c9556c579e06",
+      "id": "av_2e931cdfe9f10a",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "EPAM Systems earnings up next: Large deal pipeline in focus",
-      "summary": "EPAM Systems is set to release its second-quarter results, with analysts expecting modest sequential improvement. Investors will be closely watching for progress on its growing pipeline of large deals and how its strategic AI partnerships translate into revenue growth or margin e",
-      "url": "https://www.investing.com/news/earnings/epam-systems-earnings-up-next-large-deal-pipeline-in-focus-93CH-4838788",
-      "source": "Investing.com",
-      "published_at": "2026-08-05T16:32:13+00:00",
-      "sentiment": 0.315987,
+      "title": "CDW Corporation Q2 2026 Earnings Call Summary",
+      "summary": "CDW Corporation reported record net sales and EPS in Q2 2026, driven by strong demand for AI readiness and infrastructure modernization, particularly within large enterprise and government segments. The company's diversified portfolio and strategic focus on AI are expected to fue",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cdw-corporation-q2-2026-earnings-165119042.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-05T17:07:26+00:00",
+      "sentiment": 0.331314,
       "change_pct": 3.43,
-      "title_kr": "EPAM Systems의 다음 수익: 대규모 거래 파이프라인에 집중",
-      "summary_kr": "EPAM Systems는 2분기 실적을 발표할 예정이며 분석가들은 완만한 순차적 개선을 기대하고 있습니다. 투자자들은 성장하는 대규모 거래 파이프라인의 진행 상황과 전략적 AI 파트너십이 수익으로 어떻게 전환되는지 면밀히 관찰할 것입니다."
+      "title_kr": "CDW Corporation 2026년 2분기 실적 요약",
+      "summary_kr": "CDW Corporation은 특히 대기업과 정부 부문에서 AI 준비 및 인프라 현대화에 대한 강력한 수요에 힘입어 2026년 2분기에 기록적인 순매출과 EPS를 보고했습니다. 회사의 다양한 포트폴리오와 AI에 대한 전략적 초점"
     },
     {
       "id": "av_af7c91bae2c105",
@@ -562,7 +592,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262078655-market-movers-qcom-20260805",
       "source": "TradingKey",
       "published_at": "2026-08-05T16:15:00+00:00",
-      "sentiment": 0.30229,
+      "sentiment": 0.330129,
       "change_pct": 3.43,
       "title_kr": "8월 5일 Qualcomm Inc 주식(QCOM)이 3.31% 하락했습니다: 주요 동인 공개",
       "summary_kr": "Qualcomm Inc(QCOM) 주가는 8월 5일 3.31% 하락했는데, 이는 주로 글로벌 재량 지출 감소, 거시경제적 역풍 및 부문별 우려로 인해 발생했습니다. 이러한 우려에는 주요 휴대폰 제조업체가 사내 모뎀 솔루션으로 전환하는 것이 포함됩니다."
@@ -577,10 +607,25 @@
       "url": "https://www.tradingkey.com/news/market-movers/262078583-market-movers-anet-20260805",
       "source": "TradingKey",
       "published_at": "2026-08-05T15:15:00+00:00",
-      "sentiment": 0.305983,
+      "sentiment": 0.34323,
       "change_pct": 3.43,
       "title_kr": "Arista Networks Inc 주식(ANET)은 8월 5일 3.97% 상승: 투자자가 알아야 할 사항",
       "summary_kr": "Arista Networks Inc(ANET)는 강력한 분기 실적과 연간 매출 가이던스 상향에 힘입어 8월 5일 주가가 3.97% 상승했습니다. 800G 플랫폼과 AI 인프라에 대한 높은 수요로 수혜를 입고 입지를 확고히 하고 있다."
+    },
+    {
+      "id": "av_a0c9556c579e06",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "EPAM Systems earnings up next: Large deal pipeline in focus",
+      "summary": "EPAM Systems is set to release its second-quarter results, with analysts expecting modest sequential improvement. Investors will be closely watching for progress on its growing pipeline of large deals and how its strategic AI partnerships translate into revenue growth or margin e",
+      "url": "https://www.investing.com/news/earnings/epam-systems-earnings-up-next-large-deal-pipeline-in-focus-93CH-4838788",
+      "source": "Investing.com",
+      "published_at": "2026-08-05T16:32:13+00:00",
+      "sentiment": 0.308372,
+      "change_pct": 3.43,
+      "title_kr": "EPAM Systems의 다음 수익: 대규모 거래 파이프라인에 집중",
+      "summary_kr": "EPAM Systems는 2분기 실적을 발표할 예정이며 분석가들은 완만한 순차적 개선을 기대하고 있습니다. 투자자들은 성장하는 대규모 거래 파이프라인의 진행 상황과 전략적 AI 파트너십이 수익으로 어떻게 전환되는지 면밀히 관찰할 것입니다."
     },
     {
       "id": "av_b436ecb2f8fefc",
@@ -592,10 +637,85 @@
       "url": "https://www.investing.com/news/earnings/nisource-earnings-missed-by-007-revenue-topped-estimates-4838242",
       "source": "Investing.com",
       "published_at": "2026-08-05T14:09:26+00:00",
-      "sentiment": 0.300891,
+      "sentiment": 0.317095,
       "change_pct": 3.43,
       "title_kr": "NiSource 수익이 0.07달러 누락되었으며 수익이 예상치를 상회했습니다.",
       "summary_kr": "NiSource(NYSE: NI)는 2분기 EPS를 0.16달러로 보고했는데, 이는 분석가 추정치인 0.23달러를 0.07달러만큼 하회했지만 매출 12억 8천만 달러는 컨센서스 추정치 12억 5천만 달러를 넘어섰습니다. 회사는 분석가 합의 $2.06에 비해 FY 2026 EPS 지침 $2.02-$2.07을 제공했습니다. 니사워"
+    },
+    {
+      "id": "av_c53c1fd73688a9",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Silgan Holdings’s Q2 Earnings Call: Our Top 5 Analyst Questions",
+      "summary": "Silgan Holdings (SLGN) reported Q2 2026 results with revenue of $1.64 billion and adjusted EPS of $0.98, beating analyst estimates. Despite strong performance in fine fragrance, the company faced challenges from lower operating margins and soft conditions in Brazil. Analysts ques",
+      "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-8-5-silgan-holdingss-q2-earnings-call-our-top-5-analyst-questions",
+      "source": "FinancialContent",
+      "published_at": "2026-08-05T06:15:06+00:00",
+      "sentiment": 0.545633,
+      "change_pct": 3.43,
+      "title_kr": "Silgan Holdings의 2분기 실적 발표: 분석가가 묻는 상위 5가지 질문",
+      "summary_kr": "Silgan Holdings(SLGN)는 2026년 2분기 실적을 매출 16억 4천만 달러, 조정 EPS 0.98달러로 분석가 추정치를 상회했다고 보고했습니다. 고급 향수 부문의 강력한 성과에도 불구하고 회사는 B 부문의 낮은 영업 마진과 부진한 상황으로 인해 어려움을 겪었습니다."
+    },
+    {
+      "id": "av_ae3260887609dd",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SMH ETF analysis: The single most important level to watch",
+      "summary": "The VanEck Semiconductor ETF (SMH) has seen significant gains but remains 14% below its 52-week high. This analysis delves into its internal dynamics, technical indicators, and both bullish and bearish cases for its performance in the second half of 2026. The key level to watch f",
+      "url": "https://www.investing.com/news/stock-market-news/smh-etf-analysis-the-single-most-important-level-to-watch-93CH-4837990",
+      "source": "Investing.com",
+      "published_at": "2026-08-05T14:15:12+00:00",
+      "sentiment": 0.290231,
+      "change_pct": 3.43,
+      "title_kr": "SMH ETF 분석: 주목해야 할 가장 중요한 단일 수준",
+      "summary_kr": "VanEck Semiconductor ETF(SMH)는 상당한 상승세를 보였지만 52주 최고치보다 14% 낮은 수준을 유지하고 있습니다. 이 분석에서는 2026년 하반기 실적에 대한 내부 역학, 기술 지표, 강세 및 약세 사례를 모두 조사합니다."
+    },
+    {
+      "id": "av_83cc33283eeb48",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Hesai Named to Morgan Stanley’s Humanoid 100",
+      "summary": "Hesai Technology has been recognized in Morgan Stanley's Humanoid 100 report for its contributions to humanoid robotics, specifically in robotic body segments like complete actuators, radar/lidar, and cameras/vision sensors. The company's robotic actuation modules are highlighted",
+      "url": "https://www.hesaitech.com/hesai-named-to-morgan-stanleys-humanoid-100/",
+      "source": "Hesai Technology",
+      "published_at": "2026-08-05T11:51:22+00:00",
+      "sentiment": 0.343064,
+      "change_pct": 3.43,
+      "title_kr": "Hesai, Morgan Stanley의 Humanoid 100에 선정",
+      "summary_kr": "Hesai Technology는 Morgan Stanley의 Humanoid 100 보고서에서 휴머노이드 로봇 공학, 특히 전체 액추에이터, 레이더/라이다, 카메라/비전 센서와 같은 로봇 본체 부문에 대한 기여로 인정을 받았습니다. 회사의 로봇 작동 모드"
+    },
+    {
+      "id": "av_450e68925202ef",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
+      "summary": "Hon Hai Precision Industry Co., a key partner for Nvidia, reported a significant 54.2% increase in monthly sales, reaching NT$946.5 billion ($29.3 billion) for July. This surge is attributed to the strong global demand for AI infrastructure, indicating continued growth in the sec",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/nvidia-partner-hon-hai-s-sales-rise-54-on-strong-ai-demand",
+      "source": "Bloomberg.com",
+      "published_at": "2026-08-05T07:38:01+00:00",
+      "sentiment": 0.444377,
+      "change_pct": 3.43,
+      "title_kr": "Nvidia 파트너인 Hon Hai의 매출은 강력한 AI 수요로 54% 증가",
+      "summary_kr": "Nvidia의 주요 파트너인 Hon Hai Precision Industry Co.는 7월 월 매출이 54.2% 크게 증가하여 NT$9,465억(293억 달러)을 기록했다고 보고했습니다. 이러한 급증은 AI 인프라에 대한 전 세계적 수요가 강하기 때문이며,"
+    },
+    {
+      "id": "av_b117d1f00c2d7c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI data centers and EVs are among the uses for 2200V GaN technology",
+      "summary": "Power Integrations has introduced its 2200 V PowiGaN™ gallium-nitride (GaN) technology, marking a significant advancement in high-voltage power conversion. This technology surpasses other commercially available GaN solutions and is designed for applications like AI data centers, ",
+      "url": "https://www.stocktitan.net/news/POWI/power-integrations-demonstrates-world-s-first-2200-v-ga-n-technology-i1ubni9h33mg.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-05T12:42:39+00:00",
+      "sentiment": 0.316184,
+      "change_pct": 3.43,
+      "title_kr": "AI 데이터 센터와 EV는 2200V GaN 기술의 용도 중 하나입니다.",
+      "summary_kr": "Power Integrations는 2200V PowiGaN™ 질화 갈륨(GaN) 기술을 출시하여 고전압 전력 변환 분야에서 상당한 발전을 이루었습니다. 이 기술은 시중에서 판매되는 다른 GaN 솔루션을 능가하며 애플리케이션용으로 설계되었습니다."
     },
     {
       "id": "f_e0318edd89d9c0",
@@ -624,51 +744,6 @@
       "summary_kr": "Flutter의 가장 중요한 사업인 FanDuel은 미국 시장 점유율에서 우위를 잃어가고 있습니다."
     },
     {
-      "id": "av_b117d1f00c2d7c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI data centers and EVs are among the uses for 2200V GaN technology",
-      "summary": "Power Integrations has introduced its 2200 V PowiGaN™ gallium-nitride (GaN) technology, marking a significant advancement in high-voltage power conversion. This technology surpasses other commercially available GaN solutions and is designed for applications like AI data centers, ",
-      "url": "https://www.stocktitan.net/news/POWI/power-integrations-demonstrates-world-s-first-2200-v-ga-n-technology-i1ubni9h33mg.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-05T12:42:39+00:00",
-      "sentiment": 0.303129,
-      "change_pct": 3.43,
-      "title_kr": "AI 데이터 센터와 EV는 2200V GaN 기술의 용도 중 하나입니다.",
-      "summary_kr": "Power Integrations는 2200V PowiGaN™ 질화 갈륨(GaN) 기술을 출시하여 고전압 전력 변환 분야에서 상당한 발전을 이루었습니다. 이 기술은 시중에서 판매되는 다른 GaN 솔루션을 능가하며 애플리케이션용으로 설계되었습니다."
-    },
-    {
-      "id": "av_83cc33283eeb48",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Hesai Named to Morgan Stanley’s Humanoid 100",
-      "summary": "Hesai Technology has been recognized in Morgan Stanley's Humanoid 100 report for its contributions to humanoid robotics, specifically in robotic body segments like complete actuators, radar/lidar, and cameras/vision sensors. The company's robotic actuation modules are highlighted",
-      "url": "https://www.hesaitech.com/hesai-named-to-morgan-stanleys-humanoid-100/",
-      "source": "Hesai Technology",
-      "published_at": "2026-08-05T11:51:22+00:00",
-      "sentiment": 0.314687,
-      "change_pct": 3.43,
-      "title_kr": "Hesai, Morgan Stanley의 Humanoid 100에 선정",
-      "summary_kr": "Hesai Technology는 Morgan Stanley의 Humanoid 100 보고서에서 휴머노이드 로봇 공학, 특히 전체 액추에이터, 레이더/라이다, 카메라/비전 센서와 같은 로봇 본체 부문에 대한 기여로 인정을 받았습니다. 회사의 로봇 작동 모드"
-    },
-    {
-      "id": "av_450e68925202ef",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia Partner Hon Hai’s Sales Rise 54% on Strong AI Demand",
-      "summary": "Hon Hai Precision Industry Co., a key partner for Nvidia, reported a significant 54.2% increase in monthly sales, reaching NT$946.5 billion ($29.3 billion) for July. This surge is attributed to the strong global demand for AI infrastructure, indicating continued growth in the sec",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/nvidia-partner-hon-hai-s-sales-rise-54-on-strong-ai-demand",
-      "source": "Bloomberg.com",
-      "published_at": "2026-08-05T07:38:01+00:00",
-      "sentiment": 0.410177,
-      "change_pct": 3.43,
-      "title_kr": "Nvidia 파트너인 Hon Hai의 매출은 강력한 AI 수요로 54% 증가",
-      "summary_kr": "Nvidia의 주요 파트너인 Hon Hai Precision Industry Co.는 7월 월 매출이 54.2% 크게 증가하여 NT$9,465억(293억 달러)을 기록했다고 보고했습니다. 이러한 급증은 AI 인프라에 대한 전 세계적 수요가 강하기 때문이며,"
-    },
-    {
       "id": "f_0af9962fa5f8ba",
       "provider": "finnhub",
       "ticker": null,
@@ -691,7 +766,7 @@
       "url": "https://uk.finance.yahoo.com/news/micron-mu-more-gain-nvidia-171417442.html",
       "source": "Yahoo Finance UK",
       "published_at": "2026-08-05T17:14:33+00:00",
-      "sentiment": 0.116933,
+      "sentiment": 0.138518,
       "change_pct": 3.43,
       "title_kr": "마이크론(MU)은 삼성의 2028년 경고로 인해 엔비디아(NVDA)가 잃는 것보다 더 많은 이익을 얻었습니다.",
       "summary_kr": "2028년까지 잠재적인 메모리 부족에 대한 삼성의 경고는 마이크론 테크놀로지에 있어 가격 전망을 강화하고 주가 급등으로 이어지는 상당한 긍정적인 것으로 보입니다. Nvidia에 잠재적인 공급 제약이 있지만 그 영향은 적습니다."
@@ -706,25 +781,10 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-lam-research-corporation-lrcx-shares-purchased-by-gamma-investing-llc-2026-08-05/",
       "source": "MarketBeat",
       "published_at": "2026-08-05T09:09:02+00:00",
-      "sentiment": 0.318777,
+      "sentiment": 0.328323,
       "change_pct": 3.43,
       "title_kr": "Lam Research Corporation $LRCX 주식을 GAMMA Investing LLC가 매입함",
       "summary_kr": "GAMMA Investing LLC는 2분기에 Lam Research Corporation(LRCX)의 지분을 11.4% 늘려 총 보유주수를 39,912주(1,730만 달러 상당)로 늘렸습니다. 긍정적인 분기별 결과에도 불구하고 매출은 전년 대비 30% 증가했으며 \"모드\""
-    },
-    {
-      "id": "av_30319fbf6d4613",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Exagen Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Exagen Inc. reported record quarterly revenue of $19.9 million in Q2 2026, driven by increased AVISE test volumes and improved pricing. The company raised its full-year 2026 revenue guidance to $72-$75 million and aims for sustainable adjusted EBITDA breakeven at around $80 milli",
-      "url": "https://finance.yahoo.com/healthcare/articles/exagen-inc-q2-2026-earnings-212338162.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-05T08:10:16+00:00",
-      "sentiment": 0.328127,
-      "change_pct": 3.43,
-      "title_kr": "Exagen Inc. 2026년 2분기 실적 요약",
-      "summary_kr": "Exagen Inc.의 2026년 2분기 실적 발표에 대한 Moby 요약"
     },
     {
       "id": "av_70561880a29a35",
@@ -736,7 +796,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-international-business-machines-corporation-ibm-position-increased-by-corecap-advisors-llc-2026-08-05/",
       "source": "MarketBeat",
       "published_at": "2026-08-05T08:14:27+00:00",
-      "sentiment": 0.309908,
+      "sentiment": 0.344184,
       "change_pct": 3.43,
       "title_kr": "International Business Machines Corporation $IBM 지위는 CoreCap Advisors LLC로 증가",
       "summary_kr": "CoreCap Advisors LLC는 2분기 동안 International Business Machines(NYSE:IBM)의 지분을 24.2% 늘려 총 보유액이 1079만 6천 달러에 달하는 38,392주에 이르렀습니다. Vanguard Group Inc. 및 State와 같은 기타 기관 투자자"
@@ -751,10 +811,37 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/amd-falls-investors-seek-bigger-082709887.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-05T08:27:13+00:00",
-      "sentiment": 0.303826,
+      "sentiment": 0.336778,
       "change_pct": 3.43,
       "title_kr": "투자자들이 더 큰 AI 보상을 추구함에 따라 AMD는 하락",
       "summary_kr": "AMD(Advanced Micro Devices) 주가는 매출 전망 이후 7.4% 하락했지만 예상보다 강세를 보였지만 AI 지출 붐으로 인한 성장 가속화에 대한 투자자들의 높은 기대를 충족시키지 못했습니다. 애널리스트들은 주가가 \"매우 높은 기준\"에 직면했다고 지적했다."
+    },
+    {
+      "id": "av_30319fbf6d4613",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Exagen Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Exagen Inc. reported record quarterly revenue of $19.9 million in Q2 2026, driven by increased AVISE test volumes and improved pricing. The company raised its full-year 2026 revenue guidance to $72-$75 million and aims for sustainable adjusted EBITDA breakeven at around $80 milli",
+      "url": "https://finance.yahoo.com/healthcare/articles/exagen-inc-q2-2026-earnings-212338162.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-05T08:10:16+00:00",
+      "sentiment": 0.332693,
+      "change_pct": 3.43,
+      "title_kr": "Exagen Inc. 2026년 2분기 실적 요약",
+      "summary_kr": "Exagen Inc.의 2026년 2분기 실적 발표에 대한 Moby 요약"
+    },
+    {
+      "id": "f_46255d14389d30",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy’s Preferred Stock Recovers As Company Builds Cash Reserve",
+      "summary": "Strategy’s (NASDAQ: $MSTR) high-yielding preferred stock (NASDAQ: $STRC) is recovering as the serial cryptocu...",
+      "url": "https://finnhub.io/api/news?id=582138f516ee9edb5224c4e94b181a4d7978b3cf888f91fc99f89756a915f3a2",
+      "source": "Yahoo",
+      "published_at": "2026-08-05T19:46:00+00:00",
+      "change_pct": 0.74
     },
     {
       "id": "f_ef710903eb98b0",
@@ -767,6 +854,18 @@
       "source": "Yahoo",
       "published_at": "2026-08-05T19:44:59+00:00",
       "change_pct": -1.09
+    },
+    {
+      "id": "f_4531c4ade9351c",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Michael Saylor's Strategy Approved a Multi-Billion Dollar Bitcoin Sale to Fund Stock Buybacks. Here's What It Means for MSTR Shareholders.",
+      "summary": "Strategy plans to sell more Bitcoin to cover its buybacks and preferred stock dividends.",
+      "url": "https://finnhub.io/api/news?id=c10b49e5547b9515d17c21e4c45666bb55a40918c93f31496e023eb000efe078",
+      "source": "Yahoo",
+      "published_at": "2026-08-05T19:30:00+00:00",
+      "change_pct": 0.74
     },
     {
       "id": "f_d30f434bc1b3b4",
@@ -802,6 +901,18 @@
       "source": "Yahoo",
       "published_at": "2026-08-05T19:21:56+00:00",
       "change_pct": -1.77
+    },
+    {
+      "id": "f_4c1ecb0ff62b1f",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy (MSTR) Sells More Bitcoin, Is The Stock A Bargain?",
+      "summary": "Strategy (MSTR) has moved from its long running Bitcoin accumulation playbook to active selling in 2026. The latest disclosures show over 1,600 Bitcoin sold to fund preferred dividends and buybacks. See our latest analysis for Strategy. At a share price of US$97.65, Strategy’s recent 2.9% 1 day share price return and small 7 day gain sit against a much weaker backdrop, with the 90 day share price return down 47.7% and the 1 year total shareholder return down 74%, even after a strong 3 year...",
+      "url": "https://finnhub.io/api/news?id=4c3edd7bde85e16b2a3d87785c2bc2723734a67f09cb8ea371c5bdab01d7d333",
+      "source": "Yahoo",
+      "published_at": "2026-08-05T19:17:04+00:00",
+      "change_pct": 0.74
     },
     {
       "id": "f_311ee0be7f3217",
@@ -888,19 +999,6 @@
       "change_pct": -4.03
     },
     {
-      "id": "av_bb04965038452a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arista Networks (ANET) Hits First $3 Billion Quarter As AI Demand Lifts Outlook",
-      "summary": "Arista Networks (ANET) achieved a record Q2 with its first $3 billion revenue quarter, driven by surging AI networking demand and new product offerings. The company's stock has seen significant growth over the past year, and its Q3 revenue guidance exceeds Wall Street expectation",
-      "url": "https://simplywall.st/stocks/us/tech/nyse-anet/arista-networks/news/arista-networks-anet-hits-first-3-billion-quarter-as-ai-dema",
-      "source": "Simply Wall St",
-      "published_at": "2026-08-05T08:52:07+00:00",
-      "sentiment": 0.247491,
-      "change_pct": 3.43
-    },
-    {
       "id": "f_915494672405ab",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -922,6 +1020,19 @@
       "url": "https://finnhub.io/api/news?id=c66c1caa0ab2916b1dafaf88bea7dc911e9f6f867b9fcb78eb3a3bb3d1128fe6",
       "source": "Yahoo",
       "published_at": "2026-08-05T18:33:10+00:00"
+    },
+    {
+      "id": "av_e13a4f5bb0fae5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "How Investors May Respond To NXP (NXPI) Balancing Auto Exposure, AI Ambitions, And Aggressive Buybacks",
+      "summary": "NXP Semiconductors recently reported strong Q2 2026 sales and completed a significant share buyback, while also issuing optimistic Q3 guidance. However, the company faces scrutiny over its heavy reliance on the automotive sector, particularly in China, and its relatively modest e",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nxpi/nxp-semiconductors/news/how-investors-may-respond-to-nxp-nxpi-balancing-auto-exposur",
+      "source": "Simply Wall St",
+      "published_at": "2026-08-05T08:41:08+00:00",
+      "sentiment": 0.246541,
+      "change_pct": 3.43
     },
     {
       "id": "f_d85ed2125ebbda",
@@ -1089,7 +1200,7 @@
       "url": "https://www.wsj.com/business/earnings/amd-earnings-q2-2026-stock-03fe0b09",
       "source": "WSJ",
       "published_at": "2026-08-04T22:08:43+00:00",
-      "sentiment": 0.507529,
+      "sentiment": 0.529485,
       "change_pct": 3.43
     },
     {
@@ -1272,19 +1383,6 @@
       "change_pct": -4.03
     },
     {
-      "id": "av_e13a4f5bb0fae5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "How Investors May Respond To NXP (NXPI) Balancing Auto Exposure, AI Ambitions, And Aggressive Buybacks",
-      "summary": "NXP Semiconductors recently reported strong Q2 2026 sales and completed a significant share buyback, while also issuing optimistic Q3 guidance. However, the company faces scrutiny over its heavy reliance on the automotive sector, particularly in China, and its relatively modest e",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-nxpi/nxp-semiconductors/news/how-investors-may-respond-to-nxp-nxpi-balancing-auto-exposur",
-      "source": "Simply Wall St",
-      "published_at": "2026-08-05T08:41:08+00:00",
-      "sentiment": 0.225116,
-      "change_pct": 3.43
-    },
-    {
       "id": "f_5719fb56f8e5d8",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1295,19 +1393,6 @@
       "source": "Yahoo",
       "published_at": "2026-08-05T17:40:00+00:00",
       "change_pct": -4.03
-    },
-    {
-      "id": "av_130226d1f60b56",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "ITT Earnings: What To Look For From ITT",
-      "summary": "ITT Inc. (NYSE: ITT) is set to announce its earnings results this Thursday before market hours. The market anticipates a 43% year-on-year revenue growth for ITT this quarter, building on an exceptional previous quarter where the company beat revenue and EPS expectations. Peers li",
-      "url": "https://www.financialcontent.com/article/stockstory-2026-8-5-itt-earnings-what-to-look-for-from-itt",
-      "source": "FinancialContent",
-      "published_at": "2026-08-04T23:42:00+00:00",
-      "sentiment": 0.448341,
-      "change_pct": 3.43
     },
     {
       "id": "f_bce637bbc2f82b",
@@ -1464,6 +1549,19 @@
       "change_pct": 3.43
     },
     {
+      "id": "av_bb04965038452a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arista Networks (ANET) Hits First $3 Billion Quarter As AI Demand Lifts Outlook",
+      "summary": "Arista Networks (ANET) achieved a record Q2 with its first $3 billion revenue quarter, driven by surging AI networking demand and new product offerings. The company's stock has seen significant growth over the past year, and its Q3 revenue guidance exceeds Wall Street expectation",
+      "url": "https://simplywall.st/stocks/us/tech/nyse-anet/arista-networks/news/arista-networks-anet-hits-first-3-billion-quarter-as-ai-dema",
+      "source": "Simply Wall St",
+      "published_at": "2026-08-05T08:52:07+00:00",
+      "sentiment": 0.207831,
+      "change_pct": 3.43
+    },
+    {
       "id": "f_44ba32ac84e9ba",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1572,6 +1670,18 @@
       "change_pct": -1.72
     },
     {
+      "id": "f_111ce3f33402d9",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "general",
+      "title": "Hallador Energy Company: Capacity Increases Coming",
+      "summary": "Hallador Energy (HNRG) plans 43% capacity growth and a 12-year power deal at higher rates. Read my analysis for more on the pros and cons of this stock.",
+      "url": "https://finnhub.io/api/news?id=b4465f4bc2e741c05f6cafd20feafb6eab59fa530804f59acd8e260d667cf69b",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-05T16:54:31+00:00",
+      "change_pct": -1.72
+    },
+    {
       "id": "f_04d7533550be1d",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1632,6 +1742,19 @@
       "change_pct": -4.03
     },
     {
+      "id": "av_bfc575e5cd3b9c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Transcat Q1 2027 Earnings Call Transcript",
+      "summary": "Transcat reported a strong Q1 2027, with consolidated revenue up 22% to $92.9 million, driven by double-digit growth in both its service and distribution segments. Service revenue increased 27% with 13% organic growth, marking the 69th consecutive quarter of year-over-year servic",
+      "url": "https://www.marketbeat.com/earnings/reports/2026-8-4-transcat-inc-stock/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-05T02:41:52+00:00",
+      "sentiment": 0.349766,
+      "change_pct": 3.43
+    },
+    {
       "id": "f_611505fd271f39",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1684,6 +1807,18 @@
       "change_pct": -4.03
     },
     {
+      "id": "f_2ce207f24c382f",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "The Market Is Exhausted Of AMD, But It Will Likely Keep Running",
+      "summary": "Advanced Micro Devices, Inc. stock rated Hold as Q2 growth canât offset valuation fatigue. Click for this AMD earnings update and see if it is right for you.",
+      "url": "https://finnhub.io/api/news?id=7732ba3be726b0328c246118eaa1ec857fd40337f2dcce7a7d02b377074dcd0c",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-05T16:26:29+00:00",
+      "change_pct": -7.04
+    },
+    {
       "id": "f_6ea7c24a59e01a",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1706,6 +1841,17 @@
       "source": "Yahoo",
       "published_at": "2026-08-05T16:22:27+00:00",
       "change_pct": 0.74
+    },
+    {
+      "id": "f_6f8440e43336c8",
+      "provider": "finnhub",
+      "ticker": "SOFI",
+      "category": "general",
+      "title": "SoFi Q2: The One-Stop Shop Held Through A Funding Freeze",
+      "summary": "SoFi (SOFI) stock outlook: Strong Buy with $22â$26 fair value.",
+      "url": "https://finnhub.io/api/news?id=30a134502df4e5315cab99e65d8e363616ee66a374a2d94f2b386fbe7817aa02",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-05T16:22:18+00:00"
     },
     {
       "id": "f_e5eddb9b3cdc9e",
@@ -1755,29 +1901,16 @@
       "change_pct": -3.46
     },
     {
-      "id": "av_13202cbd53a7d6",
+      "id": "av_130226d1f60b56",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "SPCX, AMD, NVDA, ALAB, AMIX: 5 Trending Stocks Today - Advanced Micro Devices (NASDAQ:AMD)",
-      "summary": "On Tuesday, major U.S. stock indexes closed higher, with the Dow Jones, S&P 500, and Nasdaq all seeing significant gains. This article highlights five trending stocks that captured investor attention: SpaceX (SPCX), Advanced Micro Devices (AMD), Nvidia (NVDA), Astera Labs (ALAB),",
-      "url": "https://www.benzinga.com/markets/equities/26/08/60936913/spacex-amd-nvidia-astera-labs-and-autonomix-medical-why-these-5-stocks-are-on-investors-radars-today",
-      "source": "Benzinga",
-      "published_at": "2026-08-05T02:11:36+00:00",
-      "sentiment": 0.346589,
-      "change_pct": 3.43
-    },
-    {
-      "id": "av_7f3365ebcbf9d4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI Is Creating a New Market for Infrastructure Data, S&P Global Wants In",
-      "summary": "S&P Global plans to acquire datacenterHawk to capitalize on the growing demand for infrastructure data driven by the AI boom. DatacenterHawk tracks data center markets, providing critical information on power availability, grid capacity, and connectivity, which are essential for ",
-      "url": "https://www.hpcwire.com/aiwire/2026/08/05/ai-is-creating-a-new-market-for-infrastructure-data-sp-global-wants-in/",
-      "source": "HPCwire",
-      "published_at": "2026-08-05T11:27:45+00:00",
-      "sentiment": 0.114834,
+      "title": "ITT Earnings: What To Look For From ITT",
+      "summary": "ITT Inc. (NYSE: ITT) is set to announce its earnings results this Thursday before market hours. The market anticipates a 43% year-on-year revenue growth for ITT this quarter, building on an exceptional previous quarter where the company beat revenue and EPS expectations. Peers li",
+      "url": "https://www.financialcontent.com/article/stockstory-2026-8-5-itt-earnings-what-to-look-for-from-itt",
+      "source": "FinancialContent",
+      "published_at": "2026-08-04T23:42:00+00:00",
+      "sentiment": 0.409605,
       "change_pct": 3.43
     },
     {
@@ -1827,6 +1960,19 @@
       "source": "Yahoo",
       "published_at": "2026-08-05T16:01:04+00:00",
       "change_pct": -7.04
+    },
+    {
+      "id": "av_7f3365ebcbf9d4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI Is Creating a New Market for Infrastructure Data, S&P Global Wants In",
+      "summary": "S&P Global plans to acquire datacenterHawk to capitalize on the growing demand for infrastructure data driven by the AI boom. DatacenterHawk tracks data center markets, providing critical information on power availability, grid capacity, and connectivity, which are essential for ",
+      "url": "https://www.hpcwire.com/aiwire/2026/08/05/ai-is-creating-a-new-market-for-infrastructure-data-sp-global-wants-in/",
+      "source": "HPCwire",
+      "published_at": "2026-08-05T11:27:45+00:00",
+      "sentiment": 0.11384,
+      "change_pct": 3.43
     },
     {
       "id": "f_ee8bbb54ecd94f",
@@ -2020,19 +2166,6 @@
       "summary_kr": "세계 최고의 암호화폐에는 여전히 밝은 미래가 있습니다."
     },
     {
-      "id": "av_bfc575e5cd3b9c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Transcat Q1 2027 Earnings Call Transcript",
-      "summary": "Transcat reported a strong Q1 2027, with consolidated revenue up 22% to $92.9 million, driven by double-digit growth in both its service and distribution segments. Service revenue increased 27% with 13% organic growth, marking the 69th consecutive quarter of year-over-year servic",
-      "url": "https://www.marketbeat.com/earnings/reports/2026-8-4-transcat-inc-stock/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-05T02:41:52+00:00",
-      "sentiment": 0.3178,
-      "change_pct": 3.43
-    },
-    {
       "id": "f_6b1ca31b0ff278",
       "provider": "finnhub",
       "ticker": "MU",
@@ -2042,19 +2175,6 @@
       "url": "https://finnhub.io/api/news?id=51e723801dc110077b6d782a90a2496da346fdef73fcbf60e01821a80f4ea653",
       "source": "Yahoo",
       "published_at": "2026-08-05T15:23:00+00:00"
-    },
-    {
-      "id": "av_d46dd81e0fc49e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "4,451 Shares in Texas Instruments Incorporated $TXN Purchased by Pacific Excel Wealth Advisors Inc.",
-      "summary": "Pacific Excel Wealth Advisors Inc. recently acquired 4,451 shares of Texas Instruments (TXN) valued at approximately $1.327 million. This purchase is part of a trend of institutional investors increasing their holdings in TXN, which now collectively own 84.99% of the company's st",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-4451-shares-in-texas-instruments-incorporated-txn-purchased-by-pacific-excel-wealth-advisors-inc-2026-08-05/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-05T10:39:40+00:00",
-      "sentiment": 0.11792,
-      "change_pct": 3.43
     },
     {
       "id": "f_0e8ba38a22de9f",
@@ -2107,6 +2227,19 @@
       "source": "Yahoo",
       "published_at": "2026-08-05T15:20:00+00:00",
       "change_pct": -4.03
+    },
+    {
+      "id": "av_13202cbd53a7d6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SPCX, AMD, NVDA, ALAB, AMIX: 5 Trending Stocks Today - Advanced Micro Devices (NASDAQ:AMD)",
+      "summary": "On Tuesday, major U.S. stock indexes closed higher, with the Dow Jones, S&P 500, and Nasdaq all seeing significant gains. This article highlights five trending stocks that captured investor attention: SpaceX (SPCX), Advanced Micro Devices (AMD), Nvidia (NVDA), Astera Labs (ALAB),",
+      "url": "https://www.benzinga.com/markets/equities/26/08/60936913/spacex-amd-nvidia-astera-labs-and-autonomix-medical-why-these-5-stocks-are-on-investors-radars-today",
+      "source": "Benzinga",
+      "published_at": "2026-08-05T02:11:36+00:00",
+      "sentiment": 0.328495,
+      "change_pct": 3.43
     },
     {
       "id": "f_688e69bf5c9c83",
@@ -2301,6 +2434,32 @@
       "change_pct": 3.43
     },
     {
+      "id": "av_3025076ac0e5a2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Earnings call transcript: ePlus tops Q1 2026 estimates as AI demand lifts shares",
+      "summary": "ePlus exceeded Q1 2027 earnings and revenue expectations, driven by strong demand in AI infrastructure and security, despite challenging year-over-year comparisons. The company reported adjusted EPS of $1.28 and revenue of $649.1 million, leading to a 5.7% stock increase after ho",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-eplus-tops-q1-2026-estimates-as-ai-demand-lifts-shares-93CH-4835999",
+      "source": "Investing.com",
+      "published_at": "2026-08-05T03:41:37+00:00",
+      "sentiment": 0.2819,
+      "change_pct": 3.43
+    },
+    {
+      "id": "av_cc98f93593046d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "IONQ, RGTI, QBTS Stocks Lag In 2026, But Retail Traders Continue To Buy The Quantum Vision",
+      "summary": "Quantum computing stocks like IonQ (IONQ), Rigetti Computing (RGTI), and D-Wave Quantum (QBTS) have seen significant declines in 2026 due to valuation concerns and slow commercial adoption. Despite this, retail traders remain bullish on the sector's long-term potential, as eviden",
+      "url": "https://stocktwits.com/news-articles/markets/equity/ionq-rgti-qbts-stocks-lag-in-2026-but-retail-traders-continue-to-buy-the-quantum-vision/cZo4LFeRJ4z",
+      "source": "Stocktwits",
+      "published_at": "2026-08-05T01:44:00+00:00",
+      "sentiment": 0.329847,
+      "change_pct": 3.43
+    },
+    {
       "id": "f_d83f85b9255e25",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2310,6 +2469,32 @@
       "url": "https://finnhub.io/api/news?id=f13f7f706d99b4bbedf91e6f38ce570be4f8ee36c79f0a4f59d711eeeee2b8bc",
       "source": "Yahoo",
       "published_at": "2026-08-05T14:53:54+00:00",
+      "change_pct": 3.43
+    },
+    {
+      "id": "av_d46dd81e0fc49e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "4,451 Shares in Texas Instruments Incorporated $TXN Purchased by Pacific Excel Wealth Advisors Inc.",
+      "summary": "Pacific Excel Wealth Advisors Inc. recently acquired 4,451 shares of Texas Instruments (TXN) valued at approximately $1.327 million. This purchase is part of a trend of institutional investors increasing their holdings in TXN, which now collectively own 84.99% of the company's st",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-4451-shares-in-texas-instruments-incorporated-txn-purchased-by-pacific-excel-wealth-advisors-inc-2026-08-05/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-05T10:39:40+00:00",
+      "sentiment": 0.10374,
+      "change_pct": 3.43
+    },
+    {
+      "id": "av_4dfa60daeba979",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Elon Musk says SpaceX will build exclusively with Nvidia, touts space-based AI servers",
+      "summary": "During its first-ever earnings call, SpaceX CEO Elon Musk announced that the company will exclusively use Nvidia's systems for its AI services, highlighting the \"Vera Rubin architecture\" as the best AI computer. SpaceX plans to launch Nvidia's Vera Rubin NVL72 rackscale system bo",
+      "url": "https://finance.yahoo.com/technology/article/elon-musk-says-spacex-will-build-exclusively-with-nvidia-touts-space-based-ai-servers-211803293.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-04T21:17:00+00:00",
+      "sentiment": 0.438065,
       "change_pct": 3.43
     },
     {
@@ -2358,174 +2543,10 @@
       "source": "Yahoo",
       "published_at": "2026-08-05T14:40:00+00:00",
       "change_pct": -1.77
-    },
-    {
-      "id": "f_b0743cae16dcce",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Booking vs. Carvana: Which Consumer Stock Is a Better Buy in 2026?",
-      "summary": "Booking boasts a 20% net margin and $9 billion in free cash flow, while Carvana scales aggressively with 48% revenue growth but thinner margins.",
-      "url": "https://finnhub.io/api/news?id=14a3704bf9aac3809bbb35f0786716146d8e8deaa644eefed71033eeee119090",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:39:24+00:00",
-      "change_pct": -4.03
-    },
-    {
-      "id": "f_95fd7dee9553c3",
-      "provider": "finnhub",
-      "ticker": "COIN",
-      "category": "general",
-      "title": "Thune Floats Last-Minute CLARITY Act Vote, but Polymarket Odds Crash to 14%",
-      "summary": "Senate Majority Leader John Thune says he still expects an initial CLARITY Act vote this week. Prediction market traders think it may be too little, too late. The Polymarket contract tracking whether the crypto bill becomes law in 2026 crashed...",
-      "url": "https://finnhub.io/api/news?id=18eae4c8016b16c1493bf02b580fef13b7f0025e64bd87b6cfa61557a6c86511",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:38:14+00:00"
-    },
-    {
-      "id": "f_1a3aa9cb45d135",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "Which S&P500 stocks are gapping on Wednesday?",
-      "summary": "Wondering which stocks are making significant price gaps? Explore the S&P500 index on Wednesday to find the gap up and gap down stocks in today's session.",
-      "url": "https://finnhub.io/api/news?id=6beb908ae12813dfd98a52eb52bb2db4a5234cb5fae50594bf2bc304a6172d38",
-      "source": "ChartMill",
-      "published_at": "2026-08-05T14:35:01+00:00",
-      "change_pct": -7.04
-    },
-    {
-      "id": "f_cfc92cc0a65c21",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Amazon CEO Andy Jassy's AI Spending Pitch Won Wall Street Over, Jim Cramer Says— While Meta and Alphabet Are Still Struggling to Explain Theirs: 'The Same Numbers...'",
-      "summary": "CNBC’s Jim Cramer said Monday that Amazon.Com Inc CEO Andy Jassy’s explanation of the company’s artificial intelligence (AI) spending during its latest earnings call changed how Wall Street views Big Tech’s multibillion-dollar AI investments. AI Spending Strategy Cramer said investors...",
-      "url": "https://finnhub.io/api/news?id=6118a340ba5ac55dac2762653e6658cf701b8d266a5bdf9ba896e39029bd516f",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:31:13+00:00",
-      "change_pct": -4.03
-    },
-    {
-      "id": "f_738902bc843c5a",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Tesla vs BYD: Only One Leader in The EV Race",
-      "summary": "Tesla just posted record deliveries while its operating income collapsed and free cash flow went negative, yet BYD keeps selling more electrified vehicles than any company on earth. Which bet actually wins the next twelve months depends on one question neither company can fully answer yet.",
-      "url": "https://finnhub.io/api/news?id=868a5481d76efada9d18244b3671045f666151ada39dd618ac7236f4738834d2",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:30:54+00:00",
-      "change_pct": -1.77
-    },
-    {
-      "id": "f_ffbb4699d495e9",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Why Bill Ackman Poured $2 Billion Into a Stock His Peers Were Fleeing",
-      "summary": "While seasoned hedge fund managers were quietly offloading their Microsoft shares, Bill Ackman made one of his biggest bets in years going the opposite direction, and he funded it by selling a stock that had nearly doubled.",
-      "url": "https://finnhub.io/api/news?id=b2811d88cc760a76d92ab70bfc423fa94d7fbdcacab42e551e31f5da1e428048",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:30:01+00:00",
-      "change_pct": -4.03
-    },
-    {
-      "id": "f_479e2d9ab1bcce",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Microsoft Azure Fiscal 2026 Sales Exceed $100B: Hold the Stock Now?",
-      "summary": "MSFT's Azure tops $100B in annual revenues as AI and cloud growth accelerate, but can strong fundamentals outweigh valuation and spending concerns?",
-      "url": "https://finnhub.io/api/news?id=3d0b49b77c67a489dc289720bbf66eda4761b236aad359d5e4b2d39a2e54f9c5",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:30:00+00:00",
-      "change_pct": -1.09
-    },
-    {
-      "id": "f_2281563925dd7b",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "The 9th Circuit’s Browser Analogy Leaves a Liability Vacuum",
-      "summary": "On August 4, 2026, the 9th U.S. Circuit Court of Appeals issued a ruling in Amazon v. Perplexity AI (No. 26-1444) that fundamentally alters the legal landscape for the agentic economy. In a decision authored by Circuit Judge Milan Smith, the court vacated a preliminary injunction that had previously blocked Perplexity’s Comet AI shopping agent […]",
-      "url": "https://finnhub.io/api/news?id=425d9c12de65daf089a85755a1d3014d7b7d488928f2f7dae94ef5961ccd690f",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:28:24+00:00",
-      "change_pct": -1.72
-    },
-    {
-      "id": "f_24c964653cd3af",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "EXCLUSIVE: The Memory Bottleneck Is Set To Persist Until 2028, Expert Says",
-      "summary": "The artificial intelligence boom has created a strange problem for the memory industry. While companies build more capacity — Samsung Electronics Co. Ltd. (OTC:SSNLF), SK Hynix Inc. (NASDAQ:SKHY) and Micron Technology Inc. (NASDAQ:MU) are all expanding production — the supply relief investors are waiting for may still be almost two years away. 2028 is the earliest point when the industry’s competing expansion plans could simultaneously translate into meaningful production, according to Counterpo",
-      "url": "https://finnhub.io/api/news?id=16b2438335af92254c759269b7ea07f677b6a870627b421bd78ae29a42a1d3fb",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:26:43+00:00"
-    },
-    {
-      "id": "f_82df7049a9bf28",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Base Power CEO on $1B funding, AI's soaring energy demand, and taking on Tesla",
-      "summary": "Base Power founder & CEO Zach Dell joins Yahoo Finance Executive Editor Brian Sozzi on Opening Bid to discuss how the AI boom is reshaping energy demand and what differentiates Base Power from competitors, including Tesla (TSLA). This following company's $1 billion Series D funding round, which values the company at $13 billion post-money.",
-      "url": "https://finnhub.io/api/news?id=d3ba2da6885d85e693c0804293c089b1316e8a1960580a545688b5a28f6b5c70",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:22:00+00:00",
-      "change_pct": -1.77
-    },
-    {
-      "id": "f_cb004b29a9bbd9",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "AMD Drops 6% Despite Record Quarter as NVIDIA Gains 4% on SpaceX Nod",
-      "summary": "AMD just posted a record quarter and the stock is tanking anyway, while NVIDIA is surging on a surprise deal that doubles as a direct shot at AMD's biggest ambitions.",
-      "url": "https://finnhub.io/api/news?id=9b1322eab4b3365e24d9f2ee1e94ce8a6a20bcc8a375f4c2ae88008e643779e3",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:20:36+00:00",
-      "change_pct": -7.04
-    },
-    {
-      "id": "f_6d2d9f2670cb10",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "general",
-      "title": "Departing Apple CEO Tim Cook Just Gave Memory Stocks Good News",
-      "summary": "Cook told investors that memory prices will continue to rise.",
-      "url": "https://finnhub.io/api/news?id=3c5a3e7d38d93c19990cc53d8095e600c452f1bbf7cdc75efcf2affd7510eaa8",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:20:00+00:00"
-    },
-    {
-      "id": "f_27c82488eb7c1e",
-      "provider": "finnhub",
-      "ticker": "RKLB",
-      "category": "general",
-      "title": "These Stocks Are Making Moves Today, Thanks to SpaceX",
-      "summary": "SpaceX has designs to leverage its dominant position in the space business into a dominant position in AI and communications.  SpaceX stock, for starters, was down about 12% at $110.  Nvidia shares were up 3.1% partly because SpaceX is using their chips for its Starmind AI computing satellites.",
-      "url": "https://finnhub.io/api/news?id=0898bbb73ae3328c16f78649919c9cd836b1aec98946dd6561e6f72ecafb1d49",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:18:46+00:00"
-    },
-    {
-      "id": "f_c3b646c48a7344",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Apple's Buyback Is Retiring Less Stock Just As The Memory Bill Grows",
-      "summary": "The payout is comfortably funded, but each dollar of buyback retires less stock as the price climbs, and the three-year scoreboard shows what the engine alone can do.",
-      "url": "https://finnhub.io/api/news?id=b907524d7e08dd61f9e465a96150b8dc03ee9bf6d7220dcc0490516feb97cc2c",
-      "source": "Yahoo",
-      "published_at": "2026-08-05T14:17:01+00:00",
-      "change_pct": -4.03
     }
   ],
-  "fetched_at": "2026-08-05T20:17:54.528977+00:00",
+  "fetched_at": "2026-08-05T21:35:38.008444+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-05T20:17:57.527778+00:00",
+  "translated_at": "2026-08-05T21:35:40.107326+00:00",
   "translation_engine": "google-parallel"
 }
