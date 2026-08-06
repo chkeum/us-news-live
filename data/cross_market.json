@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-05T23:34:09.154388+00:00",
+  "fetched_at": "2026-08-06T00:56:01.114273+00:00",
   "us_mood_score": 72,
-  "kr_mood_score": 50,
+  "kr_mood_score": 15,
   "us_mood": "bullish",
-  "kr_mood": "neutral",
+  "kr_mood": "bearish",
   "predictions": [
     {
       "us_ticker": "AMD",
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -4.08,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -8.63,
       "reason": "MI355X용 HBM 공급",
       "us_price": 482.05,
-      "kr_price": 1668000.0
+      "kr_price": 1524000.0
     },
     {
       "us_ticker": "NVDA",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 2.47,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -8.63,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 219.22,
-      "kr_price": 1668000.0
+      "kr_price": 1524000.0
     },
     {
       "us_ticker": "MRVL",
@@ -108,10 +108,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.78,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -4.88,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 219.22,
-      "kr_price": 246000.0
+      "kr_price": 234000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -120,10 +120,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -1.69,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.09,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 362.43,
-      "kr_price": 229000.0
+      "kr_price": 226500.0
     },
     {
       "us_ticker": "MRVL",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -1.56,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -8.63,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 211.02,
-      "kr_price": 1668000.0
+      "kr_price": 1524000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -144,10 +144,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -1.41,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.83,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 362.43,
-      "kr_price": 38150.0
+      "kr_price": 37450.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.2,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.15,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 321.55,
-      "kr_price": 335500.0
+      "kr_price": 335000.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -1.1,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.38,
       "reason": "NCA 양극재 공급",
       "us_price": 321.55,
-      "kr_price": 101700.0
+      "kr_price": 100300.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.52,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.09,
       "reason": "커머스·클라우드 동행",
       "us_price": 272.65,
-      "kr_price": 229000.0
+      "kr_price": 226500.0
     },
     {
       "us_ticker": "AMZN",
@@ -228,10 +228,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": -0.48,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -4.88,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 272.65,
-      "kr_price": 246000.0
+      "kr_price": 234000.0
     },
     {
       "us_ticker": "MSFT",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.38,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.09,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 487.46,
-      "kr_price": 229000.0
+      "kr_price": 226500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -6.76,
       "beta": 0.65,
       "predicted_kr_avg_pct": -1.14,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -0.76,
       "beta": 0.58,
       "predicted_kr_avg_pct": -1.03,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.46,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.64,
       "lag_hours": 8
@@ -341,10 +341,10 @@
     },
     {
       "ticker": "NVDA",
-      "title": "The Walt Disney Company Q3 2026 Earnings Call Summary",
-      "title_kr": "월트 디즈니 컴퍼니 2026년 3분기 실적 요약",
+      "title": "Disney Reaffirms Double-Digit Earnings Growth, Targets $9 Billion in Buybacks. Here’s What Investors Need to Know.",
+      "title_kr": "디즈니는 두 자릿수 수익 성장을 재확인하고 90억 달러 규모의 자사주 매입을 목표로 하고 있습니다. 투자자가 알아야 할 사항은 다음과 같습니다.",
       "source": "Yahoo",
-      "published_at": "2026-08-05T21:44:39+00:00",
+      "published_at": "2026-08-05T23:50:30+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -352,15 +352,15 @@
       ]
     },
     {
-      "ticker": "RKLB",
-      "title": "Stock Market Today, Aug. 5: SpaceX Beats Revenue but Faces Capital Spending Pressure",
-      "title_kr": "오늘, 8월 5일 주식 시장: SpaceX는 수익을 앞지르지만 자본 지출 압박에 직면해 있습니다.",
+      "ticker": "AMZN",
+      "title": "Interparfums Inc (IPAR) (Q2 2026) Earnings Call Highlights: Resilient Growth Amid Regional Headwinds",
+      "title_kr": "Interparfums Inc(IPAR)(2026년 2분기) 실적 발표 하이라이트: 지역 역풍 속에서도 탄력적인 성장",
       "source": "Yahoo",
-      "published_at": "2026-08-05T21:20:03+00:00",
+      "published_at": "2026-08-05T23:01:55+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "한화시스템",
-        "한화에어로스페이스"
+        "NAVER",
+        "삼성전자"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 64689.82,
-      "change_pct": 0.78,
+      "price": 64678.01,
+      "change_pct": 1.07,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD -7.0% → 한미반도체 개장 하방 압력 예상 (-4.8% 전후). US 무드 72/100, KR 무드 50/100."
+  "summary": "미국 AMD -7.0% → 한미반도체 개장 하방 압력 예상 (-4.8% 전후). US 무드 72/100, KR 무드 15/100."
 }
