@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "id": "f_f16c96c908cf6c",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "No Forward-Looking Guidance Needed: Fed Chair Kevin Warsh Just Outlined His Inflation Plan in 9 Words",
+      "summary": "The bond market is telling quite a tale for those willing to listen.",
+      "url": "https://finnhub.io/api/news?id=d8a6bcf3ff14c756aa420c128b1e821b5f0b29f9893e4a77f873fe10e574aa48",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T08:26:00+00:00",
+      "change_pct": -0.1,
+      "title_kr": "미래 지향적인 지침이 필요하지 않음: 연준 의장 케빈 워시(Kevin Warsh)가 인플레이션 계획을 9단어로 설명했습니다.",
+      "summary_kr": "채권 시장은 듣고자 하는 사람들에게 꽤 많은 이야기를 들려주고 있습니다."
+    },
+    {
       "id": "f_7c98a003f49474",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -681,32 +695,16 @@
       "summary_kr": "메모리 제조업체의 실망스러운 전망이 강한 4분기 실적을 무색하게 한 것으로 보인 후 샌디스크 주가는 목요일 하락했습니다."
     },
     {
-      "id": "f_64d91f390403f3",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "earnings",
-      "title": "What Microsoft Stock's Thin Earnings Premium Is Actually Buying",
-      "summary": "A modest earnings premium sits on top of one exceptional margin, and the AI build-out is now pressing on that margin.",
-      "url": "https://finnhub.io/api/news?id=051e1810bc53937f396e29f6b8f45d646c87f577e447bd9753a4c648b23042d2",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T18:36:36+00:00",
-      "change_pct": -1.29,
-      "title_kr": "Microsoft Stock의 Thin Earnings Premium이 실제로 구매하는 것",
-      "summary_kr": "어느 정도의 수익 프리미엄이 예외적인 마진 위에 자리잡고 있으며 AI 구축이 이제 그 마진을 압박하고 있습니다."
-    },
-    {
-      "id": "f_2d211eef6e8500",
+      "id": "f_112313926db6d0",
       "provider": "finnhub",
       "ticker": "AMD",
-      "category": "earnings",
-      "title": "Qualcomm's Largest Revenue Line Is Shrinking From Both Sides",
-      "summary": "The handset chip business still supplies most of Qualcomm's revenue, and it is now shrinking year over year on the Android side and stepping down on the Apple side at the same time.",
-      "url": "https://finnhub.io/api/news?id=113bc253061b300b6a146d437901d1bccf2f3d18de44dfad26a3f36a0df71d92",
+      "category": "ma",
+      "title": "AMD to acquire Taalas for specialised AI inference silicon",
+      "summary": "The deal will see AMD integrate Taalas’ technology into its accelerator roadmap and develop system-level solutions with Instinct GPUs.",
+      "url": "https://finnhub.io/api/news?id=2b7577cd8ba43d313933c34ac0948f864f1beb2a950784c811e5c450bf801dfb",
       "source": "Yahoo",
-      "published_at": "2026-08-06T18:09:35+00:00",
-      "change_pct": 1.5,
-      "title_kr": "Qualcomm의 최대 수익 라인이 양쪽에서 줄어들고 있습니다",
-      "summary_kr": "핸드셋 칩 사업은 여전히 ​​Qualcomm 수익의 대부분을 차지하고 있으며, 현재 Android 쪽에서는 해마다 줄어들고 동시에 Apple 쪽에서는 물러나고 있습니다."
+      "published_at": "2026-08-07T08:36:57+00:00",
+      "change_pct": 1.5
     },
     {
       "id": "f_71d3ceea6b32d6",
@@ -732,6 +730,19 @@
       "change_pct": -0.63
     },
     {
+      "id": "av_63a222d222cfde",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA Corporation $NVDA Shares Purchased by Tiger Global Management LLC",
+      "summary": "Tiger Global Management LLC increased its stake in NVIDIA Corporation (NASDAQ:NVDA) by 9.1% in Q1, making it their second-largest holding. Other institutional investors like State Street Corp and Geode Capital Management LLC also significantly increased their positions. NVIDIA re",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-purchased-by-tiger-global-management-llc-2026-08-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-07T08:56:37+00:00",
+      "sentiment": 0.446254,
+      "change_pct": -0.1
+    },
+    {
       "id": "f_6435fd0bfdc5e4",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -744,16 +755,42 @@
       "change_pct": -0.1
     },
     {
-      "id": "av_63a222d222cfde",
+      "id": "av_feb048930f085e",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "NVIDIA Corporation $NVDA Shares Purchased by Tiger Global Management LLC",
-      "summary": "Tiger Global Management LLC increased its stake in NVIDIA Corporation (NASDAQ:NVDA) by 9.1% in Q1, making it their second-largest holding. Other institutional investors like State Street Corp and Geode Capital Management LLC also significantly increased their positions. NVIDIA re",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-purchased-by-tiger-global-management-llc-2026-08-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-07T08:56:37+00:00",
-      "sentiment": 0.423209,
+      "title": "AMD Stock tumbles because of SpaceX",
+      "summary": "AMD reported its strongest quarter ever with record revenue and doubled data center sales, yet its stock fell by as much as 10%. This decline was largely attributed to SpaceX's announcement that it would exclusively use Nvidia chips for its AI infrastructure, including its upcomi",
+      "url": "https://www.thestreet.com/investing/stocks/amd-stock-record-earnings-spacex-nvidia-exclusive",
+      "source": "TheStreet",
+      "published_at": "2026-08-07T07:37:06+00:00",
+      "sentiment": 0.325041,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_f35f7fff5d1224",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Silvaco Group Q3 Results: Sales guidance ranges below analyst estimate",
+      "summary": "Silvaco Group (NASDAQ: SVCO) has released its sales guidance for the third quarter, projecting revenue between $15.300 million and $18.700 million. This range places the midpoint below the analyst estimate of $18.196 million, indicating that meeting market expectations will requi",
+      "url": "https://scanx.trade/stock-market-news/companies/silvaco-group-q3-results-sales-guidance-ranges-below-analyst-estimate/47608127",
+      "source": "scanx.trade",
+      "published_at": "2026-08-07T02:40:33+00:00",
+      "sentiment": 0.441893,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_de818e5fb250ae",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Clockwise U.S. Core Equity ETF (TIME) Stock Price, Holdings, Dividend Yield",
+      "summary": "This article provides a detailed overview of the Clockwise U.S. Core Equity ETF (TIME), including its stock price, holdings, dividend yield, and key financial statistics. As of its latest N-PORT filing on May 31, 2026, the ETF has 38 holdings with a total value of $14.00 million,",
+      "url": "https://www.gurufocus.com/etf/TIME/summary",
+      "source": "GuruFocus",
+      "published_at": "2026-08-07T10:12:25+00:00",
+      "sentiment": 0.249106,
       "change_pct": -0.1
     },
     {
@@ -766,7 +803,7 @@
       "url": "https://simplywall.st/stocks/us/tech/nasdaq-ffiv/f5/news/f5-ffiv-is-up-63-after-launching-nvidia-powered-ai-guardrail/amp",
       "source": "Simply Wall Street",
       "published_at": "2026-08-07T07:07:51+00:00",
-      "sentiment": 0.315097,
+      "sentiment": 0.303687,
       "change_pct": -0.1
     },
     {
@@ -779,7 +816,33 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-buys-3200-shares-of-sitime-corporation-sitm-2026-08-07/",
       "source": "MarketBeat",
       "published_at": "2026-08-07T08:44:23+00:00",
-      "sentiment": 0.234317,
+      "sentiment": 0.227827,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_97864f5496f904",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Glenmede Trust Co. NA Trims Stock Position in Gen Digital Inc. $GEN",
+      "summary": "Glenmede Trust Co. NA significantly reduced its stake in Gen Digital Inc. by 90.9% in the first quarter, selling 512,656 shares. Despite this, institutional investors still own 81.38% of the company, and several other hedge funds increased their holdings. Gen Digital recently exc",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-glenmede-trust-co-na-trims-stock-position-in-gen-digital-inc-gen-2026-08-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-07T09:09:56+00:00",
+      "sentiment": 0.143219,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_b9c2e1d3846fad",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Pacer Advisors Inc. Has $4.13 Million Stake in Quanta Services, Inc. $PWR",
+      "summary": "Pacer Advisors Inc. reduced its stake in Quanta Services (NYSE:PWR) by 36.2% in the first quarter, now holding 7,522 shares valued at $4.13 million. Despite this, Quanta Services reported strong quarterly earnings, beating analyst estimates with EPS of $4.24 and a 41.1% increase ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pacer-advisors-inc-has-413-million-stake-in-quanta-services-inc-pwr-2026-08-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-07T09:23:00+00:00",
+      "sentiment": 0.100886,
       "change_pct": -0.1
     },
     {
@@ -792,20 +855,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/3708875/serve-robotics-is-crashing-buy-the-dip/",
       "source": "The Globe and Mail",
       "published_at": "2026-08-07T01:42:17+00:00",
-      "sentiment": 0.277979,
-      "change_pct": -0.1
-    },
-    {
-      "id": "av_b893c21d67b985",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "KLA Corp declares $0.23 quarterly dividend paya...",
-      "summary": "KLA Corporation has announced a quarterly cash dividend of $0.23 per share, set to be paid on September 1, 2026. Shareholders recorded by August 17, 2026, will be eligible for this dividend. This action underscores KLA's consistent effort to deliver value to its investors.",
-      "url": "https://pluang.com/en/news-feed/kla-umumkan-dividen-tunai-reguler",
-      "source": "Pluang",
-      "published_at": "2026-08-06T21:08:20+00:00",
-      "sentiment": 0.346273,
+      "sentiment": 0.282718,
       "change_pct": -0.1
     },
     {
@@ -818,23 +868,58 @@
       "url": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-shares-up-15-on-analyst-upgrade-2026-08-06/",
       "source": "MarketBeat",
       "published_at": "2026-08-06T21:15:03+00:00",
-      "sentiment": -0.339609,
+      "sentiment": -0.338147,
       "change_pct": -0.1
     },
     {
-      "id": "av_9b0ccf4d07bfb3",
+      "id": "f_a6163912397e3d",
+      "provider": "finnhub",
+      "ticker": "MSFT",
+      "category": "general",
+      "title": "Digital Twins in Healthcare Global Market Report 2026 | Profiles Microsoft, Siemens Healthineers, Philips, AWS, and 21 Other Players",
+      "summary": "Digital Twins in Healthcare Market Digital Twins in Healthcare Market Dublin, Aug. 07, 2026 (GLOBE NEWSWIRE) -- The \"Digital Twins in Healthcare Market by Component, Application, End User, and Region - Global Forecast to 2031\" has been added to ResearchAndMarkets.com's offering. The global digital twin in healthcare market is entering a period of substantial expansion, supported by increasing adoption across clinical care, medical research, surgical planning and healthcare facility management. T",
+      "url": "https://finnhub.io/api/news?id=2eed0e22d6951bd85db5cebef1c6701a751b22f0fa594db103b10d052ba3f5e6",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T09:48:00+00:00",
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_b893c21d67b985",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Microsoft vs. Automatic Data Processing: Scale vs. Seasonality in Revenue",
-      "summary": "This article compares the revenue trajectories of Microsoft and Automatic Data Processing, highlighting Microsoft's significantly larger scale and consistent growth versus ADP's more volatile, seasonal pattern. It emphasizes that while ADP has shown mid-single-digit year-over-yea",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ADP/pressreleases/3703183/microsoft-vs-automatic-data-processing-scale-vs-seasonality-in-revenue/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-06T21:07:09+00:00",
-      "sentiment": 0.320896,
-      "change_pct": -0.1,
-      "title_kr": "Microsoft 대 자동 데이터 처리: 수익의 규모 대 계절성",
-      "summary_kr": "Microsoft의 수익은 지난 2년 동안 매 분기마다 증가한 반면 ADP는 최고점과 최저점을 오가며, 이는 완전히 다른 비즈니스 모델을 보여주는 차이입니다."
+      "title": "KLA Corp declares $0.23 quarterly dividend paya...",
+      "summary": "KLA Corporation has announced a quarterly cash dividend of $0.23 per share, set to be paid on September 1, 2026. Shareholders recorded by August 17, 2026, will be eligible for this dividend. This action underscores KLA's consistent effort to deliver value to its investors.",
+      "url": "https://pluang.com/en/news-feed/kla-umumkan-dividen-tunai-reguler",
+      "source": "Pluang",
+      "published_at": "2026-08-06T21:08:20+00:00",
+      "sentiment": 0.311905,
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_0e023d2283c184",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Warren Buffett's Successor, Greg Abel, Has 63% of Berkshire Hathaway's $355 Billion Portfolio Invested in Just 5 Standout Stocks",
+      "summary": "More than $222 billion of Berkshire's invested assets are concentrated in Abel's and Buffett's best ideas.",
+      "url": "https://finnhub.io/api/news?id=a06d3074fa0460f08448107577c397da403af8ddd610e4609182cbd8dfe9a202",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T09:26:00+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_3b838896321bcb",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Urban Edge Properties earnings beat by $0.03, revenue topped estimates",
+      "summary": "Urban Edge Properties (NYSE: UE) reported second-quarter earnings per share of $0.14, surpassing analyst estimates by $0.03. The company's revenue for the quarter reached $122.65 million, exceeding the consensus estimate of $118.34 million. Urban Edge Properties' stock has seen a",
+      "url": "https://www.investing.com/news/earnings/urban-edge-properties-earnings-beat-by-003-revenue-topped-estimates-4844936",
+      "source": "Investing.com",
+      "published_at": "2026-08-07T04:11:40+00:00",
+      "sentiment": 0.129303,
+      "change_pct": -0.1
     },
     {
       "id": "av_16756d100b2eac",
@@ -846,7 +931,119 @@
       "url": "https://stockstory.org/us/stocks/nasdaq/soun/news/earnings-call/soun-q2-deep-dive-oasys-adoption-and-liveperson-deal-set-stage-for-expansion",
       "source": "StockStory",
       "published_at": "2026-08-06T20:09:50+00:00",
-      "sentiment": 0.324738,
+      "sentiment": 0.329407,
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_ceaa3ba2fae067",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
+      "summary": "Amazon just raised its artificial intelligence (AI) budget to $220 billion, up from a prior estimate of $200 billion.",
+      "url": "https://finnhub.io/api/news?id=a25c345a2bf581d92f29fbaf7cd5d7a98754e33684e5a86739134b34e9233be1",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T09:20:00+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_3cc96a8268724e",
+      "provider": "finnhub",
+      "ticker": "COIN",
+      "category": "general",
+      "title": "Coinbase Just Built the Bridge Between Crypto and Wall Street. USDC Is the Concrete.",
+      "summary": "On August 6, 2026, Coinbase launched 24/5 US stock trading for UK users. While the headline features — zero commission and a £1 minimum for fractional shares — are familiar to retail investors, the structural innovation lies in the plumbing. For the first time, a major platform is treating USDC not merely as a payment […]",
+      "url": "https://finnhub.io/api/news?id=5e56c14d3ef54080d784c1ab6c51cd6de67902adc97043b0504e7ed0dbd2d5ed",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T09:17:47+00:00"
+    },
+    {
+      "id": "av_9b0ccf4d07bfb3",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Microsoft vs. Automatic Data Processing: Scale vs. Seasonality in Revenue",
+      "summary": "This article compares the revenue trajectories of Microsoft and Automatic Data Processing, highlighting Microsoft's significantly larger scale and consistent growth versus ADP's more volatile, seasonal pattern. It emphasizes that while ADP has shown mid-single-digit year-over-yea",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ADP/pressreleases/3703183/microsoft-vs-automatic-data-processing-scale-vs-seasonality-in-revenue/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-06T21:07:09+00:00",
+      "sentiment": 0.301163,
+      "change_pct": -0.1,
+      "title_kr": "Microsoft 대 자동 데이터 처리: 수익의 규모 대 계절성",
+      "summary_kr": "Microsoft의 수익은 지난 2년 동안 매 분기마다 증가한 반면 ADP는 최고점과 최저점을 오가며, 이는 완전히 다른 비즈니스 모델을 보여주는 차이입니다."
+    },
+    {
+      "id": "av_b17b3572d5c0f6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Silvaco Group (Nasdaq: SVCO) lifts Q2 2026 sales 48% and posts non-GAAP profit",
+      "summary": "Silvaco Group (Nasdaq: SVCO) reported a strong Q2 2026 with revenue up 48% year-over-year to $17.8 million and achieved its first non-GAAP operating profit in almost two years. The company's IP business saw significant acceleration, and strategic partnerships with NVIDIA and Dass",
+      "url": "https://www.stocktitan.net/sec-filings/SVCO/8-k-silvaco-group-inc-reports-material-event-959bfef78cac.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-06T19:40:33+00:00",
+      "sentiment": 0.335969,
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_bbf9c7887a22d1",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "What Would Have to Go Wrong for Realty Income to Cut Its Dividend?",
+      "summary": "Here's how this top REIT's 31-year streak of dividend hikes could come to a screeching halt.",
+      "url": "https://finnhub.io/api/news?id=06466d4cd5f07466994a6bd0a62dc6d1a266144dee00083110a9ba5bb679810c",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T09:04:00+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_0f1716758d3dfd",
+      "provider": "finnhub",
+      "ticker": "MSFT",
+      "category": "general",
+      "title": "Microsoft makes a controversial decision that changes its AI story",
+      "summary": "Microsoft spends billions building its own AI models every year. Internally, though, the company just told its own developers to reach for someone else's technology first. The instruction came from deep inside Microsoft's engineering organization, and it says as much about the economics of AI ...",
+      "url": "https://finnhub.io/api/news?id=c86551dad7d60c2183d9858f8626ea2e37df7846738b2c0672a016cf89b32bd0",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T09:03:00+00:00",
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_9593f0a88e499f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Williams Sonoma EVP Karalyn Yearout sells $250,000 in stock",
+      "summary": "Williams-Sonoma EVP Karalyn Yearout sold 1,000 shares of company stock worth $250,000 on August 4, 2026, as part of a pre-arranged trading plan. Following the sale, Yearout directly holds 20,717 shares. The transaction occurred while WSM shares traded near their 52-week high, wit",
+      "url": "https://www.investing.com/news/insider-trading-news/williams-sonoma-evp-karalyn-yearout-sells-250000-in-stock-93CH-4844822",
+      "source": "Investing.com",
+      "published_at": "2026-08-07T07:09:40+00:00",
+      "sentiment": 0.042332,
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_1067e941080067",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Here's the 1 Habit That Has Helped Ordinary Investors Build Extraordinary Wealth in the Stock Market",
+      "summary": "A simple adjustment can lead to fantastic returns.",
+      "url": "https://finnhub.io/api/news?id=269bb5d3830d535f1d90fe5d7131ab3419e895cb563e31c74c5194d41b4cfff3",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T08:51:00+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_5bd4795662b738",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cisco Raised Its AI Order Target to $9 Billion. Here's What Investors Need to Know.",
+      "summary": "AI infrastructure orders could more than quadruple in fiscal 2026. So why is revenue guided to grow just 11%?",
+      "url": "https://finnhub.io/api/news?id=4e9fdede15382df297c6fa5dd483ba5fd794a0b3c9a1622177bfae4b046421d4",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T08:43:00+00:00",
       "change_pct": -0.1
     },
     {
@@ -859,20 +1056,55 @@
       "url": "https://www.tradingkey.com/markets/stocks/lasr",
       "source": "TradingKey",
       "published_at": "2026-08-07T03:41:49+00:00",
-      "sentiment": 0.126141,
+      "sentiment": 0.115502,
       "change_pct": -0.1
     },
     {
-      "id": "av_9593f0a88e499f",
-      "provider": "alphavantage",
+      "id": "f_e3023c5c864449",
+      "provider": "finnhub",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Williams Sonoma EVP Karalyn Yearout sells $250,000 in stock",
-      "summary": "Williams-Sonoma EVP Karalyn Yearout sold 1,000 shares of company stock worth $250,000 on August 4, 2026, as part of a pre-arranged trading plan. Following the sale, Yearout directly holds 20,717 shares. The transaction occurred while WSM shares traded near their 52-week high, wit",
-      "url": "https://www.investing.com/news/insider-trading-news/williams-sonoma-evp-karalyn-yearout-sells-250000-in-stock-93CH-4844822",
-      "source": "Investing.com",
-      "published_at": "2026-08-07T07:09:40+00:00",
-      "sentiment": 0.025912,
+      "title": "Mark Zuckerberg's Net Worth Swung by Double-Digit Billions Twice This Summer as Meta's AI Spending Divides Wall Street. Here's What the Volatility Signals for Investors.",
+      "summary": "Zuckerberg's fortune swung by tens of billions, but the real story is what Meta's AI spending means for every investor holding the stock.",
+      "url": "https://finnhub.io/api/news?id=aa7ccd9ed66ee8cb1683c65cb39f8c011a22bf8ea3ec09ae7cf6dc3def8fde91",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T08:15:00+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_f6d8c57e6abf7a",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SNDK, WDC Rout Tests Chip Rally — Roundhill CEO Says ‘Beat And Raise Is Not Enough’ As Investors Return To NVDA",
+      "summary": "Roundhill CEO Dave Mazza called the memory pullback a leverage-driven “shakeout and repositioning,” even as DRAM attracted fresh inflows.",
+      "url": "https://finnhub.io/api/news?id=51a0db20dabaa34d946cb141ae5ff418cb25bba0c66739bfaa1a9e55fd8ab325",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T08:14:59+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "f_fe6175fed4b16a",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "Market Chatter: Meta Platforms Ordered to Pay $567 Million by New Mexico Judge",
+      "summary": "Meta Platforms (META) has been ordered by a New Mexico judge to pay $567 million into an abatement f",
+      "url": "https://finnhub.io/api/news?id=f5973fd2fe11adbf30cb339f9b7ae34f633dc910c8f2b9b3bd91f9c180e57f13",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T08:12:16+00:00",
+      "change_pct": 0.19
+    },
+    {
+      "id": "f_ebc2b929c14f0f",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Ooredoo invests $800m in Indonesian AI neocloud platform Zankore",
+      "summary": "The company will take a 49% stake in Zankore, targeting AI-driven data centre growth across Southeast Asia.",
+      "url": "https://finnhub.io/api/news?id=9e84382c4b17aa7768ac1dca7ba015f4349d53d34d37f783b160ad5b6b9af929",
+      "source": "Yahoo",
+      "published_at": "2026-08-07T08:10:07+00:00",
       "change_pct": -0.1
     },
     {
@@ -911,19 +1143,6 @@
       "published_at": "2026-08-07T07:33:42+00:00"
     },
     {
-      "id": "av_7a826ab4715101",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Adobe Debuts ChatGPT App Featuring All Its Programs",
-      "summary": "Adobe is launching a comprehensive ChatGPT plugin that integrates all 70 of its creative and productivity tools, including Photoshop, Premiere, and Acrobat. This integration allows users to access powerful features like batch photo processing and video reformatting directly throu",
-      "url": "https://www.forbes.com/sites/dbloom/2026/08/06/adobe-debuts-chatgpt-app-featuring-all-its-programs/",
-      "source": "Forbes",
-      "published_at": "2026-08-06T17:13:03+00:00",
-      "sentiment": 0.344332,
-      "change_pct": -0.1
-    },
-    {
       "id": "f_e6f71bbb5357c9",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -934,6 +1153,18 @@
       "source": "Yahoo",
       "published_at": "2026-08-07T06:03:00+00:00",
       "change_pct": -0.1
+    },
+    {
+      "id": "f_6cdc20a4ccdb01",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "general",
+      "title": "Amazon: Stronger AWS Growth Meets A Much Heavier Investment Cycle",
+      "summary": "Amazon's AWS reaccelerated to 37% revenue growth and 39.4% margin, driving 61% of Q2 operating income. Learn why AMZN stock is a buy.",
+      "url": "https://finnhub.io/api/news?id=e92b3c3049aa25a811dd47df646c220eb681f8b3be5447c48c2834f347f6386d",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-07T06:01:56+00:00",
+      "change_pct": -0.14
     },
     {
       "id": "f_45ba6c298bba64",
@@ -972,16 +1203,29 @@
       "change_pct": 0.19
     },
     {
-      "id": "av_e7d2869799c03c",
+      "id": "av_7a826ab4715101",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Bit Origin (NASDAQ: BTOG) details Malaysia NVIDIA B300 AI server plans",
-      "summary": "Bit Origin Ltd (NASDAQ: BTOG) has outlined its plans for commercializing 16 acquired NVIDIA Blackwell B300 AI servers, which are expected to be deployed in Malaysia during the third quarter of 2026. The company highlights the rapidly expanding global AI infrastructure market, wit",
-      "url": "https://www.stocktitan.net/sec-filings/BTOG/6-k-bit-origin-ltd-current-report-foreign-issuer-0f2d242879e3.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-06T20:10:13+00:00",
-      "sentiment": 0.231092,
+      "title": "Adobe Debuts ChatGPT App Featuring All Its Programs",
+      "summary": "Adobe is launching a comprehensive ChatGPT plugin that integrates all 70 of its creative and productivity tools, including Photoshop, Premiere, and Acrobat. This integration allows users to access powerful features like batch photo processing and video reformatting directly throu",
+      "url": "https://www.forbes.com/sites/dbloom/2026/08/06/adobe-debuts-chatgpt-app-featuring-all-its-programs/",
+      "source": "Forbes",
+      "published_at": "2026-08-06T17:13:03+00:00",
+      "sentiment": 0.306627,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_b8f19c8083fd01",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Gen Digital (NASDAQ:GEN) Updates FY 2027 Earnings Guidance",
+      "summary": "Gen Digital (NASDAQ:GEN) has updated its FY 2027 earnings guidance, projecting EPS between $2.87 and $2.97 and revenue between $5.4 billion and $5.5 billion, which is mostly in line with or above consensus estimates. The company also reported strong Q2 2027 results, exceeding exp",
+      "url": "https://www.marketbeat.com/instant-alerts/gen-digital-nasdaqgen-updates-fy-2027-earnings-guidance-2026-08-06/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-07T00:38:02+00:00",
+      "sentiment": 0.117252,
       "change_pct": -0.1
     },
     {
@@ -994,7 +1238,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262084848-market-movers-simo-20260806",
       "source": "TradingKey",
       "published_at": "2026-08-06T19:10:27+00:00",
-      "sentiment": 0.255925,
+      "sentiment": 0.253733,
       "change_pct": -0.1
     },
     {
@@ -1010,6 +1254,19 @@
       "change_pct": -1.29
     },
     {
+      "id": "av_2c71008dbea151",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now",
+      "summary": "The article compares two rare-earth metals companies, The Metals Company (TMC) and MP Materials (MP), recommending MP Materials as the smarter investment. While TMC has a bold plan for deep-sea mining, it is still a speculative, money-losing startup years away from realization. I",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/MP/pressreleases/3705655/forget-tmc-the-metals-company-this-rare-earth-stock-is-the-smarter-bet-right-now/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-06T21:11:26+00:00",
+      "sentiment": 0.201351,
+      "change_pct": -0.1
+    },
+    {
       "id": "f_48e2d011f72b07",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1019,19 +1276,6 @@
       "url": "https://finnhub.io/api/news?id=858e27613e37dd146ee55524d56f32bb0369f30ff9b7e0888035133686e0a2e7",
       "source": "Yahoo",
       "published_at": "2026-08-07T05:14:29+00:00",
-      "change_pct": -0.1
-    },
-    {
-      "id": "av_b8f19c8083fd01",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Gen Digital (NASDAQ:GEN) Updates FY 2027 Earnings Guidance",
-      "summary": "Gen Digital (NASDAQ:GEN) has updated its FY 2027 earnings guidance, projecting EPS between $2.87 and $2.97 and revenue between $5.4 billion and $5.5 billion, which is mostly in line with or above consensus estimates. The company also reported strong Q2 2027 results, exceeding exp",
-      "url": "https://www.marketbeat.com/instant-alerts/gen-digital-nasdaqgen-updates-fy-2027-earnings-guidance-2026-08-06/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-07T00:38:02+00:00",
-      "sentiment": 0.109391,
       "change_pct": -0.1
     },
     {
@@ -1178,16 +1422,16 @@
       "change_pct": -0.14
     },
     {
-      "id": "av_2b8af2fd35ec27",
+      "id": "av_e7d2869799c03c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "AMD acquires Taalas to hardwire AI models into silicon",
-      "summary": "AMD has announced its acquisition of Taalas Inc., a Toronto-based startup specializing in hardwiring artificial intelligence models directly into silicon. This strategic move aims to deepen AMD's presence in the AI inference market by integrating Taalas' model-specific integrated",
-      "url": "https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-08-06T23:07:02+00:00",
-      "sentiment": -0.131727,
+      "title": "Bit Origin (NASDAQ: BTOG) details Malaysia NVIDIA B300 AI server plans",
+      "summary": "Bit Origin Ltd (NASDAQ: BTOG) has outlined its plans for commercializing 16 acquired NVIDIA Blackwell B300 AI servers, which are expected to be deployed in Malaysia during the third quarter of 2026. The company highlights the rapidly expanding global AI infrastructure market, wit",
+      "url": "https://www.stocktitan.net/sec-filings/BTOG/6-k-bit-origin-ltd-current-report-foreign-issuer-0f2d242879e3.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-06T20:10:13+00:00",
+      "sentiment": 0.207179,
       "change_pct": -0.1
     },
     {
@@ -1214,19 +1458,6 @@
       "published_at": "2026-08-07T04:06:38+00:00"
     },
     {
-      "id": "av_f408799fd71f85",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "MKS Instruments, Inc. (MKSI) Q2 2026 Earnings Call Transcript",
-      "summary": "MKS Instruments (MKSI) reported strong Q2 2026 results, with revenue and profitability metrics at or above guidance, driven by robust demand across semiconductor, electronics & packaging, and specialty industrial markets. The company sees continued momentum from AI-driven investm",
-      "url": "https://news.alphastreet.com/mks-instruments-inc-mksi-q2-2026-earnings-call-transcript/",
-      "source": "AlphaStreet",
-      "published_at": "2026-08-06T14:13:48+00:00",
-      "sentiment": 0.339539,
-      "change_pct": -0.1
-    },
-    {
       "id": "f_1123545000b8ac",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1248,7 +1479,7 @@
       "url": "https://www.investing.com/news/stock-market-news/dlocal-options-signal-11-move-on-upcoming-earnings-release-93CH-4842973",
       "source": "Investing.com",
       "published_at": "2026-08-07T02:10:28+00:00",
-      "sentiment": 0.032039,
+      "sentiment": 0.032505,
       "change_pct": -0.1
     },
     {
@@ -1264,6 +1495,32 @@
       "change_pct": -0.1
     },
     {
+      "id": "av_2b8af2fd35ec27",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AMD acquires Taalas to hardwire AI models into silicon",
+      "summary": "AMD has announced its acquisition of Taalas Inc., a Toronto-based startup specializing in hardwiring artificial intelligence models directly into silicon. This strategic move aims to deepen AMD's presence in the AI inference market by integrating Taalas' model-specific integrated",
+      "url": "https://siliconangle.com/2026/08/06/amd-acquires-taalas-hardwire-ai-models-silicon/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-08-06T23:07:02+00:00",
+      "sentiment": -0.102739,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_d9d9db7e7555e7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "S&P Global Trades at 25 Times Earnings After the Post-Earnings Drop. Is the Ratings Moat Worth It?",
+      "summary": "S&P Global's stock is down 16% this year, including a 6% drop recently, despite solid Q2 earnings. Concerns about rising interest rates affecting its ratings business are a factor, as higher rates can reduce corporate borrowing and debt issuance. However, the company beat revenue",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-trades-25-times-202500761.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-06T16:25:00+00:00",
+      "sentiment": 0.267103,
+      "change_pct": -0.1
+    },
+    {
       "id": "f_d4c29262680251",
       "provider": "finnhub",
       "ticker": null,
@@ -1273,19 +1530,6 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2poa2tBUFVOZFo0R0Q4T2lKVF9aWk5CWGd1Y1A0aXlTOFE1c1JBNlF3bk9qLVlnSUFmMTZoT05MVExKZk9oQzVhUmg4SnBLZ29vLUFDMU1Qb1lOZmd5ZVZHRGVuaTJHWWJyUjFRV19pU3U4NmItdkd0d2JaNWVUSmJZcFBSVEtPVDQyd1RySlA0Q2VCT3RZSzlsSUFPY2FsLUtNMWlubFpQbkZiVmt6TjBZdmRZeXlPMFBZ?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-06T20:22:37+00:00"
-    },
-    {
-      "id": "av_5d77f1768835cc",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Microsoft earnings insights: Cloud and business apps trends from Q4 2026",
-      "summary": "Microsoft's Q4 2026 earnings surpassed analyst estimates, with strong performance in Microsoft Cloud revenue, which exceeded $214 billion. CEO Satya Nadella highlighted significant advancements in AI infrastructure and Copilot workloads, while CFO Amy Hood projected 45% revenue g",
-      "url": "https://msdynamicsworld.com/story/microsoft-earnings-insights-cloud-and-business-apps-trends-q4-2026",
-      "source": "MSDynamicsWorld.com",
-      "published_at": "2026-08-06T13:08:30+00:00",
-      "sentiment": 0.347461,
-      "change_pct": -0.1
     },
     {
       "id": "f_e252756f92ed67",
@@ -1300,16 +1544,16 @@
       "change_pct": -0.1
     },
     {
-      "id": "av_d9d9db7e7555e7",
+      "id": "av_f408799fd71f85",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "S&P Global Trades at 25 Times Earnings After the Post-Earnings Drop. Is the Ratings Moat Worth It?",
-      "summary": "S&P Global's stock is down 16% this year, including a 6% drop recently, despite solid Q2 earnings. Concerns about rising interest rates affecting its ratings business are a factor, as higher rates can reduce corporate borrowing and debt issuance. However, the company beat revenue",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-global-trades-25-times-202500761.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-06T16:25:00+00:00",
-      "sentiment": 0.264026,
+      "title": "MKS Instruments, Inc. (MKSI) Q2 2026 Earnings Call Transcript",
+      "summary": "MKS Instruments (MKSI) reported strong Q2 2026 results, with revenue and profitability metrics at or above guidance, driven by robust demand across semiconductor, electronics & packaging, and specialty industrial markets. The company sees continued momentum from AI-driven investm",
+      "url": "https://news.alphastreet.com/mks-instruments-inc-mksi-q2-2026-earnings-call-transcript/",
+      "source": "AlphaStreet",
+      "published_at": "2026-08-06T14:13:48+00:00",
+      "sentiment": 0.319213,
       "change_pct": -0.1
     },
     {
@@ -1334,7 +1578,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-off-20-over-3-124647409.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-06T14:41:44+00:00",
-      "sentiment": 0.30132,
+      "sentiment": 0.302766,
       "change_pct": -0.1
     },
     {
@@ -1347,32 +1591,6 @@
       "url": "https://finnhub.io/api/news?id=de8382a15bac1576182560127e06feb929b86854dc7b5689a926f58659a7c657",
       "source": "Yahoo",
       "published_at": "2026-08-07T02:44:30+00:00",
-      "change_pct": -0.1
-    },
-    {
-      "id": "av_9cd57475e9c57c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why is Texas Pacific Land stock sliding today?",
-      "summary": "Shares of Texas Pacific Land (TPL) fell 6.7% in mid-day trading after its Q2 2026 earnings report presented a mixed picture, with revenue and diluted EPS missing consensus estimates. Despite achieving record consolidated net income and free cash flow, lower water services revenue",
-      "url": "https://www.investing.com/news/stock-market-news/why-is-texas-pacific-land-stock-sliding-today-93CH-4843660",
-      "source": "Investing.com",
-      "published_at": "2026-08-06T18:09:16+00:00",
-      "sentiment": -0.21167,
-      "change_pct": -0.1
-    },
-    {
-      "id": "av_60a565afb942e1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia",
-      "summary": "AI data center company Firmus has successfully raised $2 billion in a funding round. The investment was supported by major players including Coatue Management, Nvidia Corp., Blackstone Inc. vehicles, and Jane Street. This capital will be utilized to advance the Project Southgate ",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
-      "source": "Bloomberg.com",
-      "published_at": "2026-08-07T01:47:35+00:00",
-      "sentiment": 0.019123,
       "change_pct": -0.1
     },
     {
@@ -1397,6 +1615,32 @@
       "url": "https://finnhub.io/api/news?id=c42e23e8ba911ca63ecce26e196aea617344787fb48f180a6d81ef8b78089c8f",
       "source": "Yahoo",
       "published_at": "2026-08-07T02:20:00+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_0c4eb3cdd14d76",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "GlobalFoundries’ Growth Makes the Case for a U.S. Photonics Buildout",
+      "summary": "GlobalFoundries' strong Q2 performance, particularly in communications infrastructure and data centers, validates its investment in silicon photonics. The company's CEO, Tim Breen, expects silicon photonics revenue to more than double in 2026, driven by rising demand for optical ",
+      "url": "https://www.eetimes.com/globalfoundries-growth-makes-the-case-for-a-u-s-photonics-buildout/",
+      "source": "EE Times",
+      "published_at": "2026-08-06T16:41:24+00:00",
+      "sentiment": 0.237171,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_60a565afb942e1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia",
+      "summary": "AI data center company Firmus has successfully raised $2 billion in a funding round. The investment was supported by major players including Coatue Management, Nvidia Corp., Blackstone Inc. vehicles, and Jane Street. This capital will be utilized to advance the Project Southgate ",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/ai-data-center-group-firmus-draws-2-billion-from-coatue-nvidia",
+      "source": "Bloomberg.com",
+      "published_at": "2026-08-07T01:47:35+00:00",
+      "sentiment": 0.004855,
       "change_pct": -0.1
     },
     {
@@ -1436,19 +1680,6 @@
       "change_pct": 0.19
     },
     {
-      "id": "av_abf87fbd2a3ff9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "RedCloud Signs Open Weights and American AI Leadership Letter Alongside Microsoft, NVIDIA and OpenAI",
-      "summary": "RedCloud Holdings plc announced its co-signature of the Open Weights Letter, an industry-wide commitment to open-weight AI models backed by major tech companies like Microsoft and NVIDIA. This move allows RedCloud to specialize advanced AI models using FMCG trading data within it",
-      "url": "https://www.globenewswire.com/news-release/2026/08/06/3340258/0/en/RedCloud-Signs-Open-Weights-and-American-AI-Leadership-Letter-Alongside-Microsoft-NVIDIA-and-OpenAI.html",
-      "source": "GlobeNewswire",
-      "published_at": "2026-08-06T12:10:58+00:00",
-      "sentiment": 0.338147,
-      "change_pct": -0.1
-    },
-    {
       "id": "f_f8cfc2df548317",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1458,6 +1689,19 @@
       "url": "https://finnhub.io/api/news?id=224b4b441977452d81d9ea158a18457406ee85a8013b9f986f8c29f4ae698a53",
       "source": "Yahoo",
       "published_at": "2026-08-07T01:38:25+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_9cd57475e9c57c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why is Texas Pacific Land stock sliding today?",
+      "summary": "Shares of Texas Pacific Land (TPL) fell 6.7% in mid-day trading after its Q2 2026 earnings report presented a mixed picture, with revenue and diluted EPS missing consensus estimates. Despite achieving record consolidated net income and free cash flow, lower water services revenue",
+      "url": "https://www.investing.com/news/stock-market-news/why-is-texas-pacific-land-stock-sliding-today-93CH-4843660",
+      "source": "Investing.com",
+      "published_at": "2026-08-06T18:09:16+00:00",
+      "sentiment": -0.186857,
       "change_pct": -0.1
     },
     {
@@ -1473,19 +1717,6 @@
       "change_pct": -0.63
     },
     {
-      "id": "av_75df7262bb2094",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $378 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
-      "summary": "Eightco Holdings (NASDAQ: ORBS) announced its total holdings are approximately $378 million as of August 5, 2026, including significant investments in OpenAI, Beast Industries, over 16,000 ETH, and nearly 302 million WLD tokens. The company emphasizes its strategic focus on artif",
-      "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-378-million-includes-openai-beast-industries-more-than-16-000-eth-and-nearly-302-million-wld-tokens-302844636.html",
-      "source": "PR Newswire",
-      "published_at": "2026-08-06T12:14:29+00:00",
-      "sentiment": 0.333689,
-      "change_pct": -0.1
-    },
-    {
       "id": "f_d25b05c71e24a6",
       "provider": "finnhub",
       "ticker": "META",
@@ -1498,45 +1729,17 @@
       "change_pct": 0.19
     },
     {
-      "id": "av_0c4eb3cdd14d76",
+      "id": "av_5d77f1768835cc",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "GlobalFoundries’ Growth Makes the Case for a U.S. Photonics Buildout",
-      "summary": "GlobalFoundries' strong Q2 performance, particularly in communications infrastructure and data centers, validates its investment in silicon photonics. The company's CEO, Tim Breen, expects silicon photonics revenue to more than double in 2026, driven by rising demand for optical ",
-      "url": "https://www.eetimes.com/globalfoundries-growth-makes-the-case-for-a-u-s-photonics-buildout/",
-      "source": "EE Times",
-      "published_at": "2026-08-06T16:41:24+00:00",
-      "sentiment": 0.220726,
+      "title": "Microsoft earnings insights: Cloud and business apps trends from Q4 2026",
+      "summary": "Microsoft's Q4 2026 earnings surpassed analyst estimates, with strong performance in Microsoft Cloud revenue, which exceeded $214 billion. CEO Satya Nadella highlighted significant advancements in AI infrastructure and Copilot workloads, while CFO Amy Hood projected 45% revenue g",
+      "url": "https://msdynamicsworld.com/story/microsoft-earnings-insights-cloud-and-business-apps-trends-q4-2026",
+      "source": "MSDynamicsWorld.com",
+      "published_at": "2026-08-06T13:08:30+00:00",
+      "sentiment": 0.30803,
       "change_pct": -0.1
-    },
-    {
-      "id": "av_e3ca8e892b1aae",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "RedCloud backs open-weight AI so customer trading data need not leave its environment",
-      "summary": "RedCloud has co-signed the Open Weights Letter, aligning with major tech companies like Microsoft and NVIDIA to support open-weight AI models. This move allows RedCloud to specialize advanced AI models on its proprietary $6.9 billion FMCG trading data within its own infrastructur",
-      "url": "https://www.stocktitan.net/news/RCT/red-cloud-signs-open-weights-and-american-ai-leadership-letter-inhwx7jaoq1h.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-06T12:11:01+00:00",
-      "sentiment": 0.333305,
-      "change_pct": -0.1
-    },
-    {
-      "id": "av_ffc00c0a5e43ba",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Biohaven Adds Technology Investor John Yetimoglu to Board as AI Strategy Advances",
-      "summary": "Biohaven Ltd. (NYSE: BHVN) has appointed technology investor John Yetimoglu to its Board of Directors to bolster its artificial intelligence and computational technologies strategy in drug discovery and development. Yetimoglu, founder of Infinitum and an early investor in Groq, b",
-      "url": "https://www.citybiz.co/article/885111/biohaven-adds-technology-investor-john-yetimoglu-to-board-as-ai-strategy-advances/",
-      "source": "citybiz",
-      "published_at": "2026-08-06T12:16:53+00:00",
-      "sentiment": 0.329809,
-      "change_pct": -0.1,
-      "title_kr": "Biohaven, AI 전략 발전에 따라 기술 투자자 John Yetimoglu를 이사회에 추가",
-      "summary_kr": "Biohaven Ltd.(NYSE: BHVN)는 신약 발견 및 개발 분야에서 인공 지능 및 컴퓨터 기술 전략을 강화하기 위해 기술 투자자인 John Yetimoglu를 이사회에 임명했습니다. Infinitum의 창립자이자 초기 기업인 예티모글루(Yetimoglu)"
     },
     {
       "id": "f_6ba272c0084b23",
@@ -1550,17 +1753,19 @@
       "published_at": "2026-08-07T01:20:00+00:00"
     },
     {
-      "id": "av_40a253bbcab34e",
+      "id": "av_ffc00c0a5e43ba",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Republic Services’s (NYSE:RSG) Q2 CY2026 Sales Top Estimates",
-      "summary": "Republic Services (NYSE:RSG) exceeded Wall Street's revenue and earnings expectations for Q2 CY2026, with sales up 4.6% year-on-year to $4.43 billion and non-GAAP profit at $1.85 per share. The company provided optimistic full-year EBITDA guidance and its stock remained flat imme",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-nyse-rsg-q2-213902982.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-06T20:39:00+00:00",
-      "sentiment": 0.113414,
-      "change_pct": -0.1
+      "title": "Biohaven Adds Technology Investor John Yetimoglu to Board as AI Strategy Advances",
+      "summary": "Biohaven Ltd. (NYSE: BHVN) has appointed technology investor John Yetimoglu to its Board of Directors to bolster its artificial intelligence and computational technologies strategy in drug discovery and development. Yetimoglu, founder of Infinitum and an early investor in Groq, b",
+      "url": "https://www.citybiz.co/article/885111/biohaven-adds-technology-investor-john-yetimoglu-to-board-as-ai-strategy-advances/",
+      "source": "citybiz",
+      "published_at": "2026-08-06T12:16:53+00:00",
+      "sentiment": 0.3198,
+      "change_pct": -0.1,
+      "title_kr": "Biohaven, AI 전략 발전에 따라 기술 투자자 John Yetimoglu를 이사회에 추가",
+      "summary_kr": "Biohaven Ltd.(NYSE: BHVN)는 신약 발견 및 개발 분야에서 인공 지능 및 컴퓨터 기술 전략을 강화하기 위해 기술 투자자인 John Yetimoglu를 이사회에 임명했습니다. Infinitum의 창립자이자 초기 기업인 예티모글루(Yetimoglu)"
     },
     {
       "id": "f_ba1a37bd361ec4",
@@ -1575,16 +1780,29 @@
       "change_pct": -1.29
     },
     {
-      "id": "av_e2f9224cbb8aa7",
+      "id": "av_e3ca8e892b1aae",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Biomarin Pharma earnings beat by $0.25, revenue topped estimates",
-      "summary": "Biomarin Pharma (NASDAQ: BMRN) reported strong second-quarter results, beating analyst estimates for both earnings per share (EPS) and revenue. The company posted an EPS of $1.20, exceeding the $0.95 consensus, and revenue of $990 million, higher than the $939.37 million estimate",
-      "url": "https://www.investing.com/news/earnings/biomarin-pharma-earnings-beat-by-025-revenue-topped-estimates-4844477",
-      "source": "Investing.com",
-      "published_at": "2026-08-06T22:40:25+00:00",
-      "sentiment": -0.050811,
+      "title": "RedCloud backs open-weight AI so customer trading data need not leave its environment",
+      "summary": "RedCloud has co-signed the Open Weights Letter, aligning with major tech companies like Microsoft and NVIDIA to support open-weight AI models. This move allows RedCloud to specialize advanced AI models on its proprietary $6.9 billion FMCG trading data within its own infrastructur",
+      "url": "https://www.stocktitan.net/news/RCT/red-cloud-signs-open-weights-and-american-ai-leadership-letter-inhwx7jaoq1h.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-06T12:11:01+00:00",
+      "sentiment": 0.322173,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_40a253bbcab34e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Republic Services’s (NYSE:RSG) Q2 CY2026 Sales Top Estimates",
+      "summary": "Republic Services (NYSE:RSG) exceeded Wall Street's revenue and earnings expectations for Q2 CY2026, with sales up 4.6% year-on-year to $4.43 billion and non-GAAP profit at $1.85 per share. The company provided optimistic full-year EBITDA guidance and its stock remained flat imme",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/republic-services-nyse-rsg-q2-213902982.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-06T20:39:00+00:00",
+      "sentiment": 0.10001,
       "change_pct": -0.1
     },
     {
@@ -1600,16 +1818,29 @@
       "change_pct": -0.1
     },
     {
-      "id": "av_802086e910732e",
+      "id": "av_158c0120154d1e",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Insider Selling: Wabtec (NYSE:WAB) CEO Sells $347,783.52 in Stock",
-      "summary": "Wabtec CEO Rafael Santana sold 1,163 shares of company stock for $347,783.52 on August 4th, reducing his holdings by 0.96%. The sale was part of a pre-arranged Rule 10b5-1 trading plan. Despite insider selling, analysts maintain a \"Moderate Buy\" rating for Wabtec, which recently ",
-      "url": "https://www.marketbeat.com/instant-alerts/insider-selling-wabtec-nysewab-ceo-sells-34778352-in-stock-2026-08-06/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-06T20:09:19+00:00",
-      "sentiment": 0.107917,
+      "title": "Tower Semiconductor Ltd Stock (TSEM) Moved Up by 8.78% on Aug 6: What Signal Does It Send?",
+      "summary": "Tower Semiconductor Ltd (TSEM) stock surged by 8.78% due to stronger-than-expected quarterly financial results, driven by demand in Silicon Photonics and power management, and the completion of destocking cycles in automotive and industrial sectors. This performance, coupled with",
+      "url": "https://www.tradingkey.com/news/market-movers/262084849-market-movers-tsem-20260806",
+      "source": "TradingKey",
+      "published_at": "2026-08-06T19:10:11+00:00",
+      "sentiment": 0.132721,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_75df7262bb2094",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $378 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
+      "summary": "Eightco Holdings (NASDAQ: ORBS) announced its total holdings are approximately $378 million as of August 5, 2026, including significant investments in OpenAI, Beast Industries, over 16,000 ETH, and nearly 302 million WLD tokens. The company emphasizes its strategic focus on artif",
+      "url": "https://www.prnewswire.com/news-releases/eightco-holdings-nasdaq-orbs-reports-total-holdings-of-approximately-378-million-includes-openai-beast-industries-more-than-16-000-eth-and-nearly-302-million-wld-tokens-302844636.html",
+      "source": "PR Newswire",
+      "published_at": "2026-08-06T12:14:29+00:00",
+      "sentiment": 0.305746,
       "change_pct": -0.1
     },
     {
@@ -1649,6 +1880,32 @@
       "change_pct": -1.29
     },
     {
+      "id": "av_802086e910732e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Insider Selling: Wabtec (NYSE:WAB) CEO Sells $347,783.52 in Stock",
+      "summary": "Wabtec CEO Rafael Santana sold 1,163 shares of company stock for $347,783.52 on August 4th, reducing his holdings by 0.96%. The sale was part of a pre-arranged Rule 10b5-1 trading plan. Despite insider selling, analysts maintain a \"Moderate Buy\" rating for Wabtec, which recently ",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-selling-wabtec-nysewab-ceo-sells-34778352-in-stock-2026-08-06/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-06T20:09:19+00:00",
+      "sentiment": 0.103895,
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_e2f9224cbb8aa7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Biomarin Pharma earnings beat by $0.25, revenue topped estimates",
+      "summary": "Biomarin Pharma (NASDAQ: BMRN) reported strong second-quarter results, beating analyst estimates for both earnings per share (EPS) and revenue. The company posted an EPS of $1.20, exceeding the $0.95 consensus, and revenue of $990 million, higher than the $939.37 million estimate",
+      "url": "https://www.investing.com/news/earnings/biomarin-pharma-earnings-beat-by-025-revenue-topped-estimates-4844477",
+      "source": "Investing.com",
+      "published_at": "2026-08-06T22:40:25+00:00",
+      "sentiment": -0.036915,
+      "change_pct": -0.1
+    },
+    {
       "id": "f_d972757945e3c6",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1659,19 +1916,6 @@
       "source": "Yahoo",
       "published_at": "2026-08-07T00:05:14+00:00",
       "change_pct": -1.29
-    },
-    {
-      "id": "av_8a915982d04b30",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Is iShares ESG Aware MSCI USA ETF (ESGU) a Strong ETF Right Now?",
-      "summary": "The article evaluates the iShares ESG Aware MSCI USA ETF (ESGU), highlighting its smart beta strategy, significant asset base of over $18.34 billion, and low expense ratio of 0.15%. It details the fund's sector allocation, top holdings like Nvidia, Apple, and Microsoft, and its p",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ishares-esg-aware-msci-usa-102002123.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-06T10:11:20+00:00",
-      "sentiment": 0.347324,
-      "change_pct": -0.1
     },
     {
       "id": "f_e23524bd0d38f9",
@@ -1686,16 +1930,16 @@
       "change_pct": -0.1
     },
     {
-      "id": "av_995826443037d1",
+      "id": "av_59b6b1ba20196c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 5.04% on Aug 6: What Signal Does It Send?",
-      "summary": "Lumentum Holdings Inc (LITE) saw a 5.04% stock increase after reporting quarterly results that surpassed expectations, driven by strong demand for high-speed optical transceivers in cloud and networking, and increased market share in hyperscale data centers. Analysts have raised ",
-      "url": "https://www.tradingkey.com/news/market-movers/262084706-market-movers-lite-20260806",
-      "source": "TradingKey",
-      "published_at": "2026-08-06T17:15:29+00:00",
-      "sentiment": 0.165813,
+      "title": "Earnings call transcript: Great Elm Capital tops NAV gains in Q2 2026",
+      "summary": "Great Elm Capital (GECC) reported that its Net Asset Value (NAV) increased in Q2 2026 due to investment gains and portfolio income, even though earnings per share and revenue missed analyst expectations. Despite the miss, shares rose in after-hours trading as investors focused on",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-great-elm-capital-tops-nav-gains-in-q2-2026-93CH-4842739",
+      "source": "Investing.com",
+      "published_at": "2026-08-06T18:40:11+00:00",
+      "sentiment": 0.130295,
       "change_pct": -0.1
     },
     {
@@ -1711,19 +1955,6 @@
       "change_pct": 0.19
     },
     {
-      "id": "av_654057a5bc38a1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Now Inc earnings beat by $0.02, revenue topped estimates",
-      "summary": "Now Inc (NYSE: DNOW) reported strong second-quarter results, beating analyst estimates for both EPS and revenue. The company announced an EPS of $0.120, exceeding the $0.100 estimate, and revenue of $1.31 billion, surpassing the $1.26 billion consensus. Despite a recent 12-month ",
-      "url": "https://www.investing.com/news/earnings/now-inc-earnings-beat-by-002-revenue-topped-estimates-4841343",
-      "source": "Investing.com",
-      "published_at": "2026-08-06T18:10:04+00:00",
-      "sentiment": -0.141776,
-      "change_pct": -0.1
-    },
-    {
       "id": "f_3b754ecfb448be",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1736,57 +1967,31 @@
       "change_pct": -0.1
     },
     {
-      "id": "av_158c0120154d1e",
+      "id": "av_c3d24818841ade",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Tower Semiconductor Ltd Stock (TSEM) Moved Up by 8.78% on Aug 6: What Signal Does It Send?",
-      "summary": "Tower Semiconductor Ltd (TSEM) stock surged by 8.78% due to stronger-than-expected quarterly financial results, driven by demand in Silicon Photonics and power management, and the completion of destocking cycles in automotive and industrial sectors. This performance, coupled with",
-      "url": "https://www.tradingkey.com/news/market-movers/262084849-market-movers-tsem-20260806",
-      "source": "TradingKey",
-      "published_at": "2026-08-06T19:10:11+00:00",
-      "sentiment": 0.114231,
-      "change_pct": -0.1
-    },
-    {
-      "id": "av_59b6b1ba20196c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Earnings call transcript: Great Elm Capital tops NAV gains in Q2 2026",
-      "summary": "Great Elm Capital (GECC) reported that its Net Asset Value (NAV) increased in Q2 2026 due to investment gains and portfolio income, even though earnings per share and revenue missed analyst expectations. Despite the miss, shares rose in after-hours trading as investors focused on",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-great-elm-capital-tops-nav-gains-in-q2-2026-93CH-4842739",
-      "source": "Investing.com",
-      "published_at": "2026-08-06T18:40:11+00:00",
-      "sentiment": 0.125592,
-      "change_pct": -0.1
-    },
-    {
-      "id": "av_bf74a63a5c6352",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "History Says Investing $400 per Month in This ETF Could Set You Up for Life. Here's How.",
-      "summary": "The article highlights the Invesco QQQ ETF (QQQ) as a strong long-term investment, having returned over 10% annually since its 1999 inception despite initial dot-com crash volatility. It explains how consistently investing $400 per month in QQQ, leveraging its historical average ",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/TSLA-Q/pressreleases/3687305/history-says-investing-400-per-month-in-this-etf-could-set-you-up-for-life-here-s-how/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-06T11:17:14+00:00",
-      "sentiment": 0.309006,
+      "title": "Americold Realty Trust, Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Americold Realty Trust reported a Q2 2026 earnings call summary highlighting strategic performance, market dynamics, and a raised full-year AFFO guidance. The company attributed occupancy gains to market share and new business, while shifting focus to underpenetrated sectors and ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/americold-realty-trust-inc-q2-171524814.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-06T17:39:34+00:00",
+      "sentiment": 0.147666,
       "change_pct": -0.1,
-      "title_kr": "역사에 따르면 이 ETF에 월 400달러를 투자하면 평생을 보낼 수 있다고 합니다. 방법은 다음과 같습니다.",
-      "summary_kr": "이 기사에서는 Invesco QQQ ETF(QQQ)가 초기 닷컴 붕괴 변동성에도 불구하고 1999년 창립 이후 매년 10% 이상의 수익률을 올린 강력한 장기 투자임을 강조합니다. QQQ에 월 400달러를 지속적으로 투자하는 방법을 설명합니다."
+      "title_kr": "Americold Realty Trust, Inc. 2026년 2분기 실적 요약",
+      "summary_kr": "Americold Realty Trust, Inc.의 2026년 2분기 실적 발표에 대한 Moby 요약"
     },
     {
-      "id": "av_ee81cb4e0e7051",
+      "id": "av_654057a5bc38a1",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Celestica Inc Stock (CLS) Moved Down by 12.58% on Aug 6: A Full Analysis",
-      "summary": "Celestica Inc. (CLS) shares dropped by 12.58% on August 6th, primarily due to recalibrated investor expectations regarding its Cloud Solutions growth and concerns about potential deceleration in enterprise data center capital expenditures. Institutional investors are also rotatin",
-      "url": "https://www.tradingkey.com/news/market-movers/262084767-market-movers-cls-20260806",
-      "source": "TradingKey",
-      "published_at": "2026-08-06T18:39:57+00:00",
-      "sentiment": 0.123663,
+      "title": "Now Inc earnings beat by $0.02, revenue topped estimates",
+      "summary": "Now Inc (NYSE: DNOW) reported strong second-quarter results, beating analyst estimates for both EPS and revenue. The company announced an EPS of $0.120, exceeding the $0.100 estimate, and revenue of $1.31 billion, surpassing the $1.26 billion consensus. Despite a recent 12-month ",
+      "url": "https://www.investing.com/news/earnings/now-inc-earnings-beat-by-002-revenue-topped-estimates-4841343",
+      "source": "Investing.com",
+      "published_at": "2026-08-06T18:10:04+00:00",
+      "sentiment": -0.133022,
       "change_pct": -0.1
     },
     {
@@ -1823,6 +2028,19 @@
       "url": "https://finnhub.io/api/news?id=ae536c97f62ba4c6946830706f4df90d764fd25dd62cc54469511d244f0869fc",
       "source": "Yahoo",
       "published_at": "2026-08-06T23:20:00+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_995826443037d1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lumentum Holdings Inc Stock (LITE) Moved Up by 5.04% on Aug 6: What Signal Does It Send?",
+      "summary": "Lumentum Holdings Inc (LITE) saw a 5.04% stock increase after reporting quarterly results that surpassed expectations, driven by strong demand for high-speed optical transceivers in cloud and networking, and increased market share in hyperscale data centers. Analysts have raised ",
+      "url": "https://www.tradingkey.com/news/market-movers/262084706-market-movers-lite-20260806",
+      "source": "TradingKey",
+      "published_at": "2026-08-06T17:15:29+00:00",
+      "sentiment": 0.151576,
       "change_pct": -0.1
     },
     {
@@ -1874,19 +2092,17 @@
       "change_pct": -0.1
     },
     {
-      "id": "av_c3d24818841ade",
+      "id": "av_ee81cb4e0e7051",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Americold Realty Trust, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Americold Realty Trust reported a Q2 2026 earnings call summary highlighting strategic performance, market dynamics, and a raised full-year AFFO guidance. The company attributed occupancy gains to market share and new business, while shifting focus to underpenetrated sectors and ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/americold-realty-trust-inc-q2-171524814.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-06T17:39:34+00:00",
-      "sentiment": 0.124635,
-      "change_pct": -0.1,
-      "title_kr": "Americold Realty Trust, Inc. 2026년 2분기 실적 요약",
-      "summary_kr": "Americold Realty Trust, Inc.의 2026년 2분기 실적 발표에 대한 Moby 요약"
+      "title": "Celestica Inc Stock (CLS) Moved Down by 12.58% on Aug 6: A Full Analysis",
+      "summary": "Celestica Inc. (CLS) shares dropped by 12.58% on August 6th, primarily due to recalibrated investor expectations regarding its Cloud Solutions growth and concerns about potential deceleration in enterprise data center capital expenditures. Institutional investors are also rotatin",
+      "url": "https://www.tradingkey.com/news/market-movers/262084767-market-movers-cls-20260806",
+      "source": "TradingKey",
+      "published_at": "2026-08-06T18:39:57+00:00",
+      "sentiment": 0.102878,
+      "change_pct": -0.1
     },
     {
       "id": "f_afdf7600abd240",
@@ -1898,19 +2114,6 @@
       "url": "https://finnhub.io/api/news?id=ed18a9d18f565d1e727e7a302d94b19093ccfbb32ce867e7f75269a9f40b52ce",
       "source": "Yahoo",
       "published_at": "2026-08-06T22:38:01+00:00"
-    },
-    {
-      "id": "av_0684cd7391fdbe",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Eightco Holdings (NASDAQ: ORBS) outlines $378M AI, WLD and cash portfolio",
-      "summary": "Eightco Holdings Inc. (NASDAQ: ORBS) has updated investors on its treasury holdings as of August 5, 2026, totaling approximately $378 million. This portfolio includes significant investments in OpenAI, Beast Industries, Worldcoin (WLD) tokens, Ethereum (ETH), and cash/stablecoins",
-      "url": "https://www.stocktitan.net/sec-filings/ORBS/8-k-eightco-holdings-inc-reports-material-event-a3c07b0c6796.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-06T12:40:30+00:00",
-      "sentiment": 0.248478,
-      "change_pct": -0.1
     },
     {
       "id": "f_d067b52b867374",
@@ -1934,6 +2137,19 @@
       "url": "https://finnhub.io/api/news?id=a12c706ab9e82fdd02b1a3aef125d8ade5d298c0dc8db7d4a2ceef3a560fa208",
       "source": "Yahoo",
       "published_at": "2026-08-06T22:30:37+00:00",
+      "change_pct": -0.1
+    },
+    {
+      "id": "av_0684cd7391fdbe",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Eightco Holdings (NASDAQ: ORBS) outlines $378M AI, WLD and cash portfolio",
+      "summary": "Eightco Holdings Inc. (NASDAQ: ORBS) has updated investors on its treasury holdings as of August 5, 2026, totaling approximately $378 million. This portfolio includes significant investments in OpenAI, Beast Industries, Worldcoin (WLD) tokens, Ethereum (ETH), and cash/stablecoins",
+      "url": "https://www.stocktitan.net/sec-filings/ORBS/8-k-eightco-holdings-inc-reports-material-event-a3c07b0c6796.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-06T12:40:30+00:00",
+      "sentiment": 0.244828,
       "change_pct": -0.1
     },
     {
@@ -1970,19 +2186,6 @@
       "source": "Yahoo",
       "published_at": "2026-08-06T22:11:56+00:00",
       "change_pct": -0.14
-    },
-    {
-      "id": "av_5b4e0449ec16c5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Qualcomm’s (QCOM) BMW Deal Adds To A Bigger Diversification Push",
-      "summary": "Qualcomm recently secured a long-term deal with BMW to supply chips for its future digital cockpits and advanced driver-assistance systems, reinforcing its strategy to diversify beyond the shrinking smartphone market. While automotive revenue shows strong growth and the company t",
-      "url": "https://ca.finance.yahoo.com/news/qualcomm-qcom-bmw-deal-adds-131949875.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-08-06T13:19:40+00:00",
-      "sentiment": 0.220648,
-      "change_pct": -0.1
     },
     {
       "id": "f_ac59c79d523c8c",
@@ -2091,6 +2294,19 @@
       "change_pct": 0.19
     },
     {
+      "id": "av_5b4e0449ec16c5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Qualcomm’s (QCOM) BMW Deal Adds To A Bigger Diversification Push",
+      "summary": "Qualcomm recently secured a long-term deal with BMW to supply chips for its future digital cockpits and advanced driver-assistance systems, reinforcing its strategy to diversify beyond the shrinking smartphone market. While automotive revenue shows strong growth and the company t",
+      "url": "https://ca.finance.yahoo.com/news/qualcomm-qcom-bmw-deal-adds-131949875.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-08-06T13:19:40+00:00",
+      "sentiment": 0.200304,
+      "change_pct": -0.1
+    },
+    {
       "id": "f_a5ba44455e060d",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2103,15 +2319,16 @@
       "change_pct": -0.1
     },
     {
-      "id": "f_481d6b55e759fa",
-      "provider": "finnhub",
+      "id": "av_970c7b45d35a2e",
+      "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Forget TMC The Metals Company: This Rare Earth Stock Is the Smarter Bet Right Now",
-      "summary": "The Metals Company has a bold business plan, but this rare-earth stock is already generating revenue and profits.",
-      "url": "https://finnhub.io/api/news?id=28a05315dab5011cbbfdbe80c914511f007cc3166269cdad13b58f92fdbbb40f",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T21:20:00+00:00",
+      "title": "Motorola Solutions Inc Stock (MSI) Moved Up by 7.94% on Aug 6: What Signal Does It Send?",
+      "summary": "Motorola Solutions Inc (MSI) stock rose 7.94% after beating quarterly revenue and EPS estimates, driven by strong demand in its Products and Systems Integration segment. Management raised full-year guidance, backed by a record-high backlog and expanding operating margins, which h",
+      "url": "https://www.tradingkey.com/news/market-movers/262084703-market-movers-msi-20260806",
+      "source": "TradingKey",
+      "published_at": "2026-08-06T17:39:14+00:00",
+      "sentiment": 0.09103,
       "change_pct": -0.1
     },
     {
@@ -2136,19 +2353,6 @@
       "url": "https://finnhub.io/api/news?id=a911f51530d78eac6ae6065e37cc7525927f3e5d9a5637c99a7d1888175ee173",
       "source": "Yahoo",
       "published_at": "2026-08-06T21:13:33+00:00"
-    },
-    {
-      "id": "av_970c7b45d35a2e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Motorola Solutions Inc Stock (MSI) Moved Up by 7.94% on Aug 6: What Signal Does It Send?",
-      "summary": "Motorola Solutions Inc (MSI) stock rose 7.94% after beating quarterly revenue and EPS estimates, driven by strong demand in its Products and Systems Integration segment. Management raised full-year guidance, backed by a record-high backlog and expanding operating margins, which h",
-      "url": "https://www.tradingkey.com/news/market-movers/262084703-market-movers-msi-20260806",
-      "source": "TradingKey",
-      "published_at": "2026-08-06T17:39:14+00:00",
-      "sentiment": 0.087938,
-      "change_pct": -0.1
     },
     {
       "id": "f_49974d90f4c8d7",
@@ -2325,210 +2529,10 @@
       "source": "Yahoo",
       "published_at": "2026-08-06T20:24:43+00:00",
       "change_pct": -1.29
-    },
-    {
-      "id": "f_0b01cf1269155f",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Exclusive: Amazon renews its downtown S.F. office lease after closing an AI lab in the city",
-      "summary": "Amazon's lease renewal wasn't certain. Earlier this year, the company confirmed that it would be exiting one of its three downtown San Francisco offices.",
-      "url": "https://finnhub.io/api/news?id=47632f5df1809783ac42f1219ae7f0fad0f480a96f4bce97eb91a787b0967181",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T20:15:12+00:00",
-      "change_pct": -0.14
-    },
-    {
-      "id": "f_07e6f1f809adfd",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "general",
-      "title": "Top Research Reports for Apple, Shell & Toyota Motor",
-      "summary": "Apple's fiscal Q3 showed broad iPhone, Mac and Services demand, but rising costs, supply constraints and policy risks cloud the near-term outlook.",
-      "url": "https://finnhub.io/api/news?id=6c58064eaebe5202bcaa12490ed62a9a8c04d19731bd9afcdb2ca62be35e78e1",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T20:14:00+00:00"
-    },
-    {
-      "id": "f_137d7a00cd0562",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "AMD Acquires Taalas to Advance Compute Solutions for Rapidly Growing AI Inference Market",
-      "summary": "News Summary: Taalas’ technology to further differentiate AMD’s AI roadmap by delivering breakthrough inference performance and efficiencyAMD plans to integrate Taalas’ technology to deliver system level solutions together with AMD Instinct™ GPUs SANTA CLARA, Calif., Aug. 06, 2026 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) today announced it has reached a definitive agreement to acquire Taalas, a pioneer in specialized AI inference silicon. As AI inference becomes one of the fastest-growing segments",
-      "url": "https://finnhub.io/api/news?id=dacb54cf68836b19bdf8c5abeb71f056b7f736a12198885813deec1516ba2cd7",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T20:05:00+00:00",
-      "change_pct": 1.5
-    },
-    {
-      "id": "f_55b7723209dbf8",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "SpaceX And Tesla Announce Terafab Location, $16.8 Billion Investment",
-      "summary": "SpaceX and Tesla said they will build their massive semiconductor plant, dubbed Terafab, in Grimes County Texas. SpaceX stock was up, Tesla dipped.",
-      "url": "https://finnhub.io/api/news?id=de8b470b8ed16dd5b6537963ce9383754921885c233fafad223e9eb00a287ff2",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T20:04:23+00:00",
-      "change_pct": -0.63
-    },
-    {
-      "id": "f_731f6bc8fce712",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Microsoft's India Cloud Bet Just Got Much Bigger",
-      "summary": "Microsoft opened its largest Indian data-center region in Hyderabad.",
-      "url": "https://finnhub.io/api/news?id=cfad53341cfa69295c2445c81025f74a2f171ead0fd4bbc89dc12adbf140bb6f",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T20:03:50+00:00",
-      "change_pct": 2.54
-    },
-    {
-      "id": "f_5f1db7f02cf6f5",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
-      "summary": "Humanoid robot developer Unitree announced it will price its upcoming IPO at $22.34 a share, giving it a valuation of $9 billion.  The deal will make Unitree China's first public humanoid robot company.  Unitree's IPO comes at a time when investors are becoming increasingly focused on the prospect of AI-enabled robotics.",
-      "url": "https://finnhub.io/api/news?id=2e2f7abddf81bfb04d8f25b4200932da6f82677f4670c3871d5826144ab946bd",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T20:00:46+00:00",
-      "change_pct": -0.63
-    },
-    {
-      "id": "f_5b8956c8237164",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "summary": "Tech stocks were mixed late Thursday afternoon with the State Street Technology Select Sector SPDR E",
-      "url": "https://finnhub.io/api/news?id=4ba83db200f28de293f86740f45bcc8db4849764f38f75274098a3f466675224",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:59:25+00:00",
-      "change_pct": 2.54
-    },
-    {
-      "id": "f_058c46637e40c0",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Tesla: Premium Valuation, Compelling Long-Term Upside",
-      "summary": "Tesla Q2 earnings: revenue up 26% YoY but margins fell.",
-      "url": "https://finnhub.io/api/news?id=3261e09f722859ba49ce354bb001b25f55b95ef49e812b872064e986e22ffbbd",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-06T19:57:40+00:00",
-      "change_pct": -0.63
-    },
-    {
-      "id": "f_226f9b3c833e8a",
-      "provider": "finnhub",
-      "ticker": "RKLB",
-      "category": "general",
-      "title": "Rocket Lab Just Won Another Massive Government Contract",
-      "summary": "Rocket Lab just landed a huge contract. Here's what it means for the company.",
-      "url": "https://finnhub.io/api/news?id=92f5f3a12eb350a3c01bf42b078a48ea016a402d62f3879578ab2755a68b8443",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:53:01+00:00"
-    },
-    {
-      "id": "f_e03eacb366a467",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "SK hynix Vs. Micron: The Memory Trade Rotates Into The Valuation Gap",
-      "summary": "SK hynix trades near half of Micron's forward multiple despite HBM leadership. Click to read why you might want to buy SK hynix and sell Micron.",
-      "url": "https://finnhub.io/api/news?id=bf4aa082aa78d5a1347bf71aaed7739d0909b3233c5254cd45d088491f95cdf9",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-06T19:40:43+00:00"
-    },
-    {
-      "id": "f_d48ec1f458d702",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Microsoft is starting to show its payoff on major AI plays",
-      "summary": "Investors may have renewed confidence in Microsoft's (MSFT) AI strategy on the tech giant's reported growth in its Azure Cloud and Copilot businesses. Yahoo Finance Tech Editor Dan Howley dives into the details.",
-      "url": "https://finnhub.io/api/news?id=bc6a2e0d97633493aadf2f6bf9ac9b9d6a67ef55a61aa4f595063544326de6db",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:37:32+00:00",
-      "change_pct": -1.29
-    },
-    {
-      "id": "f_51ee4b11af903b",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Alphabet's AI Push Takes Expensive New Turn",
-      "summary": "One enormous investment cycle now faces its earnings test",
-      "url": "https://finnhub.io/api/news?id=0ccb5b6df433c157e3a75b111b4ec1bab175e86e979fedda4ae9b8e0e1b1290a",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:33:20+00:00",
-      "change_pct": -1.29
-    },
-    {
-      "id": "f_c50bd5988030b4",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "TSLA-SPCX’s $16.8B Terafab Nears Construction As Elon Musk Details Compute Split — ‘25% For Tesla Optimus And ~75% For AI Spacecraft’",
-      "summary": "Tesla and SpaceX said Terafab will be built in Grimes County, Texas, about an hour northwest of Houston.",
-      "url": "https://finnhub.io/api/news?id=d7247b127fb7a9f4a0c5aaa85833049b8724f958809769e0f17253a6dde65803",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:31:21+00:00",
-      "change_pct": -0.63
-    },
-    {
-      "id": "f_9200d6a46ea1c1",
-      "provider": "finnhub",
-      "ticker": "PLTR",
-      "category": "general",
-      "title": "Peter Thiel Still Owns Roughly 3% of Palantir, a Stake Worth More Than $10 Billion. Here's Why His Continued Conviction Matters for Shareholders.",
-      "summary": "The top Silicon Valley investor is sticking with the high-growth data mining company.",
-      "url": "https://finnhub.io/api/news?id=5a292e32d262018945ef912ed59dcb423cdeeaea37fbfc613fe18b696b944c5c",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:25:00+00:00"
-    },
-    {
-      "id": "f_e6ff5a4a5c9fde",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Alphabet's $25B debt sale underscores hyperscalers' AI arms race",
-      "summary": "Yahoo Finance Markets and Data Editor Jared Blikre joins Market Domination to discuss Alphabet (GOOGL, GOOG) following the tech giant's $25 billion debt raise, the latest move in the hyperscalers' AI infrastructure spending race.",
-      "url": "https://finnhub.io/api/news?id=57603d1a020e2b3568d6c0b3107417d3444e02235d9135af613c004098080a3d",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:18:00+00:00",
-      "change_pct": -1.29
-    },
-    {
-      "id": "f_79d22865771fa3",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Investment Banks Rerate AI Stocks, Google’s $25B Bond, SpaceX’s Terafab Mega Factory",
-      "summary": "Google wants to raise $20-25 billion with its latest bond sale, and SpaceX is planning a 100 million sq/foot factory for robotics and chip fabrication in Texas.",
-      "url": "https://finnhub.io/api/news?id=0d6a0ad35ce8fd9306218bb0bdb42fa25d265d3675f473ca3e72ba0b26ab92b9",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:15:02+00:00",
-      "change_pct": -1.29
-    },
-    {
-      "id": "f_cb8615d241ebcf",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "The Fed’s Next Rate Move Might Actually Be a Cut. How the Market Would React.",
-      "summary": "The central bank has let the bond market do its heavy lifting when it comes to rates. But a cut is on the horizon if a weak jobs and inflation stir up Wall Street.",
-      "url": "https://finnhub.io/api/news?id=1ce8a62aa27bcdfbd19b52897e3533d61c1ea6495f24ac57fd10c00027a7df4a",
-      "source": "Yahoo",
-      "published_at": "2026-08-06T19:15:00+00:00",
-      "change_pct": -1.29
     }
   ],
-  "fetched_at": "2026-08-07T09:40:42.876910+00:00",
+  "fetched_at": "2026-08-07T10:32:24.292302+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-07T09:40:43.080744+00:00",
+  "translated_at": "2026-08-07T10:32:25.633905+00:00",
   "translation_engine": "google-parallel"
 }
