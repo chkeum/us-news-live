@@ -1084,6 +1084,19 @@
       "summary_kr": "Argus는 Loews Corporation(L)의 목표 가격을 $128.00로 낮췄으며, 현재 주식은 $115.53에 거래되고 있습니다. Loews Corp는 상업용 재산 및 상해 보험, 천연가스 운송 및 기타 사업을 포함한 다양한 사업을 운영하는 지주 회사입니다."
     },
     {
+      "id": "av_f8eed53b14091f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia",
+      "summary": "AI data center company Firmus has successfully raised $2 billion in a funding round. The investment was backed by Coatue Management, Nvidia Corp., Blackstone Inc. vehicles, and Jane Street. This capital injection will support the expansion of Firmus's Project Southgate AI Factory",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-group-firmus-014820558.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T06:21:45+00:00",
+      "sentiment": 0.416065,
+      "change_pct": 2.27
+    },
+    {
       "id": "f_d34848d165d280",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -1134,19 +1147,6 @@
       "url": "https://finnhub.io/api/news?id=6b9ea377c50a8ca7f3317dd943b8d09dc48313b2f68ae0b9aec30c4eb475bacc",
       "source": "Yahoo",
       "published_at": "2026-08-08T01:05:41+00:00"
-    },
-    {
-      "id": "av_f8eed53b14091f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI Data Center Group Firmus Draws $2 Billion From Coatue, Nvidia",
-      "summary": "AI data center company Firmus has successfully raised $2 billion in a funding round. The investment was backed by Coatue Management, Nvidia Corp., Blackstone Inc. vehicles, and Jane Street. This capital injection will support the expansion of Firmus's Project Southgate AI Factory",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-data-center-group-firmus-014820558.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T06:21:45+00:00",
-      "sentiment": 0.416065,
-      "change_pct": 2.27
     },
     {
       "id": "f_100d8df9cb761f",
@@ -1562,6 +1562,36 @@
       "change_pct": 1.71
     },
     {
+      "id": "av_feb048930f085e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AMD Stock tumbles because of SpaceX",
+      "summary": "AMD reported its strongest quarter ever with record revenue and doubled data center sales, yet its stock fell by as much as 10%. This decline was largely attributed to SpaceX's announcement that it would exclusively use Nvidia chips for its AI infrastructure, including its upcomi",
+      "url": "https://www.thestreet.com/investing/stocks/amd-stock-record-earnings-spacex-nvidia-exclusive",
+      "source": "TheStreet",
+      "published_at": "2026-08-07T07:37:06+00:00",
+      "sentiment": 0.322983,
+      "change_pct": 2.27,
+      "title_kr": "SpaceX 때문에 AMD 주식이 폭락했습니다.",
+      "summary_kr": "AMD는 기록적인 매출과 두 배의 데이터 센터 판매로 사상 최대 분기를 기록했지만 주가는 10%나 하락했습니다. 이러한 감소는 AI 인프라에 Nvidia 칩을 독점적으로 사용할 것이라는 SpaceX의 발표에 크게 기인합니다."
+    },
+    {
+      "id": "av_4427638a617287",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "F5 (FFIV) Is Up 6.3% After Launching NVIDIA-Powered AI Guardrails Suite For Enterprise Security",
+      "summary": "F5 (FFIV) recently launched F5 AI Guardrails, an NVIDIA-powered AI-native security layer, contributing to a 6.3% rise in its stock. This launch, coupled with strong third-quarter results and an increased full-year 2026 revenue outlook, emphasizes the company's focus on AI securit",
+      "url": "https://simplywall.st/stocks/us/tech/nasdaq-ffiv/f5/news/f5-ffiv-is-up-63-after-launching-nvidia-powered-ai-guardrail/amp",
+      "source": "Simply Wall Street",
+      "published_at": "2026-08-07T07:07:51+00:00",
+      "sentiment": 0.320308,
+      "change_pct": 2.27,
+      "title_kr": "F5(FFIV)는 기업 보안을 위한 NVIDIA 기반 AI Guardrails 제품군 출시 후 6.3% 상승했습니다.",
+      "summary_kr": "F5(FFIV)는 최근 NVIDIA 기반 AI 기반 보안 레이어인 F5 AI Guardrails를 출시하여 주가가 6.3% 상승했습니다. 이번 출시는 강력한 3분기 실적과 증가된 2026년 연간 수익 전망과 결합되어 회사의 목표를 강조합니다."
+    },
+    {
       "id": "f_37a7f310f36327",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1670,21 +1700,6 @@
       "summary_kr": "지난 달 비농업 부문 고용은 23,000명 감소했는데, 이는 이전 두 달에 대한 상당한 하향 조정 이후, 노동통계국(Bureau of Labor Statistics) 데이터가 금요일에 나타났습니다."
     },
     {
-      "id": "av_feb048930f085e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AMD Stock tumbles because of SpaceX",
-      "summary": "AMD reported its strongest quarter ever with record revenue and doubled data center sales, yet its stock fell by as much as 10%. This decline was largely attributed to SpaceX's announcement that it would exclusively use Nvidia chips for its AI infrastructure, including its upcomi",
-      "url": "https://www.thestreet.com/investing/stocks/amd-stock-record-earnings-spacex-nvidia-exclusive",
-      "source": "TheStreet",
-      "published_at": "2026-08-07T07:37:06+00:00",
-      "sentiment": 0.322983,
-      "change_pct": 2.27,
-      "title_kr": "SpaceX 때문에 AMD 주식이 폭락했습니다.",
-      "summary_kr": "AMD는 기록적인 매출과 두 배의 데이터 센터 판매로 사상 최대 분기를 기록했지만 주가는 10%나 하락했습니다. 이러한 감소는 AI 인프라에 Nvidia 칩을 독점적으로 사용할 것이라는 SpaceX의 발표에 크게 기인합니다."
-    },
-    {
       "id": "f_ee0463bdc03cd0",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1697,21 +1712,6 @@
       "change_pct": 2.27,
       "title_kr": "로켓 연구소 주가가 급등한 이유",
       "summary_kr": "Rocket Lab은 또 다른 성공적인 발사를 기록했지만 금요일 주가 급등의 실제 원동력은 3억 9700만 달러 규모의 우주군 계약이었습니다."
-    },
-    {
-      "id": "av_4427638a617287",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "F5 (FFIV) Is Up 6.3% After Launching NVIDIA-Powered AI Guardrails Suite For Enterprise Security",
-      "summary": "F5 (FFIV) recently launched F5 AI Guardrails, an NVIDIA-powered AI-native security layer, contributing to a 6.3% rise in its stock. This launch, coupled with strong third-quarter results and an increased full-year 2026 revenue outlook, emphasizes the company's focus on AI securit",
-      "url": "https://simplywall.st/stocks/us/tech/nasdaq-ffiv/f5/news/f5-ffiv-is-up-63-after-launching-nvidia-powered-ai-guardrail/amp",
-      "source": "Simply Wall Street",
-      "published_at": "2026-08-07T07:07:51+00:00",
-      "sentiment": 0.320308,
-      "change_pct": 2.27,
-      "title_kr": "F5(FFIV)는 기업 보안을 위한 NVIDIA 기반 AI Guardrails 제품군 출시 후 6.3% 상승했습니다.",
-      "summary_kr": "F5(FFIV)는 최근 NVIDIA 기반 AI 기반 보안 레이어인 F5 AI Guardrails를 출시하여 주가가 6.3% 상승했습니다. 이번 출시는 강력한 3분기 실적과 증가된 2026년 연간 수익 전망과 결합되어 회사의 목표를 강조합니다."
     },
     {
       "id": "f_6fb77354766ba6",
@@ -1824,6 +1824,21 @@
       "summary_kr": "Standard & Poor's 500 지수는 기술주들의 급등과 낙관론 이후 이번 주에 3.6% 상승했습니다."
     },
     {
+      "id": "av_eed6156432e833",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Marathon Digital Holdings, Inc. Q2 2026 Earnings Call Summary",
+      "summary": "Marathon Digital Holdings (MARA) is strategically shifting from Bitcoin mining to an integrated digital infrastructure platform, focusing on power-centric assets for AI and hyperscaler demand. The company plans to double its power capacity to 4.8 GW through acquisitions like Long",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-digital-holdings-inc-q2-051404682.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-07T05:14:00+00:00",
+      "sentiment": 0.300963,
+      "change_pct": 2.27,
+      "title_kr": "Marathon Digital Holdings, Inc. 2026년 2분기 실적 요약",
+      "summary_kr": "Marathon Digital Holdings(MARA)는 AI 및 하이퍼스케일러 수요를 위한 전력 중심 자산에 중점을 두고 비트코인 ​​채굴에서 통합 디지털 인프라 플랫폼으로 전략적으로 전환하고 있습니다. 회사는 AC를 통해 전력 용량을 4.8GW로 두 배 늘릴 계획입니다."
+    },
+    {
       "id": "f_620a08c4f2b51f",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1876,21 +1891,6 @@
       "change_pct": 2.83,
       "title_kr": "테슬라가 미국 로보택시 시장을 독점할 수 있는 2가지 이유",
       "summary_kr": "Tesla는 로봇택시 시장에서 경쟁할 때 몇 가지 주요 이점을 가지고 있습니다."
-    },
-    {
-      "id": "av_eed6156432e833",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Marathon Digital Holdings, Inc. Q2 2026 Earnings Call Summary",
-      "summary": "Marathon Digital Holdings (MARA) is strategically shifting from Bitcoin mining to an integrated digital infrastructure platform, focusing on power-centric assets for AI and hyperscaler demand. The company plans to double its power capacity to 4.8 GW through acquisitions like Long",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marathon-digital-holdings-inc-q2-051404682.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-07T05:14:00+00:00",
-      "sentiment": 0.300963,
-      "change_pct": 2.27,
-      "title_kr": "Marathon Digital Holdings, Inc. 2026년 2분기 실적 요약",
-      "summary_kr": "Marathon Digital Holdings(MARA)는 AI 및 하이퍼스케일러 수요를 위한 전력 중심 자산에 중점을 두고 비트코인 ​​채굴에서 통합 디지털 인프라 플랫폼으로 전략적으로 전환하고 있습니다. 회사는 AC를 통해 전력 용량을 4.8GW로 두 배 늘릴 계획입니다."
     },
     {
       "id": "f_ec231a2fde34c5",
@@ -2533,6 +2533,21 @@
       "change_pct": 2.27
     },
     {
+      "id": "av_92f27566bde470",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Renaissance Technologies LLC Buys 3,200 Shares of SiTime Corporation $SITM",
+      "summary": "Renaissance Technologies LLC increased its stake in SiTime Corporation (NASDAQ:SITM) by 33.2% in the first quarter, purchasing an additional 3,200 shares to bring its total holdings to 12,840 shares valued at approximately $4.43 million. This comes as SiTime reported strong quart",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-buys-3200-shares-of-sitime-corporation-sitm-2026-08-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-07T08:44:23+00:00",
+      "sentiment": 0.231958,
+      "change_pct": 2.27,
+      "title_kr": "Renaissance Technologies LLC는 SiTime Corporation $SITM의 주식 3,200주를 매입합니다.",
+      "summary_kr": "Renaissance Technologies LLC는 1분기에 SiTime Corporation(NASDAQ:SITM)의 지분을 33.2% 늘려 3,200주를 추가로 매입하여 총 보유 주식 수를 약 443만 달러에 달하는 12,840주로 늘렸습니다. 이것은 SiTime r로 제공됩니다."
+    },
+    {
       "id": "f_e3992298d47cce",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2556,21 +2571,6 @@
       "url": "https://finnhub.io/api/news?id=cde8badb490d78c7f30e0f7a33ef272ec11bd87cc0d36b985f07390172e74850",
       "source": "Yahoo",
       "published_at": "2026-08-07T18:03:00+00:00"
-    },
-    {
-      "id": "av_92f27566bde470",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Renaissance Technologies LLC Buys 3,200 Shares of SiTime Corporation $SITM",
-      "summary": "Renaissance Technologies LLC increased its stake in SiTime Corporation (NASDAQ:SITM) by 33.2% in the first quarter, purchasing an additional 3,200 shares to bring its total holdings to 12,840 shares valued at approximately $4.43 million. This comes as SiTime reported strong quart",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-renaissance-technologies-llc-buys-3200-shares-of-sitime-corporation-sitm-2026-08-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-07T08:44:23+00:00",
-      "sentiment": 0.231958,
-      "change_pct": 2.27,
-      "title_kr": "Renaissance Technologies LLC는 SiTime Corporation $SITM의 주식 3,200주를 매입합니다.",
-      "summary_kr": "Renaissance Technologies LLC는 1분기에 SiTime Corporation(NASDAQ:SITM)의 지분을 33.2% 늘려 3,200주를 추가로 매입하여 총 보유 주식 수를 약 443만 달러에 달하는 12,840주로 늘렸습니다. 이것은 SiTime r로 제공됩니다."
     },
     {
       "id": "f_d6070ee31aa35f",
@@ -2634,8 +2634,8 @@
       "change_pct": 0.37
     }
   ],
-  "fetched_at": "2026-08-08T11:01:29.563620+00:00",
+  "fetched_at": "2026-08-08T11:29:41.499167+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-08T11:01:32.293754+00:00",
+  "translated_at": "2026-08-08T11:29:41.713302+00:00",
   "translation_engine": "google-parallel"
 }
