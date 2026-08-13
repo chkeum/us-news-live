@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-13T20:01:08.657849+00:00",
+  "fetched_at": "2026-08-13T20:44:11.601778+00:00",
   "sp500": {
-    "price": 7799.19,
+    "price": 7798.99,
     "change_pct": 0.92,
     "label": "S&P 500"
   },
@@ -11,28 +11,28 @@
     "label": "Nasdaq"
   },
   "dow": {
-    "price": 53840.14,
+    "price": 53839.99,
     "change_pct": 0.09,
     "label": "Dow"
   },
   "vix": {
-    "price": 14.64,
-    "change_pct": 0.62,
+    "price": 14.63,
+    "change_pct": 0.55,
     "label": "VIX"
   },
   "btc": {
-    "price": 63392.92,
-    "change_pct": -0.08,
+    "price": 63417.95,
+    "change_pct": -0.22,
     "label": "BTC"
   },
   "watchlist": {
     "NVDA": {
-      "price": 225.34,
-      "change_pct": 0.56
+      "price": 225.3,
+      "change_pct": 0.54
     },
     "MRVL": {
-      "price": 222.2,
-      "change_pct": 2.36
+      "price": 222.18,
+      "change_pct": 2.35
     },
     "TSLA": {
       "price": 339.96,
@@ -43,7 +43,7 @@
       "change_pct": 2.39
     },
     "GOOGL": {
-      "price": 346.34,
+      "price": 346.36,
       "change_pct": 0.82
     },
     "AMD": {
@@ -51,8 +51,8 @@
       "change_pct": 0.02
     },
     "META": {
-      "price": 594.79,
-      "change_pct": 2.75
+      "price": 594.97,
+      "change_pct": 2.78
     },
     "MSFT": {
       "price": 496.88,
@@ -63,7 +63,7 @@
       "change_pct": -0.8
     },
     "AVGO": {
-      "price": 417.85,
+      "price": 417.82,
       "change_pct": 0.43
     }
   },
@@ -75,17 +75,22 @@
     },
     {
       "ticker": "MSFT",
-      "mentions": 21,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "META",
-      "mentions": 16,
+      "mentions": 18,
       "surge_pct": 0
     },
     {
       "ticker": "MU",
+      "mentions": 18,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "META",
       "mentions": 13,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "AMD",
+      "mentions": 12,
       "surge_pct": 0
     },
     {
@@ -94,28 +99,23 @@
       "surge_pct": 0
     },
     {
-      "ticker": "AMD",
-      "mentions": 10,
-      "surge_pct": 0
-    },
-    {
       "ticker": "NBIS",
       "mentions": 9,
       "surge_pct": 0
     },
     {
-      "ticker": "TSLA",
-      "mentions": 6,
+      "ticker": "AVGO",
+      "mentions": 5,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "RKLB",
+      "mentions": 4,
       "surge_pct": 0
     },
     {
       "ticker": "MRVL",
-      "mentions": 5,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "GOOGL",
-      "mentions": 5,
+      "mentions": 4,
       "surge_pct": 0
     }
   ],
