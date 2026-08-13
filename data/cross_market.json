@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-13T22:11:13.351974+00:00",
+  "fetched_at": "2026-08-13T23:00:18.046222+00:00",
   "us_mood_score": 63,
   "kr_mood_score": 77,
   "us_mood": "neutral",
@@ -12,7 +12,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.58,
-      "actual_kr_pct": 1.95,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 339.96,
       "kr_price": 365500.0
@@ -24,7 +24,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.36,
-      "actual_kr_pct": 0.09,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 339.96,
       "kr_price": 114500.0
@@ -96,7 +96,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.06,
-      "actual_kr_pct": 5.92,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 222.18,
       "kr_price": 1593000.0
@@ -108,7 +108,7 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 1.06,
-      "actual_kr_pct": 5.1,
+      "actual_kr_pct": 0.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 594.97,
       "kr_price": 226500.0
@@ -180,7 +180,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 0.39,
-      "actual_kr_pct": 5.92,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 225.3,
       "kr_price": 1593000.0
@@ -204,7 +204,7 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 0.34,
-      "actual_kr_pct": 5.1,
+      "actual_kr_pct": 0.0,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 346.36,
       "kr_price": 226500.0
@@ -216,7 +216,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 0.32,
-      "actual_kr_pct": 5.1,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 496.88,
       "kr_price": 226500.0
@@ -228,7 +228,7 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": 0.29,
-      "actual_kr_pct": 1.39,
+      "actual_kr_pct": 0.0,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 346.36,
       "kr_price": 40100.0
@@ -240,7 +240,7 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": 0.29,
-      "actual_kr_pct": 1.39,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 496.88,
       "kr_price": 40100.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 5.4,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.54,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 1.02,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": 2.2,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 3.24,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.35,
       "lag_hours": 8
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "NVDA",
-      "title": "Nvidia Rallies 7% as Goldman Warns Earnings Bar Is High",
-      "title_kr": "Goldman이 수익 기준이 높다고 경고함에 따라 Nvidia는 7% 상승했습니다.",
+      "ticker": "MU",
+      "title": "Dow Jones Futures: S&P 500 Hits High On Workday, Sandisk, Oil Prices; Applied Materials Earnings Late",
+      "title_kr": "다우존스 선물: S&P 500이 Workday, Sandisk, 유가에서 최고치를 기록했습니다. 어플라이드 머티어리얼즈 실적 지연",
       "source": "Yahoo",
-      "published_at": "2026-08-13T19:17:38+00:00",
+      "published_at": "2026-08-13T21:44:50+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "삼성전자"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "Creative Realities, Inc. Q2 2026 Earnings Call Summary",
+      "title_kr": "Creative Realities, Inc. 2026년 2분기 실적 요약",
+      "source": "Yahoo",
+      "published_at": "2026-08-13T21:25:28+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -340,23 +352,11 @@
       ]
     },
     {
-      "ticker": "RKLB",
-      "title": "Rocket Lab Just Did This After Its Q2 Earnings Report. Here's What It Means For The Stock.",
-      "title_kr": "Rocket Lab은 2분기 수익 보고서 이후에 이 작업을 수행했습니다. 주식에 대한 의미는 다음과 같습니다.",
+      "ticker": "AMD",
+      "title": "Cerebras Stock PlummetsDespite Solid Earnings",
+      "title_kr": "견고한 수익에도 불구하고 Cerebras 주가 급락",
       "source": "Yahoo",
-      "published_at": "2026-08-13T18:22:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "한화시스템",
-        "한화에어로스페이스"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "title": "Cerebras Plummets 13% After Earnings. But Intel & AMD Barrel Ahead with Strong Gains.",
-      "title_kr": "세레브라스는 수익 후 13% 급락합니다. 그러나 Intel과 AMD는 강력한 상승세를 보이며 앞서 있습니다.",
-      "source": "Yahoo",
-      "published_at": "2026-08-13T17:35:40+00:00",
+      "published_at": "2026-08-13T20:42:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 63571.99,
-      "change_pct": 0.13,
+      "price": 63530.01,
+      "change_pct": 0.15,
       "label": "BTC"
     }
   },
