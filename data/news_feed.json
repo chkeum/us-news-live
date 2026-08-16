@@ -200,21 +200,6 @@
       "summary_kr": "엔비디아 CEO 젠슨 황(Jensen Huang)의 \"모든 산업 기업은 로봇 회사가 될 것\"이라는 발언은 현재의 AI 지배력을 넘어 물리적 AI와 로봇 공학으로 나아가는 회사의 미래 성장 전략을 나타냅니다. 이 비전은 새로운 기반 모델로 뒷받침됩니다."
     },
     {
-      "id": "av_b29cd785bcae0b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia's neocloud funding structure might unlock significant revenue stream: Morgan Stanley",
-      "summary": "Morgan Stanley believes Nvidia's $500 billion AI infrastructure financing deal, though met with mixed reactions, could unlock a significant new revenue stream for the company. The plan involves Nvidia providing credit backstops for \"neoclouds\" to secure financing, earning revenue",
-      "url": "https://seekingalpha.com/news/4633530-nvidias-neocloud-funding-structure-might-unlock-significant-revenue-stream-morgan-stanley",
-      "source": "Seeking Alpha",
-      "published_at": "2026-08-15T12:00:04+00:00",
-      "sentiment": 0.44223,
-      "change_pct": -0.06,
-      "title_kr": "Nvidia의 네오클라우드 자금 구조는 상당한 수익원을 창출할 수 있습니다: Morgan Stanley",
-      "summary_kr": "Morgan Stanley는 Nvidia의 5000억 달러 규모의 AI 인프라 금융 거래가 엇갈린 반응을 보였지만 회사에 상당한 새로운 수익원을 창출할 수 있다고 믿습니다. 이 계획에는 Nvidia가 금융을 확보하기 위해 \"네오클라우드\"에 대한 신용 백스톱을 제공하는 것이 포함됩니다."
-    },
-    {
       "id": "f_663b5cda2ce7b6",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -264,6 +249,21 @@
       "source": "SeekingAlpha",
       "published_at": "2026-08-14T10:49:42+00:00",
       "title_kr": "Nebius: 3분기 경매로 자체 가격 상한선 돌파(등급 업그레이드)"
+    },
+    {
+      "id": "av_b29cd785bcae0b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia's neocloud funding structure might unlock significant revenue stream: Morgan Stanley",
+      "summary": "Morgan Stanley believes Nvidia's $500 billion AI infrastructure financing deal, though met with mixed reactions, could unlock a significant new revenue stream for the company. The plan involves Nvidia providing credit backstops for \"neoclouds\" to secure financing, earning revenue",
+      "url": "https://seekingalpha.com/news/4633530-nvidias-neocloud-funding-structure-might-unlock-significant-revenue-stream-morgan-stanley",
+      "source": "Seeking Alpha",
+      "published_at": "2026-08-15T12:00:04+00:00",
+      "sentiment": 0.44223,
+      "change_pct": -0.06,
+      "title_kr": "Nvidia의 네오클라우드 자금 구조는 상당한 수익원을 창출할 수 있습니다: Morgan Stanley",
+      "summary_kr": "Morgan Stanley는 Nvidia의 5000억 달러 규모의 AI 인프라 금융 거래가 엇갈린 반응을 보였지만 회사에 상당한 새로운 수익원을 창출할 수 있다고 믿습니다. 이 계획에는 Nvidia가 금융을 확보하기 위해 \"네오클라우드\"에 대한 신용 백스톱을 제공하는 것이 포함됩니다."
     },
     {
       "id": "av_5a3e70e79b9851",
@@ -1154,6 +1154,19 @@
       "change_pct": -0.06
     },
     {
+      "id": "f_4fcd066f6deb3f",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "earnings",
+      "title": "European shares snap 4-week rally as higher oil prices temper strong earnings - Reuters",
+      "summary": "European shares snap 4-week rally as higher oil prices temper strong earnings  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3JRTDJxWjQ5cXhiMXUwMkJSb2FrXzg0S3FvMkV0Z1VYRFV1a0dKcHEwaG9yWG1hb0RyWF9qQzFlek0zT2hXOGl0b2pSTHVTZ1lhclRuY1FsUm00alVhUkYzVEtVN1BTRUVzdmZHVXdVX2g5emE2NGRWN1ZyMXFMTnFVdmhvbVhVclFHajE5LUtGU0VnS2hJTVJTZGJHWDgzMDNhcmlWNHhtVm5MWXZz?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-14T16:27:21+00:00",
+      "title_kr": "유가 상승으로 실적 강세가 둔화되면서 유럽 증시는 4주 연속 상승세를 탔다 - 로이터",
+      "summary_kr": "유가 상승으로 실적 강세가 둔화됨에 따라 유럽 증시는 4주간 급등했습니다. 로이터"
+    },
+    {
       "id": "f_fa6ffc20891ca1",
       "provider": "finnhub",
       "ticker": "NBIS",
@@ -1178,19 +1191,6 @@
       "published_at": "2026-08-15T09:25:22+00:00",
       "title_kr": "미국, 애플에 중국산 메모리 칩 부족 상황에서 구매하지 말라고 압박 - WSJ 보도",
       "summary_kr": "Investing.com -- 트럼프 행정부는 애플(NASDAQ:AAPL)이 AI로 인한 부족 속에서 메모리 칩 공급을 모색하고 있는 가운데 중국 제조업체로부터 메모리 칩을 구매하지 말라고 촉구했다고 월스트리트 저널이 금요일 단독 보도했다."
-    },
-    {
-      "id": "f_4fcd066f6deb3f",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "earnings",
-      "title": "European shares snap 4-week rally as higher oil prices temper strong earnings - Reuters",
-      "summary": "European shares snap 4-week rally as higher oil prices temper strong earnings  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa3JRTDJxWjQ5cXhiMXUwMkJSb2FrXzg0S3FvMkV0Z1VYRFV1a0dKcHEwaG9yWG1hb0RyWF9qQzFlek0zT2hXOGl0b2pSTHVTZ1lhclRuY1FsUm00alVhUkYzVEtVN1BTRUVzdmZHVXdVX2g5emE2NGRWN1ZyMXFMTnFVdmhvbVhVclFHajE5LUtGU0VnS2hJTVJTZGJHWDgzMDNhcmlWNHhtVm5MWXZz?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-14T16:27:21+00:00",
-      "title_kr": "유가 상승으로 실적 강세가 둔화되면서 유럽 증시는 4주 연속 상승세를 탔다 - 로이터",
-      "summary_kr": "유가 상승으로 실적 강세가 둔화됨에 따라 유럽 증시는 4주간 급등했습니다. 로이터"
     },
     {
       "id": "f_d52891bb5f91e8",
@@ -2582,8 +2582,8 @@
       "change_pct": -0.06
     }
   ],
-  "fetched_at": "2026-08-16T05:17:47.245590+00:00",
+  "fetched_at": "2026-08-16T05:50:29.799061+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-16T05:17:49.971555+00:00",
+  "translated_at": "2026-08-16T05:50:30.007646+00:00",
   "translation_engine": "google-parallel"
 }
