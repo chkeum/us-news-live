@@ -1,70 +1,70 @@
 {
-  "fetched_at": "2026-08-17T13:51:37.761222+00:00",
+  "fetched_at": "2026-08-17T14:15:11.470507+00:00",
   "sp500": {
-    "price": 7779.26,
-    "change_pct": -0.25,
+    "price": 7777.71,
+    "change_pct": -0.27,
     "label": "S&P 500"
   },
   "nasdaq": {
-    "price": 26753.55,
-    "change_pct": -0.18,
+    "price": 26756.83,
+    "change_pct": -0.17,
     "label": "Nasdaq"
   },
   "dow": {
-    "price": 53626.77,
-    "change_pct": -0.4,
+    "price": 53602.23,
+    "change_pct": -0.44,
     "label": "Dow"
   },
   "vix": {
-    "price": 15.05,
-    "change_pct": 5.61,
+    "price": 14.98,
+    "change_pct": 5.12,
     "label": "VIX"
   },
   "btc": {
-    "price": 63677.77,
-    "change_pct": 0.97,
+    "price": 63696,
+    "change_pct": 1.0,
     "label": "BTC"
   },
   "watchlist": {
     "NVDA": {
-      "price": 225.36,
-      "change_pct": 0.09
+      "price": 225.97,
+      "change_pct": 0.36
     },
     "MRVL": {
-      "price": 236.56,
-      "change_pct": 6.55
+      "price": 235.44,
+      "change_pct": 6.04
     },
     "TSLA": {
-      "price": 342.73,
-      "change_pct": 0.13
+      "price": 338.82,
+      "change_pct": -1.01
     },
     "MSTR": {
-      "price": 95.68,
-      "change_pct": 2.84
+      "price": 95.66,
+      "change_pct": 2.82
     },
     "GOOGL": {
-      "price": 344.8,
-      "change_pct": -0.32
+      "price": 344.69,
+      "change_pct": -0.35
     },
     "AMD": {
-      "price": 513.97,
-      "change_pct": -0.08
+      "price": 512.64,
+      "change_pct": -0.34
     },
     "META": {
-      "price": 580.89,
-      "change_pct": -1.52
+      "price": 580.34,
+      "change_pct": -1.61
     },
     "MSFT": {
-      "price": 486,
-      "change_pct": -1.9
+      "price": 484.67,
+      "change_pct": -2.17
     },
     "AMZN": {
-      "price": 262.8,
-      "change_pct": 0.06
+      "price": 261.46,
+      "change_pct": -0.45
     },
     "AVGO": {
-      "price": 393.3,
-      "change_pct": 0.08
+      "price": 394.28,
+      "change_pct": 0.33
     }
   },
   "trending": [
@@ -89,17 +89,17 @@
       "surge_pct": 0
     },
     {
+      "ticker": "GOOGL",
+      "mentions": 4,
+      "surge_pct": 0
+    },
+    {
       "ticker": "TSLA",
       "mentions": 4,
       "surge_pct": 0
     },
     {
       "ticker": "RKLB",
-      "mentions": 3,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "GOOGL",
       "mentions": 3,
       "surge_pct": 0
     },
@@ -121,5 +121,5 @@
   ],
   "mood_score": 45,
   "mood": "neutral",
-  "mood_summary": "S&P -0.25% · Nasdaq -0.18%"
+  "mood_summary": "S&P -0.27% · Nasdaq -0.17%"
 }
