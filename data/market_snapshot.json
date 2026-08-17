@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T12:21:24.174838+00:00",
+  "fetched_at": "2026-08-17T13:11:27.500496+00:00",
   "sp500": {
     "price": 7785.76,
     "change_pct": 0.48,
@@ -16,13 +16,13 @@
     "label": "Dow"
   },
   "vix": {
-    "price": 14.94,
-    "change_pct": 4.84,
+    "price": 15.08,
+    "change_pct": 5.82,
     "label": "VIX"
   },
   "btc": {
-    "price": 63614.52,
-    "change_pct": 0.93,
+    "price": 63557.99,
+    "change_pct": 0.78,
     "label": "BTC"
   },
   "watchlist": {
@@ -70,7 +70,17 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 71,
+      "mentions": 72,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "GOOGL",
+      "mentions": 45,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MU",
+      "mentions": 7,
       "surge_pct": 0
     },
     {
@@ -79,13 +89,8 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MU",
-      "mentions": 5,
-      "surge_pct": 0
-    },
-    {
       "ticker": "MSFT",
-      "mentions": 4,
+      "mentions": 5,
       "surge_pct": 0
     },
     {
@@ -95,11 +100,6 @@
     },
     {
       "ticker": "RKLB",
-      "mentions": 3,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "GOOGL",
       "mentions": 3,
       "surge_pct": 0
     },
@@ -119,7 +119,7 @@
       "surge_pct": 0
     }
   ],
-  "mood_score": 54,
+  "mood_score": 53,
   "mood": "neutral",
   "mood_summary": "S&P +0.48% · Nasdaq +0.53%"
 }
