@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-08-18T23:34:07.709990+00:00",
+  "fetched_at": "2026-08-18T23:51:25.230094+00:00",
   "kospi": {
-    "price": 6869.83,
-    "change_pct": 0.0,
+    "price": 6531.34,
+    "change_pct": -4.93,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 834.2,
-    "change_pct": 0.0,
+    "price": 807.05,
+    "change_pct": -3.25,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 1082.0,
-    "change_pct": 0.0,
+    "price": 1024.62,
+    "change_pct": -5.3,
     "label": "KPI200"
   },
   "watchlist": {
@@ -115,6 +115,12 @@
       "surge_pct": 0
     },
     {
+      "ticker": "007660",
+      "name": "이수페타시스",
+      "mentions": 1,
+      "surge_pct": 0
+    },
+    {
       "ticker": "271560",
       "name": "오리온",
       "mentions": 1,
@@ -131,15 +137,9 @@
       "name": "APS",
       "mentions": 1,
       "surge_pct": 0
-    },
-    {
-      "ticker": "159010",
-      "name": "아스플로",
-      "mentions": 1,
-      "surge_pct": 0
     }
   ],
-  "mood_score": 50,
-  "mood": "neutral",
-  "mood_summary": "KOSPI +0.00% · KOSDAQ +0.00%"
+  "mood_score": 0,
+  "mood": "bearish",
+  "mood_summary": "KOSPI -4.93% · KOSDAQ -3.25%"
 }
