@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T20:07:14.291339+00:00",
+  "fetched_at": "2026-08-18T20:36:26.292380+00:00",
   "us_mood_score": 31,
   "kr_mood_score": 15,
   "us_mood": "bearish",
@@ -103,15 +103,27 @@
     },
     {
       "us_ticker": "AVGO",
-      "us_change_pct": -3.21,
+      "us_change_pct": -3.17,
       "kr_code": "042700",
       "kr_name": "한미반도체",
       "beta": 0.55,
-      "predicted_kr_pct": -1.77,
+      "predicted_kr_pct": -1.74,
       "actual_kr_pct": null,
       "reason": "커스텀 ASIC 장비 테마",
-      "us_price": 379.83,
+      "us_price": 380,
       "kr_price": null
+    },
+    {
+      "us_ticker": "META",
+      "us_change_pct": -4.45,
+      "kr_code": "035420",
+      "kr_name": "NAVER",
+      "beta": 0.38,
+      "predicted_kr_pct": -1.69,
+      "actual_kr_pct": -4.82,
+      "reason": "AI 인프라 투자 확대 테마",
+      "us_price": 543.67,
+      "kr_price": 217000.0
     },
     {
       "us_ticker": "NVDA",
@@ -126,39 +138,27 @@
       "kr_price": 1662000.0
     },
     {
-      "us_ticker": "META",
-      "us_change_pct": -4.42,
-      "kr_code": "035420",
-      "kr_name": "NAVER",
-      "beta": 0.38,
-      "predicted_kr_pct": -1.68,
-      "actual_kr_pct": -4.82,
-      "reason": "AI 인프라 투자 확대 테마",
-      "us_price": 543.82,
-      "kr_price": 217000.0
-    },
-    {
       "us_ticker": "AVGO",
-      "us_change_pct": -3.21,
+      "us_change_pct": -3.17,
       "kr_code": "000660",
       "kr_name": "SK하이닉스",
       "beta": 0.42,
-      "predicted_kr_pct": -1.35,
+      "predicted_kr_pct": -1.33,
       "actual_kr_pct": 1.03,
       "reason": "네트워킹 반도체 HBM 연동",
-      "us_price": 379.83,
+      "us_price": 380,
       "kr_price": 1662000.0
     },
     {
       "us_ticker": "META",
-      "us_change_pct": -4.42,
+      "us_change_pct": -4.45,
       "kr_code": "352820",
       "kr_name": "하이브",
       "beta": 0.28,
-      "predicted_kr_pct": -1.24,
+      "predicted_kr_pct": -1.25,
       "actual_kr_pct": null,
       "reason": "메타버스·콘텐츠 노출 테마",
-      "us_price": 543.82,
+      "us_price": 543.67,
       "kr_price": null
     },
     {
@@ -187,62 +187,62 @@
     },
     {
       "us_ticker": "TSLA",
-      "us_change_pct": -0.7,
+      "us_change_pct": -0.72,
       "kr_code": "373220",
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
-      "predicted_kr_pct": -0.48,
+      "predicted_kr_pct": -0.49,
       "actual_kr_pct": -5.01,
       "reason": "Tesla 4680 셀 공급",
-      "us_price": 336.93,
+      "us_price": 336.87,
       "kr_price": 351000.0
     },
     {
       "us_ticker": "TSLA",
-      "us_change_pct": -0.7,
+      "us_change_pct": -0.72,
       "kr_code": "247540",
       "kr_name": "에코프로비엠",
       "beta": 0.62,
-      "predicted_kr_pct": -0.43,
+      "predicted_kr_pct": -0.45,
       "actual_kr_pct": -6.51,
       "reason": "NCA 양극재 공급",
-      "us_price": 336.93,
+      "us_price": 336.87,
       "kr_price": 109100.0
     },
     {
       "us_ticker": "TSLA",
-      "us_change_pct": -0.7,
+      "us_change_pct": -0.72,
       "kr_code": "066970",
       "kr_name": "엘앤에프",
       "beta": 0.58,
-      "predicted_kr_pct": -0.41,
+      "predicted_kr_pct": -0.42,
       "actual_kr_pct": null,
       "reason": "Tesla 양극재 직납",
-      "us_price": 336.93,
+      "us_price": 336.87,
       "kr_price": null
     },
     {
       "us_ticker": "TSLA",
-      "us_change_pct": -0.7,
+      "us_change_pct": -0.72,
       "kr_code": "003670",
       "kr_name": "포스코퓨처엠",
       "beta": 0.54,
-      "predicted_kr_pct": -0.38,
+      "predicted_kr_pct": -0.39,
       "actual_kr_pct": null,
       "reason": "양극재·음극재 공급망",
-      "us_price": 336.93,
+      "us_price": 336.87,
       "kr_price": null
     },
     {
       "us_ticker": "TSLA",
-      "us_change_pct": -0.7,
+      "us_change_pct": -0.72,
       "kr_code": "006400",
       "kr_name": "삼성SDI",
       "beta": 0.48,
-      "predicted_kr_pct": -0.34,
+      "predicted_kr_pct": -0.35,
       "actual_kr_pct": null,
       "reason": "원통형 배터리 경쟁사",
-      "us_price": 336.93,
+      "us_price": 336.87,
       "kr_price": null
     }
   ],
@@ -257,7 +257,7 @@
         "MU",
         "INTC"
       ],
-      "us_avg_pct": -4.41,
+      "us_avg_pct": -4.4,
       "kr_sector": "반도체",
       "kr_tickers": [
         "005930",
@@ -267,7 +267,7 @@
       ],
       "kr_actual_avg_pct": -0.58,
       "beta": 0.65,
-      "predicted_kr_avg_pct": -2.87,
+      "predicted_kr_avg_pct": -2.86,
       "lag_hours": 8
     },
     {
@@ -275,7 +275,7 @@
       "us_tickers": [
         "TSLA"
       ],
-      "us_avg_pct": -0.7,
+      "us_avg_pct": -0.72,
       "kr_sector": "2차전지",
       "kr_tickers": [
         "373220",
@@ -286,7 +286,7 @@
       ],
       "kr_actual_avg_pct": -5.76,
       "beta": 0.58,
-      "predicted_kr_avg_pct": -0.41,
+      "predicted_kr_avg_pct": -0.42,
       "lag_hours": 8
     },
     {
@@ -297,7 +297,7 @@
         "MSFT",
         "AMZN"
       ],
-      "us_avg_pct": -1.2,
+      "us_avg_pct": -1.21,
       "kr_sector": "플랫폼 / 클라우드",
       "kr_tickers": [
         "035420",
@@ -376,13 +376,13 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 15.73,
-      "change_pct": 3.55,
+      "price": 15.84,
+      "change_pct": 4.28,
       "label": "VIX"
     },
     "btc": {
-      "price": 64599.94,
-      "change_pct": 0.5,
+      "price": 64627.24,
+      "change_pct": 0.41,
       "label": "BTC"
     }
   },

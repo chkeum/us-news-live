@@ -146,7 +146,7 @@
       "url": "https://finnhub.io/api/news?id=7b39a71794329b7e439708fa19629429ff9e93f2f449aa6a5535957c766e0ebb",
       "source": "Benzinga",
       "published_at": "2026-08-18T09:45:05+00:00",
-      "change_pct": -0.7,
+      "change_pct": -0.72,
       "title_kr": "GLJ Research, Tesla에 대한 매도 유지, $24.86 목표 가격 유지",
       "summary_kr": "GLJ Research 분석가 Gordon L. Johnson은 Tesla(NASDAQ:TSLA)에 매도 의견을 재확인하고 목표 가격 24.86달러를 유지합니다."
     },
@@ -193,17 +193,19 @@
       "summary_kr": "https://www.bloomberg.com/news/articles/2026-08-17/anthropic-revenue-run-rate-surpasses-65-billion-ahead-of-ipo"
     },
     {
-      "id": "f_b17fbc781073fb",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "earnings",
-      "title": "Alibaba Remains Too Cheap To Ignore (Earnings Preview)",
-      "summary": "Alibaba Group Holding Limited still looks like a Buy: up 20%, attractive valuation, and AI-driven growth from Qwen and Apple ties. Click for this BABA update.",
-      "url": "https://finnhub.io/api/news?id=8ff34eb1bc5302e49565a7b2f6351fd3ee5eb31396063c09147518cf1d6b5596",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-17T15:05:03+00:00",
-      "title_kr": "알리바바는 무시하기에는 너무 저렴하다(수익 미리보기)",
-      "summary_kr": "Alibaba Group Holding Limited는 여전히 매수로 보입니다. 20% 상승, 매력적인 가치 평가, Qwen과 Apple 제휴로 인한 AI 주도 성장입니다. 이 BABA 업데이트를 보려면 클릭하세요."
+      "id": "av_caed1b055dd1c5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Neoclouds collaborate to transform AI infrastructure",
+      "summary": "The rise of AI-first cloud providers, or neoclouds, is transforming enterprise infrastructure by focusing on the unique demands of AI models and agents. Collaborations between hardware companies, data platforms, and neoclouds are crucial for meeting the increasing need for comput",
+      "url": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-08-18T18:56:20+00:00",
+      "sentiment": 0.347077,
+      "change_pct": -2.34,
+      "title_kr": "Neoclouds는 AI 인프라 혁신을 위해 협력합니다.",
+      "summary_kr": "AI 우선 클라우드 제공업체(네오클라우드)의 등장은 AI 모델과 에이전트의 고유한 요구 사항에 초점을 맞춰 엔터프라이즈 인프라를 변화시키고 있습니다. 하드웨어 회사, 데이터 플랫폼 및 네오클라우드 간의 협력은 증가하는 요구 사항을 충족하는 데 중요합니다."
     },
     {
       "id": "av_a7d50018069a9b",
@@ -215,25 +217,10 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/bofa-sees-nvidia-trading-50-145211064.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-18T15:08:55+00:00",
-      "sentiment": 0.435486,
+      "sentiment": 0.434429,
       "change_pct": -2.34,
       "title_kr": "BofA는 Nvidia Trading을 AI 위험에 대해 최대 50% 할인된 가격으로 보고 있습니다.",
       "summary_kr": "Bank of America 분석가들은 AI 위험에 대한 투자자들의 과도한 우려로 인해 Nvidia 주가가 최대 50%까지 상당한 할인 거래를 하고 있다고 믿고 있습니다. 최근 AI 관련 주가 하락에도 불구하고 BofA는 '매수' 투자의견과 목표주가 350달러를 최고 수준으로 유지하고 있다."
-    },
-    {
-      "id": "av_caed1b055dd1c5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Neoclouds collaborate to transform AI infrastructure",
-      "summary": "The rise of AI-first cloud providers, or neoclouds, is transforming enterprise infrastructure by focusing on the unique demands of AI models and agents. Collaborations between hardware companies, data platforms, and neoclouds are crucial for meeting the increasing need for comput",
-      "url": "https://siliconangle.com/2026/08/18/neoclouds-ai-infrastructure-supermicroopenstoragesummit/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-08-18T18:56:20+00:00",
-      "sentiment": 0.315797,
-      "change_pct": -2.34,
-      "title_kr": "Neoclouds는 AI 인프라 혁신을 위해 협력합니다.",
-      "summary_kr": "AI 우선 클라우드 제공업체(네오클라우드)의 등장은 AI 모델과 에이전트의 고유한 요구 사항에 초점을 맞춰 엔터프라이즈 인프라를 변화시키고 있습니다. 하드웨어 회사, 데이터 플랫폼 및 네오클라우드 간의 협력은 증가하는 요구 사항을 충족하는 데 중요합니다."
     },
     {
       "id": "av_9cbaacde36c0a2",
@@ -245,7 +232,7 @@
       "url": "https://etfdb.com/news/2026/08/18/fbcg-video-etf-of-the-week/",
       "source": "ETF Database",
       "published_at": "2026-08-18T17:11:23+00:00",
-      "sentiment": 0.312799,
+      "sentiment": 0.343251,
       "change_pct": -2.34,
       "title_kr": "비디오: 금주의 ETF: FBCG",
       "summary_kr": "VettaFi의 연구 책임자인 Todd Rosenbluth는 이번 주 \"금주의 ETF\" 팟캐스트에서 Money Life의 Chuck Jaffe와 FBCG(Fidelity Blue Chip Growth ETF)에 대해 논의했습니다. 그들은 FBCG의 상당한 자산 성장과 Mega-C에 대한 적극적인 관리 접근 방식을 강조했습니다."
@@ -260,25 +247,10 @@
       "url": "https://stockstory.org/us/stocks/nyse/abm/news/buy-or-sell/3-unpopular-stocks-were-skeptical-of",
       "source": "StockStory",
       "published_at": "2026-08-18T09:41:56+00:00",
-      "sentiment": 0.543003,
+      "sentiment": 0.546737,
       "change_pct": -2.34,
       "title_kr": "우리가 회의적인 3가지 인기 없는 주식",
       "summary_kr": "이 기사에서는 StockStory 분석가들이 현재의 합의 가격 목표에도 불구하고 회의적인 세 가지 주식, 즉 ABM, Merchants Bancorp(MBIN), Reinsurance Group of America(RGA)를 식별합니다. 회의적인 시각은 재무 성과에 대한 우려에서 비롯됩니다."
-    },
-    {
-      "id": "av_ce61fef74a3e36",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
-      "summary": "Hedge fund billionaire Daniel Loeb's Third Point LLC made significant portfolio changes in Q2 2026, divesting from major tech companies like Meta Platforms, NVIDIA, and Broadcom. The fund made substantial new investments in Warner Bros. Discovery, Riot Platforms, and Block, while",
-      "url": "https://www.sahmcapital.com/news/content/dan-loeb-exits-nvidia-meta-and-broadcom-bets-big-on-warner-bros-discovery-2026-08-17",
-      "source": "Sahm",
-      "published_at": "2026-08-18T11:09:38+00:00",
-      "sentiment": -0.449737,
-      "change_pct": -2.34,
-      "title_kr": "Dan Loeb, Nvidia, Meta 및 Broadcom 퇴사 — Warner Bros. Discovery에 큰 투자",
-      "summary_kr": "헤지 펀드 억만장자 Daniel Loeb의 Third Point LLC는 2026년 2분기에 Meta Platforms, NVIDIA, Broadcom과 같은 주요 기술 회사로부터 매각하여 포트폴리오를 대폭 변경했습니다. 이 펀드는 Warner Bros. Discovery, Riot Platfor에 상당한 신규 투자를 했습니다."
     },
     {
       "id": "av_1becbd456c44d9",
@@ -290,70 +262,10 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-amd-broadcom-meta-slide-154244427.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-18T15:43:10+00:00",
-      "sentiment": -0.335211,
+      "sentiment": -0.328259,
       "change_pct": -2.34,
       "title_kr": "채권 수익률 급등에 따른 Nvidia, AMD, Broadcom, Meta Slide: 기술주가 타격을 받는 이유",
       "summary_kr": "Nvidia, AMD, Broadcom 및 Meta는 2007년 이후 최고 수준에 도달한 30년 만기 국채 수익률 급등으로 인해 주가 하락을 경험했습니다. 채권 수익률 상승은 미래 수익의 가치를 떨어뜨리고 비용을 증가시켜 기술주에 부정적인 영향을 미칩니다."
-    },
-    {
-      "id": "av_7f51b3563605a8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Can Industrial Strength Keep FLEX's RMS Growth on a Steady Track?",
-      "summary": "Flex Ltd. (FLEX) is experiencing strong growth in its Regulated Manufacturing Solutions (RMS) segment, driven by favorable trends in energy infrastructure, robotics, and warehouse automation, with revenues increasing 12% year-over-year in Q1 fiscal 2027. The company projects cont",
-      "url": "https://www.tradingview.com/news/zacks:d82a3e766094b:0-can-industrial-strength-keep-flex-s-rms-growth-on-a-steady-track/",
-      "source": "TradingView",
-      "published_at": "2026-08-18T14:41:02+00:00",
-      "sentiment": 0.340109,
-      "change_pct": -2.34,
-      "title_kr": "산업적 강점이 FLEX의 RMS 성장을 꾸준히 유지할 수 있습니까?",
-      "summary_kr": "Flex Ltd.(FLEX)는 에너지 인프라, 로봇 공학 및 창고 자동화의 유리한 추세에 힘입어 규제 제조 솔루션(RMS) 부문에서 강력한 성장을 경험하고 있으며 2027 회계연도 1분기 매출이 전년 대비 12% 증가했습니다."
-    },
-    {
-      "id": "av_2d3cd8d7ed14aa",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA’s Ohio AI Megadeal: OpenAI, 8 GW of Compute and a $1.5 Billion SB Energy Bet",
-      "summary": "NVIDIA is expanding its AI strategy by securing long-term data-center capacity in Ohio for OpenAI, partnering with SB Energy for a 4.25-gigawatt AI computing campus with an option for an additional 3.75 gigawatts. This initiative is estimated to support repeated hardware upgrades",
-      "url": "https://www.sahmcapital.com/news/content/nvidias-ohio-ai-megadeal-openai-8-gw-of-compute-and-a-15-billion-sb-energy-bet-2026-08-17",
-      "source": "Sahm",
-      "published_at": "2026-08-18T11:40:46+00:00",
-      "sentiment": 0.409964,
-      "change_pct": -2.34,
-      "title_kr": "NVIDIA의 오하이오 AI 메가딜: OpenAI, 8GW 컴퓨팅 및 15억 달러 규모의 SB 에너지 베팅",
-      "summary_kr": "NVIDIA는 OpenAI를 위해 오하이오에 장기적인 데이터 센터 용량을 확보하고 SB Energy와 협력하여 4.25기가와트 AI 컴퓨팅 캠퍼스를 추가로 3.75기가와트 추가 옵션으로 확보함으로써 AI 전략을 확장하고 있습니다. 이 계획은 반복을 지원할 것으로 예상됩니다."
-    },
-    {
-      "id": "av_0afe9e46ef9dbc",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Hour Loop's Q2 Earnings Fall Year Over Year on Margin Pressure",
-      "summary": "Hour Loop Inc. reported a decline in Q2 2026 earnings per share to 3 cents from 4 cents in the prior year, despite a 25% increase in net revenues to $33.9 million. The drop in earnings was attributed to margin pressure, as gross margin contracted and operating income fell, despit",
-      "url": "https://www.tradingview.com/news/zacks:3f36d8daf094b:0-hour-loop-s-q2-earnings-fall-year-over-year-on-margin-pressure/",
-      "source": "TradingView",
-      "published_at": "2026-08-18T15:12:17+00:00",
-      "sentiment": 0.314904,
-      "change_pct": -2.34,
-      "title_kr": "Hour Loop의 2분기 수익은 마진 압박으로 인해 해마다 감소합니다.",
-      "summary_kr": "Hour Loop Inc.는 순수익이 25% 증가한 3,390만 달러에도 불구하고 2026년 2분기 주당 순이익이 전년도 4센트에서 3센트로 감소했다고 보고했습니다. 수익 감소는 총마진이 축소되고 운영됨에 따라 마진 압박으로 인한 것입니다."
-    },
-    {
-      "id": "av_9661c0c67cba6e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Trane Tech and Eaton Plug Into Nvidia AI Data Center Boom",
-      "summary": "Trane Technologies and Eaton Corporation have partnered to create an integrated design for NVIDIA's DSX AI Factory Reference Design, aiming to enhance power designs for AI data centers. This collaboration seeks to accelerate development, improve energy efficiency by up to 15%, an",
-      "url": "https://www.sahmcapital.com/news/content/trane-tech-and-eaton-plug-into-nvidia-ai-data-center-boom-2026-08-17",
-      "source": "Sahm",
-      "published_at": "2026-08-18T11:07:58+00:00",
-      "sentiment": 0.411952,
-      "change_pct": -2.34,
-      "title_kr": "Trane Tech와 Eaton이 Nvidia AI 데이터 센터 붐에 연결",
-      "summary_kr": "Trane Technologies와 Eaton Corporation은 AI 데이터 센터의 전원 설계 향상을 목표로 NVIDIA의 DSX AI Factory Reference Design을 위한 통합 설계를 만들기 위해 파트너십을 맺었습니다. 이 협력은 개발을 가속화하고 에너지 효율성을 향상시키는 것을 목표로 합니다."
     },
     {
       "id": "av_73321862f86ed6",
@@ -365,25 +277,70 @@
       "url": "https://www.cnbc.com/2026/08/18/nvidias-ai-moat-is-shifting-from-chips-to-capital.html",
       "source": "CNBC",
       "published_at": "2026-08-18T10:59:59+00:00",
-      "sentiment": 0.41307,
+      "sentiment": 0.443466,
       "change_pct": -2.34,
       "title_kr": "엔비디아의 AI 해자는 칩에서 자본으로 이동하고 있다",
       "summary_kr": "Nvidia는 칩 기술에만 의존하기보다는 AI 시장에서 지배력을 유지하기 위해 상당한 자본과 강력한 대차대조표를 활용하고 있습니다. 이 회사는 최근 GPU를 위해 월스트리트 회사와 5000억 달러 규모의 자금 조달 계약을 발표했습니다."
     },
     {
-      "id": "av_e1e2d63f5561f5",
+      "id": "av_9661c0c67cba6e",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "ZINN ETF Holdings List — AMEX:ZINN",
-      "summary": "This article provides a detailed list of the Virtus Zevenbergen Innovative Growth ETF (ZINN) holdings as of August 17, 2026. It includes the top ten companies by weight, such as NVIDIA, Advanced Micro Devices, and Shopify, along with their respective share counts and market value",
-      "url": "https://www.tradingview.com/symbols/AMEX-ZINN/holdings/",
-      "source": "TradingView",
-      "published_at": "2026-08-18T13:40:37+00:00",
-      "sentiment": 0.342422,
+      "title": "Trane Tech and Eaton Plug Into Nvidia AI Data Center Boom",
+      "summary": "Trane Technologies and Eaton Corporation have partnered to create an integrated design for NVIDIA's DSX AI Factory Reference Design, aiming to enhance power designs for AI data centers. This collaboration seeks to accelerate development, improve energy efficiency by up to 15%, an",
+      "url": "https://www.sahmcapital.com/news/content/trane-tech-and-eaton-plug-into-nvidia-ai-data-center-boom-2026-08-17",
+      "source": "Sahm",
+      "published_at": "2026-08-18T11:07:58+00:00",
+      "sentiment": 0.434007,
       "change_pct": -2.34,
-      "title_kr": "ZINN ETF 보유 목록 — AMEX:ZINN",
-      "summary_kr": "이 기사는 2026년 8월 17일 현재 Virtus Zevenbergen Innovative Growth ETF(ZINN) 보유 자산의 자세한 목록을 제공합니다. 여기에는 NVIDIA, Advanced Micro Devices, Shopify 등 가중치 기준 상위 10개 회사와 각 주식 회사가 포함됩니다."
+      "title_kr": "Trane Tech와 Eaton이 Nvidia AI 데이터 센터 붐에 연결",
+      "summary_kr": "Trane Technologies와 Eaton Corporation은 AI 데이터 센터의 전원 설계 향상을 목표로 NVIDIA의 DSX AI Factory Reference Design을 위한 통합 설계를 만들기 위해 파트너십을 맺었습니다. 이 협력은 개발을 가속화하고 에너지 효율성을 향상시키는 것을 목표로 합니다."
+    },
+    {
+      "id": "av_0afe9e46ef9dbc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Hour Loop's Q2 Earnings Fall Year Over Year on Margin Pressure",
+      "summary": "Hour Loop Inc. reported a decline in Q2 2026 earnings per share to 3 cents from 4 cents in the prior year, despite a 25% increase in net revenues to $33.9 million. The drop in earnings was attributed to margin pressure, as gross margin contracted and operating income fell, despit",
+      "url": "https://www.tradingview.com/news/zacks:3f36d8daf094b:0-hour-loop-s-q2-earnings-fall-year-over-year-on-margin-pressure/",
+      "source": "TradingView",
+      "published_at": "2026-08-18T15:12:17+00:00",
+      "sentiment": 0.328597,
+      "change_pct": -2.34,
+      "title_kr": "Hour Loop의 2분기 수익은 마진 압박으로 인해 해마다 감소합니다.",
+      "summary_kr": "Hour Loop Inc.는 순수익이 25% 증가한 3,390만 달러에도 불구하고 2026년 2분기 주당 순이익이 전년도 4센트에서 3센트로 감소했다고 보고했습니다. 수익 감소는 총마진이 축소되고 운영됨에 따라 마진 압박으로 인한 것입니다."
+    },
+    {
+      "id": "av_ce61fef74a3e36",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Dan Loeb Exits Nvidia, Meta And Broadcom — Bets Big On Warner Bros. Discovery",
+      "summary": "Hedge fund billionaire Daniel Loeb's Third Point LLC made significant portfolio changes in Q2 2026, divesting from major tech companies like Meta Platforms, NVIDIA, and Broadcom. The fund made substantial new investments in Warner Bros. Discovery, Riot Platforms, and Block, while",
+      "url": "https://www.sahmcapital.com/news/content/dan-loeb-exits-nvidia-meta-and-broadcom-bets-big-on-warner-bros-discovery-2026-08-17",
+      "source": "Sahm",
+      "published_at": "2026-08-18T11:09:38+00:00",
+      "sentiment": -0.416617,
+      "change_pct": -2.34,
+      "title_kr": "Dan Loeb, Nvidia, Meta 및 Broadcom 퇴사 — Warner Bros. Discovery에 큰 투자",
+      "summary_kr": "헤지 펀드 억만장자 Daniel Loeb의 Third Point LLC는 2026년 2분기에 Meta Platforms, NVIDIA, Broadcom과 같은 주요 기술 회사로부터 매각하여 포트폴리오를 대폭 변경했습니다. 이 펀드는 Warner Bros. Discovery, Riot Platfor에 상당한 신규 투자를 했습니다."
+    },
+    {
+      "id": "av_2d3cd8d7ed14aa",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA’s Ohio AI Megadeal: OpenAI, 8 GW of Compute and a $1.5 Billion SB Energy Bet",
+      "summary": "NVIDIA is expanding its AI strategy by securing long-term data-center capacity in Ohio for OpenAI, partnering with SB Energy for a 4.25-gigawatt AI computing campus with an option for an additional 3.75 gigawatts. This initiative is estimated to support repeated hardware upgrades",
+      "url": "https://www.sahmcapital.com/news/content/nvidias-ohio-ai-megadeal-openai-8-gw-of-compute-and-a-15-billion-sb-energy-bet-2026-08-17",
+      "source": "Sahm",
+      "published_at": "2026-08-18T11:40:46+00:00",
+      "sentiment": 0.402656,
+      "change_pct": -2.34,
+      "title_kr": "NVIDIA의 오하이오 AI 메가딜: OpenAI, 8GW 컴퓨팅 및 15억 달러 규모의 SB 에너지 베팅",
+      "summary_kr": "NVIDIA는 OpenAI를 위해 오하이오에 장기적인 데이터 센터 용량을 확보하고 SB Energy와 협력하여 4.25기가와트 AI 컴퓨팅 캠퍼스를 추가로 3.75기가와트 추가 옵션으로 확보함으로써 AI 전략을 확장하고 있습니다. 이 계획은 반복을 지원할 것으로 예상됩니다."
     },
     {
       "id": "av_27741343d6b98a",
@@ -395,10 +352,40 @@
       "url": "https://www.tradingkey.com/news/market-movers/262115383-market-movers-avgo-20260818",
       "source": "TradingKey",
       "published_at": "2026-08-18T14:59:17+00:00",
-      "sentiment": -0.301799,
+      "sentiment": -0.315172,
       "change_pct": -2.34,
       "title_kr": "Broadcom Inc 주식(AVGO)은 8월 18일에 3.33% 하락했습니다: 어떤 신호를 보내는가?",
       "summary_kr": "Broadcom Inc.(AVGO) 주식은 VMware 보안 취약성에 대한 우려, AI 인프라 금융 조사 및 광범위한 가치 평가 재설정으로 인해 3.33% 하락했습니다. 회사는 연간 매출 638억 9천만 달러, 순이익 231억 3천만 달러를 보고했습니다. 기술 지표"
+    },
+    {
+      "id": "av_7f51b3563605a8",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Can Industrial Strength Keep FLEX's RMS Growth on a Steady Track?",
+      "summary": "Flex Ltd. (FLEX) is experiencing strong growth in its Regulated Manufacturing Solutions (RMS) segment, driven by favorable trends in energy infrastructure, robotics, and warehouse automation, with revenues increasing 12% year-over-year in Q1 fiscal 2027. The company projects cont",
+      "url": "https://www.tradingview.com/news/zacks:d82a3e766094b:0-can-industrial-strength-keep-flex-s-rms-growth-on-a-steady-track/",
+      "source": "TradingView",
+      "published_at": "2026-08-18T14:41:02+00:00",
+      "sentiment": 0.313381,
+      "change_pct": -2.34,
+      "title_kr": "산업적 강점이 FLEX의 RMS 성장을 꾸준히 유지할 수 있습니까?",
+      "summary_kr": "Flex Ltd.(FLEX)는 에너지 인프라, 로봇 공학 및 창고 자동화의 유리한 추세에 힘입어 규제 제조 솔루션(RMS) 부문에서 강력한 성장을 경험하고 있으며 2027 회계연도 1분기 매출이 전년 대비 12% 증가했습니다."
+    },
+    {
+      "id": "av_e1e2d63f5561f5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "ZINN ETF Holdings List — AMEX:ZINN",
+      "summary": "This article provides a detailed list of the Virtus Zevenbergen Innovative Growth ETF (ZINN) holdings as of August 17, 2026. It includes the top ten companies by weight, such as NVIDIA, Advanced Micro Devices, and Shopify, along with their respective share counts and market value",
+      "url": "https://www.tradingview.com/symbols/AMEX-ZINN/holdings/",
+      "source": "TradingView",
+      "published_at": "2026-08-18T13:40:37+00:00",
+      "sentiment": 0.334367,
+      "change_pct": -2.34,
+      "title_kr": "ZINN ETF 보유 목록 — AMEX:ZINN",
+      "summary_kr": "이 기사는 2026년 8월 17일 현재 Virtus Zevenbergen Innovative Growth ETF(ZINN) 보유 자산의 자세한 목록을 제공합니다. 여기에는 NVIDIA, Advanced Micro Devices, Shopify 등 가중치 기준 상위 10개 회사와 각 주식 회사가 포함됩니다."
     },
     {
       "id": "av_0f41a9ac610313",
@@ -410,55 +397,10 @@
       "url": "https://www.businesswire.com/news/home/20260818513062/en/Cummins-selected-to-supply-battery-energy-storage-systems-for-large-U.S.-data-center-project",
       "source": "Business Wire",
       "published_at": "2026-08-18T13:37:28+00:00",
-      "sentiment": 0.320837,
+      "sentiment": 0.327645,
       "change_pct": -2.34,
       "title_kr": "커민스, 미국 대규모 데이터센터 프로젝트에 배터리 에너지 저장 시스템 공급업체로 선정",
       "summary_kr": "커민스(Cummins Inc.)는 자사의 발전 사업부가 미국의 주요 데이터 센터 프로젝트에 배터리 에너지 저장 시스템(BESS)을 공급할 예정이라고 발표했으며 이는 현재까지 BESS 구축 규모 중 최대 규모입니다. 이러한 시스템은 AI 기반 부하 변동을 관리하고 완화하도록 설계되었습니다."
-    },
-    {
-      "id": "av_6634afc6ac42f6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AXT surges 17.5% amid speculation of InP substrate shortage; will hunting for \"upstream\" AI optical communication stocks broaden?",
-      "summary": "AXT Inc. (AXTI.US) surged 17.5% following a TrendForce report highlighting a shortage of Indium Phosphide (InP) substrates, which are crucial for AI optical interconnects. This has shifted investor interest upstream from optical modules to InP substrates, as evidenced by AXT's lo",
-      "url": "https://www.moomoo.com/community/feed/axt-surges-17-5-as-market-bets-on-an-inp-117115823325590",
-      "source": "Moomoo",
-      "published_at": "2026-08-18T09:40:44+00:00",
-      "sentiment": 0.412266,
-      "change_pct": -2.34,
-      "title_kr": "InP 기판 부족 추측 속에 AXT 17.5% 급등. '업스트림' AI 광통신 주식 사냥이 확대될 것인가?",
-      "summary_kr": "AXT Inc.(AXTI.US)는 AI 광학 인터커넥트에 중요한 인화인듐(InP) 기판의 부족을 강조하는 TrendForce 보고서 이후 17.5% 급등했습니다. 이는 투자자 관심을 광학 모듈에서 InP 기판으로 업스트림으로 이동시켰습니다."
-    },
-    {
-      "id": "av_29f62262581d03",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Intel Stock Slips As $20B Upsized Share Sale Hits Tape",
-      "summary": "Intel Corporation's stock (INTC) slipped by 4.51% following the announcement of an upsized public equity deal of approximately 210.5 million shares at $95, raising around $20 billion. This significant capital raise, intended for capital expenditures and working capital, has cause",
-      "url": "https://www.timothysykes.com/news/intel-corporation-intc-news-2026_08_18-2/",
-      "source": "Timothy Sykes",
-      "published_at": "2026-08-18T13:19:20+00:00",
-      "sentiment": -0.317723,
-      "change_pct": -2.34,
-      "title_kr": "200억 달러 규모의 주식 매각이 테이프에 부딪치면서 인텔 주식 하락",
-      "summary_kr": "Intel Corporation의 주식(INTC)은 약 2억 1,050만 주를 95달러에 확대하여 약 200억 달러를 조달한다는 대규모 상장 거래 발표 이후 4.51% 하락했습니다. 이는 자본 지출 및 작업을 위한 상당한 자본 증가입니다."
-    },
-    {
-      "id": "av_7a0beac49d994f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 8.02% on Aug 18: What Investors Need To Know",
-      "summary": "Arm Holdings PLC (ARM) stock decreased by 8.02% on August 18, primarily due to a broader re-evaluation of high-valuation technology equities and concerns about slowing smartphone royalty growth. Management's signal of sequential deceleration in smartphone royalty growth and persi",
-      "url": "https://www.tradingkey.com/news/market-movers/262115542-market-movers-arm-20260818",
-      "source": "TradingKey",
-      "published_at": "2026-08-18T15:15:51+00:00",
-      "sentiment": -0.266651,
-      "change_pct": -2.34,
-      "title_kr": "Arm Holdings PLC 주식(ARM)은 8월 18일에 8.02% 하락했습니다: 투자자가 알아야 할 사항",
-      "summary_kr": "Arm Holdings PLC(ARM) 주식은 8월 18일 8.02% 하락했는데, 이는 주로 고평가 기술 주식에 대한 광범위한 재평가와 스마트폰 로열티 성장 둔화에 대한 우려 때문이었습니다. 스마트폰 로야 경영진의 순차적 감속 신호"
     },
     {
       "id": "av_8dea504c3f7129",
@@ -470,40 +412,55 @@
       "url": "https://www.tradingkey.com/news/market-movers/262115670-market-movers-adi-20260818",
       "source": "TradingKey",
       "published_at": "2026-08-18T17:15:59+00:00",
-      "sentiment": -0.216175,
+      "sentiment": -0.233784,
       "change_pct": -2.34,
       "title_kr": "8월 18일 Analog Devices Inc 주식(ADI)이 4.55% 하락했습니다: 움직임 뒤에 있는 사실",
       "summary_kr": "Analog Devices Inc(ADI) 주가는 광범위한 반도체 부문 약세와 국채 수익률 상승 및 사전 수익 주의 등 거시경제적 역풍으로 인해 8월 18일 4.55% 하락했습니다. 분석가들은 건설적인 장기 전망을 유지하고 있음에도 불구하고 단기적으로는"
     },
     {
-      "id": "av_e81e985ceb4193",
+      "id": "av_29f62262581d03",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Cms Energy Corp stock hits 52-week low at 21.12 USD",
-      "summary": "CMS Energy Corp stock has hit a 52-week low of $21.12, trading just above it at $21.16, marking a 3.6% decline over the past year. Despite this downturn, the utility company maintains solid fundamentals with nearly 10% revenue growth and a low beta of 0.34, indicating less volati",
-      "url": "https://www.investing.com/news/company-news/cms-energy-corp-stock-hits-52week-low-at-2112-usd-93CH-4865561",
-      "source": "Investing.com",
-      "published_at": "2026-08-18T14:01:29+00:00",
-      "sentiment": -0.279753,
+      "title": "Intel Stock Slips As $20B Upsized Share Sale Hits Tape",
+      "summary": "Intel Corporation's stock (INTC) slipped by 4.51% following the announcement of an upsized public equity deal of approximately 210.5 million shares at $95, raising around $20 billion. This significant capital raise, intended for capital expenditures and working capital, has cause",
+      "url": "https://www.timothysykes.com/news/intel-corporation-intc-news-2026_08_18-2/",
+      "source": "Timothy Sykes",
+      "published_at": "2026-08-18T13:19:20+00:00",
+      "sentiment": -0.331108,
       "change_pct": -2.34,
-      "title_kr": "Cms Energy Corp 주가는 21.12 USD로 52주 최저치를 기록했습니다.",
-      "summary_kr": "CMS Energy Corp 주식은 52주 최저치인 21.12달러를 기록했으며, 그 바로 위인 21.16달러에 거래되어 지난 한 해 동안 3.6% 하락했습니다. 이러한 경기 침체에도 불구하고 유틸리티 회사는 거의 10%의 매출 성장과 0.34의 낮은 베타로 탄탄한 펀더멘털을 유지하고 있습니다."
+      "title_kr": "200억 달러 규모의 주식 매각이 테이프에 부딪치면서 인텔 주식 하락",
+      "summary_kr": "Intel Corporation의 주식(INTC)은 약 2억 1,050만 주를 95달러에 확대하여 약 200억 달러를 조달한다는 대규모 상장 거래 발표 이후 4.51% 하락했습니다. 이는 자본 지출 및 작업을 위한 상당한 자본 증가입니다."
     },
     {
-      "id": "av_6738618633c433",
+      "id": "av_cf2ca7b6668dc4",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "NVDA Stock Wobbles As AMD Challenge And Hedge Fund Exit Rattle AI Trade",
-      "summary": "NVIDIA Corporation stock (NVDA) is down amid increasing concerns over AI chip demand sustainability due to rising competition from AMD and a significant hedge fund exit. Jefferies' report on AMD's Advancing AI 2026 event suggests AMD could challenge Nvidia's AI dominance, with ma",
-      "url": "https://stockstotrade.com/news/nvidia-corporation-nvda-news-2026_08_18/",
-      "source": "StocksToTrade",
-      "published_at": "2026-08-18T13:38:43+00:00",
-      "sentiment": -0.286982,
+      "title": "September Is Historically the Worst Month for Stocks and These 3 ETFs Pay Up to 9 Percent While You Wait It Out",
+      "summary": "September has a history of negative returns for the S&P 500, making it a challenging month for investors. This article introduces three actively managed ETFs (BALI, DIVO, JAAA) that offer income-generating strategies to navigate this period of potential stock market weakness. The",
+      "url": "https://247wallst.com/investing/2026/08/18/september-is-historically-the-worst-month-for-stocks-and-these-3-etfs-pay-up-to-9-percent-while-you-wait-it-out/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-18T13:11:48+00:00",
+      "sentiment": 0.326307,
       "change_pct": -2.34,
-      "title_kr": "NVDA 주식은 AMD 도전과 헤지 펀드의 Rattle AI 거래 종료로 흔들립니다.",
-      "summary_kr": "NVIDIA Corporation 주식(NVDA)은 AMD와의 경쟁 심화와 상당한 헤지펀드 퇴출로 인해 AI 칩 수요 지속 가능성에 대한 우려가 높아지는 가운데 하락했습니다. AMD의 Advancing AI 2026 이벤트에 대한 Jefferies의 보고서는 AMD가 Nvidia의 A에 도전할 수 있음을 시사합니다."
+      "title_kr": "9월은 역사적으로 주식에 있어서 최악의 달이며 이 3가지 ETF는 기다리는 동안 최대 9%의 수익을 냅니다.",
+      "summary_kr": "9월은 S&P 500이 마이너스 수익률을 기록한 이력이 있어 투자자들에게 어려운 달입니다. 이 기사에서는 이 잠재적 주식 기간을 탐색하기 위한 소득 창출 전략을 제공하는 세 가지 적극적으로 관리되는 ETF(BALI, DIVO, JAAA)를 소개합니다."
+    },
+    {
+      "id": "av_7a0beac49d994f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 8.02% on Aug 18: What Investors Need To Know",
+      "summary": "Arm Holdings PLC (ARM) stock decreased by 8.02% on August 18, primarily due to a broader re-evaluation of high-valuation technology equities and concerns about slowing smartphone royalty growth. Management's signal of sequential deceleration in smartphone royalty growth and persi",
+      "url": "https://www.tradingkey.com/news/market-movers/262115542-market-movers-arm-20260818",
+      "source": "TradingKey",
+      "published_at": "2026-08-18T15:15:51+00:00",
+      "sentiment": -0.257099,
+      "change_pct": -2.34,
+      "title_kr": "Arm Holdings PLC 주식(ARM)은 8월 18일에 8.02% 하락했습니다: 투자자가 알아야 할 사항",
+      "summary_kr": "Arm Holdings PLC(ARM) 주식은 8월 18일 8.02% 하락했는데, 이는 주로 고평가 기술 주식에 대한 광범위한 재평가와 스마트폰 로열티 성장 둔화에 대한 우려 때문이었습니다. 스마트폰 로야 경영진의 순차적 감속 신호"
     },
     {
       "id": "av_84579ef28928db",
@@ -515,10 +472,25 @@
       "url": "https://www.tradingkey.com/news/market-movers/262115614-market-movers-anet-20260818",
       "source": "TradingKey",
       "published_at": "2026-08-18T16:21:12+00:00",
-      "sentiment": -0.213573,
+      "sentiment": -0.229023,
       "change_pct": -2.34,
       "title_kr": "8월 18일 Arista Networks Inc 주식(ANET)이 5.06% 하락했습니다: 투자자가 알아야 할 사항",
       "summary_kr": "Arista Networks Inc.(ANET) 주식은 과도한 내부자 매도, 가치 평가 우려, 투자 심리에 영향을 미치는 지속적인 공급망 병목 현상으로 인해 5.06% 하락했습니다. 기술 지표에는 MACD 매수 신호와 중립 RSI가 표시되지만, 다음과 같은 회사별 위험은"
+    },
+    {
+      "id": "av_6738618633c433",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVDA Stock Wobbles As AMD Challenge And Hedge Fund Exit Rattle AI Trade",
+      "summary": "NVIDIA Corporation stock (NVDA) is down amid increasing concerns over AI chip demand sustainability due to rising competition from AMD and a significant hedge fund exit. Jefferies' report on AMD's Advancing AI 2026 event suggests AMD could challenge Nvidia's AI dominance, with ma",
+      "url": "https://stockstotrade.com/news/nvidia-corporation-nvda-news-2026_08_18/",
+      "source": "StocksToTrade",
+      "published_at": "2026-08-18T13:38:43+00:00",
+      "sentiment": -0.292706,
+      "change_pct": -2.34,
+      "title_kr": "NVDA 주식은 AMD 도전과 헤지 펀드의 Rattle AI 거래 종료로 흔들립니다.",
+      "summary_kr": "NVIDIA Corporation 주식(NVDA)은 AMD와의 경쟁 심화와 상당한 헤지펀드 퇴출로 인해 AI 칩 수요 지속 가능성에 대한 우려가 높아지는 가운데 하락했습니다. AMD의 Advancing AI 2026 이벤트에 대한 Jefferies의 보고서는 AMD가 Nvidia의 A에 도전할 수 있음을 시사합니다."
     },
     {
       "id": "f_11f4fd0bf5206d",
@@ -535,19 +507,19 @@
       "summary_kr": "미국과 이란 간의 협상이 중단되면서 투자자들이 불안해졌음에도 불구하고 주요 암호화폐는 8월 17일 월요일에 상승했습니다."
     },
     {
-      "id": "av_07c5f0ceecce77",
+      "id": "av_e81e985ceb4193",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Eastern's Q2 Earnings Decline Y/Y on Lower Volume, Margin Pressure",
-      "summary": "The Eastern Company reported a decline in Q2 2026 adjusted net income and net sales year-over-year, primarily due to lower volume and margin pressure. Despite a one-time gain from acquisitions, underlying adjusted net income fell significantly. Management anticipates a stronger s",
-      "url": "https://www.tradingview.com/news/zacks:3f1f3a388094b:0-eastern-s-q2-earnings-decline-y-y-on-lower-volume-margin-pressure/",
-      "source": "TradingView",
-      "published_at": "2026-08-18T15:09:59+00:00",
-      "sentiment": 0.229992,
+      "title": "Cms Energy Corp stock hits 52-week low at 21.12 USD",
+      "summary": "CMS Energy Corp stock has hit a 52-week low of $21.12, trading just above it at $21.16, marking a 3.6% decline over the past year. Despite this downturn, the utility company maintains solid fundamentals with nearly 10% revenue growth and a low beta of 0.34, indicating less volati",
+      "url": "https://www.investing.com/news/company-news/cms-energy-corp-stock-hits-52week-low-at-2112-usd-93CH-4865561",
+      "source": "Investing.com",
+      "published_at": "2026-08-18T14:01:29+00:00",
+      "sentiment": -0.257974,
       "change_pct": -2.34,
-      "title_kr": "Eastern의 2분기 수익은 낮은 거래량, 마진 압박으로 인해 Y/Y 감소했습니다.",
-      "summary_kr": "Eastern Company는 주로 판매량 감소와 마진 압박으로 인해 2026년 2분기 조정 순이익과 순매출이 전년 대비 감소했다고 보고했습니다. 인수로 인한 일회성 이익에도 불구하고 기본 조정 순이익은 크게 감소했습니다. 관리 안티"
+      "title_kr": "Cms Energy Corp 주가는 21.12 USD로 52주 최저치를 기록했습니다.",
+      "summary_kr": "CMS Energy Corp 주식은 52주 최저치인 21.12달러를 기록했으며, 그 바로 위인 21.16달러에 거래되어 지난 한 해 동안 3.6% 하락했습니다. 이러한 경기 침체에도 불구하고 유틸리티 회사는 거의 10%의 매출 성장과 0.34의 낮은 베타로 탄탄한 펀더멘털을 유지하고 있습니다."
     },
     {
       "id": "av_4bddc24a67808e",
@@ -559,10 +531,40 @@
       "url": "https://www.tradingkey.com/news/market-movers/262115805-market-movers-glw-20260818",
       "source": "TradingKey",
       "published_at": "2026-08-18T19:18:01+00:00",
-      "sentiment": -0.124672,
+      "sentiment": -0.125935,
       "change_pct": -2.34,
       "title_kr": "Corning Inc 주식(GLW)은 8월 18일에 8.02% 하락했습니다: 투자자가 알아야 할 사항",
       "summary_kr": "Corning Inc(GLW) 주가는 Apple이 전체 유리 iPhone을 취소할 것이라는 우려로 인해 8.02% 하락했으며 이는 Corning의 디스플레이 재료 부문에 영향을 미칩니다. 이러한 하락세는 강한 반등 이후의 가치 평가 민감도와 광범위한 기술 부문 약세의 영향을 받았습니다. 에이"
+    },
+    {
+      "id": "av_722cf5bd96956f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 6.00% on Aug 18: Key Drivers Unveiled",
+      "summary": "Lam Research Corp (LRCX) stock dropped by 6.00% on August 18, driven by valuation-driven profit-taking, sector adjustments, and cautious market sentiment due to R&D capital commitments and insider share sales. Despite fundamental strengths in revenue and net profit, technical ind",
+      "url": "https://www.tradingkey.com/news/market-movers/262115379-market-movers-lrcx-20260818",
+      "source": "TradingKey",
+      "published_at": "2026-08-18T14:20:36+00:00",
+      "sentiment": -0.248189,
+      "change_pct": -2.34,
+      "title_kr": "Lam Research Corp 주식(LRCX)은 8월 18일 6.00% 하락: 주요 동인 공개",
+      "summary_kr": "Lam Research Corp(LRCX) 주가는 가치 평가 중심의 차익 실현, 부문 조정, R&D 자본 투입 및 내부자 주식 매각으로 인한 신중한 시장 심리로 인해 8월 18일 6.00% 하락했습니다. 수익과 순수익의 근본적인 강점에도 불구하고"
+    },
+    {
+      "id": "av_07c5f0ceecce77",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Eastern's Q2 Earnings Decline Y/Y on Lower Volume, Margin Pressure",
+      "summary": "The Eastern Company reported a decline in Q2 2026 adjusted net income and net sales year-over-year, primarily due to lower volume and margin pressure. Despite a one-time gain from acquisitions, underlying adjusted net income fell significantly. Management anticipates a stronger s",
+      "url": "https://www.tradingview.com/news/zacks:3f1f3a388094b:0-eastern-s-q2-earnings-decline-y-y-on-lower-volume-margin-pressure/",
+      "source": "TradingView",
+      "published_at": "2026-08-18T15:09:59+00:00",
+      "sentiment": 0.225183,
+      "change_pct": -2.34,
+      "title_kr": "Eastern의 2분기 수익은 낮은 거래량, 마진 압박으로 인해 Y/Y 감소했습니다.",
+      "summary_kr": "Eastern Company는 주로 판매량 감소와 마진 압박으로 인해 2026년 2분기 조정 순이익과 순매출이 전년 대비 감소했다고 보고했습니다. 인수로 인한 일회성 이익에도 불구하고 기본 조정 순이익은 크게 감소했습니다. 관리 안티"
     },
     {
       "id": "av_5a14c798103266",
@@ -574,40 +576,10 @@
       "url": "https://www.marketscreener.com/news/goldman-sachs-to-buy-lcn-capital-partners-in-up-to-410-million-deal-ce7859dcd081f420",
       "source": "marketscreener.com",
       "published_at": "2026-08-18T11:16:15+00:00",
-      "sentiment": 0.322437,
+      "sentiment": 0.321155,
       "change_pct": -2.34,
       "title_kr": "Goldman Sachs, 최대 4억 1천만 달러 규모의 LCN Capital Partners 인수",
       "summary_kr": "Goldman Sachs는 잠재적으로 최대 4억 1천만 달러 규모의 거래로 LCN Capital Partners를 인수할 계획입니다. 이번 인수는 ETF 제공업체인 Neos를 23억 달러에 인수하기로 한 최근 합의를 포함하여 Goldman Sachs의 다른 전략적 움직임에 따른 것입니다."
-    },
-    {
-      "id": "av_a3fc66efd1b29f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Allot Leads Industry and Academic Partners to Launch Post-Quantum Communications Consortium",
-      "summary": "Allot Ltd. is leading a new Post-Quantum Communications (PQC) Consortium to develop technologies for securing communications and protecting data against future quantum computing threats. Supported by the Israel Innovation Authority, the consortium includes major tech companies li",
-      "url": "https://sg.finance.yahoo.com/news/allot-leads-industry-academic-partners-100100725.html",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-08-18T09:42:17+00:00",
-      "sentiment": 0.344624,
-      "change_pct": -2.34,
-      "title_kr": "Allot는 업계 및 학계 파트너를 이끌고 Post-Quantum Communications 컨소시엄을 시작합니다.",
-      "summary_kr": "Allot Ltd.는 미래의 양자 컴퓨팅 위협으로부터 통신을 보호하고 데이터를 보호하기 위한 기술을 개발하기 위해 새로운 PQC(Post-Quantum Communications) 컨소시엄을 주도하고 있습니다. 이스라엘 혁신청(Israel Innovation Authority)의 지원을 받는 이 컨소시엄에는 주요"
-    },
-    {
-      "id": "av_5cac06959ce558",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Mitsubishi UFJ Asset Management Co. Ltd. Acquires 205,919 Shares of Arista Networks, Inc. $ANET",
-      "summary": "Mitsubishi UFJ Asset Management Co. Ltd. increased its stake in Arista Networks (NYSE:ANET) by 8.7% during the second quarter, purchasing an additional 205,919 shares. The firm now owns 2,578,287 shares valued at $437.99 million. This comes as other institutional investors have a",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mitsubishi-ufj-asset-management-co-ltd-acquires-205919-shares-of-arista-networks-inc-anet-2026-08-18/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-18T09:50:09+00:00",
-      "sentiment": 0.339676,
-      "change_pct": -2.34,
-      "title_kr": "Mitsubishi UFJ 자산 관리 주식회사, Arista Networks, Inc.의 주식 205,919주 인수 $ANET",
-      "summary_kr": "Mitsubishi UFJ Asset Management Co. Ltd.는 2분기 동안 Arista Networks(NYSE:ANET)의 지분을 8.7% 늘려 205,919주를 추가로 매입했습니다. 이 회사는 현재 4억 3,799만 달러 상당의 2,578,287주를 소유하고 있습니다. 이것은 다른 기관으로 제공됩니다"
     },
     {
       "id": "av_ca9e4a8759d21f",
@@ -619,7 +591,7 @@
       "url": "https://www.tipranks.com/news/nvidia-vs-sandisk-morgan-stanley-reveals-which-ai-stock-is-crowded-and-which-is-heavily-under-owned",
       "source": "TipRanks",
       "published_at": "2026-08-18T13:13:40+00:00",
-      "sentiment": 0.254764,
+      "sentiment": 0.256261,
       "change_pct": -2.34,
       "title_kr": "Nvidia 대 SanDisk: Morgan Stanley는 어느 AI 주식이 붐비고 어느 주식이 심하게 과소평가되었는지 밝힙니다.",
       "summary_kr": "Morgan Stanley의 데이터에 따르면 Nvidia(NVDA)는 큰 시가총액에도 불구하고 기관 소유권이 S&P 500 가중치보다 훨씬 낮으며 소유가 가장 적은 대형 기술주입니다. 이와 대조적으로 SanDisk(SNDK)는 i에서 가장 과대보유된 주식입니다."
@@ -634,25 +606,55 @@
       "url": "https://www.investing.com/news/transcripts/fabrinet-at-rosenblatt-ai-summit-growth-broadens-beyond-nvidia-93CH-4865847",
       "source": "Investing.com",
       "published_at": "2026-08-18T18:12:14+00:00",
-      "sentiment": -0.128049,
+      "sentiment": -0.123495,
       "change_pct": -2.34,
       "title_kr": "Rosenblatt AI Summit의 Fabrinet: 엔비디아를 넘어 성장 확대",
       "summary_kr": "Fabrinet(FN)은 Rosenblatt의 제6차 연례 기술 서밋에서 데이터 센터 광학 분야의 급속한 성장을 강조하며 2026 회계연도까지 데이터 센터 상호 연결 사업이 10억 달러에 달하는 운영 속도를 달성할 것이라고 강조했습니다. 회사는 용량을 크게 확장하고 있습니다."
     },
     {
-      "id": "av_722cf5bd96956f",
+      "id": "av_a3fc66efd1b29f",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Lam Research Corp Stock (LRCX) Moved Down by 6.00% on Aug 18: Key Drivers Unveiled",
-      "summary": "Lam Research Corp (LRCX) stock dropped by 6.00% on August 18, driven by valuation-driven profit-taking, sector adjustments, and cautious market sentiment due to R&D capital commitments and insider share sales. Despite fundamental strengths in revenue and net profit, technical ind",
-      "url": "https://www.tradingkey.com/news/market-movers/262115379-market-movers-lrcx-20260818",
-      "source": "TradingKey",
-      "published_at": "2026-08-18T14:20:36+00:00",
-      "sentiment": -0.218336,
+      "title": "Allot Leads Industry and Academic Partners to Launch Post-Quantum Communications Consortium",
+      "summary": "Allot Ltd. is leading a new Post-Quantum Communications (PQC) Consortium to develop technologies for securing communications and protecting data against future quantum computing threats. Supported by the Israel Innovation Authority, the consortium includes major tech companies li",
+      "url": "https://sg.finance.yahoo.com/news/allot-leads-industry-academic-partners-100100725.html",
+      "source": "Yahoo Finance Singapore",
+      "published_at": "2026-08-18T09:42:17+00:00",
+      "sentiment": 0.33211,
       "change_pct": -2.34,
-      "title_kr": "Lam Research Corp 주식(LRCX)은 8월 18일 6.00% 하락: 주요 동인 공개",
-      "summary_kr": "Lam Research Corp(LRCX) 주가는 가치 평가 중심의 차익 실현, 부문 조정, R&D 자본 투입 및 내부자 주식 매각으로 인한 신중한 시장 심리로 인해 8월 18일 6.00% 하락했습니다. 수익과 순수익의 근본적인 강점에도 불구하고"
+      "title_kr": "Allot는 업계 및 학계 파트너를 이끌고 Post-Quantum Communications 컨소시엄을 시작합니다.",
+      "summary_kr": "Allot Ltd.는 미래의 양자 컴퓨팅 위협으로부터 통신을 보호하고 데이터를 보호하기 위한 기술을 개발하기 위해 새로운 PQC(Post-Quantum Communications) 컨소시엄을 주도하고 있습니다. 이스라엘 혁신청(Israel Innovation Authority)의 지원을 받는 이 컨소시엄에는 주요"
+    },
+    {
+      "id": "av_b54ab776a45f2b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Fabric.AI and Kopin Launch Joint Steering Committee for Neural I/o Optical Interconnect Platform",
+      "summary": "Fabric.AI and Kopin Corporation have formed a Joint Steering Committee to advance their Neural I/o MicroLED-based optical interconnect platform toward commercialization. This initiative aims to align development with industry needs, including those within NVIDIA's NVLink framewor",
+      "url": "https://www.quiverquant.com/news/Fabric.AI+and+Kopin+Launch+Joint+Steering+Committee+for+Neural+I%2Fo+Optical+Interconnect+Platform",
+      "source": "Quiver Quantitative",
+      "published_at": "2026-08-18T13:11:57+00:00",
+      "sentiment": 0.242417,
+      "change_pct": -2.34,
+      "title_kr": "Fabric.AI와 Kopin이 신경 I/o 광학 인터커넥트 플랫폼을 위한 공동 운영 위원회 출범",
+      "summary_kr": "Fabric.AI와 Kopin Corporation은 Neural I/o MicroLED 기반 광 상호 연결 플랫폼을 상용화하기 위해 공동 운영 위원회를 구성했습니다. 이 이니셔티브는 NVID 내 요구 사항을 포함하여 업계 요구 사항에 맞춰 개발을 조정하는 것을 목표로 합니다."
+    },
+    {
+      "id": "av_5cac06959ce558",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Mitsubishi UFJ Asset Management Co. Ltd. Acquires 205,919 Shares of Arista Networks, Inc. $ANET",
+      "summary": "Mitsubishi UFJ Asset Management Co. Ltd. increased its stake in Arista Networks (NYSE:ANET) by 8.7% during the second quarter, purchasing an additional 205,919 shares. The firm now owns 2,578,287 shares valued at $437.99 million. This comes as other institutional investors have a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mitsubishi-ufj-asset-management-co-ltd-acquires-205919-shares-of-arista-networks-inc-anet-2026-08-18/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-18T09:50:09+00:00",
+      "sentiment": 0.324981,
+      "change_pct": -2.34,
+      "title_kr": "Mitsubishi UFJ 자산 관리 주식회사, Arista Networks, Inc.의 주식 205,919주 인수 $ANET",
+      "summary_kr": "Mitsubishi UFJ Asset Management Co. Ltd.는 2분기 동안 Arista Networks(NYSE:ANET)의 지분을 8.7% 늘려 205,919주를 추가로 매입했습니다. 이 회사는 현재 4억 3,799만 달러 상당의 2,578,287주를 소유하고 있습니다. 이것은 다른 기관으로 제공됩니다"
     },
     {
       "id": "av_233b7ee9550781",
@@ -664,7 +666,7 @@
       "url": "https://ca.investing.com/news/stock-market-news/teradyne-president--ceo-smith-sells-17m-in-shares-93CH-4806390",
       "source": "Investing.com Canada",
       "published_at": "2026-08-18T15:36:16+00:00",
-      "sentiment": 0.148977,
+      "sentiment": 0.136584,
       "change_pct": -2.34,
       "title_kr": "Teradyne 사장 겸 CEO Smith, 170만 달러 주식 매각 By Investing.com",
       "summary_kr": "Teradyne 사장 겸 CEO인 Gregory Stephen Smith는 최근 주당 425달러에 170만 달러 상당의 회사 주식 4,000주를 매각했습니다. 이번 매각은 미리 준비된 거래 계획의 일부였습니다. 회사는 또한 월스트리트 기대치를 뛰어넘는 강력한 2분기 실적을 보고했습니다."
@@ -679,55 +681,10 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-univest-financial-corp-invests-971000-in-oracle-corporation-orcl-2026-08-18/",
       "source": "MarketBeat",
       "published_at": "2026-08-18T10:27:04+00:00",
-      "sentiment": -0.268548,
+      "sentiment": -0.262221,
       "change_pct": -2.34,
       "title_kr": "UNIVEST FINANCIAL Corp, Oracle Corporation $ORCL에 971,000달러 투자",
       "summary_kr": "UNIVEST FINANCIAL Corp는 최근 Oracle Corporation(NYSE:ORCL)의 신규 지분 6,625주를 인수했는데, 이는 2분기 동안 약 971,000달러 상당의 가치입니다. 이러한 움직임은 기관 투자자들이 Oracle의 보유 자산을 조정하는 추세의 일부입니다."
-    },
-    {
-      "id": "av_b16895f4c5d23d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Bet on a Broadcom Bounce With This ETF",
-      "summary": "Broadcom's stock recently dipped due to security vulnerability reports and concerns about AI funding, placing it in a bear market. While short-term traders might consider the Direxion Daily AVGO Bear 1X Shares (AVS), the Direxion Daily AVGO Bull 2X (AVL) presents an opportunity f",
-      "url": "https://www.etftrends.com/leveraged-inverse-content-hub/bet-on-a-broadcom-bounce-with-this-etf/",
-      "source": "ETF Trends",
-      "published_at": "2026-08-18T11:11:13+00:00",
-      "sentiment": 0.246119,
-      "change_pct": -2.34,
-      "title_kr": "이 ETF로 Broadcom 바운스에 베팅하세요",
-      "summary_kr": "Broadcom의 주가는 최근 보안 취약성 보고와 AI 자금 조달에 대한 우려로 인해 하락하여 약세장에 진입했습니다. 단기 거래자는 Direxion Daily AVGO Bear 1X Shares(AVS)를 고려할 수 있지만 Direxion Daily AVGO Bull 2X(AVL) 프리세는"
-    },
-    {
-      "id": "av_2f717ac5658daf",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "30,767 Shares in Analog Devices, Inc. $ADI Acquired by Meeder Asset Management Inc.",
-      "summary": "Meeder Asset Management Inc. recently acquired 30,767 shares of Analog Devices (NASDAQ:ADI) valued at approximately $12.22 million during the second quarter. Despite significant insider selling totaling over $42 million in the past 90 days, analysts maintain a \"Moderate Buy\" rati",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-30767-shares-in-analog-devices-inc-adi-acquired-by-meeder-asset-management-inc-2026-08-18/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-18T11:00:58+00:00",
-      "sentiment": 0.244791,
-      "change_pct": -2.34,
-      "title_kr": "Analog Devices, Inc.의 주식 30,767개 $ADI, Meeder Asset Management Inc.에 인수됨",
-      "summary_kr": "Meeder Asset Management Inc.는 최근 2분기 동안 약 1,222만 달러 상당의 Analog Devices(NASDAQ:ADI) 주식 30,767주를 인수했습니다. 지난 90일 동안 총 4,200만 달러가 넘는 상당한 내부자 매각에도 불구하고 분석가들은"
-    },
-    {
-      "id": "av_797e4a98579781",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lockheed Wins Slew Of Contracts. Air Force Doles Out $920 Mil Award.",
-      "summary": "Lockheed Martin secured multiple contracts worth over $152 million, alongside 24 other companies awarded positions on a $920 million deal for next-generation aerospace ground equipment by the Department of Defense. This comes as defense stocks experienced mixed performance early ",
-      "url": "https://www.investors.com/news/lockheed-martin-defense-contracts-152-million-air-force-24-companies-920million-awards/",
-      "source": "Investor's Business Daily",
-      "published_at": "2026-08-18T15:06:37+00:00",
-      "sentiment": 0.137798,
-      "change_pct": -2.34,
-      "title_kr": "록히드가 수많은 계약을 따냈습니다. 공군은 9억 2천만 달러의 보상을 받았습니다.",
-      "summary_kr": "록히드 마틴은 1억 5,200만 달러가 넘는 여러 계약을 체결했으며, 다른 24개 회사는 국방부의 차세대 항공우주 지상 장비에 대한 9억 2,000만 달러 규모의 계약을 체결했습니다. 이는 방산주가 경험한 믹스로 인해 발생합니다."
     },
     {
       "id": "av_942812c42aa998",
@@ -739,10 +696,25 @@
       "url": "https://www.quiverquant.com/news/Allot+Ltd.+Leads+New+Post-Quantum+Communications+Consortium+to+Advance+Quantum-Safe+Networks",
       "source": "Quiver Quantitative",
       "published_at": "2026-08-18T09:42:17+00:00",
-      "sentiment": 0.269716,
+      "sentiment": 0.279261,
       "change_pct": -2.34,
       "title_kr": "Allot Ltd., 양자 안전 네트워크 발전을 위해 새로운 양자 이후 통신 컨소시엄 주도",
       "summary_kr": "Allot Ltd.는 Post-Quantum Communications(PQC) 컨소시엄의 창립 멤버이자 의장 역할을 발표했습니다. 이스라엘 혁신청(Israel Innovation Authority)이 지원하는 이 컨소시엄은 미래의 위협으로부터 보호할 수 있는 보안 통신 기술을 개발하는 것을 목표로 합니다."
+    },
+    {
+      "id": "av_2f717ac5658daf",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "30,767 Shares in Analog Devices, Inc. $ADI Acquired by Meeder Asset Management Inc.",
+      "summary": "Meeder Asset Management Inc. recently acquired 30,767 shares of Analog Devices (NASDAQ:ADI) valued at approximately $12.22 million during the second quarter. Despite significant insider selling totaling over $42 million in the past 90 days, analysts maintain a \"Moderate Buy\" rati",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-30767-shares-in-analog-devices-inc-adi-acquired-by-meeder-asset-management-inc-2026-08-18/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-18T11:00:58+00:00",
+      "sentiment": 0.242901,
+      "change_pct": -2.34,
+      "title_kr": "Analog Devices, Inc.의 주식 30,767개 $ADI, Meeder Asset Management Inc.에 인수됨",
+      "summary_kr": "Meeder Asset Management Inc.는 최근 2분기 동안 약 1,222만 달러 상당의 Analog Devices(NASDAQ:ADI) 주식 30,767주를 인수했습니다. 지난 90일 동안 총 4,200만 달러가 넘는 상당한 내부자 매각에도 불구하고 분석가들은"
     },
     {
       "id": "f_9f988b0139f0fe",
@@ -768,39 +740,39 @@
       "url": "https://finnhub.io/api/news?id=c24b01b3ad196f30a2d939466dd1d4149bfc40127392e077aa0b39895d08c5e9",
       "source": "SeekingAlpha",
       "published_at": "2026-08-17T15:20:35+00:00",
-      "change_pct": -4.42,
+      "change_pct": -4.45,
       "title_kr": "Apple 메모리 역풍은 일시 중지 이유입니다(등급 다운그레이드).",
       "summary_kr": "Apple은 메모리 가격 상승, 공급망 중단, iPhone 판매에 대한 과도한 의존으로 인해 심각한 역풍에 직면해 있습니다. 여기에서 AAPL 주식에 대해 자세히 알아보세요."
     },
     {
-      "id": "av_ed2c6f017bd654",
+      "id": "av_b16895f4c5d23d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Goldman Sachs: Nvidia Exposure Attractive, But Valuation Warrants Caution (Downgrade) (GS)",
-      "summary": "Goldman Sachs's exposure to Nvidia's AI infrastructure partnership offers attractive revenue streams, but its valuation warrants caution. The company's durable revenues are growing but still lag market perception and key peers, and its AWM's ROE is behind GBM. The author is downg",
-      "url": "https://seekingalpha.com/article/4937665-goldman-sachs-nvidia-exposure-attractive-but-valuation-warrants-caution-downgrade",
-      "source": "Seeking Alpha",
-      "published_at": "2026-08-18T12:08:05+00:00",
-      "sentiment": -0.198119,
+      "title": "Bet on a Broadcom Bounce With This ETF",
+      "summary": "Broadcom's stock recently dipped due to security vulnerability reports and concerns about AI funding, placing it in a bear market. While short-term traders might consider the Direxion Daily AVGO Bear 1X Shares (AVS), the Direxion Daily AVGO Bull 2X (AVL) presents an opportunity f",
+      "url": "https://www.etftrends.com/leveraged-inverse-content-hub/bet-on-a-broadcom-bounce-with-this-etf/",
+      "source": "ETF Trends",
+      "published_at": "2026-08-18T11:11:13+00:00",
+      "sentiment": 0.219675,
       "change_pct": -2.34,
-      "title_kr": "Goldman Sachs: Nvidia 노출은 매력적이지만 가치 평가는 주의가 필요함(다운그레이드)(GS)",
-      "summary_kr": "Nvidia의 AI 인프라 파트너십에 대한 Goldman Sachs의 노출은 매력적인 수익원을 제공하지만 그 가치 평가에는 주의가 필요합니다. 회사의 내구성 있는 수익은 증가하고 있지만 여전히 시장 인식과 주요 동종 업체보다 뒤처져 있으며 AWM의 ROE는 GBM보다 뒤떨어져 있습니다."
+      "title_kr": "이 ETF로 Broadcom 바운스에 베팅하세요",
+      "summary_kr": "Broadcom의 주가는 최근 보안 취약성 보고와 AI 자금 조달에 대한 우려로 인해 하락하여 약세장에 진입했습니다. 단기 거래자는 Direxion Daily AVGO Bear 1X Shares(AVS)를 고려할 수 있지만 Direxion Daily AVGO Bull 2X(AVL) 프리세는"
     },
     {
-      "id": "av_868d458ea14ca8",
+      "id": "av_797e4a98579781",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "MidFirst Bank Makes New $808,000 Investment in Oracle Corporation $ORCL",
-      "summary": "MidFirst Bank has initiated a new position in Oracle Corporation, purchasing 5,515 shares valued at approximately $808,000 during the second quarter. This move comes alongside significant investments and changes in holdings by other institutional investors like Norges Bank, Bank ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-midfirst-bank-makes-new-808000-investment-in-oracle-corporation-orcl-2026-08-18/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-18T10:21:04+00:00",
-      "sentiment": -0.239357,
+      "title": "Lockheed Wins Slew Of Contracts. Air Force Doles Out $920 Mil Award.",
+      "summary": "Lockheed Martin secured multiple contracts worth over $152 million, alongside 24 other companies awarded positions on a $920 million deal for next-generation aerospace ground equipment by the Department of Defense. This comes as defense stocks experienced mixed performance early ",
+      "url": "https://www.investors.com/news/lockheed-martin-defense-contracts-152-million-air-force-24-companies-920million-awards/",
+      "source": "Investor's Business Daily",
+      "published_at": "2026-08-18T15:06:37+00:00",
+      "sentiment": 0.120692,
       "change_pct": -2.34,
-      "title_kr": "MidFirst Bank, Oracle Corporation $ORCL에 808,000달러 신규 투자",
-      "summary_kr": "MidFirst Bank는 2분기 동안 약 $808,000 상당의 주식 5,515주를 매입하여 Oracle Corporation에 새로운 지위를 부여했습니다. 이러한 움직임은 다음과 같은 다른 기관 투자자들의 상당한 투자 및 보유 지분 변화와 함께 이루어집니다."
+      "title_kr": "록히드가 수많은 계약을 따냈습니다. 공군은 9억 2천만 달러의 보상을 받았습니다.",
+      "summary_kr": "록히드 마틴은 1억 5,200만 달러가 넘는 여러 계약을 체결했으며, 다른 24개 회사는 국방부의 차세대 항공우주 지상 장비에 대한 9억 2,000만 달러 규모의 계약을 체결했습니다. 이는 방산주가 경험한 믹스로 인해 발생합니다."
     },
     {
       "id": "av_e0c06976e58a22",
@@ -812,40 +784,25 @@
       "url": "https://www.stocktitan.net/sec-filings/NTWO/8-k-newbury-street-ii-acquisition-corp-reports-material-event-b14953b8da6e.html",
       "source": "Stock Titan",
       "published_at": "2026-08-18T11:41:57+00:00",
-      "sentiment": 0.201351,
+      "sentiment": 0.201751,
       "change_pct": -2.34,
       "title_kr": "FORT Robotics SPAC 거래로 Newbury Street II(NTWO)와 새로운 자금 조달",
       "summary_kr": "FORT Robotics는 5억 달러 상당의 주식 대 주식 사업 결합을 통해 Newbury Street II Acquisition Corp(NTWO)과 합병하기로 합의했으며, FORT 주주는 주당 10.00달러에 보통주를 받게 됩니다. 이번 거래에는 3,125의 사모가 포함되어 있습니다."
     },
     {
-      "id": "av_6451611a21dedf",
+      "id": "av_868d458ea14ca8",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Mitsubishi UFJ Asset Management Co. Ltd. Makes New Investment in Cadence Design Systems, Inc. $CDNS",
-      "summary": "Mitsubishi UFJ Asset Management Co. Ltd. has made a new significant investment in Cadence Design Systems, acquiring 780,375 shares valued at approximately $292.89 million in the second quarter. This move makes them a substantial institutional investor, holding about 0.28% of the ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-mitsubishi-ufj-asset-management-co-ltd-makes-new-investment-in-cadence-design-systems-inc-cdns-2026-08-18/",
+      "title": "MidFirst Bank Makes New $808,000 Investment in Oracle Corporation $ORCL",
+      "summary": "MidFirst Bank has initiated a new position in Oracle Corporation, purchasing 5,515 shares valued at approximately $808,000 during the second quarter. This move comes alongside significant investments and changes in holdings by other institutional investors like Norges Bank, Bank ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-midfirst-bank-makes-new-808000-investment-in-oracle-corporation-orcl-2026-08-18/",
       "source": "MarketBeat",
-      "published_at": "2026-08-18T09:49:22+00:00",
-      "sentiment": 0.239753,
+      "published_at": "2026-08-18T10:21:04+00:00",
+      "sentiment": -0.223429,
       "change_pct": -2.34,
-      "title_kr": "미쓰비시 UFJ 자산 관리 주식회사, Cadence Design Systems, Inc. $CDNS에 신규 투자",
-      "summary_kr": "Mitsubishi UFJ Asset Management Co. Ltd.는 Cadence Design Systems에 새로운 대규모 투자를 하여 2분기에 약 2억 9289만 달러 상당의 주식 780,375주를 인수했습니다. 이러한 움직임으로 인해 그들은 상당한 기관 투자가가 되었습니다."
-    },
-    {
-      "id": "av_427317102fe7b6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA and Allot join a consortium to protect data from quantum computers",
-      "summary": "Allot Ltd. announced its role as a founding member and Chair of a new Post-Quantum Communications (PQC) Consortium, supported by the Israel Innovation Authority. This initiative brings together major technology companies, including NVIDIA, and leading Israeli universities to rese",
-      "url": "https://www.stocktitan.net/news/ALLT/allot-leads-industry-and-academic-partners-to-launch-post-quantum-gnxrh0az5st4.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-18T09:42:17+00:00",
-      "sentiment": 0.242317,
-      "change_pct": -2.34,
-      "title_kr": "NVIDIA와 Allot, 양자 컴퓨터로부터 데이터를 보호하기 위해 컨소시엄에 합류",
-      "summary_kr": "Allot Ltd.는 이스라엘 혁신청(Israel Innovation Authority)의 지원을 받는 새로운 PQC(Post-Quantum Communications) 컨소시엄의 창립 멤버이자 의장 역할을 발표했습니다. 이 이니셔티브에는 NVIDIA를 포함한 주요 기술 기업과 이스라엘의 선도적인 기업이 함께 참여합니다."
+      "title_kr": "MidFirst Bank, Oracle Corporation $ORCL에 808,000달러 신규 투자",
+      "summary_kr": "MidFirst Bank는 2분기 동안 약 $808,000 상당의 주식 5,515주를 매입하여 Oracle Corporation에 새로운 지위를 부여했습니다. 이러한 움직임은 다음과 같은 다른 기관 투자자들의 상당한 투자 및 보유 지분 변화와 함께 이루어집니다."
     },
     {
       "id": "f_c7392eb8cb7568",
@@ -862,6 +819,19 @@
       "summary_kr": "금요일에 움직이는 다우존스 주식에 대해 궁금하십니까? 오늘 세션에서 다우존스 지수 내 최고 변동 항목을 살펴보는 데 참여해 보세요."
     },
     {
+      "id": "av_71a965d71a3536",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Infleqtion to Participate in Key Investor and Industry Conferences Throughout Fall 2026",
+      "summary": "Infleqtion (NYSE: INFQ), a leader in quantum computing and sensing, announced its participation in a series of investor and industry conferences throughout Fall 2026. Key executives, including CEO Matthew Kinsella, CTO Pranav Gokhale, and CFO Ilan Hart, will present at various ev",
+      "url": "https://finance.yahoo.com/technology/ai/articles/infleqtion-participate-key-investor-industry-131500212.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T13:42:29+00:00",
+      "sentiment": 0.135042,
+      "change_pct": -2.34
+    },
+    {
       "id": "f_7f80e6d977fc26",
       "provider": "finnhub",
       "ticker": "MRVL",
@@ -872,21 +842,6 @@
       "source": "ChartMill",
       "published_at": "2026-08-18T19:05:01+00:00",
       "change_pct": -7.82
-    },
-    {
-      "id": "av_3d8ad0ab5d0dbe",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Requisite Capital Management LLC Purchases Shares of 24,317 Cisco Systems, Inc. $CSCO",
-      "summary": "Requisite Capital Management LLC has acquired 24,317 shares of Cisco Systems, Inc. (NASDAQ:CSCO) valued at approximately $2.86 million, making it their 14th-largest holding. Despite recent strong quarterly results and optimistic guidance, concerns about higher memory costs and pr",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-requisite-capital-management-llc-purchases-shares-of-24317-cisco-systems-inc-csco-2026-08-18/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-18T09:50:34+00:00",
-      "sentiment": 0.230011,
-      "change_pct": -2.34,
-      "title_kr": "Requisite Capital Management LLC는 Cisco Systems, Inc.의 주식 24,317주를 매입합니다. $CSCO",
-      "summary_kr": "Requisite Capital Management LLC는 Cisco Systems, Inc.(NASDAQ:CSCO)의 주식 24,317주(약 286만 달러 상당)를 인수하여 14번째로 큰 보유 주식이 되었습니다. 최근 강력한 분기별 실적과 낙관적인 지침에도 불구하고, 더 높은 성장률에 대한 우려"
     },
     {
       "id": "f_3aa177d1c8f1c6",
@@ -902,19 +857,64 @@
       "summary_kr": "Brunswick Corp.의 CEO인 David Foulkes는 CNBC에 프리미엄 보트 판매가 계속 유지되는 반면 가치 옵션은 부진하다고 말했습니다."
     },
     {
-      "id": "av_55556fcc34f17a",
+      "id": "av_427317102fe7b6",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Pallas Capital Advisors LLC Acquires New Position in Argan, Inc. $AGX",
-      "summary": "Pallas Capital Advisors LLC has acquired a new position in Argan, Inc. (NYSE:AGX) by purchasing 1,881 shares valued at approximately $1.5 million. This comes as Argan reported strong quarterly results, exceeding analyst expectations with EPS of $3.24 and revenue up 50.2% year-ove",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-pallas-capital-advisors-llc-acquires-new-position-in-argan-inc-agx-2026-08-18/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-18T10:12:13+00:00",
-      "sentiment": 0.197994,
+      "title": "NVIDIA and Allot join a consortium to protect data from quantum computers",
+      "summary": "Allot Ltd. announced its role as a founding member and Chair of a new Post-Quantum Communications (PQC) Consortium, supported by the Israel Innovation Authority. This initiative brings together major technology companies, including NVIDIA, and leading Israeli universities to rese",
+      "url": "https://www.stocktitan.net/news/ALLT/allot-leads-industry-and-academic-partners-to-launch-post-quantum-gnxrh0az5st4.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-18T09:42:17+00:00",
+      "sentiment": 0.22249,
       "change_pct": -2.34,
-      "title_kr": "Pallas Capital Advisors LLC, Argan, Inc. $AGX에서 새로운 직위 인수",
-      "summary_kr": "Pallas Capital Advisors LLC는 약 150만 달러 상당의 주식 1,881주를 매입하여 Argan, Inc.(NYSE:AGX)의 새로운 지위를 인수했습니다. 이는 Argan이 EPS 3.24달러와 수익으로 분석가 기대치를 뛰어 넘는 강력한 분기별 결과를 보고한 데 따른 것입니다."
+      "title_kr": "NVIDIA와 Allot, 양자 컴퓨터로부터 데이터를 보호하기 위해 컨소시엄에 합류",
+      "summary_kr": "Allot Ltd.는 이스라엘 혁신청(Israel Innovation Authority)의 지원을 받는 새로운 PQC(Post-Quantum Communications) 컨소시엄의 창립 멤버이자 의장 역할을 발표했습니다. 이 이니셔티브에는 NVIDIA를 포함한 주요 기술 기업과 이스라엘의 선도적인 기업이 함께 참여합니다."
+    },
+    {
+      "id": "av_ed2c6f017bd654",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Goldman Sachs: Nvidia Exposure Attractive, But Valuation Warrants Caution (Downgrade) (GS)",
+      "summary": "Goldman Sachs's exposure to Nvidia's AI infrastructure partnership offers attractive revenue streams, but its valuation warrants caution. The company's durable revenues are growing but still lag market perception and key peers, and its AWM's ROE is behind GBM. The author is downg",
+      "url": "https://seekingalpha.com/article/4937665-goldman-sachs-nvidia-exposure-attractive-but-valuation-warrants-caution-downgrade",
+      "source": "Seeking Alpha",
+      "published_at": "2026-08-18T12:08:05+00:00",
+      "sentiment": -0.154944,
+      "change_pct": -2.34,
+      "title_kr": "Goldman Sachs: Nvidia 노출은 매력적이지만 가치 평가는 주의가 필요함(다운그레이드)(GS)",
+      "summary_kr": "Nvidia의 AI 인프라 파트너십에 대한 Goldman Sachs의 노출은 매력적인 수익원을 제공하지만 그 가치 평가에는 주의가 필요합니다. 회사의 내구성 있는 수익은 증가하고 있지만 여전히 시장 인식과 주요 동종 업체보다 뒤처져 있으며 AWM의 ROE는 GBM보다 뒤떨어져 있습니다."
+    },
+    {
+      "id": "av_3d8ad0ab5d0dbe",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Requisite Capital Management LLC Purchases Shares of 24,317 Cisco Systems, Inc. $CSCO",
+      "summary": "Requisite Capital Management LLC has acquired 24,317 shares of Cisco Systems, Inc. (NASDAQ:CSCO) valued at approximately $2.86 million, making it their 14th-largest holding. Despite recent strong quarterly results and optimistic guidance, concerns about higher memory costs and pr",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-requisite-capital-management-llc-purchases-shares-of-24317-cisco-systems-inc-csco-2026-08-18/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-18T09:50:34+00:00",
+      "sentiment": 0.21074,
+      "change_pct": -2.34,
+      "title_kr": "Requisite Capital Management LLC는 Cisco Systems, Inc.의 주식 24,317주를 매입합니다. $CSCO",
+      "summary_kr": "Requisite Capital Management LLC는 Cisco Systems, Inc.(NASDAQ:CSCO)의 주식 24,317주(약 286만 달러 상당)를 인수하여 14번째로 큰 보유 주식이 되었습니다. 최근 강력한 분기별 실적과 낙관적인 지침에도 불구하고, 더 높은 성장률에 대한 우려"
+    },
+    {
+      "id": "av_6451611a21dedf",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Mitsubishi UFJ Asset Management Co. Ltd. Makes New Investment in Cadence Design Systems, Inc. $CDNS",
+      "summary": "Mitsubishi UFJ Asset Management Co. Ltd. has made a new significant investment in Cadence Design Systems, acquiring 780,375 shares valued at approximately $292.89 million in the second quarter. This move makes them a substantial institutional investor, holding about 0.28% of the ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-mitsubishi-ufj-asset-management-co-ltd-makes-new-investment-in-cadence-design-systems-inc-cdns-2026-08-18/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-18T09:49:22+00:00",
+      "sentiment": 0.208248,
+      "change_pct": -2.34,
+      "title_kr": "미쓰비시 UFJ 자산 관리 주식회사, Cadence Design Systems, Inc. $CDNS에 신규 투자",
+      "summary_kr": "Mitsubishi UFJ Asset Management Co. Ltd.는 Cadence Design Systems에 새로운 대규모 투자를 하여 2분기에 약 2억 9289만 달러 상당의 주식 780,375주를 인수했습니다. 이러한 움직임으로 인해 그들은 상당한 기관 투자가가 되었습니다."
     },
     {
       "id": "f_5272da6786f84f",
@@ -926,19 +926,6 @@
       "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa",
       "source": "ChartMill",
       "published_at": "2026-08-18T18:05:02+00:00",
-      "change_pct": -2.34
-    },
-    {
-      "id": "av_71a965d71a3536",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Infleqtion to Participate in Key Investor and Industry Conferences Throughout Fall 2026",
-      "summary": "Infleqtion (NYSE: INFQ), a leader in quantum computing and sensing, announced its participation in a series of investor and industry conferences throughout Fall 2026. Key executives, including CEO Matthew Kinsella, CTO Pranav Gokhale, and CFO Ilan Hart, will present at various ev",
-      "url": "https://finance.yahoo.com/technology/ai/articles/infleqtion-participate-key-investor-industry-131500212.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:42:29+00:00",
-      "sentiment": 0.108145,
       "change_pct": -2.34
     },
     {
@@ -978,19 +965,19 @@
       "change_pct": -7.82
     },
     {
-      "id": "av_b09f0cb609112c",
+      "id": "av_55556fcc34f17a",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "8,817 Shares in The Boeing Company $BA Bought by Objectivity Squared LLC",
-      "summary": "Objectivity Squared LLC recently acquired 8,817 shares of The Boeing Company (NYSE:BA) worth approximately $1.9 million, making it their 15th largest holding. Several other institutional investors also adjusted their stakes in Boeing, contributing to institutional ownership of 64",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-8817-shares-in-the-boeing-company-ba-bought-by-objectivity-squared-llc-2026-08-18/",
+      "title": "Pallas Capital Advisors LLC Acquires New Position in Argan, Inc. $AGX",
+      "summary": "Pallas Capital Advisors LLC has acquired a new position in Argan, Inc. (NYSE:AGX) by purchasing 1,881 shares valued at approximately $1.5 million. This comes as Argan reported strong quarterly results, exceeding analyst expectations with EPS of $3.24 and revenue up 50.2% year-ove",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-pallas-capital-advisors-llc-acquires-new-position-in-argan-inc-agx-2026-08-18/",
       "source": "MarketBeat",
-      "published_at": "2026-08-18T10:29:09+00:00",
-      "sentiment": 0.145768,
+      "published_at": "2026-08-18T10:12:13+00:00",
+      "sentiment": 0.159134,
       "change_pct": -2.34,
-      "title_kr": "Objectivity Squared LLC가 보잉사($BA)의 주식 8,817주를 매입했습니다.",
-      "summary_kr": "Objectivity Squared LLC는 최근 약 190만 달러 상당의 Boeing Company(NYSE:BA) 주식 8,817주를 인수하여 15번째로 큰 보유 주식이 되었습니다. 몇몇 다른 기관 투자자들도 보잉의 지분을 조정하여 기관 투자에 기여했습니다."
+      "title_kr": "Pallas Capital Advisors LLC, Argan, Inc. $AGX에서 새로운 직위 인수",
+      "summary_kr": "Pallas Capital Advisors LLC는 약 150만 달러 상당의 주식 1,881주를 매입하여 Argan, Inc.(NYSE:AGX)의 새로운 지위를 인수했습니다. 이는 Argan이 EPS 3.24달러와 수익으로 분석가 기대치를 뛰어 넘는 강력한 분기별 결과를 보고한 데 따른 것입니다."
     },
     {
       "id": "av_b72035e80a9f85",
@@ -1002,10 +989,21 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-pursue-wealth-partners-llc-purchases-shares-of-12960-palo-alto-networks-inc-panw-2026-08-18/",
       "source": "MarketBeat",
       "published_at": "2026-08-18T10:23:02+00:00",
-      "sentiment": 0.145118,
+      "sentiment": 0.145573,
       "change_pct": -2.34,
       "title_kr": "Pursue Wealth Partners LLC는 Palo Alto Networks, Inc.의 주식 12,960주를 매입합니다. $PANW",
       "summary_kr": "Pursue Wealth Partners LLC는 Palo Alto Networks, Inc.에서 약 442만 달러 상당의 주식 12,960주를 매입하는 새로운 지위를 인수했습니다. 이 투자는 이제 Pursue Wealth Partners LLC 포트폴리오의 2.5%를 차지합니다. 기타 여러 기관 투자"
+    },
+    {
+      "id": "f_ad9adae7229e9e",
+      "provider": "finnhub",
+      "ticker": "NBIS",
+      "category": "general",
+      "title": "Nebius: Strong Buy As AI Cloud Growth Explodes",
+      "summary": "Nebius Group (NBIS) Q2 2026 surged on AI cloud deals, boosting margin and 2027â2028 earnings visibility. Click for more on NBIS stock.",
+      "url": "https://finnhub.io/api/news?id=e98851bfb5bef30e10754aa2806111a766c03a8fb01d48d2ac699c5cc8f4b690",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-18T15:54:19+00:00"
     },
     {
       "id": "av_ff44e53b87b67e",
@@ -1017,22 +1015,21 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-7441-shares-in-palo-alto-networks-inc-panw-acquired-by-performance-wealth-partners-llc-2026-08-18/",
       "source": "MarketBeat",
       "published_at": "2026-08-18T10:23:02+00:00",
-      "sentiment": 0.12827,
+      "sentiment": 0.138032,
       "change_pct": -2.34,
       "title_kr": "Palo Alto Networks, Inc.의 주식 7,441주 $PANW, Performance Wealth Partners LLC에서 인수",
       "summary_kr": "Performance Wealth Partners LLC는 SEC 서류에 공개된 바와 같이 최근 Palo Alto Networks(NASDAQ:PANW)의 주식 7,441주를 약 254만 달러에 인수했습니다. 이번 인수는 다른 주요 기업과 함께하는 광범위한 기관 투자 활동의 일부입니다."
     },
     {
-      "id": "av_40eed4da9d5a46",
-      "provider": "alphavantage",
+      "id": "f_786051b4dd7271",
+      "provider": "finnhub",
       "ticker": "NVDA",
       "category": "general",
-      "title": "ZDIS ETF Holdings List — AMEX:ZDIS",
-      "summary": "This article lists the top holdings of the Virtus Zevenbergen Discovery Growth ETF (ZDIS) as of August 17, 2026. The fund's largest holdings include NVIDIA Corporation, Credo Technology Group Holding Ltd., Shopify, Inc. Class A, Axon Enterprise Inc, and Tesla, Inc. Each holding i",
-      "url": "https://www.tradingview.com/symbols/AMEX-ZDIS/holdings/",
-      "source": "TradingView",
-      "published_at": "2026-08-18T13:40:32+00:00",
-      "sentiment": 0.044495,
+      "title": "SK hynix: Believe In The HBM Leader",
+      "summary": "SK hynix Inc. looks undervalued (5.7x forward P/E, 13% FCF yield) despite ADR premium risks and HBM competition. Click for this SKHY update.",
+      "url": "https://finnhub.io/api/news?id=5bcb77326368d578aa97a2a913551aca5ea4f487c926e532282fd144f2e46cb4",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-18T15:46:14+00:00",
       "change_pct": -2.34
     },
     {
@@ -1057,7 +1054,7 @@
       "url": "https://finnhub.io/api/news?id=447d6a489d6659c3dfaaeed3bfbfc33ad8683ebe0e0cad099bb81656e167b5af",
       "source": "Benzinga",
       "published_at": "2026-08-18T14:37:29+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_3ca33a1d4b3c1f",
@@ -1074,19 +1071,19 @@
       "summary_kr": "화요일 시장 동향이 궁금하신가요? 오늘 세션 동안 미국 시장에 뛰어들어 S&P500 지수의 주식 상승 및 하락 격차를 살펴보세요."
     },
     {
-      "id": "av_c1c4f29c81cc21",
+      "id": "av_b09f0cb609112c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "1,344 Shares in SiTime Corporation $SITM Purchased by OneDigital Investment Advisors LLC",
-      "summary": "OneDigital Investment Advisors LLC recently acquired 1,344 shares of SiTime Corporation (NASDAQ:SITM) valued at approximately $1 million, contributing to institutional investors owning 84.31% of the company. Despite positive analyst ratings and strong quarterly results with reven",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-1344-shares-in-sitime-corporation-sitm-purchased-by-onedigital-investment-advisors-llc-2026-08-18/",
+      "title": "8,817 Shares in The Boeing Company $BA Bought by Objectivity Squared LLC",
+      "summary": "Objectivity Squared LLC recently acquired 8,817 shares of The Boeing Company (NYSE:BA) worth approximately $1.9 million, making it their 15th largest holding. Several other institutional investors also adjusted their stakes in Boeing, contributing to institutional ownership of 64",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-8817-shares-in-the-boeing-company-ba-bought-by-objectivity-squared-llc-2026-08-18/",
       "source": "MarketBeat",
-      "published_at": "2026-08-18T09:41:47+00:00",
-      "sentiment": 0.115596,
+      "published_at": "2026-08-18T10:29:09+00:00",
+      "sentiment": 0.100408,
       "change_pct": -2.34,
-      "title_kr": "SiTime Corporation $SITM의 1,344주를 OneDigital Investment Advisors LLC가 매입했습니다.",
-      "summary_kr": "OneDigital Investment Advisors LLC는 최근 약 100만 달러 상당의 SiTime Corporation(NASDAQ:SITM) 주식 1,344주를 인수하여 기관 투자자가 회사 지분 84.31%를 소유하게 되었습니다. 긍정적인 애널리스트 평가와 강한 분기 실적에도 불구하고"
+      "title_kr": "Objectivity Squared LLC가 보잉사($BA)의 주식 8,817주를 매입했습니다.",
+      "summary_kr": "Objectivity Squared LLC는 최근 약 190만 달러 상당의 Boeing Company(NYSE:BA) 주식 8,817주를 인수하여 15번째로 큰 보유 주식이 되었습니다. 몇몇 다른 기관 투자자들도 보잉의 지분을 조정하여 기관 투자에 기여했습니다."
     },
     {
       "id": "f_3556cb46c9ee8a",
@@ -1110,7 +1107,7 @@
       "url": "https://finnhub.io/api/news?id=3dbed6b78494258b44abdec7e6afcd7c8136f90a266968ab9a069c2b82343e49",
       "source": "SeekingAlpha",
       "published_at": "2026-08-18T14:01:46+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_e29589b36842db",
@@ -1122,7 +1119,7 @@
       "url": "https://finnhub.io/api/news?id=069dcaa59f8d9b58211f0ace2cb2a20b41ee5c27991f7c110010c37daa93981c",
       "source": "SeekingAlpha",
       "published_at": "2026-08-18T14:00:00+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_16a77c21064814",
@@ -1158,7 +1155,20 @@
       "url": "https://finnhub.io/api/news?id=f7e6b9a046eea18f8c53f811e4deac0646f6f9276b11d3352d3830021c5936d8",
       "source": "Benzinga",
       "published_at": "2026-08-18T13:50:44+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
+    },
+    {
+      "id": "av_40eed4da9d5a46",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "ZDIS ETF Holdings List — AMEX:ZDIS",
+      "summary": "This article lists the top holdings of the Virtus Zevenbergen Discovery Growth ETF (ZDIS) as of August 17, 2026. The fund's largest holdings include NVIDIA Corporation, Credo Technology Group Holding Ltd., Shopify, Inc. Class A, Axon Enterprise Inc, and Tesla, Inc. Each holding i",
+      "url": "https://www.tradingview.com/symbols/AMEX-ZDIS/holdings/",
+      "source": "TradingView",
+      "published_at": "2026-08-18T13:40:32+00:00",
+      "sentiment": 0.001019,
+      "change_pct": -2.34
     },
     {
       "id": "f_616190432268e1",
@@ -1219,19 +1229,6 @@
       "change_pct": -2.34
     },
     {
-      "id": "av_94971b1300ff13",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "What BofA and Morgan Stanley Are Saying About Apple (AAPL) Stock in August",
-      "summary": "Both Bank of America and Morgan Stanley anticipate a foldable iPhone launch in September 2026, with prediction markets showing an 81% probability. While BofA is concerned about potential gross margin pressure due to foldable display costs, Morgan Stanley views a $1,500+ price poi",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-morgan-stanley-saying-apple-130011872.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-18T13:08:46+00:00",
-      "sentiment": 0.003378,
-      "change_pct": -2.34
-    },
-    {
       "id": "f_1138672114415f",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -1243,6 +1240,19 @@
       "published_at": "2026-08-18T13:16:49+00:00"
     },
     {
+      "id": "av_94971b1300ff13",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "What BofA and Morgan Stanley Are Saying About Apple (AAPL) Stock in August",
+      "summary": "Both Bank of America and Morgan Stanley anticipate a foldable iPhone launch in September 2026, with prediction markets showing an 81% probability. While BofA is concerned about potential gross margin pressure due to foldable display costs, Morgan Stanley views a $1,500+ price poi",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-morgan-stanley-saying-apple-130011872.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-18T13:08:46+00:00",
+      "sentiment": 0.000255,
+      "change_pct": -2.34
+    },
+    {
       "id": "f_70ee8d3b820a31",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1252,7 +1262,7 @@
       "url": "https://finnhub.io/api/news?id=c72c281529f57a71ec992c40b253a421c53b8fa4b522b66a5a9c0b159bc2e730",
       "source": "CNBC",
       "published_at": "2026-08-18T12:56:23+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_c8116558036e45",
@@ -1275,7 +1285,7 @@
       "url": "https://finnhub.io/api/news?id=61419e5ccce82ee534a5eccc54a21c4c6a90de6020ba5752811beb171565cdd9",
       "source": "CNBC",
       "published_at": "2026-08-18T12:51:53+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_5904de31ee162d",
@@ -1299,7 +1309,7 @@
       "url": "https://finnhub.io/api/news?id=e9369dc5b73c72314f5280f9ab40c4dc9b7c6faf57dbfbec0b1369c96dc56a99",
       "source": "CNBC",
       "published_at": "2026-08-18T12:47:22+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_9b2b0ab7759481",
@@ -1432,7 +1442,7 @@
       "url": "https://finnhub.io/api/news?id=66a2e374186bcc6131e77b5c68c5b5c8f79e4714d8db4fe8c26693fc677446f0",
       "source": "Benzinga",
       "published_at": "2026-08-18T11:43:57+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_ebdf87b903fbc3",
@@ -1468,7 +1478,7 @@
       "url": "https://finnhub.io/api/news?id=e017f315763d0097f0f870b24a96f2461c7d66c5812184c26401b90f0ecde5e5",
       "source": "Benzinga",
       "published_at": "2026-08-18T11:17:50+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_4def14122eab67",
@@ -1493,7 +1503,7 @@
       "url": "https://finnhub.io/api/news?id=c27da295c924af7e25d446ed65d4cc3f2eeae6bed1a2a52f2b888e0b8f13b1ef",
       "source": "CNBC",
       "published_at": "2026-08-18T10:35:34+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_9ebf1d0db4b1f6",
@@ -1517,7 +1527,7 @@
       "url": "https://finnhub.io/api/news?id=56a2e8bedc2c552c3e5a7bd7aef0935449cb6f75fade55ee628108f3ce0bf3b6",
       "source": "CNBC",
       "published_at": "2026-08-18T10:34:40+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_a4d6b5a230d1f0",
@@ -1529,7 +1539,7 @@
       "url": "https://finnhub.io/api/news?id=47e331be568ad55c139e846dd553c04981c3189b686bb6c2d3db1406dfeb8249",
       "source": "Benzinga",
       "published_at": "2026-08-18T10:28:28+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_f9d581a40c01a4",
@@ -1587,7 +1597,7 @@
       "url": "https://finnhub.io/api/news?id=d8f5e1a97ecfb2a78a9c612c30fae89f33e7e22f96024105d2caf5d2e74bfd97",
       "source": "SeekingAlpha",
       "published_at": "2026-08-18T09:30:51+00:00",
-      "change_pct": -4.42,
+      "change_pct": -4.45,
       "title_kr": "Meta의 하락은 30%의 상승 잠재력을 제공합니다",
       "summary_kr": "메타 플랫폼(META)은 YTD ~27% 하락하여 동종 업체보다 실적이 저조했지만 부정적인 가격 조정은 과도한 것으로 봅니다."
     },
@@ -1768,7 +1778,7 @@
       "url": "https://finnhub.io/api/news?id=d3373c89481a8d135818b2d62628ef1dfb002c6297eabf800fb791c0ce7b9136",
       "source": "CNBC",
       "published_at": "2026-08-18T08:20:02+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_277276118bba5e",
@@ -1780,7 +1790,7 @@
       "url": "https://finnhub.io/api/news?id=f58a4f8212c75bea49b4d9b1df68d7a249dc4c1baa2a85d9ac103fd4d648c4a3",
       "source": "Benzinga",
       "published_at": "2026-08-18T08:05:46+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_718cd0ff88749d",
@@ -1818,7 +1828,7 @@
       "url": "https://finnhub.io/api/news?id=92d224300530853fd43ee16d8bcae2405427cbd00012014618d55a1578ed3138",
       "source": "CNBC",
       "published_at": "2026-08-18T07:46:11+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_4f4088a3af2408",
@@ -1868,7 +1878,7 @@
       "url": "https://finnhub.io/api/news?id=25cfebde16370ec6b01887ca17a618010f61f4a8fe3e3fd4bdcb789db75a23c0",
       "source": "Benzinga",
       "published_at": "2026-08-18T06:31:52+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_cdb5554f80d1f5",
@@ -1894,7 +1904,7 @@
       "url": "https://finnhub.io/api/news?id=fc8afb85637c9421a1e70780bba31bf72b2f9bdad1700e48dcb8b751a27757e4",
       "source": "Benzinga",
       "published_at": "2026-08-18T06:19:01+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_a0f458221b8def",
@@ -1932,7 +1942,7 @@
       "url": "https://finnhub.io/api/news?id=f3ae67d22f541ec6b4ba8459c5fa33b1f2daac50240497863fbf1e63ad1bca71",
       "source": "Benzinga",
       "published_at": "2026-08-18T05:40:36+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_98d7acd6e3af51",
@@ -1944,7 +1954,7 @@
       "url": "https://finnhub.io/api/news?id=bcd203f4f28c938534c250c60055a8f3f9337ac30be72258cd9ed43079b0e19a",
       "source": "Benzinga",
       "published_at": "2026-08-18T04:26:58+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_288c8279e87f28",
@@ -2101,7 +2111,7 @@
       "url": "https://finnhub.io/api/news?id=14eaf6a82d989559fa530a34f6a73894e65032b407affaa3ec297116d9bb64b8",
       "source": "Benzinga",
       "published_at": "2026-08-17T21:39:10+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_dbea998e2eb748",
@@ -2153,7 +2163,7 @@
       "url": "https://finnhub.io/api/news?id=e2e4febccf8af8c031a5a3f6e7b5ac2d1b1bda497ea5555ce7877c313abdfbe0",
       "source": "CNBC",
       "published_at": "2026-08-17T19:48:03+00:00",
-      "change_pct": -4.42
+      "change_pct": -4.45
     },
     {
       "id": "f_ff0be4225d2fa7",
@@ -2476,7 +2486,7 @@
       "url": "https://finnhub.io/api/news?id=0f03c138c712e26936f5d8f5ee0def8e900f1cdf040d1d38a597cd178a1d6ba0",
       "source": "Benzinga",
       "published_at": "2026-08-17T15:29:04+00:00",
-      "change_pct": -0.7
+      "change_pct": -0.72
     },
     {
       "id": "f_c85deaf55c0a10",
@@ -2506,45 +2516,6 @@
       "summary_kr": "Steve Cress가 지금 당장 균형과 다양화가 중요한 이유를 공유합니다."
     },
     {
-      "id": "f_c6e03537e089ef",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SpaceX Stock Jumps After Multibillion-Dollar Stakes Revealed",
-      "summary": "SpaceX shares are rising above their IPO price after new 13F filings showed major institutions holding multibillion-dollar positions.",
-      "url": "https://finnhub.io/api/news?id=4a9259df7712fc158c78483bbdba2d78dadb9171f7433956ab81bf306794ed00",
-      "source": "Benzinga",
-      "published_at": "2026-08-17T15:17:58+00:00",
-      "change_pct": -2.34
-    },
-    {
-      "id": "f_35e7ae545bd3ff",
-      "provider": "finnhub",
-      "ticker": "INTC",
-      "category": "general",
-      "title": "What Quadrupled Intel Stock Was Not Foundry Customers",
-      "summary": "Demand for its server chips runs ahead of what Intel can make, and the price now carries a build-out that is still years from finished.",
-      "url": "https://finnhub.io/api/news?id=9bd10b70dae9aeb0a8a42177e78e0a697857fae56236957a78da6c96d40408be",
-      "source": "Yahoo",
-      "published_at": "2026-08-17T15:14:28+00:00",
-      "title_kr": "4배로 오른 인텔 주식은 파운드리 고객이 아니었습니다.",
-      "summary_kr": "서버 칩에 대한 수요는 인텔이 만들 수 있는 것보다 앞서 있으며 가격은 이제 완료되기까지 아직 수년이 걸릴 수 있습니다."
-    },
-    {
-      "id": "f_e7ea583cba4866",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Q2 2026 U.S. Retail Preview: Broadline Retail Drives Growth",
-      "summary": "The U.S. consumer remains resilient enough to support earnings growth, but that resilience is increasingly concentrated.",
-      "url": "https://finnhub.io/api/news?id=ae35c7b3404a52908905c4837dd0989fe676edb413a0ccdea07c6c3c7a8082ea",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-17T15:11:00+00:00",
-      "change_pct": -0.71,
-      "title_kr": "2026년 2분기 미국 소매 미리 보기: Broadline Retail이 성장을 주도함",
-      "summary_kr": "미국 소비자는 수익 성장을 뒷받침할 만큼 충분한 회복력을 유지하고 있지만, 그 회복력은 점점 더 집중되고 있습니다."
-    },
-    {
       "id": "f_85d2396eec616b",
       "provider": "finnhub",
       "ticker": null,
@@ -2556,26 +2527,26 @@
       "published_at": "2026-08-17T16:12:26+00:00"
     },
     {
-      "id": "f_73d608e5e3dac9",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - Reuters",
-      "summary": "Tech selloff pulls Wall Street to two-week lows as bond yields climb  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-18T18:58:42+00:00"
-    },
-    {
       "id": "f_9d7b5cb9cc3b4a",
       "provider": "finnhub",
       "ticker": null,
       "category": "general",
-      "title": "UAE says the two missiles detected earlier were launched from Iran - Reuters",
-      "summary": "UAE says the two missiles detected earlier were launched from Iran  Reuters",
+      "title": "UAE says two missiles detected earlier were launched from Iran - reuters.com",
+      "summary": "UAE says two missiles detected earlier were launched from Iran  reuters.com",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-18T18:50:30+00:00"
+      "published_at": "2026-08-18T20:09:17+00:00"
+    },
+    {
+      "id": "f_73d608e5e3dac9",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "general",
+      "title": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - reuters.com",
+      "summary": "Tech selloff pulls Wall Street to two-week lows as bond yields climb  reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-18T18:58:42+00:00"
     },
     {
       "id": "f_4542041a241656",
@@ -2593,8 +2564,8 @@
       "provider": "finnhub",
       "ticker": null,
       "category": "general",
-      "title": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - Reuters",
-      "summary": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says  Reuters",
+      "title": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says - reuters.com",
+      "summary": "Hormuz Strait to remain shut until U.S. meets interim deal conditions, Iran says  reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSENtbzRKbGs1djM0OE56Z0w0ODhCSVBFdHBXeTFqUGo2dzVPZ25GQkhGUTNXQTFtY0tNNDFrTnlSN2ZtQ282M2pSbWZrMncwUGFOcEtyaTB6TXNLNDR4Y0gtMEloYUU2S185bVBjeEpnYTBEUF9peWhzeEV0NVR5TVU3d3psNnc2VHdzYTJ5ZlhUM3dVbXh0SlFQZmhUQl9wbzQ4WG5ETXp4UjZyeWRmV2FyekpaYTFiZ0djY1E5LTY0aXI4WjZn?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-18T16:23:47+00:00"
@@ -2615,15 +2586,37 @@
       "provider": "finnhub",
       "ticker": null,
       "category": "general",
-      "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
-      "summary": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut  Reuters",
+      "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - reuters.com",
+      "summary": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut  reuters.com",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
       "source": "Reuters",
       "published_at": "2026-08-18T15:32:45+00:00"
+    },
+    {
+      "id": "f_b5cba4ac15a2a6",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "general",
+      "title": "US housing market remains under pressure in July; factory output rises - reuters.com",
+      "summary": "US housing market remains under pressure in July; factory output rises  reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTnVKc1I4UWRkNWlXWm93ZGptQURzVVRySXZTSUQyX2RKejdFSUo1cDYwdEVUeWlZZE55dVVyOFZ2YklvZlFobVBiZmdHRFF2NG4yYUFydy0zWldPMFNjR21JcWlCMHFMU0E2R2pQLW9za285UG1NOEI4Q0xmX3M1THZuZG1NaGowSGtJX2ZfTXQ?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-18T15:23:29+00:00"
+    },
+    {
+      "id": "f_6d336f21ffdcd6",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "general",
+      "title": "We're adding to our position in a stock that's been hurt by rekindled Middle East tensions",
+      "summary": "The stock has pulled back in recent weeks despite a series of positive updates.",
+      "url": "https://www.cnbc.com/2026/08/18/were-adding-to-our-position-in-a-stock-thats-been-hurt-by-rekindled-middle-east-tensions-.html",
+      "source": "CNBC",
+      "published_at": "2026-08-18T15:23:19+00:00"
     }
   ],
-  "fetched_at": "2026-08-18T20:06:50.241523+00:00",
+  "fetched_at": "2026-08-18T20:35:50.730329+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-18T20:06:52.529492+00:00",
+  "translated_at": "2026-08-18T20:35:53.119379+00:00",
   "translation_engine": "google-parallel"
 }
