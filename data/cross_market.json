@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-18T03:08:39.818081+00:00",
+  "fetched_at": "2026-08-18T03:56:33.867359+00:00",
   "us_mood_score": 39,
-  "kr_mood_score": 35,
+  "kr_mood_score": 29,
   "us_mood": "bearish",
   "kr_mood": "bearish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 2.49,
-      "actual_kr_pct": 2.01,
+      "actual_kr_pct": 1.7,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 234.33,
-      "kr_price": 1678000.0
+      "kr_price": 1673000.0
     },
     {
       "us_ticker": "MSTR",
@@ -60,10 +60,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -1.35,
-      "actual_kr_pct": -3.95,
+      "actual_kr_pct": -4.17,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 568.97,
-      "kr_price": 219000.0
+      "kr_price": 218500.0
     },
     {
       "us_ticker": "AMD",
@@ -96,10 +96,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -1.06,
-      "actual_kr_pct": -3.95,
+      "actual_kr_pct": -4.17,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 480.35,
-      "kr_price": 219000.0
+      "kr_price": 218500.0
     },
     {
       "us_ticker": "META",
@@ -120,10 +120,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.97,
-      "actual_kr_pct": -4.0,
+      "actual_kr_pct": -4.5,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 480.35,
-      "kr_price": 38400.0
+      "kr_price": 38200.0
     },
     {
       "us_ticker": "AMD",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -0.95,
-      "actual_kr_pct": 2.01,
+      "actual_kr_pct": 1.7,
       "reason": "MI355X용 HBM 공급",
       "us_price": 506,
-      "kr_price": 1678000.0
+      "kr_price": 1673000.0
     },
     {
       "us_ticker": "TSLA",
@@ -144,10 +144,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.59,
-      "actual_kr_pct": -3.79,
+      "actual_kr_pct": -4.33,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 339.3,
-      "kr_price": 355500.0
+      "kr_price": 353500.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.54,
-      "actual_kr_pct": -4.2,
+      "actual_kr_pct": -4.88,
       "reason": "NCA 양극재 공급",
       "us_price": 339.3,
-      "kr_price": 111800.0
+      "kr_price": 111000.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.23,
-      "actual_kr_pct": -3.95,
+      "actual_kr_pct": -4.17,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 344,
-      "kr_price": 219000.0
+      "kr_price": 218500.0
     },
     {
       "us_ticker": "GOOGL",
@@ -228,10 +228,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.19,
-      "actual_kr_pct": -4.0,
+      "actual_kr_pct": -4.5,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 344,
-      "kr_price": 38400.0
+      "kr_price": 38200.0
     },
     {
       "us_ticker": "AMZN",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.15,
-      "actual_kr_pct": -3.95,
+      "actual_kr_pct": -4.17,
       "reason": "커머스·클라우드 동행",
       "us_price": 261.31,
-      "kr_price": 219000.0
+      "kr_price": 218500.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.46,
+      "kr_actual_avg_pct": 0.3,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.6,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -4.0,
+      "kr_actual_avg_pct": -4.61,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.5,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -3.98,
+      "kr_actual_avg_pct": -4.33,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.73,
       "lag_hours": 8
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 64115.45,
-      "change_pct": 1.14,
+      "price": 64173.94,
+      "change_pct": 1.03,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +5.5% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 39/100, KR 무드 35/100."
+  "summary": "미국 MRVL +5.5% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 39/100, KR 무드 29/100."
 }
