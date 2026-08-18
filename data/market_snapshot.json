@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T07:13:06.675062+00:00",
+  "fetched_at": "2026-08-18T07:52:47.381806+00:00",
   "sp500": {
     "price": 7745.06,
     "change_pct": -0.69,
@@ -11,18 +11,18 @@
     "label": "Nasdaq"
   },
   "dow": {
-    "price": 53459.8,
+    "price": 53459.78,
     "change_pct": -0.71,
     "label": "Dow"
   },
   "vix": {
-    "price": 15.19,
-    "change_pct": 0.0,
+    "price": 15.86,
+    "change_pct": 4.41,
     "label": "VIX"
   },
   "btc": {
-    "price": 64321.24,
-    "change_pct": 1.19,
+    "price": 64177.06,
+    "change_pct": 1.0,
     "label": "BTC"
   },
   "watchlist": {
@@ -84,17 +84,17 @@
       "surge_pct": 0
     },
     {
-      "ticker": "TSLA",
-      "mentions": 9,
-      "surge_pct": 0
-    },
-    {
       "ticker": "MU",
       "mentions": 8,
       "surge_pct": 0
     },
     {
       "ticker": "META",
+      "mentions": 8,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "TSLA",
       "mentions": 8,
       "surge_pct": 0
     },
@@ -119,7 +119,7 @@
       "surge_pct": 0
     }
   ],
-  "mood_score": 42,
-  "mood": "neutral",
+  "mood_score": 40,
+  "mood": "bearish",
   "mood_summary": "S&P -0.69% · Nasdaq -0.59%"
 }
