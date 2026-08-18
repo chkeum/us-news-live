@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-18T03:56:33.867359+00:00",
+  "fetched_at": "2026-08-18T04:25:36.565915+00:00",
   "us_mood_score": 39,
-  "kr_mood_score": 29,
+  "kr_mood_score": 31,
   "us_mood": "bearish",
   "kr_mood": "bearish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 2.49,
-      "actual_kr_pct": 1.7,
+      "actual_kr_pct": 2.1,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 234.33,
-      "kr_price": 1673000.0
+      "kr_price": 1679500.0
     },
     {
       "us_ticker": "MSTR",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -0.95,
-      "actual_kr_pct": 1.7,
+      "actual_kr_pct": 2.1,
       "reason": "MI355X용 HBM 공급",
       "us_price": 506,
-      "kr_price": 1673000.0
+      "kr_price": 1679500.0
     },
     {
       "us_ticker": "TSLA",
@@ -144,10 +144,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.59,
-      "actual_kr_pct": -4.33,
+      "actual_kr_pct": -4.06,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 339.3,
-      "kr_price": 353500.0
+      "kr_price": 354500.0
     },
     {
       "us_ticker": "TSLA",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.3,
+      "kr_actual_avg_pct": 0.51,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.6,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -4.61,
+      "kr_actual_avg_pct": -4.47,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.5,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "AMZN",
+      "title": "Walmart Earnings Preview: The Flywheel Is Still Flywheelin' But Ultimately, Operating Margin Needs To Improve",
+      "title_kr": "월마트 수익 미리 보기: 플라이휠은 여전히 ​​플라이휠이지만 궁극적으로 영업 이익률은 개선되어야 합니다.",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-17T23:40:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "삼성전자"
+      ]
+    },
+    {
       "ticker": "AAPL",
       "title": "Alibaba Remains Too Cheap To Ignore (Earnings Preview)",
       "title_kr": "알리바바는 무시하기에는 너무 저렴하다(수익 미리보기)",
@@ -350,18 +362,6 @@
         "NAVER",
         "카카오"
       ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Bargain Hunters, AI Bets, And CEO Confidence: Navigating The Final Wave Of Q2 Earnings",
-      "title_kr": "특가 사냥꾼, AI 베팅 및 CEO 자신감: 2분기 수익의 마지막 흐름 탐색",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-17T14:20:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
     }
   ],
   "macro": {
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 64173.94,
-      "change_pct": 1.03,
+      "price": 64130.94,
+      "change_pct": 1.0,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +5.5% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 39/100, KR 무드 29/100."
+  "summary": "미국 MRVL +5.5% → 한미반도체 개장 상방 압력 예상 (+3.4% 전후). US 무드 39/100, KR 무드 31/100."
 }
