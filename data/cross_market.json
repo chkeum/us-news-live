@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T03:57:39.469832+00:00",
+  "fetched_at": "2026-08-20T04:29:50.572342+00:00",
   "us_mood_score": 43,
   "kr_mood_score": 100,
   "us_mood": "neutral",
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 4.43,
-      "actual_kr_pct": 13.27,
+      "actual_kr_pct": 14.07,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 237.27,
-      "kr_price": 1699000.0
+      "kr_price": 1711000.0
     },
     {
       "us_ticker": "TSLA",
@@ -60,10 +60,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.88,
-      "actual_kr_pct": 0.56,
+      "actual_kr_pct": 0.84,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 351.12,
-      "kr_price": 359500.0
+      "kr_price": 360500.0
     },
     {
       "us_ticker": "MSTR",
@@ -84,10 +84,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.62,
-      "actual_kr_pct": 3.64,
+      "actual_kr_pct": 3.37,
       "reason": "NCA 양극재 공급",
       "us_price": 351.12,
-      "kr_price": 113800.0
+      "kr_price": 113500.0
     },
     {
       "us_ticker": "AVGO",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.15,
-      "actual_kr_pct": 13.27,
+      "actual_kr_pct": 14.07,
       "reason": "MI355X용 HBM 공급",
       "us_price": 466.42,
-      "kr_price": 1699000.0
+      "kr_price": 1711000.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.94,
-      "actual_kr_pct": 13.27,
+      "actual_kr_pct": 14.07,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 362.48,
-      "kr_price": 1699000.0
+      "kr_price": 1711000.0
     },
     {
       "us_ticker": "NVDA",
@@ -216,10 +216,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.71,
-      "actual_kr_pct": 13.27,
+      "actual_kr_pct": 14.07,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 217.56,
-      "kr_price": 1699000.0
+      "kr_price": 1711000.0
     },
     {
       "us_ticker": "AMZN",
@@ -228,10 +228,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": 0.69,
-      "actual_kr_pct": 8.99,
+      "actual_kr_pct": 9.19,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 265.84,
-      "kr_price": 269750.0
+      "kr_price": 270250.0
     },
     {
       "us_ticker": "NVDA",
@@ -240,10 +240,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.51,
-      "actual_kr_pct": 8.99,
+      "actual_kr_pct": 9.19,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 217.56,
-      "kr_price": 269750.0
+      "kr_price": 270250.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 11.13,
+      "kr_actual_avg_pct": 11.63,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.09,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 5.28,
+      "kr_actual_avg_pct": 5.01,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.34,
       "lag_hours": 8
@@ -352,15 +352,15 @@
       ]
     },
     {
-      "ticker": "GOOGL",
-      "title": "Harry Qelm Baabsman's 2026 Half-Year Letter To Investors",
-      "title_kr": "Harry Qelm Baabsman이 투자자들에게 보내는 2026년 반기 편지",
+      "ticker": "META",
+      "title": "Meta: The Drawdown Is An Opportunity",
+      "title_kr": "메타: 하락세는 기회입니다",
       "source": "SeekingAlpha",
-      "published_at": "2026-08-19T21:21:28+00:00",
+      "published_at": "2026-08-19T23:40:06+00:00",
       "category": "general",
       "kr_pairs": [
         "NAVER",
-        "카카오"
+        "하이브"
       ]
     }
   ],
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 69168.58,
-      "change_pct": 7.51,
+      "price": 69360,
+      "change_pct": 7.77,
       "label": "BTC"
     }
   },
