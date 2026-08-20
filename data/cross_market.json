@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-20T00:25:04.733101+00:00",
+  "fetched_at": "2026-08-20T00:37:42.630700+00:00",
   "us_mood_score": 43,
-  "kr_mood_score": 85,
+  "kr_mood_score": 90,
   "us_mood": "neutral",
   "kr_mood": "bullish",
   "predictions": [
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 4.43,
-      "actual_kr_pct": 8.0,
+      "actual_kr_pct": 8.97,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 237.27,
-      "kr_price": 1620000.0
+      "kr_price": 1634500.0
     },
     {
       "us_ticker": "TSLA",
@@ -60,10 +60,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.88,
-      "actual_kr_pct": 0.7,
+      "actual_kr_pct": 1.33,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 351.12,
-      "kr_price": 360000.0
+      "kr_price": 362250.0
     },
     {
       "us_ticker": "MSTR",
@@ -84,10 +84,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.62,
-      "actual_kr_pct": 4.01,
+      "actual_kr_pct": 4.37,
       "reason": "NCA 양극재 공급",
       "us_price": 351.12,
-      "kr_price": 114200.0
+      "kr_price": 114600.0
     },
     {
       "us_ticker": "AVGO",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.15,
-      "actual_kr_pct": 8.0,
+      "actual_kr_pct": 8.97,
       "reason": "MI355X용 HBM 공급",
       "us_price": 466.42,
-      "kr_price": 1620000.0
+      "kr_price": 1634500.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.94,
-      "actual_kr_pct": 8.0,
+      "actual_kr_pct": 8.97,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 362.48,
-      "kr_price": 1620000.0
+      "kr_price": 1634500.0
     },
     {
       "us_ticker": "NVDA",
@@ -204,10 +204,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.74,
-      "actual_kr_pct": 2.4,
+      "actual_kr_pct": 5.77,
       "reason": "커머스·클라우드 동행",
       "us_price": 265.84,
-      "kr_price": 213000.0
+      "kr_price": 220000.0
     },
     {
       "us_ticker": "NVDA",
@@ -216,10 +216,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.71,
-      "actual_kr_pct": 8.0,
+      "actual_kr_pct": 8.97,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 217.56,
-      "kr_price": 1620000.0
+      "kr_price": 1634500.0
     },
     {
       "us_ticker": "AMZN",
@@ -228,10 +228,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": 0.69,
-      "actual_kr_pct": 5.25,
+      "actual_kr_pct": 5.45,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 265.84,
-      "kr_price": 260500.0
+      "kr_price": 261000.0
     },
     {
       "us_ticker": "NVDA",
@@ -240,10 +240,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.51,
-      "actual_kr_pct": 5.25,
+      "actual_kr_pct": 5.45,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 217.56,
-      "kr_price": 260500.0
+      "kr_price": 261000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 6.62,
+      "kr_actual_avg_pct": 7.21,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.09,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 2.35,
+      "kr_actual_avg_pct": 2.85,
       "beta": 0.58,
       "predicted_kr_avg_pct": 2.45,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 2.54,
+      "kr_actual_avg_pct": 4.96,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.34,
       "lag_hours": 8
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 69697.56,
-      "change_pct": 7.87,
+      "price": 69519.1,
+      "change_pct": 7.53,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +9.8% → 한미반도체 개장 상방 압력 예상 (+6.1% 전후). US 무드 43/100, KR 무드 85/100."
+  "summary": "미국 MRVL +9.8% → 한미반도체 개장 상방 압력 예상 (+6.1% 전후). US 무드 43/100, KR 무드 90/100."
 }
