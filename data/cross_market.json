@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T12:12:58.510991+00:00",
+  "fetched_at": "2026-08-22T13:07:15.658473+00:00",
   "us_mood_score": 47,
   "kr_mood_score": 24,
   "us_mood": "neutral",
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "NVDA",
+      "title": "Data Center and Cloud Infrastructure Earnings Face a High-Stakes AI Demand Test",
+      "title_kr": "데이터 센터 및 클라우드 인프라 수익은 고위험 AI 수요 테스트에 직면",
+      "source": "ChartMill",
+      "published_at": "2026-08-22T12:07:08+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
       "ticker": "MSFT",
       "title": "Microsoft: Higher Revenue Visibility Met Measured Capex",
       "title_kr": "Microsoft: 측정된 자본 지출을 충족한 더 높은 수익 가시성",
@@ -340,27 +352,15 @@
       ]
     },
     {
-      "ticker": "AMZN",
+      "ticker": "TSLA",
       "title": "Morgan Stanley resets Nvidia stock forecast ahead of earnings",
       "title_kr": "Morgan Stanley는 실적을 앞두고 Nvidia 주식 예측을 재설정합니다.",
       "source": "Yahoo",
       "published_at": "2026-08-21T23:17:00+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "NAVER",
-        "삼성전자"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "AMD Falls as Nvidia's Earnings Test Looms Over AI Chips",
-      "title_kr": "Nvidia의 수익 테스트가 AI 칩에 대한 우려로 AMD 하락",
-      "source": "Yahoo",
-      "published_at": "2026-08-21T21:08:22+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
+        "LG에너지솔루션",
+        "에코프로비엠"
       ]
     }
   ],
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 77247.79,
-      "change_pct": 0.55,
+      "price": 77201.24,
+      "change_pct": -0.19,
       "label": "BTC"
     }
   },
