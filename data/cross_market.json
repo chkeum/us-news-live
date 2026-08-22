@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T11:09:44.256987+00:00",
+  "fetched_at": "2026-08-22T11:42:13.895488+00:00",
   "us_mood_score": 47,
   "kr_mood_score": 24,
   "us_mood": "neutral",
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "MSFT",
+      "title": "Microsoft: Higher Revenue Visibility Met Measured Capex",
+      "title_kr": "Microsoft: 측정된 자본 지출을 충족한 더 높은 수익 가시성",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-22T06:49:08+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "MRVL",
       "title": "Marvell's Outlook Keeps Getting Better, But The Risk-Reward Doesn't (Rating Downgrade)",
       "title_kr": "Marvell의 전망은 계속 좋아지고 있지만 위험 보상은 그렇지 않습니다(등급 하향)",
@@ -350,18 +362,6 @@
         "SK하이닉스",
         "한미반도체"
       ]
-    },
-    {
-      "ticker": "AVGO",
-      "title": "Broadcom: The Market Has This One Wrong",
-      "title_kr": "Broadcom: 시장에는 이것이 잘못되었습니다",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-22T04:01:30+00:00",
-      "category": "general",
-      "kr_pairs": [
-        "한미반도체",
-        "SK하이닉스"
-      ]
     }
   ],
   "macro": {
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 76919.53,
-      "change_pct": -1.06,
+      "price": 77148.01,
+      "change_pct": 0.21,
       "label": "BTC"
     }
   },
