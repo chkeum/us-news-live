@@ -1,18 +1,18 @@
 {
-  "fetched_at": "2026-08-24T23:34:41.286744+00:00",
+  "fetched_at": "2026-08-24T23:51:42.164109+00:00",
   "kospi": {
-    "price": 6696.96,
-    "change_pct": 0.0,
+    "price": 6492.16,
+    "change_pct": -3.06,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 813.33,
-    "change_pct": 0.0,
+    "price": 797.48,
+    "change_pct": -1.95,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 1054.01,
-    "change_pct": 0.0,
+    "price": 1018.37,
+    "change_pct": -3.38,
     "label": "KPI200"
   },
   "watchlist": {
@@ -81,7 +81,7 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 10,
+      "mentions": 13,
       "surge_pct": 0
     },
     {
@@ -91,8 +91,8 @@
       "surge_pct": 0
     },
     {
-      "ticker": "005380",
-      "name": "현대자동차",
+      "ticker": "006400",
+      "name": "삼성SDI",
       "mentions": 3,
       "surge_pct": 0
     },
@@ -103,9 +103,15 @@
       "surge_pct": 0
     },
     {
-      "ticker": "006400",
-      "name": "삼성SDI",
-      "mentions": 3,
+      "ticker": "005380",
+      "name": "현대자동차",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "035420",
+      "name": "네이버",
+      "mentions": 2,
       "surge_pct": 0
     },
     {
@@ -131,15 +137,9 @@
       "name": "원림",
       "mentions": 1,
       "surge_pct": 0
-    },
-    {
-      "ticker": "476080",
-      "name": "M83",
-      "mentions": 1,
-      "surge_pct": 0
     }
   ],
-  "mood_score": 50,
-  "mood": "neutral",
-  "mood_summary": "KOSPI +0.00% · KOSDAQ +0.00%"
+  "mood_score": 15,
+  "mood": "bearish",
+  "mood_summary": "KOSPI -3.06% · KOSDAQ -1.95%"
 }
