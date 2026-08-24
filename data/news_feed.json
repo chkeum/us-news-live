@@ -10,7 +10,7 @@
       "url": "https://finnhub.io/api/news?id=d6581f1a65860a5b7f92df7eebf715ff68f6df0ca68e08e235901cb8678b7c9a",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T09:13:44+00:00",
-      "change_pct": -1.85
+      "change_pct": -2.1
     },
     {
       "id": "f_7c90b034889cc7",
@@ -22,7 +22,7 @@
       "url": "https://finnhub.io/api/news?id=70e8d23711f67c65f10b3d4f3820e3bd0efcc3625960857ff027f0fd3f0e335b",
       "source": "Benzinga",
       "published_at": "2026-08-24T08:33:12+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_6ab665dc83a067",
@@ -34,7 +34,19 @@
       "url": "https://finnhub.io/api/news?id=d465dfca3a909d25a1f9630c0ceb17dd36079b1adaecfbf032e9a891ecc98a29",
       "source": "Benzinga",
       "published_at": "2026-08-24T08:33:05+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
+    },
+    {
+      "id": "f_1032a04577d830",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "Seema Shah: Nvidia earnings will be key to how the market moves this week",
+      "summary": "Seema Shah, Chief Global Strategist at Principal Asset Management, says Nvidia earnings will test the AI trade as investors demand returns, while rising yields and Fed policy remain key risks.",
+      "url": "https://finnhub.io/api/news?id=90fdc54f87aaff48bb0d0042e704de716029ef48fa95b6a695a51b0c05a769ef",
+      "source": "CNBC",
+      "published_at": "2026-08-24T06:36:07+00:00",
+      "change_pct": -2.36
     },
     {
       "id": "f_6ea93ab94489d3",
@@ -46,7 +58,7 @@
       "url": "https://finnhub.io/api/news?id=23eb33df2ba28efd8fecad7a76ecd201b58621e1f43a4a10304f2bc4e70da3f7",
       "source": "Benzinga",
       "published_at": "2026-08-24T02:13:21+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_37299b3063e6df",
@@ -58,7 +70,7 @@
       "url": "https://finnhub.io/api/news?id=8522f9c5d378b2e6f3094ea6b686f844912c8f43296bc2edff0144a92bd32f24",
       "source": "SeekingAlpha",
       "published_at": "2026-08-23T21:37:26+00:00",
-      "change_pct": 1.43
+      "change_pct": 1.19
     },
     {
       "id": "f_4fc2f2030c577a",
@@ -70,7 +82,7 @@
       "url": "https://finnhub.io/api/news?id=2b119cb948dbc9e29f9e032f928f4b695c25d81281e877ecbe16b7d4de27e69d",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T09:30:34+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_cbbe88e040c821",
@@ -82,7 +94,7 @@
       "url": "https://finnhub.io/api/news?id=6c96e89c38999e2c42720f86887deb312dfaa033a7c01ca2152b00736d9bc64a",
       "source": "Yahoo",
       "published_at": "2026-08-23T19:00:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_939f7b980dc265",
@@ -94,7 +106,7 @@
       "url": "https://finnhub.io/api/news?id=4d4b35e25727d44c6b38d5e53dc4c93ead55deb21beb1d859b9a4231f23ad276",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:40:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_ea4db363a5fc20",
@@ -106,7 +118,33 @@
       "url": "https://finnhub.io/api/news?id=577c8a3d6038618e28ec5afaa43dec0226d48d1817f11f0686ae6a2bdee952d9",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:30:17+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_4649b8ec92c6ba",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia's dedicated inference accelerator Groq 3 LPX enters full production to supercharge AI agents",
+      "summary": "Nvidia's Groq 3 LPX, a dedicated AI inference accelerator, has entered full production to enhance AI agent performance. The chip, part of Nvidia's Vera Rubin data center platform, is designed for ultra-fast token generation to prevent decode latency in complex AI workloads. Nebiu",
+      "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-08-24T15:09:39+00:00",
+      "sentiment": 0.465167,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_62426b1eb034d0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lancium Announces Partnership with NVIDIA to Advance Gigawatt-Scale AI Factory Development Across Its 15+ GW Portfolio",
+      "summary": "Lancium has announced a strategic partnership with NVIDIA to advance gigawatt-scale AI factory development across its 15+ GW portfolio. NVIDIA has also made a strategic investment in Lancium, a Blackstone portfolio company. This collaboration will enable the deployment of NVIDIA'",
+      "url": "https://www.cnhinews.com/news/article_bf343275-9d44-5c5a-ba37-2e81cbc71dce.html",
+      "source": "cnhinews.com",
+      "published_at": "2026-08-24T16:07:31+00:00",
+      "sentiment": 0.416462,
+      "change_pct": -2.36
     },
     {
       "id": "av_bba0ca8d34b685",
@@ -118,8 +156,8 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/perplexity-deal-highlights-pattern-nvidias-140251620.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-24T14:09:49+00:00",
-      "sentiment": 0.431721,
-      "change_pct": -2.17
+      "sentiment": 0.430297,
+      "change_pct": -2.36
     },
     {
       "id": "f_0e0a0dd19360f8",
@@ -131,7 +169,7 @@
       "url": "https://finnhub.io/api/news?id=9dcc2287ef66a958ed72e89b6c823acb682681976b1000979d8ef38026bd6060",
       "source": "Yahoo",
       "published_at": "2026-08-23T12:35:00+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_16b4459c8f53fd",
@@ -143,7 +181,7 @@
       "url": "https://finnhub.io/api/news?id=f41f5da02a4528dd04591f2841a46d2ad6af0f415c3594e4a8c05456d827a23c",
       "source": "Yahoo",
       "published_at": "2026-08-23T12:25:02+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_482b9a142dc203",
@@ -155,7 +193,7 @@
       "url": "https://finnhub.io/api/news?id=55ca81f4840f9fbdfd93fb977ace150ad25a7d29c2ff4a1de1b11449d47d2e76",
       "source": "SeekingAlpha",
       "published_at": "2026-08-23T07:25:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_5e9fd2fd203265",
@@ -167,7 +205,7 @@
       "url": "https://finnhub.io/api/news?id=6025b19b29078973747517a691ae2ae3fc449cd2973b7c6af900a61bec69f534",
       "source": "Yahoo",
       "published_at": "2026-08-23T04:30:25+00:00",
-      "change_pct": 1.44,
+      "change_pct": 1.3,
       "title_kr": "Amazon이 지원하는 Anthropic은 2조 달러의 가치 평가를 정당화하기 위해 1.2조 달러의 수익이 필요하다고 '평가 담당관'이 밝혔습니다.",
       "summary_kr": "Aswath Damodaran은 Anthropic이 2조 달러의 가치 평가를 정당화하기 위해 연간 수익 1조 2천억 달러가 필요하여 Amazon의 지분을 높일 것이라고 말했습니다."
     },
@@ -203,30 +241,20 @@
       "url": "https://finnhub.io/api/news?id=c738e32e8438da4b02975a41d406b49e455962633677b268cdeef21938261d67",
       "source": "Yahoo",
       "published_at": "2026-08-22T17:27:09+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
-      "id": "f_258c051adc25ee",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "earnings",
-      "title": "Regions Financial (RF) Stock Could Trade At A 48% Discount On Earnings Power",
-      "summary": "Regions Financial stock has delivered an 87.6% gain over the past three years, yet valuation checks suggest the current share price of US$30.41 may still sit below an intrinsic value estimate based on the Excess Returns model, with market multiples pointing in the same direction. The 87.6% total return over three years highlights that investors have already seen strong gains. The question is whether there is still mispricing left in the share price. For Regions Financial, expectations for...",
-      "url": "https://finnhub.io/api/news?id=5d1cec3782257b46e6f01803b7ab94e03f370dc7cc545e17e19292c8872e5b85",
-      "source": "Yahoo",
-      "published_at": "2026-08-22T15:07:43+00:00",
-      "change_pct": 1.65
-    },
-    {
-      "id": "f_ae42bdc7db74d0",
-      "provider": "finnhub",
-      "ticker": "RKLB",
-      "category": "earnings",
-      "title": "Rocket Lab Trades at 59 Times Revenue With Neutron Still Unflown",
-      "summary": "The launch company keeps setting records, and its backlog has more than doubled. The valuation assumes a much bigger company -- one that needs a rocket that hasn't left the ground.",
-      "url": "https://finnhub.io/api/news?id=495ccceaae0994cd94b70045390ddd383be3c6812d583ed0a8f74302151644aa",
-      "source": "Yahoo",
-      "published_at": "2026-08-22T14:47:01+00:00"
+      "id": "av_48321d2a1e103a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "3 Reasons to Avoid GL and 1 Stock to Buy Instead",
+      "summary": "This article explains three reasons to avoid investing in Globe Life (GL) despite its recent stock performance. The author highlights Globe Life's disappointing long-term revenue growth, soft demand indicated by net premiums earned, and a valuation that offers limited upside comp",
+      "url": "https://uk.finance.yahoo.com/news/3-reasons-avoid-gl-1-164136637.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-08-24T16:41:23+00:00",
+      "sentiment": 0.336464,
+      "change_pct": -2.36
     },
     {
       "id": "av_aa6b3e702e2a37",
@@ -238,8 +266,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/keycorp-reaffirms-overweight-rating-for-nvidia-nasdaqnvda-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T12:46:24+00:00",
-      "sentiment": 0.429142,
-      "change_pct": -2.17
+      "sentiment": 0.426299,
+      "change_pct": -2.36
     },
     {
       "id": "av_4059d58924f48f",
@@ -251,34 +279,8 @@
       "url": "https://www.tradingkey.com/news/market-movers/262128211-market-movers-glw-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T16:15:30+00:00",
-      "sentiment": -0.339211,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_d8f0a3d8ca971f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
-      "summary": "Nvidia has reportedly informed its largest customers of a more than 15% price increase for servers containing its AI chips, a move analyst Dan Ives suggests is bullish for the tech sector due to overwhelming AI demand. While Nvidia passes on costs, the price hike highlights Micro",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61380830/nvidia-ai-server-prices-micron",
-      "source": "Benzinga",
-      "published_at": "2026-08-24T13:39:59+00:00",
-      "sentiment": 0.329583,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_f3f2f6ca339136",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Advanced Micro Devices Inc Stock (AMD) Opened Down by 3.86% on Aug 24: Key Drivers Unveiled",
-      "summary": "Advanced Micro Devices Inc (AMD) stock opened down by 3.86% on August 24, driven by sector-wide profit-taking, portfolio rebalancing, and macroeconomic headwinds such as rising Treasury yields. The company's valuation is also pressured by competitive dynamics in the data center A",
-      "url": "https://www.tradingkey.com/news/market-movers/262127878-market-movers-amd-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T13:47:16+00:00",
-      "sentiment": -0.32318,
-      "change_pct": -2.17
+      "sentiment": -0.305242,
+      "change_pct": -2.36
     },
     {
       "id": "av_8aa07eb83a4b86",
@@ -290,8 +292,8 @@
       "url": "https://www.tradingkey.com/news/market-movers/262127882-market-movers-intc-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T13:47:05+00:00",
-      "sentiment": -0.313958,
-      "change_pct": -2.17
+      "sentiment": -0.349062,
+      "change_pct": -2.36
     },
     {
       "id": "av_903a0f6df05001",
@@ -303,8 +305,21 @@
       "url": "https://www.tradingkey.com/news/market-movers/262127879-market-movers-mu-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T13:46:59+00:00",
-      "sentiment": -0.309584,
-      "change_pct": -2.17
+      "sentiment": -0.329415,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_f3f2f6ca339136",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advanced Micro Devices Inc Stock (AMD) Opened Down by 3.86% on Aug 24: Key Drivers Unveiled",
+      "summary": "Advanced Micro Devices Inc (AMD) stock opened down by 3.86% on August 24, driven by sector-wide profit-taking, portfolio rebalancing, and macroeconomic headwinds such as rising Treasury yields. The company's valuation is also pressured by competitive dynamics in the data center A",
+      "url": "https://www.tradingkey.com/news/market-movers/262127878-market-movers-amd-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T13:47:16+00:00",
+      "sentiment": -0.327904,
+      "change_pct": -2.36
     },
     {
       "id": "av_443687de92aa53",
@@ -316,8 +331,21 @@
       "url": "https://www.morningstar.com/stocks/10-stocks-top-fund-managers-have-been-buying-amid-market-uncertainty",
       "source": "Morningstar",
       "published_at": "2026-08-24T09:02:22+00:00",
-      "sentiment": 0.427131,
-      "change_pct": -2.17
+      "sentiment": 0.434727,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_d8f0a3d8ca971f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
+      "summary": "Nvidia has reportedly informed its largest customers of a more than 15% price increase for servers containing its AI chips, a move analyst Dan Ives suggests is bullish for the tech sector due to overwhelming AI demand. While Nvidia passes on costs, the price hike highlights Micro",
+      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61380830/nvidia-ai-server-prices-micron",
+      "source": "Benzinga",
+      "published_at": "2026-08-24T13:39:59+00:00",
+      "sentiment": 0.317915,
+      "change_pct": -2.36
     },
     {
       "id": "av_5c49b6fbac591e",
@@ -329,21 +357,8 @@
       "url": "https://ca.finance.yahoo.com/news/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-08-24T12:50:04+00:00",
-      "sentiment": 0.312314,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_65146f8cc08e2c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Western Digital Corp Stock (WDC) Moved Down by 5.55% on Aug 24: Key Drivers Unveiled",
-      "summary": "Western Digital Corp (WDC) stock fell by 5.55% on August 24, primarily due to post-earnings profit-taking, brokerage downgrades, and elevated valuation multiples. Despite beating earnings estimates and providing solid forward guidance, market expectations were exceptionally high ",
-      "url": "https://www.tradingkey.com/news/market-movers/262128212-market-movers-wdc-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T16:15:30+00:00",
-      "sentiment": -0.223252,
-      "change_pct": -2.17
+      "sentiment": 0.324728,
+      "change_pct": -2.36
     },
     {
       "id": "av_f3fe375e03ff52",
@@ -355,20 +370,8 @@
       "url": "https://www.investing.com/news/stock-market-news/morgan-stanley-sees-quality-stocks-and-ai-adopters-leading-market-93CH-4873513",
       "source": "Investing.com",
       "published_at": "2026-08-24T12:46:54+00:00",
-      "sentiment": 0.301372,
-      "change_pct": -2.17
-    },
-    {
-      "id": "f_92d1d0931bf936",
-      "provider": "finnhub",
-      "ticker": "MSTR",
-      "category": "analyst",
-      "title": "Bitcoin, Ethereum Gain, XRP, Dogecoin Slide as Crypto Market Takes a Breather: Analyst Predicts 'Little Dip' Before BTC Hits 'New Highs'",
-      "summary": "Leading cryptocurrencies pulled back on Sunday, August 23, after a sharp rally earlier in the week as geopolitical tensions tempered risk appetite.",
-      "url": "https://finnhub.io/api/news?id=0adf0d53553da7878b14e7f7c7dbbd0f61a2d6fef8f02324e3cf4f2c53a0a1c8",
-      "source": "Benzinga",
-      "published_at": "2026-08-23T21:57:11+00:00",
-      "change_pct": 3.48
+      "sentiment": 0.307684,
+      "change_pct": -2.36
     },
     {
       "id": "av_ce40007eabf37f",
@@ -380,8 +383,33 @@
       "url": "https://aimagazine.com/news/tech-mahindra-servicenow-taking-gen-ai-pilots-to-scale",
       "source": "AI Magazine",
       "published_at": "2026-08-24T11:09:42+00:00",
-      "sentiment": 0.331,
-      "change_pct": -2.17
+      "sentiment": 0.345004,
+      "change_pct": -2.36
+    },
+    {
+      "id": "f_92d1d0931bf936",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "analyst",
+      "title": "Bitcoin, Ethereum Gain, XRP, Dogecoin Slide as Crypto Market Takes a Breather: Analyst Predicts 'Little Dip' Before BTC Hits 'New Highs'",
+      "summary": "Leading cryptocurrencies pulled back on Sunday, August 23, after a sharp rally earlier in the week as geopolitical tensions tempered risk appetite.",
+      "url": "https://finnhub.io/api/news?id=0adf0d53553da7878b14e7f7c7dbbd0f61a2d6fef8f02324e3cf4f2c53a0a1c8",
+      "source": "Benzinga",
+      "published_at": "2026-08-23T21:57:11+00:00",
+      "change_pct": 2.84
+    },
+    {
+      "id": "av_65146f8cc08e2c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Western Digital Corp Stock (WDC) Moved Down by 5.55% on Aug 24: Key Drivers Unveiled",
+      "summary": "Western Digital Corp (WDC) stock fell by 5.55% on August 24, primarily due to post-earnings profit-taking, brokerage downgrades, and elevated valuation multiples. Despite beating earnings estimates and providing solid forward guidance, market expectations were exceptionally high ",
+      "url": "https://www.tradingkey.com/news/market-movers/262128212-market-movers-wdc-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T16:15:30+00:00",
+      "sentiment": -0.204319,
+      "change_pct": -2.36
     },
     {
       "id": "av_2b78c7844cc478",
@@ -393,21 +421,21 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4004255/buy-these-3-pure-play-server-stocks-to-benefit-from-ai-data-center-boom/",
       "source": "The Globe and Mail",
       "published_at": "2026-08-24T15:38:33+00:00",
-      "sentiment": 0.205653,
-      "change_pct": -2.17
+      "sentiment": 0.214409,
+      "change_pct": -2.36
     },
     {
-      "id": "av_ecfcade3d0ab00",
+      "id": "av_c0d28414b8de64",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Synopsys to Report Q3 Earnings: What's in Store for the Stock?",
-      "summary": "Synopsys (SNPS) is set to announce its fiscal third-quarter 2026 results on August 26, with analysts predicting an 8.3% year-over-year earnings increase and a 40% revenue rise, driven largely by AI-fueled demand for semiconductor design solutions. Factors such as strong demand in",
-      "url": "https://www.tradingview.com/news/zacks:73372f0e6094b:0-synopsys-to-report-q3-earnings-what-s-in-store-for-the-stock/",
+      "title": "Weekly Recap: Fabrinet Q4 revenue, EPS and Four customers ≥10%, 51% DC",
+      "summary": "Fabrinet (NYSE:FN) reported strong Q4 FY2026 results with $1.315 billion in revenue and GAAP EPS of $3.83, largely driven by data center demand and key customers like Cisco and Nvidia. The company is expanding its manufacturing capacity and has increased executive compensation, w",
+      "url": "https://www.tradingview.com/news/tradingview:218d63cc3ec0f:0-weekly-recap-fabrinet-q4-revenue-eps-and-four-customers-10-51-dc/",
       "source": "TradingView",
-      "published_at": "2026-08-24T14:40:43+00:00",
-      "sentiment": 0.221674,
-      "change_pct": -2.17
+      "published_at": "2026-08-24T11:11:52+00:00",
+      "sentiment": 0.313851,
+      "change_pct": -2.36
     },
     {
       "id": "f_2474aaafb77075",
@@ -421,56 +449,17 @@
       "published_at": "2026-08-24T16:42:51+00:00"
     },
     {
-      "id": "av_c0d28414b8de64",
+      "id": "av_55b04053055ee1",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Weekly Recap: Fabrinet Q4 revenue, EPS and Four customers ≥10%, 51% DC",
-      "summary": "Fabrinet (NYSE:FN) reported strong Q4 FY2026 results with $1.315 billion in revenue and GAAP EPS of $3.83, largely driven by data center demand and key customers like Cisco and Nvidia. The company is expanding its manufacturing capacity and has increased executive compensation, w",
-      "url": "https://www.tradingview.com/news/tradingview:218d63cc3ec0f:0-weekly-recap-fabrinet-q4-revenue-eps-and-four-customers-10-51-dc/",
-      "source": "TradingView",
-      "published_at": "2026-08-24T11:11:52+00:00",
-      "sentiment": 0.303198,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_c3568a5ecef510",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lam Research Corp Stock (LRCX) Moved Down by 4.38% on Aug 24: A Full Analysis",
-      "summary": "Lam Research Corp (LRCX) shares fell by 4.38% due to profit-taking and valuation de-risking in the semiconductor industry, despite robust underlying business fundamentals. The decline is attributed to macroeconomic headwinds, institutional adjustments, and insider selling, as inv",
-      "url": "https://www.tradingkey.com/news/market-movers/262127964-market-movers-lrcx-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T14:15:31+00:00",
-      "sentiment": -0.217884,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_d4686bf9a5f2f1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "US Stocks Fall as Traders Prep for Nvidia Earnings, Jackson Hole - Bloomberg",
-      "summary": "US stocks experienced a decline on Monday as investors anticipated a busy week of economic data and Nvidia Corp. earnings. The S&P 500 Index dropped 0.3%, and the technology-heavy Nasdaq 100 Index fell 1%, indicating a pullback from previous gains. Treasury yields were lower, whi",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
+      "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
+      "summary": "Taiwanese prosecutors have indicted a senior Nvidia manager, surnamed Chang, and eight others for allegedly smuggling advanced AI chips into China. The group is accused of organizing the shipment of 74 servers containing high-end B300 chips through Japan and Indonesia, thereby ci",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
       "source": "Bloomberg.com",
-      "published_at": "2026-08-24T12:23:00+00:00",
-      "sentiment": -0.24478,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_64e03656d512e2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia opens talks with Rebellions on potential AI chip partnership",
-      "summary": "Nvidia is in early-stage discussions with South Korean AI chip startup Rebellions regarding potential collaborations, including technical partnerships, investments, or even an acquisition. This follows a meeting between Nvidia CEO Jensen Huang and Rebellions CEO Sunghyun Park. Re",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-opens-talks-rebellions-potential-085753173.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-24T08:57:38+00:00",
-      "sentiment": 0.32979,
-      "change_pct": -2.17
+      "published_at": "2026-08-24T14:12:00+00:00",
+      "sentiment": -0.226613,
+      "change_pct": -2.36
     },
     {
       "id": "av_e9d7082e44fe03",
@@ -482,8 +471,47 @@
       "url": "https://www.tradingkey.com/news/market-movers/262127880-market-movers-amat-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T13:47:11+00:00",
-      "sentiment": -0.200685,
-      "change_pct": -2.17
+      "sentiment": -0.227202,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_ecfcade3d0ab00",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Synopsys to Report Q3 Earnings: What's in Store for the Stock?",
+      "summary": "Synopsys (SNPS) is set to announce its fiscal third-quarter 2026 results on August 26, with analysts predicting an 8.3% year-over-year earnings increase and a 40% revenue rise, driven largely by AI-fueled demand for semiconductor design solutions. Factors such as strong demand in",
+      "url": "https://www.tradingview.com/news/zacks:73372f0e6094b:0-synopsys-to-report-q3-earnings-what-s-in-store-for-the-stock/",
+      "source": "TradingView",
+      "published_at": "2026-08-24T14:40:43+00:00",
+      "sentiment": 0.202721,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_c3568a5ecef510",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 4.38% on Aug 24: A Full Analysis",
+      "summary": "Lam Research Corp (LRCX) shares fell by 4.38% due to profit-taking and valuation de-risking in the semiconductor industry, despite robust underlying business fundamentals. The decline is attributed to macroeconomic headwinds, institutional adjustments, and insider selling, as inv",
+      "url": "https://www.tradingkey.com/news/market-movers/262127964-market-movers-lrcx-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T14:15:31+00:00",
+      "sentiment": -0.2125,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_64e03656d512e2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia opens talks with Rebellions on potential AI chip partnership",
+      "summary": "Nvidia is in early-stage discussions with South Korean AI chip startup Rebellions regarding potential collaborations, including technical partnerships, investments, or even an acquisition. This follows a meeting between Nvidia CEO Jensen Huang and Rebellions CEO Sunghyun Park. Re",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-opens-talks-rebellions-potential-085753173.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-24T08:57:38+00:00",
+      "sentiment": 0.317721,
+      "change_pct": -2.36
     },
     {
       "id": "av_a1ace881b379ad",
@@ -495,47 +523,8 @@
       "url": "https://www.crn.com/news/components-peripherals/2026/intel-s-cpu-market-share-falls-to-31-year-low-as-ai-mania-fuels-record-growth",
       "source": "www.crn.com",
       "published_at": "2026-08-24T16:00:04+00:00",
-      "sentiment": 0.137442,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_5a6c9d69dad6aa",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026",
-      "summary": "Gartner forecasts worldwide semiconductor revenue to reach $1.6 trillion in 2026, a 92% increase from 2025, driven largely by sustained investment in AI infrastructure and a strong memory pricing cycle. The AI data center ecosystem is expected to significantly increase its share ",
-      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-08-24-gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-trillion-dollars-in-2026",
-      "source": "Gartner",
-      "published_at": "2026-08-24T07:29:50+00:00",
-      "sentiment": 0.338832,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_1f137bc88c5c48",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Intel focuses on ‘AI factory’ market",
-      "summary": "Intel is strategically shifting its focus towards the \"AI factory\" market, which involves creating computing infrastructures for AI model training and applications. This move is part of the U.S. chip giant's restructuring efforts to become more agile, with a particular emphasis o",
-      "url": "https://valorinternational.globo.com/business/news/2026/08/24/intel-focuses-on-ai-factory-market.ghtml",
-      "source": "Valor International",
-      "published_at": "2026-08-24T12:09:00+00:00",
-      "sentiment": 0.220152,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_d86dd833f514cc",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Creative Financial Designs Inc. ADV Buys 2,696 Shares of Invesco QQQ $QQQ",
-      "summary": "Creative Financial Designs Inc. ADV increased its stake in Invesco QQQ (NASDAQ:QQQ) by 12.5% in the second quarter, purchasing 2,696 additional shares to hold a total of 24,254 shares valued at $17.9 million. The Invesco QQQ fund recently raised its quarterly dividend to $0.8135,",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-creative-financial-designs-inc-adv-buys-2696-shares-of-invesco-qqq-qqq-2026-08-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-24T08:00:01+00:00",
-      "sentiment": 0.320925,
-      "change_pct": -2.17
+      "sentiment": 0.135872,
+      "change_pct": -2.36
     },
     {
       "id": "av_cf4a0fd2609f85",
@@ -547,21 +536,60 @@
       "url": "https://www.tradingview.com/news/tradingview:efa264104196a:0-weekly-recap-amd-4-75b-senior-notes-sale-and-helios-racks-shipping-sept-2026/",
       "source": "TradingView",
       "published_at": "2026-08-24T11:37:18+00:00",
-      "sentiment": 0.218093,
-      "change_pct": -2.17
+      "sentiment": 0.24351,
+      "change_pct": -2.36
     },
     {
-      "id": "av_b964b46dfe7236",
+      "id": "av_d4686bf9a5f2f1",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
-      "summary": "U.S. stock index futures slipped on Monday due to concerns over impending U.S. sanctions on Iran and ahead of Nvidia's quarterly results and a crucial inflation report. Investors are also closely watching Federal Reserve Chair Kevin Warsh's speech at the Jackson Hole symposium fo",
-      "url": "https://ca.finance.yahoo.com/news/p-nasdaq-futures-slip-markets-100932666.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-08-24T09:40:02+00:00",
-      "sentiment": -0.243599,
-      "change_pct": -2.17
+      "title": "US Stocks Fall as Traders Prep for Nvidia Earnings, Jackson Hole - Bloomberg",
+      "summary": "US stocks experienced a decline on Monday as investors anticipated a busy week of economic data and Nvidia Corp. earnings. The S&P 500 Index dropped 0.3%, and the technology-heavy Nasdaq 100 Index fell 1%, indicating a pullback from previous gains. Treasury yields were lower, whi",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/us-futures-drop-as-investors-prep-for-busy-week-nvidia-earnings",
+      "source": "Bloomberg.com",
+      "published_at": "2026-08-24T12:23:00+00:00",
+      "sentiment": -0.209118,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_1f137bc88c5c48",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel focuses on ‘AI factory’ market",
+      "summary": "Intel is strategically shifting its focus towards the \"AI factory\" market, which involves creating computing infrastructures for AI model training and applications. This move is part of the U.S. chip giant's restructuring efforts to become more agile, with a particular emphasis o",
+      "url": "https://valorinternational.globo.com/business/news/2026/08/24/intel-focuses-on-ai-factory-market.ghtml",
+      "source": "Valor International",
+      "published_at": "2026-08-24T12:09:00+00:00",
+      "sentiment": 0.210177,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_d86dd833f514cc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Creative Financial Designs Inc. ADV Buys 2,696 Shares of Invesco QQQ $QQQ",
+      "summary": "Creative Financial Designs Inc. ADV increased its stake in Invesco QQQ (NASDAQ:QQQ) by 12.5% in the second quarter, purchasing 2,696 additional shares to hold a total of 24,254 shares valued at $17.9 million. The Invesco QQQ fund recently raised its quarterly dividend to $0.8135,",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-creative-financial-designs-inc-adv-buys-2696-shares-of-invesco-qqq-qqq-2026-08-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-24T08:00:01+00:00",
+      "sentiment": 0.303381,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_5a6c9d69dad6aa",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026",
+      "summary": "Gartner forecasts worldwide semiconductor revenue to reach $1.6 trillion in 2026, a 92% increase from 2025, driven largely by sustained investment in AI infrastructure and a strong memory pricing cycle. The AI data center ecosystem is expected to significantly increase its share ",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-08-24-gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-trillion-dollars-in-2026",
+      "source": "Gartner",
+      "published_at": "2026-08-24T07:29:50+00:00",
+      "sentiment": 0.306322,
+      "change_pct": -2.36
     },
     {
       "id": "av_de873aea38fdec",
@@ -573,8 +601,8 @@
       "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/seagate-stock-trades-softer-as-tech-sector-slides-ahead-of-key-nvidia/69993936",
       "source": "Ad-hoc-news.de",
       "published_at": "2026-08-24T14:05:34+00:00",
-      "sentiment": 0.10389,
-      "change_pct": -2.17
+      "sentiment": 0.133029,
+      "change_pct": -2.36
     },
     {
       "id": "av_5d8866dce3cd5b",
@@ -586,21 +614,8 @@
       "url": "https://www.tradingview.com/news/gurufocus:a278d4f03094b:0-amd-stock-gets-stunning-price-target-from-wall-street/",
       "source": "TradingView",
       "published_at": "2026-08-24T13:07:16+00:00",
-      "sentiment": 0.122958,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_34932926061be6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia earnings face a frustrating reality",
-      "summary": "Nvidia's upcoming earnings report faces high expectations, despite a history of stock declines following strong reports. Analysts suggest that for a re-rating to occur, a new narrative focusing on Nvidia's role in open-source AI, particularly small language models, will be crucia",
-      "url": "https://ca.finance.yahoo.com/news/nvidia-earnings-face-a-frustrating-reality-103234712.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-08-24T12:09:26+00:00",
-      "sentiment": 0.140354,
-      "change_pct": -2.17
+      "sentiment": 0.14535,
+      "change_pct": -2.36
     },
     {
       "id": "av_460526627e79e9",
@@ -612,8 +627,34 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-elevation-point-wealth-partners-llc-acquires-new-shares-in-digital-realty-trust-inc-dlr-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T09:00:31+00:00",
-      "sentiment": 0.204653,
-      "change_pct": -2.17
+      "sentiment": 0.235637,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_b964b46dfe7236",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "S&P, Nasdaq futures slip as markets await Iran sanctions, Nvidia results",
+      "summary": "U.S. stock index futures slipped on Monday due to concerns over impending U.S. sanctions on Iran and ahead of Nvidia's quarterly results and a crucial inflation report. Investors are also closely watching Federal Reserve Chair Kevin Warsh's speech at the Jackson Hole symposium fo",
+      "url": "https://ca.finance.yahoo.com/news/p-nasdaq-futures-slip-markets-100932666.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-08-24T09:40:02+00:00",
+      "sentiment": -0.2073,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_34932926061be6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia earnings face a frustrating reality",
+      "summary": "Nvidia's upcoming earnings report faces high expectations, despite a history of stock declines following strong reports. Analysts suggest that for a re-rating to occur, a new narrative focusing on Nvidia's role in open-source AI, particularly small language models, will be crucia",
+      "url": "https://ca.finance.yahoo.com/news/nvidia-earnings-face-a-frustrating-reality-103234712.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-08-24T12:09:26+00:00",
+      "sentiment": 0.143514,
+      "change_pct": -2.36
     },
     {
       "id": "av_94d725a3551d1c",
@@ -625,8 +666,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-echo45-advisors-llc-sells-4636-shares-of-nvidia-corporation-nvda-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T07:59:49+00:00",
-      "sentiment": 0.221795,
-      "change_pct": -2.17
+      "sentiment": 0.241525,
+      "change_pct": -2.36
     },
     {
       "id": "f_3478f5fcf0da8b",
@@ -638,7 +679,7 @@
       "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6",
       "source": "ChartMill",
       "published_at": "2026-08-24T16:40:05+00:00",
-      "change_pct": -2.17,
+      "change_pct": -2.36,
       "title_kr": "오늘 세션에서 다우존스 지수 내 최고 상승자와 하락자를 살펴보세요.",
       "summary_kr": "금요일에 움직이는 다우존스 주식에 대해 궁금하십니까? 오늘 세션에서 다우존스 지수 내 최고 변동 항목을 살펴보는 데 참여해 보세요."
     },
@@ -656,43 +697,17 @@
       "summary_kr": "금요일 정오에는 S&P500 지수의 움직임에 대한 최신 소식을 받아보세요. 오늘 세션에서 어떤 주식이 최고 상승주와 하락주를 주도하고 있는지 알아보세요."
     },
     {
-      "id": "av_e99eeed124a8f6",
+      "id": "av_4562590ec3daa6",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Have Insiders Sold Commvault Systems Shares Recently?",
-      "summary": "Commvault Systems' President, Sanjay Mirchandani, recently sold shares worth US$695k at an average price of US$144, though this only reduced his holding by 1.6%. Earlier in the year, he also sold shares at a lower price of US$107. The article highlights that no insiders bought sh",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-cvlt/commvault-systems/news/have-insiders-sold-commvault-systems-shares-recently-2",
-      "source": "Simply Wall Street",
-      "published_at": "2026-08-24T10:44:21+00:00",
-      "sentiment": 0.142286,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_cb50db2dc94d5c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Advanced Micro Devices, Inc. $AMD Position Increased by West Family Investments Inc.",
-      "summary": "West Family Investments Inc. significantly increased its stake in Advanced Micro Devices (NASDAQ:AMD) by 98.8% in the second quarter, bringing its total holdings to 4,922 shares valued at $2.86 million. This move is part of a broader trend of institutional investment in AMD, alon",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-position-increased-by-west-family-investments-inc-2026-08-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-24T10:07:16+00:00",
-      "sentiment": -0.146729,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_8a07d7f1e86c29",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Artemis Wealth Advisors LLC Purchases 8,500 Shares of Advanced Micro Devices, Inc. $AMD",
-      "summary": "Artemis Wealth Advisors LLC significantly increased its stake in Advanced Micro Devices (AMD) by 212.5%, adding 8,500 shares to now own 12,500 shares valued at $7.26 million. This move comes as institutional investors collectively hold 71.34% of AMD, following strong quarterly re",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-artemis-wealth-advisors-llc-purchases-8500-shares-of-advanced-micro-devices-inc-amd-2026-08-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-24T07:14:12+00:00",
-      "sentiment": -0.218594,
-      "change_pct": -2.17
+      "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
+      "summary": "Semiconductor stocks, including Intel, AMD, and Taiwan Semiconductor, experienced declines ahead of NVIDIA's crucial earnings report. Traders are reducing their exposure to the sector, especially to Intel, which had seen significant gains this year. NVIDIA's past earnings reactio",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-24T10:43:00+00:00",
+      "sentiment": 0.138489,
+      "change_pct": -2.36
     },
     {
       "id": "av_83d5df63cb3a51",
@@ -704,60 +719,21 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-newedge-wealth-llc-boosts-stake-in-advanced-micro-devices-inc-amd-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T10:07:16+00:00",
-      "sentiment": -0.141113,
-      "change_pct": -2.17
+      "sentiment": -0.147186,
+      "change_pct": -2.36
     },
     {
-      "id": "av_4562590ec3daa6",
+      "id": "av_e99eeed124a8f6",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
-      "summary": "Semiconductor stocks, including Intel, AMD, and Taiwan Semiconductor, experienced declines ahead of NVIDIA's crucial earnings report. Traders are reducing their exposure to the sector, especially to Intel, which had seen significant gains this year. NVIDIA's past earnings reactio",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-24T10:43:00+00:00",
-      "sentiment": 0.121076,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_035887fa6bf536",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "New Paradigm Capital Management LLC Buys Shares of 27,500 Intel Corporation $INTC",
-      "summary": "New Paradigm Capital Management LLC has acquired 27,500 shares of Intel Corporation, making it the firm's fifth-largest holding. This institutional buying, alongside a significant purchase by Intel's CEO Lip-Bu Tan, signals confidence in the company despite a \"Hold\" rating from a",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-new-paradigm-capital-management-llc-buys-shares-of-27500-intel-corporation-intc-2026-08-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-24T09:12:21+00:00",
-      "sentiment": 0.139388,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_27054c720f094f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple's First Foldable iPhone Set to Launch Soon",
-      "summary": "Apple is reportedly launching its first foldable iPhone around September 9th, priced over $2,000, despite lacking some features like a telephoto camera and Face ID. Analysts anticipate it will be a significant product, with Rothschild & Co Redburn upgrading AAPL stock and raising",
-      "url": "https://intellectia.ai/news/stock/apples-first-foldable-iphone-set-to-launch-soon",
-      "source": "Intellectia AI",
-      "published_at": "2026-08-24T09:16:06+00:00",
-      "sentiment": -0.135057,
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_58098890388166",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Morgan Stanley’s Wilson Sees Higher Oil as Key Risk for Equities",
-      "summary": "Morgan Stanley's Michael Wilson views a renewed spike in oil prices as the primary risk for US equities, suggesting that energy shares can hedge portfolios. He warns that higher oil prices could elevate yields, prompting the Federal Reserve to intervene, potentially causing marke",
-      "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-wilson-sees-higher-094619560.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-24T10:09:54+00:00",
-      "sentiment": -0.110466,
-      "change_pct": -2.17
+      "title": "Have Insiders Sold Commvault Systems Shares Recently?",
+      "summary": "Commvault Systems' President, Sanjay Mirchandani, recently sold shares worth US$695k at an average price of US$144, though this only reduced his holding by 1.6%. Earlier in the year, he also sold shares at a lower price of US$107. The article highlights that no insiders bought sh",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-cvlt/commvault-systems/news/have-insiders-sold-commvault-systems-shares-recently-2",
+      "source": "Simply Wall Street",
+      "published_at": "2026-08-24T10:44:21+00:00",
+      "sentiment": 0.127729,
+      "change_pct": -2.36
     },
     {
       "id": "f_b9e090609c79af",
@@ -773,30 +749,30 @@
       "summary_kr": "월요일에 눈에 띄는 격차를 겪고 있는 S&P500 주식을 찾고 계십니까? 오늘 세션 동안 S&P500 지수에서 어떤 주식이 상승 및 하락하고 있는지 알아보세요."
     },
     {
-      "id": "av_eb05d8a4222f33",
+      "id": "av_cb50db2dc94d5c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "BlackRock Says the Long-Term Investment Thesis for Bitcoin Remains Intact. Is Bitcoin Now a Buy?",
-      "summary": "BlackRock maintains that the long-term investment thesis for Bitcoin remains strong despite recent price declines attributed to \"idiosyncratic deleveraging and flow dynamics.\" The asset management giant views Bitcoin as a global monetary alternative and a portfolio diversifier, a",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-says-long-term-investment-083300547.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-24T08:37:38+00:00",
-      "sentiment": 0.146391,
-      "change_pct": -2.17
+      "title": "Advanced Micro Devices, Inc. $AMD Position Increased by West Family Investments Inc.",
+      "summary": "West Family Investments Inc. significantly increased its stake in Advanced Micro Devices (NASDAQ:AMD) by 98.8% in the second quarter, bringing its total holdings to 4,922 shares valued at $2.86 million. This move is part of a broader trend of institutional investment in AMD, alon",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-position-increased-by-west-family-investments-inc-2026-08-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-24T10:07:16+00:00",
+      "sentiment": -0.106807,
+      "change_pct": -2.36
     },
     {
-      "id": "av_a406438d4f5d94",
+      "id": "av_58098890388166",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "INTU Stock In Focus: Jefferies Sees Recovery Opportunity Despite AI Fears Ahead Of Earnings",
-      "summary": "Jefferies has lowered its price target for Intuit (INTU) to $500 from $550, but maintains a 'Buy' rating, seeing a 36% upside potential despite a mixed outlook and AI disruption concerns. The firm believes Intuit's shares could recover given the stock's 45% decline this year and ",
-      "url": "https://stocktwits.com/news-articles/markets/equity/intu-stock-in-focus-jefferies-sees-recovery-opportunity-despite-ai-fears-ahead-of-earnings/cZYK9l1RJnl",
-      "source": "Stocktwits",
-      "published_at": "2026-08-24T08:56:42+00:00",
-      "sentiment": 0.13234,
-      "change_pct": -2.17
+      "title": "Morgan Stanley’s Wilson Sees Higher Oil as Key Risk for Equities",
+      "summary": "Morgan Stanley's Michael Wilson views a renewed spike in oil prices as the primary risk for US equities, suggesting that energy shares can hedge portfolios. He warns that higher oil prices could elevate yields, prompting the Federal Reserve to intervene, potentially causing marke",
+      "url": "https://finance.yahoo.com/energy/articles/morgan-stanley-wilson-sees-higher-094619560.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-24T10:09:54+00:00",
+      "sentiment": -0.105418,
+      "change_pct": -2.36
     },
     {
       "id": "av_1f2d715cad2748",
@@ -808,8 +784,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-acquired-by-great-lakes-advisors-llc-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T08:07:16+00:00",
-      "sentiment": 0.143393,
-      "change_pct": -2.17
+      "sentiment": 0.149492,
+      "change_pct": -2.36
     },
     {
       "id": "av_05301727729b31",
@@ -821,8 +797,59 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-csenge-advisory-group-buys-shares-of-31896-bank-of-america-corporation-bac-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T07:56:19+00:00",
-      "sentiment": -0.143198,
-      "change_pct": -2.17
+      "sentiment": -0.143942,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_27054c720f094f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple's First Foldable iPhone Set to Launch Soon",
+      "summary": "Apple is reportedly launching its first foldable iPhone around September 9th, priced over $2,000, despite lacking some features like a telephoto camera and Face ID. Analysts anticipate it will be a significant product, with Rothschild & Co Redburn upgrading AAPL stock and raising",
+      "url": "https://intellectia.ai/news/stock/apples-first-foldable-iphone-set-to-launch-soon",
+      "source": "Intellectia AI",
+      "published_at": "2026-08-24T09:16:06+00:00",
+      "sentiment": -0.105924,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_035887fa6bf536",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "New Paradigm Capital Management LLC Buys Shares of 27,500 Intel Corporation $INTC",
+      "summary": "New Paradigm Capital Management LLC has acquired 27,500 shares of Intel Corporation, making it the firm's fifth-largest holding. This institutional buying, alongside a significant purchase by Intel's CEO Lip-Bu Tan, signals confidence in the company despite a \"Hold\" rating from a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-new-paradigm-capital-management-llc-buys-shares-of-27500-intel-corporation-intc-2026-08-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-24T09:12:21+00:00",
+      "sentiment": 0.106833,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_a406438d4f5d94",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "INTU Stock In Focus: Jefferies Sees Recovery Opportunity Despite AI Fears Ahead Of Earnings",
+      "summary": "Jefferies has lowered its price target for Intuit (INTU) to $500 from $550, but maintains a 'Buy' rating, seeing a 36% upside potential despite a mixed outlook and AI disruption concerns. The firm believes Intuit's shares could recover given the stock's 45% decline this year and ",
+      "url": "https://stocktwits.com/news-articles/markets/equity/intu-stock-in-focus-jefferies-sees-recovery-opportunity-despite-ai-fears-ahead-of-earnings/cZYK9l1RJnl",
+      "source": "Stocktwits",
+      "published_at": "2026-08-24T08:56:42+00:00",
+      "sentiment": 0.108845,
+      "change_pct": -2.36
+    },
+    {
+      "id": "f_c9e58e6ccce33b",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Nvidia Is A Broken Stock",
+      "summary": "Nvidia Corporation: why itâs a near-term sellâserver price hikes, supply chain pressures, AI investments, and valuation/technical risks. Click for an NVDA update.",
+      "url": "https://finnhub.io/api/news?id=d37019d68f23137395beb94121c4b9e6f6555b7f0efacc5ec55984526fa81a15",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-24T13:10:39+00:00",
+      "change_pct": -2.36
     },
     {
       "id": "av_cdd6a0511f4145",
@@ -834,8 +861,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-shepherd-financial-partners-llc-makes-new-investment-in-bank-of-america-corporation-bac-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T09:32:28+00:00",
-      "sentiment": -0.093699,
-      "change_pct": -2.17
+      "sentiment": -0.088361,
+      "change_pct": -2.36
     },
     {
       "id": "av_1e594872489058",
@@ -847,8 +874,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-vista-cima-wealth-management-llc-cuts-stake-in-advanced-micro-devices-inc-amd-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T10:07:16+00:00",
-      "sentiment": 0.071727,
-      "change_pct": -2.17
+      "sentiment": 0.072208,
+      "change_pct": -2.36
     },
     {
       "id": "av_b84677725454b2",
@@ -860,8 +887,21 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-fifth-third-bancorp-reduces-holdings-in-intel-corporation-intc-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T08:00:29+00:00",
-      "sentiment": 0.115101,
-      "change_pct": -2.17
+      "sentiment": 0.124552,
+      "change_pct": -2.36
+    },
+    {
+      "id": "av_eb05d8a4222f33",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "BlackRock Says the Long-Term Investment Thesis for Bitcoin Remains Intact. Is Bitcoin Now a Buy?",
+      "summary": "BlackRock maintains that the long-term investment thesis for Bitcoin remains strong despite recent price declines attributed to \"idiosyncratic deleveraging and flow dynamics.\" The asset management giant views Bitcoin as a global monetary alternative and a portfolio diversifier, a",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-says-long-term-investment-083300547.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-24T08:37:38+00:00",
+      "sentiment": 0.106316,
+      "change_pct": -2.36
     },
     {
       "id": "f_ad66ed8de2477e",
@@ -873,20 +913,7 @@
       "url": "https://finnhub.io/api/news?id=e9386091a547b5c5ac5664a5b9868042b9c5f651b4bfd68eef3b900e2c40acb2",
       "source": "ChartMill",
       "published_at": "2026-08-24T12:35:00+00:00",
-      "change_pct": -3.29
-    },
-    {
-      "id": "av_e2d1e41c0c0ea4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SK Hynix Inc - ADR (SKHY) News, Articles, Events & Latest Updates",
-      "summary": "This article compiles recent news and updates concerning SK Hynix Inc. (SKHY), highlighting its significant share buyback announcement and plans for potential expansion into Japan. It also mentions competitor Samsung's shareholder return plans and the broader context of the memor",
-      "url": "https://stocktwits.com/symbol/SKHY/news",
-      "source": "Stocktwits",
-      "published_at": "2026-08-24T07:13:54+00:00",
-      "sentiment": 0.12776,
-      "change_pct": -2.17
+      "change_pct": -3.89
     },
     {
       "id": "f_763151c1bc8869",
@@ -898,7 +925,7 @@
       "url": "https://finnhub.io/api/news?id=91332a4036ce17030a26be9ec5ccaab0a38cff400940fabdcf5bb371b3b07f3b",
       "source": "ChartMill",
       "published_at": "2026-08-24T12:08:54+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_fc201f31c0f4c4",
@@ -910,20 +937,7 @@
       "url": "https://finnhub.io/api/news?id=f318437ce676e5179a51dbbe09bf41282cedf5d2d652b7b182e90d8740baf497",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T11:30:43+00:00",
-      "change_pct": -3.29
-    },
-    {
-      "id": "av_02314ccf58ef1d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Goldman Sachs pours cold water ahead of Nvidia earnings: Routine beats no longer enough, stock may face pullback",
-      "summary": "Goldman Sachs warns that a routine earnings beat will likely not be enough to boost Nvidia's stock after its fiscal Q2 2027 earnings report on August 26, given the shares are up over 12% in two weeks. Despite analyst James Schneider's bullish EPS forecasts and Buy rating, the fir",
-      "url": "https://finance.biggo.com/news/5da9303b-25a8-43fc-8ae3-d6591d203891",
-      "source": "BigGo Finance",
-      "published_at": "2026-08-24T07:12:31+00:00",
-      "sentiment": -0.101466,
-      "change_pct": -2.17
+      "change_pct": -3.89
     },
     {
       "id": "f_d590d3ae4d97ac",
@@ -935,7 +949,7 @@
       "url": "https://finnhub.io/api/news?id=e9c395b5e76c8232cf11d6c278831380b9363397b40c2e6216714fb198c63295",
       "source": "ChartMill",
       "published_at": "2026-08-24T11:11:52+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_4db8a53a550553",
@@ -947,7 +961,19 @@
       "url": "https://finnhub.io/api/news?id=e0665b2f98336b15334e7573b52b4a913863de3d52074a520fe3e0acca62154f",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T11:09:51+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
+    },
+    {
+      "id": "f_37d98a6e810a73",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia says Groq racks will be online this year following $20 billion purchase",
+      "summary": "Nvidia's race to manufacture Groq chips and make them available to customers highlight the growing importance in AI of low-latency inference.",
+      "url": "https://finnhub.io/api/news?id=a3c55cd4560851a970c8f54311f764aa7b65bca8c390dce18e126a9e618d0a0d",
+      "source": "CNBC",
+      "published_at": "2026-08-24T11:00:01+00:00",
+      "change_pct": -2.36
     },
     {
       "id": "f_f826a6d04ee812",
@@ -970,7 +996,19 @@
       "url": "https://finnhub.io/api/news?id=329594ee5e4834e1962e0985f2a096225eb46978d70524f166ccecb5afcf3187",
       "source": "Benzinga",
       "published_at": "2026-08-24T10:32:29+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
+    },
+    {
+      "id": "f_5c6daaa0dd95d2",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia exploring price hikes for some of its largest customers: Report",
+      "summary": "Nvidia plans to hike prices for some of its largest customers, Bloomberg News reported Saturday. CNBC’s Kristina Partsinevelos joins 'Squawk on the Street' to discuss.",
+      "url": "https://finnhub.io/api/news?id=93951a96fa1a2f71773cc0a6537d43e31e03b0cafe0b336cc79f6dd1e46fbd06",
+      "source": "CNBC",
+      "published_at": "2026-08-24T10:23:10+00:00",
+      "change_pct": -2.36
     },
     {
       "id": "f_0fbec9d6144b6c",
@@ -982,7 +1020,7 @@
       "url": "https://finnhub.io/api/news?id=e1c60b399ed39a900e0d80fcbc0f1729243c862583550bf3d26340b2b803395f",
       "source": "ChartMill",
       "published_at": "2026-08-24T10:21:59+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_a5db8c50548e86",
@@ -994,7 +1032,7 @@
       "url": "https://finnhub.io/api/news?id=4eabc8a2e4a8f9d34cce3ef86ee8397bcd724cf3c7d4b93fc27e3ad55eda25e2",
       "source": "Benzinga",
       "published_at": "2026-08-24T10:10:36+00:00",
-      "change_pct": 3.48
+      "change_pct": 2.84
     },
     {
       "id": "f_f13285e14d40fc",
@@ -1006,20 +1044,18 @@
       "url": "https://finnhub.io/api/news?id=c333a64426bf605ba0855d0a844244f91a3f1083a16f70cd90bb25f968d0ecbd",
       "source": "Benzinga",
       "published_at": "2026-08-24T10:10:27+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
-      "id": "av_4e46f9e0c9a6ca",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_b7e37729cd1adc",
+      "provider": "finnhub",
+      "ticker": "AAPL",
       "category": "general",
-      "title": "Barrow Hanley Mewhinney & Strauss LLC Buys New Shares in lululemon athletica inc. $LULU",
-      "summary": "Barrow Hanley Mewhinney & Strauss LLC has acquired a new position in lululemon athletica inc. (NASDAQ:LULU), purchasing 722,989 shares valued at approximately $82.55 million during the second quarter. This makes the institutional investor own about 0.61% of the company. Other ins",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-barrow-hanley-mewhinney-strauss-llc-buys-new-shares-in-lululemon-athletica-inc-lulu-2026-08-24/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-24T07:40:30+00:00",
-      "sentiment": 0.048515,
-      "change_pct": -2.17
+      "title": "Cramer’s Stop Trading: Sandisk",
+      "summary": "CNBC’s Jim Cramer explains why he is keeping an eye on shares of Sandisk.",
+      "url": "https://finnhub.io/api/news?id=ec9a52c443aedb71e85de89f925e7f86de73a6d9ac8e0884ab3f54e1d3dc1799",
+      "source": "CNBC",
+      "published_at": "2026-08-24T09:59:39+00:00"
     },
     {
       "id": "f_ecda9cbd211ddd",
@@ -1031,7 +1067,7 @@
       "url": "https://finnhub.io/api/news?id=0bfb4655755c9a7abaaf976df2a87e98f5f857f68dead35930105f542a641ae4",
       "source": "Benzinga",
       "published_at": "2026-08-24T09:31:29+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_83309cf53898f4",
@@ -1043,7 +1079,7 @@
       "url": "https://finnhub.io/api/news?id=3800a99507fc5c01f054daa045c6a1a9c30e1b6f8c00237388bb5360435c3601",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T09:30:12+00:00",
-      "change_pct": 1.43
+      "change_pct": 1.19
     },
     {
       "id": "f_5fc2a84e0d38ab",
@@ -1055,7 +1091,7 @@
       "url": "https://finnhub.io/api/news?id=7787e77d790c82615e1e824a41688465d5bf2c4d110e7c42c19de2bdd668833b",
       "source": "ChartMill",
       "published_at": "2026-08-24T09:28:53+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_41a195b4f9d625",
@@ -1067,7 +1103,20 @@
       "url": "https://finnhub.io/api/news?id=b3f7d736829d69fbce035b9b063a79d0716ab4b27957befe04e749186accbcda",
       "source": "Benzinga",
       "published_at": "2026-08-24T09:23:23+00:00",
-      "change_pct": 3.48
+      "change_pct": 2.84
+    },
+    {
+      "id": "av_a5d34b6dce6cc3",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Danske Bank A S",
+      "summary": "Danske Bank A S significantly increased its stake in Advanced Micro Devices (NASDAQ:AMD) by 81.7% in the second quarter, making it their 8th largest position. Other institutional investors like Vanguard Group Inc., BlackRock Inc., and State Street Corp also boosted their holdings",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-stock-position-lifted-by-danske-bank-a-s-2026-08-24/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-24T07:52:24+00:00",
+      "sentiment": 0.033462,
+      "change_pct": -2.36
     },
     {
       "id": "f_4b36e76b057d99",
@@ -1101,7 +1150,7 @@
       "url": "https://finnhub.io/api/news?id=14c4893a293de51c31c9bf5b654c26c24d36a351390f7301d682b0921f107bd4",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T09:06:15+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_056713f5c8bff4",
@@ -1113,7 +1162,7 @@
       "url": "https://finnhub.io/api/news?id=936fd0342e2fccaf85f8413669dd855cd0f2e5c0e83a27a7b4ba1f8274a10eb2",
       "source": "Benzinga",
       "published_at": "2026-08-24T09:04:51+00:00",
-      "change_pct": 1.43
+      "change_pct": 1.19
     },
     {
       "id": "f_89ff33cc80c6dd",
@@ -1125,7 +1174,7 @@
       "url": "https://finnhub.io/api/news?id=84d0162c734dbada6f5d7e1bc1dd01ccce4761ec91ea851d98e0966ee4e13497",
       "source": "Benzinga",
       "published_at": "2026-08-24T08:45:59+00:00",
-      "change_pct": 3.48
+      "change_pct": 2.84
     },
     {
       "id": "f_f1180675c82703",
@@ -1137,20 +1186,20 @@
       "url": "https://finnhub.io/api/news?id=81c77f54c115f7f22d56de5258f065c35c8b5019b334448239e76dc706b67c0d",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T08:30:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
-      "id": "av_a5d34b6dce6cc3",
+      "id": "av_4e46f9e0c9a6ca",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Advanced Micro Devices, Inc. $AMD Stock Position Lifted by Danske Bank A S",
-      "summary": "Danske Bank A S significantly increased its stake in Advanced Micro Devices (NASDAQ:AMD) by 81.7% in the second quarter, making it their 8th largest position. Other institutional investors like Vanguard Group Inc., BlackRock Inc., and State Street Corp also boosted their holdings",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-stock-position-lifted-by-danske-bank-a-s-2026-08-24/",
+      "title": "Barrow Hanley Mewhinney & Strauss LLC Buys New Shares in lululemon athletica inc. $LULU",
+      "summary": "Barrow Hanley Mewhinney & Strauss LLC has acquired a new position in lululemon athletica inc. (NASDAQ:LULU), purchasing 722,989 shares valued at approximately $82.55 million during the second quarter. This makes the institutional investor own about 0.61% of the company. Other ins",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-barrow-hanley-mewhinney-strauss-llc-buys-new-shares-in-lululemon-athletica-inc-lulu-2026-08-24/",
       "source": "MarketBeat",
-      "published_at": "2026-08-24T07:52:24+00:00",
-      "sentiment": 0.010093,
-      "change_pct": -2.17
+      "published_at": "2026-08-24T07:40:30+00:00",
+      "sentiment": 0.013073,
+      "change_pct": -2.36
     },
     {
       "id": "f_cf911b8c3af399",
@@ -1162,7 +1211,7 @@
       "url": "https://finnhub.io/api/news?id=87652d8c25e54fdb6d8316b57bd4c2a947a4545e9333fde9f835b8e6be929cbf",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T08:11:16+00:00",
-      "change_pct": 1.43
+      "change_pct": 1.19
     },
     {
       "id": "f_92d86baca2f7f2",
@@ -1176,6 +1225,18 @@
       "published_at": "2026-08-24T08:00:00+00:00"
     },
     {
+      "id": "f_87f22dce55a813",
+      "provider": "finnhub",
+      "ticker": "MRVL",
+      "category": "general",
+      "title": "Stocks making the biggest moves premarket: Alibaba, Marvell, Sandisk, Coinbase and more",
+      "summary": "These are the stocks posting the largest moves premarket.",
+      "url": "https://finnhub.io/api/news?id=9aa75525346d31a1dfb90d34d8747ec329f9b8486db12c5b152cef660cddf179",
+      "source": "CNBC",
+      "published_at": "2026-08-24T07:31:23+00:00",
+      "change_pct": -3.89
+    },
+    {
       "id": "f_8ff8617004142c",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1185,7 +1246,31 @@
       "url": "https://finnhub.io/api/news?id=8e2c1ec5461761727354f02e59fc0d673fb759315111bc11f8c7cea37ebd0de5",
       "source": "Benzinga",
       "published_at": "2026-08-24T07:18:30+00:00",
-      "change_pct": 1.43
+      "change_pct": 1.19
+    },
+    {
+      "id": "f_bb54937da046ca",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Morning Call Sheet: Rates, debt and AI fatigue test markets near records",
+      "summary": "Stephanie Guild of Robinhood, Nimrit Kang of Northstar Asset Management, and Thierry Wizman of Macquarie Group discuss rates, debt, Nvidia, AI fatigue and Jackson Hole.",
+      "url": "https://finnhub.io/api/news?id=fe49b5d57f7380374e4f24816dba28ef73de2dba8c31436f142e1b528c8e931d",
+      "source": "CNBC",
+      "published_at": "2026-08-24T07:12:27+00:00",
+      "change_pct": -2.36
+    },
+    {
+      "id": "f_ffb9796c83cdf8",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Stock futures slip as tech shares fall to start the week",
+      "summary": "CNBC’s Dominic Chu reports on the news affecting markets.",
+      "url": "https://finnhub.io/api/news?id=14e370c4b0fc70d53b6eefbbb0ea33509d67c5cf12227eb3c7e32b124bda3ee4",
+      "source": "CNBC",
+      "published_at": "2026-08-24T06:50:51+00:00",
+      "change_pct": -2.36
     },
     {
       "id": "f_982a8eda171a68",
@@ -1197,20 +1282,7 @@
       "url": "https://finnhub.io/api/news?id=ab6d1590524b5da4309826a4357c914dcd5218c5f878fc8e6c2fc95cb4973297",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T06:45:00+00:00",
-      "change_pct": -2.17
-    },
-    {
-      "id": "av_d72775fa0b868b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia earnings this week. Probably many people are being cautious and waiting to see their earnings",
-      "summary": "The article discusses the upcoming Nvidia earnings report, noting that many investors are likely exercising caution and waiting for the results to be released. It highlights the general sentiment in the market regarding this significant event. The brief post is from the moomoo Co",
-      "url": "https://www.moomoo.com/community/feed/micron-technology-mu-us-nvidia-earnings-this-week-probably-many-117149057810838",
-      "source": "Moomoo",
-      "published_at": "2026-08-24T06:39:24+00:00",
-      "sentiment": 0.001443,
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_29df2ff239f23e",
@@ -1222,7 +1294,7 @@
       "url": "https://finnhub.io/api/news?id=6ab1c7962d91710079f7dd3a76f0e68630e1692b673bf5b0e0dbfc766b509a19",
       "source": "Benzinga",
       "published_at": "2026-08-24T06:31:11+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_86ea869b5043d3",
@@ -1234,7 +1306,7 @@
       "url": "https://finnhub.io/api/news?id=c07ec4c6fee848b1117a561047563edcd44cf6a33c4773678710c7e441a6c832",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T06:29:43+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_39a161157e08b4",
@@ -1246,7 +1318,7 @@
       "url": "https://finnhub.io/api/news?id=e9c281e529ba0f8103af51a6650da4c8810dabe7fe153119e86186749814e3f7",
       "source": "Benzinga",
       "published_at": "2026-08-24T06:20:02+00:00",
-      "change_pct": -1.85
+      "change_pct": -2.1
     },
     {
       "id": "f_68a91207286a9f",
@@ -1258,7 +1330,7 @@
       "url": "https://finnhub.io/api/news?id=4d12749ca51a34b99fa186306c2dc9a405263b637b62371643c2c6bdbd703c19",
       "source": "Benzinga",
       "published_at": "2026-08-24T05:46:07+00:00",
-      "change_pct": -3.29
+      "change_pct": -3.89
     },
     {
       "id": "f_de2a9717730a5e",
@@ -1292,7 +1364,7 @@
       "url": "https://finnhub.io/api/news?id=dfa3de0d1f365df4ac5b3127f32e9707f529fe59ec802d3d892bc869e11a0d94",
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T02:13:29+00:00",
-      "change_pct": -3.29
+      "change_pct": -3.89
     },
     {
       "id": "f_1817313a7c70a7",
@@ -1304,7 +1376,19 @@
       "url": "https://finnhub.io/api/news?id=38c1b6bcac153fb97e957f5375551229cb157cac7bcc223e392364eb595f9516",
       "source": "Benzinga",
       "published_at": "2026-08-24T02:05:38+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
+    },
+    {
+      "id": "f_4dab4fd731786f",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "CNBC Daily Open: The cost of AI, trade showdown and Iran's 'economic D-day'",
+      "summary": "The two forces of AI spending and geopolitical tensions compete for the role of key market driver in early trade.",
+      "url": "https://finnhub.io/api/news?id=e447a3c0718e64e59011d7855a6a8be397051101363a7148a1b49fb5be40fab7",
+      "source": "CNBC",
+      "published_at": "2026-08-24T02:00:37+00:00",
+      "change_pct": -2.36
     },
     {
       "id": "f_1e77875ace2c94",
@@ -1327,7 +1411,7 @@
       "url": "https://finnhub.io/api/news?id=ced2bdb6ef5aa45b6f82256ee489d4eb47679611f41db8acebf1f6252037d208",
       "source": "Benzinga",
       "published_at": "2026-08-23T21:46:42+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_96bc06a8a233c2",
@@ -1339,7 +1423,7 @@
       "url": "https://finnhub.io/api/news?id=70aa09e38af46e3dfcefb67e425dc8d1ac0437fb92c90bf84013fcae876b14f8",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:50:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_0571225474abfd",
@@ -1351,7 +1435,7 @@
       "url": "https://finnhub.io/api/news?id=86011f05583cbdc29708497735170951a408aed7390139fb652c423818647de9",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:45:30+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_f09a3bcf3a4784",
@@ -1374,7 +1458,7 @@
       "url": "https://finnhub.io/api/news?id=12f1e456221807cd220275e57f4df8b49a9783c2523e582ee86b95a6dfcf70a1",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:26:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_f5940fc6daa1aa",
@@ -1386,7 +1470,7 @@
       "url": "https://finnhub.io/api/news?id=3d1cccd4fe41315a157b13f0f470600fd0876205c14ede0837ef75c37b002d65",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:10:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_c4f7169710e493",
@@ -1398,7 +1482,7 @@
       "url": "https://finnhub.io/api/news?id=e12b285cb9bab3e4e96048a68e48dea5f65168b112c994b8f79247df72c03371",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:07:38+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_48a154298a6308",
@@ -1410,7 +1494,7 @@
       "url": "https://finnhub.io/api/news?id=089efd0555812f556abbe08388032dcd1f681a5ea622f68392b3f3c07d23c7d6",
       "source": "Yahoo",
       "published_at": "2026-08-23T18:07:00+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_927790ac7f45a6",
@@ -1422,7 +1506,7 @@
       "url": "https://finnhub.io/api/news?id=90c7731d4906771d10b101e47fc4f0898a333aa5c04fb1d0cf39598864421b71",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:55:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_97f614e4b79ffc",
@@ -1434,7 +1518,7 @@
       "url": "https://finnhub.io/api/news?id=a9460cbe9e449aacf5ac9104dd27f281a819a5f5928e57caede79bf6420c1221",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:44:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_73d5bf67d8932f",
@@ -1446,7 +1530,7 @@
       "url": "https://finnhub.io/api/news?id=b755aec59d124c591eb6696c5ca304ce325b5d8990412a76c0cd6678b9d2bf1c",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:38:19+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_eafbfb7a26879a",
@@ -1458,7 +1542,7 @@
       "url": "https://finnhub.io/api/news?id=4a530a49f62ba58f3f60a728193e8c7dcbe23acaef80fad6cbbdde46c99061cd",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:31:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_7bb8a380b68653",
@@ -1470,7 +1554,7 @@
       "url": "https://finnhub.io/api/news?id=293e0aef4adf00256243d3dffc0f91d554c7ea26dd1470182aedde05583fa939",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:20:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_2da02931c277cf",
@@ -1482,7 +1566,7 @@
       "url": "https://finnhub.io/api/news?id=d20ff59edd41170a40244f2911c96f9c487755868f0f7bfa5cd1178ede73e2be",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:17:42+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_1214a35f027574",
@@ -1494,7 +1578,7 @@
       "url": "https://finnhub.io/api/news?id=d6018cb9be58d119f3b7410ab86bbd56f6b6e81e9c766c5ee6ed6b07355cb833",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:05:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_7c14f380b1ee20",
@@ -1506,7 +1590,7 @@
       "url": "https://finnhub.io/api/news?id=f3d6f4fb885dda756774d17fbe49b1ef514bb6440be471a7377cb66323bcca88",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:02:52+00:00",
-      "change_pct": 3.48
+      "change_pct": 2.84
     },
     {
       "id": "f_6c84a7dab491f5",
@@ -1518,7 +1602,7 @@
       "url": "https://finnhub.io/api/news?id=2cc15de1e342b93f1401b5077083d5881f0e6f7a954a6da86576b6e2e6d3a8b0",
       "source": "Yahoo",
       "published_at": "2026-08-23T17:00:11+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_960b4d61bab15d",
@@ -1530,7 +1614,7 @@
       "url": "https://finnhub.io/api/news?id=7b88ad01664211237a7e92988a4351927f4bb52466ecdbb4a762bbe0ffa7ade1",
       "source": "Yahoo",
       "published_at": "2026-08-23T16:50:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_3777471dce876c",
@@ -1542,7 +1626,7 @@
       "url": "https://finnhub.io/api/news?id=e582819100a1585c178057af8c27960f5d290f76200fbd9bb437d0299b3ddcda",
       "source": "Yahoo",
       "published_at": "2026-08-23T16:43:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_93267c8dc18e5d",
@@ -1554,7 +1638,7 @@
       "url": "https://finnhub.io/api/news?id=4f1513663152e58106526751dba1deddb9f809f8ba6b9d18cbc805e7ccb0b3e5",
       "source": "Yahoo",
       "published_at": "2026-08-23T16:25:23+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_7103d8cd1089a2",
@@ -1566,7 +1650,7 @@
       "url": "https://finnhub.io/api/news?id=e3d408b268fa648e95ee8d918a7e9312b4fa2b068baed164b2769224efffc637",
       "source": "Yahoo",
       "published_at": "2026-08-23T16:05:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_004fa46b6c0d2e",
@@ -1578,7 +1662,7 @@
       "url": "https://finnhub.io/api/news?id=48b65ed7abb2599709313aae607fee11df40d774f6f47f19246b23464d57077c",
       "source": "Yahoo",
       "published_at": "2026-08-23T16:00:54+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_acaf774001d7b6",
@@ -1590,7 +1674,7 @@
       "url": "https://finnhub.io/api/news?id=96d93b9e87ac2a739f47ad94f2fcb719a0b5d23ee7506d58ccd544a6709f1eef",
       "source": "Yahoo",
       "published_at": "2026-08-23T15:56:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_057818fa9c7328",
@@ -1602,7 +1686,7 @@
       "url": "https://finnhub.io/api/news?id=c394c97a906fb0509005879922fdb8a1df101e792dca8d9f4467ff215ba733d0",
       "source": "Yahoo",
       "published_at": "2026-08-23T15:50:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_0b9abbe32a8254",
@@ -1614,7 +1698,7 @@
       "url": "https://finnhub.io/api/news?id=4741189c2db3ecc3e1c852ee549c661d3ba5fa23164f186325b42b94f8ae806b",
       "source": "Yahoo",
       "published_at": "2026-08-23T15:43:54+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_469a4e498659cb",
@@ -1626,7 +1710,7 @@
       "url": "https://finnhub.io/api/news?id=a9905b210869231b722441eba4e31cff86108bf3179b3579bcc7fa5dfcd60758",
       "source": "Yahoo",
       "published_at": "2026-08-23T15:35:00+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_5dedcafc1fd71b",
@@ -1649,7 +1733,7 @@
       "url": "https://finnhub.io/api/news?id=9e0bdc9badb8609b9eb8174cf6711e4131b5f18c8a220c9ca0c969805b9bdd83",
       "source": "Yahoo",
       "published_at": "2026-08-23T14:44:53+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_1d021b32c2c51a",
@@ -1661,7 +1745,7 @@
       "url": "https://finnhub.io/api/news?id=b3be1d71377a15d76d019bf5b27cd45097f4f53177852e21ac38936317a4fc3b",
       "source": "Benzinga",
       "published_at": "2026-08-23T14:01:24+00:00",
-      "change_pct": 3.48
+      "change_pct": 2.84
     },
     {
       "id": "f_525c8aacebb360",
@@ -1684,7 +1768,7 @@
       "url": "https://finnhub.io/api/news?id=12cd46b0cff0e28d639ec498220f053d46a43a80156d3db8cdb9d92d4ad86b9f",
       "source": "SeekingAlpha",
       "published_at": "2026-08-23T13:12:00+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_0f2634ca1e0c1f",
@@ -1707,7 +1791,7 @@
       "url": "https://finnhub.io/api/news?id=44d90aae0b5b834375b618ae37a566ff4b64ad0b8fbc6f7884a4dcebbcc1d404",
       "source": "Yahoo",
       "published_at": "2026-08-23T12:50:00+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_d86b20a4eec67e",
@@ -1730,7 +1814,7 @@
       "url": "https://finnhub.io/api/news?id=45b2486893ad76fff8a26f7e72fc2b6e8f08256ecb752d454e546406273b22d8",
       "source": "Yahoo",
       "published_at": "2026-08-23T12:44:00+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_985952422d13b2",
@@ -1753,7 +1837,7 @@
       "url": "https://finnhub.io/api/news?id=e9b6c1592c78f145ebd776eb5c5d3fa75bcf88f570e1f5329cc85a246ed70262",
       "source": "Yahoo",
       "published_at": "2026-08-23T12:00:29+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_4d276aa4564243",
@@ -1765,7 +1849,7 @@
       "url": "https://finnhub.io/api/news?id=fb10bea227d358133b7cadaef01a2bd040140f1a902bbe74f366bf28d6f315b1",
       "source": "Benzinga",
       "published_at": "2026-08-23T11:58:40+00:00",
-      "change_pct": 3.48
+      "change_pct": 2.84
     },
     {
       "id": "f_2cf3fe7e5a7329",
@@ -1777,7 +1861,7 @@
       "url": "https://finnhub.io/api/news?id=6d2c702231510efbf06927416e978aeec5e80043fffad20d2fb742d31433371c",
       "source": "Yahoo",
       "published_at": "2026-08-23T11:28:24+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_d1abd106d12cd7",
@@ -1789,7 +1873,7 @@
       "url": "https://finnhub.io/api/news?id=d1a2fe8374bda66402021b3d6c7cac518a1fd05ef6031ff44d3525ca525fe7b7",
       "source": "Yahoo",
       "published_at": "2026-08-23T11:22:00+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_af164a9c8762b8",
@@ -1823,7 +1907,7 @@
       "url": "https://finnhub.io/api/news?id=77fc99515b5b160dd568e29c7f7b2d6683b2d5d9cd8dc2d554c1560c424d748c",
       "source": "Yahoo",
       "published_at": "2026-08-23T10:35:00+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_1bfcf3b046b31e",
@@ -1835,7 +1919,7 @@
       "url": "https://finnhub.io/api/news?id=b40be1909044dd7a0c90eeb83fd286d6cccfbb4425b8e58d4185c1043fe67018",
       "source": "Yahoo",
       "published_at": "2026-08-23T10:30:00+00:00",
-      "change_pct": -2.72
+      "change_pct": -3.31
     },
     {
       "id": "f_6e1c6b6ca055d0",
@@ -1858,7 +1942,7 @@
       "url": "https://finnhub.io/api/news?id=e5317332388cbfda5890ec6c05144738df91f46bdfedd2972bba87e330251e95",
       "source": "Yahoo",
       "published_at": "2026-08-23T09:41:05+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_740fd02968d190",
@@ -1870,7 +1954,7 @@
       "url": "https://finnhub.io/api/news?id=c801aca87ba9634815323f5241770ef0756e797663e424f356b6fc156d243e14",
       "source": "Yahoo",
       "published_at": "2026-08-23T09:35:00+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_5041a43969c94e",
@@ -1882,7 +1966,7 @@
       "url": "https://finnhub.io/api/news?id=709d6be4e237aa3350ae13ae52a61696d1ac9fa47f7bfe9e7c1c1bf86d54b504",
       "source": "Yahoo",
       "published_at": "2026-08-23T09:30:00+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_af1d045323ea4f",
@@ -1894,7 +1978,7 @@
       "url": "https://finnhub.io/api/news?id=11155d3408aa838914d6a94061caed3a78f8fe059a61db2e33a7df90d1b4da9b",
       "source": "SeekingAlpha",
       "published_at": "2026-08-23T09:21:08+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_7e792ad466b37b",
@@ -1906,7 +1990,7 @@
       "url": "https://finnhub.io/api/news?id=a872a7a1856df4832690bb56391af3967e60ec8de8dcedb20c2303a81863592d",
       "source": "Yahoo",
       "published_at": "2026-08-23T09:05:00+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_1752d6a791f51b",
@@ -1918,7 +2002,7 @@
       "url": "https://finnhub.io/api/news?id=b2d3954f42ad4308cb6ececb4c1f27e3744121249232ae5fd9158ac623138f63",
       "source": "SeekingAlpha",
       "published_at": "2026-08-23T07:13:06+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_194d5e31f1930d",
@@ -1941,7 +2025,7 @@
       "url": "https://finnhub.io/api/news?id=e79f44d2940251377f849af19d030c8f19209e97d2d57cfe1b276158b1728d80",
       "source": "Yahoo",
       "published_at": "2026-08-23T05:20:00+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_3c07ed975affbe",
@@ -1964,7 +2048,7 @@
       "url": "https://finnhub.io/api/news?id=80a8104dda1dfadb164f4d192e22a173cf8d84970ef164630895d796d0b0a885",
       "source": "Yahoo",
       "published_at": "2026-08-23T04:00:00+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_e5b296ec475630",
@@ -1976,7 +2060,7 @@
       "url": "https://finnhub.io/api/news?id=5fc2ea11f7ada12dc35b6e11a04d9f38d0fd87c8311e09cda077e23b386225f0",
       "source": "Yahoo",
       "published_at": "2026-08-23T03:31:22+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_41b4a8c01b9672",
@@ -1999,7 +2083,7 @@
       "url": "https://finnhub.io/api/news?id=7083951e64a9310414ff990033d6d12f00c34202766dfae9446f8868372a7a5b",
       "source": "Yahoo",
       "published_at": "2026-08-23T00:54:26+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_fb2a4e560af45f",
@@ -2011,7 +2095,7 @@
       "url": "https://finnhub.io/api/news?id=174a9123379666a768a2838c88d40424c5d9cae43608ad4f79809a8d3d3dee1f",
       "source": "Yahoo",
       "published_at": "2026-08-23T00:41:00+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_7daff23361d01a",
@@ -2023,7 +2107,7 @@
       "url": "https://finnhub.io/api/news?id=023506f4384d91b45f0aa8574be52fccf6856ae9850f3cc504a1120a82c8898a",
       "source": "Yahoo",
       "published_at": "2026-08-23T00:30:52+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_f85697e632248c",
@@ -2046,7 +2130,7 @@
       "url": "https://finnhub.io/api/news?id=eed3265ff6e0db580240864f4f8fc3c21c79e07561fa94507744811bcde302a6",
       "source": "Yahoo",
       "published_at": "2026-08-22T22:31:47+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_2d91b2775715fc",
@@ -2058,7 +2142,7 @@
       "url": "https://finnhub.io/api/news?id=d75798cf572f9a5fa5cd6d5543994c82626ff4574c103fe42e2320ef1d708391",
       "source": "Yahoo",
       "published_at": "2026-08-22T22:17:44+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_8d9aa0f9e5e13e",
@@ -2070,7 +2154,7 @@
       "url": "https://finnhub.io/api/news?id=d469f1c31d1338c4990facb8f05c8560762402a4729fce5e1e14081a6d6f8b3c",
       "source": "Yahoo",
       "published_at": "2026-08-22T21:04:00+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_9b1333497bd23c",
@@ -2082,7 +2166,7 @@
       "url": "https://finnhub.io/api/news?id=1c62071c49740ca04d66961bbf6e2e392ce6c9c90b3745c25cebeb71deb029a8",
       "source": "Yahoo",
       "published_at": "2026-08-22T20:59:00+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_fa00562299d922",
@@ -2094,7 +2178,7 @@
       "url": "https://finnhub.io/api/news?id=0ca279e7b64d74c6c0ae82e4785b5d0fe1ac8dd868657e961011a4f4d780033c",
       "source": "Yahoo",
       "published_at": "2026-08-22T20:30:02+00:00",
-      "change_pct": -1.85
+      "change_pct": -2.1
     },
     {
       "id": "f_ae45f29458f844",
@@ -2106,7 +2190,7 @@
       "url": "https://finnhub.io/api/news?id=678b05d98443c5320548c8a1ac020bd1a0db2042b1826f15abcfed80619760b5",
       "source": "Yahoo",
       "published_at": "2026-08-22T20:20:53+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_6ea98713c90c48",
@@ -2118,7 +2202,7 @@
       "url": "https://finnhub.io/api/news?id=15f1670bbdc24b40cb41c83b37f90403c53024b5a1c3128e6de13a2ef973beb5",
       "source": "Yahoo",
       "published_at": "2026-08-22T20:13:00+00:00",
-      "change_pct": -3.29
+      "change_pct": -3.89
     },
     {
       "id": "f_224b449c5981c2",
@@ -2130,7 +2214,7 @@
       "url": "https://finnhub.io/api/news?id=648682be8cb994b69b5edba70a8aa7191e4dda348d11d137b2107c8cfa4a3931",
       "source": "Yahoo",
       "published_at": "2026-08-22T19:53:00+00:00",
-      "change_pct": 1.44
+      "change_pct": 1.3
     },
     {
       "id": "f_ada694de3820d6",
@@ -2142,7 +2226,7 @@
       "url": "https://finnhub.io/api/news?id=b8dfd59b4ce37681feb96c03e6ad1d7b74917e5fcc28a894defd945320b998aa",
       "source": "Yahoo",
       "published_at": "2026-08-22T19:33:00+00:00",
-      "change_pct": 1.26
+      "change_pct": 0.96
     },
     {
       "id": "f_27b84926c9bd37",
@@ -2165,7 +2249,7 @@
       "url": "https://finnhub.io/api/news?id=ddaccacc83cfd150a6e088afdd26a67714b9fe24394fff8c75d0bdb60b03efe5",
       "source": "Yahoo",
       "published_at": "2026-08-22T18:08:09+00:00",
-      "change_pct": -1.83
+      "change_pct": -2.36
     },
     {
       "id": "f_7c444f591eb24e",
@@ -2177,7 +2261,7 @@
       "url": "https://finnhub.io/api/news?id=f7a3e5fdacd14e4ddd902355276d69e74779842065f6f1076ef9296438ff1286",
       "source": "Yahoo",
       "published_at": "2026-08-22T18:00:29+00:00",
-      "change_pct": 1.26,
+      "change_pct": 0.96,
       "title_kr": "Microsoft에는 Nvidia에는 ​​없는 것이 있으며 이것이 중요한 이유는 다음과 같습니다.",
       "summary_kr": "Microsoft는 Nvidia의 거래 판매와 달리 반복 수익을 보장하는 6,780억 달러 규모의 계약 상업 백로그로 인해 Nvidia에 비해 상당한 경쟁 우위를 보유하고 있습니다. 이 백로그는 Azure의 강력한 성장과 Copilo와 결합되어 있습니다."
     },
@@ -2213,7 +2297,7 @@
       "url": "https://finnhub.io/api/news?id=51fbc3c54e333eb7d040e37dac8e794588290c842ee7cf40e87d1bc878f8f263",
       "source": "Benzinga",
       "published_at": "2026-08-22T17:06:29+00:00",
-      "change_pct": -2.17
+      "change_pct": -2.36
     },
     {
       "id": "f_d7432cda0211e6",
@@ -2225,7 +2309,7 @@
       "url": "https://finnhub.io/api/news?id=68b496274d3e2f5e26ff6397babd1c03a6d5bfa994c4d16124a1c7be25bac235",
       "source": "Yahoo",
       "published_at": "2026-08-22T16:52:40+00:00",
-      "change_pct": 1.65
+      "change_pct": 1.42
     },
     {
       "id": "f_ecc2aaec35d5c3",
@@ -2237,7 +2321,7 @@
       "url": "https://finnhub.io/api/news?id=b3823748f09349ce02b5ea4ecf5c32ee421449de52fa4e7800bb5233d0896f24",
       "source": "Yahoo",
       "published_at": "2026-08-22T16:48:47+00:00",
-      "change_pct": -3.29
+      "change_pct": -3.89
     },
     {
       "id": "f_4ee2c64b9e0e59",
@@ -2249,78 +2333,7 @@
       "url": "https://finnhub.io/api/news?id=8b4df62cf2f33363eb93b48bd3de2f1c3c6b8ce6db46e073fadb1f40d00d4855",
       "source": "Yahoo",
       "published_at": "2026-08-22T16:35:00+00:00",
-      "change_pct": -1.83
-    },
-    {
-      "id": "f_701a7f5df9bffe",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "Nvidia Stock Doesn’t Look as Expensive as You Think",
-      "summary": "Nvidia is growing revenue at 85% annually yet its valuation multiple tells a different story than most investors expect. Before writing off NVDA as overpriced, the forward PEG ratio raises a question worth sitting with.",
-      "url": "https://finnhub.io/api/news?id=b058d47c3d31d5a64d2d76fcaaea49c259aa247d30415df085a628ea6cdd86b9",
-      "source": "Yahoo",
-      "published_at": "2026-08-22T16:30:50+00:00",
-      "change_pct": -2.72
-    },
-    {
-      "id": "f_d71f068fe67946",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia customers reportedly warned about AI-related price hikes ",
-      "summary": "The chipmaker has told some of its largest customers that the prices of servers containing its AI chips could move more than 15% higher, Bloomberg News reported.",
-      "url": "https://finnhub.io/api/news?id=fb5b25107b0d7bab9c10cd1cf399d0a730c08c733729b4dda27b1915e092e253",
-      "source": "CNBC",
-      "published_at": "2026-08-22T16:26:44+00:00",
-      "change_pct": -2.17
-    },
-    {
-      "id": "f_37ac08caec98b9",
-      "provider": "finnhub",
-      "ticker": "NBIS",
-      "category": "general",
-      "title": "Prediction: CoreWeave Stock Will Double on This Date",
-      "summary": "CoreWeave's stock swings 25% up and 15% down in the same month, which makes pinning a price target on it feel reckless. Here is why our analysts did it anyway, and the single metric that pushed them to a buy.",
-      "url": "https://finnhub.io/api/news?id=aab50e355fb1f71cc6711bf872232f14c5d0def273f0eee481f9c25b0af51559",
-      "source": "Yahoo",
-      "published_at": "2026-08-22T16:00:03+00:00"
-    },
-    {
-      "id": "f_25b2936c9015d5",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Tariff refunds are hitting retailers' wallets. Here's what they're doing with the money.",
-      "summary": "Companies are using tariff refunds to lower prices, cushion their margins, and, to a very small extent, return the money straight to the customer.",
-      "url": "https://finnhub.io/api/news?id=a34d551508911c502c0ce9e55fdede4d180eb151193612f9efde0a558aecc5b8",
-      "source": "Yahoo",
-      "published_at": "2026-08-22T15:29:51+00:00",
-      "change_pct": 1.44
-    },
-    {
-      "id": "f_6ce26c638fbea8",
-      "provider": "finnhub",
-      "ticker": "AVGO",
-      "category": "general",
-      "title": "Billionaire David Tepper Sold His Fund's Sandisk Stake in Favor of This Trillion-Dollar Artificial Intelligence (AI) Chip Stock",
-      "summary": "The fund manager recently booked gains in Sandisk stock and redeployed capital into Broadcom.",
-      "url": "https://finnhub.io/api/news?id=0c667adb3f4c95da24afca1d823f98fcbb3d7f2a5b20dd6cde64e2822b78a60c",
-      "source": "Yahoo",
-      "published_at": "2026-08-22T15:20:00+00:00",
-      "change_pct": -1.85
-    },
-    {
-      "id": "f_e964f4af13cd8e",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Why I Think the Best Dividend Stock Isn't a Tech Name: It's Realty Income",
-      "summary": "Realty Income checks all the boxes as a top dividend stock.",
-      "url": "https://finnhub.io/api/news?id=0318126b83aba72be9b0b547957c1666e323dc545b50aadf243c5ef0e6bf9583",
-      "source": "Yahoo",
-      "published_at": "2026-08-22T14:50:00+00:00",
-      "change_pct": 1.26
+      "change_pct": -2.36
     },
     {
       "id": "f_97b640fa89e891",
@@ -2400,30 +2413,19 @@
       "published_at": "2026-08-24T13:31:53+00:00"
     },
     {
-      "id": "f_f2a8af4898aa18",
+      "id": "f_13fce5326d6105",
       "provider": "finnhub",
       "ticker": null,
       "category": "general",
-      "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-      "summary": "Nvidia reports earnings this week, but it's not the only thing that matters to the AI trade.",
-      "url": "https://www.cnbc.com/2026/08/24/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-      "source": "CNBC",
-      "published_at": "2026-08-24T12:39:03+00:00"
-    },
-    {
-      "id": "f_dc45b1c4217fcf",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "The Hormuz crude volume debate masks the real shortage of refined fuels - Reuters",
-      "summary": "The Hormuz crude volume debate masks the real shortage of refined fuels  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWt2QTd6U25aN2I3V1VZTmhVdVBPNTdYNUx5OXlNQWcxcFo4TEJwUEo3Z2R0MWRBRnVvT3FqMms2NURIQURVdWtZVlEtM1d3YlBEVDh4b0g1SmlFWVVGRDRJYVVvbUI5eFRGWmxDRXF6eWFVVXF5TktKWS11NFZhUkU4eVJNY2ljcThUQi1uZ21Zc0NhekVIMmxDcUhla0xPSFZlV0VlSTJJOTdQU1hXODZwMmxPM043dmV1SFdCSDRlZ3BNMXJLXw?oc=5",
+      "title": "TotalEnergies profitably moving heavily discounted oil through Strait of Hormuz, says CEO - Reuters",
+      "summary": "TotalEnergies profitably moving heavily discounted oil through Strait of Hormuz, says CEO  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMlpTanlXRFd4X0JwM2o1eG05R0JFQTcwVG5CZHBlMzBLU0JCcWtsaFJLUnl0ZzRhVW9BZkNnN1ppQ25rVmZzV3pZYS1mSFRybThxcDlWcnRnRW9nUjNPT2VWcWh3X0VCUGdFWkNwdFU2eUFqZTBELUdKbWZYU2NFWkQzRDZyRXd5M0k0SG1LM1lmNHF5VnctdUhfdHBsY3ZRT3J0UWVfdzBLZHdsa3VSdmRQN3ZKZWxjMlI1OUVQZGJGQ29USU9Da1pPRk4?oc=5",
       "source": "Reuters",
-      "published_at": "2026-08-24T12:00:27+00:00"
+      "published_at": "2026-08-24T12:56:50+00:00"
     }
   ],
-  "fetched_at": "2026-08-24T17:19:05.374727+00:00",
+  "fetched_at": "2026-08-24T17:49:22.307910+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-24T17:19:07.914574+00:00",
+  "translated_at": "2026-08-24T17:49:24.496821+00:00",
   "translation_engine": "google-parallel"
 }
