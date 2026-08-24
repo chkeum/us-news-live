@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-08-24T22:55:40.111210+00:00",
+  "fetched_at": "2026-08-24T23:12:34.377146+00:00",
   "us_mood_score": 47,
-  "kr_mood_score": 38,
+  "kr_mood_score": 50,
   "us_mood": "neutral",
-  "kr_mood": "bearish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "TSLA",
@@ -12,7 +12,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -2.6,
-      "actual_kr_pct": 5.39,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 348.95,
       "kr_price": 362000.0
@@ -36,7 +36,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -2.37,
-      "actual_kr_pct": 10.8,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 348.95,
       "kr_price": 117000.0
@@ -84,7 +84,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -2.1,
-      "actual_kr_pct": -3.41,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 208.48,
       "kr_price": 1671000.0
@@ -120,7 +120,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.02,
-      "actual_kr_pct": -3.41,
+      "actual_kr_pct": 0.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 456.75,
       "kr_price": 1671000.0
@@ -156,7 +156,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.51,
-      "actual_kr_pct": -8.7,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 208.48,
       "kr_price": 257000.0
@@ -168,7 +168,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -1.47,
-      "actual_kr_pct": -3.41,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 229.29,
       "kr_price": 1671000.0
@@ -192,7 +192,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.1,
-      "actual_kr_pct": -3.41,
+      "actual_kr_pct": 0.0,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 358.76,
       "kr_price": 1671000.0
@@ -216,7 +216,7 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 0.63,
-      "actual_kr_pct": 0.68,
+      "actual_kr_pct": 0.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 559.02,
       "kr_price": 223500.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -6.05,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": -2.0,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 8.1,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": -2.22,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.34,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.45,
       "lag_hours": 8
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 78790.01,
-      "change_pct": 1.47,
+      "price": 78796.74,
+      "change_pct": 1.81,
       "label": "BTC"
     }
   },
-  "summary": "미국 TSLA -3.8% → LG에너지솔루션 개장 하방 압력 예상 (-2.6% 전후). US 무드 47/100, KR 무드 38/100."
+  "summary": "미국 TSLA -3.8% → LG에너지솔루션 개장 하방 압력 예상 (-2.6% 전후). US 무드 47/100, KR 무드 50/100."
 }
