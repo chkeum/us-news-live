@@ -72,6 +72,18 @@
       "change_pct": -2.91
     },
     {
+      "id": "f_ee2150f2280d13",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "analyst",
+      "title": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
+      "summary": "Amazon upgraded to Buy as AWS growth hits 37% and valuation looks cheap.",
+      "url": "https://finnhub.io/api/news?id=0c8841c779bf255ff372a11f72cc2209db515fd1fa6e70b4a29be96cc5d92748",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-25T00:05:09+00:00",
+      "change_pct": 1.33
+    },
+    {
       "id": "f_3a66846eedbe20",
       "provider": "finnhub",
       "ticker": "AVGO",
@@ -141,7 +153,7 @@
       "url": "https://finance.biggo.com/news/3f7749d2-b4b9-4b2c-92a6-a933263c499e",
       "source": "BigGo Finance",
       "published_at": "2026-08-25T02:31:39+00:00",
-      "sentiment": 0.428991,
+      "sentiment": 0.448922,
       "change_pct": -2.91
     },
     {
@@ -165,6 +177,19 @@
       "url": "https://finnhub.io/api/news?id=23eb33df2ba28efd8fecad7a76ecd201b58621e1f43a4a10304f2bc4e70da3f7",
       "source": "Benzinga",
       "published_at": "2026-08-24T02:13:21+00:00",
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_5c5057f6e99082",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia heads into earnings with supply, not demand, as the story",
+      "summary": "Nvidia is expected to surpass its own revenue guidance for the upcoming earnings, with supply constraints, rather than demand, being the primary narrative. Analysts like Wedbush and UBS project significant revenue growth and maintained strong ratings, emphasizing Nvidia's strateg",
+      "url": "https://uk.finance.yahoo.com/news/nvidia-heads-earnings-supply-not-192300662.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-08-24T19:10:17+00:00",
+      "sentiment": 0.498297,
       "change_pct": -2.91
     },
     {
@@ -204,6 +229,19 @@
       "change_pct": -3.27
     },
     {
+      "id": "av_fcab296eb311c6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "S&P Global Stock: Buy or Sell?",
+      "summary": "This article discusses whether investors should buy S&P Global stock, noting that The Motley Fool Stock Advisor team did not include it in their top 10 current recommendations. It highlights past successes of their recommendations like Netflix and Nvidia, emphasizing the potentia",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/4012149/sp-global-stock-buy-or-sell/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-25T00:51:06+00:00",
+      "sentiment": 0.321576,
+      "change_pct": -2.91
+    },
+    {
       "id": "av_aee58ab6b6d64f",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -213,7 +251,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/4011570/should-passive-income-investors-buy-clorox-stock/",
       "source": "The Globe and Mail",
       "published_at": "2026-08-25T00:32:50+00:00",
-      "sentiment": 0.348079,
+      "sentiment": 0.325812,
       "change_pct": -2.91
     },
     {
@@ -229,29 +267,16 @@
       "change_pct": -3.27
     },
     {
-      "id": "av_5c5057f6e99082",
+      "id": "av_43bab539d0b293",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia heads into earnings with supply, not demand, as the story",
-      "summary": "Nvidia is expected to surpass its own revenue guidance for the upcoming earnings, with supply constraints, rather than demand, being the primary narrative. Analysts like Wedbush and UBS project significant revenue growth and maintained strong ratings, emphasizing Nvidia's strateg",
-      "url": "https://uk.finance.yahoo.com/news/nvidia-heads-earnings-supply-not-192300662.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-08-24T19:10:17+00:00",
-      "sentiment": 0.453992,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_fcab296eb311c6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "S&P Global Stock: Buy or Sell?",
-      "summary": "This article discusses whether investors should buy S&P Global stock, noting that The Motley Fool Stock Advisor team did not include it in their top 10 current recommendations. It highlights past successes of their recommendations like Netflix and Nvidia, emphasizing the potentia",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NFLX/pressreleases/4012149/sp-global-stock-buy-or-sell/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-25T00:51:06+00:00",
-      "sentiment": 0.306573,
+      "title": "NVDA Invests In Blackstone-Backed Lancium To Expand AI Data Center Capacity",
+      "summary": "Nvidia has strategically invested in Lancium, a Blackstone portfolio company, to deploy Nvidia's AI computing stack across Lancium's AI factory campuses. This partnership aims to expand AI data center capacity, leveraging Lancium's 4 GW of leased capacity and 15+ GW development p",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-invests-in-blackstone-backed-lancium-to-expand-ai-data-center-capacity/cZYKrKKRJFZ",
+      "source": "Stocktwits",
+      "published_at": "2026-08-24T20:07:30+00:00",
+      "sentiment": 0.417749,
       "change_pct": -2.91
     },
     {
@@ -264,20 +289,7 @@
       "url": "https://www.theglobeandmail.com/investing/markets/stocks/GLW/pressreleases/4006067/glw-gains-momentum-in-optical-communications-can-growth-continue/",
       "source": "The Globe and Mail",
       "published_at": "2026-08-24T16:38:37+00:00",
-      "sentiment": 0.512549,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_43bab539d0b293",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVDA Invests In Blackstone-Backed Lancium To Expand AI Data Center Capacity",
-      "summary": "Nvidia has strategically invested in Lancium, a Blackstone portfolio company, to deploy Nvidia's AI computing stack across Lancium's AI factory campuses. This partnership aims to expand AI data center capacity, leveraging Lancium's 4 GW of leased capacity and 15+ GW development p",
-      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-invests-in-blackstone-backed-lancium-to-expand-ai-data-center-capacity/cZYKrKKRJFZ",
-      "source": "Stocktwits",
-      "published_at": "2026-08-24T20:07:30+00:00",
-      "sentiment": 0.401608,
+      "sentiment": 0.504502,
       "change_pct": -2.91
     },
     {
@@ -293,6 +305,19 @@
       "change_pct": -2.91
     },
     {
+      "id": "av_9f3dbad48d2130",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Micron CEO Sounds Alarm on AI Memory Crunch — Supply May Not Catch Up Until 2028 as Demand Keeps Growing: MU Stock Falls 4% (UPDATED)",
+      "summary": "Micron Technology Inc. CEO Sanjay Mehrotra has warned that memory supply may not catch up with AI-driven demand until at least 2028, citing long-term customer agreements as evidence of a structural, not cyclical, boom. This outlook suggests that the demand for high-performance me",
+      "url": "https://finance.yahoo.com/technology/ai/articles/micron-ceo-sounds-alarm-ai-223107015.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-24T22:09:47+00:00",
+      "sentiment": 0.345513,
+      "change_pct": -2.91
+    },
+    {
       "id": "f_eb454ad229f80c",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -305,32 +330,6 @@
       "change_pct": -2.91
     },
     {
-      "id": "av_b7bf10d7aeaf90",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "American States Water (AWR) Climbed, So Why Is It Drawing Fresh Attention?",
-      "summary": "American States Water (AWR) has seen significant stock performance with a 25.2% one-year total shareholder return, prompting investors to re-evaluate the utility. Despite this, Simply Wall St's analysis suggests AWR is 8.5% overvalued compared to its fair value estimate of $84, b",
-      "url": "https://simplywall.st/stocks/us/utilities/nyse-awr/american-states-water/news/american-states-water-awr-climbed-so-why-is-it-drawing-fresh",
-      "source": "Simply Wall Street",
-      "published_at": "2026-08-24T21:46:32+00:00",
-      "sentiment": 0.332477,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_9f3dbad48d2130",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Micron CEO Sounds Alarm on AI Memory Crunch — Supply May Not Catch Up Until 2028 as Demand Keeps Growing: MU Stock Falls 4% (UPDATED)",
-      "summary": "Micron Technology Inc. CEO Sanjay Mehrotra has warned that memory supply may not catch up with AI-driven demand until at least 2028, citing long-term customer agreements as evidence of a structural, not cyclical, boom. This outlook suggests that the demand for high-performance me",
-      "url": "https://finance.yahoo.com/technology/ai/articles/micron-ceo-sounds-alarm-ai-223107015.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-24T22:09:47+00:00",
-      "sentiment": 0.320203,
-      "change_pct": -2.91
-    },
-    {
       "id": "av_2f26f510ed82fc",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -340,7 +339,7 @@
       "url": "https://www.tradingview.com/news/zacks:963803a2e094b:0-nvidia-and-4-other-spectacular-earnings-charts-you-must-see/",
       "source": "TradingView",
       "published_at": "2026-08-24T22:37:36+00:00",
-      "sentiment": 0.300694,
+      "sentiment": 0.315663,
       "change_pct": -2.91
     },
     {
@@ -353,7 +352,7 @@
       "url": "https://siliconangle.com/2026/08/24/nvidias-dedicated-inference-accelerator-groq-3-lpx-enters-full-production-to-supercharge-ai-agents/",
       "source": "SiliconANGLE",
       "published_at": "2026-08-24T15:09:39+00:00",
-      "sentiment": 0.464724,
+      "sentiment": 0.496905,
       "change_pct": -2.91
     },
     {
@@ -366,7 +365,20 @@
       "url": "https://www.marketbeat.com/instant-alerts/advanced-micro-devices-nasdaqamd-stock-price-down-35-after-insider-selling-2026-08-24/",
       "source": "MarketBeat",
       "published_at": "2026-08-24T21:02:10+00:00",
-      "sentiment": -0.31216,
+      "sentiment": -0.335505,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_b7bf10d7aeaf90",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "American States Water (AWR) Climbed, So Why Is It Drawing Fresh Attention?",
+      "summary": "American States Water (AWR) has seen significant stock performance with a 25.2% one-year total shareholder return, prompting investors to re-evaluate the utility. Despite this, Simply Wall St's analysis suggests AWR is 8.5% overvalued compared to its fair value estimate of $84, b",
+      "url": "https://simplywall.st/stocks/us/utilities/nyse-awr/american-states-water/news/american-states-water-awr-climbed-so-why-is-it-drawing-fresh",
+      "source": "Simply Wall Street",
+      "published_at": "2026-08-24T21:46:32+00:00",
+      "sentiment": 0.309497,
       "change_pct": -2.91
     },
     {
@@ -382,6 +394,19 @@
       "change_pct": -2.91
     },
     {
+      "id": "av_041a65dd5f26b1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
+      "summary": "NVIDIA has announced that its Groq 3 LPX interactive AI inference accelerator is now in full production, extending the NVIDIA Vera Rubin platform to provide ultrafast token generation for agentic AI systems. Benchmarking shows the Groq 3 LPX delivered a record 3,400 output tokens",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-08-24T15:10:02+00:00",
+      "sentiment": 0.438433,
+      "change_pct": -2.91
+    },
+    {
       "id": "av_62426b1eb034d0",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -391,7 +416,7 @@
       "url": "https://www.cnhinews.com/news/article_bf343275-9d44-5c5a-ba37-2e81cbc71dce.html",
       "source": "cnhinews.com",
       "published_at": "2026-08-24T16:07:31+00:00",
-      "sentiment": 0.422469,
+      "sentiment": 0.413974,
       "change_pct": -2.91
     },
     {
@@ -404,33 +429,7 @@
       "url": "https://www.stocktitan.net/sec-filings/ZCSH/pos-ex-grayscale-zcash-trust-zec-sec-filing-a119f5d45264.html",
       "source": "Stock Titan",
       "published_at": "2026-08-24T20:18:10+00:00",
-      "sentiment": 0.317055,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_303f46ce869404",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 3.01% on Aug 24: A Full Analysis",
-      "summary": "Arm Holdings PLC (ARM) stock decreased by 3.01% due to profit-taking and valuation recalibration in the AI sector, alongside technical selling pressure. The company is transitioning from licensing to designing its own data center processors, introducing both opportunities and exe",
-      "url": "https://www.tradingkey.com/news/market-movers/262128106-market-movers-arm-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T14:45:55+00:00",
-      "sentiment": -0.438959,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_041a65dd5f26b1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA Groq 3 LPX Now in Full Production With World-Class Speed for Agentic AI",
-      "summary": "NVIDIA has announced that its Groq 3 LPX interactive AI inference accelerator is now in full production, extending the NVIDIA Vera Rubin platform to provide ultrafast token generation for agentic AI systems. Benchmarking shows the Groq 3 LPX delivered a record 3,400 output tokens",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-24T15:10:02+00:00",
-      "sentiment": 0.424066,
+      "sentiment": 0.303696,
       "change_pct": -2.91
     },
     {
@@ -443,59 +442,20 @@
       "url": "https://simplywall.st/stocks/us/consumer-retailing/nyse-dg/dollar-general/news/will-dgs-q2-earnings-outlook-reveal-the-true-strength-of-dol",
       "source": "Simply Wall Street",
       "published_at": "2026-08-25T02:29:00+00:00",
-      "sentiment": 0.130923,
+      "sentiment": 0.139203,
       "change_pct": -2.91
     },
     {
-      "id": "av_bba0ca8d34b685",
+      "id": "av_c7a8bb7a5f81ef",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Perplexity Deal Highlights a Pattern in Nvidia's AI Investments",
-      "summary": "Nvidia's reported talks to invest in AI startup Perplexity, valuing it at over $30 billion, exemplify a growing pattern in Nvidia's investment strategy. The chipmaker consistently invests in AI companies that build their businesses on Nvidia's infrastructure, creating a reinforci",
-      "url": "https://finance.yahoo.com/technology/ai/articles/perplexity-deal-highlights-pattern-nvidias-140251620.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-24T14:09:49+00:00",
-      "sentiment": 0.427447,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_e692178d45c12e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Advisors Turn to VictoryShares as VFLO Reaches $10B, GFLW Crosses $1B",
-      "summary": "The article reports that the VictoryShares Free Cash Flow ETF (VFLO) has surpassed $10 billion in assets under management, and the VictoryShares Free Cash Flow Growth ETF (GFLW) has exceeded $1 billion in AUM. This milestone highlights the increasing adoption by financial advisor",
-      "url": "https://etfdb.com/free-cash-flow-content-hub/vflo-reaches-10b-gflw-crosses-1b/",
-      "source": "ETF Database",
-      "published_at": "2026-08-24T17:42:05+00:00",
-      "sentiment": 0.334272,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_48321d2a1e103a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "3 Reasons to Avoid GL and 1 Stock to Buy Instead",
-      "summary": "This article explains three reasons to avoid investing in Globe Life (GL) despite its recent stock performance. The author highlights Globe Life's disappointing long-term revenue growth, soft demand indicated by net premiums earned, and a valuation that offers limited upside comp",
-      "url": "https://uk.finance.yahoo.com/news/3-reasons-avoid-gl-1-164136637.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-08-24T16:41:23+00:00",
-      "sentiment": 0.342355,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_0ebba77828c3c4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Moody’s upgrades XPO rating to Ba1 on margin gains",
-      "summary": "Moody's Ratings has upgraded XPO, Inc.'s corporate family rating to Ba1 from Ba2, changing the outlook to stable from positive. This upgrade reflects XPO's successful execution of its operating improvement strategy, leading to sustained margin expansion, stronger earnings, and im",
-      "url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-xpo-rating-to-ba1-on-margin-gains-93CH-4874099",
-      "source": "Investing.com",
-      "published_at": "2026-08-24T20:09:46+00:00",
-      "sentiment": -0.245065,
+      "title": "Fabrinet (FN) Q4 2026 Earnings Call Transcript",
+      "summary": "Fabrinet (FN) reported record Q4 2026 financial results, with revenue of $1.316 billion, up 45% year over year, and non-GAAP EPS of $4.10, both exceeding guidance. The company announced a new revenue reporting structure focusing on Data Centers, Communications Infrastructure, and",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NOK/pressreleases/4010972/fabrinet-fn-q4-2026-earnings-call-transcript/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-24T22:44:00+00:00",
+      "sentiment": 0.218868,
       "change_pct": -2.91
     },
     {
@@ -508,7 +468,20 @@
       "url": "https://www.tradingkey.com/news/market-movers/262128325-market-movers-cien-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T17:15:25+00:00",
-      "sentiment": -0.316783,
+      "sentiment": -0.341017,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_303f46ce869404",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arm Holdings PLC Stock (ARM) Moved Down by 3.01% on Aug 24: A Full Analysis",
+      "summary": "Arm Holdings PLC (ARM) stock decreased by 3.01% due to profit-taking and valuation recalibration in the AI sector, alongside technical selling pressure. The company is transitioning from licensing to designing its own data center processors, introducing both opportunities and exe",
+      "url": "https://www.tradingkey.com/news/market-movers/262128106-market-movers-arm-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T14:45:55+00:00",
+      "sentiment": -0.402453,
       "change_pct": -2.91
     },
     {
@@ -521,7 +494,72 @@
       "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-stocks-surge-long-172411864.html",
       "source": "Yahoo Finance UK",
       "published_at": "2026-08-24T17:24:24+00:00",
-      "sentiment": 0.300043,
+      "sentiment": 0.330192,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_bba0ca8d34b685",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Perplexity Deal Highlights a Pattern in Nvidia's AI Investments",
+      "summary": "Nvidia's reported talks to invest in AI startup Perplexity, valuing it at over $30 billion, exemplify a growing pattern in Nvidia's investment strategy. The chipmaker consistently invests in AI companies that build their businesses on Nvidia's infrastructure, creating a reinforci",
+      "url": "https://finance.yahoo.com/technology/ai/articles/perplexity-deal-highlights-pattern-nvidias-140251620.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-24T14:09:49+00:00",
+      "sentiment": 0.400267,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_e692178d45c12e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advisors Turn to VictoryShares as VFLO Reaches $10B, GFLW Crosses $1B",
+      "summary": "The article reports that the VictoryShares Free Cash Flow ETF (VFLO) has surpassed $10 billion in assets under management, and the VictoryShares Free Cash Flow Growth ETF (GFLW) has exceeded $1 billion in AUM. This milestone highlights the increasing adoption by financial advisor",
+      "url": "https://etfdb.com/free-cash-flow-content-hub/vflo-reaches-10b-gflw-crosses-1b/",
+      "source": "ETF Database",
+      "published_at": "2026-08-24T17:42:05+00:00",
+      "sentiment": 0.304548,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_0ebba77828c3c4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Moody’s upgrades XPO rating to Ba1 on margin gains",
+      "summary": "Moody's Ratings has upgraded XPO, Inc.'s corporate family rating to Ba1 from Ba2, changing the outlook to stable from positive. This upgrade reflects XPO's successful execution of its operating improvement strategy, leading to sustained margin expansion, stronger earnings, and im",
+      "url": "https://www.investing.com/news/stock-market-news/moodys-upgrades-xpo-rating-to-ba1-on-margin-gains-93CH-4874099",
+      "source": "Investing.com",
+      "published_at": "2026-08-24T20:09:46+00:00",
+      "sentiment": -0.231819,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_48321d2a1e103a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "3 Reasons to Avoid GL and 1 Stock to Buy Instead",
+      "summary": "This article explains three reasons to avoid investing in Globe Life (GL) despite its recent stock performance. The author highlights Globe Life's disappointing long-term revenue growth, soft demand indicated by net premiums earned, and a valuation that offers limited upside comp",
+      "url": "https://uk.finance.yahoo.com/news/3-reasons-avoid-gl-1-164136637.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-08-24T16:41:23+00:00",
+      "sentiment": 0.311772,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_bb6ea6f9673968",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AKAM Rides on Strength in Cloud Infrastructure Segment: Will It Last?",
+      "summary": "Akamai Technologies (AKAM) is experiencing significant growth in its Cloud Infrastructure Services (CIS) segment, driven by strong demand for AI workloads and GPU capacity. The company has secured over $2.8 billion in multi-year CIS commitments and plans to invest up to $500 mill",
+      "url": "https://www.tradingview.com/news/zacks:5d6c7a341094b:0-akam-rides-on-strength-in-cloud-infrastructure-segment-will-it-last/",
+      "source": "TradingView",
+      "published_at": "2026-08-24T15:37:08+00:00",
+      "sentiment": 0.336429,
       "change_pct": -2.91
     },
     {
@@ -534,7 +572,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262128211-market-movers-glw-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T16:15:30+00:00",
-      "sentiment": -0.322205,
+      "sentiment": -0.311758,
       "change_pct": -2.91
     },
     {
@@ -550,42 +588,16 @@
       "change_pct": -3.83
     },
     {
-      "id": "av_bb6ea6f9673968",
+      "id": "av_903a0f6df05001",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "AKAM Rides on Strength in Cloud Infrastructure Segment: Will It Last?",
-      "summary": "Akamai Technologies (AKAM) is experiencing significant growth in its Cloud Infrastructure Services (CIS) segment, driven by strong demand for AI workloads and GPU capacity. The company has secured over $2.8 billion in multi-year CIS commitments and plans to invest up to $500 mill",
-      "url": "https://www.tradingview.com/news/zacks:5d6c7a341094b:0-akam-rides-on-strength-in-cloud-infrastructure-segment-will-it-last/",
-      "source": "TradingView",
-      "published_at": "2026-08-24T15:37:08+00:00",
-      "sentiment": 0.309018,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_8aa07eb83a4b86",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Intel Corp Stock (INTC) Opened Down by 4.60% on Aug 24: What Investors Need To Know",
-      "summary": "Intel Corp (INTC) stock opened down by 4.60% due to significant equity dilution from a recent secondary offering and ongoing supply overhang. Technical indicators show a sell signal and an oversold condition, while fundamental analysis reveals annual revenue of $52.85B and a net ",
-      "url": "https://www.tradingkey.com/news/market-movers/262127882-market-movers-intc-20260824",
+      "title": "Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know",
+      "summary": "Micron Technology Inc. (MU) stock opened down by 6.86% on August 24, driven by a combination of Asian semiconductor selloffs, macroeconomic pressures, and ongoing patent litigation with Netlist. The company faces concerns over moderating memory spot prices and increased capital e",
+      "url": "https://www.tradingkey.com/news/market-movers/262127879-market-movers-mu-20260824",
       "source": "TradingKey",
-      "published_at": "2026-08-24T13:47:05+00:00",
-      "sentiment": -0.345713,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_f3f2f6ca339136",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Advanced Micro Devices Inc Stock (AMD) Opened Down by 3.86% on Aug 24: Key Drivers Unveiled",
-      "summary": "Advanced Micro Devices Inc (AMD) stock opened down by 3.86% on August 24, driven by sector-wide profit-taking, portfolio rebalancing, and macroeconomic headwinds such as rising Treasury yields. The company's valuation is also pressured by competitive dynamics in the data center A",
-      "url": "https://www.tradingkey.com/news/market-movers/262127878-market-movers-amd-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T13:47:16+00:00",
-      "sentiment": -0.3449,
+      "published_at": "2026-08-24T13:46:59+00:00",
+      "sentiment": -0.345878,
       "change_pct": -2.91
     },
     {
@@ -598,20 +610,7 @@
       "url": "https://ca.finance.yahoo.com/news/super-micro-computer-smci-guidance-180916677.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-08-24T18:09:00+00:00",
-      "sentiment": 0.233766,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_903a0f6df05001",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Micron Technology Inc Stock (MU) Opened Down by 6.86% on Aug 24: What Investors Need To Know",
-      "summary": "Micron Technology Inc. (MU) stock opened down by 6.86% on August 24, driven by a combination of Asian semiconductor selloffs, macroeconomic pressures, and ongoing patent litigation with Netlist. The company faces concerns over moderating memory spot prices and increased capital e",
-      "url": "https://www.tradingkey.com/news/market-movers/262127879-market-movers-mu-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T13:46:59+00:00",
-      "sentiment": -0.3409,
+      "sentiment": 0.230761,
       "change_pct": -2.91
     },
     {
@@ -624,7 +623,7 @@
       "url": "https://www.investing.com/news/insider-trading-news/packaging-corp-of-america-exec-vp-donald-shirley-sells-301m-in-stock-93CH-4874057",
       "source": "Investing.com",
       "published_at": "2026-08-24T19:15:15+00:00",
-      "sentiment": -0.203499,
+      "sentiment": -0.188972,
       "change_pct": -2.91
     },
     {
@@ -637,7 +636,7 @@
       "url": "https://www.webull.com/news/15446927054881792",
       "source": "Webull",
       "published_at": "2026-08-24T17:53:40+00:00",
-      "sentiment": 0.224881,
+      "sentiment": 0.220746,
       "change_pct": -2.91
     },
     {
@@ -652,6 +651,32 @@
       "published_at": "2026-08-24T19:51:25+00:00"
     },
     {
+      "id": "av_f3f2f6ca339136",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advanced Micro Devices Inc Stock (AMD) Opened Down by 3.86% on Aug 24: Key Drivers Unveiled",
+      "summary": "Advanced Micro Devices Inc (AMD) stock opened down by 3.86% on August 24, driven by sector-wide profit-taking, portfolio rebalancing, and macroeconomic headwinds such as rising Treasury yields. The company's valuation is also pressured by competitive dynamics in the data center A",
+      "url": "https://www.tradingkey.com/news/market-movers/262127878-market-movers-amd-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T13:47:16+00:00",
+      "sentiment": -0.316041,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_8aa07eb83a4b86",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel Corp Stock (INTC) Opened Down by 4.60% on Aug 24: What Investors Need To Know",
+      "summary": "Intel Corp (INTC) stock opened down by 4.60% due to significant equity dilution from a recent secondary offering and ongoing supply overhang. Technical indicators show a sell signal and an oversold condition, while fundamental analysis reveals annual revenue of $52.85B and a net ",
+      "url": "https://www.tradingkey.com/news/market-movers/262127882-market-movers-intc-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T13:47:05+00:00",
+      "sentiment": -0.303148,
+      "change_pct": -2.91
+    },
+    {
       "id": "av_26d8fd1813d3d6",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -661,20 +686,7 @@
       "url": "https://www.investing.com/news/stock-market-news/why-is-sandisk-stock-tumbling-today-93CH-4873737",
       "source": "Investing.com",
       "published_at": "2026-08-24T14:13:40+00:00",
-      "sentiment": -0.296372,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_d8f0a3d8ca971f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
-      "summary": "Nvidia has reportedly informed its largest customers of a more than 15% price increase for servers containing its AI chips, a move analyst Dan Ives suggests is bullish for the tech sector due to overwhelming AI demand. While Nvidia passes on costs, the price hike highlights Micro",
-      "url": "https://www.benzinga.com/markets/prediction-markets/26/08/61380830/nvidia-ai-server-prices-micron",
-      "source": "Benzinga",
-      "published_at": "2026-08-24T13:39:59+00:00",
-      "sentiment": 0.308322,
+      "sentiment": -0.291957,
       "change_pct": -2.91
     },
     {
@@ -687,7 +699,7 @@
       "url": "https://www.tradingview.com/news/zacks:94adc62a0094b:0-q2-earnings-season-winds-down-3-companies-that-broke-records/",
       "source": "TradingView",
       "published_at": "2026-08-24T20:46:02+00:00",
-      "sentiment": 0.130387,
+      "sentiment": 0.126542,
       "change_pct": -2.91
     },
     {
@@ -700,7 +712,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262128210-market-movers-stx-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T16:10:20+00:00",
-      "sentiment": -0.243875,
+      "sentiment": -0.239183,
       "change_pct": -2.91
     },
     {
@@ -713,85 +725,7 @@
       "url": "https://ca.finance.yahoo.com/news/nvidia-stock-tumbles-another-2-171448400.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-08-24T17:14:46+00:00",
-      "sentiment": -0.214837,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_2b78c7844cc478",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom",
-      "summary": "The AI revolution is driving significant infrastructure investment, benefiting server makers beyond semiconductor companies. Super Micro Computer (SMCI), Dell Technologies (DELL), and Hewlett Packard Enterprise (HPE) are well-positioned to capitalize on the increasing demand for ",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4004255/buy-these-3-pure-play-server-stocks-to-benefit-from-ai-data-center-boom/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-24T15:38:33+00:00",
-      "sentiment": 0.242817,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_65146f8cc08e2c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Western Digital Corp Stock (WDC) Moved Down by 5.55% on Aug 24: Key Drivers Unveiled",
-      "summary": "Western Digital Corp (WDC) stock fell by 5.55% on August 24, primarily due to post-earnings profit-taking, brokerage downgrades, and elevated valuation multiples. Despite beating earnings estimates and providing solid forward guidance, market expectations were exceptionally high ",
-      "url": "https://www.tradingkey.com/news/market-movers/262128212-market-movers-wdc-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T16:15:30+00:00",
-      "sentiment": -0.21221,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_ecfcade3d0ab00",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Synopsys to Report Q3 Earnings: What's in Store for the Stock?",
-      "summary": "Synopsys (SNPS) is set to announce its fiscal third-quarter 2026 results on August 26, with analysts predicting an 8.3% year-over-year earnings increase and a 40% revenue rise, driven largely by AI-fueled demand for semiconductor design solutions. Factors such as strong demand in",
-      "url": "https://www.tradingview.com/news/zacks:73372f0e6094b:0-synopsys-to-report-q3-earnings-what-s-in-store-for-the-stock/",
-      "source": "TradingView",
-      "published_at": "2026-08-24T14:40:43+00:00",
-      "sentiment": 0.24036,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_55b04053055ee1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
-      "summary": "Taiwanese prosecutors have indicted a senior Nvidia manager, surnamed Chang, and eight others for allegedly smuggling advanced AI chips into China. The group is accused of organizing the shipment of 74 servers containing high-end B300 chips through Japan and Indonesia, thereby ci",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
-      "source": "Bloomberg.com",
-      "published_at": "2026-08-24T14:12:00+00:00",
-      "sentiment": -0.247537,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_c3568a5ecef510",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lam Research Corp Stock (LRCX) Moved Down by 4.38% on Aug 24: A Full Analysis",
-      "summary": "Lam Research Corp (LRCX) shares fell by 4.38% due to profit-taking and valuation de-risking in the semiconductor industry, despite robust underlying business fundamentals. The decline is attributed to macroeconomic headwinds, institutional adjustments, and insider selling, as inv",
-      "url": "https://www.tradingkey.com/news/market-movers/262127964-market-movers-lrcx-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T14:15:31+00:00",
-      "sentiment": -0.233413,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_e9d7082e44fe03",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Applied Materials Inc Stock (AMAT) Opened Down by 3.02% on Aug 24: What Investors Need To Know",
-      "summary": "Applied Materials Inc (AMAT) stock opened down by 3.02% despite reporting record quarterly earnings driven by strong AI infrastructure demand. The decline is attributed to high investor expectations, profit-taking, and concerns over near-term margin headwinds from expansion costs",
-      "url": "https://www.tradingkey.com/news/market-movers/262127880-market-movers-amat-20260824",
-      "source": "TradingKey",
-      "published_at": "2026-08-24T13:47:11+00:00",
-      "sentiment": -0.240515,
+      "sentiment": -0.201082,
       "change_pct": -2.91
     },
     {
@@ -804,7 +738,59 @@
       "url": "https://www.tradingkey.com/news/market-movers/262127968-market-movers-tsm-20260824",
       "source": "TradingKey",
       "published_at": "2026-08-24T14:42:49+00:00",
-      "sentiment": -0.203553,
+      "sentiment": -0.247532,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_65146f8cc08e2c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Western Digital Corp Stock (WDC) Moved Down by 5.55% on Aug 24: Key Drivers Unveiled",
+      "summary": "Western Digital Corp (WDC) stock fell by 5.55% on August 24, primarily due to post-earnings profit-taking, brokerage downgrades, and elevated valuation multiples. Despite beating earnings estimates and providing solid forward guidance, market expectations were exceptionally high ",
+      "url": "https://www.tradingkey.com/news/market-movers/262128212-market-movers-wdc-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T16:15:30+00:00",
+      "sentiment": -0.206629,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_ecfcade3d0ab00",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Synopsys to Report Q3 Earnings: What's in Store for the Stock?",
+      "summary": "Synopsys (SNPS) is set to announce its fiscal third-quarter 2026 results on August 26, with analysts predicting an 8.3% year-over-year earnings increase and a 40% revenue rise, driven largely by AI-fueled demand for semiconductor design solutions. Factors such as strong demand in",
+      "url": "https://www.tradingview.com/news/zacks:73372f0e6094b:0-synopsys-to-report-q3-earnings-what-s-in-store-for-the-stock/",
+      "source": "TradingView",
+      "published_at": "2026-08-24T14:40:43+00:00",
+      "sentiment": 0.235297,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_2b78c7844cc478",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Buy These 3 Pure-Play Server Stocks to Benefit From AI Data Center Boom",
+      "summary": "The AI revolution is driving significant infrastructure investment, benefiting server makers beyond semiconductor companies. Super Micro Computer (SMCI), Dell Technologies (DELL), and Hewlett Packard Enterprise (HPE) are well-positioned to capitalize on the increasing demand for ",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA/pressreleases/4004255/buy-these-3-pure-play-server-stocks-to-benefit-from-ai-data-center-boom/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-24T15:38:33+00:00",
+      "sentiment": 0.203218,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_c3568a5ecef510",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lam Research Corp Stock (LRCX) Moved Down by 4.38% on Aug 24: A Full Analysis",
+      "summary": "Lam Research Corp (LRCX) shares fell by 4.38% due to profit-taking and valuation de-risking in the semiconductor industry, despite robust underlying business fundamentals. The decline is attributed to macroeconomic headwinds, institutional adjustments, and insider selling, as inv",
+      "url": "https://www.tradingkey.com/news/market-movers/262127964-market-movers-lrcx-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T14:15:31+00:00",
+      "sentiment": -0.217926,
       "change_pct": -2.91
     },
     {
@@ -820,6 +806,32 @@
       "change_pct": 1.33
     },
     {
+      "id": "av_55b04053055ee1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Taiwan Indicts Nvidia Manager Following Chip Smuggling Probe",
+      "summary": "Taiwanese prosecutors have indicted a senior Nvidia manager, surnamed Chang, and eight others for allegedly smuggling advanced AI chips into China. The group is accused of organizing the shipment of 74 servers containing high-end B300 chips through Japan and Indonesia, thereby ci",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/taiwan-indicts-nvidia-manager-following-chip-smuggling-probe",
+      "source": "Bloomberg.com",
+      "published_at": "2026-08-24T14:12:00+00:00",
+      "sentiment": -0.213338,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_e9d7082e44fe03",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Applied Materials Inc Stock (AMAT) Opened Down by 3.02% on Aug 24: What Investors Need To Know",
+      "summary": "Applied Materials Inc (AMAT) stock opened down by 3.02% despite reporting record quarterly earnings driven by strong AI infrastructure demand. The decline is attributed to high investor expectations, profit-taking, and concerns over near-term margin headwinds from expansion costs",
+      "url": "https://www.tradingkey.com/news/market-movers/262127880-market-movers-amat-20260824",
+      "source": "TradingKey",
+      "published_at": "2026-08-24T13:47:11+00:00",
+      "sentiment": -0.207709,
+      "change_pct": -2.91
+    },
+    {
       "id": "av_9706cca4fdc8f9",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -829,7 +841,7 @@
       "url": "https://finance.yahoo.com/energy/articles/exxonmobil-vs-chevron-compared-10-173023201.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-24T17:30:00+00:00",
-      "sentiment": 0.114044,
+      "sentiment": 0.111409,
       "change_pct": -2.91
     },
     {
@@ -842,20 +854,7 @@
       "url": "https://www.crn.com/news/components-peripherals/2026/intel-s-cpu-market-share-falls-to-31-year-low-as-ai-mania-fuels-record-growth",
       "source": "www.crn.com",
       "published_at": "2026-08-24T16:00:04+00:00",
-      "sentiment": 0.130889,
-      "change_pct": -2.91
-    },
-    {
-      "id": "av_920bc5a09e7802",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Opendoor vs. Zillow: Which Real Estate Stock is the Better Buy?",
-      "summary": "This article compares Opendoor (OPEN) and Zillow (ZG) stocks, evaluating their financial performance, business models, and market positions in a challenging real estate market. Zillow is identified as the better investment due to its diversified revenue streams, stronger operatin",
-      "url": "https://www.tradingview.com/news/zacks:41f624446094b:0-opendoor-vs-zillow-which-real-estate-stock-is-the-better-buy/",
-      "source": "TradingView",
-      "published_at": "2026-08-24T15:43:52+00:00",
-      "sentiment": 0.136609,
+      "sentiment": 0.124472,
       "change_pct": -2.91
     },
     {
@@ -868,7 +867,20 @@
       "url": "https://www.quiverquant.com/news/Tower+Semiconductor+slips+as+investors+digest+a+recent+rally+and+broader+foundry+weakness",
       "source": "Quiver Quantitative",
       "published_at": "2026-08-24T16:19:00+00:00",
-      "sentiment": -0.117726,
+      "sentiment": -0.108384,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_920bc5a09e7802",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Opendoor vs. Zillow: Which Real Estate Stock is the Better Buy?",
+      "summary": "This article compares Opendoor (OPEN) and Zillow (ZG) stocks, evaluating their financial performance, business models, and market positions in a challenging real estate market. Zillow is identified as the better investment due to its diversified revenue streams, stronger operatin",
+      "url": "https://www.tradingview.com/news/zacks:41f624446094b:0-opendoor-vs-zillow-which-real-estate-stock-is-the-better-buy/",
+      "source": "TradingView",
+      "published_at": "2026-08-24T15:43:52+00:00",
+      "sentiment": 0.117548,
       "change_pct": -2.91
     },
     {
@@ -881,7 +893,7 @@
       "url": "https://www.tradingview.com/news/gurufocus:ab19f13af094b:0-micron-s-big-ai-test-is-coming-this-week/",
       "source": "TradingView",
       "published_at": "2026-08-24T15:10:01+00:00",
-      "sentiment": 0.145865,
+      "sentiment": 0.129376,
       "change_pct": -2.91
     },
     {
@@ -894,7 +906,20 @@
       "url": "https://247wallst.com/investing/2026/08/24/super-micro-sinks-7-as-taiwan-indicts-employees-over-illegal-ai-server-exports-to-china-dell-slips/",
       "source": "24/7 Wall St.",
       "published_at": "2026-08-24T14:40:21+00:00",
-      "sentiment": 0.139453,
+      "sentiment": 0.12034,
+      "change_pct": -2.91
+    },
+    {
+      "id": "av_de873aea38fdec",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Seagate stock trades softer as tech sector slides ahead of key Nvidia earnings",
+      "summary": "Seagate Technology stock is trading softer as the broader tech sector weakens ahead of Nvidia's earnings report, emphasizing how memory and storage companies react to sector volatility. Despite recent revenue growth for Seagate, driven by increased demand in cloud data centers an",
+      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/seagate-stock-trades-softer-as-tech-sector-slides-ahead-of-key-nvidia/69993936",
+      "source": "Ad-hoc-news.de",
+      "published_at": "2026-08-24T14:05:34+00:00",
+      "sentiment": 0.127182,
       "change_pct": -2.91
     },
     {
@@ -931,19 +956,6 @@
       "source": "SeekingAlpha",
       "published_at": "2026-08-24T19:02:05+00:00",
       "change_pct": -3.27
-    },
-    {
-      "id": "av_de873aea38fdec",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Seagate stock trades softer as tech sector slides ahead of key Nvidia earnings",
-      "summary": "Seagate Technology stock is trading softer as the broader tech sector weakens ahead of Nvidia's earnings report, emphasizing how memory and storage companies react to sector volatility. Despite recent revenue growth for Seagate, driven by increased demand in cloud data centers an",
-      "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/seagate-stock-trades-softer-as-tech-sector-slides-ahead-of-key-nvidia/69993936",
-      "source": "Ad-hoc-news.de",
-      "published_at": "2026-08-24T14:05:34+00:00",
-      "sentiment": 0.123114,
-      "change_pct": -2.91
     },
     {
       "id": "f_a6f0c081921c8e",
@@ -1638,6 +1650,18 @@
       "url": "https://finnhub.io/api/news?id=78c2497118e9a05505990c85d4040d20a6654a396791f06ec588947a3e4d073f",
       "source": "Benzinga",
       "published_at": "2026-08-24T09:17:18+00:00",
+      "change_pct": -2.91
+    },
+    {
+      "id": "f_a1042c72d00a9d",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Dan Ives Says Nvidia's 15% AI Server Price Hike Is Bullish for Tech. Could Micron Be the Real Winner?",
+      "summary": "Prices for Nvidia-powered AI servers are rising more than 15% as memory costs surge. Dan Ives says the move is bullish, but Micron could benefit most.",
+      "url": "https://finnhub.io/api/news?id=69906ec0355f0fa106022b0d9396a7a486d3ddad9a7458dd1bae72a2942f9d35",
+      "source": "Benzinga",
+      "published_at": "2026-08-24T09:16:01+00:00",
       "change_pct": -2.91
     },
     {
@@ -2386,32 +2410,10 @@
       "url": "https://www.cnbc.com/2026/08/24/were-booking-a-300percent-profit-in-an-ai-winner-and-buying-more-of-a-healthcare-name.html",
       "source": "CNBC",
       "published_at": "2026-08-24T15:30:19+00:00"
-    },
-    {
-      "id": "f_499d24179044f6",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982 - Reuters",
-      "summary": "Oil stocks in US Strategic Petroleum Reserve fall by 3.7 million barrels to lowest level since 1982  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmhLSVR1RUVwZXFYcHJIUFNac0RwMjNmLVJDaFpqWm9MdER5TnFWZnBIWHFUQkdZRlJCaXpNVHBxeUdwZUpCVjUxc3F4Y3VxVVF4eGpveG1jeDlyRjBuNDZENEk3cGFrRk84cVJHQlJ1U3J2enNVclM4eHoyMWdxcEpvVkpCQUNMV1BzVG92RFdRTC0waHV5YTU5TXU2UUoyVHdHZXhTalNFeE9fMG13a2M1Z3JFX1k4V05EZHMzUm5faHdYbEE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-24T15:29:43+00:00"
-    },
-    {
-      "id": "f_1ce518a582b889",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Surge in bond yields is a result of \"Trump's war\", German minister says - Reuters",
-      "summary": "Surge in bond yields is a result of \"Trump's war\", German minister says  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNWFsT01UX1d4b0JYSGdUWHFTRTgyd3lrVFJDUlcwRUpnSWdiMjM0VnZzMEJPQW1PaktXQnJfSTZsNFAtM2FhcXUwR0R4bjh3ZUNSTzdKWVZQOWppMUNvWnJKRFJfci1IelpWbjlLbHdsVzdTeHNRaDd0TExZbUo4ck5nV1JDWTVBZGZvS1pucjJWS0FVTzR3bUdIenQ5VS14QUo1Ym9aNA?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-24T14:53:45+00:00"
     }
   ],
-  "fetched_at": "2026-08-25T03:57:25.474921+00:00",
+  "fetched_at": "2026-08-25T04:32:15.247759+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-25T03:57:28.181639+00:00",
+  "translated_at": "2026-08-25T04:32:17.680428+00:00",
   "translation_engine": "google-parallel"
 }
