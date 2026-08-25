@@ -216,16 +216,17 @@
       "change_pct": 1.97
     },
     {
-      "id": "f_3f66668f9a1b28",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "analyst",
-      "title": "AMD: The AI Tipping Point Is Here (Rating Upgrade)",
-      "summary": "AMD upgraded to buy as AI-driven growth accelerates. Long-term prospects and operating leverage support a 15% annual return outlook through 2030. See more.",
-      "url": "https://finnhub.io/api/news?id=8dd7b2e135c10e5b42a7f5c6f1d77b7d9692b72581f3a50d7c7b39bb2102a9bb",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-25T08:00:00+00:00",
-      "change_pct": 4.91
+      "id": "av_eb4913cab89c7a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cadence Design Systems Inc Stock (CDNS) Closed Up by 5.06% on Aug 25: What Investors Need To Know",
+      "summary": "Cadence Design Systems Inc (CDNS) saw its stock close up by 5.06% on August 25, driven by institutional investors correcting a valuation dislocation. The company reported strong double-digit revenue growth across all segments and raised its full-year outlook, with management emph",
+      "url": "https://www.tradingkey.com/news/market-movers/262131292-market-movers-cdns-20260825",
+      "source": "TradingKey",
+      "published_at": "2026-08-25T20:15:25+00:00",
+      "sentiment": 0.360949,
+      "change_pct": 2.19
     },
     {
       "id": "f_35c93ae7bd12ef",
@@ -251,6 +252,31 @@
       "published_at": "2026-08-24T17:52:12+00:00"
     },
     {
+      "id": "f_3f66668f9a1b28",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "analyst",
+      "title": "AMD: The AI Tipping Point Is Here (Rating Upgrade)",
+      "summary": "AMD upgraded to buy as AI-driven growth accelerates. Long-term prospects and operating leverage support a 15% annual return outlook through 2030. See more.",
+      "url": "https://finnhub.io/api/news?id=8dd7b2e135c10e5b42a7f5c6f1d77b7d9692b72581f3a50d7c7b39bb2102a9bb",
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-25T08:00:00+00:00",
+      "change_pct": 4.91
+    },
+    {
+      "id": "av_74fd8d04cd0e08",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
+      "summary": "NVIDIA has announced the Jetson Orin Nano 2, a new robotics computer designed to revolutionize entry-level edge AI. This new system offers double the inference performance of its predecessor, consumes 40% less power for the same performance, and is built for real-time reasoning a",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-08-25T15:09:14+00:00",
+      "sentiment": 0.486034,
+      "change_pct": 2.19
+    },
+    {
       "id": "f_e77ff77716d0b3",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -272,7 +298,7 @@
       "url": "https://ca.finance.yahoo.com/news/3-reasons-avoid-frme-1-143044335.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-08-25T14:14:45+00:00",
-      "sentiment": 0.542108,
+      "sentiment": 0.500602,
       "change_pct": 2.19
     },
     {
@@ -285,7 +311,7 @@
       "url": "https://www.storagereview.com/news/lancium-adds-nvidia-as-investor-and-partner-targeting-gigawatt-ai-factories-across-a-15gw-pipeline",
       "source": "StorageReview.com",
       "published_at": "2026-08-25T14:07:26+00:00",
-      "sentiment": 0.535246,
+      "sentiment": 0.522821,
       "change_pct": 2.19
     },
     {
@@ -309,20 +335,20 @@
       "url": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
       "source": "SiliconANGLE",
       "published_at": "2026-08-25T14:24:42+00:00",
-      "sentiment": 0.482181,
+      "sentiment": 0.482314,
       "change_pct": 2.19
     },
     {
-      "id": "av_74fd8d04cd0e08",
+      "id": "av_cab053bd76d7ed",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
-      "summary": "NVIDIA has announced the Jetson Orin Nano 2, a new robotics computer designed to revolutionize entry-level edge AI. This new system offers double the inference performance of its predecessor, consumes 40% less power for the same performance, and is built for real-time reasoning a",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-25T15:09:14+00:00",
-      "sentiment": 0.450754,
+      "title": "Cisco expands rack-scale secure AI factory infrastructure for neocloud and sovereign clouds",
+      "summary": "Cisco Systems Inc. has expanded its secure AI factory solutions, in partnership with Super Micro Computer Inc., to support massive AI workloads in hyperscale, neocloud, and sovereign clouds. The solutions, featuring Cisco's Silicon One and Nvidia Spectrum-X-based switches, are de",
+      "url": "https://siliconangle.com/2026/08/25/cisco-expands-rack-scale-secure-ai-factory-infrastructure-for-neocloud-and-sovereign-clouds/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-08-25T15:07:38+00:00",
+      "sentiment": 0.446667,
       "change_pct": 2.19
     },
     {
@@ -361,19 +387,6 @@
       "change_pct": 4.91
     },
     {
-      "id": "av_cab053bd76d7ed",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cisco expands rack-scale secure AI factory infrastructure for neocloud and sovereign clouds",
-      "summary": "Cisco Systems Inc. has expanded its secure AI factory solutions, in partnership with Super Micro Computer Inc., to support massive AI workloads in hyperscale, neocloud, and sovereign clouds. The solutions, featuring Cisco's Silicon One and Nvidia Spectrum-X-based switches, are de",
-      "url": "https://siliconangle.com/2026/08/25/cisco-expands-rack-scale-secure-ai-factory-infrastructure-for-neocloud-and-sovereign-clouds/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-08-25T15:07:38+00:00",
-      "sentiment": 0.428438,
-      "change_pct": 2.19
-    },
-    {
       "id": "f_772ba075670ffb",
       "provider": "finnhub",
       "ticker": "INTC",
@@ -394,7 +407,20 @@
       "url": "https://www.datacenterdynamics.com/en/news/nvidia-invests-in-data-center-powered-land-company-lancium/",
       "source": "Data Center Dynamics",
       "published_at": "2026-08-25T12:09:06+00:00",
-      "sentiment": 0.486382,
+      "sentiment": 0.480563,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_46d535732c401e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cisco Taps Supermicro for Rack-Scale AI Systems With Nvidia, Shares Climb",
+      "summary": "Cisco Systems announced a partnership with Super Micro Computer to integrate Supermicro servers into its Secure AI Factory offering, expanding its collaboration with Nvidia to deliver rack-scale AI computing systems. The integrated solutions, available in October 2026, combine Ci",
+      "url": "https://finance.biggo.com/news/0f15f88f-3906-464c-a422-5e3d836c0a5f",
+      "source": "BigGo Finance",
+      "published_at": "2026-08-25T18:37:36+00:00",
+      "sentiment": 0.316792,
       "change_pct": 2.19
     },
     {
@@ -407,33 +433,7 @@
       "url": "https://siliconangle.com/2026/08/25/cisco-and-nvidia-take-ai-factories-from-rack-to-runtime-cisconvidiaaifactory/",
       "source": "SiliconANGLE",
       "published_at": "2026-08-25T13:34:52+00:00",
-      "sentiment": 0.444685,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_3a2e4fec862959",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "CDW Corp Stock (CDW) Moved Up by 7.73% on Aug 25: A Full Analysis",
-      "summary": "CDW Corp (CDW) saw a 7.73% stock increase, outperforming its sector, driven by significant institutional investment disclosures and strong second-quarter financial results. The company, a leader in the Technology Equipment industry with $22.42 billion in annual revenue, benefited",
-      "url": "https://www.tradingkey.com/news/market-movers/262131112-market-movers-cdw-20260825",
-      "source": "TradingKey",
-      "published_at": "2026-08-25T19:15:30+00:00",
-      "sentiment": 0.295392,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_bdac16c5f49a11",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cisco Systems, Inc. (CSCO) Stock: Rebounds as NVIDIA and Supermicro Deal Strengthens AI Factory",
-      "summary": "Cisco Systems (CSCO) stock rebounded following its expanded partnership with NVIDIA and Supermicro to bolster its Secure AI Factory. This collaboration integrates Supermicro's high-density computing systems with Cisco's networking technology, including liquid-cooled solutions, to",
-      "url": "https://blockonomi.com/cisco-systems-inc-csco-stock-rebounds-as-nvidia-and-supermicro-deal-strengthens-ai-factory/",
-      "source": "Blockonomi",
-      "published_at": "2026-08-25T13:07:52+00:00",
-      "sentiment": 0.446437,
+      "sentiment": 0.439233,
       "change_pct": 2.19
     },
     {
@@ -446,7 +446,7 @@
       "url": "https://uk.finance.yahoo.com/news/does-pizza-hut-sale-mean-165124600.html",
       "source": "Yahoo Finance UK",
       "published_at": "2026-08-25T17:10:17+00:00",
-      "sentiment": 0.32785,
+      "sentiment": 0.338632,
       "change_pct": 2.19
     },
     {
@@ -459,7 +459,33 @@
       "url": "https://www.tradingview.com/news/stockstory:e42121fb7094b:0-earnings-to-watch-agilent-a-reports-q2-results-tomorrow/",
       "source": "TradingView",
       "published_at": "2026-08-25T18:13:59+00:00",
-      "sentiment": 0.300202,
+      "sentiment": 0.306723,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_bdac16c5f49a11",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cisco Systems, Inc. (CSCO) Stock: Rebounds as NVIDIA and Supermicro Deal Strengthens AI Factory",
+      "summary": "Cisco Systems (CSCO) stock rebounded following its expanded partnership with NVIDIA and Supermicro to bolster its Secure AI Factory. This collaboration integrates Supermicro's high-density computing systems with Cisco's networking technology, including liquid-cooled solutions, to",
+      "url": "https://blockonomi.com/cisco-systems-inc-csco-stock-rebounds-as-nvidia-and-supermicro-deal-strengthens-ai-factory/",
+      "source": "Blockonomi",
+      "published_at": "2026-08-25T13:07:52+00:00",
+      "sentiment": 0.430142,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_3a2e4fec862959",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "CDW Corp Stock (CDW) Moved Up by 7.73% on Aug 25: A Full Analysis",
+      "summary": "CDW Corp (CDW) saw a 7.73% stock increase, outperforming its sector, driven by significant institutional investment disclosures and strong second-quarter financial results. The company, a leader in the Technology Equipment industry with $22.42 billion in annual revenue, benefited",
+      "url": "https://www.tradingkey.com/news/market-movers/262131112-market-movers-cdw-20260825",
+      "source": "TradingKey",
+      "published_at": "2026-08-25T19:15:30+00:00",
+      "sentiment": 0.269099,
       "change_pct": 2.19
     },
     {
@@ -472,20 +498,20 @@
       "url": "https://seekingalpha.com/news/4636561-cisco-partners-with-supermicro-to-expand-secure-ai-factory-with-nvidia",
       "source": "Seeking Alpha",
       "published_at": "2026-08-25T12:25:44+00:00",
-      "sentiment": 0.425316,
+      "sentiment": 0.431814,
       "change_pct": 2.19
     },
     {
-      "id": "av_9aa5579aaa7a12",
+      "id": "av_efe73181e2655b",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 3.37% on Aug 25: Drivers Behind the Movement",
-      "summary": "Seagate Technology Holdings PLC (STX) saw its stock rise by 3.37% on August 25th, driven by investors buying into a recent technology sector dip and strong demand for mass-capacity storage products due to AI data center expansion. Despite intraday volatility and some neutral tech",
-      "url": "https://www.tradingkey.com/news/market-movers/262130825-market-movers-stx-20260825",
+      "title": "Western Digital Corp Stock (WDC) Closed Up by 3.53% on Aug 25: Key Drivers Unveiled",
+      "summary": "Western Digital Corp (WDC) stock closed up 3.53% on August 25, driven by dip-buying support after recent profit-taking in the memory and hard drive sectors. The company benefited from strong demand in high-capacity storage and cloud data centers, with recent financials showing ex",
+      "url": "https://www.tradingkey.com/news/market-movers/262131297-market-movers-wdc-20260825",
       "source": "TradingKey",
-      "published_at": "2026-08-25T15:15:36+00:00",
-      "sentiment": 0.341762,
+      "published_at": "2026-08-25T20:16:06+00:00",
+      "sentiment": 0.212696,
       "change_pct": 2.19
     },
     {
@@ -498,46 +524,7 @@
       "url": "https://www.investing.com/news/company-news/ies-holdings-stock-hits-52week-low-at-32313-usd-93CH-4875568",
       "source": "Investing.com",
       "published_at": "2026-08-25T15:14:19+00:00",
-      "sentiment": 0.336674,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_06a030570944c5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cisco will offer AI racks for trillion-parameter model training",
-      "summary": "Cisco is expanding its Secure AI Factory with NVIDIA by partnering with Supermicro to offer rack-scale, high-density liquid- and air-cooled AI compute systems. This collaboration aims to provide a full-stack, NCP-compliant architecture for enterprises, neoclouds, and sovereign cl",
-      "url": "https://www.stocktitan.net/news/CSCO/cisco-expands-secure-ai-factory-with-nvidia-for-the-rack-scale-vwgucy9yiac9.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-25T11:59:50+00:00",
-      "sentiment": 0.415977,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_6aec50a200a730",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
-      "summary": "Super Micro Computer (SMCI) is experiencing record growth in backlogs, driven primarily by its exposure to AI infrastructure. The company received over $60 billion in new orders in Q4 fiscal 2026, leading to robust revenue projections for fiscal 2027. Despite strong competition f",
-      "url": "https://www.tradingview.com/news/zacks:1cd9837d0094b:0-smci-s-backlogs-are-growing-at-a-record-pace-what-s-ahead/",
-      "source": "TradingView",
-      "published_at": "2026-08-25T14:38:22+00:00",
-      "sentiment": 0.344849,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_c85ff9c8cd165d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "India AI Data Center Firm Orders 9,000 Nvidia Vera Rubin Systems",
-      "summary": "AM Intelligence, an Indian AI infrastructure company, has placed a binding order for 9,000 Nvidia Corp. Vera Rubin systems, aiming to be a key adopter of the advanced computing platform in Asia. These servers are expected to be online next year in southern India, supporting major",
-      "url": "https://finance.yahoo.com/technology/ai/articles/india-ai-data-center-firm-094222289.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-25T09:42:00+00:00",
-      "sentiment": 0.43486,
+      "sentiment": 0.330981,
       "change_pct": 2.19
     },
     {
@@ -550,7 +537,85 @@
       "url": "https://www.benzinga.com/markets/large-cap/26/08/61411585/cisco-expands-rack-scale-ai-computing-with-nvidia-supermicro",
       "source": "Benzinga",
       "published_at": "2026-08-25T14:45:47+00:00",
-      "sentiment": 0.305562,
+      "sentiment": 0.34139,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_06a030570944c5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cisco will offer AI racks for trillion-parameter model training",
+      "summary": "Cisco is expanding its Secure AI Factory with NVIDIA by partnering with Supermicro to offer rack-scale, high-density liquid- and air-cooled AI compute systems. This collaboration aims to provide a full-stack, NCP-compliant architecture for enterprises, neoclouds, and sovereign cl",
+      "url": "https://www.stocktitan.net/news/CSCO/cisco-expands-secure-ai-factory-with-nvidia-for-the-rack-scale-vwgucy9yiac9.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-25T11:59:50+00:00",
+      "sentiment": 0.406367,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_9aa5579aaa7a12",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Seagate Technology Holdings PLC Stock (STX) Moved Up by 3.37% on Aug 25: Drivers Behind the Movement",
+      "summary": "Seagate Technology Holdings PLC (STX) saw its stock rise by 3.37% on August 25th, driven by investors buying into a recent technology sector dip and strong demand for mass-capacity storage products due to AI data center expansion. Despite intraday volatility and some neutral tech",
+      "url": "https://www.tradingkey.com/news/market-movers/262130825-market-movers-stx-20260825",
+      "source": "TradingKey",
+      "published_at": "2026-08-25T15:15:36+00:00",
+      "sentiment": 0.31686,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_cd4ea4dca2a774",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cisco and Supermicro Are Building for AI's Next Phase",
+      "summary": "Cisco and Supermicro are partnering to expand Cisco's Secure AI Factory by integrating Super Micro Computer systems, including liquid and air-cooled GPU configurations, with Cisco's networking and security expertise. This collaboration aims to simplify the deployment of large-sca",
+      "url": "https://www.tradingview.com/news/gurufocus:24edaf93c094b:0-cisco-and-supermicro-are-building-for-ai-s-next-phase/",
+      "source": "TradingView",
+      "published_at": "2026-08-25T19:37:36+00:00",
+      "sentiment": 0.207282,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_6aec50a200a730",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
+      "summary": "Super Micro Computer (SMCI) is experiencing record growth in backlogs, driven primarily by its exposure to AI infrastructure. The company received over $60 billion in new orders in Q4 fiscal 2026, leading to robust revenue projections for fiscal 2027. Despite strong competition f",
+      "url": "https://www.tradingview.com/news/zacks:1cd9837d0094b:0-smci-s-backlogs-are-growing-at-a-record-pace-what-s-ahead/",
+      "source": "TradingView",
+      "published_at": "2026-08-25T14:38:22+00:00",
+      "sentiment": 0.319927,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_c85ff9c8cd165d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "India AI Data Center Firm Orders 9,000 Nvidia Vera Rubin Systems",
+      "summary": "AM Intelligence, an Indian AI infrastructure company, has placed a binding order for 9,000 Nvidia Corp. Vera Rubin systems, aiming to be a key adopter of the advanced computing platform in Asia. These servers are expected to be online next year in southern India, supporting major",
+      "url": "https://finance.yahoo.com/technology/ai/articles/india-ai-data-center-firm-094222289.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-25T09:42:00+00:00",
+      "sentiment": 0.441459,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_fbd3d3bf1823e1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple launches new Mac Studio with M5 Max and M5 Ultra chips",
+      "summary": "Apple has announced the new Mac Studio, featuring the M5 Max and M5 Ultra chips, with pre-orders beginning today and availability starting September 22. The M5 Max configuration starts at $2,499, while the M5 Ultra version starts at $5,499, with educational pricing and leasing op",
+      "url": "https://www.investing.com/news/company-news/apple-launches-new-mac-studio-with-m5-max-and-m5-ultra-chips-93CH-4875512",
+      "source": "Investing.com",
+      "published_at": "2026-08-25T14:02:02+00:00",
+      "sentiment": 0.322705,
       "change_pct": 2.19
     },
     {
@@ -575,20 +640,7 @@
       "url": "https://www.tradingview.com/news/zacks:8ed66bd61094b:0-here-s-why-you-should-hold-fti-consulting-stock-in-your-portfolio-now/",
       "source": "TradingView",
       "published_at": "2026-08-25T13:42:44+00:00",
-      "sentiment": 0.317211,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_fbd3d3bf1823e1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple launches new Mac Studio with M5 Max and M5 Ultra chips",
-      "summary": "Apple has announced the new Mac Studio, featuring the M5 Max and M5 Ultra chips, with pre-orders beginning today and availability starting September 22. The M5 Max configuration starts at $2,499, while the M5 Ultra version starts at $5,499, with educational pricing and leasing op",
-      "url": "https://www.investing.com/news/company-news/apple-launches-new-mac-studio-with-m5-max-and-m5-ultra-chips-93CH-4875512",
-      "source": "Investing.com",
-      "published_at": "2026-08-25T14:02:02+00:00",
-      "sentiment": 0.301553,
+      "sentiment": 0.300111,
       "change_pct": 2.19
     },
     {
@@ -601,7 +653,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-still-undervalued-despite-28-125600582.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-25T13:07:49+00:00",
-      "sentiment": 0.319894,
+      "sentiment": 0.313655,
       "change_pct": 2.19
     },
     {
@@ -614,33 +666,7 @@
       "url": "https://www.tradingview.com/news/zacks:6e59281a6094b:0-these-3-ai-led-small-mid-cap-stocks-may-become-future-game-changers/",
       "source": "TradingView",
       "published_at": "2026-08-25T12:13:18+00:00",
-      "sentiment": 0.339474,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_6177d190b73964",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI, costs and data center: Behind the América Móvil, Oracle and Nvidia partnership",
-      "summary": "Claro Empresas, América Móvil's corporate arm in Brazil, is launching a GPU-as-a-service (GPUaaS) offering in partnership with Nvidia and Oracle, aiming to reduce AI processing costs for Brazilian companies by up to 50%. The initiative involves importing 256 GPUs for Claro's São ",
-      "url": "https://www.bnamericas.com/en/features/ai-costs-and-data-center-behind-the-america-movil-oracle-and-nvidia-partnership",
-      "source": "BNamericas",
-      "published_at": "2026-08-25T11:49:14+00:00",
-      "sentiment": 0.343822,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_9d9d00c88a0f5a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA (NASDAQ:NVDA) Price Target Raised to $352.00 at Raymond James Financial",
-      "summary": "Raymond James Financial has increased its price target for NVIDIA (NASDAQ:NVDA) from $330.00 to $352.00, reiterating a \"strong-buy\" rating. This new target implies a potential upside of 68.84% from the current price. The broader analyst consensus rates NVIDIA as a \"Moderate Buy\" ",
-      "url": "https://www.marketbeat.com/instant-alerts/analyst-nvidia-nasdaq-nvda-price-target-raised-to-35200-at-raymond-james-financial-2026-08-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-25T12:11:35+00:00",
-      "sentiment": 0.333571,
+      "sentiment": 0.321217,
       "change_pct": 2.19
     },
     {
@@ -653,33 +679,7 @@
       "url": "https://www.tipranks.com/news/company-announcements/pdd-holdings-posts-q2-2026-revenue-growth-but-profit-pressure-amid-ecosystem-investments",
       "source": "TipRanks",
       "published_at": "2026-08-25T12:14:32+00:00",
-      "sentiment": 0.327366,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_d0a163d775c936",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Intel Stock Draws Nvidia’s Backing As $20B Deal Fuels AI Push",
-      "summary": "Intel Corporation (INTC) stock is experiencing a 3.46% surge due to high AI chip demand and optimistic data center forecasts, fueled by a recent $20 billion common stock offering. Nvidia's significant $29.99 billion stake in INTC, along with increased positions from other major i",
-      "url": "https://stockstotrade.com/news/intel-corporation-intc-news-2026_08_25/",
-      "source": "StocksToTrade",
-      "published_at": "2026-08-25T11:38:24+00:00",
-      "sentiment": 0.332043,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_989131d27d3f6a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lumentum's 1.6T & 200G Ramp Faces Cisco & NVIDIA Competition",
-      "summary": "Lumentum is poised to benefit from the accelerating demand for 1.6T transceivers and 200G-per-lane optical technology driven by AI clusters. The company has started shipping 1.6T transceivers and expects significant adoption, strengthening its position against competitors like Ci",
-      "url": "https://www.tradingview.com/news/zacks:4f4d9de1c094b:0-lumentum-s-1-6t-200g-ramp-faces-cisco-nvidia-competition/",
-      "source": "TradingView",
-      "published_at": "2026-08-25T15:37:38+00:00",
-      "sentiment": 0.230138,
+      "sentiment": 0.31701,
       "change_pct": 2.19
     },
     {
@@ -695,16 +695,29 @@
       "change_pct": 3.42
     },
     {
-      "id": "av_a4ad4f18fcd562",
+      "id": "av_9d9d00c88a0f5a",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Advanced Micro Devices Shares Rise After Raymond James Upgrades Stock to Strong Buy",
-      "summary": "Advanced Micro Devices (AMD) shares rose in pre-market trading after Raymond James upgraded the stock to Strong Buy and raised its price target to $641 from $565. The upgrade was driven by an attractive valuation and significant long-term growth opportunities in the AI server CPU",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-rise-111055911.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-25T11:11:06+00:00",
-      "sentiment": 0.33815,
+      "title": "NVIDIA (NASDAQ:NVDA) Price Target Raised to $352.00 at Raymond James Financial",
+      "summary": "Raymond James Financial has increased its price target for NVIDIA (NASDAQ:NVDA) from $330.00 to $352.00, reiterating a \"strong-buy\" rating. This new target implies a potential upside of 68.84% from the current price. The broader analyst consensus rates NVIDIA as a \"Moderate Buy\" ",
+      "url": "https://www.marketbeat.com/instant-alerts/analyst-nvidia-nasdaq-nvda-price-target-raised-to-35200-at-raymond-james-financial-2026-08-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-25T12:11:35+00:00",
+      "sentiment": 0.312036,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_6177d190b73964",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI, costs and data center: Behind the América Móvil, Oracle and Nvidia partnership",
+      "summary": "Claro Empresas, América Móvil's corporate arm in Brazil, is launching a GPU-as-a-service (GPUaaS) offering in partnership with Nvidia and Oracle, aiming to reduce AI processing costs for Brazilian companies by up to 50%. The initiative involves importing 256 GPUs for Claro's São ",
+      "url": "https://www.bnamericas.com/en/features/ai-costs-and-data-center-behind-the-america-movil-oracle-and-nvidia-partnership",
+      "source": "BNamericas",
+      "published_at": "2026-08-25T11:49:14+00:00",
+      "sentiment": 0.318419,
       "change_pct": 2.19
     },
     {
@@ -717,46 +730,20 @@
       "url": "https://ca.finance.yahoo.com/news/michael-burry-says-21-billion-190332718.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-08-25T19:03:00+00:00",
-      "sentiment": -0.141371,
+      "sentiment": -0.136321,
       "change_pct": 2.19
     },
     {
-      "id": "av_7978d0f0637fbe",
+      "id": "av_d0a163d775c936",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Londian Wason Leads Global Advanced Copper Foil Sector, Dual Growth Engines Anchor Long-Term Value",
-      "summary": "Londian Wason New Energy Technology Group, a global manufacturer of electrodeposited copper foil, recently completed its IPO on the NYSE, highlighting its leadership in advanced copper foil for EVs and AI computing infrastructure. The company benefits from dual growth drivers: gl",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/londian-wason-leads-global-advanced-113400157.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-25T11:10:57+00:00",
-      "sentiment": 0.3345,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_ce08424b4e484d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "3 Reasons to Sell CVS and 1 Stock to Buy Instead",
-      "summary": "This article argues that investors should consider selling CVS Health stock despite its recent performance, citing three main reasons: lackluster revenue growth, slim projected revenue growth, and barely growing earnings per share. The author suggests that while CVS is not a terr",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-cvs-1-142244709.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-25T10:22:00+00:00",
-      "sentiment": 0.344127,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_0717b5dd634fac",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Fitch Assigns Gorilla Technology Group Inc First-Time IDR of 'B-?'; Outlook Positive",
-      "summary": "Fitch Ratings has assigned Gorilla Technology Group Inc (Gorilla) a Long-Term Issuer Default Rating (IDR) of 'B-?' with a Positive Outlook. The rating reflects Gorilla's execution risks during its transition into data center management, its small scale, and high customer concentr",
-      "url": "https://www.marketscreener.com/news/fitch-assigns-gorilla-technology-group-inc-first-time-idr-of-b-outlook-positive-ce7858d8db8fff26",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-08-25T11:43:00+00:00",
-      "sentiment": 0.307268,
+      "title": "Intel Stock Draws Nvidia’s Backing As $20B Deal Fuels AI Push",
+      "summary": "Intel Corporation (INTC) stock is experiencing a 3.46% surge due to high AI chip demand and optimistic data center forecasts, fueled by a recent $20 billion common stock offering. Nvidia's significant $29.99 billion stake in INTC, along with increased positions from other major i",
+      "url": "https://stockstotrade.com/news/intel-corporation-intc-news-2026_08_25/",
+      "source": "StocksToTrade",
+      "published_at": "2026-08-25T11:38:24+00:00",
+      "sentiment": 0.317882,
       "change_pct": 2.19
     },
     {
@@ -769,20 +756,46 @@
       "url": "https://www.cnbc.com/2026/08/25/-buy-this-stock-to-play-boom-in-one-area-of-ai-morgan-stanley-says.html",
       "source": "CNBC",
       "published_at": "2026-08-25T14:11:02+00:00",
-      "sentiment": 0.243975,
+      "sentiment": 0.248521,
       "change_pct": 2.19
     },
     {
-      "id": "av_586bb72f0e24c2",
+      "id": "av_7978d0f0637fbe",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Zacks.com featured highlights Sandisk, Celestica and BrightSpring",
-      "summary": "Zacks Investment Research highlights Sandisk Corp. (SNDK), Celestica Inc. (CLS), and BrightSpring Health Services, Inc. (BTSG) as profitable stocks to consider for investment. These companies are selected based on their strong net income ratios and high expected earnings growth r",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CLS/pressreleases/4016952/zackscom-featured-highlights-sandisk-celestica-and-brightspring/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-08-25T09:41:52+00:00",
-      "sentiment": 0.344774,
+      "title": "Londian Wason Leads Global Advanced Copper Foil Sector, Dual Growth Engines Anchor Long-Term Value",
+      "summary": "Londian Wason New Energy Technology Group, a global manufacturer of electrodeposited copper foil, recently completed its IPO on the NYSE, highlighting its leadership in advanced copper foil for EVs and AI computing infrastructure. The company benefits from dual growth drivers: gl",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/londian-wason-leads-global-advanced-113400157.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-25T11:10:57+00:00",
+      "sentiment": 0.322983,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_989131d27d3f6a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lumentum's 1.6T & 200G Ramp Faces Cisco & NVIDIA Competition",
+      "summary": "Lumentum is poised to benefit from the accelerating demand for 1.6T transceivers and 200G-per-lane optical technology driven by AI clusters. The company has started shipping 1.6T transceivers and expects significant adoption, strengthening its position against competitors like Ci",
+      "url": "https://www.tradingview.com/news/zacks:4f4d9de1c094b:0-lumentum-s-1-6t-200g-ramp-faces-cisco-nvidia-competition/",
+      "source": "TradingView",
+      "published_at": "2026-08-25T15:37:38+00:00",
+      "sentiment": 0.209312,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_a4ad4f18fcd562",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advanced Micro Devices Shares Rise After Raymond James Upgrades Stock to Strong Buy",
+      "summary": "Advanced Micro Devices (AMD) shares rose in pre-market trading after Raymond James upgraded the stock to Strong Buy and raised its price target to $641 from $565. The upgrade was driven by an attractive valuation and significant long-term growth opportunities in the AI server CPU",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advanced-micro-devices-shares-rise-111055911.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-25T11:11:06+00:00",
+      "sentiment": 0.311804,
       "change_pct": 2.19
     },
     {
@@ -795,7 +808,46 @@
       "url": "https://www.tradingkey.com/news/market-movers/262131012-market-movers-panw-20260825",
       "source": "TradingKey",
       "published_at": "2026-08-25T18:15:36+00:00",
-      "sentiment": -0.116223,
+      "sentiment": -0.129328,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_586bb72f0e24c2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Zacks.com featured highlights Sandisk, Celestica and BrightSpring",
+      "summary": "Zacks Investment Research highlights Sandisk Corp. (SNDK), Celestica Inc. (CLS), and BrightSpring Health Services, Inc. (BTSG) as profitable stocks to consider for investment. These companies are selected based on their strong net income ratios and high expected earnings growth r",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/CLS/pressreleases/4016952/zackscom-featured-highlights-sandisk-celestica-and-brightspring/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-08-25T09:41:52+00:00",
+      "sentiment": 0.336389,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_ce08424b4e484d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "3 Reasons to Sell CVS and 1 Stock to Buy Instead",
+      "summary": "This article argues that investors should consider selling CVS Health stock despite its recent performance, citing three main reasons: lackluster revenue growth, slim projected revenue growth, and barely growing earnings per share. The author suggests that while CVS is not a terr",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-cvs-1-142244709.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-25T10:22:00+00:00",
+      "sentiment": 0.316533,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_0717b5dd634fac",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Fitch Assigns Gorilla Technology Group Inc First-Time IDR of 'B-?'; Outlook Positive",
+      "summary": "Fitch Ratings has assigned Gorilla Technology Group Inc (Gorilla) a Long-Term Issuer Default Rating (IDR) of 'B-?' with a Positive Outlook. The rating reflects Gorilla's execution risks during its transition into data center management, its small scale, and high customer concentr",
+      "url": "https://www.marketscreener.com/news/fitch-assigns-gorilla-technology-group-inc-first-time-idr-of-b-outlook-positive-ce7858d8db8fff26",
+      "source": "www.marketscreener.com",
+      "published_at": "2026-08-25T11:43:00+00:00",
+      "sentiment": 0.280911,
       "change_pct": 2.19
     },
     {
@@ -808,33 +860,20 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/openai-claims-chips-outperform-nvidia-140001612.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-25T13:39:07+00:00",
-      "sentiment": -0.221304,
+      "sentiment": -0.21649,
       "change_pct": 2.19
     },
     {
-      "id": "av_9f3adb0c1de7ad",
+      "id": "av_d5cf14f294b8ab",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Advanced Micro Devices, Inc. $AMD is Puzo Michael J's Largest Position",
-      "summary": "Puzo Michael J's most recent 13F filing shows that Advanced Micro Devices (AMD) is his largest position, despite cutting his stake by 11.0%. The institutional investor now owns 48,290 shares worth $28.05 million, representing 7.2% of his portfolio. The article also details other ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-is-puzo-michael-js-largest-position-2026-08-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-25T09:24:20+00:00",
-      "sentiment": -0.324657,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_bffd1bbca92338",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Timur Turlov’s Journey: From Teenage Trader to the Forbes List",
-      "summary": "This article chronicles the journey of Timur Turlov, founder of Freedom Holding Corp., from a challenging childhood to becoming a self-made billionaire featured on the Forbes 40 Under 40 list. It details his early foray into trading, the founding and growth of Freedom Holding int",
-      "url": "https://businessfocusmagazine.com/2026/08/25/timur-turlovs-journey-from-teenage-trader-to-the-forbes-list/",
-      "source": "Business Focus Magazine",
-      "published_at": "2026-08-25T09:12:23+00:00",
-      "sentiment": 0.30024,
+      "title": "Johnson & Johnson Is Near a Record High. Is There Still Room to Run?",
+      "summary": "Johnson & Johnson (JNJ) is currently trading near its 52-week high of $276.47, with its stock price at $270.24. Despite a 32% year-to-date gain, outperforming the S&P 500, the article suggests a \"hold\" rating due to the stock being priced for good news and offering only about 1% ",
+      "url": "https://247wallst.com/investing/2026/08/25/johnson-johnson-is-near-a-record-high-is-there-still-room-to-run/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-25T16:00:39+00:00",
+      "sentiment": 0.140107,
       "change_pct": 2.19
     },
     {
@@ -849,19 +888,6 @@
       "published_at": "2026-08-24T15:46:32+00:00"
     },
     {
-      "id": "av_d5cf14f294b8ab",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Johnson & Johnson Is Near a Record High. Is There Still Room to Run?",
-      "summary": "Johnson & Johnson (JNJ) is currently trading near its 52-week high of $276.47, with its stock price at $270.24. Despite a 32% year-to-date gain, outperforming the S&P 500, the article suggests a \"hold\" rating due to the stock being priced for good news and offering only about 1% ",
-      "url": "https://247wallst.com/investing/2026/08/25/johnson-johnson-is-near-a-record-high-is-there-still-room-to-run/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-08-25T16:00:39+00:00",
-      "sentiment": 0.108571,
-      "change_pct": 2.19
-    },
-    {
       "id": "av_1d03e3b2efbc5a",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -871,33 +897,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-surges-8-taiwan-144527005.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-25T15:09:34+00:00",
-      "sentiment": 0.114303,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_9000c927227369",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia’s AI financing push brings new credit risks, Morgan Stanley says",
-      "summary": "Morgan Stanley initiated credit coverage of Nvidia with a neutral view, citing that Nvidia's use of its balance sheet to finance the broader AI ecosystem introduces new credit risks not captured by conventional metrics. The firm projects approximately $200 billion in all-in credi",
-      "url": "https://www.investing.com/news/stock-market-news/nvidias-ai-financing-push-brings-new-credit-risks-morgan-stanley-says-4875159",
-      "source": "Investing.com",
-      "published_at": "2026-08-25T11:38:52+00:00",
-      "sentiment": -0.198628,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_65c1d610d8281a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Xiaomi's Xring O3 Chip Takes On Qualcomm and MediaTek",
-      "summary": "Xiaomi has launched its new 3-nanometer Xring O3 chip, aiming to challenge established players like Qualcomm and MediaTek in the smartphone processor market. The chip focuses on enhanced image processing and on-device AI, a significant step for Xiaomi, though analysts note that l",
-      "url": "https://www.briefs.co/news/xiaomi-s-xring-o3-chip-takes-on-qualcomm-and-mediatek/",
-      "source": "Briefs Finance",
-      "published_at": "2026-08-25T14:28:23+00:00",
-      "sentiment": 0.122171,
+      "sentiment": 0.107081,
       "change_pct": 2.19
     },
     {
@@ -913,6 +913,19 @@
       "change_pct": 2.19,
       "title_kr": "다우존스 주식은 오늘 세션에서 움직이고 있습니다",
       "summary_kr": "금요일에 움직이는 다우존스 주식에 대해 궁금하십니까? 오늘 세션에서 다우존스 지수 내 최고 변동 항목을 살펴보는 데 참여해 보세요."
+    },
+    {
+      "id": "av_9000c927227369",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia’s AI financing push brings new credit risks, Morgan Stanley says",
+      "summary": "Morgan Stanley initiated credit coverage of Nvidia with a neutral view, citing that Nvidia's use of its balance sheet to finance the broader AI ecosystem introduces new credit risks not captured by conventional metrics. The firm projects approximately $200 billion in all-in credi",
+      "url": "https://www.investing.com/news/stock-market-news/nvidias-ai-financing-push-brings-new-credit-risks-morgan-stanley-says-4875159",
+      "source": "Investing.com",
+      "published_at": "2026-08-25T11:38:52+00:00",
+      "sentiment": -0.187476,
+      "change_pct": 2.19
     },
     {
       "id": "f_1cbb0525387a9c",
@@ -936,7 +949,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-rise-3-strong-131800376.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-25T13:38:25+00:00",
-      "sentiment": 0.133913,
+      "sentiment": 0.133471,
       "change_pct": 2.19
     },
     {
@@ -949,7 +962,20 @@
       "url": "https://www.tradingkey.com/news/market-movers/262130603-market-movers-amd-20260825",
       "source": "TradingKey",
       "published_at": "2026-08-25T13:47:12+00:00",
-      "sentiment": 0.117355,
+      "sentiment": 0.121783,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_65c1d610d8281a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Xiaomi's Xring O3 Chip Takes On Qualcomm and MediaTek",
+      "summary": "Xiaomi has launched its new 3-nanometer Xring O3 chip, aiming to challenge established players like Qualcomm and MediaTek in the smartphone processor market. The chip focuses on enhanced image processing and on-device AI, a significant step for Xiaomi, though analysts note that l",
+      "url": "https://www.briefs.co/news/xiaomi-s-xring-o3-chip-takes-on-qualcomm-and-mediatek/",
+      "source": "Briefs Finance",
+      "published_at": "2026-08-25T14:28:23+00:00",
+      "sentiment": 0.100108,
       "change_pct": 2.19
     },
     {
@@ -965,6 +991,18 @@
       "change_pct": 2.19
     },
     {
+      "id": "f_fec3bda73d1e62",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "ma",
+      "title": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
+      "summary": "",
+      "url": "https://finnhub.io/api/news?id=28a0b1d17e9f4125a0a962072507893cab5497146ee4fa9163f537a2140b0c0d",
+      "source": "Benzinga",
+      "published_at": "2026-08-24T15:40:04+00:00",
+      "change_pct": 2.19
+    },
+    {
       "id": "f_4852f89a223538",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -977,18 +1015,6 @@
       "change_pct": 2.19,
       "title_kr": "이 주식은 오늘 세션에서 가장 활발합니다.",
       "summary_kr": "오늘 세션에서 가장 활발한 주식이 궁금하신가요? 가장 높은 거래량을 생성하고 시장의 관심을 끌고 있는 주식을 살펴보세요."
-    },
-    {
-      "id": "f_fec3bda73d1e62",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "ma",
-      "title": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
-      "summary": "",
-      "url": "https://finnhub.io/api/news?id=28a0b1d17e9f4125a0a962072507893cab5497146ee4fa9163f537a2140b0c0d",
-      "source": "Benzinga",
-      "published_at": "2026-08-24T15:40:04+00:00",
-      "change_pct": 2.19
     },
     {
       "id": "f_a79c1414cfc201",
@@ -1015,6 +1041,19 @@
       "change_pct": 4.84,
       "title_kr": "오늘 세션에서 S&P500 주식의 최신 동향을 알아보세요.",
       "summary_kr": "금요일 정오에는 S&P500 지수의 움직임에 대한 최신 소식을 받아보세요. 오늘 세션에서 어떤 주식이 최고 상승주와 하락주를 주도하고 있는지 알아보세요."
+    },
+    {
+      "id": "av_d0c2fee405d0b6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SurgoCap Partners LP Invests $119.77 Million in Argan, Inc. $AGX",
+      "summary": "SurgoCap Partners LP has invested $119.77 million in Argan, Inc. (NYSE:AGX) by purchasing 149,983 shares, making it their 10th largest holding and representing 1.07% of Argan. This comes as Argan reported strong quarterly earnings, beating analyst expectations, and pays a $2.00 a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-surgocap-partners-lp-invests-11977-million-in-argan-inc-agx-2026-08-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-25T10:42:49+00:00",
+      "sentiment": 0.145686,
+      "change_pct": 2.19
     },
     {
       "id": "f_be055e94bd98b9",
@@ -1064,19 +1103,6 @@
       "published_at": "2026-08-25T15:32:22+00:00"
     },
     {
-      "id": "av_d0c2fee405d0b6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SurgoCap Partners LP Invests $119.77 Million in Argan, Inc. $AGX",
-      "summary": "SurgoCap Partners LP has invested $119.77 million in Argan, Inc. (NYSE:AGX) by purchasing 149,983 shares, making it their 10th largest holding and representing 1.07% of Argan. This comes as Argan reported strong quarterly earnings, beating analyst expectations, and pays a $2.00 a",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-surgocap-partners-lp-invests-11977-million-in-argan-inc-agx-2026-08-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-25T10:42:49+00:00",
-      "sentiment": 0.116704,
-      "change_pct": 2.19
-    },
-    {
       "id": "f_67d0c539cdf6aa",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1086,19 +1112,6 @@
       "url": "https://finnhub.io/api/news?id=2c25c4250c0ba4a06b66038c48c26ef7bacbd77337e30f813a2e4fc83e9a24d7",
       "source": "Benzinga",
       "published_at": "2026-08-25T15:14:59+00:00",
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_6964e4d4f3f034",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Tejara Capital Ltd Invests $2.90 Million in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Tejara Capital Ltd has acquired a new stake in Advanced Micro Devices, Inc. (NASDAQ:AMD) worth approximately $2.90 million, making it the 26th largest holding in their portfolio. Several other institutional investors also adjusted their positions in AMD. The article also covers r",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-tejara-capital-ltd-invests-290-million-in-advanced-micro-devices-inc-amd-2026-08-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-25T09:18:17+00:00",
-      "sentiment": 0.1357,
       "change_pct": 2.19
     },
     {
@@ -1114,19 +1127,6 @@
       "change_pct": 2.19
     },
     {
-      "id": "av_279af6902fd57a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Earnings call transcript: Cadeler posts strong H1 2026 results, shares jump 8%",
-      "summary": "Cadeler reported strong financial performance for H1 2026, with revenue more than doubling and EBITDA and net profit seeing significant increases, driven by a larger operating fleet and increased project activity. The company maintained its full-year guidance and announced strate",
-      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cadeler-posts-strong-h1-2026-results-shares-jump-8-93CH-4875444",
-      "source": "Investing.com",
-      "published_at": "2026-08-25T13:26:03+00:00",
-      "sentiment": 0.026482,
-      "change_pct": 2.19
-    },
-    {
       "id": "f_d3e66c5658d6cb",
       "provider": "finnhub",
       "ticker": "SOFI",
@@ -1136,6 +1136,19 @@
       "url": "https://finnhub.io/api/news?id=911a412b0b16aafea421ae60c4623c18b1ab224d7029ddae202c62473682e546",
       "source": "Benzinga",
       "published_at": "2026-08-25T14:17:01+00:00"
+    },
+    {
+      "id": "av_279af6902fd57a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Earnings call transcript: Cadeler posts strong H1 2026 results, shares jump 8%",
+      "summary": "Cadeler reported strong financial performance for H1 2026, with revenue more than doubling and EBITDA and net profit seeing significant increases, driven by a larger operating fleet and increased project activity. The company maintained its full-year guidance and announced strate",
+      "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-cadeler-posts-strong-h1-2026-results-shares-jump-8-93CH-4875444",
+      "source": "Investing.com",
+      "published_at": "2026-08-25T13:26:03+00:00",
+      "sentiment": 0.019465,
+      "change_pct": 2.19
     },
     {
       "id": "f_20c0cae9cc6a5b",
@@ -1230,6 +1243,19 @@
       "url": "https://finnhub.io/api/news?id=05804c95ab58ba262bb452c5640017d019dab62d1376acde6b7416e51bb1b6fe",
       "source": "Benzinga",
       "published_at": "2026-08-25T13:00:56+00:00",
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_872e066c0f43a6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Hyperscale Data Reports 278 Bitcoin Worth About $21.6M | GPUS Stock News",
+      "summary": "Hyperscale Data (NYSE American: GPUS) reported holding 278.0314 Bitcoin, valued at approximately $21.6 million, as of August 23, 2026, through its subsidiaries Sentinum and Ault Capital Group. The company did not buy or sell Bitcoin in the open market during the week ending Augus",
+      "url": "https://www.stocktitan.net/news/GPUS/hyperscale-data-bitcoin-treasury-at-approximately-278-bitcoin-worth-iy2bqc1jyqhy.html",
+      "source": "Stock Titan",
+      "published_at": "2026-08-25T10:44:07+00:00",
+      "sentiment": 0.048138,
       "change_pct": 2.19
     },
     {
@@ -1352,19 +1378,6 @@
       "change_pct": 0.37
     },
     {
-      "id": "av_354b7f8af25a2e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Paradigm Capital Management Inc. NY Takes Position in Kulicke and Soffa Industries, Inc. $KLIC",
-      "summary": "Paradigm Capital Management Inc. NY has initiated a new position in Kulicke and Soffa Industries (NASDAQ:KLIC), purchasing 166,825 shares valued at approximately $22.3 million. This comes as institutional investors now own 98.22% of the company, and analysts generally maintain a ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-paradigm-capital-management-inc-ny-takes-position-in-kulicke-and-soffa-industries-inc-klic-2026-08-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-25T10:12:05+00:00",
-      "sentiment": 0.01576,
-      "change_pct": 2.19
-    },
-    {
       "id": "f_517100c446bc58",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1374,19 +1387,6 @@
       "url": "https://finnhub.io/api/news?id=c38cc034171c999aa57a887d723f096405b3356456ad4ea102dae07a548ae96e",
       "source": "Benzinga",
       "published_at": "2026-08-25T10:48:59+00:00",
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_872e066c0f43a6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Hyperscale Data Reports 278 Bitcoin Worth About $21.6M | GPUS Stock News",
-      "summary": "Hyperscale Data (NYSE American: GPUS) reported holding 278.0314 Bitcoin, valued at approximately $21.6 million, as of August 23, 2026, through its subsidiaries Sentinum and Ault Capital Group. The company did not buy or sell Bitcoin in the open market during the week ending Augus",
-      "url": "https://www.stocktitan.net/news/GPUS/hyperscale-data-bitcoin-treasury-at-approximately-278-bitcoin-worth-iy2bqc1jyqhy.html",
-      "source": "Stock Titan",
-      "published_at": "2026-08-25T10:44:07+00:00",
-      "sentiment": 0.001317,
       "change_pct": 2.19
     },
     {
@@ -1436,6 +1436,19 @@
       "source": "Benzinga",
       "published_at": "2026-08-25T10:26:12+00:00",
       "change_pct": -0.32
+    },
+    {
+      "id": "av_354b7f8af25a2e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Paradigm Capital Management Inc. NY Takes Position in Kulicke and Soffa Industries, Inc. $KLIC",
+      "summary": "Paradigm Capital Management Inc. NY has initiated a new position in Kulicke and Soffa Industries (NASDAQ:KLIC), purchasing 166,825 shares valued at approximately $22.3 million. This comes as institutional investors now own 98.22% of the company, and analysts generally maintain a ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-paradigm-capital-management-inc-ny-takes-position-in-kulicke-and-soffa-industries-inc-klic-2026-08-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-25T10:12:05+00:00",
+      "sentiment": 0.003587,
+      "change_pct": 2.19
     },
     {
       "id": "f_0c85cebdbd3314",
@@ -2324,6 +2337,28 @@
       "published_at": "2026-08-25T20:27:12+00:00"
     },
     {
+      "id": "f_145b7a96daab53",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "general",
+      "title": "Six months into Iran war, almost half of global oil flows from war zones - Reuters",
+      "summary": "Six months into Iran war, almost half of global oil flows from war zones  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPV0VHRE5tclJ6Z1NRR0l2S3JOMURfLUFMY2hVMkZOUTNSdWJsS2pXejZFbkFOX3YyVE9GTDdscFlpWUVMY3hBRExLS0dVUk1qWEFuZC0yb09zYW5UYVF2NVc0c2Y0OExPMWdXSHVsMzNLcy1sRmEwTW5ON3gxY0h1MXF2MGRtRExBTllHdnF5NncwTzNGXzh1QUtWMjg2MTBCWWFYZHczYWt1R2pKZzF4NFUzRkN1dw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T20:27:10+00:00"
+    },
+    {
+      "id": "f_355378eac4cc64",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "general",
+      "title": "Explainer: Why the bond market may be resetting expectations about the US - Reuters",
+      "summary": "Explainer: Why the bond market may be resetting expectations about the US  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEtCYVJGWXZVMG1WcGJUUnZCaXd2ZEJqZWVhbzlrYm4yMzc2MndzUV8td2pRbHVmRGprZmFhVmNUaHNkR2o1SFVpb2RIaFZIUy0zek1qdGl6WkhaVFRLdXpLQnVxemxpSW5VX3dTYnlpbkRPWkpBSDc0MkQ0Um84QklpNzdqSVdqeXFIa2NpalhxQjIyTW42WUZHOW91WVE4dktseW1EYUY0LXBpVmZv?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T20:05:11+00:00"
+    },
+    {
       "id": "f_88aa8015efa77e",
       "provider": "finnhub",
       "ticker": null,
@@ -2335,6 +2370,17 @@
       "published_at": "2026-08-25T19:52:43+00:00"
     },
     {
+      "id": "f_4ebdcd9cd284af",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "general",
+      "title": "U.S. Secret Service aware of Iranian video threat against Barron Trump - Reuters",
+      "summary": "U.S. Secret Service aware of Iranian video threat against Barron Trump  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdkJKLVFhNWZCTm9nbWRDa0FEZklXZzJIa1pDQmF6aFFndlBpVHRMWnBsS2kzaGhjWXd2ZFBfN1A2czRPY2xmZ0lzVm12OHU2dXBWa3lvclpHZENUMFlEN1JMUW9kM3VMbmtnNTRNUmlzY1daSVJ0MjUzV2x2d2ZENS1VdklOZWtON3NRN2ZaRHdmeFR1Q2tDTWJVblFHNEE1YlBHZ3NaRkdPSkRIWWcwT0Rnd094UmNHTWZUVnQyZ1RFZw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T19:50:24+00:00"
+    },
+    {
       "id": "f_2cb8ca12c0921f",
       "provider": "finnhub",
       "ticker": null,
@@ -2344,6 +2390,17 @@
       "url": "https://www.cnbc.com/2026/08/25/bond-rout-ending-massive-bets-on-bond-rally-dominate-options-market-.html",
       "source": "CNBC",
       "published_at": "2026-08-25T19:42:17+00:00"
+    },
+    {
+      "id": "f_b985a661d7b160",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "general",
+      "title": "US spy chief visits Russia for meetings, media reports - Reuters",
+      "summary": "US spy chief visits Russia for meetings, media reports  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-08-25T19:16:30+00:00"
     },
     {
       "id": "f_03e7f34f1c8a53",
@@ -2366,65 +2423,10 @@
       "url": "https://www.cnbc.com/2026/08/25/how-to-find-missing-money-and-what-to-do-if-you-get-it.html",
       "source": "CNBC",
       "published_at": "2026-08-25T19:00:02+00:00"
-    },
-    {
-      "id": "f_881f66f480d838",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say - Reuters",
-      "summary": "US starts returning staff to Middle East embassies after Iran war evacuations, sources say  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOS253amNScVNTdFF4SjVlU1RQVGFzVjBZalVKYUpUckZOX1FzdklkcDI4NlRoc0x5VXZtaUgxNW5wN092R05HRVRHMU51VG5iOU9SblF6d2VxU2ZTVnZmTWw3eVNnZEFRRExHcmlQRmhoWXBvOGRPcEdUeXphX2lMZnZSektOcHVjUEd1dFNLUURsb0dVcXF4WElkcE5yOGFxbl94dUdJYmFuZjBZWk85UjRGaXpaaUtzZnFmX2NXcTgwVXdjdDBrVFF4RmZEWmc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-25T16:48:57+00:00"
-    },
-    {
-      "id": "f_b985a661d7b160",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "US spy chief visits Russia for meetings, media reports - Reuters",
-      "summary": "US spy chief visits Russia for meetings, media reports  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-25T16:37:47+00:00"
-    },
-    {
-      "id": "f_8ce4d20f22f28c",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "We're trimming our position in an AI stock to protect our profits",
-      "summary": "This is our second sale in as many days to reduce our exposure to the theme.",
-      "url": "https://www.cnbc.com/2026/08/25/were-trimming-our-position-in-an-ai-stock-to-protect-our-profits-.html",
-      "source": "CNBC",
-      "published_at": "2026-08-25T15:27:43+00:00"
-    },
-    {
-      "id": "f_fae762d4ce1ddc",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Iraq may show how U.S. can squeeze Iran's trade partners - Reuters",
-      "summary": "Iraq may show how U.S. can squeeze Iran's trade partners  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-25T15:21:14+00:00"
-    },
-    {
-      "id": "f_78429f5d033c98",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more - Reuters",
-      "summary": "Trump says Strait of Hormuz has been demined, warns Iran not to plant more  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT20tcldmTnJoUWpfYlFMcnhIamdoZG5aenFWZDlLaGJFOG9mUVZQOENaU3hTNTlJOGpEUkg1QW9qVi1qUENRRGxLU3V2QW50cEs3YlE2LU1EZHhidlhheXpBeXBiX3FrT1dFeTFmQmo2cGpIdExvUUlET1d1eHJqc09lYVlvNjFPbEtmS0FaQ0xfYWlCdVl6WXQ3UjBMUUxZbWVNS0VXVTRfbzFwekE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-25T15:05:43+00:00"
     }
   ],
-  "fetched_at": "2026-08-25T20:57:30.562816+00:00",
+  "fetched_at": "2026-08-25T21:20:20.499936+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-25T20:57:33.291187+00:00",
+  "translated_at": "2026-08-25T21:20:23.116068+00:00",
   "translation_engine": "google-parallel"
 }
