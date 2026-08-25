@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-25T00:38:30.246632+00:00",
+  "fetched_at": "2026-08-25T02:08:24.448679+00:00",
   "us_mood_score": 47,
-  "kr_mood_score": 17,
+  "kr_mood_score": 23,
   "us_mood": "neutral",
   "kr_mood": "bearish",
   "predictions": [
@@ -12,10 +12,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -2.6,
-      "actual_kr_pct": -2.62,
+      "actual_kr_pct": -3.31,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 348.95,
-      "kr_price": 352500.0
+      "kr_price": 350000.0
     },
     {
       "us_ticker": "NVDA",
@@ -36,10 +36,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -2.37,
-      "actual_kr_pct": -4.87,
+      "actual_kr_pct": -5.56,
       "reason": "NCA 양극재 공급",
       "us_price": 348.95,
-      "kr_price": 111300.0
+      "kr_price": 110500.0
     },
     {
       "us_ticker": "AMD",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -2.1,
-      "actual_kr_pct": -4.97,
+      "actual_kr_pct": -4.73,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 208.48,
-      "kr_price": 1588000.0
+      "kr_price": 1592000.0
     },
     {
       "us_ticker": "TSLA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.02,
-      "actual_kr_pct": -4.97,
+      "actual_kr_pct": -4.73,
       "reason": "MI355X용 HBM 공급",
       "us_price": 456.75,
-      "kr_price": 1588000.0
+      "kr_price": 1592000.0
     },
     {
       "us_ticker": "MRVL",
@@ -156,10 +156,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.51,
-      "actual_kr_pct": -2.82,
+      "actual_kr_pct": -2.53,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 208.48,
-      "kr_price": 249750.0
+      "kr_price": 250500.0
     },
     {
       "us_ticker": "MRVL",
@@ -168,10 +168,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -1.47,
-      "actual_kr_pct": -4.97,
+      "actual_kr_pct": -4.73,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 229.29,
-      "kr_price": 1588000.0
+      "kr_price": 1592000.0
     },
     {
       "us_ticker": "AVGO",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.1,
-      "actual_kr_pct": -4.97,
+      "actual_kr_pct": -4.73,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 358.76,
-      "kr_price": 1588000.0
+      "kr_price": 1592000.0
     },
     {
       "us_ticker": "MSTR",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 0.63,
-      "actual_kr_pct": -4.25,
+      "actual_kr_pct": -3.8,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 559.02,
-      "kr_price": 214000.0
+      "kr_price": 215000.0
     },
     {
       "us_ticker": "MSTR",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -3.89,
+      "kr_actual_avg_pct": -3.63,
       "beta": 0.65,
       "predicted_kr_avg_pct": -2.0,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -3.75,
+      "kr_actual_avg_pct": -4.43,
       "beta": 0.58,
       "predicted_kr_avg_pct": -2.22,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -2.9,
+      "kr_actual_avg_pct": -2.6,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.45,
       "lag_hours": 8
@@ -340,6 +340,18 @@
       ]
     },
     {
+      "ticker": "AAPL",
+      "title": "Cowell Remains Tethered To Apple But Investors Cheer Strong Earnings",
+      "title_kr": null,
+      "source": "Benzinga",
+      "published_at": "2026-08-24T17:52:12+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "삼성전자",
+        "SK하이닉스"
+      ]
+    },
+    {
       "ticker": "AVGO",
       "title": "Broadcom: $100 Billion In AI Revenue Is A Lot To Ask",
       "title_kr": null,
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "한미반도체",
         "SK하이닉스"
-      ]
-    },
-    {
-      "ticker": "MRVL",
-      "title": "Analyst Calls Marvell A Top Chip Pick As AI Demand Builds",
-      "title_kr": null,
-      "source": "Benzinga",
-      "published_at": "2026-08-24T12:22:43+00:00",
-      "category": "analyst",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 78895.87,
-      "change_pct": 1.82,
+      "price": 79783.29,
+      "change_pct": 3.51,
       "label": "BTC"
     }
   },
-  "summary": "미국 TSLA -3.8% → LG에너지솔루션 개장 하방 압력 예상 (-2.6% 전후). US 무드 47/100, KR 무드 17/100."
+  "summary": "미국 TSLA -3.8% → LG에너지솔루션 개장 하방 압력 예상 (-2.6% 전후). US 무드 47/100, KR 무드 23/100."
 }
