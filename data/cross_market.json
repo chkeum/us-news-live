@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-25T06:27:38.719966+00:00",
-  "us_mood_score": 47,
-  "kr_mood_score": 66,
+  "fetched_at": "2026-08-25T07:24:27.410143+00:00",
+  "us_mood_score": 49,
+  "kr_mood_score": 67,
   "us_mood": "neutral",
   "kr_mood": "bullish",
   "predictions": [
@@ -12,10 +12,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -2.6,
-      "actual_kr_pct": -3.59,
+      "actual_kr_pct": -3.45,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 348.95,
-      "kr_price": 349000.0
+      "kr_price": 349500.0
     },
     {
       "us_ticker": "NVDA",
@@ -36,10 +36,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -2.37,
-      "actual_kr_pct": -4.19,
+      "actual_kr_pct": -3.85,
       "reason": "NCA 양극재 공급",
       "us_price": 348.95,
-      "kr_price": 112100.0
+      "kr_price": 112500.0
     },
     {
       "us_ticker": "AMD",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -2.1,
-      "actual_kr_pct": 0.9,
+      "actual_kr_pct": 0.42,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 208.48,
-      "kr_price": 1686000.0
+      "kr_price": 1678000.0
     },
     {
       "us_ticker": "TSLA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.02,
-      "actual_kr_pct": 0.9,
+      "actual_kr_pct": 0.42,
       "reason": "MI355X용 HBM 공급",
       "us_price": 456.75,
-      "kr_price": 1686000.0
+      "kr_price": 1678000.0
     },
     {
       "us_ticker": "MRVL",
@@ -156,10 +156,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.51,
-      "actual_kr_pct": 0.19,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 208.48,
-      "kr_price": 257500.0
+      "kr_price": 257000.0
     },
     {
       "us_ticker": "MRVL",
@@ -168,10 +168,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -1.47,
-      "actual_kr_pct": 0.9,
+      "actual_kr_pct": 0.42,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 229.29,
-      "kr_price": 1686000.0
+      "kr_price": 1678000.0
     },
     {
       "us_ticker": "AVGO",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.1,
-      "actual_kr_pct": 0.9,
+      "actual_kr_pct": 0.42,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 358.76,
-      "kr_price": 1686000.0
+      "kr_price": 1678000.0
     },
     {
       "us_ticker": "MSTR",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.55,
+      "kr_actual_avg_pct": 0.21,
       "beta": 0.65,
       "predicted_kr_avg_pct": -2.0,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -3.89,
+      "kr_actual_avg_pct": -3.65,
       "beta": 0.58,
       "predicted_kr_avg_pct": -2.22,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.46,
+      "kr_actual_avg_pct": -0.32,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.45,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "AMZN",
+      "title": "Amazon: AI Revenue Too Dependent On OpenAI And Anthropic",
+      "title_kr": null,
+      "source": "SeekingAlpha",
+      "published_at": "2026-08-25T02:24:32+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "삼성전자"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "title": "Nvidia: The Last Hurrah Before ASIC (Earnings Preview)",
       "title_kr": null,
@@ -350,18 +362,6 @@
         "삼성전자",
         "SK하이닉스"
       ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Amazon: The Cloud King Is Storming Back (Rating Upgrade)",
-      "title_kr": null,
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-25T00:05:09+00:00",
-      "category": "analyst",
-      "kr_pairs": [
-        "NAVER",
-        "삼성전자"
-      ]
     }
   ],
   "macro": {
@@ -377,14 +377,14 @@
     },
     "vix": {
       "price": 15.85,
-      "change_pct": 4.76,
+      "change_pct": 0.0,
       "label": "VIX"
     },
     "btc": {
-      "price": 80875.99,
-      "change_pct": 4.49,
+      "price": 80658.89,
+      "change_pct": 3.9,
       "label": "BTC"
     }
   },
-  "summary": "미국 TSLA -3.8% → LG에너지솔루션 개장 하방 압력 예상 (-2.6% 전후). US 무드 47/100, KR 무드 66/100."
+  "summary": "미국 TSLA -3.8% → LG에너지솔루션 개장 하방 압력 예상 (-2.6% 전후). US 무드 49/100, KR 무드 67/100."
 }
