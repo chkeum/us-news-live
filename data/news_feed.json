@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "id": "f_22410adf1d7a71",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "earnings",
+      "title": "Qfin Holdings Inc. - Sponsored ADR (QFIN) Misses Q2 Earnings Estimates",
+      "summary": "Qfin Holdings Inc. - Sponsored ADR (QFIN) delivered earnings and revenue surprises of -50.00% and +1.09%, respectively, for the quarter ended June 2026. Do the numbers hold clues to what lies ahead for the stock?",
+      "url": "https://finnhub.io/api/news?id=442a171b0d2d0aec5dfbcfba01ee1fab19cef10e053e9a8f2d050909a028e960",
+      "source": "Yahoo",
+      "published_at": "2026-08-25T23:05:01+00:00"
+    },
+    {
       "id": "f_58200b0a5a7275",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -190,7 +201,33 @@
       "url": "https://www.barchart.com/story/news/4058149/earnings-to-watch-elastic-estc-reports-q2-results-tomorrow",
       "source": "Barchart.com",
       "published_at": "2026-08-26T03:14:39+00:00",
-      "sentiment": 0.282892,
+      "sentiment": 0.280823,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_3c440b1471f541",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Semtech surges on strong Q2 beat and upbeat Q3 guidance",
+      "summary": "Semtech (SMTC) reported a significant beat on its second-quarter earnings and revenue, surpassing analyst estimates. The semiconductor company also provided upbeat guidance for the third quarter of fiscal 2027, with anticipated revenue and EPS well above consensus. This strong pe",
+      "url": "https://www.investing.com/news/stock-market-news/semtech-surges-on-strong-q2-beat-and-upbeat-q3-guidance-4875892",
+      "source": "Investing.com",
+      "published_at": "2026-08-25T20:11:53+00:00",
+      "sentiment": 0.442562,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_650528b5c110f1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Arm Holdings Has Fallen 46% From Its June Peak. Is the Selloff a Gift or a Warning?",
+      "summary": "Arm Holdings (ARM) experienced a significant selloff, dropping 46% from its June peak despite reporting its strongest quarter in history. The stock's high valuation (around 100 times next-twelve-month earnings) and a soft Q2 royalty guide, particularly due to smartphone weakness,",
+      "url": "https://www.tikr.com/blog/arm-holdings-has-fallen-46-from-its-june-peak-is-the-selloff-a-gift-or-a-warning",
+      "source": "TIKR.com",
+      "published_at": "2026-08-25T23:42:42+00:00",
+      "sentiment": 0.336782,
       "change_pct": 2.19
     },
     {
@@ -205,19 +242,6 @@
       "published_at": "2026-08-25T10:30:08+00:00"
     },
     {
-      "id": "av_3c440b1471f541",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Semtech surges on strong Q2 beat and upbeat Q3 guidance",
-      "summary": "Semtech (SMTC) reported a significant beat on its second-quarter earnings and revenue, surpassing analyst estimates. The semiconductor company also provided upbeat guidance for the third quarter of fiscal 2027, with anticipated revenue and EPS well above consensus. This strong pe",
-      "url": "https://www.investing.com/news/stock-market-news/semtech-surges-on-strong-q2-beat-and-upbeat-q3-guidance-4875892",
-      "source": "Investing.com",
-      "published_at": "2026-08-25T20:11:53+00:00",
-      "sentiment": 0.419722,
-      "change_pct": 2.19
-    },
-    {
       "id": "av_bd27bc49b6510b",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -227,7 +251,20 @@
       "url": "https://www.startuphub.ai/ai-news/ai-stocks-daily/2026/ai-stocks-2026-08-25",
       "source": "StartupHub.ai",
       "published_at": "2026-08-25T23:07:13+00:00",
-      "sentiment": 0.326498,
+      "sentiment": 0.343078,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_eb4913cab89c7a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cadence Design Systems Inc Stock (CDNS) Closed Up by 5.06% on Aug 25: What Investors Need To Know",
+      "summary": "Cadence Design Systems Inc (CDNS) saw its stock close up by 5.06% on August 25, driven by institutional investors correcting a valuation dislocation. The company reported strong double-digit revenue growth across all segments and raised its full-year outlook, with management emph",
+      "url": "https://www.tradingkey.com/news/market-movers/262131292-market-movers-cdns-20260825",
+      "source": "TradingKey",
+      "published_at": "2026-08-25T20:15:25+00:00",
+      "sentiment": 0.398212,
       "change_pct": 2.19
     },
     {
@@ -255,32 +292,6 @@
       "change_pct": 2.19
     },
     {
-      "id": "av_650528b5c110f1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arm Holdings Has Fallen 46% From Its June Peak. Is the Selloff a Gift or a Warning?",
-      "summary": "Arm Holdings (ARM) experienced a significant selloff, dropping 46% from its June peak despite reporting its strongest quarter in history. The stock's high valuation (around 100 times next-twelve-month earnings) and a soft Q2 royalty guide, particularly due to smartphone weakness,",
-      "url": "https://www.tikr.com/blog/arm-holdings-has-fallen-46-from-its-june-peak-is-the-selloff-a-gift-or-a-warning",
-      "source": "TIKR.com",
-      "published_at": "2026-08-25T23:42:42+00:00",
-      "sentiment": 0.302098,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_eb4913cab89c7a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cadence Design Systems Inc Stock (CDNS) Closed Up by 5.06% on Aug 25: What Investors Need To Know",
-      "summary": "Cadence Design Systems Inc (CDNS) saw its stock close up by 5.06% on August 25, driven by institutional investors correcting a valuation dislocation. The company reported strong double-digit revenue growth across all segments and raised its full-year outlook, with management emph",
-      "url": "https://www.tradingkey.com/news/market-movers/262131292-market-movers-cdns-20260825",
-      "source": "TradingKey",
-      "published_at": "2026-08-25T20:15:25+00:00",
-      "sentiment": 0.384131,
-      "change_pct": 2.19
-    },
-    {
       "id": "f_516e6f99b18426",
       "provider": "finnhub",
       "ticker": "META",
@@ -291,19 +302,6 @@
       "source": "Benzinga",
       "published_at": "2026-08-25T08:48:34+00:00",
       "change_pct": 1.97
-    },
-    {
-      "id": "av_ace53eafb29a17",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "If You'd Invested $1,000 in Home Depot 15 Years Ago, Here's How Much You'd Have Today",
-      "summary": "An investment of $1,000 in Home Depot 15 years ago would now be worth approximately $13,900, representing a 1,290% total return with dividends reinvested. This significant growth outpaced the S&P 500's 757% return over the same period, driven by the post-financial crisis housing ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-home-223500991.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-25T22:38:20+00:00",
-      "sentiment": 0.32057,
-      "change_pct": 2.19
     },
     {
       "id": "f_8615c9ee4f6c7d",
@@ -318,16 +316,16 @@
       "change_pct": 4.84
     },
     {
-      "id": "av_74fd8d04cd0e08",
+      "id": "av_ace53eafb29a17",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
-      "summary": "NVIDIA has announced the Jetson Orin Nano 2, a new robotics computer designed to revolutionize entry-level edge AI. This new system offers double the inference performance of its predecessor, consumes 40% less power for the same performance, and is built for real-time reasoning a",
-      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
-      "source": "NVIDIA Newsroom",
-      "published_at": "2026-08-25T15:09:14+00:00",
-      "sentiment": 0.499567,
+      "title": "If You'd Invested $1,000 in Home Depot 15 Years Ago, Here's How Much You'd Have Today",
+      "summary": "An investment of $1,000 in Home Depot 15 years ago would now be worth approximately $13,900, representing a 1,290% total return with dividends reinvested. This significant growth outpaced the S&P 500's 757% return over the same period, driven by the post-financial crisis housing ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/youd-invested-1-000-home-223500991.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-08-25T22:38:20+00:00",
+      "sentiment": 0.316549,
       "change_pct": 2.19
     },
     {
@@ -355,6 +353,19 @@
       "change_pct": 3.42
     },
     {
+      "id": "av_b2a80c7e354837",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "CNBC Daily Open: Nvidia carries world of AI on its shoulders",
+      "summary": "Nvidia is set to release its latest earnings report, with high expectations from investors, while facing concerns over its dependence on hyperscalers. Meanwhile, oil prices are falling due to discussions between Iran and Oman regarding a temporary shipping route, and Canada has a",
+      "url": "https://www.cnbc.com/2026/08/26/nvidia-ai-chips-demand.html",
+      "source": "CNBC",
+      "published_at": "2026-08-26T06:21:01+00:00",
+      "sentiment": 0.109579,
+      "change_pct": 2.19
+    },
+    {
       "id": "f_3f66668f9a1b28",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -365,6 +376,19 @@
       "source": "SeekingAlpha",
       "published_at": "2026-08-25T08:00:00+00:00",
       "change_pct": 4.91
+    },
+    {
+      "id": "av_74fd8d04cd0e08",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA Announces Jetson Orin Nano 2 Robotics Computer to Redefine Entry-Level Edge AI",
+      "summary": "NVIDIA has announced the Jetson Orin Nano 2, a new robotics computer designed to revolutionize entry-level edge AI. This new system offers double the inference performance of its predecessor, consumes 40% less power for the same performance, and is built for real-time reasoning a",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+      "source": "NVIDIA Newsroom",
+      "published_at": "2026-08-25T15:09:14+00:00",
+      "sentiment": 0.48038,
+      "change_pct": 2.19
     },
     {
       "id": "f_e77ff77716d0b3",
@@ -388,7 +412,7 @@
       "url": "https://ca.finance.yahoo.com/news/3-reasons-avoid-frme-1-143044335.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-08-25T14:14:45+00:00",
-      "sentiment": 0.548782,
+      "sentiment": 0.504042,
       "change_pct": 2.19
     },
     {
@@ -401,7 +425,7 @@
       "url": "https://www.storagereview.com/news/lancium-adds-nvidia-as-investor-and-partner-targeting-gigawatt-ai-factories-across-a-15gw-pipeline",
       "source": "StorageReview.com",
       "published_at": "2026-08-25T14:07:26+00:00",
-      "sentiment": 0.545315,
+      "sentiment": 0.545641,
       "change_pct": 2.19
     },
     {
@@ -427,6 +451,19 @@
       "published_at": "2026-08-25T07:12:51+00:00"
     },
     {
+      "id": "av_0a1b16dc37affe",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI factories enter the execution era as Cisco and NVIDIA push rack-scale systems into production",
+      "summary": "The AI infrastructure market is shifting from merely acquiring GPUs to building comprehensive AI factories that can reliably and efficiently generate tokens at scale. Cisco and NVIDIA are collaborating to address the execution challenges of these AI factories by offering rack-sca",
+      "url": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-08-25T14:24:42+00:00",
+      "sentiment": 0.481811,
+      "change_pct": 2.19
+    },
+    {
       "id": "f_0d42447abfd6aa",
       "provider": "finnhub",
       "ticker": "COIN",
@@ -450,19 +487,6 @@
       "change_pct": 2.19
     },
     {
-      "id": "av_0a1b16dc37affe",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI factories enter the execution era as Cisco and NVIDIA push rack-scale systems into production",
-      "summary": "The AI infrastructure market is shifting from merely acquiring GPUs to building comprehensive AI factories that can reliably and efficiently generate tokens at scale. Cisco and NVIDIA are collaborating to address the execution challenges of these AI factories by offering rack-sca",
-      "url": "https://siliconangle.com/2026/08/25/ai-infrastructure-execution-era-cisco-nvidia-cisconvidiaaifactory/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-08-25T14:24:42+00:00",
-      "sentiment": 0.456966,
-      "change_pct": 2.19
-    },
-    {
       "id": "f_7032c148b560c0",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -475,16 +499,16 @@
       "change_pct": 4.91
     },
     {
-      "id": "av_46d535732c401e",
+      "id": "av_c9f1c4c51d6934",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Cisco Taps Supermicro for Rack-Scale AI Systems With Nvidia, Shares Climb",
-      "summary": "Cisco Systems announced a partnership with Super Micro Computer to integrate Supermicro servers into its Secure AI Factory offering, expanding its collaboration with Nvidia to deliver rack-scale AI computing systems. The integrated solutions, available in October 2026, combine Ci",
-      "url": "https://finance.biggo.com/news/0f15f88f-3906-464c-a422-5e3d836c0a5f",
-      "source": "BigGo Finance",
-      "published_at": "2026-08-25T18:37:36+00:00",
-      "sentiment": 0.334429,
+      "title": "Superx Ai Technology Limited Secures Usd 38.8 Million Nvidia B300 Server Order from Woodman Inc",
+      "summary": "SuperX AI Technology Limited, through its Japanese subsidiary, has secured a $38.8 million order from WOODMAN Inc. for NVIDIA B300 GPU-based server clusters for an AI infrastructure project in Yokohama, Japan. The project is set for mid-November 2026 delivery, with SuperX AI havi",
+      "url": "https://www.marketscreener.com/news/superx-ai-technology-limited-secures-usd-38-8-million-nvidia-b300-server-order-from-woodman-inc-ce7858d8df8ef521",
+      "source": "www.marketscreener.com",
+      "published_at": "2026-08-25T18:06:00+00:00",
+      "sentiment": 0.342162,
       "change_pct": 2.19
     },
     {
@@ -508,7 +532,7 @@
       "url": "https://siliconangle.com/2026/08/25/cisco-expands-rack-scale-secure-ai-factory-infrastructure-for-neocloud-and-sovereign-clouds/",
       "source": "SiliconANGLE",
       "published_at": "2026-08-25T15:07:38+00:00",
-      "sentiment": 0.415977,
+      "sentiment": 0.411793,
       "change_pct": 2.19
     },
     {
@@ -521,72 +545,7 @@
       "url": "https://seekingalpha.com/news/4636790-super-micro-computer-climbs-9-on-cisco-partnership",
       "source": "Seeking Alpha",
       "published_at": "2026-08-25T20:42:25+00:00",
-      "sentiment": 0.260047,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_87ea5272ea6ea8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat",
-      "summary": "RUM Group's stock surged 11% after CEO Chris Pavlovski declared the company's AI infrastructure division, Quake AI, would fiercely compete with rivals like CoreWeave and Nebius. This surge follows RUM Group's acquisition of Northern Data, which added 22,400 NVIDIA GPUs, enabling ",
-      "url": "https://247wallst.com/investing/2026/08/25/rum-group-surges-11-as-ceo-vows-to-take-on-coreweave-and-nebius-trump-media-holds-flat/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-08-25T17:43:07+00:00",
-      "sentiment": 0.334205,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_6370bd50608346",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cisco and Nvidia take AI factories from rack to runtime",
-      "summary": "Cisco and Nvidia are expanding their partnership to help enterprises, neoclouds, and sovereign AI programs rapidly deploy AI factories from rack to runtime. The collaboration focuses on providing full rack-scale compute solutions, including liquid-cooled systems and a unified dep",
-      "url": "https://siliconangle.com/2026/08/25/cisco-and-nvidia-take-ai-factories-from-rack-to-runtime-cisconvidiaaifactory/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-08-25T13:34:52+00:00",
-      "sentiment": 0.437179,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_52b1a9a5c8228f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "What Does the Pizza Hut Sale Mean for Yum! Brands (YUM)?",
-      "summary": "Sustainable Growth Advisers (SGA) discussed Yum! Brands, Inc. (YUM) in its Q2 2026 investor letter, focusing on the company's sustainability efforts and the strategic review of Pizza Hut. Yum! Brands has since announced the sale of Pizza Hut, a move that SGA plans to monitor clos",
-      "url": "https://uk.finance.yahoo.com/news/does-pizza-hut-sale-mean-165124600.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-08-25T17:10:17+00:00",
-      "sentiment": 0.34732,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_9ac282521a07ca",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lam Research (NASDAQ:LRCX) Trading 1.4% Higher - What's Next?",
-      "summary": "Lam Research (NASDAQ:LRCX) saw its stock rise 1.4% to $314.66 following better-than-expected quarterly results, with EPS of $1.82 and revenue of $6.72 billion. Analysts maintain a \"Moderate Buy\" rating with a $357.31 consensus price target, driven by anticipated growth from AI in",
-      "url": "https://www.marketbeat.com/instant-alerts/price-lam-research-nasdaq-lrcx-trading-14-higher-whats-next-2026-08-25/",
-      "source": "MarketBeat",
-      "published_at": "2026-08-25T21:27:29+00:00",
-      "sentiment": -0.235454,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_d589e7f71038d5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Earnings To Watch: Agilent (A) Reports Q2 Results Tomorrow",
-      "summary": "Agilent Technologies (A) is set to report its Q2 earnings tomorrow. The company previously exceeded revenue expectations, with a 10% year-on-year increase. Analysts expect a 6% year-on-year revenue growth this quarter, and sentiment in the research tools & consumables segment is ",
-      "url": "https://www.tradingview.com/news/stockstory:e42121fb7094b:0-earnings-to-watch-agilent-a-reports-q2-results-tomorrow/",
-      "source": "TradingView",
-      "published_at": "2026-08-25T18:13:59+00:00",
-      "sentiment": 0.309395,
+      "sentiment": 0.272089,
       "change_pct": 2.19
     },
     {
@@ -602,67 +561,55 @@
       "change_pct": -0.39
     },
     {
-      "id": "f_c6f3794c466b29",
-      "provider": "finnhub",
-      "ticker": "MSTR",
-      "category": "analyst",
-      "title": "Bitcoin Hovers Near $80,000, Ethereum, XRP Spike, but Dogecoin Slips As Crypto Rally Gains Steam: Analyst Spots This New Bullish Signal for BTC",
-      "summary": "Leading cryptocurrencies and adjacent equities climbed on Monday, August 24, as sustained demand continued to drive the ongoing rally.",
-      "url": "https://finnhub.io/api/news?id=b992a6e281dd4a47045fa2e402152cd3545c30437420887bab1b930bdde81515",
-      "source": "Benzinga",
-      "published_at": "2026-08-24T22:06:34+00:00",
-      "change_pct": 3.42
-    },
-    {
-      "id": "av_c9f1c4c51d6934",
+      "id": "av_d7aee22e1e0b32",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Superx Ai Technology Limited Secures Usd 38.8 Million Nvidia B300 Server Order from Woodman Inc",
-      "summary": "SuperX AI Technology Limited, through its Japanese subsidiary, has secured a $38.8 million order from WOODMAN Inc. for NVIDIA B300 GPU-based server clusters for an AI infrastructure project in Yokohama, Japan. The project is set for mid-November 2026 delivery, with SuperX AI havi",
-      "url": "https://www.marketscreener.com/news/superx-ai-technology-limited-secures-usd-38-8-million-nvidia-b300-server-order-from-woodman-inc-ce7858d8df8ef521",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-08-25T18:06:00+00:00",
-      "sentiment": 0.301398,
+      "title": "GeForce at Gamescom 2026: DLSS 4.5 Ray Reconstruction & More",
+      "summary": "NVIDIA announced several major updates at Gamescom 2026, primarily focusing on the release of DLSS 4.5 Ray Reconstruction, which enhances image quality in ray-traced games. This update is available now and integrates with the NVIDIA app. Additionally, new RTX-enabled games were r",
+      "url": "https://www.nvidia.com/en-us/geforce/news/gamescom-2026-nvidia-geforce-rtx-dlss-4-5-announcements/",
+      "source": "NVIDIA",
+      "published_at": "2026-08-25T15:09:30+00:00",
+      "sentiment": 0.403367,
       "change_pct": 2.19
     },
     {
-      "id": "av_86f9b40c36e2df",
+      "id": "av_46d535732c401e",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin, Core Scientific Gains 4%",
-      "summary": "Shares of Applied Digital (APLD) and IREN Limited (IREN) each rose 6%, while Core Scientific (CORZ) gained 4%, as investor interest in digital infrastructure expands beyond Bitcoin mining to AI data centers. This shift is driven by hyperscaler demand for AI colocation, with compa",
-      "url": "https://247wallst.com/investing/2026/08/25/applied-digital-and-iren-climb-6-as-the-digital-infrastructure-bid-broadens-past-bitcoin-core-scientific-gains-4/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-08-25T18:13:26+00:00",
-      "sentiment": 0.295034,
+      "title": "Cisco Taps Supermicro for Rack-Scale AI Systems With Nvidia, Shares Climb",
+      "summary": "Cisco Systems announced a partnership with Super Micro Computer to integrate Supermicro servers into its Secure AI Factory offering, expanding its collaboration with Nvidia to deliver rack-scale AI computing systems. The integrated solutions, available in October 2026, combine Ci",
+      "url": "https://finance.biggo.com/news/0f15f88f-3906-464c-a422-5e3d836c0a5f",
+      "source": "BigGo Finance",
+      "published_at": "2026-08-25T18:37:36+00:00",
+      "sentiment": 0.308769,
       "change_pct": 2.19
     },
     {
-      "id": "av_cf75ff124b3101",
+      "id": "av_d589e7f71038d5",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "NVIDIA’s credit rating “Neutral”? Q2 earnings report imminent as Morgan Stanley “drops a bombshell”!",
-      "summary": "This article discusses Morgan Stanley's recent \"Neutral\" rating on NVIDIA's credit ahead of its Q2 earnings report. The bank's analyst, Joseph Moore, revised his price target to $500, citing increased competition in the AI chip market from companies like Intel, AMD, and Amazon, w",
-      "url": "https://www.moomoo.com/news/post/75252616/nvidia-s-credit-rating-neutral-q2-earnings-report-imminent-as",
-      "source": "Moomoo",
-      "published_at": "2026-08-26T00:09:06+00:00",
-      "sentiment": 0.139248,
+      "title": "Earnings To Watch: Agilent (A) Reports Q2 Results Tomorrow",
+      "summary": "Agilent Technologies (A) is set to report its Q2 earnings tomorrow. The company previously exceeded revenue expectations, with a 10% year-on-year increase. Analysts expect a 6% year-on-year revenue growth this quarter, and sentiment in the research tools & consumables segment is ",
+      "url": "https://www.tradingview.com/news/stockstory:e42121fb7094b:0-earnings-to-watch-agilent-a-reports-q2-results-tomorrow/",
+      "source": "TradingView",
+      "published_at": "2026-08-25T18:13:59+00:00",
+      "sentiment": 0.31723,
       "change_pct": 2.19
     },
     {
-      "id": "av_23a383c4901990",
+      "id": "av_9ac282521a07ca",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Hyperscale Data Shares Slide 17.3% After 1-for-5 Split Pushes GPU Price Under $1",
-      "summary": "Hyperscale Data (NYSE:GPUS) saw its share price drop 17.3% to $0.3869 following a 1-for-5 reverse stock split, pushing its GPU price under $1. The split reduced Class A shares to approximately 135.98 million, with the stock closing 61.31% below the $1 mark. The company holds sign",
-      "url": "https://ts2.tech/en/hyperscale-data-stock-drops-17-3-as-1-for-5-split-leaves-gpus-below-1/",
-      "source": "TechStock²",
-      "published_at": "2026-08-25T20:40:41+00:00",
-      "sentiment": 0.221807,
+      "title": "Lam Research (NASDAQ:LRCX) Trading 1.4% Higher - What's Next?",
+      "summary": "Lam Research (NASDAQ:LRCX) saw its stock rise 1.4% to $314.66 following better-than-expected quarterly results, with EPS of $1.82 and revenue of $6.72 billion. Analysts maintain a \"Moderate Buy\" rating with a $357.31 consensus price target, driven by anticipated growth from AI in",
+      "url": "https://www.marketbeat.com/instant-alerts/price-lam-research-nasdaq-lrcx-trading-14-higher-whats-next-2026-08-25/",
+      "source": "MarketBeat",
+      "published_at": "2026-08-25T21:27:29+00:00",
+      "sentiment": -0.235802,
       "change_pct": 2.19
     },
     {
@@ -675,7 +622,59 @@
       "url": "https://www.tradingkey.com/news/market-movers/262131112-market-movers-cdw-20260825",
       "source": "TradingKey",
       "published_at": "2026-08-25T19:15:30+00:00",
-      "sentiment": 0.251711,
+      "sentiment": 0.270185,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_87ea5272ea6ea8",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "RUM Group Surges 11% as CEO Vows to Take On CoreWeave and Nebius, Trump Media Holds Flat",
+      "summary": "RUM Group's stock surged 11% after CEO Chris Pavlovski declared the company's AI infrastructure division, Quake AI, would fiercely compete with rivals like CoreWeave and Nebius. This surge follows RUM Group's acquisition of Northern Data, which added 22,400 NVIDIA GPUs, enabling ",
+      "url": "https://247wallst.com/investing/2026/08/25/rum-group-surges-11-as-ceo-vows-to-take-on-coreweave-and-nebius-trump-media-holds-flat/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-25T17:43:07+00:00",
+      "sentiment": 0.302325,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_52b1a9a5c8228f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "What Does the Pizza Hut Sale Mean for Yum! Brands (YUM)?",
+      "summary": "Sustainable Growth Advisers (SGA) discussed Yum! Brands, Inc. (YUM) in its Q2 2026 investor letter, focusing on the company's sustainability efforts and the strategic review of Pizza Hut. Yum! Brands has since announced the sale of Pizza Hut, a move that SGA plans to monitor clos",
+      "url": "https://uk.finance.yahoo.com/news/does-pizza-hut-sale-mean-165124600.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-08-25T17:10:17+00:00",
+      "sentiment": 0.313932,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_86f9b40c36e2df",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Applied Digital and IREN Climb 6% as the Digital Infrastructure Bid Broadens Past Bitcoin, Core Scientific Gains 4%",
+      "summary": "Shares of Applied Digital (APLD) and IREN Limited (IREN) each rose 6%, while Core Scientific (CORZ) gained 4%, as investor interest in digital infrastructure expands beyond Bitcoin mining to AI data centers. This shift is driven by hyperscaler demand for AI colocation, with compa",
+      "url": "https://247wallst.com/investing/2026/08/25/applied-digital-and-iren-climb-6-as-the-digital-infrastructure-bid-broadens-past-bitcoin-core-scientific-gains-4/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-25T18:13:26+00:00",
+      "sentiment": 0.281458,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_23a383c4901990",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Hyperscale Data Shares Slide 17.3% After 1-for-5 Split Pushes GPU Price Under $1",
+      "summary": "Hyperscale Data (NYSE:GPUS) saw its share price drop 17.3% to $0.3869 following a 1-for-5 reverse stock split, pushing its GPU price under $1. The split reduced Class A shares to approximately 135.98 million, with the stock closing 61.31% below the $1 mark. The company holds sign",
+      "url": "https://ts2.tech/en/hyperscale-data-stock-drops-17-3-as-1-for-5-split-leaves-gpus-below-1/",
+      "source": "TechStock²",
+      "published_at": "2026-08-25T20:40:41+00:00",
+      "sentiment": 0.214547,
       "change_pct": 2.19
     },
     {
@@ -688,33 +687,7 @@
       "url": "https://www.tradingkey.com/news/market-movers/262131297-market-movers-wdc-20260825",
       "source": "TradingKey",
       "published_at": "2026-08-25T20:16:06+00:00",
-      "sentiment": 0.224407,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_265c5001530fe3",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Ies Holdings stock hits 52-week low at 323.13 USD",
-      "summary": "IES Holdings Inc. stock recently hit a 52-week low of $323.13, following a 12.3% drop in the past week, although it still shows an 81.95% increase over the last year. Despite being noted as overvalued by InvestingPro, its P/E ratio of 14.45 and PEG ratio of 0.39 suggest attractiv",
-      "url": "https://www.investing.com/news/company-news/ies-holdings-stock-hits-52week-low-at-32313-usd-93CH-4875568",
-      "source": "Investing.com",
-      "published_at": "2026-08-25T15:14:19+00:00",
-      "sentiment": 0.345921,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_6aec50a200a730",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
-      "summary": "Super Micro Computer (SMCI) is experiencing record growth in backlogs, driven primarily by its exposure to AI infrastructure. The company received over $60 billion in new orders in Q4 fiscal 2026, leading to robust revenue projections for fiscal 2027. Despite strong competition f",
-      "url": "https://www.tradingview.com/news/zacks:1cd9837d0094b:0-smci-s-backlogs-are-growing-at-a-record-pace-what-s-ahead/",
-      "source": "TradingView",
-      "published_at": "2026-08-25T14:38:22+00:00",
-      "sentiment": 0.346333,
+      "sentiment": 0.219154,
       "change_pct": 2.19
     },
     {
@@ -727,20 +700,20 @@
       "url": "https://www.tradingview.com/news/gurufocus:24edaf93c094b:0-cisco-and-supermicro-are-building-for-ai-s-next-phase/",
       "source": "TradingView",
       "published_at": "2026-08-25T19:37:36+00:00",
-      "sentiment": 0.212118,
+      "sentiment": 0.234734,
       "change_pct": 2.19
     },
     {
-      "id": "av_aa7b0dcfdd90fb",
+      "id": "av_cf75ff124b3101",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Should You Buy, Sell or Hold Serve Robotics Stock Post Q2 Earnings?",
-      "summary": "Serve Robotics (SERV) reported disappointing Q2 2026 results, missing earnings and revenue estimates, leading to a 17.8% stock decline. The company lowered its 2026 revenue guidance significantly and faces challenges with its Uber partnership, while still investing heavily in its",
-      "url": "https://www.tradingview.com/news/zacks:1ab53a962094b:0-should-you-buy-sell-or-hold-serve-robotics-stock-post-q2-earnings/",
-      "source": "TradingView",
-      "published_at": "2026-08-25T15:11:11+00:00",
-      "sentiment": 0.317632,
+      "title": "NVIDIA’s credit rating “Neutral”? Q2 earnings report imminent as Morgan Stanley “drops a bombshell”!",
+      "summary": "This article discusses Morgan Stanley's recent \"Neutral\" rating on NVIDIA's credit ahead of its Q2 earnings report. The bank's analyst, Joseph Moore, revised his price target to $500, citing increased competition in the AI chip market from companies like Intel, AMD, and Amazon, w",
+      "url": "https://www.moomoo.com/news/post/75252616/nvidia-s-credit-rating-neutral-q2-earnings-report-imminent-as",
+      "source": "Moomoo",
+      "published_at": "2026-08-26T00:09:06+00:00",
+      "sentiment": 0.116314,
       "change_pct": 2.19
     },
     {
@@ -753,34 +726,32 @@
       "url": "https://www.tradingview.com/news/zacks:4c2e15483094b:0-alab-rides-on-strong-scorpio-demand-can-it-outpace-mrvl-and-crdo/",
       "source": "TradingView",
       "published_at": "2026-08-25T15:10:06+00:00",
-      "sentiment": 0.317109,
+      "sentiment": 0.335142,
       "change_pct": 2.19
     },
     {
-      "id": "av_fbd3d3bf1823e1",
+      "id": "av_aa7b0dcfdd90fb",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Apple launches new Mac Studio with M5 Max and M5 Ultra chips",
-      "summary": "Apple has announced the new Mac Studio, featuring the M5 Max and M5 Ultra chips, with pre-orders beginning today and availability starting September 22. The M5 Max configuration starts at $2,499, while the M5 Ultra version starts at $5,499, with educational pricing and leasing op",
-      "url": "https://www.investing.com/news/company-news/apple-launches-new-mac-studio-with-m5-max-and-m5-ultra-chips-93CH-4875512",
-      "source": "Investing.com",
-      "published_at": "2026-08-25T14:02:02+00:00",
-      "sentiment": 0.343038,
+      "title": "Should You Buy, Sell or Hold Serve Robotics Stock Post Q2 Earnings?",
+      "summary": "Serve Robotics (SERV) reported disappointing Q2 2026 results, missing earnings and revenue estimates, leading to a 17.8% stock decline. The company lowered its 2026 revenue guidance significantly and faces challenges with its Uber partnership, while still investing heavily in its",
+      "url": "https://www.tradingview.com/news/zacks:1ab53a962094b:0-should-you-buy-sell-or-hold-serve-robotics-stock-post-q2-earnings/",
+      "source": "TradingView",
+      "published_at": "2026-08-25T15:11:11+00:00",
+      "sentiment": 0.329315,
       "change_pct": 2.19
     },
     {
-      "id": "av_a0033c07824b43",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_3a12beee0dd156",
+      "provider": "finnhub",
+      "ticker": "IREN",
       "category": "general",
-      "title": "Cisco Expands Rack-Scale AI Computing With Nvidia, Supermicro",
-      "summary": "Cisco Systems has expanded its Secure AI Factory offering through a new partnership with Super Micro Computer and Nvidia. This collaboration will introduce end-to-end, rack-scale AI computing solutions with high-density server systems, aiming to simplify AI deployment, boost effi",
-      "url": "https://www.benzinga.com/markets/large-cap/26/08/61411585/cisco-expands-rack-scale-ai-computing-with-nvidia-supermicro",
-      "source": "Benzinga",
-      "published_at": "2026-08-25T14:45:47+00:00",
-      "sentiment": 0.323545,
-      "change_pct": 2.19
+      "title": "History Has Changed My Mind on These Millionaire-Maker AI Stocks (At Least for Now). Why I Have Suspended My Earlier Call.",
+      "summary": "Investors should keep CoreWeave and Iren on a watch list rather than in a portfolio right now.",
+      "url": "https://finnhub.io/api/news?id=15e892a9b0635b0e5d20a4109a78dd154d166546fd81dc760e9be3fdaf166e3e",
+      "source": "Yahoo",
+      "published_at": "2026-08-26T04:20:00+00:00"
     },
     {
       "id": "av_8b1c5f169effe1",
@@ -792,20 +763,7 @@
       "url": "https://www.tradingview.com/news/stockstory:bbe62ca32094b:0-why-is-robinhood-hood-stock-rocketing-higher-today/",
       "source": "TradingView",
       "published_at": "2026-08-25T19:13:22+00:00",
-      "sentiment": 0.209656,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_b716eddc858638",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Here's Why You Should Hold FTI Consulting Stock in Your Portfolio Now",
-      "summary": "FTI Consulting (FCN) is positioned for growth due to high demand for its specialized consulting services, robust liquidity, and shareholder-friendly actions like share buybacks. Despite potential risks from rising operating expenses and the absence of dividends, the company's exp",
-      "url": "https://www.tradingview.com/news/zacks:8ed66bd61094b:0-here-s-why-you-should-hold-fti-consulting-stock-in-your-portfolio-now/",
-      "source": "TradingView",
-      "published_at": "2026-08-25T13:42:44+00:00",
-      "sentiment": 0.345672,
+      "sentiment": 0.22527,
       "change_pct": 2.19
     },
     {
@@ -818,59 +776,59 @@
       "url": "https://www.tradingkey.com/news/market-movers/262130825-market-movers-stx-20260825",
       "source": "TradingKey",
       "published_at": "2026-08-25T15:15:36+00:00",
-      "sentiment": 0.30003,
+      "sentiment": 0.322049,
       "change_pct": 2.19
     },
     {
-      "id": "av_ce93e0967e4cce",
+      "id": "av_fbd3d3bf1823e1",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Did Starbucks' Limited-Time Drink Surge and New Fiber Bar Partnership Just Shift Its (SBUX) Turnaround Story?",
-      "summary": "Starbucks recently saw a surge in customer traffic and sales with the relaunch of its Unicorn Frappuccino and the introduction of a Blueberry Matcha Daily Fiber Bar. These limited-time offerings and new partnerships are key components of Starbucks' \"Back to Starbucks\" strategy, a",
-      "url": "https://ca.finance.yahoo.com/news/did-starbucks-limited-time-drink-210616230.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-08-25T21:06:00+00:00",
-      "sentiment": 0.131716,
+      "title": "Apple launches new Mac Studio with M5 Max and M5 Ultra chips",
+      "summary": "Apple has announced the new Mac Studio, featuring the M5 Max and M5 Ultra chips, with pre-orders beginning today and availability starting September 22. The M5 Max configuration starts at $2,499, while the M5 Ultra version starts at $5,499, with educational pricing and leasing op",
+      "url": "https://www.investing.com/news/company-news/apple-launches-new-mac-studio-with-m5-max-and-m5-ultra-chips-93CH-4875512",
+      "source": "Investing.com",
+      "published_at": "2026-08-25T14:02:02+00:00",
+      "sentiment": 0.348262,
       "change_pct": 2.19
     },
     {
-      "id": "av_0e7770d0e29151",
+      "id": "av_6aec50a200a730",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Walmart Stock Is More Expensive Than Nvidia Amid Earnings Miss",
-      "summary": "Walmart (WMT) recently reported Q2 results that disappointed investors, leading to a significant stock tumble. Despite its strong defensive position, Walmart's valuation is now considered richer than Nvidia's by some metrics, raising questions about its growth prospects. The comp",
-      "url": "https://www.barchart.com/story/news/4037283/walmart-stock-is-more-expensive-than-nvidia-amid-earnings-miss",
-      "source": "Barchart.com",
-      "published_at": "2026-08-25T21:42:35+00:00",
-      "sentiment": 0.115402,
+      "title": "SMCI's Backlogs are Growing at a Record Pace: What's Ahead?",
+      "summary": "Super Micro Computer (SMCI) is experiencing record growth in backlogs, driven primarily by its exposure to AI infrastructure. The company received over $60 billion in new orders in Q4 fiscal 2026, leading to robust revenue projections for fiscal 2027. Despite strong competition f",
+      "url": "https://www.tradingview.com/news/zacks:1cd9837d0094b:0-smci-s-backlogs-are-growing-at-a-record-pace-what-s-ahead/",
+      "source": "TradingView",
+      "published_at": "2026-08-25T14:38:22+00:00",
+      "sentiment": 0.330022,
       "change_pct": 2.19
     },
     {
-      "id": "av_304eb3e7518dc6",
+      "id": "av_b716eddc858638",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Live: Will Intuit’s Q4 Earnings Tonight Extend the Stock’s 25% Rebound?",
-      "summary": "Intuit (NASDAQ: INTU) reported its fiscal Q4 2026 earnings, initially seeing a 16% stock plunge despite beating revenue and EPS estimates. Investors reacted negatively to guidance and commentary, particularly regarding Mailchimp's projected revenue decline and the impact of restr",
-      "url": "https://247wallst.com/investing/2026/08/25/live-will-intuits-q4-earnings-tonight-extend-the-stocks-25-rebound/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-08-25T21:08:24+00:00",
-      "sentiment": 0.12222,
+      "title": "Here's Why You Should Hold FTI Consulting Stock in Your Portfolio Now",
+      "summary": "FTI Consulting (FCN) is positioned for growth due to high demand for its specialized consulting services, robust liquidity, and shareholder-friendly actions like share buybacks. Despite potential risks from rising operating expenses and the absence of dividends, the company's exp",
+      "url": "https://www.tradingview.com/news/zacks:8ed66bd61094b:0-here-s-why-you-should-hold-fti-consulting-stock-in-your-portfolio-now/",
+      "source": "TradingView",
+      "published_at": "2026-08-25T13:42:44+00:00",
+      "sentiment": 0.349979,
       "change_pct": 2.19
     },
     {
-      "id": "av_235ce9f5f0decf",
+      "id": "av_a0033c07824b43",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Semtech (NASDAQ:SMTC) Delivers Impressive Q2, Inventory Levels Improve",
-      "summary": "Semiconductor company Semtech (NASDAQ:SMTC) reported impressive Q2 CY2026 results, exceeding revenue and EPS expectations. The company's sales rose 32.7% year-on-year to $341.9 million, and its non-GAAP profit was $0.71 per share, beating analyst estimates. Additionally, Semtech ",
-      "url": "https://www.barchart.com/story/news/4035349/semtech-nasdaqsmtc-delivers-impressive-q2-inventory-levels-improve",
-      "source": "Barchart.com",
-      "published_at": "2026-08-25T21:11:53+00:00",
-      "sentiment": 0.118851,
+      "title": "Cisco Expands Rack-Scale AI Computing With Nvidia, Supermicro",
+      "summary": "Cisco Systems has expanded its Secure AI Factory offering through a new partnership with Super Micro Computer and Nvidia. This collaboration will introduce end-to-end, rack-scale AI computing solutions with high-density server systems, aiming to simplify AI deployment, boost effi",
+      "url": "https://www.benzinga.com/markets/large-cap/26/08/61411585/cisco-expands-rack-scale-ai-computing-with-nvidia-supermicro",
+      "source": "Benzinga",
+      "published_at": "2026-08-25T14:45:47+00:00",
+      "sentiment": 0.318265,
       "change_pct": 2.19
     },
     {
@@ -883,7 +841,72 @@
       "url": "https://www.tradingview.com/news/zacks:10f15255e094b:0-tsm-rides-on-ai-advanced-nodes-capacity-expansion-worth-a-buy/",
       "source": "TradingView",
       "published_at": "2026-08-25T15:41:09+00:00",
-      "sentiment": 0.250582,
+      "sentiment": 0.293672,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_265c5001530fe3",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Ies Holdings stock hits 52-week low at 323.13 USD",
+      "summary": "IES Holdings Inc. stock recently hit a 52-week low of $323.13, following a 12.3% drop in the past week, although it still shows an 81.95% increase over the last year. Despite being noted as overvalued by InvestingPro, its P/E ratio of 14.45 and PEG ratio of 0.39 suggest attractiv",
+      "url": "https://www.investing.com/news/company-news/ies-holdings-stock-hits-52week-low-at-32313-usd-93CH-4875568",
+      "source": "Investing.com",
+      "published_at": "2026-08-25T15:14:19+00:00",
+      "sentiment": 0.30309,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_235ce9f5f0decf",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Semtech (NASDAQ:SMTC) Delivers Impressive Q2, Inventory Levels Improve",
+      "summary": "Semiconductor company Semtech (NASDAQ:SMTC) reported impressive Q2 CY2026 results, exceeding revenue and EPS expectations. The company's sales rose 32.7% year-on-year to $341.9 million, and its non-GAAP profit was $0.71 per share, beating analyst estimates. Additionally, Semtech ",
+      "url": "https://www.barchart.com/story/news/4035349/semtech-nasdaqsmtc-delivers-impressive-q2-inventory-levels-improve",
+      "source": "Barchart.com",
+      "published_at": "2026-08-25T21:11:53+00:00",
+      "sentiment": 0.141447,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_0e7770d0e29151",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Walmart Stock Is More Expensive Than Nvidia Amid Earnings Miss",
+      "summary": "Walmart (WMT) recently reported Q2 results that disappointed investors, leading to a significant stock tumble. Despite its strong defensive position, Walmart's valuation is now considered richer than Nvidia's by some metrics, raising questions about its growth prospects. The comp",
+      "url": "https://www.barchart.com/story/news/4037283/walmart-stock-is-more-expensive-than-nvidia-amid-earnings-miss",
+      "source": "Barchart.com",
+      "published_at": "2026-08-25T21:42:35+00:00",
+      "sentiment": 0.122306,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_304eb3e7518dc6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Live: Will Intuit’s Q4 Earnings Tonight Extend the Stock’s 25% Rebound?",
+      "summary": "Intuit (NASDAQ: INTU) reported its fiscal Q4 2026 earnings, initially seeing a 16% stock plunge despite beating revenue and EPS estimates. Investors reacted negatively to guidance and commentary, particularly regarding Mailchimp's projected revenue decline and the impact of restr",
+      "url": "https://247wallst.com/investing/2026/08/25/live-will-intuits-q4-earnings-tonight-extend-the-stocks-25-rebound/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-25T21:08:24+00:00",
+      "sentiment": 0.135912,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_ce93e0967e4cce",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Did Starbucks' Limited-Time Drink Surge and New Fiber Bar Partnership Just Shift Its (SBUX) Turnaround Story?",
+      "summary": "Starbucks recently saw a surge in customer traffic and sales with the relaunch of its Unicorn Frappuccino and the introduction of a Blueberry Matcha Daily Fiber Bar. These limited-time offerings and new partnerships are key components of Starbucks' \"Back to Starbucks\" strategy, a",
+      "url": "https://ca.finance.yahoo.com/news/did-starbucks-limited-time-drink-210616230.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-08-25T21:06:00+00:00",
+      "sentiment": 0.104307,
       "change_pct": 2.19
     },
     {
@@ -907,33 +930,7 @@
       "url": "https://www.tradingview.com/news/zacks:4f4d9de1c094b:0-lumentum-s-1-6t-200g-ramp-faces-cisco-nvidia-competition/",
       "source": "TradingView",
       "published_at": "2026-08-25T15:37:38+00:00",
-      "sentiment": 0.204926,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_3edb75f3fc7128",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Palo Alto Networks Inc Stock (PANW) Moved Down by 4.02% on Aug 25: What Signal Does It Send?",
-      "summary": "Palo Alto Networks (PANW) stock dropped by 4.02% on August 25, 2026, driven by pre-earnings portfolio repositioning, profit-taking due to elevated valuations, and increased intraday volatility. The stock's decline occurred despite positive analyst sentiment, as options market pri",
-      "url": "https://www.tradingkey.com/news/market-movers/262131012-market-movers-panw-20260825",
-      "source": "TradingKey",
-      "published_at": "2026-08-25T18:15:36+00:00",
-      "sentiment": -0.138866,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_ebe1114c249f03",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Michael Burry Says This $21 Billion AI Startup Could Crack Nvidia’s Empire",
-      "summary": "Michael Burry, known for \"The Big Short,\" believes AI chip startup Etched, valued at $21 billion, could pose a significant threat to Nvidia's dominance in AI inference. Etched claims to offer 10 times the performance at a lower cost, and many of its employees are former Nvidia st",
-      "url": "https://ca.finance.yahoo.com/news/michael-burry-says-21-billion-190332718.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-08-25T19:03:00+00:00",
-      "sentiment": -0.117832,
+      "sentiment": 0.204882,
       "change_pct": 2.19
     },
     {
@@ -946,7 +943,33 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/openai-claims-chips-outperform-nvidia-140001612.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-25T13:39:07+00:00",
-      "sentiment": -0.237159,
+      "sentiment": -0.246312,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_ebe1114c249f03",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Michael Burry Says This $21 Billion AI Startup Could Crack Nvidia’s Empire",
+      "summary": "Michael Burry, known for \"The Big Short,\" believes AI chip startup Etched, valued at $21 billion, could pose a significant threat to Nvidia's dominance in AI inference. Etched claims to offer 10 times the performance at a lower cost, and many of its employees are former Nvidia st",
+      "url": "https://ca.finance.yahoo.com/news/michael-burry-says-21-billion-190332718.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-08-25T19:03:00+00:00",
+      "sentiment": -0.105451,
+      "change_pct": 2.19
+    },
+    {
+      "id": "av_3edb75f3fc7128",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Palo Alto Networks Inc Stock (PANW) Moved Down by 4.02% on Aug 25: What Signal Does It Send?",
+      "summary": "Palo Alto Networks (PANW) stock dropped by 4.02% on August 25, 2026, driven by pre-earnings portfolio repositioning, profit-taking due to elevated valuations, and increased intraday volatility. The stock's decline occurred despite positive analyst sentiment, as options market pri",
+      "url": "https://www.tradingkey.com/news/market-movers/262131012-market-movers-panw-20260825",
+      "source": "TradingKey",
+      "published_at": "2026-08-25T18:15:36+00:00",
+      "sentiment": -0.112814,
       "change_pct": 2.19
     },
     {
@@ -959,21 +982,19 @@
       "url": "https://www.cnbc.com/2026/08/25/-buy-this-stock-to-play-boom-in-one-area-of-ai-morgan-stanley-says.html",
       "source": "CNBC",
       "published_at": "2026-08-25T14:11:02+00:00",
-      "sentiment": 0.223545,
+      "sentiment": 0.200595,
       "change_pct": 2.19
     },
     {
-      "id": "av_d5cf14f294b8ab",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_631f99ab682922",
+      "provider": "finnhub",
+      "ticker": "IREN",
       "category": "general",
-      "title": "Johnson & Johnson Is Near a Record High. Is There Still Room to Run?",
-      "summary": "Johnson & Johnson (JNJ) is currently trading near its 52-week high of $276.47, with its stock price at $270.24. Despite a 32% year-to-date gain, outperforming the S&P 500, the article suggests a \"hold\" rating due to the stock being priced for good news and offering only about 1% ",
-      "url": "https://247wallst.com/investing/2026/08/25/johnson-johnson-is-near-a-record-high-is-there-still-room-to-run/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-08-25T16:00:39+00:00",
-      "sentiment": 0.137422,
-      "change_pct": 2.19
+      "title": "Why Is IREN (IREN) Drawing Attention After Its AI Cloud Milestones?",
+      "summary": "IREN (NasdaqGS:IREN) completed its first Microsoft AI cloud deployment, known as Horizon 1, at its Texas site, marking an initial delivery milestone under the multi year partnership. The company secured NVIDIA Exemplar Cloud status, indicating that its infrastructure is qualified to support demanding AI workloads at scale. Together, these steps provide third party validation of IREN's AI cloud buildout and its positioning in the competitive AI infrastructure market. Readers who want to...",
+      "url": "https://finnhub.io/api/news?id=7c391eee3ba34aa587f86ae42484f0c5a1dda5da371c01b7ae8c6d1ff4ed6a77",
+      "source": "Yahoo",
+      "published_at": "2026-08-25T21:06:42+00:00"
     },
     {
       "id": "f_c8c058778adbb9",
@@ -988,17 +1009,41 @@
       "change_pct": -0.32
     },
     {
-      "id": "av_b817aa31570a04",
+      "id": "av_d5cf14f294b8ab",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Advanced Micro Devices Inc Stock (AMD) Opened Up by 3.82% on Aug 25: A Full Analysis",
-      "summary": "Advanced Micro Devices (AMD) stock opened 3.82% higher, driven by a Raymond James upgrade to \"Strong Buy\" and an increased price target, based on the company's strong position in the AI server CPU market. Despite positive momentum, technical indicators suggest caution with a MACD",
-      "url": "https://www.tradingkey.com/news/market-movers/262130603-market-movers-amd-20260825",
-      "source": "TradingKey",
-      "published_at": "2026-08-25T13:47:12+00:00",
-      "sentiment": 0.148251,
+      "title": "Johnson & Johnson Is Near a Record High. Is There Still Room to Run?",
+      "summary": "Johnson & Johnson (JNJ) is currently trading near its 52-week high of $276.47, with its stock price at $270.24. Despite a 32% year-to-date gain, outperforming the S&P 500, the article suggests a \"hold\" rating due to the stock being priced for good news and offering only about 1% ",
+      "url": "https://247wallst.com/investing/2026/08/25/johnson-johnson-is-near-a-record-high-is-there-still-room-to-run/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-08-25T16:00:39+00:00",
+      "sentiment": 0.103044,
       "change_pct": 2.19
+    },
+    {
+      "id": "av_65c1d610d8281a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Xiaomi's Xring O3 Chip Takes On Qualcomm and MediaTek",
+      "summary": "Xiaomi has launched its new 3-nanometer Xring O3 chip, aiming to challenge established players like Qualcomm and MediaTek in the smartphone processor market. The chip focuses on enhanced image processing and on-device AI, a significant step for Xiaomi, though analysts note that l",
+      "url": "https://www.briefs.co/news/xiaomi-s-xring-o3-chip-takes-on-qualcomm-and-mediatek/",
+      "source": "Briefs Finance",
+      "published_at": "2026-08-25T14:28:23+00:00",
+      "sentiment": 0.137344,
+      "change_pct": 2.19
+    },
+    {
+      "id": "f_26c59dfdf995ba",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "Wall Street Just Invented the ‘Neocloud’ ETF. It Owns the Companies Renting AI Compute to Everyone Else",
+      "summary": "A new ETF launched this August targets the companies renting AI compute directly to hyperscalers, offering something QQQ never could: pure-play exposure to contracted infrastructure backlogs worth hundreds of billions. The tradeoffs, however, are not small.",
+      "url": "https://finnhub.io/api/news?id=2790c958c57e36f66bb69c5627eb5fe243fc5b6f6c54659dd518585d2518ccca",
+      "source": "Yahoo",
+      "published_at": "2026-08-25T19:34:17+00:00"
     },
     {
       "id": "av_8ab3ce6fadc282",
@@ -1010,7 +1055,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/jacobs-solutions-stock-outlook-wall-122844913.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-25T14:08:36+00:00",
-      "sentiment": 0.127063,
+      "sentiment": 0.13475,
       "change_pct": 2.19
     },
     {
@@ -1023,7 +1068,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/super-micro-surges-8-taiwan-144527005.html",
       "source": "Yahoo Finance",
       "published_at": "2026-08-25T15:09:34+00:00",
-      "sentiment": 0.100585,
+      "sentiment": 0.104329,
       "change_pct": 2.19
     },
     {
@@ -1065,32 +1110,6 @@
       "change_pct": 4.84
     },
     {
-      "id": "av_929109a29120b8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AMD and Intel Rise 3% on a Strong Buy Upgrade and a Pelosi Disclosure, NVIDIA and Broadcom Tick Up",
-      "summary": "AMD and Intel stocks each rose 3% on Tuesday due to specific catalysts: AMD received a \"Strong Buy\" upgrade from Raymond James with a raised price target, while Intel's gain followed a disclosure of Paul Pelosi's recent purchase of Intel shares and call contracts. Meanwhile, NVID",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-rise-3-strong-131800376.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-08-25T13:38:25+00:00",
-      "sentiment": 0.134266,
-      "change_pct": 2.19
-    },
-    {
-      "id": "av_65c1d610d8281a",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Xiaomi's Xring O3 Chip Takes On Qualcomm and MediaTek",
-      "summary": "Xiaomi has launched its new 3-nanometer Xring O3 chip, aiming to challenge established players like Qualcomm and MediaTek in the smartphone processor market. The chip focuses on enhanced image processing and on-device AI, a significant step for Xiaomi, though analysts note that l",
-      "url": "https://www.briefs.co/news/xiaomi-s-xring-o3-chip-takes-on-qualcomm-and-mediatek/",
-      "source": "Briefs Finance",
-      "published_at": "2026-08-25T14:28:23+00:00",
-      "sentiment": 0.110036,
-      "change_pct": 2.19
-    },
-    {
       "id": "f_a8f132dc7d78aa",
       "provider": "finnhub",
       "ticker": "NBIS",
@@ -1111,6 +1130,19 @@
       "url": "https://finnhub.io/api/news?id=4a32b41fc9470b140a1ff44d14b863cd7f427eed3a5b68b682bcc9315b0e1a63",
       "source": "SeekingAlpha",
       "published_at": "2026-08-25T18:33:05+00:00"
+    },
+    {
+      "id": "av_b817aa31570a04",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advanced Micro Devices Inc Stock (AMD) Opened Up by 3.82% on Aug 25: A Full Analysis",
+      "summary": "Advanced Micro Devices (AMD) stock opened 3.82% higher, driven by a Raymond James upgrade to \"Strong Buy\" and an increased price target, based on the company's strong position in the AI server CPU market. Despite positive momentum, technical indicators suggest caution with a MACD",
+      "url": "https://www.tradingkey.com/news/market-movers/262130603-market-movers-amd-20260825",
+      "source": "TradingKey",
+      "published_at": "2026-08-25T13:47:12+00:00",
+      "sentiment": 0.115265,
+      "change_pct": 2.19
     },
     {
       "id": "f_4a0835f2559beb",
@@ -1173,6 +1205,17 @@
       "source": "SeekingAlpha",
       "published_at": "2026-08-25T17:24:35+00:00",
       "change_pct": 4.84
+    },
+    {
+      "id": "f_189321e28446e8",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "Nebius Rises 4% Despite Adding $5.75B in Convertible Debt, Snapping a Six-Session Slide",
+      "summary": "Nebius just closed a convertible debt deal that blew past its own raised target, and instead of punishing the stock, investors sent it higher. Here is why the size of this raise matters more than the dilution it brings.",
+      "url": "https://finnhub.io/api/news?id=6bdfb52daf800c2ee979f4d3ea334172bfafb196b29848cf88fc209cbe2c1333",
+      "source": "Yahoo",
+      "published_at": "2026-08-25T17:24:15+00:00"
     },
     {
       "id": "f_a79c1414cfc201",
@@ -1308,6 +1351,17 @@
       "change_pct": 2.19
     },
     {
+      "id": "f_ab9c789744fab3",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: MARA Jumps 7%, TeraWulf and IREN Climb 5%",
+      "summary": "Bitcoin briefly cracked $80,000 for the first time in months, sending crypto mining stocks surging well past the broader digital infrastructure pack, but not every miner is rallying for the same reason.",
+      "url": "https://finnhub.io/api/news?id=d7f62824b3d5766afd00f2a9626cc02c1aef0f7d9be4d83d2c32783c1b908efc",
+      "source": "Yahoo",
+      "published_at": "2026-08-25T15:10:10+00:00"
+    },
+    {
       "id": "f_bde9647f967f1c",
       "provider": "finnhub",
       "ticker": "PLTR",
@@ -1351,6 +1405,17 @@
       "url": "https://finnhub.io/api/news?id=911a412b0b16aafea421ae60c4623c18b1ab224d7029ddae202c62473682e546",
       "source": "Benzinga",
       "published_at": "2026-08-25T14:17:01+00:00"
+    },
+    {
+      "id": "f_54b82bef29a632",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "CoreWeave’s AI Data Center Capacity Is Exploding — Its $35 Billion Debt Load Still Makes the Stock Untouchable",
+      "summary": "CoreWeave is racing to build the AI infrastructure backbone that hyperscalers desperately need, and its revenue backlog dwarfs what most companies ever dream of. But a closer look at what is financing that expansion raises serious questions about whether growth alone can carry the weight.",
+      "url": "https://finnhub.io/api/news?id=41f88878b823aa10d0d8b038fa91f30ba7f63da742bf2feeaf61aae0aff03ac7",
+      "source": "Yahoo",
+      "published_at": "2026-08-25T14:11:07+00:00"
     },
     {
       "id": "f_20c0cae9cc6a5b",
@@ -1895,6 +1960,17 @@
       "change_pct": 4.84
     },
     {
+      "id": "f_462cbb7185a05f",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "NBIS Stock Gains Premarket: Neocloud Operator Raises $5.8B in Debt, Beating Initial Target; Investors Await IREN Report",
+      "summary": "Nebius has faced an intense selloff over the past week, with investors viewing the mammoth debt offering as adding to the company’s debt liabilities.",
+      "url": "https://finnhub.io/api/news?id=eb8f667334ab8c4fe668ed19479347bfc8652317f97f48b50fb9939d8b7a225d",
+      "source": "Yahoo",
+      "published_at": "2026-08-25T08:34:21+00:00"
+    },
+    {
       "id": "f_3d496724ed44a5",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2342,91 +2418,10 @@
       "source": "Benzinga",
       "published_at": "2026-08-25T00:24:33+00:00",
       "change_pct": 2.19
-    },
-    {
-      "id": "f_08243a480b5d04",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Elizabeth Warren Says if Jensen Huang Has Time for $1 Million Mar-a-Lago Dinner, He Can 'Find Time to Testify' and Explain Nvidia Tech in Russian Drones",
-      "summary": "Elizabeth Warren presses Jensen Huang to testify after Nvidia AI computers were reportedly found in Russian drones.",
-      "url": "https://finnhub.io/api/news?id=15e7cdb66312026327fd382bfbc5cebab8b8e7ac8d830ff5ef84b2f58faaceea",
-      "source": "Benzinga",
-      "published_at": "2026-08-25T00:23:03+00:00",
-      "change_pct": 2.19
-    },
-    {
-      "id": "f_819da2d435686d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Trump Snapped Up SpaceX Shares 11 Days After $1.77 Trillion IPO: Here's What Else He Purchased",
-      "summary": "Trump bought up to $50,000 in SpaceX shares as his administration advances policies that could benefit the company.",
-      "url": "https://finnhub.io/api/news?id=cbe6c8155ed64a83931936dfea964f4c80ef801b110ffc103f5160138a09029e",
-      "source": "Benzinga",
-      "published_at": "2026-08-24T23:35:07+00:00",
-      "change_pct": 2.19
-    },
-    {
-      "id": "f_4735176548827c",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Plug Power: Tangible Margin Progress But More Work Ahead - Hold",
-      "summary": "Plug Power Q2 beat estimates as restructuring lifts margins; FY sales guidance nudges up, but cash burn/backlog stay weak. See more on PLUG stock.",
-      "url": "https://finnhub.io/api/news?id=65184dd872cbb26322d3ed2f83958c9984fdc25158dd0dfa33b913349c91d272",
-      "source": "SeekingAlpha",
-      "published_at": "2026-08-24T22:45:10+00:00",
-      "change_pct": -0.39
-    },
-    {
-      "id": "f_95e2cdb3631d5d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia, Bloom Energy, SanDisk, Expion Energy and Visa: Why These 5 Stocks Are on Investors' Radars Today",
-      "summary": "Major U.S. indexes finished Monday on a mixed note, with the Dow Jones Industrial Average gaining 0.26% to close at 53,417.16.",
-      "url": "https://finnhub.io/api/news?id=10de383fcc05264fce3756703b03ce0c0a9912833ea575b3aa2bf9b84c5e8fd9",
-      "source": "Benzinga",
-      "published_at": "2026-08-24T21:37:16+00:00",
-      "change_pct": 2.19
-    },
-    {
-      "id": "f_986a6e0da790dc",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Bessent's D-Day sanctions are more Anzio, but Iran response is key - Reuters",
-      "summary": "Bessent's D-Day sanctions are more Anzio, but Iran response is key  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMkhfQWZkQ3NjME44ZDJlVHBscXZyUVJFclJBN0Vha2M2Tk9HNjA3R3IwUDhfZUJRcWVKV2ZFZDQzbWpmalNENWZMZFNOZUZfbHNIbktZVmxaelAxMmhvT083NjM4eHhhblJqSU1HQ1JyU2Q1YW9UdkdSZlUzMFAxTDZaa3BzeUUxMjVzTEdZbFA2X0Q5NmFrTEhGMU5HSXNlTU45Rkdoa09jNVdsbGdiQ3hESGJyQVFRdkdNU0dJei1KT21vN2ZlQw?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-26T03:28:00+00:00"
-    },
-    {
-      "id": "f_b2885e006c0355",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel - Reuters",
-      "summary": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-25T23:24:00+00:00"
-    },
-    {
-      "id": "f_bf2214b1ca5ee3",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz - Reuters",
-      "summary": "Oil prices fall $2 on Iran-Oman talks to reopen Strait of Hormuz  Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
-      "source": "Reuters",
-      "published_at": "2026-08-25T23:03:00+00:00"
     }
   ],
-  "fetched_at": "2026-08-26T06:35:25.199922+00:00",
+  "fetched_at": "2026-08-26T07:30:50.534928+00:00",
   "source_count": 4,
-  "translated_at": "2026-08-26T06:35:27.709646+00:00",
+  "translated_at": "2026-08-26T07:30:52.841668+00:00",
   "translation_engine": "google-parallel"
 }
