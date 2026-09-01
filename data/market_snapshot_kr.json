@@ -1,78 +1,78 @@
 {
-  "fetched_at": "2026-09-01T02:32:23.398131+00:00",
+  "fetched_at": "2026-09-01T07:59:55.649701+00:00",
   "kospi": {
-    "price": 6784.25,
-    "change_pct": -0.52,
+    "price": 6835.8,
+    "change_pct": 0.23,
     "label": "KOSPI"
   },
   "kosdaq": {
-    "price": 818.09,
-    "change_pct": -1.94,
+    "price": 821.25,
+    "change_pct": -1.56,
     "label": "KOSDAQ"
   },
   "kospi200": {
-    "price": 1067.37,
-    "change_pct": -0.42,
+    "price": 1075.3,
+    "change_pct": 0.32,
     "label": "KPI200"
   },
   "watchlist": {
     "005930": {
-      "price": 258250.0,
-      "change_pct": -0.67,
+      "price": 261000.0,
+      "change_pct": 0.38,
       "name": "삼성전자",
       "code": "005930"
     },
     "000660": {
-      "price": 1681000.0,
-      "change_pct": 0.42,
+      "price": 1693000.0,
+      "change_pct": 1.14,
       "name": "SK하이닉스",
       "code": "000660"
     },
     "373220": {
-      "price": 376500.0,
-      "change_pct": -0.4,
+      "price": 367000.0,
+      "change_pct": -2.91,
       "name": "LG에너지솔루션",
       "code": "373220"
     },
     "005380": {
-      "price": 397000.0,
-      "change_pct": -1.61,
+      "price": 400500.0,
+      "change_pct": -0.74,
       "name": "현대차",
       "code": "005380"
     },
     "035420": {
-      "price": 215500.0,
-      "change_pct": -0.69,
+      "price": 215000.0,
+      "change_pct": -0.92,
       "name": "NAVER",
       "code": "035420"
     },
     "035720": {
-      "price": 36550.0,
-      "change_pct": 0.0,
+      "price": 36500.0,
+      "change_pct": -0.14,
       "name": "카카오",
       "code": "035720"
     },
     "207940": {
-      "price": 1503000.0,
-      "change_pct": -0.99,
+      "price": 1520000.0,
+      "change_pct": 0.13,
       "name": "삼성바이오로직스",
       "code": "207940"
     },
     "005490": {
-      "price": 343500.0,
-      "change_pct": 1.48,
+      "price": 341000.0,
+      "change_pct": 0.74,
       "name": "포스코홀딩스",
       "code": "005490"
     },
     "051910": {
-      "price": 289000.0,
-      "change_pct": 3.21,
+      "price": 282000.0,
+      "change_pct": 0.71,
       "name": "LG화학",
       "code": "051910"
     },
     "247540": {
-      "price": 117100.0,
-      "change_pct": -3.06,
+      "price": 116200.0,
+      "change_pct": -3.81,
       "name": "에코프로비엠",
       "code": "247540"
     }
@@ -81,24 +81,36 @@
     {
       "ticker": "005930",
       "name": "삼성전자",
-      "mentions": 5,
+      "mentions": 8,
       "surge_pct": 0
     },
     {
       "ticker": "000660",
       "name": "SK하이닉스",
+      "mentions": 7,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "096770",
+      "name": "SK이노베이션",
       "mentions": 3,
       "surge_pct": 0
     },
     {
-      "ticker": "030200",
-      "name": "KT",
+      "ticker": "006400",
+      "name": "삼성SDI",
       "mentions": 2,
       "surge_pct": 0
     },
     {
-      "ticker": "005380",
-      "name": "현대차",
+      "ticker": "043260",
+      "name": "성호전자",
+      "mentions": 2,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "035720",
+      "name": "카카오",
       "mentions": 2,
       "surge_pct": 0
     },
@@ -109,37 +121,25 @@
       "surge_pct": 0
     },
     {
-      "ticker": "001470",
-      "name": "삼부토건",
+      "ticker": "021820",
+      "name": "세원정공",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "015360",
-      "name": "INVENI",
+      "ticker": "107600",
+      "name": "새빗켐",
       "mentions": 1,
       "surge_pct": 0
     },
     {
-      "ticker": "086040",
-      "name": "바이오톡스텍",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "368970",
-      "name": "오에스피",
-      "mentions": 1,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "457550",
-      "name": "우진엔텍",
+      "ticker": "062970",
+      "name": "한국첨단소재",
       "mentions": 1,
       "surge_pct": 0
     }
   ],
-  "mood_score": 33,
-  "mood": "bearish",
-  "mood_summary": "KOSPI -0.52% · KOSDAQ -1.94%"
+  "mood_score": 41,
+  "mood": "neutral",
+  "mood_summary": "KOSPI +0.23% · KOSDAQ -1.56%"
 }
