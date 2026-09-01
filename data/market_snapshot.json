@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-01T07:59:34.923030+00:00",
+  "fetched_at": "2026-09-01T13:05:29.656874+00:00",
   "sp500": {
     "price": 7686.14,
     "change_pct": -0.58,
@@ -16,13 +16,13 @@
     "label": "Dow"
   },
   "vix": {
-    "price": 15.13,
-    "change_pct": 1.41,
+    "price": 15.89,
+    "change_pct": 6.5,
     "label": "VIX"
   },
   "btc": {
-    "price": 78622.58,
-    "change_pct": 0.54,
+    "price": 77882,
+    "change_pct": -0.17,
     "label": "BTC"
   },
   "watchlist": {
@@ -85,11 +85,16 @@
     },
     {
       "ticker": "GOOGL",
-      "mentions": 14,
+      "mentions": 12,
       "surge_pct": 0
     },
     {
       "ticker": "MRVL",
+      "mentions": 10,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MSFT",
       "mentions": 9,
       "surge_pct": 0
     },
@@ -99,27 +104,22 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MSFT",
-      "mentions": 8,
-      "surge_pct": 0
-    },
-    {
       "ticker": "MSTR",
       "mentions": 7,
       "surge_pct": 0
     },
     {
-      "ticker": "AVGO",
-      "mentions": 4,
+      "ticker": "MU",
+      "mentions": 6,
       "surge_pct": 0
     },
     {
-      "ticker": "META",
-      "mentions": 4,
+      "ticker": "AMD",
+      "mentions": 5,
       "surge_pct": 0
     }
   ],
-  "mood_score": 42,
-  "mood": "neutral",
+  "mood_score": 39,
+  "mood": "bearish",
   "mood_summary": "S&P -0.58% · Nasdaq -0.64%"
 }
