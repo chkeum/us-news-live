@@ -120,27 +120,54 @@
       "change_pct": -2.74
     },
     {
-      "id": "f_9ebd064a2faf3b",
+      "id": "f_7815ccda25e990",
       "provider": "finnhub",
-      "ticker": "AVGO",
-      "category": "earnings",
-      "title": "AVGO Q2 Deep Dive: AI Semiconductor Surge Faces Supply Headwinds and Guidance Caution",
-      "summary": "Fabless chip and software maker Broadcom (NASDAQ:AVGO) met Wall Street’s revenue expectations in Q2 CY2026, with sales up 85.5% year on year to $29.59 billion. On the other hand, next quarter’s revenue guidance of $34.8 billion was less impressive, coming in 1.1% below analysts’ estimates. Its non-GAAP profit of $3.32 per share was 2.5% above analysts’ consensus estimates.",
-      "url": "https://finnhub.io/api/news?id=6ec3b283c56504b40f014922f410d4ccdf5de4970ea762ad98dacaab86a226d3",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T18:15:18+00:00",
-      "change_pct": -2.74
+      "ticker": "META",
+      "category": "analyst",
+      "title": "Meta: Doesn't Have A Path For Shareholder Returns (Rating Downgrade)",
+      "summary": "Meta's 2026 capex guidance will drive negative free cash flow, raising substantial risk for investors. Read why META stock is downgraded to a sell.",
+      "url": "https://finnhub.io/api/news?id=855f08e3c6cd742946a479d44ba4427802c8546a2f01690b94a02e6958f8c17d",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-04T05:05:30+00:00",
+      "change_pct": 3.01
     },
     {
-      "id": "f_5eae9658fbf53f",
-      "provider": "finnhub",
+      "id": "av_31b46744a2f6c0",
+      "provider": "alphavantage",
       "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Genesco Inc. Q2 2027 Earnings Call Summary",
-      "summary": "Moby summary of Genesco Inc.'s Q2 2027 earnings call",
-      "url": "https://finnhub.io/api/news?id=1c91153dc38a90d1950e38e11f3e3adba36b4b604ab1a6aa4f797f6b90012f62",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T18:06:50+00:00",
+      "category": "general",
+      "title": "Why Nvidia's 'defensive move' to acquire Hugging Face is about much more than chips",
+      "summary": "Nvidia's $12.9 billion acquisition of Hugging Face is described as a \"defensive move\" to solidify its position in the AI ecosystem. The deal grants Nvidia closer access to millions of AI developers and a crucial open-model platform, preventing rivals from controlling this vital \"",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-hugging-face-deal-chips.html",
+      "source": "CNBC",
+      "published_at": "2026-09-04T11:00:37+00:00",
+      "sentiment": 0.46518,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_634702502701d7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "TCFG Investment Advisors LLC Decreases Holdings in NVIDIA Corporation $NVDA",
+      "summary": "TCFG Investment Advisors LLC reduced its stake in NVIDIA Corporation by 6.7% during the second quarter, selling 5,080 shares, though NVIDIA remains its third-largest holding. Meanwhile, other institutional investors have either purchased new stakes or increased their holdings in ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tcfg-investment-advisors-llc-decreases-holdings-in-nvidia-corporation-nvda-2026-09-04/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-04T08:28:14+00:00",
+      "sentiment": 0.42904,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_88b52e93f50dd8",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia becomes one of world's biggest strategic tech backers as equity investments soar to $99 billion",
+      "summary": "Nvidia's equity investments have dramatically increased to $99 billion, making it one of the largest strategic tech backers globally. The company is leveraging its capital to expand its influence across the AI sector, investing in frontier AI labs, cloud providers, and infrastruc",
+      "url": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "source": "CNBC",
+      "published_at": "2026-09-04T08:10:14+00:00",
+      "sentiment": 0.422838,
       "change_pct": 1.8
     },
     {
@@ -156,6 +183,32 @@
       "change_pct": 1.54
     },
     {
+      "id": "av_8d09e3d32ace78",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nykredit A S Acquires New Position in Colgate-Palmolive Company $CL",
+      "summary": "Nykredit A S recently acquired a new position in Colgate-Palmolive Company, purchasing 273,665 shares valued at approximately $25.09 million during the second quarter. This move comes as other institutional investors have also adjusted their holdings in the consumer goods giant. ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-acquires-new-position-in-colgate-palmolive-company-cl-2026-09-04/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-04T10:08:41+00:00",
+      "sentiment": 0.3209,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_f5e23cc25f671e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Rep. Michael A. Rulli Acquires Equinix, Inc. (NASDAQ:EQIX) Stock",
+      "summary": "Representative Michael A. Rulli (Republican-Ohio) recently purchased between $1,001 and $15,000 of Equinix, Inc. (NASDAQ:EQIX) stock on August 7th through a Merrill Lynch managed account. This acquisition follows Equinix's strong quarterly results, with revenue up 16.4% year-over",
+      "url": "https://www.marketbeat.com/instant-alerts/congress-rep-michael-a-rulli-acquires-equinix-inc-nasdaq-eqix-stock-2026-09-04/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-04T06:07:55+00:00",
+      "sentiment": 0.327753,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_7898c88d610d38",
       "provider": "finnhub",
       "ticker": "RKLB",
@@ -167,16 +220,42 @@
       "published_at": "2026-09-03T19:00:34+00:00"
     },
     {
-      "id": "av_030d76af9eb48d",
+      "id": "av_8f338c1e729349",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
-      "summary": "Hewlett Packard Enterprise (HPE), Broadcom (AVGO), and Dell Technologies (DELL) recently reported strong quarterly results, highlighting continued robust demand for AI infrastructure, including servers, networking, and custom accelerators. HPE and Dell raised their financial outl",
-      "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-09-03T22:02:08+00:00",
-      "sentiment": 0.344876,
+      "title": "Stifel Adjusts Price Target on Microsoft to $530 From $450, Keeps Hold Rating",
+      "summary": "Stifel has increased its price target for Microsoft (MSFT) to $530, up from the previous $450, while maintaining a \"Hold\" rating on the stock. This adjustment comes amidst other news related to Microsoft and AI, including reports of Microsoft-backed OpenAI agents hijacking a Germ",
+      "url": "https://www.marketscreener.com/news/stifel-adjusts-price-target-on-microsoft-to-530-from-450-keeps-hold-rating-ce785bdade88f025",
+      "source": "marketscreener.com",
+      "published_at": "2026-09-04T09:14:25+00:00",
+      "sentiment": 0.141796,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_758285761b8a80",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Empowered Funds LLC Purchases Shares of 7,977 Live Nation Entertainment, Inc. $LYV",
+      "summary": "Empowered Funds LLC recently acquired 7,977 shares of Live Nation Entertainment, valued at approximately $1.46 million, as disclosed in their Q2 13F filing. Other institutional investors also increased their holdings, bringing total institutional ownership to 74.52%. Live Nation ",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-empowered-funds-llc-purchases-shares-of-7977-live-nation-entertainment-inc-lyv-2026-09-04/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-04T08:09:55+00:00",
+      "sentiment": 0.143556,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_22ef75d19b1eb5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "UnitedHealth Is Trouncing the Market in 2026. Is the Stock Still a Buy?",
+      "summary": "UnitedHealth Group's stock has gained 21% this year, outperforming the market, after a challenging previous year due to rising medical costs. The company implemented a plan including dropping costly plans, increasing premiums, and using AI, which has led to improved earnings and ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/unitedhealth-trouncing-market-2026-stock-081000257.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-04T08:15:11+00:00",
+      "sentiment": 0.125659,
       "change_pct": 1.8
     },
     {
@@ -189,20 +268,33 @@
       "url": "https://www.cnbc.com/video/2026/09/03/final-trades-capital-one-servicenow-nvidia-and-spotify.html",
       "source": "CNBC",
       "published_at": "2026-09-03T17:32:21+00:00",
-      "sentiment": 0.443581,
+      "sentiment": 0.445756,
       "change_pct": 1.8
     },
     {
-      "id": "av_0ced49ccadaba4",
+      "id": "av_407e0b64837739",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Why Is Oracle Stock Up Today?",
-      "summary": "Oracle (ORCL) stock rose 5.7% after a Federal Reserve Governor indicated a preference for holding interest rates steady, easing market concerns about further rate hikes. This news is particularly impactful for Oracle due to its substantial $43 billion debt load, which makes it hi",
-      "url": "https://currently.att.yahoo.com/att/why-oracle-stock-today-212008025.html",
-      "source": "Currently.com",
-      "published_at": "2026-09-03T21:10:17+00:00",
-      "sentiment": 0.346158,
+      "title": "B. Metzler seel. Sohn & Co. AG Has $164.93 Million Stock Position in Advanced Micro Devices, Inc. $AMD",
+      "summary": "B. Metzler seel. Sohn & Co. AG reduced its stake in Advanced Micro Devices (AMD) by 5.7% in the second quarter, now holding 283,925 shares valued at $164.9 million, representing 1.4% of its portfolio. Despite this, AMD reported strong quarterly earnings of $1.66 EPS and $11.54 bi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-b-metzler-seel-sohn-co-ag-has-16493-million-stock-position-in-advanced-micro-devices-inc-amd-2026-09-04/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-04T07:09:04+00:00",
+      "sentiment": 0.105209,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_030d76af9eb48d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI Infrastructure Demand Remains Red-Hot: HPE, AVGO, DELL Deliver",
+      "summary": "Hewlett Packard Enterprise (HPE), Broadcom (AVGO), and Dell Technologies (DELL) recently reported strong quarterly results, highlighting continued robust demand for AI infrastructure, including servers, networking, and custom accelerators. HPE and Dell raised their financial outl",
+      "url": "https://uk.finance.yahoo.com/news/ai-infrastructure-demand-remains-red-220200558.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-09-03T22:02:08+00:00",
+      "sentiment": 0.328246,
       "change_pct": 1.8
     },
     {
@@ -215,20 +307,45 @@
       "url": "https://www.marketbeat.com/instant-alerts/insider-equinix-nasdaq-eqix-insider-sells-20618913-in-stock-2026-09-03/",
       "source": "MarketBeat",
       "published_at": "2026-09-03T21:38:21+00:00",
-      "sentiment": 0.316307,
+      "sentiment": 0.307303,
       "change_pct": 1.8
     },
     {
-      "id": "av_26b1c8114ac089",
+      "id": "av_0ced49ccadaba4",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Are investors underappreciating Broadcom's strong performance?",
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi highlights Broadcom's strong performance, with revenue surging 86% year-over-year and adjusted earnings per share exploding 96%, easily beating analyst estimates. This growth is driven by hyperscalar demand for custom AI chips, with AI s",
-      "url": "https://finance.yahoo.com/video/investors-underappreciating-broadcoms-strong-performance-142402034.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T14:24:46+00:00",
-      "sentiment": 0.44744,
+      "title": "Why Is Oracle Stock Up Today?",
+      "summary": "Oracle (ORCL) stock rose 5.7% after a Federal Reserve Governor indicated a preference for holding interest rates steady, easing market concerns about further rate hikes. This news is particularly impactful for Oracle due to its substantial $43 billion debt load, which makes it hi",
+      "url": "https://currently.att.yahoo.com/att/why-oracle-stock-today-212008025.html",
+      "source": "Currently.com",
+      "published_at": "2026-09-03T21:10:17+00:00",
+      "sentiment": 0.314695,
+      "change_pct": 1.8
+    },
+    {
+      "id": "f_22058c1316035d",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "Meta Platforms (NASDAQ:META): A Growth-at-a-Reasonable-Price Opportunity Per Peter Lynch",
+      "summary": "Meta stock passes Peter Lynch's growth-at-a-reasonable-price screen with strong EPS growth, low PEG ratio, solid profitability, and healthy balance sheet.",
+      "url": "https://finnhub.io/api/news?id=865098fb8d3405f364fa1e9dc1c7e0ac9a51232d3c778e002d6279505776fdad",
+      "source": "ChartMill",
+      "published_at": "2026-09-04T09:41:49+00:00",
+      "change_pct": 3.01
+    },
+    {
+      "id": "av_b97cc0743253a8",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "BlackRock Inc. Makes New $15.24 Million Investment in Siga Technologies Inc. $SIGA",
+      "summary": "BlackRock Inc. has invested $15.24 million in Siga Technologies Inc., acquiring 4.19 million shares, representing a 5.84% stake. Despite this new investment, analyst sentiment for Siga Technologies remains negative, with the stock downgraded to \"sell\" and a consensus \"Sell\" ratin",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-blackrock-inc-makes-new-1524-million-investment-in-siga-technologies-inc-siga-2026-09-04/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-04T07:32:55+00:00",
+      "sentiment": 0.02795,
       "change_pct": 1.8
     },
     {
@@ -241,7 +358,20 @@
       "url": "https://siliconangle.com/2026/09/03/broadcom-and-supermicro-unify-ai-factory-management-vmwareexplore/",
       "source": "SiliconANGLE",
       "published_at": "2026-09-03T21:16:24+00:00",
-      "sentiment": 0.263703,
+      "sentiment": 0.277743,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_26b1c8114ac089",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Are investors underappreciating Broadcom's strong performance?",
+      "summary": "Yahoo Finance Executive Editor Brian Sozzi highlights Broadcom's strong performance, with revenue surging 86% year-over-year and adjusted earnings per share exploding 96%, easily beating analyst estimates. This growth is driven by hyperscalar demand for custom AI chips, with AI s",
+      "url": "https://finance.yahoo.com/video/investors-underappreciating-broadcoms-strong-performance-142402034.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T14:24:46+00:00",
+      "sentiment": 0.427824,
       "change_pct": 1.8
     },
     {
@@ -254,8 +384,58 @@
       "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
       "source": "CNBC",
       "published_at": "2026-09-03T12:11:27+00:00",
-      "sentiment": 0.459383,
+      "sentiment": 0.480607,
       "change_pct": 1.8
+    },
+    {
+      "id": "av_9df72509b09f04",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Rackspace launches managed multitenant cloud on VCF 9.1",
+      "summary": "Rackspace Technology Inc. has launched Rackspace Cloud, a fully managed multitenant cloud platform built on VMware Cloud Foundation 9.1, offering elastic capacity for virtual machines, Kubernetes, and GPU workloads. This service aims to help enterprises modernize VMware environme",
+      "url": "https://siliconangle.com/2026/09/03/rackspace-launches-managed-multitenant-cloud-on-vcf-9-1-vmwareexplore/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-03T22:37:17+00:00",
+      "sentiment": 0.217172,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_426dc8ac7719ba",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI",
+      "summary": "Nvidia has announced its acquisition of open-source AI startup Hugging Face for $12.9 billion, aiming to expand its role in the AI ecosystem. Hugging Face, recently in the spotlight after being hacked by OpenAI models, will continue to operate as an open-source platform under Nvi",
+      "url": "https://edition.cnn.com/2026/09/03/tech/nvidia-hugging-face-ai-acquisition",
+      "source": "CNN",
+      "published_at": "2026-09-03T13:11:47+00:00",
+      "sentiment": 0.439036,
+      "change_pct": 1.8
+    },
+    {
+      "id": "f_708ff270aa0383",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Waller Cracks the Door to a September Pause and the Tape Rewards the AI Software Layer",
+      "summary": "Wall Street closed sharply higher on Thursday as Fed Governor Christopher Waller opened the door to a September rate pause and long yields eased. Snowflake ripped almost 17% on a guidance raise, Microsoft added nearly 3% on a reporting reshuffle that finally puts Azure on its own line, and Nvidia unveiled a $12.93 billion deal for Hugging Face. Campbell's cut its dividend and Lululemon slashed guidance after the bell.",
+      "url": "https://finnhub.io/api/news?id=e1137d7b3201b2cd54809b0556e12e60c6e1a4424bf8275d93f9da26f9cf0b5a",
+      "source": "ChartMill",
+      "published_at": "2026-09-04T06:40:37+00:00",
+      "change_pct": 1.8
+    },
+    {
+      "id": "f_21dfb9e6ff5e79",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Wall Street Breakfast Podcast: A Tough Stretch For Lululemon",
+      "summary": "Another forecast trim, a China slowdown, and rising competition send lululemon shares tumbling. The robotaxi era begins in Austin. Volkswagen is preparing another 50,000 job cuts.",
+      "url": "https://finnhub.io/api/news?id=edfc4faaac70ead2ecf23c30bc76cc5f29585223956bb841cf11efed5878623b",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-04T06:30:00+00:00",
+      "change_pct": 5.42
     },
     {
       "id": "av_4813819df52192",
@@ -267,7 +447,20 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sold-72-8-200905404.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-03T20:14:41+00:00",
-      "sentiment": 0.248363,
+      "sentiment": 0.247986,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_af94cc70ab9a84",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow",
+      "summary": "Jim Cramer suggests NVIDIA should authorize a $500 billion stock buyback, repurchasing about 10% of the company, believing it's the best investment for NVIDIA itself given its strong earnings power and expanding role in AI infrastructure. This comes amidst growing AI financing ri",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-nvidia-nvda-175615939.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T18:11:30+00:00",
+      "sentiment": 0.298123,
       "change_pct": 1.8
     },
     {
@@ -280,7 +473,20 @@
       "url": "https://www.reuters.com/business/nvidia-buy-hugging-face-nearly-13-billion-big-bet-open-ai-models-2026-09-03/",
       "source": "Reuters",
       "published_at": "2026-09-03T13:18:41+00:00",
-      "sentiment": 0.416475,
+      "sentiment": 0.41998,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_edf0c4d240a6fe",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends",
+      "summary": "Booking Holdings (BKNG), with a market value of $147 billion, currently offers a dividend yield of 0.84%, paying $1.68 per share annually. To earn $1,000 in yearly dividends, an investor would need to purchase approximately 595 shares, costing around $116,000. While the company i",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-booking-holdings-161400620.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T17:20:23+00:00",
+      "sentiment": 0.316186,
       "change_pct": 1.8
     },
     {
@@ -296,42 +502,28 @@
       "change_pct": 1.8
     },
     {
-      "id": "av_426dc8ac7719ba",
+      "id": "av_17a44ef1d4bd39",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia inks $13 billion deal to buy the AI startup that was hacked by OpenAI",
-      "summary": "Nvidia has announced its acquisition of open-source AI startup Hugging Face for $12.9 billion, aiming to expand its role in the AI ecosystem. Hugging Face, recently in the spotlight after being hacked by OpenAI models, will continue to operate as an open-source platform under Nvi",
-      "url": "https://edition.cnn.com/2026/09/03/tech/nvidia-hugging-face-ai-acquisition",
-      "source": "CNN",
-      "published_at": "2026-09-03T13:11:47+00:00",
-      "sentiment": 0.414596,
+      "title": "3 Growth Stocks to Stash",
+      "summary": "This article identifies three growth stocks – Nvidia (NVDA), Hamilton Lane (HLNE), and Fair Isaac Corporation (FICO) – that are expanding their competitive advantages and demonstrating sustained high growth rates. It provides a brief analysis of each company, highlighting their r",
+      "url": "https://ca.finance.yahoo.com/news/3-growth-stocks-stash-122318606.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-09-03T12:23:04+00:00",
+      "sentiment": 0.433289,
       "change_pct": 1.8
     },
     {
-      "id": "av_edf0c4d240a6fe",
-      "provider": "alphavantage",
+      "id": "f_552c85b5b1a30c",
+      "provider": "finnhub",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Here's How Many Shares of Booking Holdings (BKNG) Stock You'd Need for $1,000 in Yearly Dividends",
-      "summary": "Booking Holdings (BKNG), with a market value of $147 billion, currently offers a dividend yield of 0.84%, paying $1.68 per share annually. To earn $1,000 in yearly dividends, an investor would need to purchase approximately 595 shares, costing around $116,000. While the company i",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/heres-many-shares-booking-holdings-161400620.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T17:20:23+00:00",
-      "sentiment": 0.309777,
-      "change_pct": 1.8
-    },
-    {
-      "id": "av_af94cc70ab9a84",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Jim Cramer Wants NVIDIA (NVDA) to Bet $500 Billion on Itself as AI Financing Risks Grow",
-      "summary": "Jim Cramer suggests NVIDIA should authorize a $500 billion stock buyback, repurchasing about 10% of the company, believing it's the best investment for NVIDIA itself given its strong earnings power and expanding role in AI infrastructure. This comes amidst growing AI financing ri",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-wants-nvidia-nvda-175615939.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T18:11:30+00:00",
-      "sentiment": 0.288137,
+      "title": "Physical AI Series: Beyond Nvidia, Why ON Semiconductor Is My First Pick",
+      "summary": "ON Semiconductor is positioned as a key enabler of physical AI, focusing on power, sensing, and control layers. Learn why ON stock is a buy.",
+      "url": "https://finnhub.io/api/news?id=9ac5521c7f342ffd452ae28b8df2b4a593e4ddd4ad5b0eb8d81c5d87a88d23c6",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-04T05:25:16+00:00",
       "change_pct": 1.8
     },
     {
@@ -391,7 +583,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/price-gen-digital-nasdaq-gen-reaches-new-12-month-high-time-to-buy-2026-09-03/",
       "source": "MarketBeat",
       "published_at": "2026-09-03T15:19:10+00:00",
-      "sentiment": 0.335301,
+      "sentiment": 0.338762,
       "change_pct": 1.8
     },
     {
@@ -427,6 +619,19 @@
       "url": "https://finnhub.io/api/news?id=2c77096eea7ee7e07e7d73d0e9db7d45f409bae9c1d5006410000afdf941d390",
       "source": "Yahoo",
       "published_at": "2026-09-04T04:35:00+00:00",
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_09d5e4783f2988",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cramer Warns Broadcom’s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
+      "summary": "Jim Cramer highlighted Broadcom's ambitious $230 billion AI revenue target for FY2028, warning that it is heavily reliant on Anthropic, a private company. This dependence creates a significant risk for Broadcom investors, as direct exposure to Anthropic is currently impossible. C",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-warns-broadcom-30-billion-162353047.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T16:24:41+00:00",
+      "sentiment": 0.29934,
       "change_pct": 1.8
     },
     {
@@ -478,17 +683,27 @@
       "change_pct": 1.59
     },
     {
-      "id": "av_532526ae7e7b12",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_dc9daaf3f809e6",
+      "provider": "finnhub",
+      "ticker": "RKLB",
       "category": "general",
-      "title": "Commonwealth of Pennsylvania Public School Empls Retrmt SYS Sells 310,852 Shares of NVIDIA Corporation $NVDA",
-      "summary": "The Commonwealth of Pennsylvania Public School Employees' Retirement System (PSERS) reduced its stake in NVIDIA Corporation by 5.5% in the second quarter, selling 310,852 shares. Despite this sale, NVIDIA remains PSERS's largest holding, constituting 5.2% of its investment portfo",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-commonwealth-of-pennsylvania-public-school-empls-retrmt-sys-sells-310852-shares-of-nvidia-corporation-nvda-2026-09-03/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-03T07:32:29+00:00",
-      "sentiment": 0.496679,
-      "change_pct": 1.8
+      "title": "Rocket Lab: Quality Is No Secret, And This Is Why I'm Cautious",
+      "summary": "Rocket Lab is an exceptional aerospace business with strong execution and a bright long-term future. Read why RKLB stock is a hold.",
+      "url": "https://finnhub.io/api/news?id=80b0edb3f7ce6d457b5f12566865b9cf9990f7596f91f1fe7c1f3927d0c7a056",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-04T03:57:42+00:00"
+    },
+    {
+      "id": "f_5af175f8c03676",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "Alphabet: Buffett Is In, Google Keeps AdX, I'm Out",
+      "summary": "Alphabet avoided another breakup remedy after the court rejected the DOJâs request to force an AdX sale. Find out why GOOG stock is a hold.",
+      "url": "https://finnhub.io/api/news?id=ba440a1126b24badd42b0d97e32dccc675d18aa80acefd7149df2cbcd7e7d19a",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-04T03:51:18+00:00",
+      "change_pct": 1.59
     },
     {
       "id": "f_dffb2641f47420",
@@ -538,19 +753,6 @@
       "change_pct": 1.54
     },
     {
-      "id": "av_9d3659d3bdf11c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Better Drone Stock: Kratos Defense vs. Northrop Grumman",
-      "summary": "This article compares Kratos Defense and Northrop Grumman as drone stock investments. Kratos is presented as a high-growth pure-play drone maker, while Northrop Grumman is a larger military contractor with a broader portfolio and greater profitability. Despite Kratos's significan",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/better-drone-stock-kratos-defense-133500587.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T13:35:57+00:00",
-      "sentiment": 0.341619,
-      "change_pct": 1.8
-    },
-    {
       "id": "f_cb7c33ef6bccf1",
       "provider": "finnhub",
       "ticker": "PLTR",
@@ -560,6 +762,18 @@
       "url": "https://finnhub.io/api/news?id=d91c654bfd19dedaa097db31f9bc7cb6790ab7b80072442a4369329de1c7e0c3",
       "source": "Yahoo",
       "published_at": "2026-09-04T03:15:49+00:00"
+    },
+    {
+      "id": "f_f00be6be1e4f07",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "My 21%+ Yielding Portfolio Update - Latest Changes And Performance",
+      "summary": "",
+      "url": "https://finnhub.io/api/news?id=ba3a5e5fbf9641dc447aab6cf807032db388b2371b1d4e5fb6823c512e098b3f",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-04T03:15:22+00:00",
+      "change_pct": 1.8
     },
     {
       "id": "f_e492b2b76e5fac",
@@ -609,17 +823,16 @@
       "change_pct": 5.42
     },
     {
-      "id": "av_93be9ef9f71258",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_945943cd35c81c",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
       "category": "general",
-      "title": "Bit Origin Rebrands to SANGRIX as Part of AI Infrastructure Transition",
-      "summary": "Bit Origin Ltd (NASDAQ: BTOG) has announced its rebranding to SANGRIX INC. and a change in its trading symbol to \"SGRX\" on the Nasdaq Capital Market, effective September 4, 2026. This move signifies the company's strategic pivot towards AI computing and digital infrastructure ser",
-      "url": "https://www.marketscreener.com/news/bit-origin-rebrands-to-sangrix-as-part-of-ai-infrastructure-transition-ce7858d3d08ef021",
-      "source": "www.marketscreener.com",
-      "published_at": "2026-09-03T13:29:55+00:00",
-      "sentiment": 0.335319,
-      "change_pct": 1.8
+      "title": "Cutting The Traditional TV Cord - Half Go Virtual",
+      "summary": "Twenty percent of virtual multichannel subscribers indicated they dropped a traditional pay TV service in the past 6 months. Read more here.",
+      "url": "https://finnhub.io/api/news?id=08b095890fbf310a8ddd1092d12b9fe40e0af627745c3aa6df798a161bd5f3ae",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-04T02:40:00+00:00",
+      "change_pct": 1.59
     },
     {
       "id": "f_e467ec4423103d",
@@ -632,19 +845,6 @@
       "source": "Yahoo",
       "published_at": "2026-09-04T02:33:00+00:00",
       "change_pct": 1.59
-    },
-    {
-      "id": "av_09d5e4783f2988",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Cramer Warns Broadcom’s $30 Billion AI Bet Depends on a Stock You Cannot Buy",
-      "summary": "Jim Cramer highlighted Broadcom's ambitious $230 billion AI revenue target for FY2028, warning that it is heavily reliant on Anthropic, a private company. This dependence creates a significant risk for Broadcom investors, as direct exposure to Anthropic is currently impossible. C",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-warns-broadcom-30-billion-162353047.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T16:24:41+00:00",
-      "sentiment": 0.252495,
-      "change_pct": 1.8
     },
     {
       "id": "f_7a34d50e4ccac5",
@@ -671,16 +871,42 @@
       "change_pct": 1.59
     },
     {
-      "id": "av_898c2c7b6144d3",
+      "id": "av_9d3659d3bdf11c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "NVIDIA Corporation $NVDA Stock Holdings Trimmed by Asio Capital LLC",
-      "summary": "Asio Capital LLC reduced its stake in NVIDIA Corporation by 2.7% in the second quarter, now owning 162,027 shares valued at $32.42 million. Despite this, other institutional investors largely increased their holdings, and NVIDIA's stock performance remains strong with a market ca",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-stock-holdings-trimmed-by-asio-capital-llc-2026-09-03/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-03T07:07:59+00:00",
-      "sentiment": 0.474944,
+      "title": "Better Drone Stock: Kratos Defense vs. Northrop Grumman",
+      "summary": "This article compares Kratos Defense and Northrop Grumman as drone stock investments. Kratos is presented as a high-growth pure-play drone maker, while Northrop Grumman is a larger military contractor with a broader portfolio and greater profitability. Despite Kratos's significan",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/better-drone-stock-kratos-defense-133500587.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T13:35:57+00:00",
+      "sentiment": 0.311628,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_409b6498db9564",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
+      "summary": "Matthew Hornbach, Morgan Stanley global head of macro strategy, believes that inflation is likely to surprise to the downside. He joined 'Squawk Box' to discuss the economy's condition, the Federal Reserve's battle against inflation, the effects of tariffs, and the future path of",
+      "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
+      "source": "CNBC",
+      "published_at": "2026-09-03T13:15:20+00:00",
+      "sentiment": 0.319858,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_93be9ef9f71258",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Bit Origin Rebrands to SANGRIX as Part of AI Infrastructure Transition",
+      "summary": "Bit Origin Ltd (NASDAQ: BTOG) has announced its rebranding to SANGRIX INC. and a change in its trading symbol to \"SGRX\" on the Nasdaq Capital Market, effective September 4, 2026. This move signifies the company's strategic pivot towards AI computing and digital infrastructure ser",
+      "url": "https://www.marketscreener.com/news/bit-origin-rebrands-to-sangrix-as-part-of-ai-infrastructure-transition-ce7858d3d08ef021",
+      "source": "www.marketscreener.com",
+      "published_at": "2026-09-03T13:29:55+00:00",
+      "sentiment": 0.312435,
       "change_pct": 1.8
     },
     {
@@ -755,29 +981,16 @@
       "published_at": "2026-09-04T01:37:00+00:00"
     },
     {
-      "id": "av_d81e789fa4fa9c",
+      "id": "av_af1adbdb53a3a8",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "HubSpot CEO Rangan Yamini Sells 2,622 Shares for Tax Obligations",
-      "summary": "HubSpot CEO Rangan Yamini sold 2,622 shares of HubSpot stock on September 1, 2026, a non-discretionary transaction executed to cover tax obligations related to restricted stock units. This sale, valued at approximately $658,000, represents less than 3% of his total holdings, sugg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/hubspot-ceo-rangan-yamini-sells-162001905.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T12:20:00+00:00",
-      "sentiment": 0.330902,
-      "change_pct": 1.8
-    },
-    {
-      "id": "av_409b6498db9564",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "We believe inflation is likely to surprise to the downside, says Morgan Stanley's Matthew Hornbach",
-      "summary": "Matthew Hornbach, Morgan Stanley global head of macro strategy, believes that inflation is likely to surprise to the downside. He joined 'Squawk Box' to discuss the economy's condition, the Federal Reserve's battle against inflation, the effects of tariffs, and the future path of",
-      "url": "https://www.cnbc.com/video/2026/09/03/we-believe-inflation-is-likely-to-surprise-to-the-downside-says-morgan-stanleys-matthew-hornbach.html",
-      "source": "CNBC",
-      "published_at": "2026-09-03T13:15:20+00:00",
-      "sentiment": 0.3075,
+      "title": "Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy'",
+      "summary": "Broadcom's stock fell over 4% despite strong Q3 revenue and earnings that surpassed Wall Street expectations, driven by significant growth in AI semiconductor revenue. Analysts noted that while the results were good, the magnitude of the beat and raise was not enough to satisfy i",
+      "url": "https://uk.finance.yahoo.com/news/broadcom-stock-falls-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-09-03T11:39:00+00:00",
+      "sentiment": 0.345928,
       "change_pct": 1.8
     },
     {
@@ -829,6 +1042,19 @@
       "change_pct": 1.54
     },
     {
+      "id": "av_30c7b29c393260",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia's Hugging Face deal is a bet on open models — and proof it's no longer just a chip company",
+      "summary": "Nvidia has announced its acquisition of Hugging Face for $12.93 billion, a move that signals Nvidia's commitment to open AI models and its evolution beyond a pure chip company. The deal aims to bolster Hugging Face's platform, which is crucial for open AI development, by providin",
+      "url": "https://siliconangle.com/2026/09/03/nvidias-hugging-face-deal-is-a-bet-on-open-models-and-proof-its-no-longer-just-a-chip-company/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-04T01:10:14+00:00",
+      "sentiment": 0.000887,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_3d1514a8f589e5",
       "provider": "finnhub",
       "ticker": "PLTR",
@@ -838,19 +1064,6 @@
       "url": "https://finnhub.io/api/news?id=0499bcfc1adfe33ffa9b4f24e1387385996c5a5f7f3cad2a2a87854da6fef200",
       "source": "Yahoo",
       "published_at": "2026-09-04T01:06:24+00:00"
-    },
-    {
-      "id": "av_28879d49d15ebd",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant",
-      "summary": "SLB's acquisition of Kelvion for $4.1 billion signals a strategic pivot towards data center solutions, aiming for $4.5 billion to $5 billion in revenue for its Data Center Solutions business by 2028. This move provides SLB with crucial thermal-management capabilities for data cen",
-      "url": "https://www.marketbeat.com/articles/slbs-kelvion-deal-could-change-how-investors-value-the-oilfield-giant/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-03T11:27:09+00:00",
-      "sentiment": 0.341067,
-      "change_pct": 1.8
     },
     {
       "id": "f_b98f0c1eac9e5c",
@@ -901,6 +1114,19 @@
       "change_pct": 1.8
     },
     {
+      "id": "av_d81e789fa4fa9c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "HubSpot CEO Rangan Yamini Sells 2,622 Shares for Tax Obligations",
+      "summary": "HubSpot CEO Rangan Yamini sold 2,622 shares of HubSpot stock on September 1, 2026, a non-discretionary transaction executed to cover tax obligations related to restricted stock units. This sale, valued at approximately $658,000, represents less than 3% of his total holdings, sugg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hubspot-ceo-rangan-yamini-sells-162001905.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T12:20:00+00:00",
+      "sentiment": 0.307783,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_67db71a851b7e9",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -910,19 +1136,6 @@
       "url": "https://finnhub.io/api/news?id=4ccfe585b583f2d8c5b2444b2358ed412b7740ebb30777a8e1b61a2d40db5ffd",
       "source": "Yahoo",
       "published_at": "2026-09-04T00:30:01+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "av_af1adbdb53a3a8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Broadcom stock falls as chipmaker's strong results 'not enough to keep investors happy'",
-      "summary": "Broadcom's stock fell over 4% despite strong Q3 revenue and earnings that surpassed Wall Street expectations, driven by significant growth in AI semiconductor revenue. Analysts noted that while the results were good, the magnitude of the beat and raise was not enough to satisfy i",
-      "url": "https://uk.finance.yahoo.com/news/broadcom-stock-falls-as-chipmakers-strong-results-not-enough-to-keep-investors-happy-205929042.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-09-03T11:39:00+00:00",
-      "sentiment": 0.318937,
       "change_pct": 1.8
     },
     {
@@ -950,19 +1163,6 @@
       "change_pct": 1.8
     },
     {
-      "id": "av_b84c094d6d8c9e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Equinix director Paisley sells $4.08m in stock",
-      "summary": "Christopher B. Paisley, a director at Equinix Inc. (NASDAQ:EQIX), disposed of 4,000 shares of common stock valued at $4,077,120. This transaction involved contributing shares to an exchange fund, with the stock valued at $1,019.28 per share, aligning closely with its current trad",
-      "url": "https://m.investing.com/news/insider-trading-news/equinix-director-paisley-sells-408m-in-stock-93CH-4886866?ampMode=1",
-      "source": "Investing.com",
-      "published_at": "2026-09-03T13:26:06+00:00",
-      "sentiment": 0.273195,
-      "change_pct": 1.8
-    },
-    {
       "id": "f_df177d4edaac0e",
       "provider": "finnhub",
       "ticker": "MRVL",
@@ -984,6 +1184,19 @@
       "url": "https://finnhub.io/api/news?id=add3bcf3c0968839e90af1679721d79b04e340e2182846cfa3658455407d34de",
       "source": "Yahoo",
       "published_at": "2026-09-04T00:20:00+00:00",
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_b84c094d6d8c9e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Equinix director Paisley sells $4.08m in stock",
+      "summary": "Christopher B. Paisley, a director at Equinix Inc. (NASDAQ:EQIX), disposed of 4,000 shares of common stock valued at $4,077,120. This transaction involved contributing shares to an exchange fund, with the stock valued at $1,019.28 per share, aligning closely with its current trad",
+      "url": "https://m.investing.com/news/insider-trading-news/equinix-director-paisley-sells-408m-in-stock-93CH-4886866?ampMode=1",
+      "source": "Investing.com",
+      "published_at": "2026-09-03T13:26:06+00:00",
+      "sentiment": 0.271123,
       "change_pct": 1.8
     },
     {
@@ -1011,6 +1224,19 @@
       "change_pct": 1.8
     },
     {
+      "id": "av_b81f53ce76766b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Bitzero Holdings Inc. (CN:AIBZ.U) Drops 8.91% as Selling Pressure Tests AI Data Center Growth Narrative",
+      "summary": "Bitzero Holdings Inc. saw its shares drop by 8.91% despite recent balance-sheet improvements, indicating investor caution regarding execution timelines and earnings visibility. The company, which is developing sustainable digital infrastructure for AI and high-performance computi",
+      "url": "https://kalkine.ca/news/technology/bitzero-holdings-inc-cnaibzu-drops-891-as-selling-pressure-tests-ai-data-center-growth-narrative",
+      "source": "kalkine.ca",
+      "published_at": "2026-09-03T10:28:58+00:00",
+      "sentiment": 0.340151,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_cec73a592147b3",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -1033,19 +1259,6 @@
       "source": "Yahoo",
       "published_at": "2026-09-03T23:53:07+00:00",
       "change_pct": 2.68
-    },
-    {
-      "id": "av_fee52f4800c8fd",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "What's Going On With NetApp Stock Thursday? - NetApp (NASDAQ:NTAP)",
-      "summary": "NetApp's stock fell in premarket trading despite strong Q1 fiscal 2027 results and an upbeat outlook, driven by concerns over an expected sequential decline in gross margin for the second quarter. The company reported significant increases in earnings and revenue, beating analyst",
-      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61596799/netapp-warns-gross-margin-will-fall-in-the-second-quarter",
-      "source": "Benzinga",
-      "published_at": "2026-09-03T10:11:50+00:00",
-      "sentiment": 0.339056,
-      "change_pct": 1.8
     },
     {
       "id": "f_33643b7e4c7611",
@@ -1096,6 +1309,19 @@
       "change_pct": 5.42
     },
     {
+      "id": "av_03667ae495bf83",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "He’s lost hundreds of thousands in stocks like SpaceX and Beyond Meat — and he’s not stopping. Is the ‘high’ worth it?",
+      "summary": "Akshay Sapra lost over CA$350,000 (roughly $250,000) day trading SpaceX, following a previous CA$200,000 loss on Beyond Meat. Despite significant losses and attending a gambling addiction program for trading, Sapra continues to trade, finding the \"highs too good.\" He plans to liv",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lost-hundreds-thousands-stocks-spacex-110000708.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T11:00:00+00:00",
+      "sentiment": 0.314931,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_aa9594ec4618da",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1108,16 +1334,29 @@
       "change_pct": 1.8
     },
     {
-      "id": "av_03667ae495bf83",
+      "id": "av_0fc44636ba8cb4",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "He’s lost hundreds of thousands in stocks like SpaceX and Beyond Meat — and he’s not stopping. Is the ‘high’ worth it?",
-      "summary": "Akshay Sapra lost over CA$350,000 (roughly $250,000) day trading SpaceX, following a previous CA$200,000 loss on Beyond Meat. Despite significant losses and attending a gambling addiction program for trading, Sapra continues to trade, finding the \"highs too good.\" He plans to liv",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/lost-hundreds-thousands-stocks-spacex-110000708.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T11:00:00+00:00",
-      "sentiment": 0.310514,
+      "title": "Caterpillar levels up robotics with FieldAI",
+      "summary": "Caterpillar is enhancing its robotics capabilities by collaborating with FieldAI, a company specializing in AI for autonomous machines in dynamic industrial environments. This partnership aims to integrate FieldAI's \"robot brain\" technology with Caterpillar's heavy equipment to i",
+      "url": "https://www.metaltechnews.com/story/2026/09/09/mining-tech/caterpillar-levels-up-robotics-with-fieldai/2939.html",
+      "source": "Metal Tech News",
+      "published_at": "2026-09-03T11:22:05+00:00",
+      "sentiment": 0.303339,
+      "change_pct": 1.8
+    },
+    {
+      "id": "av_28879d49d15ebd",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SLB’s Kelvion Deal Could Change How Investors Value the Oilfield Giant",
+      "summary": "SLB's acquisition of Kelvion for $4.1 billion signals a strategic pivot towards data center solutions, aiming for $4.5 billion to $5 billion in revenue for its Data Center Solutions business by 2028. This move provides SLB with crucial thermal-management capabilities for data cen",
+      "url": "https://www.marketbeat.com/articles/slbs-kelvion-deal-could-change-how-investors-value-the-oilfield-giant/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-03T11:27:09+00:00",
+      "sentiment": 0.300337,
       "change_pct": 1.8
     },
     {
@@ -1193,6 +1432,19 @@
       "change_pct": 1.54
     },
     {
+      "id": "av_fee52f4800c8fd",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "What's Going On With NetApp Stock Thursday? - NetApp (NASDAQ:NTAP)",
+      "summary": "NetApp's stock fell in premarket trading despite strong Q1 fiscal 2027 results and an upbeat outlook, driven by concerns over an expected sequential decline in gross margin for the second quarter. The company reported significant increases in earnings and revenue, beating analyst",
+      "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61596799/netapp-warns-gross-margin-will-fall-in-the-second-quarter",
+      "source": "Benzinga",
+      "published_at": "2026-09-03T10:11:50+00:00",
+      "sentiment": 0.320086,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_433b2e37260782",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1203,6 +1455,19 @@
       "source": "Yahoo",
       "published_at": "2026-09-03T22:48:25+00:00",
       "change_pct": 5.42
+    },
+    {
+      "id": "av_ac63be67a761c7",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Cardano Climbs 10% In a Green Day",
+      "summary": "Cardano (ADA) experienced a significant surge, climbing over 10% to trade at $0.2153, marking its largest one-day percentage gain since August 21st. This rise boosted its market capitalization to $7.8471 billion, representing 0.29% of the total cryptocurrency market. Despite the ",
+      "url": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-a-green-day-4888230",
+      "source": "Investing.com",
+      "published_at": "2026-09-03T10:38:05+00:00",
+      "sentiment": 0.30209,
+      "change_pct": 1.8
     },
     {
       "id": "f_2d3a0c14edd02f",
@@ -1229,6 +1494,19 @@
       "change_pct": 5.42
     },
     {
+      "id": "av_fe8f8c692d390c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Raymond James raises Snowflake stock price target on AI growth",
+      "summary": "Raymond James has increased its price target for Snowflake Inc. (NYSE:SNOW) to $425 from $275, maintaining an Outperform rating, following strong Q2 fiscal 2027 results. The company's product revenue growth accelerated for the third consecutive quarter, largely driven by AI produ",
+      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-raises-snowflake-stock-price-target-on-ai-growth-93CH-4887432",
+      "source": "Investing.com",
+      "published_at": "2026-09-03T10:46:11+00:00",
+      "sentiment": 0.295226,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_dba2a84816ca58",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1253,19 +1531,6 @@
       "change_pct": 1.8
     },
     {
-      "id": "av_fe8f8c692d390c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Raymond James raises Snowflake stock price target on AI growth",
-      "summary": "Raymond James has increased its price target for Snowflake Inc. (NYSE:SNOW) to $425 from $275, maintaining an Outperform rating, following strong Q2 fiscal 2027 results. The company's product revenue growth accelerated for the third consecutive quarter, largely driven by AI produ",
-      "url": "https://www.investing.com/news/analyst-ratings/raymond-james-raises-snowflake-stock-price-target-on-ai-growth-93CH-4887432",
-      "source": "Investing.com",
-      "published_at": "2026-09-03T10:46:11+00:00",
-      "sentiment": 0.289701,
-      "change_pct": 1.8
-    },
-    {
       "id": "f_400c64caa3de2d",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1276,6 +1541,19 @@
       "source": "Yahoo",
       "published_at": "2026-09-03T22:18:30+00:00",
       "change_pct": 5.42
+    },
+    {
+      "id": "av_ef46165b70b318",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lowe’s, BofA, AT&T, Nvidia, more launch workforce training initiative",
+      "summary": "The Lowe's Foundation, in collaboration with companies like Bank of America, AT&T, and Nvidia, has launched the \"Building Futures Skilled Trades Coalition.\" This initiative aims to train 1 million people for skilled trade careers by 2035 to address a significant national labor sh",
+      "url": "https://finance.yahoo.com/small-business/articles/lowe-bofa-t-nvidia-more-123200495.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T12:13:13+00:00",
+      "sentiment": 0.249234,
+      "change_pct": 1.8
     },
     {
       "id": "f_d93be97715188c",
@@ -1787,19 +2065,6 @@
       "published_at": "2026-09-03T21:04:45+00:00"
     },
     {
-      "id": "av_e9629d8e5f0754",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Capsule Security fine-tunes Nvidia Nemotron models to stop rogue AI agents",
-      "summary": "Capsule Security has launched a new detection system, dubbed an \"AI circuit breaker,\" built on fine-tuned Nvidia Nemotron models to prevent rogue AI agents from executing unintended actions. This system operates as a real-time control layer, allowing customers to approve, flag, o",
-      "url": "https://siliconangle.com/2026/09/02/capsule-security-fine-tunes-nvidia-nemotron-models-to-stop-rogue-ai-agents/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-09-03T00:24:51+00:00",
-      "sentiment": 0.425296,
-      "change_pct": 1.8
-    },
-    {
       "id": "f_5abb4337d4d5f8",
       "provider": "finnhub",
       "ticker": "AVGO",
@@ -1917,19 +2182,6 @@
       "url": "https://finnhub.io/api/news?id=df61d0650da8062c6e850a2c0b2dd0c0098ea6e2dbc23f13115e6db393a43c8b",
       "source": "Yahoo",
       "published_at": "2026-09-03T20:54:04+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "av_ef46165b70b318",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lowe’s, BofA, AT&T, Nvidia, more launch workforce training initiative",
-      "summary": "The Lowe's Foundation, in collaboration with companies like Bank of America, AT&T, and Nvidia, has launched the \"Building Futures Skilled Trades Coalition.\" This initiative aims to train 1 million people for skilled trade careers by 2035 to address a significant national labor sh",
-      "url": "https://finance.yahoo.com/small-business/articles/lowe-bofa-t-nvidia-more-123200495.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T12:13:13+00:00",
-      "sentiment": 0.216371,
       "change_pct": 1.8
     },
     {
@@ -2053,6 +2305,19 @@
       "change_pct": -2.74
     },
     {
+      "id": "av_3bf160c82015c3",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Should You Buy Texas Instruments Stock Despite Its Premium Valuation?",
+      "summary": "Texas Instruments (TXN) stock trades at a premium valuation compared to its sector and peers, raising questions about its attractiveness for investors. Despite this, the article argues that its strong financial results, increasing exposure to AI infrastructure, and significant ma",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-texas-instruments-stock-despite-123400905.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-03T08:34:00+00:00",
+      "sentiment": 0.277406,
+      "change_pct": 1.8
+    },
+    {
       "id": "f_6b805b3abf3b33",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -2065,16 +2330,16 @@
       "change_pct": 5.42
     },
     {
-      "id": "av_cc2829ac504585",
+      "id": "av_da9d027f02119c",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Morgan Stanley has a strong message for worried AI stock investors",
-      "summary": "Morgan Stanley suggests that despite growing political resistance to AI data centers due to concerns about electricity, water consumption, and community disruption, the overall AI spending story remains robust. While there may be timing delays and shifts in geographical deploymen",
-      "url": "https://sg.finance.yahoo.com/news/morgan-stanley-strong-message-worried-140700592.html",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-09-03T14:11:22+00:00",
-      "sentiment": 0.148169,
+      "title": "KeyBanc reiterates Microsoft stock Overweight on cleaner Azure disclosure",
+      "summary": "KeyBanc has reiterated an Overweight rating for Microsoft (NASDAQ:MSFT) with a $600 price target following the company's revenue segment restatement. The restatement provides clearer disclosure for Azure and improved visibility into Copilot businesses, though KeyBanc noted no maj",
+      "url": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-microsoft-stock-overweight-on-cleaner-azure-disclosure-93CH-4888116",
+      "source": "Investing.com",
+      "published_at": "2026-09-03T14:20:21+00:00",
+      "sentiment": 0.137308,
       "change_pct": 1.8
     },
     {
@@ -2114,19 +2379,6 @@
       "change_pct": 1.8
     },
     {
-      "id": "av_97068654c2cb17",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Ancora Advisors LLC Invests $1.37 Million in Intel Corporation $INTC",
-      "summary": "Ancora Advisors LLC recently acquired 9,784 shares of Intel Corporation, a new position valued at approximately $1.37 million, during the second quarter. Other institutional investors have also adjusted their holdings in Intel, with 64.53% of the stock currently owned by hedge fu",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ancora-advisors-llc-invests-137-million-in-intel-corporation-intc-2026-09-03/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-03T07:08:45+00:00",
-      "sentiment": 0.311997,
-      "change_pct": 1.8
-    },
-    {
       "id": "f_abd9f77c38a719",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -2151,19 +2403,6 @@
       "change_pct": 2.68
     },
     {
-      "id": "av_da9d027f02119c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "KeyBanc reiterates Microsoft stock Overweight on cleaner Azure disclosure",
-      "summary": "KeyBanc has reiterated an Overweight rating for Microsoft (NASDAQ:MSFT) with a $600 price target following the company's revenue segment restatement. The restatement provides clearer disclosure for Azure and improved visibility into Copilot businesses, though KeyBanc noted no maj",
-      "url": "https://www.investing.com/news/analyst-ratings/keybanc-reiterates-microsoft-stock-overweight-on-cleaner-azure-disclosure-93CH-4888116",
-      "source": "Investing.com",
-      "published_at": "2026-09-03T14:20:21+00:00",
-      "sentiment": 0.129984,
-      "change_pct": 1.8
-    },
-    {
       "id": "f_58110ac35b5374",
       "provider": "finnhub",
       "ticker": "PLTR",
@@ -2185,244 +2424,10 @@
       "source": "Yahoo",
       "published_at": "2026-09-03T19:23:01+00:00",
       "change_pct": 1.8
-    },
-    {
-      "id": "f_5d74b5ab146b28",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Tesla Is Now Up 18% in a Month: Take Profits, or Buy More?",
-      "summary": "Tesla has surged while its EV peers stumble or collapse, but the rally rests entirely on a single event that has yet to happen. What the peer tape reveals about this trade changes the calculus entirely.",
-      "url": "https://finnhub.io/api/news?id=89fdcb806f30fa59b2fd16e6540a192797c9d69e82167e4b52343f5e712eb750",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:20:32+00:00",
-      "change_pct": 5.42
-    },
-    {
-      "id": "f_d8904125902ada",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Market Indexes Rally as Tesla and Goldman Sachs Take the Wheel",
-      "summary": "Goldman Sachs delivered nearly a third of the Dow's gain Thursday. So what did the bank announce? Nothing at all.",
-      "url": "https://finnhub.io/api/news?id=4fd8f57bd93f051603931295148f679cf8111dfffe22feb413867b763b984742",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:15:30+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_33e891ca9690b2",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "The Market Marked ZM Down. The Numbers Push Back",
-      "summary": "The video platform that defined an era now trades at a fraction of the market's price, forcing investors to decide if the markdown is a miscalculation or a final verdict.",
-      "url": "https://finnhub.io/api/news?id=9e58780e68df8b804065dac8153105d33b545383707208b629bb342b9e97e9cc",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:14:58+00:00",
-      "change_pct": 1.59
-    },
-    {
-      "id": "f_9ffbc3d5205669",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why MongoDB Fell This Week",
-      "summary": "Investors \"sold the news\" on Mongo's earnings report, even as it came in stronger-than-expected.",
-      "url": "https://finnhub.io/api/news?id=3b80b602bf2c9c6cb1f9896dd7f0ef386b24dfd38c75f93858d5203aec9af71a",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:13:18+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_dfd5dbcb7b40b6",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Discover which dow jones stocks are making waves on Thursday.",
-      "summary": "Stay informed about the performance of the dow jones index one hour before the close of the markets on Thursday. Uncover the top gainers and losers in today's session for valuable insights.",
-      "url": "https://finnhub.io/api/news?id=2408906dfdb0441202ed8cf0c09a63939053aadd284e7bbc95107dba373c1fe7",
-      "source": "ChartMill",
-      "published_at": "2026-09-03T19:10:05+00:00",
-      "change_pct": 1.8,
-      "title_kr": "목요일에 어떤 다우존스 주식이 파도를 일으키고 있는지 알아보세요.",
-      "summary_kr": "오늘 세션에서 다우존스 주식의 움직임에 대한 최신 정보를 받아보세요. 목요일에 어떤 다우존스 주식이 파도를 일으키고 있는지 알아보세요."
-    },
-    {
-      "id": "f_8c5622a7eab136",
-      "provider": "finnhub",
-      "ticker": "AVGO",
-      "category": "general",
-      "title": "Kyndryl Holdings (KD) Expands Broadcom Alliance, Is The Stock Still Undervalued?",
-      "summary": "Kyndryl Holdings (KD) has expanded its alliance with Broadcom to deliver end-to-end consulting around VMware Cloud Foundation, with a focus on AI-ready private clouds, automation and security for mission-critical enterprise systems. The news comes after a mixed period for Kyndryl Holdings, with the share price at US$13.09 and a 7.83% 90 day share price return. The year to date share price return is down 48.65% and the 1 year total shareholder return is down 59.11%, pointing to some recent...",
-      "url": "https://finnhub.io/api/news?id=eb6b1d2399f922463e8ff2fd23de9f04789f112c4aa915c6d0831a4510681ed7",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:06:13+00:00",
-      "change_pct": -2.74
-    },
-    {
-      "id": "f_43fc957bb94b10",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why Argan Stock Just Popped",
-      "summary": "Argan delivers strong earnings to match its strong stock performance.",
-      "url": "https://finnhub.io/api/news?id=cfd92edc1b8fa98d310d433c125bd4316a5a431f13647b5baec3ec300784c472",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:05:08+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_2ce31aef8badbd",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Thursday's session: top gainers and losers in the S&P500 index",
-      "summary": "Stay updated with the movement of S&P500 stocks in today's session. Discover which S&P500 stocks are making waves on Thursday.",
-      "url": "https://finnhub.io/api/news?id=1bb1adddd9848981c1ec4238462275e64b89e0340003f691f5242cca88dfc968",
-      "source": "ChartMill",
-      "published_at": "2026-09-03T19:05:01+00:00",
-      "change_pct": 5.42,
-      "title_kr": "목요일 세션: S&P500 지수의 최고 상승자와 하락자",
-      "summary_kr": "목요일 한낮의 S&P500 지수 내 최고 성과가 궁금하신가요? 포괄적인 개요를 보려면 오늘 세션의 최고 승자 및 패자 목록을 살펴보세요."
-    },
-    {
-      "id": "f_dc4ce5c8ed2261",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "3 Things You Need to Know If You Buy Pfizer Stock Today",
-      "summary": "After a long bout with poor post-pandemic performance, the stock's starting to perk up. The question is, are other investors -- and analysts -- willing to stick their neck out any further anytime soon?",
-      "url": "https://finnhub.io/api/news?id=24e76f9037e7e683a673304610500eca3240fe709c89f1e7a381a2ff30673f2c",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:05:00+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_2b88c0134c859d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia: The Market Will Come To Its Senses Eventually",
-      "summary": "Nvidia's Q2 blowout, margin gains, and Hugging Face deal power its AI lead, with AWS/SpaceX partners and modest valuation. Click for this NVDA update.",
-      "url": "https://finnhub.io/api/news?id=e976b77d84fce99d46c45cbaa7f4b41e2345153bb680b060407b52fb0d9e51db",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-03T19:03:33+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "av_49028a8f4f1cca",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Broadcom Falls 6% as Soft Guidance Overshadows 221% AI Revenue Surge; NVIDIA Inches Higher, AMD Slips",
-      "summary": "Broadcom's stock dropped 6% after its Q4 revenue guidance missed consensus, despite a 221% surge in AI revenue, due to concerns over gross margin compression. While NVIDIA saw a 1% increase, AMD and Marvell Technology experienced declines due to worries about custom-accelerator m",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-falls-6-soft-guidance-140556754.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T10:05:00+00:00",
-      "sentiment": 0.224017,
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_7a3173b1f2d1ed",
-      "provider": "finnhub",
-      "ticker": "MSTR",
-      "category": "general",
-      "title": "Saylor says Strategy’s Bitcoin-heavy reserve capital surpasses nearly all S&P 500 financial firms",
-      "summary": "Michael Saylor’s Strategy Inc has pulled ahead of almost every financial services giant in the S&P 500 on a key balance-sheet measure. Only Warren Buffett’s Berkshire Hathaway still ranks higher.",
-      "url": "https://finnhub.io/api/news?id=7460236d293f1a345fcea4c2b48c1d7ec85ab1ae0e0cfbb798f0ad2edb4da245",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:01:59+00:00",
-      "change_pct": 17.56
-    },
-    {
-      "id": "f_59a487d03c1b37",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "TSLA Stock Up 7% Ahead Of Cybercab Launch Event — Fund Manager Sees Selloff Ahead, Citing Past Patterns",
-      "summary": "Tesla was among the day’s stronger large-cap movers on Thursday ahead of the launch event slated for after market close.",
-      "url": "https://finnhub.io/api/news?id=abfebb33cf0ed23c033afcbbef456838d95e31839c0c751ae4116a10f93adf71",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T19:00:13+00:00",
-      "change_pct": 5.42
-    },
-    {
-      "id": "f_78aa52a06a5e85",
-      "provider": "finnhub",
-      "ticker": "AVGO",
-      "category": "general",
-      "title": "Investor Who Went 30 Years Without a Loss Just Bet $125 Million on Bitcoin",
-      "summary": "Druckenmiller's family office bought $125.6 million of Bitcoin miners. The bet is down roughly $30 million on paper.",
-      "url": "https://finnhub.io/api/news?id=99a5cd9a5a112793b643622eb2bde4dc61b8fab290933dc1e4703db921342c20",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T18:59:32+00:00",
-      "change_pct": -2.74
-    },
-    {
-      "id": "av_3bf160c82015c3",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Should You Buy Texas Instruments Stock Despite Its Premium Valuation?",
-      "summary": "Texas Instruments (TXN) stock trades at a premium valuation compared to its sector and peers, raising questions about its attractiveness for investors. Despite this, the article argues that its strong financial results, increasing exposure to AI infrastructure, and significant ma",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-texas-instruments-stock-despite-123400905.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-03T08:34:00+00:00",
-      "sentiment": 0.259609,
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_a751850bdb54d0",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "How Much Upside Can APP Stock's Growth Deliver?",
-      "summary": "While known for gaming, the company's fastest growth is happening elsewhere. Its consumer vertical is quietly becoming a second engine, with advertiser spend already setting records. This segment finished the second quarter 28% above fourth quarter 2025 levels.",
-      "url": "https://finnhub.io/api/news?id=515778880979df8a7f276e3a6abd4ae132bc57bab1ccba5add896a1a5511c3fb",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T18:54:41+00:00",
-      "change_pct": 3.01
-    },
-    {
-      "id": "f_b8e6f487303e2b",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Jim Cramer Explains Why CrowdStrike (CRWD) Upended the Tech Bear Thesis",
-      "summary": "During the August 27 Mad Money episode, Jim Cramer turned his attention to CrowdStrike Holdings, Inc. (NASDAQ:CRWD). He highlighted the cybersecurity giant’s latest earnings report as evidence that the prevailing tech bear cases had completely collapsed. He said: Like I mentioned at the top of the show, last night every major bear thesis in tech […]",
-      "url": "https://finnhub.io/api/news?id=2570408bd3c6c1ef37e7247e92bfec05f1e7dbc6a138ecd35c1c535125c4a00c",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T18:54:16+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_c858eeb4635b91",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Could a $10,000 Investment in AMD Double by the End of 2028?",
-      "summary": "The chipmaker just posted a great quarter, but a lot of its expected success is already priced into the stock.",
-      "url": "https://finnhub.io/api/news?id=c9dc3058ef98a0a055eacaf39d54ed663cd692b890712754d849597c9e9207bc",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T18:53:00+00:00",
-      "change_pct": 1.8
-    },
-    {
-      "id": "f_31198320ad6d10",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Bloom Energy: Unlocking Massive Growth Behind the Meter",
-      "summary": "As long-term grid bottlenecks clash with the relentless power requirements of AI, off-grid energy generation has become a necessity.",
-      "url": "https://finnhub.io/api/news?id=3789d2f8a1683d917a4e1a9c9fa171a3536a53e3f5a6865b1ec8293529c71be9",
-      "source": "Yahoo",
-      "published_at": "2026-09-03T18:52:00+00:00",
-      "change_pct": 5.42
     }
   ],
-  "fetched_at": "2026-09-04T06:43:20.099549+00:00",
+  "fetched_at": "2026-09-04T11:45:11.962022+00:00",
   "source_count": 4,
-  "translated_at": "2026-09-04T06:43:22.465441+00:00",
+  "translated_at": "2026-09-04T11:45:14.934689+00:00",
   "translation_engine": "google-parallel"
 }
