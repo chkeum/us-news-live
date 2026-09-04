@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T23:23:12.887986+00:00",
+  "fetched_at": "2026-09-04T01:04:52.847480+00:00",
   "sp500": {
     "price": 7747.71,
     "change_pct": 1.52,
@@ -21,11 +21,23 @@
     "label": "VIX"
   },
   "btc": {
-    "price": 81202.54,
-    "change_pct": 5.26,
+    "price": 80960.45,
+    "change_pct": 5.0,
     "label": "BTC"
   },
   "watchlist": {
+    "NVDA": {
+      "price": 228.45,
+      "change_pct": 1.8
+    },
+    "MRVL": {
+      "price": 208.83,
+      "change_pct": 1.14
+    },
+    "TSLA": {
+      "price": 376.37,
+      "change_pct": 5.42
+    },
     "MSTR": {
       "price": 144.82,
       "change_pct": 17.56
@@ -38,9 +50,17 @@
       "price": 456.16,
       "change_pct": -0.2
     },
+    "META": {
+      "price": 610.68,
+      "change_pct": 3.01
+    },
     "MSFT": {
       "price": 510.12,
       "change_pct": 2.68
+    },
+    "AMZN": {
+      "price": 258.9,
+      "change_pct": 1.54
     },
     "AVGO": {
       "price": 357.16,
@@ -50,51 +70,51 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 116,
+      "mentions": 112,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "TSLA",
+      "mentions": 21,
       "surge_pct": 0
     },
     {
       "ticker": "GOOGL",
-      "mentions": 25,
+      "mentions": 13,
       "surge_pct": 0
     },
     {
-      "ticker": "META",
-      "mentions": 11,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSFT",
+      "ticker": "AVGO",
       "mentions": 10,
       "surge_pct": 0
     },
     {
-      "ticker": "PLTR",
+      "ticker": "META",
       "mentions": 8,
       "surge_pct": 0
     },
     {
       "ticker": "MSTR",
-      "mentions": 8,
+      "mentions": 7,
       "surge_pct": 0
     },
     {
-      "ticker": "COIN",
+      "ticker": "PLTR",
       "mentions": 6,
       "surge_pct": 0
     },
     {
-      "ticker": "AMD",
+      "ticker": "AMZN",
       "mentions": 5,
       "surge_pct": 0
     },
     {
-      "ticker": "RKLB",
+      "ticker": "MSFT",
       "mentions": 4,
       "surge_pct": 0
     },
     {
-      "ticker": "AMZN",
+      "ticker": "AAPL",
       "mentions": 3,
       "surge_pct": 0
     }
