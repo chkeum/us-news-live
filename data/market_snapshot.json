@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T18:26:40.370388+00:00",
+  "fetched_at": "2026-09-05T20:31:27.542995+00:00",
   "sp500": {
     "price": 7718.6,
     "change_pct": 0.68,
@@ -21,8 +21,8 @@
     "label": "VIX"
   },
   "btc": {
-    "price": 80000,
-    "change_pct": 0.56,
+    "price": 79738,
+    "change_pct": -0.02,
     "label": "BTC"
   },
   "watchlist": {
@@ -70,7 +70,12 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 137,
+      "mentions": 138,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "AMZN",
+      "mentions": 8,
       "surge_pct": 0
     },
     {
@@ -89,17 +94,7 @@
       "surge_pct": 0
     },
     {
-      "ticker": "AMZN",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
       "ticker": "MU",
-      "mentions": 5,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSFT",
       "mentions": 5,
       "surge_pct": 0
     },
@@ -109,13 +104,18 @@
       "surge_pct": 0
     },
     {
-      "ticker": "COIN",
+      "ticker": "MSFT",
       "mentions": 4,
       "surge_pct": 0
     },
     {
-      "ticker": "MSTR",
-      "mentions": 4,
+      "ticker": "PLTR",
+      "mentions": 3,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "META",
+      "mentions": 3,
       "surge_pct": 0
     }
   ],
