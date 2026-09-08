@@ -10,7 +10,31 @@
       "url": "https://finnhub.io/api/news?id=d912c2264f2a145e9e1ed97bbaf3ee0df9cd5a1d268ef8a14b6eab04e4674957",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T03:01:56+00:00",
-      "change_pct": 0.21
+      "change_pct": 3.49
+    },
+    {
+      "id": "f_17e40f4bfc85c2",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "analyst",
+      "title": "Robinhood To Rally Around 23%? Here Are 10 Top Analyst Forecasts For Tuesday",
+      "summary": "Analysts raised targets for NOW, HOOD, MSTR, ABNB and CLYM, while cutting APP and IONS; ratings largely remain positive.",
+      "url": "https://finnhub.io/api/news?id=b29bd67f531793b246fea9ae5bb955b027b751598767cd961f06457bd3872cfa",
+      "source": "Benzinga",
+      "published_at": "2026-09-08T09:07:19+00:00",
+      "change_pct": -3.62
+    },
+    {
+      "id": "f_33b9f8f5c50355",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "analyst",
+      "title": "Tesla: My Thesis Could Make Or Break In October (Rating Upgrade)",
+      "summary": "Tesla, Inc. rated Hold: key October catalysts, Q3 delivery hurdles, margin/FCF strain, and Cybercab/FSD upside vs NHTSA risk. Click for this TSLA update.",
+      "url": "https://finnhub.io/api/news?id=33bf07481e4c645c431e8cd8b1ba7f1dbf2b1190a2fd4ee92f50924ae9ed3954",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T09:00:52+00:00",
+      "change_pct": 3.19
     },
     {
       "id": "f_7c61278bc70071",
@@ -26,6 +50,19 @@
       "summary_kr": "Palantir의 메타컴퓨팅 계층과 온톨로지 기반 AI 아키텍처는 기업 및 주권 AI에서 고유한 해자를 강화합니다. PLTR 주식이 매수인 이유를 알아보세요."
     },
     {
+      "id": "av_718d89740ecdab",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Origin Bancorp (OBK): Buy, Sell, or Hold Post Q2 Earnings?",
+      "summary": "Despite a recent impressive run where its shares outperformed the S&P 500, Origin Bancorp (OBK) is not recommended by analysts due to disappointing long-term revenue growth, barely growing EPS, and slim projected tangible book value per share growth. While the valuation is consid",
+      "url": "https://uk.finance.yahoo.com/news/origin-bancorp-obk-buy-sell-123918479.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-09-08T12:52:15+00:00",
+      "sentiment": 0.338417,
+      "change_pct": -1.58
+    },
+    {
       "id": "av_6af94ce8fd9bba",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -35,8 +72,21 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/top-m-deals-september-nvidia-061244979.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-08T06:12:16+00:00",
-      "sentiment": 0.488062,
-      "change_pct": 0.84
+      "sentiment": 0.487556,
+      "change_pct": -1.58
+    },
+    {
+      "id": "av_9cfac3e1b879c3",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel shares up 5% following report company plans to raise CPU prices",
+      "summary": "Intel's shares rose by 5% following a report indicating the company's intention to increase CPU prices. This news comes amidst a broader chip rally, with Intel also receiving an \"Outperform\" upgrade from Northland due to \"material\" turnaround progress. The price hikes are reporte",
+      "url": "https://www.tipranks.com/news/the-fly/intel-shares-up-5-following-report-company-plans-to-raise-cpu-prices-thefly-news",
+      "source": "TipRanks",
+      "published_at": "2026-09-08T13:05:05+00:00",
+      "sentiment": 0.305555,
+      "change_pct": -1.58
     },
     {
       "id": "f_1a4e6bfe954a6b",
@@ -48,9 +98,34 @@
       "url": "https://finnhub.io/api/news?id=6c815cdd8e2f04d174304f70542e67d32fcf9e3dafbdd838a2c0ed9251934407",
       "source": "Yahoo",
       "published_at": "2026-09-07T22:35:00+00:00",
-      "change_pct": -1.17,
+      "change_pct": -0.02,
       "title_kr": "워렌 버핏은 버크셔의 알파벳 베팅에 대해 CNBC에 '내가 시작했다'고 말했고, 새로운 보도에 따르면 그는 여전히 주식에 대한 결정을 내리고 있다고 합니다. Greg Abel의 재임 기간을 읽는 것이 의미하는 바는 다음과 같습니다.",
       "summary_kr": "Berkshire Hathaway는 보다 전통적인 보험 모델로 전환할 수 있습니다."
+    },
+    {
+      "id": "f_c8fe9f455eba2c",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "analyst",
+      "title": "Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn't Quickly Bounce From This Level",
+      "summary": "Leading cryptocurrencies fell on Monday, Sept. 7, as geopolitical strife and elevated oil prices trimmed risk-on appetite.",
+      "url": "https://finnhub.io/api/news?id=f0a21746928645a79aae649294fe00c5148ab732eabbbd8b567227a837adb170",
+      "source": "Benzinga",
+      "published_at": "2026-09-07T22:15:38+00:00",
+      "change_pct": -3.62
+    },
+    {
+      "id": "av_0535b041576518",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today",
+      "summary": "This article compares memory chip manufacturers Micron (MU) and Sandisk (SNDK), both of which have seen their stock prices drop by about 20% recently despite strong demand for AI memory. The author argues that Micron is the superior long-term investment due to its exposure to bot",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-vs-sandisk-1-artificial-113000528.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-08T11:24:28+00:00",
+      "sentiment": 0.320474,
+      "change_pct": -1.58
     },
     {
       "id": "f_7e41af6aae91c8",
@@ -88,8 +163,8 @@
       "url": "https://sg.finance.yahoo.com/news/nvidias-3-old-h100-chip-024401396.html",
       "source": "Yahoo Finance Singapore",
       "published_at": "2026-09-08T03:11:26+00:00",
-      "sentiment": 0.441553,
-      "change_pct": 0.84,
+      "sentiment": 0.435421,
+      "change_pct": -1.58,
       "title_kr": "Nvidia의 3년 된 H100 칩은 여전히 ​​시장에서 이익을 얻고 있으며 Jensen Huang은 컴퓨팅이 '대체 가능하고 내구성이 뛰어나며 임대 가능성이 높다'고 말합니다.",
       "summary_kr": "엔비디아 CEO 젠슨 황(Jensen Huang)은 AI 컴퓨팅 하드웨어가 \"대체 가능하고 내구성이 뛰어나며 임대 가능성이 높다\"고 언급하면서 가치 있고 금융 가능한 자산이라는 자신의 견해를 재차 밝혔습니다. 이 성명은 Nvidia의 3년 된 H100 GPU의 임대 가격이 2배 올랐기 때문에 나온 것입니다."
     },
@@ -103,8 +178,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-shares-sold-by-first-pacific-financial-2026-09-08/",
       "source": "MarketBeat",
       "published_at": "2026-09-08T07:42:27+00:00",
-      "sentiment": 0.323163,
-      "change_pct": 0.84
+      "sentiment": 0.289615,
+      "change_pct": -1.58
     },
     {
       "id": "av_7a662eddaf4c4c",
@@ -116,8 +191,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-groupe-la-francaise-sells-39152-shares-of-advanced-micro-devices-inc-amd-2026-09-08/",
       "source": "MarketBeat",
       "published_at": "2026-09-08T08:10:48+00:00",
-      "sentiment": -0.222541,
-      "change_pct": 0.84
+      "sentiment": -0.216457,
+      "change_pct": -1.58
     },
     {
       "id": "av_ba54c5682d5a78",
@@ -129,8 +204,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-hsbc-holdings-plc-has-3298-million-stock-position-in-gen-digital-inc-gen-2026-09-08/",
       "source": "MarketBeat",
       "published_at": "2026-09-08T08:15:48+00:00",
-      "sentiment": 0.191348,
-      "change_pct": 0.84
+      "sentiment": 0.183189,
+      "change_pct": -1.58
     },
     {
       "id": "av_727ccc0555b6f0",
@@ -142,35 +217,43 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-decreases-holdings-in-advanced-micro-devices-inc-amd-2026-09-08/",
       "source": "MarketBeat",
       "published_at": "2026-09-08T09:10:48+00:00",
-      "sentiment": -0.111486,
-      "change_pct": 0.84
+      "sentiment": -0.145919,
+      "change_pct": -1.58
     },
     {
-      "id": "f_b974a1b90a1447",
+      "id": "f_4a50a4194edd9b",
       "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "ma",
-      "title": "NVIDIA's Hugging Face Buyout: Can It Further Strengthen AI Dominance?",
-      "summary": "NVDA's $12.93B Hugging Face deal is likely to deepen its AI moat by combining chip leadership with a vast open-model platform and developer ecosystem.",
-      "url": "https://finnhub.io/api/news?id=4df185ff83b06064554ebc4b156bf25818d6cd0736a67ece35fa222b6593c0a6",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:02:00+00:00",
-      "change_pct": 0.84,
-      "title_kr": "NVIDIA의 Hugging Face 인수: AI 지배력을 더욱 강화할 수 있을까요?",
-      "summary_kr": "NVDA의 129억 3천만 달러 규모의 Hugging Face 거래는 칩 리더십과 광범위한 개방형 모델 플랫폼 및 개발자 생태계를 결합하여 AI 해자를 ​​심화시킬 가능성이 높습니다."
+      "ticker": "INTC",
+      "category": "general",
+      "title": "These S&P500 stocks are gapping in today's session",
+      "summary": "Curious about the market action on Tuesday? Dive into the US markets to explore the gap up and gap down stocks in the S&P500 index during today's session.",
+      "url": "https://finnhub.io/api/news?id=e2298894073c51c74836efc46f018b354d3be515b46afc56384ad9e22797cc5f",
+      "source": "ChartMill",
+      "published_at": "2026-09-08T14:35:01+00:00"
     },
     {
-      "id": "av_a74e4a8852e1da",
+      "id": "av_0951bb3cf3926d",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Agur Provident & Training Funds Management Ltd. Takes $12.26 Million Position in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Agur Provident & Training Funds Management Ltd. has acquired a new stake of 22,435 shares in Advanced Micro Devices, Inc. (NASDAQ:AMD), valued at approximately $12.26 million. This investment now represents 2.9% of Agur Provident & Training Funds Management Ltd.'s portfolio. Mean",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-agur-provident-training-funds-management-ltd-takes-1226-million-position-in-advanced-micro-devices-inc-amd-2026-09-08/",
+      "title": "Advanced Micro Devices, Inc. $AMD Shares Acquired by Range Advisory LLC",
+      "summary": "Range Advisory LLC increased its stake in Advanced Micro Devices (AMD) by 47% in the second quarter, bringing its total holdings to 5,954 shares valued at $3.46 million. The semiconductor manufacturer reported strong Q2 results with revenue up 50.1% year-over-year to $11.54 billi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-acquired-by-range-advisory-llc-2026-09-08/",
       "source": "MarketBeat",
-      "published_at": "2026-09-08T07:27:36+00:00",
-      "sentiment": -0.144763,
-      "change_pct": 0.84
+      "published_at": "2026-09-08T09:40:23+00:00",
+      "sentiment": -0.121868,
+      "change_pct": -1.58
+    },
+    {
+      "id": "f_45dd70edcd2c71",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "general",
+      "title": "These S&P500 stocks are moving in today's pre-market session",
+      "summary": "Stay updated with the S&P500 stocks that are on the move in today's pre-market session.",
+      "url": "https://finnhub.io/api/news?id=00df6df6df67101935570b3d09b4f6fb117c7f4bf5fcbd493dfc9d008f76108f",
+      "source": "ChartMill",
+      "published_at": "2026-09-08T12:35:00+00:00"
     },
     {
       "id": "av_1d7d6ca7c4d12f",
@@ -182,8 +265,21 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-formuepleje-a-s-purchases-new-position-in-advanced-micro-devices-inc-amd-2026-09-08/",
       "source": "MarketBeat",
       "published_at": "2026-09-08T08:10:48+00:00",
-      "sentiment": 0.124332,
-      "change_pct": 0.84
+      "sentiment": 0.10879,
+      "change_pct": -1.58
+    },
+    {
+      "id": "av_a74e4a8852e1da",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Agur Provident & Training Funds Management Ltd. Takes $12.26 Million Position in Advanced Micro Devices, Inc. $AMD",
+      "summary": "Agur Provident & Training Funds Management Ltd. has acquired a new stake of 22,435 shares in Advanced Micro Devices, Inc. (NASDAQ:AMD), valued at approximately $12.26 million. This investment now represents 2.9% of Agur Provident & Training Funds Management Ltd.'s portfolio. Mean",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-agur-provident-training-funds-management-ltd-takes-1226-million-position-in-advanced-micro-devices-inc-amd-2026-09-08/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-08T07:27:36+00:00",
+      "sentiment": -0.123399,
+      "change_pct": -1.58
     },
     {
       "id": "av_c96937a8096497",
@@ -195,33 +291,8 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-purchases-267375-shares-of-blackstone-inc-bx-2026-09-08/",
       "source": "MarketBeat",
       "published_at": "2026-09-08T07:47:22+00:00",
-      "sentiment": 0.117293,
-      "change_pct": 0.84
-    },
-    {
-      "id": "av_a341cc9a4f4fa2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Amundi Sells 2,271,529 Shares of Advanced Micro Devices, Inc. $AMD",
-      "summary": "Amundi reduced its stake in Advanced Micro Devices (NASDAQ:AMD) by 16.6% in the second quarter, selling over 2.2 million shares. Despite the sale, AMD remains Amundi's 10th largest holding, and other hedge funds have recently adjusted their positions. Advanced Micro Devices has a",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-sells-2271529-shares-of-advanced-micro-devices-inc-amd-2026-09-08/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-08T07:27:36+00:00",
-      "sentiment": 0.102711,
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_d3cc661dc74522",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Winner Is Down 20% and Clearly the Superior Buy Today",
-      "summary": "Both stocks are growing at an unreal pace.",
-      "url": "https://finnhub.io/api/news?id=df9407e0a8dffe9ecf7bc29c65174d27dbdc17d6666131b99fb96e092bed7c3d",
-      "source": "Yahoo",
-      "published_at": "2026-09-08T11:30:00+00:00",
-      "change_pct": 0.84
+      "sentiment": 0.109591,
+      "change_pct": -1.58
     },
     {
       "id": "f_e41613b132f5b3",
@@ -233,7 +304,20 @@
       "url": "https://finnhub.io/api/news?id=1974437e9e333c761dfc81d65185fce7311cef2f0d19b9170c49844781b9c2c4",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:30:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
+    },
+    {
+      "id": "av_a341cc9a4f4fa2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amundi Sells 2,271,529 Shares of Advanced Micro Devices, Inc. $AMD",
+      "summary": "Amundi reduced its stake in Advanced Micro Devices (NASDAQ:AMD) by 16.6% in the second quarter, selling over 2.2 million shares. Despite the sale, AMD remains Amundi's 10th largest holding, and other hedge funds have recently adjusted their positions. Advanced Micro Devices has a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amundi-sells-2271529-shares-of-advanced-micro-devices-inc-amd-2026-09-08/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-08T07:27:36+00:00",
+      "sentiment": 0.100435,
+      "change_pct": -1.58
     },
     {
       "id": "f_8cd4aff129f143",
@@ -245,7 +329,7 @@
       "url": "https://finnhub.io/api/news?id=42b0fa89a18c5f953890f47eeb2eb8aaa6bda8baf69f16361f27869ff77a4f62",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:27:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_0a5dd9401dfed5",
@@ -257,7 +341,7 @@
       "url": "https://finnhub.io/api/news?id=521e30661f3ae5964e5da146e1415deb5e41084eb85d2b89c50b18cfaf13b751",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:26:01+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_94e46d49820e06",
@@ -269,7 +353,7 @@
       "url": "https://finnhub.io/api/news?id=06e86c9b93bba620ca1678ba1a4b5f6b15d9a2c04d8e11b5dc1fe8a6d6ef35d7",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:24:49+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_2fb0f3ec1d53c9",
@@ -281,7 +365,7 @@
       "url": "https://finnhub.io/api/news?id=b53bb8d82e01abdbc7f0d23b7aabc3b0b3b2f764f71fc8e41592e68774f39ad1",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:22:07+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_0d26e6fb689728",
@@ -293,7 +377,7 @@
       "url": "https://finnhub.io/api/news?id=51899971e35d2189a2b709d38a0ba5429ad9c4887359b14940936c952b8cf5ac",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:20:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_d3beeec9fc711d",
@@ -305,7 +389,7 @@
       "url": "https://finnhub.io/api/news?id=e0f5bcc18d20e98e8df0e778ea53ec2f5018acfaf24ba7b7bd7210ec7d584bfd",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:18:24+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_5ebf90db343c48",
@@ -317,7 +401,7 @@
       "url": "https://finnhub.io/api/news?id=4cfc845ce7cf80646fe267b105cba1dc17b3c3766c6c4153236066c5e7971dd6",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:05:15+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_def449e9f2b782",
@@ -329,7 +413,7 @@
       "url": "https://finnhub.io/api/news?id=83131bb9da30bad71fd86bade4b8e1db9daf1af9750b037c150f7fb49df59e48",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:05:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_54c92033f458d8",
@@ -341,7 +425,19 @@
       "url": "https://finnhub.io/api/news?id=6e7adf4b8d479856a92f142be6315a68b3db378acf4bef2acd39a40cab51f7ce",
       "source": "Yahoo",
       "published_at": "2026-09-08T11:00:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
+    },
+    {
+      "id": "f_81f0b00c6b93e9",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia: Stop The Bubble Talk - This Is An Attractive Buy",
+      "summary": "",
+      "url": "https://finnhub.io/api/news?id=26949a6a30a678ee9df819bcd1f629b2c9f7a5fe81f218e35106d68ae9316ce1",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T10:57:55+00:00",
+      "change_pct": -1.58
     },
     {
       "id": "f_1e44dcb1d573d5",
@@ -353,7 +449,7 @@
       "url": "https://finnhub.io/api/news?id=f4bb2923cd2a75be0ed6c06c0af01ed38c9b7c09c421bcee1b0b311600ab54c2",
       "source": "Yahoo",
       "published_at": "2026-09-08T10:50:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_7107fcb4ef10a3",
@@ -365,7 +461,7 @@
       "url": "https://finnhub.io/api/news?id=2573ce633cd4869f362910abc24de8889a88ecad7310567a2357d8726dc75ba7",
       "source": "Yahoo",
       "published_at": "2026-09-08T10:37:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_eb5c50a1670759",
@@ -377,7 +473,7 @@
       "url": "https://finnhub.io/api/news?id=2baa68ad1716d81df4ba1ece72f946f03f07ab847efe6ffb67213bc1e11dedb7",
       "source": "Yahoo",
       "published_at": "2026-09-08T10:35:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_c613769af3d105",
@@ -389,7 +485,7 @@
       "url": "https://finnhub.io/api/news?id=639015f8ff83b4635033ea76f1d1eac1c4698d2ed83d3bd69a38f589d19d5b66",
       "source": "Yahoo",
       "published_at": "2026-09-08T10:25:01+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_1ba845791879ef",
@@ -401,7 +497,7 @@
       "url": "https://finnhub.io/api/news?id=06faf8cf6b5639fedc97af657068687548b9e54dc8b3ce7ede6b582b414d7ad7",
       "source": "Yahoo",
       "published_at": "2026-09-08T10:20:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_e60af76af8a897",
@@ -413,7 +509,54 @@
       "url": "https://finnhub.io/api/news?id=3b8d5cb653cdb3d52b2d7abe1116af6cbfbda451440d507791bdb9f36d83fe28",
       "source": "Yahoo",
       "published_at": "2026-09-08T10:05:01+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
+    },
+    {
+      "id": "f_4674be4d544b15",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "general",
+      "title": "Roivant Sciences, Pharvaris, IonQ And Other Big Stocks Moving Higher On Tuesday",
+      "summary": "U.S. stocks fell Tuesday, but Roivant surged 16% on positive PH-ILD trial data. Pharvaris, Solaris, IonQ and quantum stocks also posted strong gains.",
+      "url": "https://finnhub.io/api/news?id=a4b85fb554a6fc1cc365a2cf88bfe4fe9a653883b671ed409d42e42be50082a2",
+      "source": "Benzinga",
+      "published_at": "2026-09-08T10:03:08+00:00"
+    },
+    {
+      "id": "f_0202dd8f2d23b0",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Stock Picks From Seeking Alpha's August 2026 New Analysts",
+      "summary": "Meet 25 new Seeking Alpha analysts with fresh stock ideas plus catalysts across sectors.",
+      "url": "https://finnhub.io/api/news?id=b1c015ec3c94035a159c3774de031e653d04aab5247cb180802e09d73bcb2649",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "change_pct": -1.58
+    },
+    {
+      "id": "f_922c5edd426f3a",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "American Century Value Fund Q2 2026 Contributors And Detractors",
+      "summary": "Key contributors include Infineon Technologies, Teradyne and Walmart. Learn more about key detractors.",
+      "url": "https://finnhub.io/api/news?id=4d692700574c5bd991de1cb46707cbbc7162de9134cc7fb87a13d812a326409e",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T10:00:00+00:00",
+      "change_pct": -0.02
+    },
+    {
+      "id": "f_ac28ded0c1a3af",
+      "provider": "finnhub",
+      "ticker": "AVGO",
+      "category": "general",
+      "title": "Broadcom: Pay Attention, This Was The Turning Point",
+      "summary": "Broadcom Q3 surge: 86% revenue growth, AI chip momentum, and Strong Buy case with a $588 target. Click for more on AVGO stock.",
+      "url": "https://finnhub.io/api/news?id=bdd7fcd79c2a0391dded454c41114f8c087f542306ff2eed1ab0386a4f267128",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T09:57:04+00:00",
+      "change_pct": 3.49
     },
     {
       "id": "f_56eb697e12adad",
@@ -425,7 +568,42 @@
       "url": "https://finnhub.io/api/news?id=1719eefe6bd04b3bcb4302ce172fcf4a0dfe0a11b9b267688d448e780f7b0dfa",
       "source": "Yahoo",
       "published_at": "2026-09-08T09:50:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
+    },
+    {
+      "id": "f_46cfd4a6e3815a",
+      "provider": "finnhub",
+      "ticker": "NBIS",
+      "category": "general",
+      "title": "Nebius: Wall Street Is Watching The Wrong Number",
+      "summary": "Nebius targets $3.0-$3.4 billion in 2026 revenue and a $7-$9 billion exit run rate as AI capacity expands. Read more on NBIS stock here.",
+      "url": "https://finnhub.io/api/news?id=0fdc31b576981d65b376e8d795420bf14d04adb620d61a7e2d827f16ad1c29c6",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T09:50:00+00:00"
+    },
+    {
+      "id": "f_c6d75f4c6903ca",
+      "provider": "finnhub",
+      "ticker": "MSFT",
+      "category": "general",
+      "title": "Oracle Deserves One Last Chance",
+      "summary": "Oracle faces downgrades and AI capex scrutiny after Q4 FY26. Click for more on ORCL stock.",
+      "url": "https://finnhub.io/api/news?id=e96e7f50e5f996a18af5e0e14ecb2604937d6dc46fd229335d03f3423f8cc69a",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T09:44:25+00:00",
+      "change_pct": -1.35
+    },
+    {
+      "id": "f_c32e0a49f7e478",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "What's Going On With Arm Holdings Stock Tuesday?",
+      "summary": "Arm stock (NASDAQ: ARM) rises as chip shares outperform. Read technical levels, price predictions, and key support targets.",
+      "url": "https://finnhub.io/api/news?id=1c83fea0b958898e6a6f30deb00344225f86cc65ee2af3502e544d5fef3a8b11",
+      "source": "Benzinga",
+      "published_at": "2026-09-08T09:40:29+00:00",
+      "change_pct": 6.66
     },
     {
       "id": "f_e1fa1ca191e0d5",
@@ -437,7 +615,7 @@
       "url": "https://finnhub.io/api/news?id=00ae4e90c422d527a2980d39fcfcaa57b371385cb9c5aa09994450b853810838",
       "source": "Yahoo",
       "published_at": "2026-09-08T09:35:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_e19b9228056da1",
@@ -449,7 +627,18 @@
       "url": "https://finnhub.io/api/news?id=c7296fa1cf1b275a39380d8958211ad5c1a51bf6962dbe964bd77d7df7bcad30",
       "source": "Yahoo",
       "published_at": "2026-09-08T09:34:02+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
+    },
+    {
+      "id": "f_abe826aae44166",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "general",
+      "title": "Micron: My Target Was Hit, And One Question Is Still Open",
+      "summary": "Micron Technology, Inc. downgraded after a 23% rally as valuation upside narrows. Learn key risks in $100B contracts, HBM exposure & more. Click for a MU update.",
+      "url": "https://finnhub.io/api/news?id=5db811ef5dff74245330bfad6de1753fb2458e56f18a2bc98b20e6ef559c57b3",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T09:30:56+00:00"
     },
     {
       "id": "f_b85e12d7f13d13",
@@ -463,6 +652,45 @@
       "published_at": "2026-09-08T09:01:49+00:00"
     },
     {
+      "id": "f_164ff496a6b6f5",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "Meta: Such An Opportunity May Take Years To Happen Again",
+      "summary": "Meta Platforms is undergoing a major transformation, shifting from asset-light to asset-heavy with aggressive AI infrastructure CapEx.",
+      "url": "https://finnhub.io/api/news?id=30db95c94932baee7251d2a8df11669306ebbde96a94ed6ab177ca5122b952a2",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T09:01:03+00:00",
+      "change_pct": -0.0
+    },
+    {
+      "id": "f_f5438b49163ebe",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Ride The Bull Before The Market Comes To Its Senses",
+      "summary": "Tech sector remains undervalued, with >12% below fair value, despite aggressive CapEx and capacity expansion from hyperscalers. Read full analysis here.",
+      "url": "https://finnhub.io/api/news?id=72035caca0246098310e5716ec070c77b0f4156beec0e808277e82d80b170238",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T09:00:00+00:00",
+      "change_pct": -1.58
+    },
+    {
+      "id": "av_1dce7bd1815e23",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Thomasville National Bank Acquires New Shares in NVIDIA Corporation $NVDA",
+      "summary": "Thomasville National Bank recently acquired 186,146 shares of NVIDIA Corporation, valuing the new position at approximately $37.2 million, which now constitutes about 2% of its investment portfolio. This comes amidst significant institutional interest in NVIDIA, with several othe",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-thomasville-national-bank-acquires-new-shares-in-nvidia-corporation-nvda-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T09:12:52+00:00",
+      "sentiment": 0.498125,
+      "change_pct": -1.58,
+      "title_kr": "Thomasville National Bank, NVIDIA Corporation $NVDA의 새 주식 인수",
+      "summary_kr": "Thomasville National Bank는 최근 NVIDIA Corporation의 주식 186,146주를 인수하여 새로운 지위의 가치를 약 3,720만 달러로 평가했으며, 이는 현재 투자 포트폴리오의 약 2%를 구성합니다. 이는 NVIDI에 대한 제도적 관심이 상당한 가운데 나온 것입니다."
+    },
+    {
       "id": "f_e6961e0a49d616",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -472,7 +700,19 @@
       "url": "https://finnhub.io/api/news?id=7213bb53a2bf983d35da22a1fe7a6671cf2f16584298d348bc1551543ce3869c",
       "source": "Yahoo",
       "published_at": "2026-09-08T08:51:00+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
+    },
+    {
+      "id": "f_c0efe53edc3f1e",
+      "provider": "finnhub",
+      "ticker": "MSFT",
+      "category": "general",
+      "title": "Chevron's Project Kilby, Venezuela, And Why The Stock Is So Appealing Here",
+      "summary": "Chevron is a direct beneficiary of the Iran war and the resulting higher commodity prices for oil, gasoline, diesel, and chemicals while global strategic...",
+      "url": "https://finnhub.io/api/news?id=7ab7c7759444f8c2d84ed999c1c1a448c599b949d56c31bc754dcdf764daf81b",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T08:37:54+00:00",
+      "change_pct": -1.35
     },
     {
       "id": "f_dfb26210bb1bc8",
@@ -484,22 +724,67 @@
       "url": "https://finnhub.io/api/news?id=d5a94a395e24ff1e3dacea1d66ee21aef24b3c94faaaa133f9831ebf2832e600",
       "source": "Yahoo",
       "published_at": "2026-09-08T08:31:35+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
-      "id": "av_26c06885a402ad",
+      "id": "f_c79cdcbbb5325d",
+      "provider": "finnhub",
+      "ticker": "AVGO",
+      "category": "general",
+      "title": "Dividend Harvesting Portfolio Week 288: $28,800 Allocated, $3,289.51 In Projected Dividends",
+      "summary": "Dividend Harvesting Portfolio update: 45.8% ROI, $3,289 forward annual income, 7.83% yield. Click here to read more.",
+      "url": "https://finnhub.io/api/news?id=d3d1a380b95492109fe7307d02168b156b4c4a80de9fc5a262c0b1e539182525",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T08:30:38+00:00",
+      "change_pct": 3.49
+    },
+    {
+      "id": "f_2c3f3b0960883d",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "AMD Is Not Expensive, It Is Early",
+      "summary": "",
+      "url": "https://finnhub.io/api/news?id=cffdb75f55669e68e9f232cf93c0045becf263458e1a190e7ee324c698f3d3a6",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T08:00:01+00:00",
+      "change_pct": 6.66
+    },
+    {
+      "id": "f_8caf395f6aac47",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Semiconductor ETFs: The Good, The Bad, And The Ugly",
+      "summary": "AI infrastructure demand is strong, but expectations and fragile financing raise risks. See why we rate broad U.S. equities and semiconductor ETFs a strong sell.",
+      "url": "https://finnhub.io/api/news?id=a303f880b87da2d533ae2b1983cdce7210e78c86385ee2bb8ef6e281c218849e",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T08:00:00+00:00",
+      "change_pct": -1.58
+    },
+    {
+      "id": "f_98a0bc1aaa2884",
+      "provider": "finnhub",
+      "ticker": "SOFI",
+      "category": "general",
+      "title": "Affirm: The Affirm Card Engine Is Kicking Off",
+      "summary": "Affirm Holdings sees surging BNPL and Affirm Card GMV (20% of total) despite macro headwinds. Click here to read more on AFRM stock.",
+      "url": "https://finnhub.io/api/news?id=928b7bbd8663219b10c0f690b5e174e0e9174fd569d0113526732d2700dd1649",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T07:51:22+00:00"
+    },
+    {
+      "id": "av_14c4dd6aa1a1c1",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
-      "summary": "Shares of Nvidia supplier Wistron Corporation fell over 6% after announcing a $1.47 billion global depositary receipt offering. The Taiwanese tech giant aims to raise funds for procuring raw materials and expanding its AI server business, including investments in facilities in Ta",
-      "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
-      "source": "CNBC",
-      "published_at": "2026-09-08T02:41:34+00:00",
-      "sentiment": -0.128487,
-      "change_pct": 0.84,
-      "title_kr": "Nvidia 공급업체 Wistron의 주가는 15억 달러 규모의 글로벌 주식 매각 발표 후 하락했습니다.",
-      "summary_kr": "Nvidia 공급업체 Wistron Corporation의 주가는 14억 7천만 달러 규모의 글로벌 예탁 영수증 제공을 발표한 후 6% 이상 하락했습니다. 대만 기술 대기업은 원자재 조달을 위한 자금 조달과 투자를 포함한 AI 서버 사업 확장을 목표로 하고 있습니다."
+      "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
+      "summary": "Marvell Technology (MRVL) stock has seen significant growth in 2026, driven by high demand for its AI-related chips. The company's upcoming Investor Day on October 6th is anticipated to be a major catalyst, potentially revealing further growth drivers. While the stock has a high ",
+      "url": "https://currently.att.yahoo.com/att/buy-marvell-technology-stock-oct-181421448.html",
+      "source": "Currently.com",
+      "published_at": "2026-09-07T17:57:08+00:00",
+      "sentiment": 0.33967,
+      "change_pct": -1.58
     },
     {
       "id": "f_b41ea6001c218c",
@@ -511,7 +796,7 @@
       "url": "https://finnhub.io/api/news?id=cdd409914fb4a6ef22a4d863607f8df11c16ec307c32f38c368195470e15173c",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T07:30:12+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_00cd5233e62599",
@@ -523,6 +808,32 @@
       "url": "https://finnhub.io/api/news?id=42c612dbc50821aec4300518f593a2cfb4b9f86d1a2cbb0bcfe763b7baffd53f",
       "source": "Yahoo",
       "published_at": "2026-09-08T07:25:00+00:00"
+    },
+    {
+      "id": "f_77feae15b2d292",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "IREN’s 2GW Sweetwater Hub Conditionally Included In Electric Reliability Council Of Texas Batch Zero Process As Base Load",
+      "summary": "IREN Limited (NASDAQ:IREN) (&#34;IREN&#34;) today announced that its 2GW Sweetwater Hub (Sweetwater 1 and Sweetwater 2) has been conditionally included in the Electric Reliability Council of Texas (&#34;ERCOT&#34;)",
+      "url": "https://finnhub.io/api/news?id=8a24f54e3a9d7dc3f448e60005eadabe8ba4db6717ace2ee72bb8fb8b0a3c63a",
+      "source": "Benzinga",
+      "published_at": "2026-09-08T07:07:40+00:00"
+    },
+    {
+      "id": "av_26c06885a402ad",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia supplier Wistron's shares drop after it announces $1.5 billion global stock sale",
+      "summary": "Shares of Nvidia supplier Wistron Corporation fell over 6% after announcing a $1.47 billion global depositary receipt offering. The Taiwanese tech giant aims to raise funds for procuring raw materials and expanding its AI server business, including investments in facilities in Ta",
+      "url": "https://www.cnbc.com/2026/09/08/nvidia-supplier-wistron-share-sale.html",
+      "source": "CNBC",
+      "published_at": "2026-09-08T02:41:34+00:00",
+      "sentiment": -0.109672,
+      "change_pct": -1.58,
+      "title_kr": "Nvidia 공급업체 Wistron의 주가는 15억 달러 규모의 글로벌 주식 매각 발표 후 하락했습니다.",
+      "summary_kr": "Nvidia 공급업체 Wistron Corporation의 주가는 14억 7천만 달러 규모의 글로벌 예탁 영수증 제공을 발표한 후 6% 이상 하락했습니다. 대만 기술 대기업은 원자재 조달을 위한 자금 조달과 투자를 포함한 AI 서버 사업 확장을 목표로 하고 있습니다."
     },
     {
       "id": "f_7d6301a446fece",
@@ -556,7 +867,7 @@
       "url": "https://finnhub.io/api/news?id=cdd42ce8f29ed0a1e06abdc3a3c6ea85ccf31fd4ee553efda116030f96416f70",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T06:30:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_0e81d88543c513",
@@ -568,7 +879,7 @@
       "url": "https://finnhub.io/api/news?id=166efa3d55187ff04e5a06cda7cdeb03a339adce7f4e5daf2cdb0c6360e6f0cc",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T06:29:44+00:00",
-      "change_pct": -0.15
+      "change_pct": -0.63
     },
     {
       "id": "f_44cf5d0cc831b0",
@@ -580,7 +891,19 @@
       "url": "https://finnhub.io/api/news?id=3f6ec1b9d6f274f5f3fd77b2010b11c4b1c8b8f4cc95e56aaa7ba70f620d8ee7",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T06:21:28+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
+    },
+    {
+      "id": "f_be2de35db89437",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Gene Munster Predicts TSLA Stock Rally Amid NHTSA Cybercab Probe, Calls It a 'Speed Bump' For Elon Musk: 'Confidence in Safety…'",
+      "summary": "Gene Munster says Elon Musk-led Tesla&#39;s stock could rally as NHTSA probes its planned 1,000-Cybercab Austin rollout.",
+      "url": "https://finnhub.io/api/news?id=c88ce2c4fc68b97dc4bb06e09dd39c0d2000f4389c739a33832ee61c32bd1307",
+      "source": "Benzinga",
+      "published_at": "2026-09-08T06:08:49+00:00",
+      "change_pct": 3.19
     },
     {
       "id": "f_d88ef06ac87f8f",
@@ -594,6 +917,18 @@
       "published_at": "2026-09-08T06:05:00+00:00"
     },
     {
+      "id": "f_2fce8f76b8e7da",
+      "provider": "finnhub",
+      "ticker": "AVGO",
+      "category": "general",
+      "title": "5 Stock Picks Last Week From Wall Street's Most Accurate Analysts",
+      "summary": "U.S. stocks fell as strong jobs data boosted Fed hike odds; Benzinga highlighted top analysts’ latest picks, including XTND, AVGO, AMBA and Intel.",
+      "url": "https://finnhub.io/api/news?id=34807f05a11839bed702639eb164a4681f995f33fc8e756592e78570e1861bc0",
+      "source": "Benzinga",
+      "published_at": "2026-09-08T05:50:22+00:00",
+      "change_pct": 3.49
+    },
+    {
       "id": "f_f0d2d96a3756d9",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -603,7 +938,7 @@
       "url": "https://finnhub.io/api/news?id=6186524b09492f63137ce61312cca7992e964b0d6c47c8ecd7d62870ed4b7885",
       "source": "Yahoo",
       "published_at": "2026-09-08T05:36:55+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_4abe86fc4b77af",
@@ -626,7 +961,7 @@
       "url": "https://finnhub.io/api/news?id=28d77a543562fd9f6146b87c0b829051f301cc0d522635989b101fe2384de271",
       "source": "Yahoo",
       "published_at": "2026-09-08T05:20:00+00:00",
-      "change_pct": -0.15
+      "change_pct": -0.63
     },
     {
       "id": "f_cffb17a3367cf9",
@@ -638,22 +973,7 @@
       "url": "https://finnhub.io/api/news?id=1b1c80f7023d444030e48226f4bef51e44165fbadfe511c40f3248badcec60de",
       "source": "Yahoo",
       "published_at": "2026-09-08T05:00:00+00:00",
-      "change_pct": -0.15
-    },
-    {
-      "id": "av_1dce7bd1815e23",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Thomasville National Bank Acquires New Shares in NVIDIA Corporation $NVDA",
-      "summary": "Thomasville National Bank recently acquired 186,146 shares of NVIDIA Corporation, valuing the new position at approximately $37.2 million, which now constitutes about 2% of its investment portfolio. This comes amidst significant institutional interest in NVIDIA, with several othe",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-thomasville-national-bank-acquires-new-shares-in-nvidia-corporation-nvda-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T09:12:52+00:00",
-      "sentiment": 0.484295,
-      "change_pct": 0.84,
-      "title_kr": "Thomasville National Bank, NVIDIA Corporation $NVDA의 새 주식 인수",
-      "summary_kr": "Thomasville National Bank는 최근 NVIDIA Corporation의 주식 186,146주를 인수하여 새로운 지위의 가치를 약 3,720만 달러로 평가했으며, 이는 현재 투자 포트폴리오의 약 2%를 구성합니다. 이는 NVIDI에 대한 제도적 관심이 상당한 가운데 나온 것입니다."
+      "change_pct": -0.63
     },
     {
       "id": "f_c45d44ad4e54f0",
@@ -665,7 +985,7 @@
       "url": "https://finnhub.io/api/news?id=447a7c57d6676d7639d07b87d03a49ca7c6e8f69f79bb0584d383acbde0a2f73",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T04:35:50+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_85ab31e785999b",
@@ -677,7 +997,7 @@
       "url": "https://finnhub.io/api/news?id=08afcb3565c8c33352192cc15d501f436be72460e483b93d42497901d8756d73",
       "source": "Yahoo",
       "published_at": "2026-09-08T04:01:00+00:00",
-      "change_pct": -0.15
+      "change_pct": -0.63
     },
     {
       "id": "f_7ba912a17db0a7",
@@ -689,7 +1009,7 @@
       "url": "https://finnhub.io/api/news?id=e413e90e076e239fa7d446b88ee4c8a74c9a527007c64decee8a38d8aa618a3c",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T03:50:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_efb64ad8e54d06",
@@ -701,19 +1021,7 @@
       "url": "https://finnhub.io/api/news?id=2fb049fc74d6ebbd6de8a457e3de8b215c97e47881d11a5f5902efae9f70510b",
       "source": "SeekingAlpha",
       "published_at": "2026-09-08T03:15:20+00:00",
-      "change_pct": 0.21
-    },
-    {
-      "id": "f_ee38a90ab99b39",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Peter Thiel's Fund's Single Biggest Reported Position Is Amazon. $10,000 Invested in Amazon 10 Years Ago Is Worth About $66,000 Today.",
-      "summary": "A 555% run in a decade -- built on profits that grew even faster than the stock.",
-      "url": "https://finnhub.io/api/news?id=921bd963771d9c7aa2714825079323daba809eac55ed70aed48f52818fbb79f7",
-      "source": "Yahoo",
-      "published_at": "2026-09-08T02:54:01+00:00",
-      "change_pct": -0.15
+      "change_pct": 3.49
     },
     {
       "id": "av_f04f9eebcea6a3",
@@ -725,53 +1033,20 @@
       "url": "https://www.benzinga.com/crypto/cryptocurrency/26/09/61648570/nvidia-tesla-crypto-trades",
       "source": "Benzinga",
       "published_at": "2026-09-07T16:11:27+00:00",
-      "sentiment": 0.26553,
-      "change_pct": 0.84
+      "sentiment": 0.269749,
+      "change_pct": -1.58
     },
     {
-      "id": "av_b227c8258ae52b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_ee38a90ab99b39",
+      "provider": "finnhub",
+      "ticker": "AMZN",
       "category": "general",
-      "title": "Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be",
-      "summary": "Despite AMD posting strong Q2 AI earnings, including doubled Data Center revenue and positive Q3 guidance, its stock dropped due to product-mix margin concerns and China export charges. Analysts remain bullish, with consensus EPS estimates for 2027 significantly increasing, sugge",
-      "url": "https://247wallst.com/investing/2026/09/07/wall-street-is-worried-about-amd-heres-why-long-term-investors-shouldnt-be/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-09-07T17:30:18+00:00",
-      "sentiment": 0.2314,
-      "change_pct": 0.84,
-      "title_kr": "월스트리트는 AMD에 대해 걱정하고 있습니다. 장기 투자자가 그렇게 해서는 안 되는 이유는 다음과 같습니다.",
-      "summary_kr": "AMD는 데이터 센터 매출 두 배 증가, 긍정적인 3분기 가이던스 등 강력한 2분기 AI 수익을 기록했음에도 불구하고 제품 믹스 마진 우려와 중국 수출 비용으로 인해 주가가 하락했습니다. 분석가들은 여전히 ​​낙관적이며 2027년에 대한 컨센서스 EPS 추정치가 상당함"
-    },
-    {
-      "id": "av_efedc7c8e4ab33",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Broadcom Drops 10% in 3 Months: Buy, Sell or Hold the Stock?",
-      "summary": "Broadcom's shares have dropped 9.7% over the past three months, underperforming the sector due to margin pressure from its rising AI mix, supply constraints, and weak non-AI business. Despite significant AI revenue growth and optimistic future outlooks, the stock is considered ov",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-drops-10-3-months-174000124.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-07T12:40:13+00:00",
-      "sentiment": 0.349838,
-      "change_pct": 0.84,
-      "title_kr": "Broadcom, 3개월 만에 10% 하락: 주식을 매수, 매도, 보유하시겠습니까?",
-      "summary_kr": "Broadcom의 주가는 지난 3개월 동안 9.7% 하락했으며, AI 믹스 증가로 인한 마진 압박, 공급 제약, 비AI 사업 부진으로 인해 해당 부문의 실적을 저조했습니다. 상당한 AI 수익 성장과 낙관적인 미래 전망에도 불구하고,"
-    },
-    {
-      "id": "av_062eb4f3938b62",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple’s Playbook Work?",
-      "summary": "Jim Cramer has proposed that NVIDIA Corporation undertake a $500 billion share buyback, using Apple Inc.'s strategy as a model. While Apple's substantial cash generation supports its buybacks, Nvidia faces different financial demands due to its significant capital commitments for",
-      "url": "https://uk.finance.yahoo.com/news/jim-cramer-wants-nvidia-buy-203415967.html",
-      "source": "Yahoo Finance UK",
-      "published_at": "2026-09-07T20:34:41+00:00",
-      "sentiment": 0.132483,
-      "change_pct": 0.84,
-      "title_kr": "Jim Cramer는 Nvidia가 5000억 달러를 다시 매입하길 원합니다. Apple의 플레이북이 작동할 수 있나요?",
-      "summary_kr": "Jim Cramer는 Apple Inc.의 전략을 모델로 삼아 NVIDIA Corporation이 5,000억 달러 규모의 자사주 매입을 제안했습니다. Apple의 상당한 현금 창출로 자사주 매입을 지원하는 반면, Nvidia는 상당한 상한액으로 인해 다양한 재정적 수요에 직면해 있습니다."
+      "title": "Peter Thiel's Fund's Single Biggest Reported Position Is Amazon. $10,000 Invested in Amazon 10 Years Ago Is Worth About $66,000 Today.",
+      "summary": "A 555% run in a decade -- built on profits that grew even faster than the stock.",
+      "url": "https://finnhub.io/api/news?id=921bd963771d9c7aa2714825079323daba809eac55ed70aed48f52818fbb79f7",
+      "source": "Yahoo",
+      "published_at": "2026-09-08T02:54:01+00:00",
+      "change_pct": -0.63
     },
     {
       "id": "av_c07c4d59219355",
@@ -783,36 +1058,81 @@
       "url": "https://app.dealroom.co/news/note/hut-8-lands-7-5b-financing-as-ai-pivot-accelerates-with-anthropic-linked-deal",
       "source": "Dealroom",
       "published_at": "2026-09-07T11:54:12+00:00",
-      "sentiment": 0.33222,
-      "change_pct": 0.84
+      "sentiment": 0.34785,
+      "change_pct": -1.58
     },
     {
-      "id": "f_ce4eca64f97e5d",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Meta Platforms Is Too Attractive To Ignore",
-      "summary": "Meta Platforms' revenue and cash flows rise despite recent stock underperformance versus the S&P 500. Find out why META stock is a Buy.",
-      "url": "https://finnhub.io/api/news?id=14457dc17f1060ef9e48b97de9cd538c9cae4ff978c2f856434285df49b8fd30",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-08T00:58:08+00:00",
-      "change_pct": 1.0,
-      "title_kr": "메타 플랫폼은 무시하기에는 너무 매력적입니다",
-      "summary_kr": "Meta Platforms의 수익과 현금 흐름은 S&P 500 대비 최근 주가 저조에도 불구하고 상승합니다. META 주식이 매수인 이유를 알아보세요."
-    },
-    {
-      "id": "f_39b096f37e68ad",
-      "provider": "finnhub",
+      "id": "av_8f729476561424",
+      "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Interactive Brokers Earns Interest on $182 Billion of Its Clients' Idle Cash. Will Anthropic's IPO Drain It?",
-      "summary": "What does a record-size stock market debut do to a broker that earns interest on its clients' idle cash?",
-      "url": "https://finnhub.io/api/news?id=8e26c7512f578b185d2d9f1a8311b04cd06c7186d7f9ec41566b78c0c296abeb",
-      "source": "Yahoo",
-      "published_at": "2026-09-08T00:46:01+00:00",
-      "change_pct": 0.84,
-      "title_kr": "Interactive Brokers는 고객의 유휴 현금 1,820억 달러에 대해 이자를 얻습니다. Anthropic의 IPO로 인해 손실이 발생할까요?",
-      "summary_kr": "기록적인 규모의 주식 시장 데뷔는 고객의 유휴 현금에 대한 이자를 얻는 중개인에게 어떤 영향을 미칠까요?"
+      "title": "Vancity Investment Management Ltd Invests $2.08 Million in Advanced Micro Devices, Inc. $AMD",
+      "summary": "Vancity Investment Management Ltd has invested $2.08 million in Advanced Micro Devices (AMD), acquiring 3,585 shares in the second quarter. AMD reported strong quarterly results with a 50.1% year-over-year revenue increase and EPS of $1.66, driven by data-center growth and AI par",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-vancity-investment-management-ltd-invests-208-million-in-advanced-micro-devices-inc-amd-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T09:42:44+00:00",
+      "sentiment": 0.346741,
+      "change_pct": -1.58,
+      "title_kr": "Vancity Investment Management Ltd, Advanced Micro Devices, Inc.에 208만 달러 투자 $AMD",
+      "summary_kr": "Vancity Investment Management Ltd는 AMD(Advanced Micro Devices)에 208만 달러를 투자하여 2분기에 3,585주를 인수했습니다. AMD는 데이터 중심에 힘입어 전년 대비 50.1%의 매출 증가와 1.66달러의 EPS를 기록하며 강력한 분기별 결과를 보고했습니다."
+    },
+    {
+      "id": "av_a618220c50b488",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Oak Ridge Investments LLC Decreases Position in Amazon.com, Inc. $AMZN",
+      "summary": "Oak Ridge Investments LLC significantly reduced its stake in Amazon.com, Inc. (NASDAQ:AMZN) by 70.6% in the second quarter, selling 246,679 shares and retaining 102,773 shares valued at approximately $24.5 million. Despite this, institutional investors still own 72.2% of AMZN, an",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-ridge-investments-llc-decreases-position-in-amazoncom-inc-amzn-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T08:38:15+00:00",
+      "sentiment": 0.345077,
+      "change_pct": -1.58,
+      "title_kr": "Oak Ridge Investments LLC, Amazon.com, Inc.에서 지위 감소 $AMZN",
+      "summary_kr": "Oak Ridge Investments LLC는 2분기에 Amazon.com, Inc.(NASDAQ:AMZN)의 지분을 70.6% 크게 줄여 246,679주를 매각하고 약 2,450만 달러 상당의 102,773주를 보유했습니다. 그럼에도 불구하고 기관투자자들은 여전히"
+    },
+    {
+      "id": "av_87e152e1eb1e9b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Legacy Advisors LLC Has $17.60 Million Stake in Amazon.com, Inc. $AMZN",
+      "summary": "Legacy Advisors LLC significantly increased its stake in Amazon.com, Inc. during the second quarter, now holding 73,840 shares valued at $17.6 million. Despite strong quarterly earnings and bullish analyst ratings with an average price target of $323.26, the company faces concern",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legacy-advisors-llc-has-1760-million-stake-in-amazoncom-inc-amzn-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T08:38:15+00:00",
+      "sentiment": 0.343429,
+      "change_pct": -1.58
+    },
+    {
+      "id": "av_efedc7c8e4ab33",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Broadcom Drops 10% in 3 Months: Buy, Sell or Hold the Stock?",
+      "summary": "Broadcom's shares have dropped 9.7% over the past three months, underperforming the sector due to margin pressure from its rising AI mix, supply constraints, and weak non-AI business. Despite significant AI revenue growth and optimistic future outlooks, the stock is considered ov",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-drops-10-3-months-174000124.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-07T12:40:13+00:00",
+      "sentiment": 0.339402,
+      "change_pct": -1.58,
+      "title_kr": "Broadcom, 3개월 만에 10% 하락: 주식을 매수, 매도, 보유하시겠습니까?",
+      "summary_kr": "Broadcom의 주가는 지난 3개월 동안 9.7% 하락했으며, AI 믹스 증가로 인한 마진 압박, 공급 제약, 비AI 사업 부진으로 인해 해당 부문의 실적을 저조했습니다. 상당한 AI 수익 성장과 낙관적인 미래 전망에도 불구하고,"
+    },
+    {
+      "id": "av_a21e9b0f5ebc98",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Varenne Capital Partners Lowers Stake in Analog Devices, Inc. $ADI",
+      "summary": "Varenne Capital Partners reduced its stake in Analog Devices, Inc. (NASDAQ:ADI) by 13.4% during the second quarter, selling 10,888 shares. Despite this reduction, Analog Devices remains the fund's 9th largest holding, valued at $27.84 million. Other institutional investors, inclu",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-varenne-capital-partners-lowers-stake-in-analog-devices-inc-adi-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T09:50:47+00:00",
+      "sentiment": 0.337927,
+      "change_pct": -1.58,
+      "title_kr": "Varenne Capital Partners, Analog Devices, Inc.의 지분 감소 $ADI",
+      "summary_kr": "Varenne Capital Partners는 2분기 동안 Analog Devices, Inc.(NASDAQ:ADI)의 지분을 13.4% 줄여 10,888주를 매각했습니다. 이러한 감소에도 불구하고 Analog Devices는 2,784만 달러 가치로 여전히 펀드의 9번째로 큰 보유 자산입니다. 다른 기관"
     },
     {
       "id": "av_796078448ca4c6",
@@ -824,8 +1144,8 @@
       "url": "https://currently.att.yahoo.com/att/much-realty-income-o-stock-094000379.html",
       "source": "Currently.com",
       "published_at": "2026-09-07T10:08:40+00:00",
-      "sentiment": 0.347786,
-      "change_pct": 0.84,
+      "sentiment": 0.334479,
+      "change_pct": -1.58,
       "title_kr": "한 달에 500달러의 배당금을 받으려면 부동산 소득(O) 주식이 얼마나 필요합니까?",
       "summary_kr": "이 기사에서는 투자자가 Realty Income(O) 주식에서 매월 500달러의 배당금을 창출하는 데 필요한 자본금을 조사합니다. 현재 배당수익률이 약 5.3%이고 월별 지급액이 주당 0.271달러인 경우, 투자자는 다음과 같은 주식을 소유해야 합니다."
     },
@@ -839,10 +1159,25 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-44432-shares-in-equinix-inc-eqix-bought-by-virginia-retirement-systems-et-al-2026-09-07/",
       "source": "MarketBeat",
       "published_at": "2026-09-07T10:45:33+00:00",
-      "sentiment": 0.330165,
-      "change_pct": 0.84,
+      "sentiment": 0.334404,
+      "change_pct": -1.58,
       "title_kr": "44,432 Equinix, Inc.의 주식 $EQIX는 VIRGINIA RETIREMENT SYSTEMS ET Al에서 구입함",
       "summary_kr": "Virginia Retirement Systems는 최근 Equinix, Inc.(NASDAQ:EQIX)의 주식 44,432주(약 4,630만 달러 상당)를 매입했습니다. 이번 인수는 기관 투자자들이 Equinix 주식의 94.94%를 소유하고 있는 등 기관의 상당한 관심의 일부입니다."
+    },
+    {
+      "id": "av_b227c8258ae52b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Wall Street Is Worried About AMD. Here’s Why Long-Term Investors Shouldn’t Be",
+      "summary": "Despite AMD posting strong Q2 AI earnings, including doubled Data Center revenue and positive Q3 guidance, its stock dropped due to product-mix margin concerns and China export charges. Analysts remain bullish, with consensus EPS estimates for 2027 significantly increasing, sugge",
+      "url": "https://247wallst.com/investing/2026/09/07/wall-street-is-worried-about-amd-heres-why-long-term-investors-shouldnt-be/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-07T17:30:18+00:00",
+      "sentiment": 0.219559,
+      "change_pct": -1.58,
+      "title_kr": "월스트리트는 AMD에 대해 걱정하고 있습니다. 장기 투자자가 그렇게 해서는 안 되는 이유는 다음과 같습니다.",
+      "summary_kr": "AMD는 데이터 센터 매출 두 배 증가, 긍정적인 3분기 가이던스 등 강력한 2분기 AI 수익을 기록했음에도 불구하고 제품 믹스 마진 우려와 중국 수출 비용으로 인해 주가가 하락했습니다. 분석가들은 여전히 ​​낙관적이며 2027년에 대한 컨센서스 EPS 추정치가 상당함"
     },
     {
       "id": "av_069b1a85b9fc04",
@@ -854,10 +1189,96 @@
       "url": "https://currently.att.yahoo.com/att/10-treasuries-yield-4-8-104300905.html",
       "source": "Currently.com",
       "published_at": "2026-09-07T10:43:00+00:00",
-      "sentiment": 0.327707,
-      "change_pct": 0.84,
+      "sentiment": 0.329703,
+      "change_pct": -1.58,
       "title_kr": "10년 만기 국채 수익률은 약 4.8%입니다. 실제로 이를 능가하는 고수익 배당주 3개를 소개합니다.",
       "summary_kr": "10년 만기 국채 수익률이 약 4.8%인 가운데, 이 기사에서는 특히 인플레이션 상황에서 소득 지향적 투자자에게 우수한 수익을 제공하는 고수익 배당주 3개를 강조합니다. 논의된 종목은 AGNC인베스트먼트(13.5%yie)입니다."
+    },
+    {
+      "id": "av_062eb4f3938b62",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Jim Cramer Wants Nvidia to Buy Back $500 Billion. Can Apple’s Playbook Work?",
+      "summary": "Jim Cramer has proposed that NVIDIA Corporation undertake a $500 billion share buyback, using Apple Inc.'s strategy as a model. While Apple's substantial cash generation supports its buybacks, Nvidia faces different financial demands due to its significant capital commitments for",
+      "url": "https://uk.finance.yahoo.com/news/jim-cramer-wants-nvidia-buy-203415967.html",
+      "source": "Yahoo Finance UK",
+      "published_at": "2026-09-07T20:34:41+00:00",
+      "sentiment": 0.118096,
+      "change_pct": -1.58,
+      "title_kr": "Jim Cramer는 Nvidia가 5000억 달러를 다시 매입하길 원합니다. Apple의 플레이북이 작동할 수 있나요?",
+      "summary_kr": "Jim Cramer는 Apple Inc.의 전략을 모델로 삼아 NVIDIA Corporation이 5,000억 달러 규모의 자사주 매입을 제안했습니다. Apple의 상당한 현금 창출로 자사주 매입을 지원하는 반면, Nvidia는 상당한 상한액으로 인해 다양한 재정적 수요에 직면해 있습니다."
+    },
+    {
+      "id": "av_e0c9b256c82b3a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lansing Street Advisors Acquires 2,772 Shares of Amazon.com, Inc. $AMZN",
+      "summary": "Lansing Street Advisors increased its stake in Amazon.com, Inc. by 27.5% in the second quarter, acquiring an additional 2,772 shares to bring its total holdings to 12,869 shares valued at approximately $3.07 million. Institutional investors collectively own 72.2% of Amazon's stoc",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-lansing-street-advisors-acquires-2772-shares-of-amazoncom-inc-amzn-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T08:38:15+00:00",
+      "sentiment": 0.308215,
+      "change_pct": -1.58,
+      "title_kr": "Lansing Street Advisors, Amazon.com, Inc.의 주식 2,772주 인수 $AMZN",
+      "summary_kr": "Lansing Street Advisors는 2분기에 Amazon.com, Inc.의 지분을 27.5% 늘려 2,772주를 추가로 인수하여 총 보유액이 약 307만 달러에 달하는 12,869주가 되었습니다. 기관 투자자들은 총 72개를 소유하고 있습니다."
+    },
+    {
+      "id": "av_90f34ebbf902e6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "HighTower Advisors LLC Has $109.89 Million Holdings in Public Storage $PSA",
+      "summary": "HighTower Advisors LLC reduced its stake in Public Storage (NYSE:PSA) by 2.7% in the second quarter, holding 345,237 shares valued at $109.89 million. Institutional investors collectively own 78.79% of the company. Public Storage reported strong quarterly earnings, exceeding esti",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-has-10989-million-holdings-in-public-storage-psa-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T10:21:04+00:00",
+      "sentiment": 0.301501,
+      "change_pct": -1.58,
+      "title_kr": "HighTower Advisors LLC는 공공 스토리지 $PSA에 1억 989만 달러를 보유하고 있습니다.",
+      "summary_kr": "HighTower Advisors LLC는 2분기에 Public Storage(NYSE:PSA)의 지분을 2.7% 줄여 1억 989만 달러 상당의 345,237주를 보유했습니다. 기관투자가들이 회사 지분 78.79%를 공동 소유하고 있다. 퍼블릭 스토리지는 높은 분기별 수익을 보고했습니다."
+    },
+    {
+      "id": "f_ce4eca64f97e5d",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "Meta Platforms Is Too Attractive To Ignore",
+      "summary": "Meta Platforms' revenue and cash flows rise despite recent stock underperformance versus the S&P 500. Find out why META stock is a Buy.",
+      "url": "https://finnhub.io/api/news?id=14457dc17f1060ef9e48b97de9cd538c9cae4ff978c2f856434285df49b8fd30",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-08T00:58:08+00:00",
+      "change_pct": -0.0,
+      "title_kr": "메타 플랫폼은 무시하기에는 너무 매력적입니다",
+      "summary_kr": "Meta Platforms의 수익과 현금 흐름은 S&P 500 대비 최근 주가 저조에도 불구하고 상승합니다. META 주식이 매수인 이유를 알아보세요."
+    },
+    {
+      "id": "f_39b096f37e68ad",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Interactive Brokers Earns Interest on $182 Billion of Its Clients' Idle Cash. Will Anthropic's IPO Drain It?",
+      "summary": "What does a record-size stock market debut do to a broker that earns interest on its clients' idle cash?",
+      "url": "https://finnhub.io/api/news?id=8e26c7512f578b185d2d9f1a8311b04cd06c7186d7f9ec41566b78c0c296abeb",
+      "source": "Yahoo",
+      "published_at": "2026-09-08T00:46:01+00:00",
+      "change_pct": -1.58,
+      "title_kr": "Interactive Brokers는 고객의 유휴 현금 1,820억 달러에 대해 이자를 얻습니다. Anthropic의 IPO로 인해 손실이 발생할까요?",
+      "summary_kr": "기록적인 규모의 주식 시장 데뷔는 고객의 유휴 현금에 대한 이자를 얻는 중개인에게 어떤 영향을 미칠까요?"
+    },
+    {
+      "id": "av_9e4d5e90b1ba9f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amazon.com, Inc. $AMZN Shares Purchased by Narwhal Capital Management",
+      "summary": "Narwhal Capital Management increased its stake in Amazon.com, Inc. by 3.1% in Q2, bringing its total holdings to 227,622 shares valued at $54.3 million. Despite recent insider selling, institutional investors collectively own 72.2% of Amazon's stock. The company reported strong Q",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-shares-purchased-by-narwhal-capital-management-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T08:48:12+00:00",
+      "sentiment": 0.291131,
+      "change_pct": -1.58
     },
     {
       "id": "f_e11e92d3000776",
@@ -869,52 +1290,37 @@
       "url": "https://finnhub.io/api/news?id=d154205238a6f7e22f90a92fa15dc2780c318eb2db2836d98ce56ae8a8761b48",
       "source": "Yahoo",
       "published_at": "2026-09-07T23:45:00+00:00",
-      "change_pct": -2.04,
+      "change_pct": -1.35,
       "title_kr": "ArchTIS, 445,000달러 규모의 미국 민간 항공 보안 계약 체결",
       "summary_kr": "ArchTIS Ltd (ASX:AR9, OTCQB:ARHLF)는 미국 기반의 선도적인 민간 항공 서비스 회사와 약 A$445,000 상당의 3년 계약을 체결하여 데이터 중심 보안 기술의 범위를 전통적인 정부 및 국방 마크를 넘어 확장했습니다."
     },
     {
-      "id": "av_a21e9b0f5ebc98",
+      "id": "av_4131b83b6b91ae",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Varenne Capital Partners Lowers Stake in Analog Devices, Inc. $ADI",
-      "summary": "Varenne Capital Partners reduced its stake in Analog Devices, Inc. (NASDAQ:ADI) by 13.4% during the second quarter, selling 10,888 shares. Despite this reduction, Analog Devices remains the fund's 9th largest holding, valued at $27.84 million. Other institutional investors, inclu",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-varenne-capital-partners-lowers-stake-in-analog-devices-inc-adi-2026-09-07/",
+      "title": "Legacy Financial Advisors Inc. Grows Stock Holdings in Intel Corporation $INTC",
+      "summary": "Legacy Financial Advisors Inc. significantly increased its stake in Intel Corporation by 19.9% in the second quarter, now owning 36,676 shares valued at $5.12 million. Several other institutional investors also adjusted their positions in Intel, which now has 64.53% institutional",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legacy-financial-advisors-inc-grows-stock-holdings-in-intel-corporation-intc-2026-09-07/",
       "source": "MarketBeat",
-      "published_at": "2026-09-07T09:50:47+00:00",
-      "sentiment": 0.337789,
-      "change_pct": 0.84,
-      "title_kr": "Varenne Capital Partners, Analog Devices, Inc.의 지분 감소 $ADI",
-      "summary_kr": "Varenne Capital Partners는 2분기 동안 Analog Devices, Inc.(NASDAQ:ADI)의 지분을 13.4% 줄여 10,888주를 매각했습니다. 이러한 감소에도 불구하고 Analog Devices는 2,784만 달러 가치로 여전히 펀드의 9번째로 큰 보유 자산입니다. 다른 기관"
+      "published_at": "2026-09-07T08:59:35+00:00",
+      "sentiment": 0.263878,
+      "change_pct": -1.58
     },
     {
-      "id": "av_f4f4be59d299cf",
+      "id": "av_58ed8f27dc0329",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Paylocity Director Kenneth Robinson Sells 800 Shares for $127,000",
-      "summary": "Paylocity Director Kenneth B. Robinson sold 800 shares of common stock for $127,000 on August 27, 2026, reducing his direct holdings by 11% but still retaining 6,745 shares. Despite a 13% one-year loss in Paylocity shares due to a general software stock sell-off, analysts view th",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/paylocity-director-kenneth-robinson-sells-221501612.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-07T21:52:47+00:00",
-      "sentiment": 0.032723,
-      "change_pct": 0.84,
-      "title_kr": "Paylocity 이사 Kenneth Robinson, 800주를 127,000달러에 매도",
-      "summary_kr": "Paylocity 이사 Kenneth B. Robinson은 2026년 8월 27일에 보통주 800주를 127,000달러에 매각하여 직접 보유 지분을 11% 줄였지만 여전히 6,745주를 유지하고 있습니다. 일반 소프트웨어 주식 매각으로 인해 Paylocity 주식이 1년 동안 13% 손실되었음에도 불구하고"
-    },
-    {
-      "id": "av_87e152e1eb1e9b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Legacy Advisors LLC Has $17.60 Million Stake in Amazon.com, Inc. $AMZN",
-      "summary": "Legacy Advisors LLC significantly increased its stake in Amazon.com, Inc. during the second quarter, now holding 73,840 shares valued at $17.6 million. Despite strong quarterly earnings and bullish analyst ratings with an average price target of $323.26, the company faces concern",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-legacy-advisors-llc-has-1760-million-stake-in-amazoncom-inc-amzn-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:38:15+00:00",
-      "sentiment": 0.347311,
-      "change_pct": 0.84
+      "title": "BUUU to buy 60% of data-centre builder Brightray, adds $60M in placements",
+      "summary": "BUUU Group Limited (Nasdaq: BUUU) has announced its acquisition of a 60% equity interest in Brightray Science Inc., a modular data-centre solutions provider, to pivot towards industrialised AI data-centre delivery. The deal involves BUUU issuing Class A ordinary shares and a conv",
+      "url": "https://app.dealroom.co/news/note/buuu-to-buy-60-of-data-centre-builder-brightray-adds-60m-in-placements",
+      "source": "Dealroom",
+      "published_at": "2026-09-07T13:32:16+00:00",
+      "sentiment": 0.243587,
+      "change_pct": -1.58,
+      "title_kr": "BUUU는 데이터 센터 빌더 Brightray의 60%를 인수하고 배치에 6천만 달러를 추가합니다.",
+      "summary_kr": "BUUU Group Limited(나스닥: BUUU)는 산업화된 AI 데이터 센터 제공을 목표로 모듈형 데이터 센터 솔루션 제공업체인 Brightray Science Inc.의 지분 60%를 인수했다고 발표했습니다. 이 거래에는 BUUU가 클래스 A 오디나를 발행하는 것이 포함됩니다."
     },
     {
       "id": "f_e672c3d0412410",
@@ -926,7 +1332,7 @@
       "url": "https://finnhub.io/api/news?id=b5523b7a454d704269de8cf70bb671fc0180896c1644302a1cf3b6f9234271a4",
       "source": "Yahoo",
       "published_at": "2026-09-07T23:05:00+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "월스트리트 투자회사 번스타인(Bernstein)은 비트코인이 2029년까지 30만 달러에 도달할 수 있다고 생각합니다. 비트코인은 이제 매수인가요?",
       "summary_kr": "다음 비트코인 ​​강세장 주기가 이미 시작되었을 수도 있습니다."
     },
@@ -940,8 +1346,8 @@
       "url": "https://www.tipranks.com/news/nvidia-nvda-board-member-sells-410-million-of-company-stock",
       "source": "TipRanks",
       "published_at": "2026-09-07T17:20:16+00:00",
-      "sentiment": 0.141964,
-      "change_pct": 0.84,
+      "sentiment": 0.142874,
+      "change_pct": -1.58,
       "title_kr": "Nvidia(NVDA) 이사회 구성원, 4억 1천만 달러 규모의 회사 주식 매각",
       "summary_kr": "Nvidia 이사회 멤버인 Mark Stevens는 8월 31일부터 9월 4일 사이에 NVDA 주식 185만 주(총 4억 1천만 달러)를 매각했지만 여전히 상당한 지분을 보유하고 있습니다. 이번 매각은 Nvidia가 자사 제품에 대한 수요에 힘입어 강력한 2분기 재무 결과를 보고한 이후에 이루어졌습니다."
     },
@@ -955,9 +1361,22 @@
       "url": "https://finnhub.io/api/news?id=b6c0b78e103c23d828af8af98c79270c61723f02b2fb7f99cc97f447464a1a04",
       "source": "Yahoo",
       "published_at": "2026-09-07T23:00:00+00:00",
-      "change_pct": 1.0,
+      "change_pct": -0.0,
       "title_kr": "Bank of America는 Meta 주식 투자자들에게 모닝콜을 보냅니다.",
       "summary_kr": "Bank of America의 메타 등급과 가격 목표는 거대 기술 기업이 다음에 무엇을 구축할지에 초점을 맞췄습니다."
+    },
+    {
+      "id": "av_4bfb7505c58330",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA Corporation $NVDA Position Trimmed by Pathway Wealth Management LLC",
+      "summary": "Pathway Wealth Management LLC reduced its stake in NVIDIA Corporation by 5.3%, selling 11,326 shares but still holding 203,197 shares valued at $40.7 million, making it their largest holding. Despite this trimming, analyst sentiment remains largely positive for NVIDIA, with a \"Mo",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-position-trimmed-by-pathway-wealth-management-llc-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T09:12:33+00:00",
+      "sentiment": 0.250692,
+      "change_pct": -1.58
     },
     {
       "id": "f_503d13ae1023ac",
@@ -969,39 +1388,37 @@
       "url": "https://finnhub.io/api/news?id=55a3970182b8677e22947541db2b7b597068b25d54c9823f73590929314eb35f",
       "source": "Yahoo",
       "published_at": "2026-09-07T22:51:26+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "지난 달 UWM Holdings 주식이 20% 하락한 이유",
       "summary_kr": "최근 보고된 분기에 깜짝 순손실을 기록했습니다."
     },
     {
-      "id": "av_e0c9b256c82b3a",
+      "id": "av_f4f4be59d299cf",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Lansing Street Advisors Acquires 2,772 Shares of Amazon.com, Inc. $AMZN",
-      "summary": "Lansing Street Advisors increased its stake in Amazon.com, Inc. by 27.5% in the second quarter, acquiring an additional 2,772 shares to bring its total holdings to 12,869 shares valued at approximately $3.07 million. Institutional investors collectively own 72.2% of Amazon's stoc",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-lansing-street-advisors-acquires-2772-shares-of-amazoncom-inc-amzn-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:38:15+00:00",
-      "sentiment": 0.340341,
-      "change_pct": 0.84,
-      "title_kr": "Lansing Street Advisors, Amazon.com, Inc.의 주식 2,772주 인수 $AMZN",
-      "summary_kr": "Lansing Street Advisors는 2분기에 Amazon.com, Inc.의 지분을 27.5% 늘려 2,772주를 추가로 인수하여 총 보유액이 약 307만 달러에 달하는 12,869주가 되었습니다. 기관 투자자들은 총 72개를 소유하고 있습니다."
+      "title": "Paylocity Director Kenneth Robinson Sells 800 Shares for $127,000",
+      "summary": "Paylocity Director Kenneth B. Robinson sold 800 shares of common stock for $127,000 on August 27, 2026, reducing his direct holdings by 11% but still retaining 6,745 shares. Despite a 13% one-year loss in Paylocity shares due to a general software stock sell-off, analysts view th",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/paylocity-director-kenneth-robinson-sells-221501612.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-07T21:52:47+00:00",
+      "sentiment": 0.020269,
+      "change_pct": -1.58,
+      "title_kr": "Paylocity 이사 Kenneth Robinson, 800주를 127,000달러에 매도",
+      "summary_kr": "Paylocity 이사 Kenneth B. Robinson은 2026년 8월 27일에 보통주 800주를 127,000달러에 매각하여 직접 보유 지분을 11% 줄였지만 여전히 6,745주를 유지하고 있습니다. 일반 소프트웨어 주식 매각으로 인해 Paylocity 주식이 1년 동안 13% 손실되었음에도 불구하고"
     },
     {
-      "id": "av_a618220c50b488",
+      "id": "av_8f14b07a1e6af2",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Oak Ridge Investments LLC Decreases Position in Amazon.com, Inc. $AMZN",
-      "summary": "Oak Ridge Investments LLC significantly reduced its stake in Amazon.com, Inc. (NASDAQ:AMZN) by 70.6% in the second quarter, selling 246,679 shares and retaining 102,773 shares valued at approximately $24.5 million. Despite this, institutional investors still own 72.2% of AMZN, an",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oak-ridge-investments-llc-decreases-position-in-amazoncom-inc-amzn-2026-09-07/",
+      "title": "Greenland Capital Management LP Purchases New Shares in Republic Services, Inc. $RSG",
+      "summary": "Greenland Capital Management LP has acquired a new position in Republic Services, Inc. (NYSE:RSG), purchasing 24,660 shares valued at approximately $5.255 million. Other institutional investors have also adjusted their holdings in the company, with insider Cascade Investment, L.L",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-greenland-capital-management-lp-purchases-new-shares-in-republic-services-inc-rsg-2026-09-07/",
       "source": "MarketBeat",
-      "published_at": "2026-09-07T08:38:15+00:00",
-      "sentiment": 0.333343,
-      "change_pct": 0.84,
-      "title_kr": "Oak Ridge Investments LLC, Amazon.com, Inc.에서 지위 감소 $AMZN",
-      "summary_kr": "Oak Ridge Investments LLC는 2분기에 Amazon.com, Inc.(NASDAQ:AMZN)의 지분을 70.6% 크게 줄여 246,679주를 매각하고 약 2,450만 달러 상당의 102,773주를 보유했습니다. 그럼에도 불구하고 기관투자자들은 여전히"
+      "published_at": "2026-09-07T08:51:54+00:00",
+      "sentiment": 0.241481,
+      "change_pct": -1.58
     },
     {
       "id": "f_dfc90c9432828e",
@@ -1013,24 +1430,22 @@
       "url": "https://finnhub.io/api/news?id=3eb88868c86ad52266f41a67da56778d0512b392399d6f75a05187ce87e2cc73",
       "source": "Yahoo",
       "published_at": "2026-09-07T22:31:00+00:00",
-      "change_pct": -0.15,
+      "change_pct": -0.63,
       "title_kr": "마이애미에서 치명적인 아마존 비행기 추락 현장은 '파괴적'",
       "summary_kr": "NTSB는 보잉 항공기가 내비게이션 장치, 포드, 도요타, 울타리 두 개를 들이받은 뒤 테슬라 로보택시 정류장에 정차했다고 밝혔다. 5명이 사망하고 여러 명이 부상을 입었습니다."
     },
     {
-      "id": "av_90f34ebbf902e6",
+      "id": "av_50501b992dfd24",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "HighTower Advisors LLC Has $109.89 Million Holdings in Public Storage $PSA",
-      "summary": "HighTower Advisors LLC reduced its stake in Public Storage (NYSE:PSA) by 2.7% in the second quarter, holding 345,237 shares valued at $109.89 million. Institutional investors collectively own 78.79% of the company. Public Storage reported strong quarterly earnings, exceeding esti",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-hightower-advisors-llc-has-10989-million-holdings-in-public-storage-psa-2026-09-07/",
+      "title": "Saudi Central Bank Has $3.46 Million Stock Position in Microchip Technology Incorporated $MCHP",
+      "summary": "The Saudi Central Bank significantly increased its stake in Microchip Technology, acquiring an additional 17,930 shares, bringing its total position to $3.46 million. This move comes as institutional investors and hedge funds collectively own a substantial 91.51% of MCHP. Microch",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-has-346-million-stock-position-in-microchip-technology-incorporated-mchp-2026-09-07/",
       "source": "MarketBeat",
-      "published_at": "2026-09-07T10:21:04+00:00",
-      "sentiment": 0.303914,
-      "change_pct": 0.84,
-      "title_kr": "HighTower Advisors LLC는 공공 스토리지 $PSA에 1억 989만 달러를 보유하고 있습니다.",
-      "summary_kr": "HighTower Advisors LLC는 2분기에 Public Storage(NYSE:PSA)의 지분을 2.7% 줄여 1억 989만 달러 상당의 345,237주를 보유했습니다. 기관투자가들이 회사 지분 78.79%를 공동 소유하고 있다. 퍼블릭 스토리지는 높은 분기별 수익을 보고했습니다."
+      "published_at": "2026-09-07T09:40:47+00:00",
+      "sentiment": 0.228069,
+      "change_pct": -1.58
     },
     {
       "id": "f_14dbdd22dd5bc8",
@@ -1042,7 +1457,7 @@
       "url": "https://finnhub.io/api/news?id=7b2b76e594e318638fb2f66348ef1a4ac576b5b0178ede94487b2392db08d790",
       "source": "Yahoo",
       "published_at": "2026-09-07T22:05:00+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "명백한 선택보다 더 빛날 수 있는 AI 메모리 주식",
       "summary_kr": "Silicon Motion Technology는 내년에 일부 최대 메모리 칩 제조업체를 이길 수도 있습니다."
     },
@@ -1056,7 +1471,7 @@
       "url": "https://finnhub.io/api/news?id=89ee1437c35b1ea43ff04c0695734f1b0ef289bd07ced8822ca70a45052719c9",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:58:55+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "Palantir 주식, 8월 반등 주도 - Nvidia, Salesforce 및 Super Micro Jump",
       "summary_kr": "Palantir, 8월 기술주 압도: Salesforce 거의 40% 상승, Super Micro 점프"
     },
@@ -1070,24 +1485,9 @@
       "url": "https://finnhub.io/api/news?id=23e4e5e3cabc92794a9bfe4fd97eeefbddef102134af275536c851c62f734003",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:58:00+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "Nvidia Insider, 무려 4억 1천만 달러 규모의 주식 이동",
       "summary_kr": "엄청난 내부자 거래는 하나의 중요한 맥락을 전달합니다."
-    },
-    {
-      "id": "av_8f729476561424",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Vancity Investment Management Ltd Invests $2.08 Million in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Vancity Investment Management Ltd has invested $2.08 million in Advanced Micro Devices (AMD), acquiring 3,585 shares in the second quarter. AMD reported strong quarterly results with a 50.1% year-over-year revenue increase and EPS of $1.66, driven by data-center growth and AI par",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-vancity-investment-management-ltd-invests-208-million-in-advanced-micro-devices-inc-amd-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T09:42:44+00:00",
-      "sentiment": 0.306049,
-      "change_pct": 0.84,
-      "title_kr": "Vancity Investment Management Ltd, Advanced Micro Devices, Inc.에 208만 달러 투자 $AMD",
-      "summary_kr": "Vancity Investment Management Ltd는 AMD(Advanced Micro Devices)에 208만 달러를 투자하여 2분기에 3,585주를 인수했습니다. AMD는 데이터 중심에 힘입어 전년 대비 50.1%의 매출 증가와 1.66달러의 EPS를 기록하며 강력한 분기별 결과를 보고했습니다."
     },
     {
       "id": "f_dcfd4398b57462",
@@ -1125,7 +1525,7 @@
       "url": "https://finnhub.io/api/news?id=cbe636292b848bcc91df4ac0b6d43fab2fef6052c2bfab704374c33c1e108bb5",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:54:15+00:00",
-      "change_pct": -0.15,
+      "change_pct": -0.63,
       "title_kr": "Amazon의 250개 항공편 항공 네트워크, 치명적인 마이애미 조사에 직면",
       "summary_kr": "계약업체가 운영하는 항공기 한 대는 제한된 수용력을 나타내지만 충돌로 인해 주요 안전 및 감독 테스트가 발생합니다."
     },
@@ -1139,7 +1539,7 @@
       "url": "https://finnhub.io/api/news?id=0001709625f8e66ce7e841ce60023c282ffe04437460d74927a125daa720d8ca",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:53:43+00:00",
-      "change_pct": -1.17,
+      "change_pct": -0.02,
       "title_kr": "Google의 AI는 실제 테스트에서 운기 온난화를 40% 줄였습니다.",
       "summary_kr": "Cathay의 초장거리 시험은 Alphabet에 기후 쇼케이스를 제공하지만 상업적 조건은 아직 공개되지 않았습니다."
     },
@@ -1153,7 +1553,7 @@
       "url": "https://finnhub.io/api/news?id=05c9447e81f5bbfdde172030660a34a265f37d6ecbc7b5328e92e85f244ed9ff",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:52:26+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "Tencent는 AI 칩 베팅이 Nvidia의 중국 해자를 공격하는 동안 1% 하락했습니다.",
       "summary_kr": "Enflame의 폭발적인 성장은 전략적 상승을 제공하지만 Tencent의 자체 AI 지출은 이미 무료 현금 흐름을 소비하고 있습니다."
     },
@@ -1180,7 +1580,7 @@
       "url": "https://finnhub.io/api/news?id=de1195036a7d1791f80c859969a0a4864c0991a2b838554016ad89ac6ae71fd5",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:50:08+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "Nvidia는 1달러를 쓰지 않고 14억 7천만 달러의 공급업체 쿠션을 얻습니다.",
       "summary_kr": "Wistron은 Nvidia의 AI 시스템을 둘러싼 원자재 및 생산 자금을 조달하기 위해 지분을 매각하고 있습니다."
     },
@@ -1194,7 +1594,7 @@
       "url": "https://finnhub.io/api/news?id=d880cf8565bf535425634f313562695c2d518ea88c75fe76af73a69a7e1314be",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:49:01+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "Applied Digital은 2029년까지 임대료의 대부분을 징수하지 않을 것입니다. 나는 주식을 사기를 기다리고 있습니다.",
       "summary_kr": "15년 계약 임대료 중 약 360억 달러가 장부에 기록되어 있지만 수십억 달러의 추가 건설이 완료될 때까지 거의 아무것도 도착하지 않습니다."
     },
@@ -1208,7 +1608,7 @@
       "url": "https://finnhub.io/api/news?id=ffafbe14a577a5ba02d9ac4952a3bed278368780a775c037a75ca3a52f8c778b",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:46:01+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "AI 매니아가 아시아 전역으로 다시 돌아오면서 SoftBank는 11.2% 폭발",
       "summary_kr": "이번 랠리는 SoftBank의 집중적인 AI 전략에 대한 보상이자 300억 달러 규모의 OpenAI 약속에서 요구되는 수익을 증가시킵니다."
     },
@@ -1235,24 +1635,9 @@
       "url": "https://finnhub.io/api/news?id=a2ac92bb21c81f55fae8638cb0c43db6f4a5a64f60a4aa0590c12d22207cae09",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:36:21+00:00",
-      "change_pct": 0.84,
+      "change_pct": -1.58,
       "title_kr": "2027년 10만 달러 이상의 AI 워크스테이션 공개 후 AMD 주가 급등",
       "summary_kr": "2027년 10만 달러 이상의 AI 워크스테이션 공개 후 AMD 주가 급등"
-    },
-    {
-      "id": "av_58ed8f27dc0329",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "BUUU to buy 60% of data-centre builder Brightray, adds $60M in placements",
-      "summary": "BUUU Group Limited (Nasdaq: BUUU) has announced its acquisition of a 60% equity interest in Brightray Science Inc., a modular data-centre solutions provider, to pivot towards industrialised AI data-centre delivery. The deal involves BUUU issuing Class A ordinary shares and a conv",
-      "url": "https://app.dealroom.co/news/note/buuu-to-buy-60-of-data-centre-builder-brightray-adds-60m-in-placements",
-      "source": "Dealroom",
-      "published_at": "2026-09-07T13:32:16+00:00",
-      "sentiment": 0.201032,
-      "change_pct": 0.84,
-      "title_kr": "BUUU는 데이터 센터 빌더 Brightray의 60%를 인수하고 배치에 6천만 달러를 추가합니다.",
-      "summary_kr": "BUUU Group Limited(나스닥: BUUU)는 산업화된 AI 데이터 센터 제공을 목표로 모듈형 데이터 센터 솔루션 제공업체인 Brightray Science Inc.의 지분 60%를 인수했다고 발표했습니다. 이 거래에는 BUUU가 클래스 A 오디나를 발행하는 것이 포함됩니다."
     },
     {
       "id": "f_40d1b8f1c566f0",
@@ -1277,7 +1662,7 @@
       "url": "https://finnhub.io/api/news?id=bf0151f40257f0de10c85ce76e33ed207bb2c153bfcfbf3fe22c8f6beff57c9f",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:25:21+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_ae75f3a349e6fe",
@@ -1289,7 +1674,20 @@
       "url": "https://finnhub.io/api/news?id=9c20102d71bbe8e4bcea367307be6a90c88365738e316b1b7c25b1baf2d641cb",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:25:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
+    },
+    {
+      "id": "av_1ba4a146462ab2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Exclusive: Coursera, Microsoft and Steve Hanke on the Future of Jobs — AI Could Be a ‘Net Job Creator’",
+      "summary": "The article discusses the potential impact of AI on the job market, featuring perspectives from Coursera, Microsoft, and Johns Hopkins economist Steve Hanke. While Coursera and Microsoft acknowledge that some roles will evolve or disappear, they emphasize the creation of new oppo",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61647374/exclusive-coursera-microsoft-and-steve-hanke-on-the-future-of-jobs-ai-could-be-a-net-job-creator",
+      "source": "Benzinga",
+      "published_at": "2026-09-07T10:31:17+00:00",
+      "sentiment": 0.211186,
+      "change_pct": -1.58
     },
     {
       "id": "f_aaac7ea48ac494",
@@ -1301,7 +1699,7 @@
       "url": "https://finnhub.io/api/news?id=8058407ba6d4d8d74c3c583e2bbe7b2fcd1a7fe273b9ce9ae171f1c7505875d9",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:23:23+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_5063fbe5d20b92",
@@ -1313,7 +1711,7 @@
       "url": "https://finnhub.io/api/news?id=91e29a08de15b30c95cb66ac4ac1152f23832359ca39dadd7f759d9f28a5c310",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:11:02+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_7d5e2ff78bbda9",
@@ -1325,7 +1723,7 @@
       "url": "https://finnhub.io/api/news?id=4f71a0bbbbdf56d42af34e90b044c15c7a522d5df6406e999f4ba9b58ffe6d50",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:05:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_9395f5dc248db6",
@@ -1337,7 +1735,7 @@
       "url": "https://finnhub.io/api/news?id=74a1c3178b118f6f10653b764d8fa2f11253b703706869a51738bbb4fbe85d53",
       "source": "Yahoo",
       "published_at": "2026-09-07T21:00:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_813530ed5a0d16",
@@ -1349,20 +1747,7 @@
       "url": "https://finnhub.io/api/news?id=00d75913fdc6f6489af95ceda2ded8c86a160d1e6e123a87476620a00942c568",
       "source": "Yahoo",
       "published_at": "2026-09-07T20:59:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "av_4bfb7505c58330",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "NVIDIA Corporation $NVDA Position Trimmed by Pathway Wealth Management LLC",
-      "summary": "Pathway Wealth Management LLC reduced its stake in NVIDIA Corporation by 5.3%, selling 11,326 shares but still holding 203,197 shares valued at $40.7 million, making it their largest holding. Despite this trimming, analyst sentiment remains largely positive for NVIDIA, with a \"Mo",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nvidia-corporation-nvda-position-trimmed-by-pathway-wealth-management-llc-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T09:12:33+00:00",
-      "sentiment": 0.291216,
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_2bd5287474b23c",
@@ -1374,7 +1759,7 @@
       "url": "https://finnhub.io/api/news?id=066533bb6318e3b449c6d6618ebd9068326777a2a1f78781e751e811c3f49c12",
       "source": "Yahoo",
       "published_at": "2026-09-07T20:50:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_bb1ea5a450e3b7",
@@ -1386,7 +1771,7 @@
       "url": "https://finnhub.io/api/news?id=91e2492fab0f4b189e2bd011eec7bfa1a8bad5ea3dff72f1e5f1ae989162b815",
       "source": "Yahoo",
       "published_at": "2026-09-07T20:46:03+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_3d85553667590e",
@@ -1398,7 +1783,7 @@
       "url": "https://finnhub.io/api/news?id=4bbe3f6b03058c2dfc665caf549debb0f9f373d42038beb99391bbe921c28385",
       "source": "SeekingAlpha",
       "published_at": "2026-09-07T20:44:00+00:00",
-      "change_pct": -1.17
+      "change_pct": -0.02
     },
     {
       "id": "f_1b3232efad8709",
@@ -1421,7 +1806,7 @@
       "url": "https://finnhub.io/api/news?id=6e7fad36077482cec48ac2a09753428be820ad6471c7d9245a2cd857748d12b5",
       "source": "Yahoo",
       "published_at": "2026-09-07T20:37:01+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_6660f7b4de6931",
@@ -1433,46 +1818,7 @@
       "url": "https://finnhub.io/api/news?id=ef85ff3a170c4c1d0a474afcd5c81923ffd82206bb00efff2447f7a83662f09e",
       "source": "Yahoo",
       "published_at": "2026-09-07T20:31:46+00:00",
-      "change_pct": 1.0
-    },
-    {
-      "id": "av_9e4d5e90b1ba9f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Amazon.com, Inc. $AMZN Shares Purchased by Narwhal Capital Management",
-      "summary": "Narwhal Capital Management increased its stake in Amazon.com, Inc. by 3.1% in Q2, bringing its total holdings to 227,622 shares valued at $54.3 million. Despite recent insider selling, institutional investors collectively own 72.2% of Amazon's stock. The company reported strong Q",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-amazoncom-inc-amzn-shares-purchased-by-narwhal-capital-management-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:48:12+00:00",
-      "sentiment": 0.281764,
-      "change_pct": 0.84
-    },
-    {
-      "id": "av_1ba4a146462ab2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Exclusive: Coursera, Microsoft and Steve Hanke on the Future of Jobs — AI Could Be a ‘Net Job Creator’",
-      "summary": "The article discusses the potential impact of AI on the job market, featuring perspectives from Coursera, Microsoft, and Johns Hopkins economist Steve Hanke. While Coursera and Microsoft acknowledge that some roles will evolve or disappear, they emphasize the creation of new oppo",
-      "url": "https://www.benzinga.com/markets/tech/26/09/61647374/exclusive-coursera-microsoft-and-steve-hanke-on-the-future-of-jobs-ai-could-be-a-net-job-creator",
-      "source": "Benzinga",
-      "published_at": "2026-09-07T10:31:17+00:00",
-      "sentiment": 0.236247,
-      "change_pct": 0.84
-    },
-    {
-      "id": "av_4131b83b6b91ae",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Legacy Financial Advisors Inc. Grows Stock Holdings in Intel Corporation $INTC",
-      "summary": "Legacy Financial Advisors Inc. significantly increased its stake in Intel Corporation by 19.9% in the second quarter, now owning 36,676 shares valued at $5.12 million. Several other institutional investors also adjusted their positions in Intel, which now has 64.53% institutional",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-legacy-financial-advisors-inc-grows-stock-holdings-in-intel-corporation-intc-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:59:35+00:00",
-      "sentiment": 0.261707,
-      "change_pct": 0.84
+      "change_pct": -0.0
     },
     {
       "id": "f_e4cd4f9a416827",
@@ -1484,7 +1830,7 @@
       "url": "https://finnhub.io/api/news?id=61fc5eb5325325bd007719fa49f5b230738573623b35df34683efc12a6964b64",
       "source": "Yahoo",
       "published_at": "2026-09-07T19:30:02+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_e6304ee0bd00a5",
@@ -1496,7 +1842,7 @@
       "url": "https://finnhub.io/api/news?id=7578c01e5da9c31eff3455e301bdf6e7889d9632266e7b4e01c264aa71c10c03",
       "source": "Yahoo",
       "published_at": "2026-09-07T19:26:52+00:00",
-      "change_pct": -1.17
+      "change_pct": -0.02
     },
     {
       "id": "f_d902fa30ce841d",
@@ -1519,7 +1865,7 @@
       "url": "https://finnhub.io/api/news?id=b8bd745bb2aa30f966bf4f45624526b74dfcb4be40ed406474c8547865d5f458",
       "source": "Yahoo",
       "published_at": "2026-09-07T19:21:33+00:00",
-      "change_pct": 4.69
+      "change_pct": 6.66
     },
     {
       "id": "f_48e7164ceac4d3",
@@ -1531,7 +1877,7 @@
       "url": "https://finnhub.io/api/news?id=11dbf4e74852bc66ee551eb1cbc78fecc3f161e4cd8a164ca97d4fefa87733e5",
       "source": "Yahoo",
       "published_at": "2026-09-07T19:20:40+00:00",
-      "change_pct": -2.04
+      "change_pct": -1.35
     },
     {
       "id": "f_4a0984599398cf",
@@ -1554,7 +1900,7 @@
       "url": "https://finnhub.io/api/news?id=53ae133a617e73d6615369c1eb18ed281d8109f61a02a26fffaf12703c172b66",
       "source": "Yahoo",
       "published_at": "2026-09-07T19:12:00+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_c025171d0ff03d",
@@ -1566,7 +1912,7 @@
       "url": "https://finnhub.io/api/news?id=29979bee5c9df66107ec80dbb66f50ab6b5cd16919071ce9853ceaa7328fff42",
       "source": "Yahoo",
       "published_at": "2026-09-07T19:09:59+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_4bc476612afe42",
@@ -1589,19 +1935,20 @@
       "url": "https://finnhub.io/api/news?id=3123d67d7f42ee32a46db65fbc3ccd163d41881aaa94e707419da377504de0ac",
       "source": "Yahoo",
       "published_at": "2026-09-07T18:50:00+00:00",
-      "change_pct": -1.17
+      "change_pct": -0.02
     },
     {
-      "id": "f_ca32ec9d4f461f",
-      "provider": "finnhub",
-      "ticker": "TSLA",
+      "id": "av_60546e0d351e57",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
       "category": "general",
-      "title": "Howmet Aerospace Stock Is Sliding on SpaceX Fears. Here’s Why That Could Be a Buying Opportunity.",
-      "summary": "Strong earnings growth, rising demand, and bullish analyst sentiment suggest investors may be underestimating the aerospace supplier’s long-term prospects.",
-      "url": "https://finnhub.io/api/news?id=1386c1c6e0bb3aba20093137f379ac10394aca838a06e945a5c2772d9227be64",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T18:30:02+00:00",
-      "change_pct": -5.92
+      "title": "Groupe la Francaise Grows Position in Colgate-Palmolive Company $CL",
+      "summary": "Groupe la Francaise has increased its stake in Colgate-Palmolive Company by 47.9% in the second quarter, now owning 205,115 shares valued at $18.75 million. Other hedge funds also adjusted their positions, and institutional investors collectively own 80.41% of the stock. The arti",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-groupe-la-francaise-grows-position-in-colgate-palmolive-company-cl-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T08:38:12+00:00",
+      "sentiment": 0.143364,
+      "change_pct": -1.58
     },
     {
       "id": "av_21d82f055434a2",
@@ -1613,21 +1960,20 @@
       "url": "https://247wallst.com/investing/2026/09/07/nvidia-is-no-longer-just-a-chip-company-its-the-infrastructure-platform-for-all-of-ai/",
       "source": "24/7 Wall St.",
       "published_at": "2026-09-07T17:12:50+00:00",
-      "sentiment": 0.031272,
-      "change_pct": 0.84
+      "sentiment": 0.03462,
+      "change_pct": -1.58
     },
     {
-      "id": "av_16895c2ab9358c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_ca32ec9d4f461f",
+      "provider": "finnhub",
+      "ticker": "TSLA",
       "category": "general",
-      "title": "Nvidia (NVDA) Stock Prediction: $365 Bull, $145 Bear, 8% of S&P 500",
-      "summary": "This article analyzes Nvidia's (NVDA) stock performance and its significant impact on the S&P 500, offering bull and bear case predictions of $365 and $145, respectively. It delves into the company's financial strategies, highlighting how Nvidia is increasingly self-financing its",
-      "url": "https://financefeeds.com/nvidia-nvda-stock-prediction-365-bull-145-bear-sp-500/",
-      "source": "FinanceFeeds",
-      "published_at": "2026-09-07T08:12:50+00:00",
-      "sentiment": -0.228351,
-      "change_pct": 0.84
+      "title": "Howmet Aerospace Stock Is Sliding on SpaceX Fears. Here’s Why That Could Be a Buying Opportunity.",
+      "summary": "Strong earnings growth, rising demand, and bullish analyst sentiment suggest investors may be underestimating the aerospace supplier’s long-term prospects.",
+      "url": "https://finnhub.io/api/news?id=1386c1c6e0bb3aba20093137f379ac10394aca838a06e945a5c2772d9227be64",
+      "source": "Yahoo",
+      "published_at": "2026-09-07T18:30:02+00:00",
+      "change_pct": 3.19
     },
     {
       "id": "f_1a1c2b45b67194",
@@ -1639,7 +1985,7 @@
       "url": "https://finnhub.io/api/news?id=88c95b2609eea58b44dad89b1dbc9441a45651859093052dba1c44d200b2e587",
       "source": "Yahoo",
       "published_at": "2026-09-07T18:18:17+00:00",
-      "change_pct": 0.21
+      "change_pct": 3.49
     },
     {
       "id": "f_9d0e5204c0dc4a",
@@ -1651,45 +1997,46 @@
       "url": "https://finnhub.io/api/news?id=b34eb67534a315a21ffc27dcbe01a0b9bd76c8feb4efea42caaf6b82fbb8bc03",
       "source": "Yahoo",
       "published_at": "2026-09-07T18:17:00+00:00",
-      "change_pct": -1.17
+      "change_pct": -0.02
     },
     {
-      "id": "f_ff86d7e677b4eb",
-      "provider": "finnhub",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Should You Buy Marvell Technology Stock Before Oct. 6?",
-      "summary": "The company's Investor Day event is coming up next month, which may feature some big announcements.",
-      "url": "https://finnhub.io/api/news?id=3ea9224d2db1cec32d022aa830f5964a98aef4d7711afa9dad2071c33dbe6f70",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T18:14:21+00:00",
-      "change_pct": 7.05
-    },
-    {
-      "id": "av_667bf13dae7cde",
+      "id": "av_2259bede6c16e9",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "DMC Group LLC Has $4.24 Million Stock Holdings in Advanced Micro Devices, Inc. $AMD",
-      "summary": "DMC Group LLC reduced its stake in Advanced Micro Devices (AMD) by 26.8% in the second quarter, now holding 7,297 shares valued at approximately $4.24 million, representing 2.9% of its total holdings. Despite this, AMD reported strong quarterly results with a 50.1% year-over-year",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-dmc-group-llc-has-424-million-stock-holdings-in-advanced-micro-devices-inc-amd-2026-09-07/",
+      "title": "Kintra Wealth LLC Has $2.23 Million Stock Position in Advanced Micro Devices, Inc. $AMD",
+      "summary": "Kintra Wealth LLC significantly increased its stake in Advanced Micro Devices (AMD) by 80.8% in the second quarter, bringing its total holdings to 3,832 shares valued at approximately $2.23 million. While institutional investors broadly show bullish sentiment with a \"Moderate Buy",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-kintra-wealth-llc-has-223-million-stock-position-in-advanced-micro-devices-inc-amd-2026-09-07/",
       "source": "MarketBeat",
-      "published_at": "2026-09-07T08:11:52+00:00",
-      "sentiment": -0.222859,
-      "change_pct": 0.84
+      "published_at": "2026-09-07T10:11:55+00:00",
+      "sentiment": 0.130286,
+      "change_pct": -1.58
     },
     {
-      "id": "av_50501b992dfd24",
+      "id": "av_03dda56b7eb668",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Saudi Central Bank Has $3.46 Million Stock Position in Microchip Technology Incorporated $MCHP",
-      "summary": "The Saudi Central Bank significantly increased its stake in Microchip Technology, acquiring an additional 17,930 shares, bringing its total position to $3.46 million. This move comes as institutional investors and hedge funds collectively own a substantial 91.51% of MCHP. Microch",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-saudi-central-bank-has-346-million-stock-position-in-microchip-technology-incorporated-mchp-2026-09-07/",
+      "title": "Nykredit A S Makes New $2.70 Million Investment in Gen Digital Inc. $GEN",
+      "summary": "Nykredit A/S has made a new $2.70 million investment in Gen Digital Inc. (NASDAQ:GEN), purchasing 108,629 shares in the second quarter. This move comes as Gen Digital reported strong quarterly results, exceeding expectations with EPS of $0.71 and revenue of $1.34 billion, alongsi",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-makes-new-270-million-investment-in-gen-digital-inc-gen-2026-09-07/",
       "source": "MarketBeat",
-      "published_at": "2026-09-07T09:40:47+00:00",
-      "sentiment": 0.211475,
-      "change_pct": 0.84
+      "published_at": "2026-09-07T08:46:55+00:00",
+      "sentiment": 0.129092,
+      "change_pct": -1.58
+    },
+    {
+      "id": "av_e2279625bd7479",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Legal & General Group Plc Takes $1.20 Million Position in Oil-Dri Corporation Of America $ODC",
+      "summary": "Legal & General Group Plc has acquired a significant stake in Oil-Dri Corporation of America, purchasing 11,733 shares valued at approximately $1.20 million in the second quarter. This move is part of a broader trend, as several other institutional investors, including Bard Assoc",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-legal-general-group-plc-takes-120-million-position-in-oil-dri-corporation-of-america-odc-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T09:00:34+00:00",
+      "sentiment": 0.126475,
+      "change_pct": -1.58
     },
     {
       "id": "f_fd8d823a7e8db4",
@@ -1701,20 +2048,7 @@
       "url": "https://finnhub.io/api/news?id=bf46d5fc87db0840c609e999e46f6316399e64b84807a770afa577a920cecf40",
       "source": "Yahoo",
       "published_at": "2026-09-07T17:54:00+00:00",
-      "change_pct": -5.92
-    },
-    {
-      "id": "av_286d2fc5afe5b1",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Ameritas Advisory Services LLC Raises Stake in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Ameritas Advisory Services LLC significantly increased its stake in Advanced Micro Devices (NASDAQ:AMD) by 136.7% during the second quarter, bringing its total holdings to 35,039 shares valued at $20,354,000. Institutional investors collectively own 71.34% of AMD's stock. The art",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ameritas-advisory-services-llc-raises-stake-in-advanced-micro-devices-inc-amd-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:11:52+00:00",
-      "sentiment": -0.21503,
-      "change_pct": 0.84
+      "change_pct": 3.19
     },
     {
       "id": "f_2eead909427b73",
@@ -1737,7 +2071,7 @@
       "url": "https://finnhub.io/api/news?id=1b8ef658bab4e882d8bdaf610ba4187b6ce3e5e70eb0638537b07bb71299b951",
       "source": "Yahoo",
       "published_at": "2026-09-07T17:41:02+00:00",
-      "change_pct": -1.17
+      "change_pct": -0.02
     },
     {
       "id": "f_f717e7624df664",
@@ -1749,7 +2083,7 @@
       "url": "https://finnhub.io/api/news?id=42e021a8d5b615c94a6d165a5986c499964aecbb1ee9499813535010fa9f9e97",
       "source": "Yahoo",
       "published_at": "2026-09-07T17:39:33+00:00",
-      "change_pct": 7.05
+      "change_pct": 2.9
     },
     {
       "id": "f_99593bdc33b5dc",
@@ -1761,20 +2095,7 @@
       "url": "https://finnhub.io/api/news?id=9b620b832687ef09b0f2d24212f69c03801b65f25c8cad0b7f60ca4a316097e2",
       "source": "Yahoo",
       "published_at": "2026-09-07T17:35:03+00:00",
-      "change_pct": -5.92
-    },
-    {
-      "id": "av_8f14b07a1e6af2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Greenland Capital Management LP Purchases New Shares in Republic Services, Inc. $RSG",
-      "summary": "Greenland Capital Management LP has acquired a new position in Republic Services, Inc. (NYSE:RSG), purchasing 24,660 shares valued at approximately $5.255 million. Other institutional investors have also adjusted their holdings in the company, with insider Cascade Investment, L.L",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-greenland-capital-management-lp-purchases-new-shares-in-republic-services-inc-rsg-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:51:54+00:00",
-      "sentiment": 0.20848,
-      "change_pct": 0.84
+      "change_pct": 3.19
     },
     {
       "id": "f_013e57050aefef",
@@ -1808,7 +2129,7 @@
       "url": "https://finnhub.io/api/news?id=b388368762f7aa2c9373111e5adae3be3bda393d3350ef21e60d0b52fc430eb9",
       "source": "Yahoo",
       "published_at": "2026-09-07T17:24:03+00:00",
-      "change_pct": 4.69
+      "change_pct": 6.66
     },
     {
       "id": "f_8f1e0ebb69487b",
@@ -1842,7 +2163,20 @@
       "url": "https://finnhub.io/api/news?id=f77440f5c50f6042d729176d9b71e01853a74822880bcf4d9e8eb309ee5138c1",
       "source": "Yahoo",
       "published_at": "2026-09-07T17:07:00+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
+    },
+    {
+      "id": "av_69992092aa949d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "TD Waterhouse Canada Inc. Purchases 436,860 Shares of Mizuho Financial Group, Inc. $MFG",
+      "summary": "TD Waterhouse Canada Inc. significantly increased its stake in Mizuho Financial Group (NYSE:MFG) by acquiring 436,860 shares in the second quarter, bringing its total holdings to 439,047 shares valued at approximately $4.3 million. Mizuho reported strong quarterly earnings, beati",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-td-waterhouse-canada-inc-purchases-436860-shares-of-mizuho-financial-group-inc-mfg-2026-09-07/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-07T09:15:34+00:00",
+      "sentiment": 0.103736,
+      "change_pct": -1.58
     },
     {
       "id": "f_4fa0c6b71bb008",
@@ -1854,7 +2188,7 @@
       "url": "https://finnhub.io/api/news?id=c9d3559d154dcd7b946d8866616d9de4f4cf5120b30f5a30e184116b6639b3e7",
       "source": "Yahoo",
       "published_at": "2026-09-07T17:00:20+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_d97a29dee076a2",
@@ -1866,7 +2200,7 @@
       "url": "https://finnhub.io/api/news?id=b47f4345a1532218546d58f41d29a5f8a4db384e1bff22250b6094bbe7e6bfc7",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:52:50+00:00",
-      "change_pct": 0.21
+      "change_pct": 3.49
     },
     {
       "id": "f_530283cec0cbdc",
@@ -1889,7 +2223,7 @@
       "url": "https://finnhub.io/api/news?id=9f50f0cbfc447d0a5a1d687539d362dfddecec9c7979cba4e3b41c88925b5f86",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:49:16+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_80c8d96d13fb55",
@@ -1901,7 +2235,7 @@
       "url": "https://finnhub.io/api/news?id=45b43e32c69fcd907bccf6934cff36a1afb8be143e2cd263c03748647c2f4f20",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:45:50+00:00",
-      "change_pct": -2.04
+      "change_pct": -1.35
     },
     {
       "id": "f_d899d8682167df",
@@ -1924,7 +2258,7 @@
       "url": "https://finnhub.io/api/news?id=20f6b826f6cc57c8a5cf8f671d9c6d6086220370cb0f4b1f246d9ec1f86d2d14",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:42:00+00:00",
-      "change_pct": -0.15
+      "change_pct": -0.63
     },
     {
       "id": "f_fdc9f86f279c3c",
@@ -1936,7 +2270,7 @@
       "url": "https://finnhub.io/api/news?id=7ab2874e38eb2891e3e9cba8e520a4f00d0705364afec320c947f4124539e7d0",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:41:04+00:00",
-      "change_pct": -0.15
+      "change_pct": -0.63
     },
     {
       "id": "f_87b1f0900a4377",
@@ -1948,7 +2282,7 @@
       "url": "https://finnhub.io/api/news?id=cb18f714fda83bd60a692cbfddf9735cdf2cc14fe004910f1889b74157a4f418",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:39:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_5c21a11a6bf568",
@@ -1960,7 +2294,7 @@
       "url": "https://finnhub.io/api/news?id=cc58735c2e268622cdb2b60372b4b56194f0e75eaea492afd4473dc018f3cd58",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:37:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_6bc0629a82a7cd",
@@ -1972,7 +2306,7 @@
       "url": "https://finnhub.io/api/news?id=55273565b279248d7eaee095aee567ace2e5073ecc070dc0f6a1d768350a50ba",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:35:54+00:00",
-      "change_pct": -2.04
+      "change_pct": -1.35
     },
     {
       "id": "f_94ef2f8bab8aa8",
@@ -1984,7 +2318,7 @@
       "url": "https://finnhub.io/api/news?id=04cf90d6658bb59287c971a7ecbdea09a06259ea4b3739333c02f24ba9cf0d35",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:25:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_9f962d6697d263",
@@ -2018,7 +2352,7 @@
       "url": "https://finnhub.io/api/news?id=f5605ef5323b02d2ef76dfd77a0ea86515c9486606a9079d3b9e296b5237daec",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:20:01+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_75ed695ae5f7a3",
@@ -2030,7 +2364,7 @@
       "url": "https://finnhub.io/api/news?id=44dddb55bb0d7ed25552d7253c8bf8e890e65c33b8405b205c6779707d7fd853",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:20:00+00:00",
-      "change_pct": -1.17
+      "change_pct": -0.02
     },
     {
       "id": "f_1cdcf574ac14c9",
@@ -2042,7 +2376,7 @@
       "url": "https://finnhub.io/api/news?id=4a729d7e3a6e8ca0e894aec5b980f5438d95f79edfd86290591b737842e5ffd0",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:05:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_f81dacfb5d665c",
@@ -2065,7 +2399,7 @@
       "url": "https://finnhub.io/api/news?id=609fd8dc7ca05cb32273a37e4bf4e411a5b7aaa02536fa011c5e01eb09f77ee1",
       "source": "Yahoo",
       "published_at": "2026-09-07T16:00:22+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_c5d9ada8c6de03",
@@ -2077,7 +2411,7 @@
       "url": "https://finnhub.io/api/news?id=0c382cbcde9ba4178268a50dcc2b63d7dbc8013a1e3fd61d2e9e43c49ce4ea8e",
       "source": "Yahoo",
       "published_at": "2026-09-07T15:57:33+00:00",
-      "change_pct": -2.04
+      "change_pct": -1.35
     },
     {
       "id": "f_78175a01ca5e84",
@@ -2100,7 +2434,7 @@
       "url": "https://finnhub.io/api/news?id=e975fd90f7b798480493cc314dccf3ca1f6659db1ed151380c8712c762c87b12",
       "source": "Yahoo",
       "published_at": "2026-09-07T15:50:01+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_96d57914395aa0",
@@ -2112,7 +2446,7 @@
       "url": "https://finnhub.io/api/news?id=93180b1bc757d71d438da8407a077087cc59e9a4c91348a7be90023013e6e996",
       "source": "Yahoo",
       "published_at": "2026-09-07T15:50:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_9d9645d5203d94",
@@ -2124,7 +2458,7 @@
       "url": "https://finnhub.io/api/news?id=b00df3789445700e3808c68150d32d8ac532b32ccdddb90f87bb0d2a86857517",
       "source": "Yahoo",
       "published_at": "2026-09-07T15:43:26+00:00",
-      "change_pct": -5.92
+      "change_pct": 3.19
     },
     {
       "id": "f_98bfbfc34c2fff",
@@ -2136,7 +2470,7 @@
       "url": "https://finnhub.io/api/news?id=237ae467380e7f5046eb8be771225b74aa0ed8b12a0d9ed293e0eb4a759d9384",
       "source": "Yahoo",
       "published_at": "2026-09-07T15:42:00+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_3209df498f78f1",
@@ -2148,7 +2482,7 @@
       "url": "https://finnhub.io/api/news?id=ed58ccb2a6d417bdb7eafb56f307cb7f915d6a5ce939224d2e07ec6d5f917b32",
       "source": "Yahoo",
       "published_at": "2026-09-07T15:40:57+00:00",
-      "change_pct": 0.84
+      "change_pct": -1.58
     },
     {
       "id": "f_b42176fbed5767",
@@ -2160,344 +2494,10 @@
       "url": "https://finnhub.io/api/news?id=fc5597f5b2462e389193f656b4ba251bbca47ecdebe6ff8c26a1a960dc22a2e7",
       "source": "Yahoo",
       "published_at": "2026-09-07T15:40:45+00:00"
-    },
-    {
-      "id": "f_e895b5c1fff50f",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Meet the AI Infrastructure Stock That Has Tripled in 2026 (Hint: It Can Still Double)",
-      "summary": "The incredible demand for storage in AI data centers suggests that Seagate's terrific rally is sustainable.",
-      "url": "https://finnhub.io/api/news?id=fbe5d8410b7d1b708c2cab4a0510c6f53d16bb2ac6d818171d688f56b5b0dab5",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:36:01+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_8ec2bc241f235d",
-      "provider": "finnhub",
-      "ticker": "INTC",
-      "category": "general",
-      "title": "Prediction: Intel Stock Is Up Big in 2026. But the Best May Still Be Ahead",
-      "summary": "Intel shares have already surged over 140% this year, but a bold price target sitting 64% above current levels is forcing a real question: does the math actually hold, or is this rally running on fumes?",
-      "url": "https://finnhub.io/api/news?id=b82267692fe3a5d79f70cf73457e49ff1548034f2375ca039bc025ca35ed546d",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:30:52+00:00"
-    },
-    {
-      "id": "av_2259bede6c16e9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Kintra Wealth LLC Has $2.23 Million Stock Position in Advanced Micro Devices, Inc. $AMD",
-      "summary": "Kintra Wealth LLC significantly increased its stake in Advanced Micro Devices (AMD) by 80.8% in the second quarter, bringing its total holdings to 3,832 shares valued at approximately $2.23 million. While institutional investors broadly show bullish sentiment with a \"Moderate Buy",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-kintra-wealth-llc-has-223-million-stock-position-in-advanced-micro-devices-inc-amd-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T10:11:55+00:00",
-      "sentiment": 0.128701,
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_13275237b10144",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Will SpaceX Stock Get Back to $200 Before the End of 2026?",
-      "summary": "The stock soared above $200 in its early trading days, but it's been struggling since then.",
-      "url": "https://finnhub.io/api/news?id=687bf3690c2e70f32c6d7f07347cd6e5f2d773e2fea105ae8048b17d24b286e0",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:20:01+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_d232b8a8977673",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "What Retirement Really Looks Like With Average Savings and Social Security at 62",
-      "summary": "You won't be living in the lap of luxury, but there are ways to improve your situation.",
-      "url": "https://finnhub.io/api/news?id=b47aa42086bc083c794d247a8d27d1648fd93261ed994988e3b12a8eb16352c4",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:20:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_50f7cda21e311e",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Microsoft Stock Is Building a Trillion-Dollar AI Opportunity. Is $600 Next?",
-      "summary": "Azure just crossed a revenue milestone that caught Wall Street off guard, and Microsoft's backlog tells a story the headline numbers barely hint at. Whether the stock can push toward $600 depends on one number that most investors are not watching closely enough.",
-      "url": "https://finnhub.io/api/news?id=cb0691a9cce468da03f653426f3bea8ca9143c1dd284f0365fe1f7bfe52756fc",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:15:19+00:00",
-      "change_pct": -1.17
-    },
-    {
-      "id": "f_df27677295e83b",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Can Silicon Motion's CRA Compliance Efforts Drive Future Growth?",
-      "summary": "SIMO reaches an initial EU Cyber Resilience Act compliance milestone, strengthening product security and vulnerability management.",
-      "url": "https://finnhub.io/api/news?id=9bd3609a680e738cee6ebce88730f4eebae529c5942a85ac0b7eb8bc4d22cf16",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:11:00+00:00"
-    },
-    {
-      "id": "av_3c7ac2c4179129",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Advanced Micro Devices, Inc. $AMD Shares Purchased by California State Teachers Retirement System",
-      "summary": "The California State Teachers Retirement System significantly increased its holdings in Advanced Micro Devices (AMD) by 58,272% in the second quarter, making it their 13th largest holding. Despite this institutional confidence and strong quarterly revenue growth of 50.1%, the sto",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-advanced-micro-devices-inc-amd-shares-purchased-by-california-state-teachers-retirement-system-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:11:52+00:00",
-      "sentiment": 0.147807,
-      "change_pct": 0.84
-    },
-    {
-      "id": "av_03dda56b7eb668",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nykredit A S Makes New $2.70 Million Investment in Gen Digital Inc. $GEN",
-      "summary": "Nykredit A/S has made a new $2.70 million investment in Gen Digital Inc. (NASDAQ:GEN), purchasing 108,629 shares in the second quarter. This move comes as Gen Digital reported strong quarterly results, exceeding expectations with EPS of $0.71 and revenue of $1.34 billion, alongsi",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-nykredit-a-s-makes-new-270-million-investment-in-gen-digital-inc-gen-2026-09-07/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-07T08:46:55+00:00",
-      "sentiment": 0.147428,
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_7b1174b4eb041d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "How Nvidia’s Investment Juggernaut Can Jump from Big to Enormous",
-      "summary": "Nvidia has big investments in Intel, SpaceX and many more public companies. But its stakes in OpenAI and Anthropic are the real prize.",
-      "url": "https://finnhub.io/api/news?id=dfd32d6523dd94c55deb552b3ac63439d8b04483f0fd0b24d6db0a6273308319",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:07:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_edc902a04b2335",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia’s (NVDA) Strong Results Reinforce Long Term Outlook",
-      "summary": "Sustainable Growth Advisers (SGA), an investment management company, released its second-quarter 2026 investor letter for its “U.S. Large Cap Growth Strategy.” The letter can be downloaded here. SGA focuses on building high-conviction portfolios of quality growth businesses expected to achieve mid-teens earnings growth with less variability. Their investment strategy aims to protect and compound client capital. […]",
-      "url": "https://finnhub.io/api/news?id=1c26bc114e29547cdc275a10e3b3f68ea97c9bfc5b1e963ea89938a599c93c7d",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:05:01+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_f0a1fa15cb4d12",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy Now.",
-      "summary": "For my money, Mondelez is the best bet of the Nasdaq-100's high-yield names.",
-      "url": "https://finnhub.io/api/news?id=2174d70a766081bdd8a73346df33a60a96c42372d1e9faef2a5fadd7bbf61936",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:05:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_885e8b17855ce6",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Is Apple Stock a Buy Now Ahead of its Product Launch Event?",
-      "summary": "Ahead of Wednesday's launch, AAPL faces a tricky mix: strong demand, rising costs, tight supply, and a premium stock valuation.",
-      "url": "https://finnhub.io/api/news?id=3ee56adc580aeb1cfdce31ba37534e7d5f9b8531f9126d2dfb8877003cf73321",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T15:00:00+00:00",
-      "change_pct": -1.17
-    },
-    {
-      "id": "f_1f577a7440e21e",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Micron Stock Has Reclaimed $1,000—What Comes Next",
-      "summary": "FEATURE   Micron Technology has pushed back above $1,000 a share. The memory-chip maker could be set for further gains in the run up to its earnings report late this month.  Micron closed up 6.1% at $1,016.",
-      "url": "https://finnhub.io/api/news?id=2cfdd808009305dd6ededc6ef59e1e33551bc2e975292a72fb988771feb1f085",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:58:00+00:00"
-    },
-    {
-      "id": "f_0e01e7fabb2528",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here’s What That Means for Your Portfolio",
-      "summary": "The iShares S&P 100 ETF just swapped out a toothpaste giant and a mall REIT for four AI infrastructure plays, and the move reveals something uncomfortable about what this so-called blue-chip fund has quietly become.",
-      "url": "https://finnhub.io/api/news?id=42fbcd571f4e0ff319ea17c0fe94bd2d9085859a6a211459ff345ebc0a878b0d",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:52:56+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_ece7af6556d367",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "How Elastic Stock Bounced 48.3% Higher Last Month",
-      "summary": "Elastic just posted one of its strongest months on record. Here's what drove the surge, and how the stock's valuation compares to a slower-growing rival.",
-      "url": "https://finnhub.io/api/news?id=aae8f31d39acf063f9d20c8e7056d9e8c1a6f9053762c20752fabff6964db140",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:50:44+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_fc123dc764b368",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Better Space Stock: AST SpaceMobile vs. L3Harris Technologies",
-      "summary": "AST SpaceMobile's shares have come back to Earth. Is it now a better buy than L3Harris Technologies?",
-      "url": "https://finnhub.io/api/news?id=76e00d25b51fd0f1381f575cd868e0e7088ae02c68c57521c96c7d00b66a5337",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:50:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_47a4adc543c749",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Are You Ready for Early Retirement? 3 Signs You Can Safely Move Forward.",
-      "summary": "If these apply to you, consider it the all-clear.",
-      "url": "https://finnhub.io/api/news?id=4bf112fcde0e00e684664edd86323a91fcd42e3b9a6d24a5acad5a2ac6c860e1",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:43:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_95038a1f5c9c71",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Palantir Stock Could Make a Dramatic Move Over the Next Year (Hint: It Implies a Big Move)",
-      "summary": "Palantir has seen a parabolic jump in its stock price following its earnings report, and it can sustain its impressive momentum in the coming year.",
-      "url": "https://finnhub.io/api/news?id=20b226e6c9de799af015715ae850e20f687ef6ebd708d6c3a0d6f26ed91066a1",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:43:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_50a31f324267ca",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Are Retail-Wholesale Stocks Lagging  Amazon.com (AMZN) This Year?",
-      "summary": "Here is how Amazon (AMZN) and BJ's Restaurants (BJRI) have performed compared to their sector so far this year.",
-      "url": "https://finnhub.io/api/news?id=645bc31ee7bf59b926ae27a3fab502e63dfbde1d7da2e2829960510937f98c2a",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:40:05+00:00",
-      "change_pct": -0.15
-    },
-    {
-      "id": "f_932eccd5e78449",
-      "provider": "finnhub",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Broadcom vs Marvell: One of These AI Chip Stocks Is a Clear Winner",
-      "summary": "Broadcom and Marvell both just reported blowout AI chip quarters, but the gap between them runs far deeper than raw revenue numbers. Picking the right one depends on what kind of risk you are actually willing to take.",
-      "url": "https://finnhub.io/api/news?id=10cacaa0c276487f38fdc13443277bde152a7bc9aa6864dd73b60840f308cc19",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:38:52+00:00",
-      "change_pct": 7.05
-    },
-    {
-      "id": "f_598014c0e740c6",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Investors Pulled $700 Million From IGV Hours Before Snowflake Reignited Software",
-      "summary": "Investors yanked $700 million from the top software ETF in a single session, and within hours a major earnings report threatened to make that timing look catastrophic. Whether the selloff was a blunder or a bullet dodged depends on a deeper AI disruption debate that has kept the fund negative all year.",
-      "url": "https://finnhub.io/api/news?id=8e593eda15a8a5e2cb6a56e330c9bff38b88c816bcc465d34f6fd84cfe25481e",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:37:45+00:00",
-      "change_pct": -2.04
-    },
-    {
-      "id": "f_2233e54d029fd3",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "3 Dividend Kings You Can Buy and Never Sell",
-      "summary": "Dividend Kings provide stability to income investors.",
-      "url": "https://finnhub.io/api/news?id=926eade15a117ba589e9835bb08a0a1637065cca65fb3c47ce3b021f99ce26e5",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:35:00+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_005545df1cd3e8",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Do You Think Micron Technology’s (MU) Return Drivers May Falter Ahead",
-      "summary": "Generation Investment Management, an investment management firm, released its “Global Equity Strategy” second quarter 2026 investor letter. The letter can be downloaded here. The letter discusses the challenges of AI-driven market concentration and emphasizes the potential for long-term investors. It notes that the best companies are currently underperforming due to market returns being concentrated in […]",
-      "url": "https://finnhub.io/api/news?id=3ca68b0cceedb0d6ba146fc3953fd47aba9d6e806ac3262ce62e735c1a3a9385",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:34:59+00:00"
-    },
-    {
-      "id": "f_c002d3d0888fb8",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Which Optics Stock Has Dominated in 2026: Applied Optoelectronics, Lumentum, or Coherent?",
-      "summary": "AI datacenter spending has turned optical networking into one of 2026's hottest trades, but the three biggest U.S. optics stocks have performed so differently that picking the wrong one meant leaving triple-digit gains on the table.",
-      "url": "https://finnhub.io/api/news?id=744193782ab532c7f4178bfc5ba1cb0fa2d5854dfe1c2b4eb887468dabc37b4f",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:30:22+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_a668f9e10e4f27",
-      "provider": "finnhub",
-      "ticker": "RKLB",
-      "category": "general",
-      "title": "Can Rocket Lab's SDN Contracts Boost Growth Opportunities?",
-      "summary": "RKLB expands its military space communication role through new SDN contracts, supporting secure optical links and future satellite network opportunities.",
-      "url": "https://finnhub.io/api/news?id=8089512c25917d1b5bf69cabde11d2b730a2da30c333c28386c8bac945b0cff6",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:30:00+00:00"
-    },
-    {
-      "id": "f_91149586a6e07b",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Warren Buffett's Successor, Greg Abel, Sees Multiple Ways for Berkshire Hathaway to Profit From Opportunities in Artificial Intelligence",
-      "summary": "Berkshire doesn't look to be shying away from artificial intelligence under its new CEO at all.",
-      "url": "https://finnhub.io/api/news?id=728f909ad824de32fd831a61f9898b7e852dfa718828825aeca0b4d9365e5144",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:20:01+00:00",
-      "change_pct": 0.84
-    },
-    {
-      "id": "f_96a3c1d649ead1",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "If You'd Invested $10,000 in the Vanguard Information Technology ETF (VGT) 20 Years Ago, Here's What You'd Have Today. (You Might Want to Sit Down.)",
-      "summary": "This exchange-traded fund has been a boffo performer for many years.",
-      "url": "https://finnhub.io/api/news?id=2f333c34d7b16392782b496d234c73ff751c9b339cbe2101ba7736e59e8203d8",
-      "source": "Yahoo",
-      "published_at": "2026-09-07T14:20:00+00:00",
-      "change_pct": 0.84
     }
   ],
-  "fetched_at": "2026-09-08T11:53:32.889931+00:00",
+  "fetched_at": "2026-09-08T15:37:40.167457+00:00",
   "source_count": 4,
-  "translated_at": "2026-09-08T11:53:35.261397+00:00",
+  "translated_at": "2026-09-08T15:37:42.729119+00:00",
   "translation_engine": "google-parallel"
 }
