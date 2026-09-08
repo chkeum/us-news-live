@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-09-08T21:32:59.525947+00:00",
+  "fetched_at": "2026-09-08T23:39:03.314049+00:00",
   "us_mood_score": 39,
-  "kr_mood_score": 37,
+  "kr_mood_score": 50,
   "us_mood": "bearish",
-  "kr_mood": "bearish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "AMD",
@@ -24,7 +24,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 3.42,
-      "actual_kr_pct": 0.56,
+      "actual_kr_pct": 0.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 505.74,
       "kr_price": 1793000.0
@@ -36,7 +36,7 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.71,
-      "actual_kr_pct": -3.86,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 368.16,
       "kr_price": 348500.0
@@ -48,7 +48,7 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.47,
-      "actual_kr_pct": -1.78,
+      "actual_kr_pct": 0.0,
       "reason": "NCA 양극재 공급",
       "us_price": 368.16,
       "kr_price": 104800.0
@@ -144,7 +144,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.45,
-      "actual_kr_pct": 0.56,
+      "actual_kr_pct": 0.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 225.73,
       "kr_price": 1793000.0
@@ -156,7 +156,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.25,
-      "actual_kr_pct": 0.56,
+      "actual_kr_pct": 0.0,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 368.56,
       "kr_price": 1793000.0
@@ -168,7 +168,7 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.05,
-      "actual_kr_pct": -0.19,
+      "actual_kr_pct": 0.0,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 225.73,
       "kr_price": 269500.0
@@ -216,7 +216,7 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.4,
-      "actual_kr_pct": -1.61,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 493.95,
       "kr_price": 214500.0
@@ -228,7 +228,7 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.37,
-      "actual_kr_pct": 0.56,
+      "actual_kr_pct": 0.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 225.41,
       "kr_price": 1793000.0
@@ -240,7 +240,7 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.37,
-      "actual_kr_pct": -3.15,
+      "actual_kr_pct": 0.0,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 493.95,
       "kr_price": 35400.0
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.19,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.25,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -2.82,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": 2.31,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -2.38,
+      "kr_actual_avg_pct": 0.0,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.22,
       "lag_hours": 8
@@ -329,10 +329,22 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "Adobe's Next Earnings Report on Sept. 10 Could Send the Stock Plunging. Here's Why.",
+      "title": "Prediction: This AI Power Stock Will Double Revenue Before 2030. Here's the Math.",
       "title_kr": null,
       "source": "Yahoo",
-      "published_at": "2026-09-08T18:27:23+00:00",
+      "published_at": "2026-09-08T21:25:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "title": "AMD Guides to $70 Billion of 2027 Data Center Revenue",
+      "title_kr": null,
+      "source": "Yahoo",
+      "published_at": "2026-09-08T21:11:35+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "카카오"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Intel Stock Jumps on Major Analyst Upgrade",
-      "title_kr": null,
-      "source": "Yahoo",
-      "published_at": "2026-09-08T17:26:36+00:00",
-      "category": "analyst",
-      "kr_pairs": [
-        "LG에너지솔루션",
-        "에코프로비엠"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 78543,
-      "change_pct": -0.87,
+      "price": 78465,
+      "change_pct": -0.72,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +5.9% → 한미반도체 개장 상방 압력 예상 (+4.0% 전후). US 무드 39/100, KR 무드 37/100."
+  "summary": "미국 AMD +5.9% → 한미반도체 개장 상방 압력 예상 (+4.0% 전후). US 무드 39/100, KR 무드 50/100."
 }
