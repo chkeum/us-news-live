@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "f_3b4dd691b1e377",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "Lockheed Martin Yields 2.6% and Trades at 17.6 Times Earnings. Is Wall Street Right to Be Cautious on the Stock ?",
+      "summary": "The defense industry is changing, creating pressure on traditional ways of working.",
+      "url": "https://finnhub.io/api/news?id=6301d3a753c546824e1f815460074a71c65a426bbc5b11ece8c174705dfd1054",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:25:00+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_0b752fff8ac9ff",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "Nvidia Has $96 Billion in Quarterly Revenue. Here's Why the Stock Is Still a Buy.",
+      "summary": "Nvidia's next AI platform is already shipping -- and its 2028 growth outlook could be far bigger than Wall Street expects.",
+      "url": "https://finnhub.io/api/news?id=90f3858225bf7e19b8f38f216f0615a4d2567ac937302f53798e2d2126a2dab8",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:59:00+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_f5db4db1a9695e",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "Tsakos Energy Navigation Limited Q2 2026 Earnings Call Summary",
+      "summary": "Moby summary of Tsakos Energy Navigation Limited's Q2 2026 earnings call",
+      "url": "https://finnhub.io/api/news?id=2969ae69bc492eff0785b0da66d47b983bc79910b5c8b767b319dec53c72a3af",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:56:11+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_e9a58920871905",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "earnings",
+      "title": "Oracle earnings: Do concentration risks fall on Oracle or the big AI firms?",
+      "summary": "Oracle (ORCL) tops fiscal first quarter earnings and revenue estimates; the stock is gaining in Thursday's after-hours trading. Epistrophy Capital Research chief market strategist Cory Johnson speaks with Josh Lipton about Oracle's results and where certain concentration risks lie within the AI ecosystem.",
+      "url": "https://finnhub.io/api/news?id=6b000404723b86e53d7b40ab3da4806b3023a605c5ae20a0fa1b99b75e02d760",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:37:51+00:00",
+      "change_pct": 0.59
+    },
+    {
       "id": "f_b69d58bef22559",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -156,29 +204,6 @@
       "change_pct": -0.2
     },
     {
-      "id": "f_7c731b1cf86a25",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "earnings",
-      "title": "Can Seagate Sustain Its Strong Revenue Growth in Fiscal 2027?",
-      "summary": "STX expects fiscal 2027 revenue growth to exceed fiscal 2026 as cloud demand, AI adoption and HAMR expansion support mass-capacity storage.",
-      "url": "https://finnhub.io/api/news?id=66c4087a0487a2e94521eb5b7061560037531345caa2eba53369d514d03cdf4d",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:07:00+00:00"
-    },
-    {
-      "id": "f_7e3bcacd217673",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Is Chewy a Buy After Its Latest Earnings Report?",
-      "summary": "Chewy fell 11% yesterday as the once-strong growth story seems to be falling apart.",
-      "url": "https://finnhub.io/api/news?id=12e5c5bd16777a15371496bd08b1cf4fa8aadbe35adaaf2226f80a4e0b2dd7eb",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:59:24+00:00",
-      "change_pct": -2.37
-    },
-    {
       "id": "f_9943166dbc22f3",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -188,18 +213,6 @@
       "url": "https://finnhub.io/api/news?id=91683319724c07e31b50508c51f34184c0b8c329a0c70458fb0284e239282d6b",
       "source": "Yahoo",
       "published_at": "2026-09-10T18:52:34+00:00"
-    },
-    {
-      "id": "f_6cb8c6d9f8fd3b",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "analyst",
-      "title": "Meta Stock Scores Wall Street Upgrade After Muse AI App Launch",
-      "summary": "Meta stock is a buy after the strong initial reaction to its Muse AI app, according to analysts at JPMorgan.",
-      "url": "https://finnhub.io/api/news?id=321197512055f9d0904a12c197cbfebc3997b89feab8dbec5ccb9b3c2f193893",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:14:27+00:00",
-      "change_pct": -1.42
     },
     {
       "id": "f_d24eb531d944bb",
@@ -214,6 +227,19 @@
       "change_pct": -0.2
     },
     {
+      "id": "av_9b0a4901dfc91d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Super Micro Computer Sees $60B AI Order Book Powering Fiscal 2027 Outlook",
+      "summary": "Super Micro Computer announced a $60 billion AI order book, supporting its fiscal 2027 revenue outlook of $65 billion to $72 billion. The company is focusing on integrated \"AI factory\" systems to meet strong demand and expects to maintain double-digit gross margins. Supermicro is",
+      "url": "https://finance.yahoo.com/technology/ai/articles/super-micro-computer-sees-60b-210215702.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-10T21:12:35+00:00",
+      "sentiment": 0.411242,
+      "change_pct": -2.37
+    },
+    {
       "id": "av_25389e0faca450",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -223,7 +249,7 @@
       "url": "https://ca.finance.yahoo.com/photos/nvidia-ceo-jensen-huang-isnt-163033986/",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-09-10T16:30:00+00:00",
-      "sentiment": 0.71627,
+      "sentiment": 0.744607,
       "change_pct": -2.37
     },
     {
@@ -236,7 +262,7 @@
       "url": "https://www.fastcompany.com/91604370/nvidia-palantir-sovereign-ai-supply-chains",
       "source": "Fast Company",
       "published_at": "2026-09-10T12:41:08+00:00",
-      "sentiment": 0.628864,
+      "sentiment": 0.641934,
       "change_pct": -2.37
     },
     {
@@ -249,33 +275,7 @@
       "url": "https://www.geekwire.com/2026/microsoft-2-5-evp-pavan-davuluri-wants-to-remake-windows-for-both-human-and-agent-users/",
       "source": "GeekWire",
       "published_at": "2026-09-10T19:18:28+00:00",
-      "sentiment": 0.222531,
-      "change_pct": -2.37
-    },
-    {
-      "id": "av_a059a5532965e9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Lam Research CEO Timothy Archer sells $9.58 million in company stock",
-      "summary": "Lam Research CEO Timothy Archer sold 30,000 shares of company stock for $9.58 million, following a 196% surge in the stock over the past year. Concurrently, he acquired 30,000 shares through employee stock options, valued at $900,990. The sale was executed under a Rule 10b5-1 tra",
-      "url": "https://www.investing.com/news/insider-trading-news/lam-research-ceo-timothy-archer-sells-958-million-in-company-stock-93CH-4896620",
-      "source": "Investing.com",
-      "published_at": "2026-09-10T17:39:17+00:00",
-      "sentiment": 0.210079,
-      "change_pct": -2.37
-    },
-    {
-      "id": "av_ed6ce62e3e4d57",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
-      "summary": "Broadcom's AI semiconductor revenue saw a significant 221% year-over-year surge, driving speculation that the company could challenge NVIDIA's market cap dominance. Despite a recent stock pullback, analysts are optimistic about Broadcom's future, projecting substantial AI semicon",
-      "url": "https://247wallst.com/investing/2026/09/10/prediction-broadcom-could-become-one-of-the-worlds-most-valuable-tech-companies/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-09-10T15:12:52+00:00",
-      "sentiment": 0.27067,
+      "sentiment": 0.20163,
       "change_pct": -2.37
     },
     {
@@ -288,7 +288,46 @@
       "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/09/61716878/forget-the-magnificent-seven-stocks-gary-black-says-this-tech-giant-is-cheaper",
       "source": "Benzinga",
       "published_at": "2026-09-10T15:13:10+00:00",
-      "sentiment": 0.253719,
+      "sentiment": 0.288128,
+      "change_pct": -2.37
+    },
+    {
+      "id": "av_6b33c8279f5d35",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lam Research director Bethany Mayer sells $3m in shares",
+      "summary": "Lam Research director Bethany Mayer sold 9,557 shares of common stock for $3,007,970 on September 9, 2026, at an average price of $314.74 per share. Following the sale, Mayer holds 1,635 direct shares and 20,995 indirect shares through a trust. This transaction occurred after a 1",
+      "url": "https://m.investing.com/news/insider-trading-news/lam-research-director-bethany-mayer-sells-3m-in-shares-93CH-4896621?ampMode=1",
+      "source": "Investing.com",
+      "published_at": "2026-09-10T17:16:10+00:00",
+      "sentiment": 0.219773,
+      "change_pct": -2.37
+    },
+    {
+      "id": "av_a059a5532965e9",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Lam Research CEO Timothy Archer sells $9.58 million in company stock",
+      "summary": "Lam Research CEO Timothy Archer sold 30,000 shares of company stock for $9.58 million, following a 196% surge in the stock over the past year. Concurrently, he acquired 30,000 shares through employee stock options, valued at $900,990. The sale was executed under a Rule 10b5-1 tra",
+      "url": "https://www.investing.com/news/insider-trading-news/lam-research-ceo-timothy-archer-sells-958-million-in-company-stock-93CH-4896620",
+      "source": "Investing.com",
+      "published_at": "2026-09-10T17:39:17+00:00",
+      "sentiment": 0.209586,
+      "change_pct": -2.37
+    },
+    {
+      "id": "av_ed6ce62e3e4d57",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Prediction: Broadcom Could Become One of the World’s Most Valuable Tech Companies",
+      "summary": "Broadcom's AI semiconductor revenue saw a significant 221% year-over-year surge, driving speculation that the company could challenge NVIDIA's market cap dominance. Despite a recent stock pullback, analysts are optimistic about Broadcom's future, projecting substantial AI semicon",
+      "url": "https://247wallst.com/investing/2026/09/10/prediction-broadcom-could-become-one-of-the-worlds-most-valuable-tech-companies/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-10T15:12:52+00:00",
+      "sentiment": 0.265657,
       "change_pct": -2.37
     },
     {
@@ -301,8 +340,67 @@
       "url": "https://247wallst.com/investing/2026/09/10/analog-devices-wants-robots-to-think-without-nvidia-is-adi-the-next-big-ai-stock/",
       "source": "24/7 Wall St.",
       "published_at": "2026-09-10T17:30:33+00:00",
-      "sentiment": 0.133795,
+      "sentiment": 0.11471,
       "change_pct": -2.37
+    },
+    {
+      "id": "f_82b667ce2ce19d",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy (MSTR) Dips More Than Broader Market: What You Should Know",
+      "summary": "Strategy (MSTR) closed at $128.56 in the latest trading session, marking a -3.12% move from the prior day.",
+      "url": "https://finnhub.io/api/news?id=a985da77dde67cca5c5b3625e01956561d31f025be81d797ae8443de0873e1ae",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T22:00:05+00:00",
+      "change_pct": -3.12
+    },
+    {
+      "id": "f_070a0279746aba",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Jensen Huang just answered Michael Burry's Nvidia bear case",
+      "summary": "Jensen Huang gave Nvidia investors something to counter Burry’s skepticism of cloud companies’ profits.",
+      "url": "https://finnhub.io/api/news?id=14dc337c114b095cc5d926996802387b7db63e979bc0a517175e43ca975b2b11",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:47:00+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_826c1c501a2e51",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Tesla (TSLA) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "summary": "Tesla (TSLA) reached $363.56 at the closing of the latest trading day, reflecting a -1.16% change compared to its last close.",
+      "url": "https://finnhub.io/api/news?id=440a770c4be72030292e4f085bfdfb2c9412d0772ad07d377559d8f51f27205c",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:45:05+00:00",
+      "change_pct": -1.16
+    },
+    {
+      "id": "f_7b31620412951f",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "Here's Why Meta Platforms (META) Fell More Than Broader Market",
+      "summary": "Meta Platforms (META) closed at $644.38 in the latest trading session, marking a -1.42% move from the prior day.",
+      "url": "https://finnhub.io/api/news?id=6afeb5ca1ba9360890bafefa50eb4bf6043ab41c4e72fa10569fd355a644ce2e",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:45:03+00:00",
+      "change_pct": -1.42
+    },
+    {
+      "id": "f_08717aa3d3d63d",
+      "provider": "finnhub",
+      "ticker": "COIN",
+      "category": "general",
+      "title": "Why Coinbase Global, Inc. (COIN) Dipped More Than Broader Market Today",
+      "summary": "The latest trading day saw Coinbase Global, Inc. (COIN) settling at $172.28, representing a -1.4% change from its previous close.",
+      "url": "https://finnhub.io/api/news?id=2abc303f4f53ee5c005cf0ab8c496aeeed772d875a0ed536c9b5ac92c0bd8076",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:45:02+00:00"
     },
     {
       "id": "av_67252f9a3025ef",
@@ -314,7 +412,19 @@
       "url": "https://247wallst.com/investing/2026/09/10/beyond-meta-and-nuclear-inside-vistras-real-power-play/",
       "source": "24/7 Wall St.",
       "published_at": "2026-09-10T12:00:34+00:00",
-      "sentiment": 0.218757,
+      "sentiment": 0.241216,
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_180c7ebb747be8",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia stock edges higher on Microsoft data center expansion report",
+      "summary": "Investing.com -- Nvidia Corporation (NASDAQ:NVDA) edged higher in after-hours trading, rising 0.5%, Thursday following a Bloomberg report that Microsoft plans to more than triple its data center capacity.",
+      "url": "https://finnhub.io/api/news?id=fbdd49aadc60b37a11d6281113c2d05972e2e33aacda9a0993421645a0b15a8c",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:36:55+00:00",
       "change_pct": -2.37
     },
     {
@@ -327,8 +437,198 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/monolithic-vs-intel-chip-stock-121400380.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-10T08:14:00+00:00",
-      "sentiment": 0.304048,
+      "sentiment": 0.333769,
       "change_pct": -2.37
+    },
+    {
+      "id": "f_b861aed8ba5eb6",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "SpaceX Sues Texas AG, Grimes County Over Terafab Project Information",
+      "summary": "SpaceX is suing in Texas over Terafab info requests a month after SpaceX and Tesla announced they would invest $16.8B in the first phase of construction.",
+      "url": "https://finnhub.io/api/news?id=a19d47d64a5b3e1694b117a52b64c412904bcb135bdbf537ef2940789a65d78f",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:32:50+00:00",
+      "change_pct": -1.16
+    },
+    {
+      "id": "f_b7c3de9018c901",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Elon Musk warns 'if the ship of America sinks, we all sink with it'",
+      "summary": "Elon Musk has a blunt message for America’s wealthy: no one gets a lifeboat.",
+      "url": "https://finnhub.io/api/news?id=ec2812e94a9fe6433337f97bfcff72d9dac98967ec4473b9795c248715632ecf",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:30:25+00:00",
+      "change_pct": -1.16
+    },
+    {
+      "id": "f_c1350d8c0704b6",
+      "provider": "finnhub",
+      "ticker": "AAPL",
+      "category": "general",
+      "title": "Wall Street analysts predict Apple iPhone Duo will be a top seller, despite being heavy and costing up to $3,200",
+      "summary": "Priced up to $3,200 and heavier than past models, Apple's new foldable iPhone Duo is still expected to be a hit — with one analyst predicting Apple could grab 40% of the foldable phone market by 2027.",
+      "url": "https://finnhub.io/api/news?id=5d3182b09eddfbfd7937bafba6d262af76f10491ae4e3c71117c2a86bce74c3e",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:30:00+00:00"
+    },
+    {
+      "id": "f_3240bcdedace16",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Positron AI’s $875M Bet: Commodity Memory Could Break NVIDIA’s Inference Lock",
+      "summary": "Positron AI has raised $875 million in a combined Series C and Series C-1 round, valuing the Reno-based startup at $5 billion post-money. The financing, co-led by NEA, Andra Capital, Atreides Management, Valor Equity Partners, and SemiAnalysis Capital, represents a roughly five-fold markup from the company’s February 2026 Series B valuation of just over $1 […]",
+      "url": "https://finnhub.io/api/news?id=8f37d4fa76e72e3bd0a599c986576ba17d2f388beb971b4cbc03e89845bbecb0",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:24:52+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_f085c2e9bd4ac9",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "‘I’m a Renter, But I Have $150,000 Sitting in Cash’: The Price of Waiting Out Record Home Prices",
+      "summary": "She has $150,000 set aside for a future home purchase and zero debt, yet her carefully guarded down payment may be quietly working against her every month she waits for the right moment to buy.",
+      "url": "https://finnhub.io/api/news?id=c57feac8f2987583d6f871b1a83ee9128199cacc8004f2caf72fd48219db9870",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:23:59+00:00",
+      "change_pct": 0.59
+    },
+    {
+      "id": "av_994ab2cfe52fbc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "UBS reiterates Gartner stock rating citing contract value trends",
+      "summary": "UBS has reiterated a Neutral rating and $196.00 price target for Gartner (NYSE:IT) shares, following investor meetings where the company expressed optimism about contract value re-acceleration. Despite a 33% year-to-date decline in stock price, InvestingPro analysis suggests Gart",
+      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-gartner-stock-rating-citing-contract-value-trends-93CH-4896235",
+      "source": "Investing.com",
+      "published_at": "2026-09-10T14:39:19+00:00",
+      "sentiment": -0.165137,
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_8b116046a88ec0",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Prices Just Jumped Again. That Could Mean Trouble for the Stock Market Next Week",
+      "summary": "Wholesale inflation, an oil price spike, and surging bond yields collided in one trading day, and the S&P 500 fell 0.6% as a result.",
+      "url": "https://finnhub.io/api/news?id=ce8df93af40624e02b5cb01ffc2d8b89dd8c264af9f8b03098356e10fc519d03",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:14:01+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_895fcefac42979",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
+      "summary": "The S&P 500 undercut its 50-day as Treasury yields and oil prices surged. Oracle jumped late on earnings. The CPI inflation report could lock in expectations for a Fed rate hike next week.",
+      "url": "https://finnhub.io/api/news?id=55a0614a108a76d33a5638cb70329f7ea996a430c8ee99da23e513d32c40de90",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:06:50+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_394bbf38cd0cb4",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "People Inc. CEO on AI-hungry Google: 'They don't share anything with us'",
+      "summary": "People Inc. CEO Neil Vogel takes investors inside the publisher's battle with Google.",
+      "url": "https://finnhub.io/api/news?id=7a38e2ffc78dce8809301f1e4224ddab39fce880a944d9d7a272cbecc6964c5a",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T21:05:26+00:00",
+      "change_pct": 0.59
+    },
+    {
+      "id": "f_3466fdd564adb4",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "People Inc. CEO on rebranding, AI challenges",
+      "summary": "People Inc. (PPLI) CEO Neil Vogel joins Yahoo Finance Executive Editor Brian Sozzi to discuss the publisher's rebranding strategy, evolving media business, and the challenges AI poses to its content and audience.",
+      "url": "https://finnhub.io/api/news?id=ea0276e3e896d46763fd6ff4d2917b2017ffa4e4c7f560d4ceaf6f74a6a02596",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:57:00+00:00",
+      "change_pct": 0.59
+    },
+    {
+      "id": "f_185f4bd149c87b",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "This Is the First Oil Dividend Stock I'd Buy in September",
+      "summary": "Chevron is still the most balanced oil play for income-seeking investors.",
+      "url": "https://finnhub.io/api/news?id=4a7f268dfa11158357e6b17450bde449b65d44d3c896c29f3c3eb3cd2342f9f9",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:50:00+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_339354038d5cc2",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Not Amazon, Not Shopify. No Other Company Has Done What MercadoLibre Just Did",
+      "summary": "MercadoLibre is on a record growth streak.",
+      "url": "https://finnhub.io/api/news?id=a76e2e815100422e02e54cf484bfb5f19c6c8d348126329d956fd11bf06b3f4c",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:35:01+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_8056b2ce0eceaf",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "general",
+      "title": "Semiconductors Stocks Q2 Highlights: Micron (NASDAQ:MU)",
+      "summary": "Earnings results often indicate what direction a company will take in the months ahead. With Q2 behind us, let’s have a look at Micron (NASDAQ:MU) and its peers.",
+      "url": "https://finnhub.io/api/news?id=f249bb6d185dfaef6d7b92326bd7e1881eec5119195de50f604de50930fd2b12",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:25:04+00:00"
+    },
+    {
+      "id": "f_3a600a6df9145b",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SpaceX Trades at 98 Times Sales. Here's What Amazon's Multiple Looked Like at the Same Stage.",
+      "summary": "The difference is stark, and should make you reconsider an investment in the stock.",
+      "url": "https://finnhub.io/api/news?id=69c5041d018e3c0067962a48b0957d9458689002065ae4d7a4a1b887cb8ab9f9",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:25:00+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_8dfadf66a2ab63",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "The Merchant Onboarding Gap: When Three Identity Standards Compete, the Merchant Pays the Integration Cost",
+      "summary": "Ant International, Visa, and Mastercard introduced the agentic commerce framework with a specific pitch: register an agent once, and it can transact everywhere. The idea was a single agent identity layer that would let autonomous software operate across merchants without repeated verification. The framework’s merchant-side story has a hole in it. The framework addresses who […]",
+      "url": "https://finnhub.io/api/news?id=958797a0fe92c8c94b0660dff2ce757d58db25a2373094e2804100030519a587",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:18:32+00:00",
+      "change_pct": 0.59
+    },
+    {
+      "id": "f_700887cbdc96df",
+      "provider": "finnhub",
+      "ticker": "COIN",
+      "category": "general",
+      "title": "Top Research Reports for Goldman Sachs, RTX & Abbott",
+      "summary": "Goldman Sachs, RTX and Abbott headline today's research, with growth drivers, risks and strategic moves shaping their outlooks.",
+      "url": "https://finnhub.io/api/news?id=b5329dd5e2b89f3d32412ec54929b49ba0cb1c8e1bee6281e375c5640c755544",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:12:00+00:00"
     },
     {
       "id": "f_a756f992c50a67",
@@ -340,6 +640,65 @@
       "url": "https://finnhub.io/api/news?id=deeb3bd5414d76734582223801ee5196374780731e57f4d5859de87ceafc71e8",
       "source": "Yahoo",
       "published_at": "2026-09-10T20:07:00+00:00"
+    },
+    {
+      "id": "f_d9ddf7eaaf05db",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "JPMorgan Is About to Become the First $1 Trillion Bank. The Premium Is Riding on 1 Man.",
+      "summary": "JPMorgan Chase is the largest bank in the United States, largely due to smart moves made in the 21st century.",
+      "url": "https://finnhub.io/api/news?id=29afb3b55b0dc0f3ae5333dda250d3044166c6f1dbc673ff4726ab0a5a28410b",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T20:06:00+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_993738b417a8cd",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "House Democrat Calls for Action Against Tesla After 43 Videos Show Drivers Apparently Asleep",
+      "summary": "A House Democrat is calling for federal action against Tesla Inc. (NASDAQ:TSLA) after an NBC News report identified 43 videos appearing to show people asleep behind the wheel of moving Teslas, including 17 this year. Rep. Raja Krishnamoorthi (D-Ill.) asked...",
+      "url": "https://finnhub.io/api/news?id=cd8f574b53f83a9f7603ff19f95fa665e75dacc3a734ad8b502bc38d97d4436d",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T19:59:24+00:00",
+      "change_pct": -1.16
+    },
+    {
+      "id": "f_f12d527cec7608",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Qualcomm Stock Looks Cheap, But Is The Discount Deserved?",
+      "summary": "Qualcomm (QCOM) trades at about $176 a share, down about 14% over the past three months and up 12.4% over the past twelve. At 20.1 times earnings against an S&P 500 median of 22.9, a profitable chip designer sits below the market. The question is whether that is a good business on sale or a fair price for a business under real pressure.",
+      "url": "https://finnhub.io/api/news?id=231b0f68f8ca7e6ead89d702d975cf56ae17c57ad0d556699b96f5b5468f4e2c",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T19:57:33+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_712247dcaf38d4",
+      "provider": "finnhub",
+      "ticker": "AAPL",
+      "category": "general",
+      "title": "Apple is Testing its Loyalty in India with 40% Price Hike",
+      "summary": "And hoping its urban affluent will not mind it",
+      "url": "https://finnhub.io/api/news?id=4c63345092adc1146fe9d5e09adf3fc8d4e33cfbfb6ef4b47f39ccb4fc8b0481",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T19:56:35+00:00"
+    },
+    {
+      "id": "f_ad841d730c1606",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
+      "url": "https://finnhub.io/api/news?id=8fe1d130d471b19f6c33b3aa2bc853ec69e2c8b4885a87cee3e5281e310df16d",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T19:55:45+00:00",
+      "change_pct": -3.36
     },
     {
       "id": "f_15fdcecf2d810e",
@@ -401,6 +760,18 @@
       "change_pct": -2.37
     },
     {
+      "id": "f_c1aa597bdf1d6a",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Strategy's $250 Bitcoin-Themed Air Jordan Sneakers Sell Out — But BTC Isn't Accepted",
+      "summary": "Strategy Inc.‘s limited-edition Bitcoin sneakers, inspired by Nike Inc.’s Air Jordan 1, have sold out. No Bitcoin Payment Option Strategy listed the product on its official online shop, Strategy Store, on Tuesday. The shoe, priced at $250, features leather overlays,...",
+      "url": "https://finnhub.io/api/news?id=4ccf4390fe6df92c1aad417b9fcef08d1b1eef4f0bbe3b82669b70f935ab0fb8",
+      "source": "Yahoo",
+      "published_at": "2026-09-10T19:30:15+00:00",
+      "change_pct": -3.12
+    },
+    {
       "id": "f_65594233f32925",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -445,19 +816,6 @@
       "url": "https://finnhub.io/api/news?id=72f4f87049e5b4543170150126c9e9dde0066de45d6e3d590dc55934451ad4e6",
       "source": "Yahoo",
       "published_at": "2026-09-10T19:28:01+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "av_994ab2cfe52fbc",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "UBS reiterates Gartner stock rating citing contract value trends",
-      "summary": "UBS has reiterated a Neutral rating and $196.00 price target for Gartner (NYSE:IT) shares, following investor meetings where the company expressed optimism about contract value re-acceleration. Despite a 33% year-to-date decline in stock price, InvestingPro analysis suggests Gart",
-      "url": "https://www.investing.com/news/analyst-ratings/ubs-reiterates-gartner-stock-rating-citing-contract-value-trends-93CH-4896235",
-      "source": "Investing.com",
-      "published_at": "2026-09-10T14:39:19+00:00",
-      "sentiment": -0.120275,
       "change_pct": -2.37
     },
     {
@@ -999,19 +1357,6 @@
       "change_pct": 0.59
     },
     {
-      "id": "av_7edc514a24e37c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "California State Teachers Retirement System Acquires 73,929,678 Shares of Microchip Technology Incorporated $MCHP",
-      "summary": "The California State Teachers Retirement System significantly increased its stake in Microchip Technology Incorporated (NASDAQ:MCHP), acquiring over 73.9 million additional shares, boosting its total ownership to 13.76% valued at $6.8 billion. This increase comes as Microchip Tec",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-california-state-teachers-retirement-system-acquires-73929678-shares-of-microchip-technology-incorporated-mchp-2026-09-10/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-10T08:09:32+00:00",
-      "sentiment": 0.236285,
-      "change_pct": -2.37
-    },
-    {
       "id": "f_eb49ec74f077da",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1117,6 +1462,19 @@
       "published_at": "2026-09-10T17:27:53+00:00"
     },
     {
+      "id": "av_4692e164a4a078",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
+      "summary": "SolarEdge Technologies saw its stock fall 4% on its Analyst Day, even after announcing a joint white paper with NVIDIA on 800 VDC power architecture for AI data centers. This decline occurred while solar peers like Enphase Energy and First Solar saw gains, suggesting the market i",
+      "url": "https://247wallst.com/investing/2026/09/10/solaredge-falls-4-on-analyst-day-despite-joint-nvidia-800-vdc-paper-enphase-energy-and-first-solar-edge-higher/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-10T16:07:18+00:00",
+      "sentiment": 0.033318,
+      "change_pct": -2.37
+    },
+    {
       "id": "f_0d65a45cd78f37",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1174,19 +1532,6 @@
       "source": "Yahoo",
       "published_at": "2026-09-10T17:18:16+00:00",
       "change_pct": 0.59
-    },
-    {
-      "id": "av_4692e164a4a078",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SolarEdge Falls 4% on Analyst Day Despite Joint NVIDIA 800 VDC Paper; Enphase Energy and First Solar Edge Higher",
-      "summary": "SolarEdge Technologies saw its stock fall 4% on its Analyst Day, even after announcing a joint white paper with NVIDIA on 800 VDC power architecture for AI data centers. This decline occurred while solar peers like Enphase Energy and First Solar saw gains, suggesting the market i",
-      "url": "https://247wallst.com/investing/2026/09/10/solaredge-falls-4-on-analyst-day-despite-joint-nvidia-800-vdc-paper-enphase-energy-and-first-solar-edge-higher/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-09-10T16:07:18+00:00",
-      "sentiment": 0.029369,
-      "change_pct": -2.37
     },
     {
       "id": "f_36aec89358108b",
@@ -1344,6 +1689,18 @@
       "change_pct": -2.37
     },
     {
+      "id": "f_b710658c1a8191",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "NVIDIA Corporation (NVDA) Presents at Goldman Sachs Communacopia + Technology Conference 2026 Transcript",
+      "summary": "NVIDIA Corporation (NVDA) Goldman Sachs Communacopia + Technology Conference 2026 September 10, 2026 11:50 AM EDTCompany ParticipantsJen-Hsun Huang -...",
+      "url": "https://finnhub.io/api/news?id=07db36f52cba374bfa2838d20f8394911dcd244caa76d6934bbb1e73a822d9a0",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-10T16:57:07+00:00",
+      "change_pct": -2.37
+    },
+    {
       "id": "f_42fb332fbcc4a1",
       "provider": "finnhub",
       "ticker": "COIN",
@@ -1427,19 +1784,6 @@
       "summary_kr": "금요일에 움직이는 다우존스 주식에 대해 궁금하십니까? 오늘 세션에서 다우존스 지수 내 최고 변동 항목을 살펴보는 데 참여해 보세요."
     },
     {
-      "id": "av_d8fbe4636db02b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "BlueCrest Capital Management Ltd Acquires Shares of 2,230 Advanced Micro Devices, Inc. $AMD",
-      "summary": "BlueCrest Capital Management Ltd acquired 2,230 shares of Advanced Micro Devices (AMD) worth approximately $1.295 million in the second quarter, making it a new position for the firm. Other institutional investors also adjusted their holdings, with hedge funds and institutional i",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-bluecrest-capital-management-ltd-acquires-shares-of-2230-advanced-micro-devices-inc-amd-2026-09-10/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-10T08:37:18+00:00",
-      "sentiment": 0.199307,
-      "change_pct": -2.37
-    },
-    {
       "id": "f_10b8afdc75d209",
       "provider": "finnhub",
       "ticker": "MU",
@@ -1451,6 +1795,31 @@
       "published_at": "2026-09-10T16:35:01+00:00",
       "title_kr": "오늘 세션의 내용: S&P500 변동자",
       "summary_kr": "오늘 세션의 최신 동향을 조사하면서 수요일 정오에 S&P500 지수 내 최고 상승자와 하락자를 탐색하는 데 참여하세요."
+    },
+    {
+      "id": "f_b359cced6d14eb",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia Stock Sits in 82% of Portfolios, But Hedge Funds Are Making Other AI Bets",
+      "summary": "Nvidia sits in 82% of active managers’ portfolios, followed by Broadcom at 78%. Yet, BofA data reveals different hedge fund AI bets.",
+      "url": "https://finnhub.io/api/news?id=ea3d3b6c346271a98217cd2d20122e06a28de884221ae6ea15c4aa08b224599d",
+      "source": "Benzinga",
+      "published_at": "2026-09-10T16:29:24+00:00",
+      "change_pct": -2.37
+    },
+    {
+      "id": "av_1ea2df58127581",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "BofA cuts Apple stock price target to $370 on margin pressure",
+      "summary": "BofA Securities has lowered its price target for Apple Inc. (NASDAQ:AAPL) to $370 from $380, citing potential gross margin pressure from lower-than-expected new iPhone pricing despite higher unit sales. The firm maintained a Buy rating, adjusting its 2027 earnings estimate and va",
+      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-apple-stock-price-target-to-370-on-margin-pressure-93CH-4895440",
+      "source": "Investing.com",
+      "published_at": "2026-09-10T11:02:31+00:00",
+      "sentiment": -0.135656,
+      "change_pct": -2.37
     },
     {
       "id": "f_d34191b815b7cb",
@@ -1533,6 +1902,44 @@
       "published_at": "2026-09-10T16:10:00+00:00"
     },
     {
+      "id": "av_7edc514a24e37c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "California State Teachers Retirement System Acquires 73,929,678 Shares of Microchip Technology Incorporated $MCHP",
+      "summary": "The California State Teachers Retirement System significantly increased its stake in Microchip Technology Incorporated (NASDAQ:MCHP), acquiring over 73.9 million additional shares, boosting its total ownership to 13.76% valued at $6.8 billion. This increase comes as Microchip Tec",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-california-state-teachers-retirement-system-acquires-73929678-shares-of-microchip-technology-incorporated-mchp-2026-09-10/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-10T08:09:32+00:00",
+      "sentiment": 0.200119,
+      "change_pct": -2.37
+    },
+    {
+      "id": "av_6e90e21890f268",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "IPG Investment Advisors LLC Acquires New Position in Analog Devices, Inc. $ADI",
+      "summary": "IPG Investment Advisors LLC has acquired a new stake of 4,840 shares in Analog Devices, Inc. (NASDAQ:ADI) valued at approximately $1.92 million. Analog Devices reported strong Q2 earnings, beating analyst estimates with an EPS of $3.45 and revenue of $4.02 billion, and declared a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-ipg-investment-advisors-llc-acquires-new-position-in-analog-devices-inc-adi-2026-09-10/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-10T10:17:39+00:00",
+      "sentiment": 0.146251,
+      "change_pct": -2.37
+    },
+    {
+      "id": "f_79bfaa159726f2",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Jim Cramer Says He’s ‘Not Going to Give Up on Nvidia’ Stock: Here’s His Suggestion for CEO Jensen Huang",
+      "summary": "Jim Cramer suggests Nvidia conduct a $500 billion share buyback: &#34;It would demonstrate a level of conviction that is much needed right here.&#34;",
+      "url": "https://finnhub.io/api/news?id=67946dd6dda58d0c1952c2d1d2a98d4ff874292c4fc29c07ecfa1d1ba232435b",
+      "source": "Benzinga",
+      "published_at": "2026-09-10T16:06:57+00:00",
+      "change_pct": -2.37
+    },
+    {
       "id": "f_5c061eb205f535",
       "provider": "finnhub",
       "ticker": "META",
@@ -1566,19 +1973,6 @@
       "source": "Yahoo",
       "published_at": "2026-09-10T16:00:04+00:00",
       "change_pct": -3.36
-    },
-    {
-      "id": "av_1ea2df58127581",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "BofA cuts Apple stock price target to $370 on margin pressure",
-      "summary": "BofA Securities has lowered its price target for Apple Inc. (NASDAQ:AAPL) to $370 from $380, citing potential gross margin pressure from lower-than-expected new iPhone pricing despite higher unit sales. The firm maintained a Buy rating, adjusting its 2027 earnings estimate and va",
-      "url": "https://www.investing.com/news/analyst-ratings/bofa-cuts-apple-stock-price-target-to-370-on-margin-pressure-93CH-4895440",
-      "source": "Investing.com",
-      "published_at": "2026-09-10T11:02:31+00:00",
-      "sentiment": -0.12237,
-      "change_pct": -2.37
     },
     {
       "id": "f_5b50739bc96d80",
@@ -1779,6 +2173,19 @@
       "change_pct": 0.59
     },
     {
+      "id": "av_3e8f9db27fa5e4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Miramontes Capital LLC Buys Shares of 1,307 Advanced Micro Devices, Inc. $AMD",
+      "summary": "Miramontes Capital LLC recently acquired 1,307 shares of Advanced Micro Devices (AMD) valued at approximately $759,000, initiating a new position in the semiconductor manufacturer. This comes as institutional ownership in AMD reaches 71.34%, with other funds also increasing their",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-miramontes-capital-llc-buys-shares-of-1307-advanced-micro-devices-inc-amd-2026-09-10/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-10T10:19:23+00:00",
+      "sentiment": -0.129567,
+      "change_pct": -2.37
+    },
+    {
       "id": "f_126bbf30099028",
       "provider": "finnhub",
       "ticker": "AVGO",
@@ -1834,19 +2241,6 @@
       "url": "https://finnhub.io/api/news?id=435e3e969d687cc8b419fc8943bbe1d3d0487f737e6fb11dcba65782a4f27b2f",
       "source": "Yahoo",
       "published_at": "2026-09-10T15:27:59+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "av_6e90e21890f268",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "IPG Investment Advisors LLC Acquires New Position in Analog Devices, Inc. $ADI",
-      "summary": "IPG Investment Advisors LLC has acquired a new stake of 4,840 shares in Analog Devices, Inc. (NASDAQ:ADI) valued at approximately $1.92 million. Analog Devices reported strong Q2 earnings, beating analyst estimates with an EPS of $3.45 and revenue of $4.02 billion, and declared a",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-ipg-investment-advisors-llc-acquires-new-position-in-analog-devices-inc-adi-2026-09-10/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-10T10:17:39+00:00",
-      "sentiment": 0.127852,
       "change_pct": -2.37
     },
     {
@@ -1966,337 +2360,17 @@
       "change_pct": 0.16
     },
     {
-      "id": "f_bec00cd5a2e086",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Google commits €13bn for Finland AI infrastructure expansion",
-      "summary": "The spending is earmarked for new data centres and related infrastructure in Hamina, Kajaani, Muhos and Vaala.",
-      "url": "https://finnhub.io/api/news?id=8dabd0da35fabf6f8eca2c2f0af76aba93641543e0753d93995dfbc455f8506f",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:13:12+00:00",
-      "change_pct": 0.59
-    },
-    {
-      "id": "f_bbd65556c7c515",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Will Tesla's China Discounts Lift Q3 Sales or Hurt Margins Further?",
-      "summary": "TSLA's China discounts aim to lift Q3 deliveries as domestic demand weakens, but price cuts are expected to add pressure to already-thin margins.",
-      "url": "https://finnhub.io/api/news?id=ef8fed80b58be308d46c70d0e396ba54b86bb6fb2b44b62dcef97bea21f24f83",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:13:00+00:00",
-      "change_pct": -1.16
-    },
-    {
-      "id": "f_ad5cab4c2ace1b",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "President Trump Promised to Pay Americans a $5,000 “Trump Dividend” After the Midterm Elections. But That’s Not How Dividends Work.",
-      "summary": "The president made the promise during the first day of the GOP midterm convention.",
-      "url": "https://finnhub.io/api/news?id=00b7ce590128e4c2c81247e2f12d0f972267d5390e8e3c347c78d98ffe507c8b",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:11:51+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_b3eee3d07bfffb",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "Micron Stock Slips as Intel-Backed Start-up Takes Aim at Memory-Chip Market",
-      "summary": "Micron stock was dropping Thursday. Kepler Computing, backed by Intel, thinks it can disrupt the memory-chip market.",
-      "url": "https://finnhub.io/api/news?id=d07b8c2798f0264b7cd001f8917f27ac8539197855e6322ad516dfd65cca1179",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:10:00+00:00",
-      "change_pct": -3.36
-    },
-    {
-      "id": "f_3ef09e8a1c354d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "‘I Am the House Now,’ Bessent Warns — But Bond Traders Keep Raising Yields Anyway",
-      "summary": "Scott Bessent declared himself the house and promised bond traders they were playing a losing hand against Washington. The bond market has been calling that bluff ever since, and the pressure is now spreading from Wall Street trading desks to homebuyers at the closing table.",
-      "url": "https://finnhub.io/api/news?id=c1eeea8057c90d62b51ac160a136853aaa5fb7b7053be92f6195149bc2ebbde6",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:09:14+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_a7259e6e037785",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Piper Sandler Says AMD Is About to Enter Its Biggest Growth Phase Yet",
-      "summary": "The new bullish call rests on a much more aggressive AI growth path than the stock has seen before.",
-      "url": "https://finnhub.io/api/news?id=83808ceac90b6f3224b86151187aed56b2bae67074412c1a9d600f7073aa1d05",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:06:21+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_998e2eb49b7e4d",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Top Semiconductor ETFs That Investors May Buy in September",
-      "summary": "Semiconductor ETFs are riding AI-driven demand and rising chip investment, with four funds offering diversified exposure to the industry's next growth phase.",
-      "url": "https://finnhub.io/api/news?id=b18ecfe6021366416ecc42afdc280cfc48d038c0ddc6b620dc17a013a3acf11c",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:05:00+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_6916657607ad67",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Dell's AI Server Orders Reached $61 Billion in the Second Quarter, and the Pipeline Keeps Growing",
-      "summary": "Demand for the company's traditional server line continues to impress, with revenue growth more than doubling.",
-      "url": "https://finnhub.io/api/news?id=6aeea7a1263a99edc89036be066812b37118e836b837dd2fa6a3efdff586f4cd",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:05:00+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_e0e01947c43d22",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "general",
-      "title": "Apple's AI strategy took center stage at its iPhone Duo event",
-      "summary": "Apple put its AI strategy on full display during its iPhone Duo event.",
-      "url": "https://finnhub.io/api/news?id=fac2b84a6bfb711ea62b3b7cad735f43ee06995df89fef88a43bf1f29275c89c",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:04:56+00:00"
-    },
-    {
-      "id": "f_6bdda2a103c4f4",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Fitch Says AI Bust Could Crash US Stocks 35%, Trigger Recession",
-      "summary": "Fitch says a severe AI bust could send U.S. stocks down 35%, trigger a recession and cut GDP as tech spending and confidence collapse.",
-      "url": "https://finnhub.io/api/news?id=29221a7fddbedbe359f4339a67a885912263d7408bdb1f211586600237e53c9b",
-      "source": "Benzinga",
-      "published_at": "2026-09-10T15:03:59+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_d37a537eab2d65",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Reddit Rises 6% as User Growth Hits Fastest Pace of the Year, Pinterest Ticks Up, Snap Barely Budges",
-      "summary": "Fresh third-party data on Reddit's user momentum sent shares surging against a down market, but a looming audience measurement reset threatens to scramble the very numbers investors are celebrating today.",
-      "url": "https://finnhub.io/api/news?id=82fc0a22b149d48881dba1431731f359a243082092fb6bb49ff85c1808f5c5e4",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:00:18+00:00",
-      "change_pct": 0.59
-    },
-    {
-      "id": "f_7d9112a7ec2421",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Alianza Acquires Skribby to Extend Alianza Crux into Meeting Platforms",
-      "summary": "The second acquisition of 2026 to strengthen Alianza's orchestration and intelligence control plane. The deal adds native meeting connectivity and multi-model transcription. Skribby Skribby - a provider of meeting bot and multi-model transcription technology. Brian Beutler Chief Executive Officer and Founder, Alianza Pleasant Grove, Utah, Sept. 10, 2026 (GLOBE NEWSWIRE) -- Alianza, a leading provider of communications platforms for service providers, today announced it has acquired Skribby, a pr",
-      "url": "https://finnhub.io/api/news?id=cc95b1847f8e39c62b318371b99ee60b294eb5355202e1952a6b3fc59f24c78b",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "change_pct": 0.59
-    },
-    {
-      "id": "f_12ad905f918cd1",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "U.S. Bank Scores Younger Demos With Mendoza",
-      "summary": "BarkleyOKRP handled the cross-platform creative spots.",
-      "url": "https://finnhub.io/api/news?id=42ae3af3637cf4efe6126e7b5f3c97bea5b304712bbf5d784bd33c5a445fa712",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "change_pct": -1.42
-    },
-    {
-      "id": "f_d4d6afeedcd782",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Permian Gas Has Been Worth Less Than Nothing for 118 Days This Year",
-      "summary": "Chevron, Microsoft and a wave of Texas data centers are turning the Permian's stranded gas and unbuilt wind and solar lines into new demand.",
-      "url": "https://finnhub.io/api/news?id=8ccf327c94a6f2c48e10ac0cef78fd0415c10848d978324dc614960d0869d19b",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "change_pct": 0.16
-    },
-    {
-      "id": "f_884ba0788fa78e",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Can MSFT Stock Rally on the Back of Dynamics 365 Business Applications?",
-      "summary": "Microsoft's Dynamics 365 Activate targets Salesforce migrations as AI agents expand, but slowing growth and softer bookings cloud the stock's rally.",
-      "url": "https://finnhub.io/api/news?id=dbbc91772291b7fc34d593e4bcf0fd85ce47274d6f3ad6391a291d823c01e3e6",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "change_pct": 0.16
-    },
-    {
-      "id": "f_6d7a6f5f96f3c4",
-      "provider": "finnhub",
-      "ticker": "AVGO",
-      "category": "general",
-      "title": "IPEC Successfully Holds NPO Standards Industry Summit, Aiming to Build a Robust International Standards Ecosystem",
-      "summary": "Key Messages: The NPO Standards Industry Summit brought together global standards and industry giants, who reached a consensus on international NPO standards, laying a solid foundation for the industry upgrade and large-scale commercial use of NPO. Multiple vendors from countries like China, the US, and Japan held a joint exhibition of connectors, NPO modules, and switches, strengthening industry confidence in building an open and prosperous NPO ecosystem. Paris,...",
-      "url": "https://finnhub.io/api/news?id=88b73fab902610b71f5ef220a66e95fc2521de6d355d308da836fb5d24aeeb9f",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:55:00+00:00",
-      "change_pct": -0.97
-    },
-    {
-      "id": "f_2c2c43e2435df7",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SolarEdge Stock Is Trending Higher: What's Going On?",
-      "summary": "SolarEdge Technologies shares are rising Thursday after it announced a milestone in AI power hardware and a joint framework with NVIDIA.",
-      "url": "https://finnhub.io/api/news?id=eb0c7862bf88f01bb61f974d711ea9f98264a8f5a38622aacf3e9e6bf2719dac",
-      "source": "Benzinga",
-      "published_at": "2026-09-10T14:53:41+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_e0fc637131683b",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Primark Goes Online While ABF Goes Down",
-      "summary": "Associated British Foods tumbled around 10% as weak European Primark trading and a worsening sugar outlook outweighed the retailer’s long-awaited move into home delivery.",
-      "url": "https://finnhub.io/api/news?id=b5a34ccab0aa46a13fdeef315edec94fb209407fce3ba55a81816a301dff63ba",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:50:55+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_1d02b8fbcbd18e",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Coca-Cola Is Outperforming Broadcom and Every \"Magnificent Seven\" Stock in 2026. Is It Still a Top Dividend Stock to Buy in September?",
-      "summary": "This venerable dividend stock has outperformed the AI trade this year, but key reasons behind Coca-Cola's improved results could normalize in the coming quarters.",
-      "url": "https://finnhub.io/api/news?id=5df5e2bd169a17df475fe927054b0799b420338b283c98540c53d1341ab7ea7b",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:50:00+00:00",
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_97514d6e34f629",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "general",
-      "title": "Apple’s New CEO Opened With a Foldable iPhone. The Real Story Is What He Cut",
-      "summary": "John Ternus opened his first Apple keynote with a folding iPhone, then made a quieter decision that signals a fundamentally different company than investors have owned for the past decade.",
-      "url": "https://finnhub.io/api/news?id=1153f0637a9313fd72324a586843249e40ab5ae02cd222052db18422a026d460",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:48:33+00:00"
-    },
-    {
-      "id": "av_3e8f9db27fa5e4",
+      "id": "av_e9e1d1c87e6950",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Miramontes Capital LLC Buys Shares of 1,307 Advanced Micro Devices, Inc. $AMD",
-      "summary": "Miramontes Capital LLC recently acquired 1,307 shares of Advanced Micro Devices (AMD) valued at approximately $759,000, initiating a new position in the semiconductor manufacturer. This comes as institutional ownership in AMD reaches 71.34%, with other funds also increasing their",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-miramontes-capital-llc-buys-shares-of-1307-advanced-micro-devices-inc-amd-2026-09-10/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-10T10:19:23+00:00",
-      "sentiment": -0.112098,
+      "title": "HP Inc. Announces Collaboration With Red Hat And NVIDIA To Deliver Enterprise AI Platform And Launches HP ZGX Fury",
+      "summary": "HP Inc. has partnered with Red Hat and NVIDIA to create an open, enterprise-grade AI platform designed to offer flexibility in running AI workloads. This platform, leveraging Red Hat AI Factory with NVIDIA and the new HP ZGX Fury, aims to maximize AI inference throughput, reduce ",
+      "url": "https://www.marketscreener.com/news/hp-inc-announces-collaboration-with-red-hat-and-nvidia-to-deliver-enterprise-ai-platform-and-launch-ce785bd9de8dfe24",
+      "source": "www.marketscreener.com",
+      "published_at": "2026-09-09T13:52:15+00:00",
+      "sentiment": 0.463413,
       "change_pct": -2.37
-    },
-    {
-      "id": "f_f1ea105bfb3156",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "HPE Surges 26% in 3 Months: Is it the Right Time to Buy the Stock?",
-      "summary": "Hewlett Packard Enterprise's 26% three-month gain masks a discounted valuation as AI, cloud and networking demand fuel growth and stronger profitability.",
-      "url": "https://finnhub.io/api/news?id=4e5070b8498f4fb72512f5abd881430e9ff4154a98bca73c106740e1d2c637c0",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:43:00+00:00",
-      "change_pct": -3.36
-    },
-    {
-      "id": "f_1e45d2baea39b7",
-      "provider": "finnhub",
-      "ticker": "PLTR",
-      "category": "general",
-      "title": "Palantir Touts 'Sovereign AI,' Nvidia Pact At Customer Forum",
-      "summary": "Palantir announced expanded partnerships with Nvidia and Fujitsu at AIPCon 11 and touted its \"sovereign AI\" strategy.",
-      "url": "https://finnhub.io/api/news?id=a640dc67caaafa5487b8b2c179dd8e4cd47dfbde929e094a109bf01fa74ac3e8",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:40:22+00:00"
-    },
-    {
-      "id": "f_04ef8aab0b8c27",
-      "provider": "finnhub",
-      "ticker": "PLTR",
-      "category": "general",
-      "title": "Nvidia and Palantir Team Up on AI Supply Chain Tech—Why the Stock Market Isn’t Biting",
-      "summary": "Nvidia  and  Palantir  Technologies are the dream team of artificial intelligence, bringing together hardware and software.  The two companies said Thursday they were combining their capabilities to create AI to improve supply chains but it wasn’t doing much for the shares.  “Organizations across complex industries — including agriculture, manufacturing, pharmaceutical, retail, technology and governments — can use the AI stack to optimize their own unique supply chain operations,” the companies said in a statement.",
-      "url": "https://finnhub.io/api/news?id=da0d542866d9998fe0e1733cdcf943ea2090f42a9ff1a78357b7a2f80e42fb56",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:40:00+00:00"
-    },
-    {
-      "id": "f_6603030b489475",
-      "provider": "finnhub",
-      "ticker": "INTC",
-      "category": "general",
-      "title": "ASML Expands High-NA Ties With Samsung and Intel as AI Demand Builds",
-      "summary": "ASML expands High-NA ties with Samsung and Intel as AI demand builds, while broader adoption hinges on customer qualification and manufacturing decisions.",
-      "url": "https://finnhub.io/api/news?id=42fab6407bdb76439bed75b81510050e77c8c02e2e6235eb52d9e0c0e6a69426",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:39:00+00:00"
-    },
-    {
-      "id": "f_f8b24c17de5e68",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Meta’s Muse Hits Top 3 in App Store. Why Wall Street Is Split on the Stock.",
-      "summary": "Meta’s consumer AI agent moment is here. Will it be a hit with customers and the stock? Wall Street isn’t sure.",
-      "url": "https://finnhub.io/api/news?id=cd7e3c4d3c34f51fae406ee25e0e5c644e52a4949f79e8182fb976b8ab5e83b3",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:38:00+00:00",
-      "change_pct": 0.59
-    },
-    {
-      "id": "av_484e7c97367400",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Global Retirement Partners LLC Takes Position in Amazon.com, Inc. $AMZN",
-      "summary": "Global Retirement Partners LLC recently acquired 324,127 shares of Amazon.com, Inc. (AMZN) valued at approximately $77.3 million, making it their 16th largest holding. The e-commerce giant reported strong quarterly results with revenue up 19.6% year over year and EPS of $5.75, si",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-global-retirement-partners-llc-takes-position-in-amazoncom-inc-amzn-2026-09-10/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-10T08:46:24+00:00",
-      "sentiment": 0.145442,
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_2088e5ffb21ab8",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "Jim Cramer Breaks With AI Bull Camp: ‘We Need a Kill Switch’",
-      "summary": "Jim Cramer has spent years cheerleading AI infrastructure stocks, so when he goes on air demanding a kill switch and calling the industry's casual talk of mass casualties unacceptable, investors need to understand what changed and what he is still telling them to buy.",
-      "url": "https://finnhub.io/api/news?id=36a0d53d804de5a46e8a849fcfeb0afaf0142a24e5debe88999262b6d3138953",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:35:13+00:00",
-      "change_pct": -3.36
     },
     {
       "id": "av_502f61380d058a",
@@ -2308,82 +2382,12 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-state-of-wyoming-acquires-shares-of-16336-amazoncom-inc-amzn-2026-09-10/",
       "source": "MarketBeat",
       "published_at": "2026-09-10T09:14:24+00:00",
-      "sentiment": 0.13363,
-      "change_pct": -2.37
-    },
-    {
-      "id": "f_6caa5be33e63f4",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Thursday's session: gap up and gap down stock in the S&P500 index",
-      "summary": "Curious about the S&P500 stocks that are gapping on Thursday? Explore the gap up and gap down stocks in the S&P500 index during today's session.",
-      "url": "https://finnhub.io/api/news?id=4a0c61be88bd3c0ae2f5d9c2ecdb9d3a9a9b0cb4ff6caba61a9b7a15de23926e",
-      "source": "ChartMill",
-      "published_at": "2026-09-10T14:35:01+00:00"
-    },
-    {
-      "id": "f_092375c969f765",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Cloud Security Market Surges to $59.34 billion at a CAGR 11.5% by 2031 | Report by MarketsandMarkets™",
-      "summary": "Delray Beach, FL, Sept. 10, 2026 (GLOBE NEWSWIRE) -- According to MarketsandMarkets™, the global Cloud Security Market is projected to grow from USD 34.37 billion in 2026 to USD 59.34 billion by 2031, advancing at a CAGR of 11.5% during the forecast period. The market is being driven by increasingly sophisticated cyber threats, tighter regulatory and data protection requirements, and the growing complexity of multicloud and hybrid IT environments. Enterprises are investing in security platforms",
-      "url": "https://finnhub.io/api/news?id=56b7acd0e77cea4aec72a90af221a8a0ef708e23aebf407d56bd8c7f164af950",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:35:00+00:00",
-      "change_pct": 0.16
-    },
-    {
-      "id": "f_10f3e30b76f845",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-      "summary": "Bending Spoons is buying Miro for $1.36B, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5B in late 2021.",
-      "url": "https://finnhub.io/api/news?id=0a070b6517b8d9f97dcd15043addea20781cdb57aed5dd312874284db074d811",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:34:09+00:00",
-      "change_pct": 0.16
-    },
-    {
-      "id": "f_bee748c104dba5",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Micron Is 1.6 Points From Taking the No. 2 Spot in DRAM",
-      "summary": "A 6.4-point gap shrank to 1.6 in a single quarter. Where the challenger's gain is coming from matters as much as the ranking.",
-      "url": "https://finnhub.io/api/news?id=8642d3c14340144eb0f18dc39b93da733eb2bdde4fb18b356538afb5f4c0266c",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:34:01+00:00"
-    },
-    {
-      "id": "f_21251796e64545",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Can Netlist's Financial Flexibility Support Its Growth Initiatives?",
-      "summary": "NLST's $40.7M cash and restricted cash balance and available financing, support R&D and IP initiatives as it expands the memory portfolio.",
-      "url": "https://finnhub.io/api/news?id=f0ed4cc04fb27fe4932b406eba9ff3c16b8586a1a73c516c7e23e978fd2c878b",
-      "source": "Yahoo",
-      "published_at": "2026-09-10T14:34:00+00:00"
-    },
-    {
-      "id": "av_5c803c17596772",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Private Advisory Group LLC Takes Position in Amazon.com, Inc. $AMZN",
-      "summary": "Private Advisory Group LLC has acquired a new position in Amazon.com, Inc. (NASDAQ:AMZN), purchasing 224,386 shares valued at approximately $53.48 million, making it their 9th largest holding. Other institutional investors have also adjusted their stakes, while Amazon faces both ",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-private-advisory-group-llc-takes-position-in-amazoncom-inc-amzn-2026-09-10/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-10T08:52:25+00:00",
-      "sentiment": -0.141489,
+      "sentiment": 0.141831,
       "change_pct": -2.37
     }
   ],
-  "fetched_at": "2026-09-10T21:09:38.925432+00:00",
+  "fetched_at": "2026-09-10T23:07:53.682388+00:00",
   "source_count": 4,
-  "translated_at": "2026-09-10T21:09:41.290998+00:00",
+  "translated_at": "2026-09-10T23:07:56.015976+00:00",
   "translation_engine": "google-parallel"
 }
