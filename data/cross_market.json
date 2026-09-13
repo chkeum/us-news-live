@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-13T12:08:34.373449+00:00",
+  "fetched_at": "2026-09-13T16:30:04.059123+00:00",
   "us_mood_score": 59,
   "kr_mood_score": 24,
   "us_mood": "neutral",
@@ -329,11 +329,23 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "Apple and Taiwan Semiconductor Manufacturing Just Announced a Cutting-Edge Chip. 1 Stock Offers Far Greater Upside.",
-      "title_kr": "Apple과 Taiwan Semiconductor Manufacturing이 최첨단 칩을 발표했습니다. 1 주식은 훨씬 더 큰 상승 여력을 제공합니다.",
+      "title": "Sundar Pichai Says Alphabet's Cloud Backlog Hit $514 Billion After 82% Revenue Growth Last Quarter. Is Google Cloud Becoming a Bigger Growth Driver Than Search?",
+      "title_kr": null,
       "source": "Yahoo",
-      "published_at": "2026-09-12T13:44:00+00:00",
-      "category": "breaking",
+      "published_at": "2026-09-13T12:23:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "title": "Wall Street Analyst Sees Between 19% to 37% Upside in These 5 AI Chip Stocks",
+      "title_kr": null,
+      "source": "Yahoo",
+      "published_at": "2026-09-13T10:05:00+00:00",
+      "category": "analyst",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
@@ -349,18 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "하이브"
-      ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Musk attacks Britain over ‘stifling’ driverless car rules",
-      "title_kr": "머스크, 자율주행차 규정 '숨막히게' 영국 공격",
-      "source": "Yahoo",
-      "published_at": "2026-09-13T08:00:00+00:00",
-      "category": "general",
-      "kr_pairs": [
-        "LG에너지솔루션",
-        "에코프로비엠"
       ]
     }
   ],
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 76778.79,
-      "change_pct": -0.75,
+      "price": 77244.01,
+      "change_pct": -0.17,
       "label": "BTC"
     }
   },
