@@ -84,6 +84,18 @@
       "change_pct": -1.77
     },
     {
+      "id": "f_bba4ba77ffa4e1",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "analyst",
+      "title": "IREN Stock Slips, But A Top Wall Street Bank Is Bullish With Double-Upgrade And 50% Upside",
+      "summary": "Investment bank JPMorgan issued a double upgrade on Iren, citing its multi-billion-dollar Nvidia deal and rising contract value as catalysts.",
+      "url": "https://finnhub.io/api/news?id=4906a0fd2834fbd4bf331752df71fe54baa963eedb66d23568ce7364c30ecd91",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T23:21:53+00:00",
+      "change_pct": -3.36
+    },
+    {
       "id": "f_94ab1e0d0dbb8a",
       "provider": "finnhub",
       "ticker": "AAPL",
@@ -106,18 +118,6 @@
       "published_at": "2026-09-14T18:10:00+00:00"
     },
     {
-      "id": "f_ebe10336910b45",
-      "provider": "finnhub",
-      "ticker": "MSTR",
-      "category": "analyst",
-      "title": "Coinbase Jumps 6% on Compass Point Upgrade Ahead of Senate CLARITY Act Vote; Strategy Climbs 3%, MARA Slips",
-      "summary": "A Senate floor vote on crypto market-structure legislation is splitting the sector in real time, lifting some names while a JPMorgan downgrade punishes a miner that Bitcoin's rally cannot save.",
-      "url": "https://finnhub.io/api/news?id=ac88391fe2b0bb541f931d61ad36f0b53d12721bf53ee0717bf9f9fa1b3c5400",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:00:53+00:00",
-      "change_pct": 4.56
-    },
-    {
       "id": "av_404ba8a80a6b01",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -127,7 +127,7 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/talk-ai-pause-slams-nvidia-214716918.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-14T21:18:17+00:00",
-      "sentiment": -0.390992,
+      "sentiment": -0.391567,
       "change_pct": -3.36
     },
     {
@@ -140,7 +140,7 @@
       "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/09/61770221/bofa-ai-slowdown-noise-semiconductor-stocks-upside-secular-bull-market",
       "source": "Benzinga",
       "published_at": "2026-09-14T16:23:27+00:00",
-      "sentiment": 0.410531,
+      "sentiment": 0.437708,
       "change_pct": -3.36
     },
     {
@@ -153,20 +153,7 @@
       "url": "https://currently.att.yahoo.com/att/netflix-stock-rose-4-while-194701621.html",
       "source": "Currently.com",
       "published_at": "2026-09-14T19:48:00+00:00",
-      "sentiment": -0.304342,
-      "change_pct": -3.36
-    },
-    {
-      "id": "av_edd4b6ec9bb7eb",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia expands CUDA-Q platform to support fault-tolerant quantum processors",
-      "summary": "Nvidia has expanded its open-source CUDA-Q platform with a new orchestration layer called CUDA-Q Logical, aimed at accelerating the development of fault-tolerant quantum systems. This new capability provides a programmable environment for simulating and testing these complex syst",
-      "url": "https://siliconangle.com/2026/09/14/nvidia-expands-cuda-q-platform-to-support-fault-tolerant-quantum-processors/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-09-14T13:11:48+00:00",
-      "sentiment": 0.437634,
+      "sentiment": -0.33282,
       "change_pct": -3.36
     },
     {
@@ -179,33 +166,20 @@
       "url": "https://currently.att.yahoo.com/att/buy-costco-stock-sept-24-172622040.html",
       "source": "Currently.com",
       "published_at": "2026-09-14T17:26:54+00:00",
-      "sentiment": 0.330771,
+      "sentiment": 0.344024,
       "change_pct": -3.36
     },
     {
-      "id": "av_488399a77d4e77",
+      "id": "av_edd4b6ec9bb7eb",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
-      "summary": "Broadcom shares fell over 4% after a fresh forecast for $21.7 billion in AI semiconductor revenue, as investors reacted to calls for slowing AI model development. The company, a significant alternative to Nvidia for AI infrastructure with custom accelerators and high-speed networ",
-      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-drops-over-4-21-210015158.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-14T21:16:20+00:00",
-      "sentiment": -0.23327,
-      "change_pct": -3.36
-    },
-    {
-      "id": "av_5bfda848d84e50",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia and other chipmakers suffer as AI warnings raise spending concerns",
-      "summary": "Shares of Nvidia, Micron Technology, and Broadcom declined following calls by AI developers to slow down AI development, which raised concerns about future hardware spending. While some analysts believe AI adoption remains strong, others are cautious about demand for data centers",
-      "url": "https://ca.finance.yahoo.com/news/nvidia-other-chipmakers-suffer-ai-161200128.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-09-14T16:11:40+00:00",
-      "sentiment": -0.332631,
+      "title": "Nvidia expands CUDA-Q platform to support fault-tolerant quantum processors",
+      "summary": "Nvidia has expanded its open-source CUDA-Q platform with a new orchestration layer called CUDA-Q Logical, aimed at accelerating the development of fault-tolerant quantum systems. This new capability provides a programmable environment for simulating and testing these complex syst",
+      "url": "https://siliconangle.com/2026/09/14/nvidia-expands-cuda-q-platform-to-support-fault-tolerant-quantum-processors/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-14T13:11:48+00:00",
+      "sentiment": 0.443383,
       "change_pct": -3.36
     },
     {
@@ -218,20 +192,20 @@
       "url": "https://www.marketwatch.com/story/crowdstrike-and-palo-alto-networks-are-leading-software-stocks-toward-a-never-before-seen-feat-5b8989b2",
       "source": "MarketWatch",
       "published_at": "2026-09-14T21:15:42+00:00",
-      "sentiment": 0.203417,
+      "sentiment": 0.235806,
       "change_pct": -3.36
     },
     {
-      "id": "av_2cf92d7550d518",
+      "id": "av_488399a77d4e77",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "3 Reasons to Sell PNC and 1 Stock to Buy Instead",
-      "summary": "This article analyzes PNC Financial Services Group, advising investors to sell despite its recent outperformance. The author highlights three main concerns: mediocre net interest income growth, a weak net interest margin, and unimpressive EPS growth. The article concludes by sugg",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pnc-1-112330220.html",
+      "title": "Broadcom Drops Over 4% as $21.7 Billion AI Forecast Meets Slowdown Fears",
+      "summary": "Broadcom shares fell over 4% after a fresh forecast for $21.7 billion in AI semiconductor revenue, as investors reacted to calls for slowing AI model development. The company, a significant alternative to Nvidia for AI infrastructure with custom accelerators and high-speed networ",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-drops-over-4-21-210015158.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-14T11:24:23+00:00",
-      "sentiment": 0.427543,
+      "published_at": "2026-09-14T21:16:20+00:00",
+      "sentiment": -0.216354,
       "change_pct": -3.36
     },
     {
@@ -244,20 +218,20 @@
       "url": "https://www.fastcompany.com/91606821/chip-stocks-down-today-amd-nvidia-intel-sandisk-ai-pause-fears",
       "source": "Fast Company",
       "published_at": "2026-09-14T11:32:50+00:00",
-      "sentiment": -0.404131,
+      "sentiment": -0.44744,
       "change_pct": -3.36
     },
     {
-      "id": "av_70550d732ac6d6",
+      "id": "av_5bfda848d84e50",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Why Is Super Micro Computer Stock Falling Monday?",
-      "summary": "Super Micro Computer (NASDAQ: SMCI) stock dropped over 7% on Monday due to a broader selloff in semiconductor and AI infrastructure stocks, driven by investor reassessment of AI spending amid safety concerns and calls for slower frontier AI development. While SMCI remains in a lo",
-      "url": "https://www.benzinga.com/markets/tech/26/09/61765144/why-is-super-micro-computer-stock-falling-monday",
-      "source": "Benzinga",
-      "published_at": "2026-09-14T14:08:38+00:00",
-      "sentiment": -0.337423,
+      "title": "Nvidia and other chipmakers suffer as AI warnings raise spending concerns",
+      "summary": "Shares of Nvidia, Micron Technology, and Broadcom declined following calls by AI developers to slow down AI development, which raised concerns about future hardware spending. While some analysts believe AI adoption remains strong, others are cautious about demand for data centers",
+      "url": "https://ca.finance.yahoo.com/news/nvidia-other-chipmakers-suffer-ai-161200128.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-09-14T16:11:40+00:00",
+      "sentiment": -0.316649,
       "change_pct": -3.36
     },
     {
@@ -270,7 +244,20 @@
       "url": "https://www.hpcwire.com/aiwire/2026/09/14/enphase-energy-to-showcase-iq-solid-state-transformer-at-ai-infra-summit-2026/",
       "source": "HPCwire",
       "published_at": "2026-09-14T19:19:47+00:00",
-      "sentiment": 0.203813,
+      "sentiment": 0.232823,
+      "change_pct": -3.36
+    },
+    {
+      "id": "av_2cf92d7550d518",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "3 Reasons to Sell PNC and 1 Stock to Buy Instead",
+      "summary": "This article analyzes PNC Financial Services Group, advising investors to sell despite its recent outperformance. The author highlights three main concerns: mediocre net interest income growth, a weak net interest margin, and unimpressive EPS growth. The article concludes by sugg",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-sell-pnc-1-112330220.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T11:24:23+00:00",
+      "sentiment": 0.428651,
       "change_pct": -3.36
     },
     {
@@ -283,33 +270,7 @@
       "url": "https://www.investing.com/news/company-news/infleqtion-integrates-qldpc-library-with-nvidia-cudaq-logical-93CH-4899721",
       "source": "Investing.com",
       "published_at": "2026-09-14T13:28:03+00:00",
-      "sentiment": 0.327385,
-      "change_pct": -3.36
-    },
-    {
-      "id": "av_13f5c76cfe8595",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets",
-      "summary": "Nvidia, Palantir, and Booz Allen Hamilton are reportedly restricting their use of advanced AI models from companies like Anthropic and OpenAI due to concerns that these models could retain or learn from sensitive corporate data and proprietary knowledge. Nvidia and Palantir are d",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-palantir-pull-back-anthropic-164822752.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-14T16:48:40+00:00",
-      "sentiment": -0.240443,
-      "change_pct": -3.36
-    },
-    {
-      "id": "av_b92c15973e475e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Down 4.4% After Insider Selling",
-      "summary": "Advanced Micro Devices (NASDAQ:AMD) shares dropped 4.4% following insider selling by CEO Lisa Su, who sold 95,000 shares worth approximately $48.1 million under pre-arranged trading plans. Despite the insider selling and concerns about AI development pace, analysts maintain a \"Mo",
-      "url": "https://www.marketbeat.com/instant-alerts/price-advanced-micro-devices-nasdaq-amd-trading-down-44-after-insider-selling-2026-09-14/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-14T21:24:18+00:00",
-      "sentiment": -0.122343,
+      "sentiment": 0.345037,
       "change_pct": -3.36
     },
     {
@@ -322,7 +283,20 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-alecta-tjanstepension-omsesidigt-increases-stock-holdings-in-nvidia-corporation-nvda-2026-09-14/",
       "source": "MarketBeat",
       "published_at": "2026-09-14T07:41:38+00:00",
-      "sentiment": 0.459541,
+      "sentiment": 0.485485,
+      "change_pct": -3.36
+    },
+    {
+      "id": "av_70550d732ac6d6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Is Super Micro Computer Stock Falling Monday?",
+      "summary": "Super Micro Computer (NASDAQ: SMCI) stock dropped over 7% on Monday due to a broader selloff in semiconductor and AI infrastructure stocks, driven by investor reassessment of AI spending amid safety concerns and calls for slower frontier AI development. While SMCI remains in a lo",
+      "url": "https://www.benzinga.com/markets/tech/26/09/61765144/why-is-super-micro-computer-stock-falling-monday",
+      "source": "Benzinga",
+      "published_at": "2026-09-14T14:08:38+00:00",
+      "sentiment": -0.319852,
       "change_pct": -3.36
     },
     {
@@ -335,7 +309,57 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-technology-shares-fall-5-115919941.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-14T12:14:50+00:00",
-      "sentiment": -0.342971,
+      "sentiment": -0.344713,
+      "change_pct": -3.36
+    },
+    {
+      "id": "av_b92c15973e475e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Advanced Micro Devices (NASDAQ:AMD) Trading Down 4.4% After Insider Selling",
+      "summary": "Advanced Micro Devices (NASDAQ:AMD) shares dropped 4.4% following insider selling by CEO Lisa Su, who sold 95,000 shares worth approximately $48.1 million under pre-arranged trading plans. Despite the insider selling and concerns about AI development pace, analysts maintain a \"Mo",
+      "url": "https://www.marketbeat.com/instant-alerts/price-advanced-micro-devices-nasdaq-amd-trading-down-44-after-insider-selling-2026-09-14/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-14T21:24:18+00:00",
+      "sentiment": -0.110845,
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_18acc238a3d46c",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "This Index Fund Could Turn $25,000 Into $20,635,655",
+      "summary": "The best investments are sometimes the simplest.",
+      "url": "https://finnhub.io/api/news?id=47f65a01118bf1e6e8918754edc773dae42c145811159f763851c43c72ae4419",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T01:35:00+00:00",
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_6f93926150e4ae",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "general",
+      "title": "Amazon Partners with Wiwynn to Expand U.S. AI Infrastructure Capacity",
+      "summary": "Amazon.com, Inc. (NASDAQ:AMZN) and Wiwynn are expanding Wiwynn’s advanced manufacturing facility in Socorro, Texas, with nearly 1,000 additional jobs expected by the end of 2027. The facility manufactures and integrates server systems and racks used in Amazon’s data center infrastructure. Wiwynn says its total investment in the Texas facility will exceed $1.6 billion, with employment […]",
+      "url": "https://finnhub.io/api/news?id=9d6f938474dcced437940a650150120826e2569d92b9e30d51edea96f8f199f9",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T01:22:23+00:00",
+      "change_pct": -1.26
+    },
+    {
+      "id": "av_13f5c76cfe8595",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia, Palantir Pull Back From Anthropic Models Over Fears AI Could Expose Corporate Secrets",
+      "summary": "Nvidia, Palantir, and Booz Allen Hamilton are reportedly restricting their use of advanced AI models from companies like Anthropic and OpenAI due to concerns that these models could retain or learn from sensitive corporate data and proprietary knowledge. Nvidia and Palantir are d",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-palantir-pull-back-anthropic-164822752.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T16:48:40+00:00",
+      "sentiment": -0.213772,
       "change_pct": -3.36
     },
     {
@@ -348,7 +372,19 @@
       "url": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
       "source": "TechCrunch",
       "published_at": "2026-09-14T20:11:12+00:00",
-      "sentiment": 0.131521,
+      "sentiment": 0.120476,
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_0130823b0b43fc",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SpaceX Spent $15.8 Billion on AI in a Quarter. Here's What Happens to the Stock if Orbital Data Centers Don't Work.",
+      "summary": "How important are terrestrial data centers to SpaceX in the near term?",
+      "url": "https://finnhub.io/api/news?id=7d4859c3275cbcbc9d077314c148ac7f724dca08fb6bd4cc3b58fda860a95d72",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T00:32:07+00:00",
       "change_pct": -3.36
     },
     {
@@ -363,19 +399,6 @@
       "published_at": "2026-09-15T00:27:30+00:00"
     },
     {
-      "id": "av_129393749cc108",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Samsung, SK hynix warn against an AI chip boom illusion",
-      "summary": "Samsung Electronics and SK hynix rejected Kepco's proposal for a 25 trillion won ($18.6 billion) prepaid electricity plan, questioning the longevity of the current semiconductor boom. This caution from the chipmakers contrasts with the Lee Jae Myung administration’s optimism abou",
-      "url": "https://www.koreajoongangdaily.com/opinion/chipmakers-rejection-of-prepaid-power-bills-warrants-reflection/12874912",
-      "source": "Korea JoongAng Daily",
-      "published_at": "2026-09-14T14:38:01+00:00",
-      "sentiment": -0.245034,
-      "change_pct": -3.36
-    },
-    {
       "id": "av_2d0a012974226b",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -385,20 +408,7 @@
       "url": "https://www.cnbc.com/2026/09/14/apple-releases-ios-27-redesigned-siri-ai.html",
       "source": "CNBC",
       "published_at": "2026-09-14T19:06:16+00:00",
-      "sentiment": 0.124246,
-      "change_pct": -3.36
-    },
-    {
-      "id": "av_bd988bc675ecab",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks",
-      "summary": "Broadcom (NASDAQ:AVGO) shares dropped 3.2% in pre-market trading, impacted by calls for slower AI development which affected semiconductor stocks broadly. The decline also reflects ongoing investor scrutiny of Broadcom's valuation, earnings outlook, and regulatory issues surround",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-3-2-111258456.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-14T11:16:44+00:00",
-      "sentiment": -0.319032,
+      "sentiment": 0.128845,
       "change_pct": -3.36
     },
     {
@@ -411,7 +421,33 @@
       "url": "https://www.benzinga.com/trading-ideas/movers/26/09/61765026/servicenow-stock-rises-as-the-saas-pocalypse-fear-reverses-course",
       "source": "Benzinga",
       "published_at": "2026-09-14T13:47:35+00:00",
-      "sentiment": -0.254243,
+      "sentiment": -0.256993,
+      "change_pct": -3.36
+    },
+    {
+      "id": "av_6482124f3343c4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Acadia Realty Trust completes $119M in Q3 retail acquisitions",
+      "summary": "Acadia Realty Trust (NYSE: AKR) announced $119 million in street retail acquisitions during the third quarter, adding properties in New York, Connecticut, and California. These acquisitions contribute to a year-to-date total of $742 million, and the company expects to meet its an",
+      "url": "https://www.streetinsider.com/Corporate+News/Acadia+Realty+Trust+completes+$119M+in+Q3+retail+acquisitions/27055799.html",
+      "source": "StreetInsider",
+      "published_at": "2026-09-14T12:27:34+00:00",
+      "sentiment": -0.29028,
+      "change_pct": -3.36
+    },
+    {
+      "id": "av_135ddd8b0ec6e2",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Intel Shares Fall 6.4% as AI Development Slowdown Debate Weighs on Chip Stocks",
+      "summary": "Intel Corporation shares dropped 6.4% on Monday due to concerns about a potential slowdown in advanced AI development, following calls from tech executives like Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman for a more cautious pace. This sentiment led to a broader decline ",
+      "url": "https://finance.yahoo.com/technology/ai/articles/intel-shares-fall-6-4-110350235.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T11:03:00+00:00",
+      "sentiment": -0.322721,
       "change_pct": -3.36
     },
     {
@@ -427,16 +463,39 @@
       "change_pct": -7.32
     },
     {
-      "id": "av_6482124f3343c4",
+      "id": "f_64b76effbfddd3",
+      "provider": "finnhub",
+      "ticker": "AAPL",
+      "category": "general",
+      "title": "PayPal takes No. 1 in tech power ranking",
+      "summary": "PayPal moves up three places as analysts weigh its profit outlook, buybacks and PYUSD growth against slower user gains.",
+      "url": "https://finnhub.io/api/news?id=f3cb1ba656675efa57eb1c312472f5a2c8832e860be8b913011fe2878bc3b4ed",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T23:51:48+00:00"
+    },
+    {
+      "id": "av_bd988bc675ecab",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Acadia Realty Trust completes $119M in Q3 retail acquisitions",
-      "summary": "Acadia Realty Trust (NYSE: AKR) announced $119 million in street retail acquisitions during the third quarter, adding properties in New York, Connecticut, and California. These acquisitions contribute to a year-to-date total of $742 million, and the company expects to meet its an",
-      "url": "https://www.streetinsider.com/Corporate+News/Acadia+Realty+Trust+completes+$119M+in+Q3+retail+acquisitions/27055799.html",
-      "source": "StreetInsider",
-      "published_at": "2026-09-14T12:27:34+00:00",
-      "sentiment": -0.281492,
+      "title": "Broadcom Shares Fall 3.2% as AI Development Debate Weighs on Semiconductor Stocks",
+      "summary": "Broadcom (NASDAQ:AVGO) shares dropped 3.2% in pre-market trading, impacted by calls for slower AI development which affected semiconductor stocks broadly. The decline also reflects ongoing investor scrutiny of Broadcom's valuation, earnings outlook, and regulatory issues surround",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-shares-fall-3-2-111258456.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T11:16:44+00:00",
+      "sentiment": -0.313964,
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_faed10f76e06d4",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Prediction: Interactive Brokers Ends 2026 With More Than 6 Million Customer Accounts",
+      "summary": "The last four months of the year only have to look something like the four that just ended.",
+      "url": "https://finnhub.io/api/news?id=2ed5c20435b31795a864ec7f78dcd00a94c78dc83764b0e987b61cb84c45c571",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T23:46:01+00:00",
       "change_pct": -3.36
     },
     {
@@ -452,30 +511,16 @@
       "change_pct": -4.77
     },
     {
-      "id": "av_135ddd8b0ec6e2",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
+      "id": "f_008fac59a20b77",
+      "provider": "finnhub",
+      "ticker": "AMZN",
       "category": "general",
-      "title": "Intel Shares Fall 6.4% as AI Development Slowdown Debate Weighs on Chip Stocks",
-      "summary": "Intel Corporation shares dropped 6.4% on Monday due to concerns about a potential slowdown in advanced AI development, following calls from tech executives like Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman for a more cautious pace. This sentiment led to a broader decline ",
-      "url": "https://finance.yahoo.com/technology/ai/articles/intel-shares-fall-6-4-110350235.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-14T11:03:00+00:00",
-      "sentiment": -0.308153,
-      "change_pct": -3.36
-    },
-    {
-      "id": "av_90b69de9e6a480",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why Is GLW Stock Dipping Premarket Today?",
-      "summary": "Corning Inc. (GLW) stock fell over 7% in premarket trading after announcing an \"at-the-market\" equity offering to raise up to $2 billion, sparking concerns about shareholder dilution. This move comes after a significant 91% year-to-date surge for GLW, driven by strong AI infrastr",
-      "url": "https://stocktwits.com/news-articles/markets/equity/glw-stock-drops-premarket-as-corning-launches-2-b-equity-offering/cZtlxZ2RBRi",
-      "source": "Stocktwits",
-      "published_at": "2026-09-14T09:23:38+00:00",
-      "sentiment": 0.348531,
-      "change_pct": -3.36
+      "title": "AMAZON TEAMSTERS RALLY FOR DELIVERY PROTECTION ACT",
+      "summary": "Hundreds of Amazon Teamsters in Chicago will be joined by local elected officials and labor and civil society coalition allies for a rally on Tuesday, September 15. The workers will be calling on the Chicago City Council to ban Amazon's corrupt third-party Delivery Service Partner model.",
+      "url": "https://finnhub.io/api/news?id=13aaf5b7386824be631c2edbd2b0f9539db0be28d97d1d08a0493e821500da32",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T23:05:00+00:00",
+      "change_pct": -1.26
     },
     {
       "id": "av_c4cf3132eb05f1",
@@ -487,20 +532,20 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/amazon-microsoft-buy-gpus-u-212115814.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-14T17:21:00+00:00",
-      "sentiment": 0.146074,
+      "sentiment": 0.143061,
       "change_pct": -3.36
     },
     {
       "id": "f_4dc6ff1417ce88",
       "provider": "finnhub",
-      "ticker": "MSFT",
+      "ticker": "NVDA",
       "category": "general",
       "title": "Microsoft Just Made a Move That Could Put More Pressure on Its Azure Business. Here's Why It Could Turn Out Great for the Stock",
       "summary": "The tech company will now report Azure's revenue in its quarterly results, not just its overall growth rate.",
       "url": "https://finnhub.io/api/news?id=b8ea0d71b0bb73d7b17a1a4044a495959394b695d92256cd9c59015d0da8e08c",
       "source": "Yahoo",
       "published_at": "2026-09-14T23:01:37+00:00",
-      "change_pct": 1.97
+      "change_pct": -3.36
     },
     {
       "id": "av_5124febd12facd",
@@ -512,7 +557,32 @@
       "url": "https://www.investing.com/news/analyst-ratings/guggenheim-cuts-kroger-stock-price-target-to-66-on-volume-weakness-93CH-4899902",
       "source": "Investing.com",
       "published_at": "2026-09-14T14:34:15+00:00",
-      "sentiment": -0.211311,
+      "sentiment": -0.208811,
+      "change_pct": -3.36
+    },
+    {
+      "id": "av_129393749cc108",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Samsung, SK hynix warn against an AI chip boom illusion",
+      "summary": "Samsung Electronics and SK hynix rejected Kepco's proposal for a 25 trillion won ($18.6 billion) prepaid electricity plan, questioning the longevity of the current semiconductor boom. This caution from the chipmakers contrasts with the Lee Jae Myung administration’s optimism abou",
+      "url": "https://www.koreajoongangdaily.com/opinion/chipmakers-rejection-of-prepaid-power-bills-warrants-reflection/12874912",
+      "source": "Korea JoongAng Daily",
+      "published_at": "2026-09-14T14:38:01+00:00",
+      "sentiment": -0.205537,
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_9920d0fcc1d93c",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Tech stocks slump after AI execs call for industry slowdown",
+      "summary": "The Nasdaq slid 1% on Monday after AI company executives called for a slowdown in developing the technology.",
+      "url": "https://finnhub.io/api/news?id=4a17baa6639a076d67eb36e7bf9570ce526d83e954cedf1d397585736d422d70",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T22:50:00+00:00",
       "change_pct": -3.36
     },
     {
@@ -528,16 +598,52 @@
       "change_pct": -1.77
     },
     {
-      "id": "av_40eb5df2b4ff1f",
+      "id": "f_e21aea2be46f1d",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Hewlett Packard Enterprise Stock Plummeted by Almost 11% Today",
+      "summary": "The tech hardware company, which targets corporate clients, was hit with an analyst downgrade.",
+      "url": "https://finnhub.io/api/news?id=cf1d662282cf77e997c371edf650c97a2cabd9671b349aa5a54c3d8215163f69",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T22:46:07+00:00",
+      "change_pct": -3.36
+    },
+    {
+      "id": "av_e3e61cf2437011",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Corning Launches Up to $2 Billion At-the-Market Program",
-      "summary": "Corning has announced an at-the-market program of up to $2 billion, causing investor concern about potential shareholder dilution and a premarket stock drop of over 7%. Despite this, Corning's stock has surged approximately 91% year-to-date due to strong AI infrastructure demand ",
-      "url": "https://intellectia.ai/news/stock/corning-launches-up-to-2-billion-atthemarket-program",
-      "source": "Intellectia AI",
-      "published_at": "2026-09-14T09:07:37+00:00",
-      "sentiment": -0.341131,
+      "title": "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
+      "summary": "Corning's stock plunged 12% following the announcement of a $2 billion at-the-market equity offering, impacting the broader AI optical sector. Other companies like Coherent, Lumentum, and Fabrinet also saw significant declines, partly due to sector sympathy and concerns raised by",
+      "url": "https://247wallst.com/investing/2026/09/14/corning-tumbles-12-on-2b-at-the-market-equity-offering-coherent-sinks-11-lumentum-drops-9-fabrinet-slides-6/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-14T17:31:40+00:00",
+      "sentiment": -0.124164,
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_4679305659b2f3",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
+      "summary": "A rare moment of unity among AI's fiercest rivals.",
+      "url": "https://finnhub.io/api/news?id=8f9d0c4d3b67f44740f229033040842d0c45fe158ddb989abe9c39e90cb4d972",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T22:16:01+00:00",
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_fa3401cec07ec3",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
+      "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’",
+      "url": "https://finnhub.io/api/news?id=08b74b03ae5683acbcef34767a76304a74dfaa46a01167838267e58522928d2b",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T22:10:52+00:00",
       "change_pct": -3.36
     },
     {
@@ -550,20 +656,33 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/amd-shares-fall-5-6-120252089.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-14T12:02:00+00:00",
-      "sentiment": -0.262272,
+      "sentiment": -0.251958,
       "change_pct": -3.36
     },
     {
-      "id": "f_4679305659b2f3",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
+      "id": "av_d5dcb2eb448ac4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
       "category": "general",
-      "title": "'We owe it to humanity to try': Anthropic's CEO Just Called For Global AI Slowdown. Elon Musk, Sam Altman, and Google’s AI Chief Agree.",
-      "summary": "A rare moment of unity among AI's fiercest rivals.",
-      "url": "https://finnhub.io/api/news?id=8f9d0c4d3b67f44740f229033040842d0c45fe158ddb989abe9c39e90cb4d972",
+      "title": "Tidal Investments LLC Buys 5,419 Shares of SiTime Corporation $SITM",
+      "summary": "Tidal Investments LLC increased its stake in SiTime Corporation by 231.3% in the second quarter, acquiring an additional 5,419 shares. SiTime reported strong quarterly results with revenue up 126.5% year-over-year and EPS beating estimates, leading analysts to maintain a \"Buy\" co",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-tidal-investments-llc-buys-5419-shares-of-sitime-corporation-sitm-2026-09-14/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-14T08:35:46+00:00",
+      "sentiment": 0.336743,
+      "change_pct": -3.36
+    },
+    {
+      "id": "f_6cd40f42509d42",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why SLB Stock Slumped Today",
+      "summary": "It wasn't a banner day for oilfield services companies.",
+      "url": "https://finnhub.io/api/news?id=5c6c325b897da87068f25c945a2b45b242fcf497517e46d5e51a03447c501f1c",
       "source": "Yahoo",
-      "published_at": "2026-09-14T22:16:01+00:00",
-      "change_pct": 3.22
+      "published_at": "2026-09-14T22:02:38+00:00",
+      "change_pct": -3.36
     },
     {
       "id": "f_e323afd5aed821",
@@ -670,16 +789,16 @@
       "published_at": "2026-09-14T21:45:03+00:00"
     },
     {
-      "id": "av_d5dcb2eb448ac4",
+      "id": "av_90b69de9e6a480",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Tidal Investments LLC Buys 5,419 Shares of SiTime Corporation $SITM",
-      "summary": "Tidal Investments LLC increased its stake in SiTime Corporation by 231.3% in the second quarter, acquiring an additional 5,419 shares. SiTime reported strong quarterly results with revenue up 126.5% year-over-year and EPS beating estimates, leading analysts to maintain a \"Buy\" co",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-tidal-investments-llc-buys-5419-shares-of-sitime-corporation-sitm-2026-09-14/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-14T08:35:46+00:00",
-      "sentiment": 0.327668,
+      "title": "Why Is GLW Stock Dipping Premarket Today?",
+      "summary": "Corning Inc. (GLW) stock fell over 7% in premarket trading after announcing an \"at-the-market\" equity offering to raise up to $2 billion, sparking concerns about shareholder dilution. This move comes after a significant 91% year-to-date surge for GLW, driven by strong AI infrastr",
+      "url": "https://stocktwits.com/news-articles/markets/equity/glw-stock-drops-premarket-as-corning-launches-2-b-equity-offering/cZtlxZ2RBRi",
+      "source": "Stocktwits",
+      "published_at": "2026-09-14T09:23:38+00:00",
+      "sentiment": 0.308685,
       "change_pct": -3.36
     },
     {
@@ -692,19 +811,6 @@
       "url": "https://finnhub.io/api/news?id=b1d428dbdddec2cbb1d5ab1c6c20661a824258dfcb2157af7892e3242cffc709",
       "source": "Yahoo",
       "published_at": "2026-09-14T21:41:20+00:00"
-    },
-    {
-      "id": "av_e3e61cf2437011",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Corning Tumbles 12% on $2B At-the-Market Equity Offering; Coherent Sinks 11%, Lumentum Drops 9%, Fabrinet Slides 6%",
-      "summary": "Corning's stock plunged 12% following the announcement of a $2 billion at-the-market equity offering, impacting the broader AI optical sector. Other companies like Coherent, Lumentum, and Fabrinet also saw significant declines, partly due to sector sympathy and concerns raised by",
-      "url": "https://247wallst.com/investing/2026/09/14/corning-tumbles-12-on-2b-at-the-market-equity-offering-coherent-sinks-11-lumentum-drops-9-fabrinet-slides-6/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-09-14T17:31:40+00:00",
-      "sentiment": -0.102546,
-      "change_pct": -3.36
     },
     {
       "id": "f_c5d67e8e7386de",
@@ -753,6 +859,19 @@
       "source": "Yahoo",
       "published_at": "2026-09-14T21:24:45+00:00",
       "change_pct": -1.26
+    },
+    {
+      "id": "av_40eb5df2b4ff1f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Corning Launches Up to $2 Billion At-the-Market Program",
+      "summary": "Corning has announced an at-the-market program of up to $2 billion, causing investor concern about potential shareholder dilution and a premarket stock drop of over 7%. Despite this, Corning's stock has surged approximately 91% year-to-date due to strong AI infrastructure demand ",
+      "url": "https://intellectia.ai/news/stock/corning-launches-up-to-2-billion-atthemarket-program",
+      "source": "Intellectia AI",
+      "published_at": "2026-09-14T09:07:37+00:00",
+      "sentiment": -0.306905,
+      "change_pct": -3.36
     },
     {
       "id": "f_1ae28a59ec99fe",
@@ -934,6 +1053,18 @@
       "change_pct": -3.36
     },
     {
+      "id": "f_57b75116664624",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "Oil gains on Mideast supply fears, AI warnings rattle tech firms",
+      "summary": "Oil prices jumped on Monday as Saudi Arabia closed a key pipeline amid the Middle East war, fuelling worries about high inflation that is set to push the US Federal Reserve into hiking interest rates this week.- Fed set to hike - Average diesel prices in the United States struck a new record high at $6.23 a gallon, having topped $6.0 for the first time on Friday -- pressuring President Donald Trump, who has pledged economic relief ahead of midterm congressional elections in November.",
+      "url": "https://finnhub.io/api/news?id=c5cf2e65d26fe0538803495cf8fb4e14db4bbe91ff9d7c90da864406cd4ee032",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T20:33:41+00:00",
+      "change_pct": -4.4
+    },
+    {
       "id": "f_3964a0f3002b58",
       "provider": "finnhub",
       "ticker": "MSFT",
@@ -993,17 +1124,6 @@
       "published_at": "2026-09-14T20:18:11+00:00"
     },
     {
-      "id": "f_9920d0fcc1d93c",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Tech stocks slump after AI execs call for industry slowdown",
-      "summary": "The Nasdaq slid 1% on Monday after AI company executives called for a slowdown in developing the technology.",
-      "url": "https://finnhub.io/api/news?id=4a17baa6639a076d67eb36e7bf9570ce526d83e954cedf1d397585736d422d70",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T20:13:12+00:00"
-    },
-    {
       "id": "f_1e452e0fc1fdb8",
       "provider": "finnhub",
       "ticker": "MSTR",
@@ -1026,6 +1146,19 @@
       "source": "Yahoo",
       "published_at": "2026-09-14T20:00:07+00:00",
       "change_pct": 1.97
+    },
+    {
+      "id": "av_2c5741d6c8df60",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "The Zacks Analyst Blog Highlights Amkor Technology, Ultra Clean, FormFactor, Taiwan Semiconducto and NVIDIA",
+      "summary": "The Zacks Analyst Blog highlights Amkor Technology (AMKR), Ultra Clean Holdings (UCTT), FormFactor (FORM), Taiwan Semiconductor Manufacturing Co. Ltd. (TSM), and NVIDIA Corp. (NVDA) as top-ranked AI semiconductor equipment stocks. These companies are poised for significant growth",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amkor-100600528.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-14T10:08:18+00:00",
+      "sentiment": 0.244685,
+      "change_pct": -3.36
     },
     {
       "id": "f_c734e348bbdcc2",
@@ -1287,6 +1420,17 @@
       "change_pct": -1.77
     },
     {
+      "id": "f_d0bc34df913fdb",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "general",
+      "title": "Intel Stock Just Got a Stark Warning From Wall Street",
+      "summary": "Intel’s AI-driven turnaround is gaining momentum, but a massive rally has pushed valuation to levels that leave little room for disappointment.",
+      "url": "https://finnhub.io/api/news?id=ec11e1fc38d99315a3b21e6650b6e84602ae01df632d6cec8ffdc898836eb7a2",
+      "source": "Yahoo",
+      "published_at": "2026-09-14T18:41:59+00:00"
+    },
+    {
       "id": "f_1af868823b7d71",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1335,19 +1479,6 @@
       "change_pct": 2.71
     },
     {
-      "id": "av_2c5741d6c8df60",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The Zacks Analyst Blog Highlights Amkor Technology, Ultra Clean, FormFactor, Taiwan Semiconducto and NVIDIA",
-      "summary": "The Zacks Analyst Blog highlights Amkor Technology (AMKR), Ultra Clean Holdings (UCTT), FormFactor (FORM), Taiwan Semiconductor Manufacturing Co. Ltd. (TSM), and NVIDIA Corp. (NVDA) as top-ranked AI semiconductor equipment stocks. These companies are poised for significant growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-amkor-100600528.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-14T10:08:18+00:00",
-      "sentiment": 0.211587,
-      "change_pct": -3.36
-    },
-    {
       "id": "f_e084ff5dbaf2aa",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1382,18 +1513,6 @@
       "source": "Yahoo",
       "published_at": "2026-09-14T18:24:18+00:00",
       "change_pct": -1.26
-    },
-    {
-      "id": "f_fa3401cec07ec3",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "AI-linked stocks slide after tech bosses call for slowdown in ‘reckless’ development",
-      "summary": "Donald Trump dismisses attempts to increase controls on artificial intelligence as ‘sick conspiracy’",
-      "url": "https://finnhub.io/api/news?id=08b74b03ae5683acbcef34767a76304a74dfaa46a01167838267e58522928d2b",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T18:17:47+00:00",
-      "change_pct": -4.4
     },
     {
       "id": "f_f4da1cf450301b",
@@ -1536,7 +1655,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-ahara-advisors-llc-grows-stock-holdings-in-nvidia-corporation-nvda-2026-09-13/",
       "source": "MarketBeat",
       "published_at": "2026-09-13T07:08:13+00:00",
-      "sentiment": 0.46379,
+      "sentiment": 0.453202,
       "change_pct": -3.36,
       "title_kr": "Ahara Advisors LLC, NVIDIA Corporation $NVDA의 주식 보유 확대",
       "summary_kr": "Ahara Advisors LLC는 2분기에 NVIDIA Corporation의 지분을 89.5% 늘려 세 번째로 큰 지분을 보유하게 되었습니다. 이러한 움직임은 분석가 업그레이드, 강력한 칩 수요,"
@@ -2002,6 +2121,21 @@
       "change_pct": 1.97
     },
     {
+      "id": "av_9258f5843ede16",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
+      "summary": "Nvidia (NVDA) is expanding its global AI infrastructure ambitions with a new initiative in Australia, aiming for a 2 gigawatt AI infrastructure buildout by 2027 through strategic partnerships. This expansion is expected to deepen Nvidia's infrastructure advantage by integrating i",
+      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-12T21:11:25+00:00",
+      "sentiment": 0.417713,
+      "change_pct": -3.36,
+      "title_kr": "Nvidia(NVDA)의 2GW 호주 AI 추진으로 인프라 이점이 심화될 수 있음",
+      "summary_kr": "엔비디아(NVDA)는 전략적 파트너십을 통해 2027년까지 2기가와트 규모의 AI 인프라 구축을 목표로 호주에서 새로운 이니셔티브를 통해 글로벌 AI 인프라 야망을 확장하고 있습니다. 이번 확장으로 Nvidia의 인프라 발전이 더욱 심화될 것으로 예상됩니다."
+    },
+    {
       "id": "f_42f58b9e654aec",
       "provider": "finnhub",
       "ticker": "MSFT",
@@ -2035,6 +2169,21 @@
       "url": "https://finnhub.io/api/news?id=63113252f4fa861c7c6ae1dc6cc020bc1a5e25d3ddefdfb4c5440e5a2dc2b193",
       "source": "Yahoo",
       "published_at": "2026-09-14T16:16:00+00:00"
+    },
+    {
+      "id": "av_94ff566c356953",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Goldman Sachs Says AI Is Driving Half of S&P 500 Earnings Growth. That Number Cuts Both Ways.",
+      "summary": "Goldman Sachs reports that AI investment spending accounts for roughly half of the S&P 500's earnings growth, largely driven by a few hyperscale buyers like Microsoft and suppliers like NVIDIA and Broadcom. While this indicates strong performance, it also highlights a concentrati",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-says-ai-driving-180024217.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-13T18:01:13+00:00",
+      "sentiment": 0.41421,
+      "change_pct": -3.36,
+      "title_kr": "Goldman Sachs는 AI가 S&P 500 수익 성장의 절반을 주도하고 있다고 말합니다. 그 숫자는 양방향을 모두 줄여줍니다.",
+      "summary_kr": "Goldman Sachs는 AI 투자 지출이 S&P 500 수익 성장의 약 절반을 차지하며 이는 주로 Microsoft와 같은 일부 하이퍼스케일 구매자와 NVIDIA 및 Broadcom과 같은 공급업체에 의해 주도된다고 보고합니다. 이는 강력한 성능을 나타냄과 동시에 높은 성능을 나타냅니다."
     },
     {
       "id": "f_20b4abae9c370f",
@@ -2257,155 +2406,10 @@
       "url": "https://finnhub.io/api/news?id=6a11509a42deb63651b5b154bc126dbe6013e562588df651e4def6506a3af31b",
       "source": "Yahoo",
       "published_at": "2026-09-14T15:56:54+00:00"
-    },
-    {
-      "id": "f_ca1709e80c66d1",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Top Midday Stories: No OpenAI IPO in 2026, Altman Reportedly Says; Nvidia, Palantir Said to Restrict AI Usage Over Customer Data Fears",
-      "summary": "All three major US stock indexes were down in late-morning trading Monday, as major artificial intel",
-      "url": "https://finnhub.io/api/news?id=ecad046530589ffca94518c59ae1816dede69695229f539d18182ac3162a3074",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:56:29+00:00",
-      "change_pct": 1.97
-    },
-    {
-      "id": "f_b853bdaac1c6c8",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "IREN falls 5% despite CEO's bullish AI supply warning",
-      "summary": "Daniel Roberts says today's AI demand could outrun available infrastructure for years.",
-      "url": "https://finnhub.io/api/news?id=539913635be4f18645eb3632e40fef6162475299d17e7ee72dab3ec38594b2b1",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:55:58+00:00",
-      "change_pct": 3.22
-    },
-    {
-      "id": "f_a0e3b2967bbf52",
-      "provider": "finnhub",
-      "ticker": "PLTR",
-      "category": "general",
-      "title": "Data retention concerns spark client pushback against Anthropic and OpenAI -report",
-      "summary": "Investing.com -- Escalating concerns over corporate data privacy are driving major enterprise and defense clients to restrict their use of frontier artificial intelligence models, according to reporting from The Information. The pushback highlights a growing friction point for AI developers such as Anthropic (NASDAQ:ANTP) and OpenAI (NASDAQ:OAI), as prominent clients, including NVIDIA Corporation (NASDAQ:NVDA), Palantir Technologies Inc (NASDAQ:PLTR), and Booz Allen Hamilton Holding (NYSE:BAH),",
-      "url": "https://finnhub.io/api/news?id=9fbe6aedb03c7d6ec238a40f6cafdfb2e4e6897f1c08f23e4d3558fc437c6bd0",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:54:45+00:00"
-    },
-    {
-      "id": "f_f4c4607adcd256",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Nvidia Triggers Key Signals As AI Warnings Mount; Is Nvidia A Sell Now?",
-      "summary": "Nvidia stock falls below a 227.92 buy point on Monday ahead of the Fed's rate-setting meeting amid warnings about AI technology.",
-      "url": "https://finnhub.io/api/news?id=607c8b0b6db805914781c620cb8fc19520136e86559fe5525588a86b139e358d",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:51:06+00:00",
-      "change_pct": -1.77
-    },
-    {
-      "id": "f_53c6627e0f3d2b",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Lemonade CFO eyes self-driving car insurance, cross-selling growth",
-      "summary": "Founded in 2015, the New York-based insurance upstart is under financial pressure to meet profitability goals while also seeking to expand.",
-      "url": "https://finnhub.io/api/news?id=c4d94beccfeb7b75b3ecd45a8a2fcdeda20bc30a2f6ba1fed7b4e05f13030372",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:47:09+00:00",
-      "change_pct": -1.77
-    },
-    {
-      "id": "f_fb0a2c6143144c",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Do AI CEOs’ safety warnings mean real regulation is coming?",
-      "summary": "Yahoo Finance Tech Editor Dan Howley examines what Anthropic (ANTH.PVT) and OpenAI's (OPAI.PVT) respective warnings for pacing AI development means for future regulation.",
-      "url": "https://finnhub.io/api/news?id=ff6070352e0088f06cc113b8a51f7d35ff3cbb7e967b20d53dae6e5bd334f408",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:45:00+00:00",
-      "change_pct": 1.97
-    },
-    {
-      "id": "f_920c16a3d82381",
-      "provider": "finnhub",
-      "ticker": "MSTR",
-      "category": "general",
-      "title": "Strategy Buys Back $139 Million of STRC, Bitcoin Stack Frozen for Second Week",
-      "summary": "The Bitcoin treasury firm slowed its preferred-stock buyback from last week's $176 million pace and left its 845,050 BTC untouched, per a Monday SEC filing.",
-      "url": "https://finnhub.io/api/news?id=9a7fe831e309032519329633124e481d486c12d84d400f33ac71c159f7da7af7",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:41:46+00:00",
-      "change_pct": 4.56
-    },
-    {
-      "id": "av_9258f5843ede16",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nvidia (NVDA)’s 2 GW Australia AI Push Could Deepen Its Infrastructure Advantage",
-      "summary": "Nvidia (NVDA) is expanding its global AI infrastructure ambitions with a new initiative in Australia, aiming for a 2 gigawatt AI infrastructure buildout by 2027 through strategic partnerships. This expansion is expected to deepen Nvidia's infrastructure advantage by integrating i",
-      "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-2-gw-australia-220311518.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-12T21:11:25+00:00",
-      "sentiment": 0.410898,
-      "change_pct": -3.36,
-      "title_kr": "Nvidia(NVDA)의 2GW 호주 AI 추진으로 인프라 이점이 심화될 수 있음",
-      "summary_kr": "엔비디아(NVDA)는 전략적 파트너십을 통해 2027년까지 2기가와트 규모의 AI 인프라 구축을 목표로 호주에서 새로운 이니셔티브를 통해 글로벌 AI 인프라 야망을 확장하고 있습니다. 이번 확장으로 Nvidia의 인프라 발전이 더욱 심화될 것으로 예상됩니다."
-    },
-    {
-      "id": "f_10907ce4c4eb57",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "The S&P 500 at 7400 or 8000? Why the Future of Stocks Is So Murky.",
-      "summary": "As the bond market continues its long summer slump, Wall Street is adjusting its year-end market calls.",
-      "url": "https://finnhub.io/api/news?id=d7bb6300e1e74726a876acd6ce84feef26168b03d39b55926f59984b1739b78f",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:37:00+00:00",
-      "change_pct": 3.22
-    },
-    {
-      "id": "f_f828269458336c",
-      "provider": "finnhub",
-      "ticker": "COIN",
-      "category": "general",
-      "title": "EXCLUSIVE: CLARITY Act 'Can Get There,' Tim Ryan Says: Do Prediction Markets Agree?",
-      "summary": "Former Democratic Rep. Tim Ryan says the CLARITY Act \"can get there\" to the 60 votes needed to clear its first Senate floor test Tuesday, as prediction market traders sharply raise their expectations for the crypto market-structure bill. Senators will...",
-      "url": "https://finnhub.io/api/news?id=3683cb91709651b7cf4c4887b5aae250e8e30473dee669668c8b7d5ff8a99713",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:35:42+00:00"
-    },
-    {
-      "id": "f_5e19dec91bee58",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Microsoft Is Setting Limits for Its AI Models. It Isn’t Slowing Development.",
-      "summary": "Microsoft stock rises even as the AI trade gets hit hard after the company releases its AI model code of conduct.",
-      "url": "https://finnhub.io/api/news?id=69084ee806dfc0fc9b5f7451ae3ee5ed787b865595ca8cfe7fe8d7198e4595ad",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:35:00+00:00",
-      "change_pct": 1.97
-    },
-    {
-      "id": "f_ac784735a3a9e0",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "10-Year Treasury Yield Just Passed 5%, Here’s What Happened To The Market When The Same Thing Happened In 2007",
-      "summary": "The bond market just flashed a signal it last sent in 2007, and what followed that time was not what investors expected. History offers a warning, but it is not the one most people think.",
-      "url": "https://finnhub.io/api/news?id=7618814be55a5280b573dec92686d6aadb31d66c6a2eaa2b580401f58b20989e",
-      "source": "Yahoo",
-      "published_at": "2026-09-14T15:33:57+00:00",
-      "change_pct": 1.97
     }
   ],
-  "fetched_at": "2026-09-15T01:53:29.065181+00:00",
+  "fetched_at": "2026-09-15T02:21:16.109079+00:00",
   "source_count": 4,
-  "translated_at": "2026-09-15T01:53:31.484032+00:00",
+  "translated_at": "2026-09-15T02:21:18.949212+00:00",
   "translation_engine": "google-parallel"
 }
