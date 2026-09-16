@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "id": "f_b74cf696df43e6",
+      "provider": "finnhub",
+      "ticker": "MSFT",
+      "category": "earnings",
+      "title": "Microsoft announces quarterly dividend increase",
+      "summary": "Microsoft Corp. on Tuesday announced that its board of directors declared a quarterly dividend of $0.98 per share, reflecting a 7 cent or 8% increase over the previous quarter's dividend. The dividend is payable Dec. 10, 2026, to shareholders of record on Nov. 19, 2026. The ex-dividend date will be Nov. 19, 2026.",
+      "url": "https://finnhub.io/api/news?id=d090fc76e17f61e3ed26dac80af865d50d16a8574beee8c84f7f31a4cedb495b",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:05:00+00:00",
+      "change_pct": -1.64
+    },
+    {
       "id": "f_f61883f9ebd8ba",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -73,6 +85,17 @@
       "change_pct": 0.57
     },
     {
+      "id": "f_98b5599d2e631c",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "analyst",
+      "title": "The Space Race Is Heating Up — and One Analyst Says Buy These 2 Stocks",
+      "summary": "Once upon a time, the ‘space race’ meant the grand strategic competition between the USA and the USSR to gain control of the heavens. The superpowers designed and built satellites, manned capsules, orbital spacecraft and long-endurance space stations, and NASA even sent the Apollo landers to put men on the Moon. Today, the space race is heating up again, but in a very different way. Yes, the governments are still involved – NASA’s Artemis program is targeting the Moon, the Russians have a Soyuz",
+      "url": "https://finnhub.io/api/news?id=255149b283470a656fe35a99b40f3c56ff21c3827340f01a5642fb76990fbce0",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T18:05:00+00:00"
+    },
+    {
       "id": "f_1600a9668915f0",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -108,6 +131,19 @@
       "published_at": "2026-09-15T17:34:00+00:00"
     },
     {
+      "id": "av_9a71031d496ab4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Align Technology (ALGN) Following Invisalign Expansion, Fair Value Still Sits Higher",
+      "summary": "Align Technology (ALGN) is heading into its 2026 Global Healthcare Conference with its stock currently trading at $147.0, a significant drop from its estimated fair value of $209.07, suggesting it is 30% undervalued. This valuation is based on the continued expansion of Invisalig",
+      "url": "https://simplywall.st/stocks/us/healthcare/nasdaq-algn/align-technology/news/align-technology-algn-following-invisalign-expansion-fair-va",
+      "source": "Simply Wall Street",
+      "published_at": "2026-09-15T22:34:25+00:00",
+      "sentiment": 0.331188,
+      "change_pct": 0.57
+    },
+    {
       "id": "av_b7618c501fd751",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -117,7 +153,7 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-143400211.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-15T14:54:38+00:00",
-      "sentiment": 0.519629,
+      "sentiment": 0.522922,
       "change_pct": 0.57
     },
     {
@@ -130,20 +166,7 @@
       "url": "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m09/cisco-delivers-trusted-ai-at-scale-through-new-splunk-advancements.html",
       "source": "Cisco Newsroom",
       "published_at": "2026-09-15T14:56:06+00:00",
-      "sentiment": 0.406319,
-      "change_pct": 0.57
-    },
-    {
-      "id": "av_8e4f1a6bdad79f",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron",
-      "summary": "Salesforce and NVIDIA have announced Koa, Salesforce’s first CRM reasoning model for Agentforce, built on NVIDIA Nemotron. Koa is designed to help agents navigate complex, multi-step workflows by leveraging 27 years of Salesforce CRM intelligence, trained on synthetic enterprise ",
-      "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/",
-      "source": "Salesforce",
-      "published_at": "2026-09-15T12:48:22+00:00",
-      "sentiment": 0.423846,
+      "sentiment": 0.418144,
       "change_pct": 0.57
     },
     {
@@ -156,7 +179,20 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/lenovo-vs-hp-pc-giant-164200304.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-15T16:51:31+00:00",
-      "sentiment": 0.317061,
+      "sentiment": 0.34693,
+      "change_pct": 0.57
+    },
+    {
+      "id": "av_8e4f1a6bdad79f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron",
+      "summary": "Salesforce and NVIDIA have announced Koa, Salesforce’s first CRM reasoning model for Agentforce, built on NVIDIA Nemotron. Koa is designed to help agents navigate complex, multi-step workflows by leveraging 27 years of Salesforce CRM intelligence, trained on synthetic enterprise ",
+      "url": "https://www.salesforce.com/news/press-releases/2026/09/15/koa-reasoning-model/",
+      "source": "Salesforce",
+      "published_at": "2026-09-15T12:48:22+00:00",
+      "sentiment": 0.448094,
       "change_pct": 0.57
     },
     {
@@ -169,20 +205,7 @@
       "url": "https://sg.finance.yahoo.com/news/trump-stuns-nvidias-jensen-huang-211430505.html",
       "source": "Yahoo Finance Singapore",
       "published_at": "2026-09-15T21:15:08+00:00",
-      "sentiment": -0.205655,
-      "change_pct": 0.57
-    },
-    {
-      "id": "av_2ba1b511591837",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data",
-      "summary": "Salesforce has partnered with Nvidia to launch Koa, a specialized AI model designed to reason about CRM data within Salesforce's Agentforce platform. Koa, based on Nvidia's Nemotron architecture, was trained using a massive synthetic dataset derived from Salesforce's 27 years of ",
-      "url": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-09-15T11:48:13+00:00",
-      "sentiment": 0.415394,
+      "sentiment": -0.224365,
       "change_pct": 0.57
     },
     {
@@ -195,7 +218,20 @@
       "url": "https://siliconangle.com/2026/09/15/splunk-rebuilds-its-platform-around-agents/",
       "source": "SiliconANGLE",
       "published_at": "2026-09-15T14:56:06+00:00",
-      "sentiment": 0.328291,
+      "sentiment": 0.329052,
+      "change_pct": 0.57
+    },
+    {
+      "id": "av_2ba1b511591837",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Salesforce debuts Koa, a specialized model built to reason about CRM data",
+      "summary": "Salesforce has partnered with Nvidia to launch Koa, a specialized AI model designed to reason about CRM data within Salesforce's Agentforce platform. Koa, based on Nvidia's Nemotron architecture, was trained using a massive synthetic dataset derived from Salesforce's 27 years of ",
+      "url": "https://siliconangle.com/2026/09/15/salesforce-debuts-koa-a-specialized-model-built-to-reason-over-crm-data/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-15T11:48:13+00:00",
+      "sentiment": 0.407043,
       "change_pct": 0.57
     },
     {
@@ -208,7 +244,7 @@
       "url": "https://www.investing.com/news/company-news/assurant-inc-stock-hits-52week-low-at-1761-usd-93CH-4902398",
       "source": "Investing.com",
       "published_at": "2026-09-15T18:45:18+00:00",
-      "sentiment": 0.203104,
+      "sentiment": 0.226224,
       "change_pct": 0.57
     },
     {
@@ -221,20 +257,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/consensus-nvidia-corporation-nasdaq-nvda-receives-consensus-recommendation-of-buy-from-analysts-2026-09-15/",
       "source": "MarketBeat",
       "published_at": "2026-09-15T06:19:06+00:00",
-      "sentiment": 0.502745,
-      "change_pct": 0.57
-    },
-    {
-      "id": "av_470754ac7d35a9",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Robinhood and Webull Fall 4% as Imminent Clarity Act Decision Stokes Crypto Uncertainty",
-      "summary": "Robinhood and Webull stocks dropped 4% due to uncertainty surrounding an imminent Senate vote on the CLARITY Act, a bill designed to create a clearer regulatory framework for digital assets. The procedural vote, which requires 60 votes, has put pressure on crypto-exposed brokerag",
-      "url": "https://247wallst.com/investing/2026/09/15/robinhood-and-webull-fall-4-as-imminent-clarity-act-decision-stokes-crypto-uncertainty/",
-      "source": "24/7 Wall St.",
-      "published_at": "2026-09-15T14:17:11+00:00",
-      "sentiment": 0.29306,
+      "sentiment": 0.523002,
       "change_pct": 0.57
     },
     {
@@ -247,7 +270,20 @@
       "url": "https://siliconangle.com/2026/09/15/salesforce-deepens-its-integrations-with-aws-and-google-cloud-to-support-ai-agents/",
       "source": "SiliconANGLE",
       "published_at": "2026-09-15T12:01:02+00:00",
-      "sentiment": 0.326178,
+      "sentiment": 0.331237,
+      "change_pct": 0.57
+    },
+    {
+      "id": "av_470754ac7d35a9",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Robinhood and Webull Fall 4% as Imminent Clarity Act Decision Stokes Crypto Uncertainty",
+      "summary": "Robinhood and Webull stocks dropped 4% due to uncertainty surrounding an imminent Senate vote on the CLARITY Act, a bill designed to create a clearer regulatory framework for digital assets. The procedural vote, which requires 60 votes, has put pressure on crypto-exposed brokerag",
+      "url": "https://247wallst.com/investing/2026/09/15/robinhood-and-webull-fall-4-as-imminent-clarity-act-decision-stokes-crypto-uncertainty/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-15T14:17:11+00:00",
+      "sentiment": 0.268076,
       "change_pct": 0.57
     },
     {
@@ -260,7 +296,7 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-wealth-architects-llc-has-601-million-holdings-in-nvidia-corporation-nvda-2026-09-15/",
       "source": "MarketBeat",
       "published_at": "2026-09-15T08:05:29+00:00",
-      "sentiment": 0.40868,
+      "sentiment": 0.40463,
       "change_pct": 0.57
     },
     {
@@ -273,7 +309,89 @@
       "url": "https://www.investing.com/news/stock-market-news/should-you-buy-the-sox-pullback-citi-weighs-in-4901277",
       "source": "Investing.com",
       "published_at": "2026-09-15T11:07:34+00:00",
-      "sentiment": 0.324418,
+      "sentiment": 0.327536,
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_b555722624bfe6",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Circle Internet Group Stock Was Crushed Today",
+      "summary": "A major piece of crypto legislation failed to advance on Capitol Hill.",
+      "url": "https://finnhub.io/api/news?id=1395d7ca7eecf6cc28e327c654ab663f8a005c10258c32a10de2ab2cf1d86a72",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T23:53:07+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_6548dc86993198",
+      "provider": "finnhub",
+      "ticker": "NBIS",
+      "category": "general",
+      "title": "Navigating the Market: Inflation, Yields, & the Fed",
+      "summary": "Over the past few weeks, the market has been extremely choppy, frustrating, and has lacked liquidity. The good news is that Wednesday's FOMC meeting should bring volatility back in a big way and finally give the market some direction.",
+      "url": "https://finnhub.io/api/news?id=3a60ab7406a3fba001796055ff70315fd86ab5993a1d92b1dff185cffc183be0",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T23:33:00+00:00"
+    },
+    {
+      "id": "f_b4822fbae8d42d",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "Is AppLovin's Lead Over Its Peers Already In The Price?",
+      "summary": "AppLovin (APP) grows revenue faster than any peer and earns the group's highest operating margin. It also carries the highest earnings multiple, and the premium is thin: 25.5 times earnings, against 24.9 for Meta Platforms (META), which grows at less than half AppLovin's pace. What holds the multiple up is a belief about where the growth comes from.",
+      "url": "https://finnhub.io/api/news?id=80a982c6db42358fa502fdc2bf9441d8d370fc445a5303e72cd546e6aa72b53c",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T23:15:47+00:00",
+      "change_pct": 0.7
+    },
+    {
+      "id": "f_ef6d4e45698013",
+      "provider": "finnhub",
+      "ticker": "COIN",
+      "category": "general",
+      "title": "CLARITY Act setback sends Coinbase, Circle stocks lower",
+      "summary": "Sen. Thom Tillis immediately filed a motion to reconsider, keeping alive a procedural path for the Senate to revisit the CLARITY Act.",
+      "url": "https://finnhub.io/api/news?id=1d324d1e59b7820dfce6f3e86c41e7875f85cd4084c45321d6fc718b7441ef5e",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T23:06:06+00:00"
+    },
+    {
+      "id": "f_d4c16f3251afe2",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Ripple Shows How XRP Survived CLARITY Act Setback, MicroStrategy Says Bitcoin Never Needed It",
+      "summary": "The CLARITY Act died 49-50 in the Senate. Ripple and Strategy say XRP and Bitcoin are still legally safe.",
+      "url": "https://finnhub.io/api/news?id=df3eff98d5436caba69d9c258058f3694a5b6e100f800fc3371e3495634d7911",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T23:00:00+00:00",
+      "change_pct": -5.36
+    },
+    {
+      "id": "f_7eb8f79a490d2f",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Calls for Slower AI Development Have Created a Compelling Dip for AI Stocks",
+      "summary": "AI stocks have slid amid some tech CEOs raising concerns about unchecked AI development.",
+      "url": "https://finnhub.io/api/news?id=fdd641785cbf3adf4ca7a9c5e72694fd58a5c68fe3798b9758a776a613e875a7",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:59:00+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_d4455d661215a7",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Berkshire Hathaway's Class A Shares Cost About $766,000. Here's Why the Class B Shares Exist.",
+      "summary": "If you don't have three-quarters of a million dollars available to invest, consider Class B shares.",
+      "url": "https://finnhub.io/api/news?id=f486a87b19ce3a7872901e83fdd1ad4e32912e8913c2169d41a6516a7f57dd27",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:50:00+00:00",
       "change_pct": 0.57
     },
     {
@@ -286,7 +404,125 @@
       "url": "https://www.investing.com/news/company-news/genco-shipping--trading-stock-hits-52week-high-at-2784-usd-93CH-4902380",
       "source": "Investing.com",
       "published_at": "2026-09-15T17:56:22+00:00",
-      "sentiment": 0.141538,
+      "sentiment": 0.114686,
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_21695e8269b623",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Where Tesla's Robotaxi Rollout Stands Today and What Investors Should Know",
+      "summary": "How close is Tesla to rapidly scaling its Cybercab robotaxi business?",
+      "url": "https://finnhub.io/api/news?id=302d778be15b2744d248eb2c5fbf5ac3bdbd1e31f073ec61d0ee7a6dd19edb90",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:25:00+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_93bb1fa705b052",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Pinterest, Nvidia Partner To Boost AI Shopping, Search Offerings",
+      "summary": "Pinterest has announced a partnership with GPU-manufacturer Nvidia, which will power a new layer of AI in an effort to expand the social discovery platform's automated shopping offerings.",
+      "url": "https://finnhub.io/api/news?id=69d2d83cebfb06867ffe434c344b470660b6aef597bb73d3efc38eeec82ca282",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:17:29+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_9e5b512823259b",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "general",
+      "title": "Rocket Lab Corporation (RKLB) Advances While Market Declines: Some Information for Investors",
+      "summary": "Rocket Lab Corporation (RKLB) closed at $63.55 in the latest trading session, marking a +1.6% move from the prior day.",
+      "url": "https://finnhub.io/api/news?id=fd8b2ad822319fff244ae9bba3d291f945095d65cd702ce3b60586afaf0ecdf5",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:15:05+00:00"
+    },
+    {
+      "id": "f_31bb514f8b4b41",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "general",
+      "title": "Micron Technology (MU), What Is Behind The Fresh Attention?",
+      "summary": "Micron Technology (MU) has added a key figure to its leadership bench by appointing Deirdre Hanford as corporate vice president and president of Micron Research Labs, a role focused on long-horizon memory and AI research. Recent trading has been choppy for Micron Technology as AI related headlines and sector wide pullbacks dragged the stock down 7.3% over the past week and 11.1% over the past 90 days. Yet the year to date share price return of 194.1% and a one year total shareholder return of...",
+      "url": "https://finnhub.io/api/news?id=4a6a2143fcefa19fafa289ae94932b62a83acb7b9662513b4b7df158281c1782",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:14:19+00:00"
+    },
+    {
+      "id": "f_263a22f6947b4f",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "Workday (WDAY) Names Sarah Kennedy Ellis CMO As AI Marketing Takes Center Stage",
+      "summary": "Workday (NasdaqGS:WDAY) has appointed Sarah Kennedy Ellis as Chief Marketing Officer, effective immediately. Ellis previously held senior marketing roles at Google and Adobe, bringing large scale enterprise software and cloud marketing experience. Her remit covers Workday's global marketing, brand narrative and go to market messaging for its AI focused product portfolio. The Sarah Kennedy Ellis CMO move only hints at how Workday may reshape its AI era marketing and growth story. We have also...",
+      "url": "https://finnhub.io/api/news?id=ca9149014d888e72fadda059b380d6f38a0b05172b03fb4f5f92da1013fc718e",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:14:03+00:00",
+      "change_pct": -1.26
+    },
+    {
+      "id": "f_8dd8637ee33a2b",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Should TD SYNNEX’s New ORCA AI Power SKU Require Action From TD SYNNEX (SNX) Investors?",
+      "summary": "Hammerhead AI recently announced a collaboration naming TD SYNNEX as distributor for its ORCA software, enabling data center operators to convert stranded power into AI-ready capacity via TD SYNNEX’s global reseller network. This agreement gives TD SYNNEX a standardized AI power-orchestration SKU that directly addresses power constraints in AI data centers, aligning closely with its Destination AI program. We’ll now examine how TD SYNNEX’s new ORCA distribution role, focused on unlocking...",
+      "url": "https://finnhub.io/api/news?id=ea9202e9ce40ba502f357e67d28c12939b27ef688dc877d2d31fc1d2b4036ae8",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:13:24+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_78ae14770fb91e",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia (NVDA) Is Discussing Up To $10 Billion For An AI IPO",
+      "summary": "Nvidia (NasdaqGS: NVDA) is in advanced talks to invest up to US$10b in Anthropic's planned IPO, according to people familiar with the discussions. The chipmaker is also exploring a potential acquisition of AI platform Hugging Face for up to US$14b, in a deal that would expand its software footprint. Both moves would extend Nvidia's role beyond AI hardware into deeper capital partnerships and ownership stakes in key model and tooling providers. These possible Anthropic and Hugging Face deals...",
+      "url": "https://finnhub.io/api/news?id=06b55f52d782a58df06d9f4f9b68914742e6842528624ac6f94e9d64a7e2dc91",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:13:22+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_7a3afc8deed9d5",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Credo (CRDO) vs. Marvell (MRVL): Which AI Chip Stock Is the Better Buy?",
+      "summary": "Outside of Nvidia (NVDA) and Broadcom (AVGO), Credo Technology (CRDO) and Marvell Technology (MRVL) are two of the most searched-for chip stocks on Zacks.com.",
+      "url": "https://finnhub.io/api/news?id=ebf12ffcb67a09ec7a1f6d4ced50523a5bf9e1c5b1709b40081e86d6738b08bf",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:11:00+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_9935dc77fa706a",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "S&P 500, Nasdaq, Dow End Lower As Investors Price In Rate Hike Ahead Of Fed Meeting — AMZN, META, MU, TSLA, PLTR In Focus",
+      "summary": "Traders expect a 92% chance the Fed will hike interest rates on Wednesday.",
+      "url": "https://finnhub.io/api/news?id=937b1548531416896a208cab353bef25747baa53e6bb5913f23c7bfa721f6d8a",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T22:04:55+00:00",
+      "change_pct": -0.67
+    },
+    {
+      "id": "f_ae49caef147fdd",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia May Have Won the AI Training Race, but the Bigger Opportunity Is Likely Still Ahead",
+      "summary": "Nvidia may have won the first phase of the AI revolution, but the next phase is just beginning to unfold.",
+      "url": "https://finnhub.io/api/news?id=bcfac05edb5136a2ceaee9f5c6cda9655d671c48c28550b6f5416cb71dd243ce",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T21:59:00+00:00",
       "change_pct": 0.57
     },
     {
@@ -300,6 +536,18 @@
       "source": "Yahoo",
       "published_at": "2026-09-15T21:55:33+00:00",
       "change_pct": -1.64
+    },
+    {
+      "id": "f_e85a4511ef6471",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "JEPQ’s Monthly Check Has Swung From $0.34 to $0.70 a Share: The $500,000 Retiree Can’t Budget on It",
+      "summary": "JEPQ promises retirees a fat monthly paycheck, but the same $500,000 investment can produce wildly different checks from one season to the next, and the tax treatment buried in the fine print makes the real yield far less glamorous than the headline suggests.",
+      "url": "https://finnhub.io/api/news?id=c232efa312a46e94a63745ffde3a79ddde1353b3cde293fc8926a96781458794",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T21:55:12+00:00",
+      "change_pct": 2.19
     },
     {
       "id": "f_d6f7668bc894ec",
@@ -350,6 +598,18 @@
       "change_pct": -2.02
     },
     {
+      "id": "f_ea769b8ce24f65",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "Why the Market Dipped But Advanced Micro Devices (AMD) Gained Today",
+      "summary": "In the most recent trading session, Advanced Micro Devices (AMD) closed at $504.19, indicating a +2.18% shift from the previous trading day.",
+      "url": "https://finnhub.io/api/news?id=818e2bfcbafd27b39349e41ee082a24c24721f4bd7c5839b2ea9ac7d0a85a0c8",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T21:45:03+00:00",
+      "change_pct": 2.19
+    },
+    {
       "id": "f_d3ee8e013652c9",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -371,6 +631,19 @@
       "url": "https://finnhub.io/api/news?id=379e5f5b1acd9adbfd808ef78e623dfee9c7565db162fb8a37e868f92d162581",
       "source": "Yahoo",
       "published_at": "2026-09-15T21:29:53+00:00",
+      "change_pct": 0.57
+    },
+    {
+      "id": "av_a3039601ba757a",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "IonQ Best Paper Awards Highlight Quantum Advances in AI, Hybrid Computing and Life Sciences",
+      "summary": "IonQ received four Best Paper Awards at IEEE Quantum Week 2026, recognizing its research in quantum AI, hybrid computing, large-scale linear algebra, and protein-folding applications. These awards highlight IonQ's collaborative efforts with partners like NVIDIA and Synopsys, demo",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ionq-best-paper-awards-highlight-144923754.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-15T10:49:00+00:00",
+      "sentiment": 0.265338,
       "change_pct": 0.57
     },
     {
@@ -456,6 +729,40 @@
       "source": "Yahoo",
       "published_at": "2026-09-15T21:01:08+00:00",
       "change_pct": 0.7
+    },
+    {
+      "id": "f_ab57bf90219094",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "general",
+      "title": "Space Weapons: How Boeing, SpaceX, and Others Stand to Gain",
+      "summary": "On Monday, the U.S. Space Force confirmed the existence of space-based weapons, though what exactly is in space is classified.  The news represents a milestone in military technology.  Space is the new strategic high ground.",
+      "url": "https://finnhub.io/api/news?id=07bf6a765705724a2698281d744903f64ffa834a6d7e0cb1646862db90c0458f",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T20:59:00+00:00"
+    },
+    {
+      "id": "f_3994f3f2ae8b92",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "TSLA Edges Lower After Regulator Asks If Wheel-Less Cybercab Can Be Driven By A Human",
+      "summary": "The NHTSA has sent a special order to Tesla, seeking answers including Cybercab fleet size, operating cities, speed and road limits, and how Tesla decided which federal motor safety rules apply to its vehicle.",
+      "url": "https://finnhub.io/api/news?id=0015a1044a45251b75e62890f8a1f4b8bb9dd96703a0cba44b43117ee094df1d",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T20:57:35+00:00",
+      "change_pct": -0.67
+    },
+    {
+      "id": "f_d12b81dbf5cdee",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "general",
+      "title": "Rocket Lab Makes Bold Move to Broaden Space Business",
+      "summary": "One major risk surrounding Rocket Lab's expansion just disappeared",
+      "url": "https://finnhub.io/api/news?id=a8c46a6355bc91c0ccff4fbccd26cf7b6d2b07f10009b31cba450786da2dfda2",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T20:56:58+00:00"
     },
     {
       "id": "f_16dc9328bf11f4",
@@ -599,6 +906,19 @@
       "change_pct": 0.57
     },
     {
+      "id": "av_44ac67c9589b1e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Sysco Corp. (SYY) offering multiple times oversubscribed",
+      "summary": "Sysco Corp. (SYY) has announced that its latest offering has been multiple times oversubscribed, indicating strong investor interest. The article also provides real-time stock data, showing SYY's price at $80.87, a 3.2% decrease, with a \"SELL\" analyst rating and a 2.7% dividend y",
+      "url": "https://www.streetinsider.com/Equity+Offerings/Sysco+Corp.+(SYY)+offering+multiple+times+oversubscribed/27063035.html",
+      "source": "StreetInsider",
+      "published_at": "2026-09-15T14:43:56+00:00",
+      "sentiment": 0.143165,
+      "change_pct": 0.57
+    },
+    {
       "id": "f_7f4703a59d8e9a",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -608,19 +928,6 @@
       "url": "https://finnhub.io/api/news?id=02658fc90610a07217de35ed7584ae21bb283fd70a982d7df81f1b5477de6cdf",
       "source": "Yahoo",
       "published_at": "2026-09-15T20:26:37+00:00",
-      "change_pct": 0.57
-    },
-    {
-      "id": "av_e25cac8961ab1b",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Salesforce Slips as Dreamforce Puts Its $3.9 Billion AI Engine on Trial",
-      "summary": "Salesforce's shares slipped as its Dreamforce conference highlighted AI's central role in its product roadmap. Investors are keen to see if the company's significant AI investments, including its \"AIforce\" and \"Koa\" models, will translate into accelerated, sustainable growth, mov",
-      "url": "https://ca.finance.yahoo.com/news/salesforce-slips-dreamforce-puts-3-153515907.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-09-15T15:35:35+00:00",
-      "sentiment": 0.118812,
       "change_pct": 0.57
     },
     {
@@ -637,14 +944,14 @@
     {
       "id": "f_9a4230723f9dcd",
       "provider": "finnhub",
-      "ticker": "GOOGL",
+      "ticker": "TSLA",
       "category": "general",
       "title": "Tesla’s Cybercab Launch Fizzles, Leaving Waymo as the Robotaxi Leader",
       "summary": "Tesla, Inc. (NASDAQ:TSLA) spent nearly two years raising anticipation for the Cybercab. When the time arrived on September 3 in Austin, the result was a stock that popped, then rapidly returned all of its gains, and a robotaxi race that still seems to be Alphabet’s to lose. Tesla, Inc. (NASDAQ:TSLA) had its long-awaited Cybercab launch […]",
       "url": "https://finnhub.io/api/news?id=9231f48a7c00085aa9b15352d407dbbaf097aba859212518d0ef744e29f7455d",
       "source": "Yahoo",
       "published_at": "2026-09-15T20:14:02+00:00",
-      "change_pct": -1.26
+      "change_pct": -0.67
     },
     {
       "id": "f_2b2b8f649ed8b1",
@@ -672,24 +979,39 @@
     {
       "id": "f_ba18c99bf4bf95",
       "provider": "finnhub",
-      "ticker": "COIN",
+      "ticker": "MSTR",
       "category": "general",
       "title": "Clarity Act Collapses in Blow to Crypto. Why All Is Not Lost for Digital Assets.",
       "summary": "The crypto industry’s top legislative priority failed on Tuesday in spectacular fashion, as the so-called Clarity Act didn’t come close to getting the support needed to advance in a Senate vote.  A procedural motion to advance the bill failed by a vote of 49 to 50, with a handful of Republicans joining all Democrats to shoot it down.  The motion needed 60 yes votes to pass, and with the midterm elections looming, the Senate isn’t expected to pick the bill back up this year.",
       "url": "https://finnhub.io/api/news?id=558d577e774e399b2fab04e3e83aab5012fb124e1a148d9c94d152c6e8578d55",
       "source": "Yahoo",
-      "published_at": "2026-09-15T20:12:00+00:00"
+      "published_at": "2026-09-15T20:12:00+00:00",
+      "change_pct": -5.36
+    },
+    {
+      "id": "av_e25cac8961ab1b",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Salesforce Slips as Dreamforce Puts Its $3.9 Billion AI Engine on Trial",
+      "summary": "Salesforce's shares slipped as its Dreamforce conference highlighted AI's central role in its product roadmap. Investors are keen to see if the company's significant AI investments, including its \"AIforce\" and \"Koa\" models, will translate into accelerated, sustainable growth, mov",
+      "url": "https://ca.finance.yahoo.com/news/salesforce-slips-dreamforce-puts-3-153515907.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-09-15T15:35:35+00:00",
+      "sentiment": 0.114507,
+      "change_pct": 0.57
     },
     {
       "id": "f_aa9383d03f873e",
       "provider": "finnhub",
-      "ticker": "COIN",
+      "ticker": "MSTR",
       "category": "general",
       "title": "Bitcoin Falls as Clarity Act Fails to Advance. Why Cathie Wood’s Dumping Crypto Stocks.",
       "summary": "The Clarity Act, a key bill for crypto regulation, failed to advance in the Senate Tuesday.  The vote was 49 to 50 in a procedural vote known as invoking cloture that could have moved it to a final vote.  Bitcoin and crypto-exposed stocks fell sharply, with crypto exchange Coinbase falling 10% at $172.25.",
       "url": "https://finnhub.io/api/news?id=790d6f91f9ddc6bf928133fa1dc6d5ea2553c42a2c6e63d203f12ea7c4717f5c",
       "source": "Yahoo",
-      "published_at": "2026-09-15T20:10:00+00:00"
+      "published_at": "2026-09-15T20:10:00+00:00",
+      "change_pct": -5.36
     },
     {
       "id": "f_49bf285671b3d9",
@@ -717,13 +1039,14 @@
     {
       "id": "f_b29b39eec04a9c",
       "provider": "finnhub",
-      "ticker": "COIN",
+      "ticker": "MSTR",
       "category": "general",
       "title": "Crypto stocks fall as Senate blocks landmark digital asset bill",
       "summary": "Investing.com -- Crypto-related stocks sold off Tuesday after the Senate blocked a digital asset market structure bill in a procedural vote. The legislation failed to reach the 60 votes needed to advance.",
       "url": "https://finnhub.io/api/news?id=5214fcc2b44f22d3862a11df66e4bce277691eba2b6124ff5cb994dde0b6a8eb",
       "source": "Yahoo",
-      "published_at": "2026-09-15T20:08:59+00:00"
+      "published_at": "2026-09-15T20:08:59+00:00",
+      "change_pct": -5.36
     },
     {
       "id": "f_d5de2ee904b8d6",
@@ -735,6 +1058,18 @@
       "url": "https://finnhub.io/api/news?id=8244208265c7269fa6a79ff6d1f0ac471e1a307da193a41e50cb0bd4533e109b",
       "source": "Yahoo",
       "published_at": "2026-09-15T20:07:48+00:00"
+    },
+    {
+      "id": "f_becf1da14c1ef2",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Tesla Launches the Cybercab: 2 Key Takeaways for Investors",
+      "summary": "The company is making slow but measured and deliberate progress on its Cybercab/robotaxi rollout.",
+      "url": "https://finnhub.io/api/news?id=7c83c08118c16f1d8b8593d560bab637d914433dcf4238302e3fa7aef445aae9",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T20:07:00+00:00",
+      "change_pct": -0.67
     },
     {
       "id": "f_c0f621805286d1",
@@ -820,45 +1155,6 @@
       "change_pct": 2.19
     },
     {
-      "id": "av_3a7377254673c6",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Trump's Marijuana Rescheduling Push Is Back in Focus. Is Tilray Stock Finally a Buy?",
-      "summary": "The article discusses the renewed focus on President Trump's push to reschedule marijuana to Schedule III, a move that could significantly impact companies like Tilray Brands (NASDAQ: TLRY). While rescheduling wouldn't federally legalize recreational cannabis, it would ease resea",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-marijuana-rescheduling-push-back-095000707.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-15T09:50:26+00:00",
-      "sentiment": 0.24969,
-      "change_pct": 0.57
-    },
-    {
-      "id": "av_44ac67c9589b1e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Sysco Corp. (SYY) offering multiple times oversubscribed",
-      "summary": "Sysco Corp. (SYY) has announced that its latest offering has been multiple times oversubscribed, indicating strong investor interest. The article also provides real-time stock data, showing SYY's price at $80.87, a 3.2% decrease, with a \"SELL\" analyst rating and a 2.7% dividend y",
-      "url": "https://www.streetinsider.com/Equity+Offerings/Sysco+Corp.+(SYY)+offering+multiple+times+oversubscribed/27063035.html",
-      "source": "StreetInsider",
-      "published_at": "2026-09-15T14:43:56+00:00",
-      "sentiment": 0.126797,
-      "change_pct": 0.57
-    },
-    {
-      "id": "av_9dd08f269772c4",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "EOG Resources stock hits all-time high at 153.71 USD",
-      "summary": "EOG Resources Inc. reached an all-time high of $153.72, with its stock surging nearly 45% year-to-date and 27.11% over the past year. Despite recent positive second-quarter earnings that surpassed Wall Street expectations, the stock declined in after-hours trading, possibly due t",
-      "url": "https://www.investing.com/news/company-news/eog-resources-stock-hits-alltime-high-at-15371-usd-93CH-4902357",
-      "source": "Investing.com",
-      "published_at": "2026-09-15T17:54:11+00:00",
-      "sentiment": 0.046408,
-      "change_pct": 0.57
-    },
-    {
       "id": "f_a219221b8e88b8",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -916,6 +1212,18 @@
       "source": "Yahoo",
       "published_at": "2026-09-15T19:24:57+00:00",
       "change_pct": -2.02
+    },
+    {
+      "id": "f_21500a875be88b",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Nine Years Later: Can Tesla Finally Deliver on Its $250,000 Roadster Promise?",
+      "summary": "Tesla is staging a Roadster reveal nearly nine years after reservation holders paid full price for a car that still does not exist, and this time the audience has already stopped believing in promises.",
+      "url": "https://finnhub.io/api/news?id=6d904bb9f66d1a4a2e072ad2b17196d947093c6baf6b373dea0af68457f7101a",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T19:21:36+00:00",
+      "change_pct": -0.67
     },
     {
       "id": "f_3ef784477df50a",
@@ -1026,6 +1334,19 @@
       "change_pct": -1.26
     },
     {
+      "id": "av_23c87c54334298",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Delos Data, a chip startup founded by Intel veterans, raises $100 million for AI networks",
+      "summary": "Delos Data, a startup founded by former Intel executives, has secured $100 million in funding to develop specialized chips and software. Their technology aims to accelerate data movement within AI data centers, addressing the growing complexity and diverse hardware used in these ",
+      "url": "https://www.reuters.com/business/delos-data-chip-startup-founded-by-intel-veterans-raises-100-million-ai-networks-2026-09-15/",
+      "source": "Reuters",
+      "published_at": "2026-09-15T12:49:08+00:00",
+      "sentiment": 0.148315,
+      "change_pct": 0.57
+    },
+    {
       "id": "f_e72ac0c4f5e35d",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -1036,6 +1357,31 @@
       "source": "Yahoo",
       "published_at": "2026-09-15T18:44:35+00:00",
       "change_pct": -2.02
+    },
+    {
+      "id": "av_3a7377254673c6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Trump's Marijuana Rescheduling Push Is Back in Focus. Is Tilray Stock Finally a Buy?",
+      "summary": "The article discusses the renewed focus on President Trump's push to reschedule marijuana to Schedule III, a move that could significantly impact companies like Tilray Brands (NASDAQ: TLRY). While rescheduling wouldn't federally legalize recreational cannabis, it would ease resea",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/trumps-marijuana-rescheduling-push-back-095000707.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-15T09:50:26+00:00",
+      "sentiment": 0.220959,
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_be08f92d9b410f",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Elon Musk Reveals Details On The New Tesla Roadster; Shares Slip",
+      "summary": "There are rumors that Tesla may unveil a flying version of the Roadster at an event planned for Oct. 1.",
+      "url": "https://finnhub.io/api/news?id=e21e8ea9e2b51bc79053c6b62957a1cfa73232132f2947d2c165ea05b244bd84",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T18:40:31+00:00",
+      "change_pct": -0.67
     },
     {
       "id": "f_e519f43c313a42",
@@ -1060,6 +1406,30 @@
       "published_at": "2026-09-15T18:39:48+00:00"
     },
     {
+      "id": "av_9dd08f269772c4",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "EOG Resources stock hits all-time high at 153.71 USD",
+      "summary": "EOG Resources Inc. reached an all-time high of $153.72, with its stock surging nearly 45% year-to-date and 27.11% over the past year. Despite recent positive second-quarter earnings that surpassed Wall Street expectations, the stock declined in after-hours trading, possibly due t",
+      "url": "https://www.investing.com/news/company-news/eog-resources-stock-hits-alltime-high-at-15371-usd-93CH-4902357",
+      "source": "Investing.com",
+      "published_at": "2026-09-15T17:54:11+00:00",
+      "sentiment": 0.016789,
+      "change_pct": 0.57
+    },
+    {
+      "id": "f_1502b0026ff81a",
+      "provider": "finnhub",
+      "ticker": "RKLB",
+      "category": "general",
+      "title": "Rocket Lab Raises Funds To Prepare For Closing Of Iridium Acquisition",
+      "summary": "The rocket launch and satellite specialist just reached an important milestone in its historic acquisition.",
+      "url": "https://finnhub.io/api/news?id=7aae074e4338ede23b051945491ca7c01433be17b83dc9842df84e003d529c59",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T18:32:22+00:00"
+    },
+    {
       "id": "f_bda25e01e7c3f0",
       "provider": "finnhub",
       "ticker": "PLTR",
@@ -1081,6 +1451,30 @@
       "source": "Yahoo",
       "published_at": "2026-09-15T18:29:20+00:00",
       "change_pct": -1.26
+    },
+    {
+      "id": "f_d3d14a9088472c",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "2 Closed-End Fund Buys In The Month Of August 2026",
+      "summary": "Every month I add to positions in my CEF portfolio, which helps to compound my distribution growth over the long term. Click for this month's additions.",
+      "url": "https://finnhub.io/api/news?id=ab4025c819d5f698682818dc1faf3a2ad2a845adeb55a2d9b340c3ebc299809d",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-15T18:28:36+00:00",
+      "change_pct": 0.7
+    },
+    {
+      "id": "f_3412309bd3718d",
+      "provider": "finnhub",
+      "ticker": "TSLA",
+      "category": "general",
+      "title": "Tesla (TSLA) Lands PGandE Grid Deal But Is The Stock Already Fully Valued",
+      "summary": "Tesla (TSLA) is back in the spotlight after Pacific Gas and Electric Company picked it as a partner for SHARE, a large Bay Area virtual power plant that links thousands of home energy devices. The SHARE announcement lands while Tesla’s share price has been volatile. The stock is trading at US$358.97, with a 30 day share price return of 4.88%, a year to date share price decline of 18.06%, and a 5 year total shareholder return of 47.49%. Scan how Tesla’s SHARE partnership fits into the broader...",
+      "url": "https://finnhub.io/api/news?id=5c0cccfae3f8f3915714ab9d1c2bded623b9d4739d6e4fc89435a01b4b1d899b",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T18:16:25+00:00",
+      "change_pct": -0.67
     },
     {
       "id": "f_628f11502b7e8e",
@@ -1128,6 +1522,18 @@
       "source": "Yahoo",
       "published_at": "2026-09-15T18:07:00+00:00",
       "change_pct": -5.36
+    },
+    {
+      "id": "f_ba125121078d4a",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "The 10-Year Treasury Just Hit 5%: Here's What I'd Buy And Avoid",
+      "summary": "Higher yields are back: a 5% 10-year Treasury boosts fixed-income returns, reshapes equity leadership, and tests diversificationâclick to see what to do now.",
+      "url": "https://finnhub.io/api/news?id=88ef81286ad30f09ab9b8934727bc2c22c17ca03f9af34639d7ff8377179fcc4",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-15T18:05:08+00:00",
+      "change_pct": 0.57
     },
     {
       "id": "f_9bc89ded2d884d",
@@ -1295,19 +1701,6 @@
       "change_pct": 0.57
     },
     {
-      "id": "av_7ee89b502a5d1e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Western Digital (WDC): Buy, Sell, or Hold Post Q2 Earnings?",
-      "summary": "Western Digital's stock has surged 50.5% over the past six months to $430.84 per share, driven by solid quarterly results. The company shows positive attributes like rising operating margins (34.5%) and increasing free cash flow margins (27.2%), indicating improved efficiency and",
-      "url": "https://www.theglobeandmail.com/investing/markets/stocks/WDC/pressreleases/4614453/western-digital-wdc-buy-sell-or-hold-post-q2-earnings/",
-      "source": "The Globe and Mail",
-      "published_at": "2026-09-15T03:43:45+00:00",
-      "sentiment": 0.3458,
-      "change_pct": 0.57
-    },
-    {
       "id": "f_d9e11d360e2b00",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1389,19 +1782,6 @@
       "url": "https://finnhub.io/api/news?id=0f06869065495ecbba0f8412e649c46b88c17a9a428218c6e374ead0bd085fe5",
       "source": "Yahoo",
       "published_at": "2026-09-15T17:21:38+00:00"
-    },
-    {
-      "id": "av_69951c67789636",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "FirstWave Capital Management LLC Makes New Investment in International Business Machines Corporation $IBM",
-      "summary": "FirstWave Capital Management LLC initiated a new investment in International Business Machines Corporation (IBM) during the second quarter, purchasing 5,162 shares valued at approximately $1.45 million. Institutional investors collectively own 58.96% of IBM, and analysts maintain",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-firstwave-capital-management-llc-makes-new-investment-in-international-business-machines-corporation-ibm-2026-09-15/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-15T07:47:30+00:00",
-      "sentiment": 0.23752,
-      "change_pct": 0.57
     },
     {
       "id": "f_593460db612a80",
@@ -1584,19 +1964,6 @@
       "change_pct": 0.57
     },
     {
-      "id": "av_23c87c54334298",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Delos Data, a chip startup founded by Intel veterans, raises $100 million for AI networks",
-      "summary": "Delos Data, a startup founded by former Intel executives, has secured $100 million in funding to develop specialized chips and software. Their technology aims to accelerate data movement within AI data centers, addressing the growing complexity and diverse hardware used in these ",
-      "url": "https://www.reuters.com/business/delos-data-chip-startup-founded-by-intel-veterans-raises-100-million-ai-networks-2026-09-15/",
-      "source": "Reuters",
-      "published_at": "2026-09-15T12:49:08+00:00",
-      "sentiment": 0.101463,
-      "change_pct": 0.57
-    },
-    {
       "id": "f_c40f6284c590c7",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1681,6 +2048,19 @@
       "change_pct": 0.57
     },
     {
+      "id": "av_69951c67789636",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "FirstWave Capital Management LLC Makes New Investment in International Business Machines Corporation $IBM",
+      "summary": "FirstWave Capital Management LLC initiated a new investment in International Business Machines Corporation (IBM) during the second quarter, purchasing 5,162 shares valued at approximately $1.45 million. Institutional investors collectively own 58.96% of IBM, and analysts maintain",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-firstwave-capital-management-llc-makes-new-investment-in-international-business-machines-corporation-ibm-2026-09-15/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-15T07:47:30+00:00",
+      "sentiment": 0.219062,
+      "change_pct": 0.57
+    },
+    {
       "id": "f_000f8c77afeecd",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -1691,6 +2071,19 @@
       "source": "Yahoo",
       "published_at": "2026-09-15T16:31:56+00:00",
       "change_pct": -0.67
+    },
+    {
+      "id": "av_7ee89b502a5d1e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Western Digital (WDC): Buy, Sell, or Hold Post Q2 Earnings?",
+      "summary": "Western Digital's stock has surged 50.5% over the past six months to $430.84 per share, driven by solid quarterly results. The company shows positive attributes like rising operating margins (34.5%) and increasing free cash flow margins (27.2%), indicating improved efficiency and",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/WDC/pressreleases/4614453/western-digital-wdc-buy-sell-or-hold-post-q2-earnings/",
+      "source": "The Globe and Mail",
+      "published_at": "2026-09-15T03:43:45+00:00",
+      "sentiment": 0.319113,
+      "change_pct": 0.57
     },
     {
       "id": "f_fde79753e0e611",
@@ -1728,17 +2121,6 @@
       "published_at": "2026-09-15T16:14:26+00:00"
     },
     {
-      "id": "f_8b4fdbe0e77cc2",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips",
-      "summary": "Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it tells you exactly who wins and loses as hyperscalers race to spend $1.3 trillion on AI infrastructure in 2027.",
-      "url": "https://finnhub.io/api/news?id=1bfdc210f85aee94b2aecc1dfec279ce4b26de53c102cd7c1317f5207e85af6d",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T16:09:32+00:00"
-    },
-    {
       "id": "av_28bdc94f6c5b42",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -1748,8 +2130,19 @@
       "url": "https://www.mexc.co/stocks/etsy",
       "source": "MEXC",
       "published_at": "2026-09-15T10:58:26+00:00",
-      "sentiment": 0.129014,
+      "sentiment": 0.130952,
       "change_pct": 0.57
+    },
+    {
+      "id": "f_8b4fdbe0e77cc2",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "general",
+      "title": "It’s All About the GPUs — 70% of Nvidia’s AI Supercomputer Cost Goes to Vera Rubin Chips",
+      "summary": "Inside Nvidia's newest rack-scale AI supercomputer, a single line item on the bill of materials is swallowing the lion's share of a $4 million build, and it tells you exactly who wins and loses as hyperscalers race to spend $1.3 trillion on AI infrastructure in 2027.",
+      "url": "https://finnhub.io/api/news?id=1bfdc210f85aee94b2aecc1dfec279ce4b26de53c102cd7c1317f5207e85af6d",
+      "source": "Yahoo",
+      "published_at": "2026-09-15T16:09:32+00:00"
     },
     {
       "id": "f_3649cbb6518e5d",
@@ -1995,398 +2388,10 @@
       "url": "https://finnhub.io/api/news?id=5484ef3af39a9e555825db353bc700db2b63f07491a5c0a068a9e3a4fad0049f",
       "source": "Yahoo",
       "published_at": "2026-09-15T15:31:27+00:00"
-    },
-    {
-      "id": "f_0ed028474617ac",
-      "provider": "finnhub",
-      "ticker": "COIN",
-      "category": "general",
-      "title": "Bitcoin tumbles 3% to $76,000 as hopes of CLARITY Act passage this year fade",
-      "summary": "Bitcoin tumbled on Tuesday as the odds of a key crypto bill getting the necessary votes in the Senate to continue appeared to fade.",
-      "url": "https://finnhub.io/api/news?id=f829b947734d0080e783d42f37bf73180764dbe876d795b6d4b383e7b38c8a18",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:31:27+00:00"
-    },
-    {
-      "id": "f_1a235465b7253b",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "SpaceX Readies For Starship Flight 14 Next Week, Musk Plans Ship Catch",
-      "summary": "The FAA lists a date for SpaceX's Starship test flight 14, which could take off as early as next week. Elon Musk sets goals for Flight 15.",
-      "url": "https://finnhub.io/api/news?id=2c3ee44fca6407fa84d2f0e709dac03b2e7c2696d25d982d67dad9a50fc96212",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:31:15+00:00",
-      "change_pct": -0.67
-    },
-    {
-      "id": "f_cddfda017cbefc",
-      "provider": "finnhub",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "The AI Boom Has a Secret Weapon, and It’s Marvell",
-      "summary": "Marvell has surged over 150% this year on the back of explosive data center growth, but Wall Street's consensus target may still be too conservative. Here is why analysts keep chasing the numbers, and what it would take to push shares to a price most investors haven't dared to model.",
-      "url": "https://finnhub.io/api/news?id=ac7a8728ad8901634fc0ef1272c7c4607c5dc0a89015d347b657db3bda065c13",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:30:13+00:00",
-      "change_pct": 1.32
-    },
-    {
-      "id": "f_dff5c4aa155ab6",
-      "provider": "finnhub",
-      "ticker": "MSTR",
-      "category": "general",
-      "title": "Bitcoin Falls Ahead of Clarity Act Vote. Why Cathie Wood’s Dumping Crypto Stocks.",
-      "summary": "The Senate will vote on the Clarity Act, a key bill for crypto regulation, on Tuesday afternoon.  Bitcoin and crypto-exposed stocks were falling ahead of the vote, though, after enjoying a rally in recent months as the legislation’s chances of being passed have come back from the dead.  GOP senators have been making an 11th-hour push to get support from Democrats, Barron’s reported Monday.",
-      "url": "https://finnhub.io/api/news?id=678021a337158ac586c7195beaacb34c51adbed7d90c374398882e4ca0d891b0",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:29:00+00:00",
-      "change_pct": -5.36
-    },
-    {
-      "id": "f_01e901b653cc4a",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Micron Gains 1.4% as 512GB Module Raises the AI Memory Ceiling",
-      "summary": "The new server module doubles Micron's previous capacity milestone while preserving speeds reaching 9,200 MT/s.",
-      "url": "https://finnhub.io/api/news?id=6a4384b814aeb691432dbd94e53480d4bc82068860abc0e755c605692040f6fb",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:28:28+00:00"
-    },
-    {
-      "id": "f_831088b8b277d4",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Harbor PanAgora Dynamic Large Cap Core ETF Q2 2026 Portfolio Review",
-      "summary": "During the second quarter, the Harbor Dynamic Large Cap Core ETF returned 15.76% (NAV), outperforming its benchmark, the S&P 500 Index, which returned 15.20%. Read more here.",
-      "url": "https://finnhub.io/api/news?id=237d5d094041b0201ef1c5cae91eb3099df8a1824aa702366e7c52ba0a09f3e1",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-15T15:28:00+00:00"
-    },
-    {
-      "id": "f_36eae0d653de8f",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "AI Doom Is Viral and Alarming. The Big Lesson for the Stock Market.",
-      "summary": "The world is obsessed with the idea that an AI doomsday is coming. Just look at the reaction to a viral blog post earlier this year.",
-      "url": "https://finnhub.io/api/news?id=31ff86daead102d42ff51f8799ee214fa2e8c790277f5294fa78e8d06c409b5a",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:27:00+00:00"
-    },
-    {
-      "id": "f_1948a3b019572f",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "The Fund’s Largest Relative Detractor: Unowned Advanced Micro Devices (AMD)",
-      "summary": "Fidelity Investments, an investment management company, recently released its second-quarter 2026 investor letter for the “Fidelity Dividend Growth Fund”. The letter can be downloaded here. The Fidelity Dividend Growth Fund is a diversified large-cap equity strategy focused on capital appreciation through investments in large- and mid-cap stocks with strong dividend growth prospects. The fund returned […]",
-      "url": "https://finnhub.io/api/news?id=cdccbec0c74c85662e83d21e030d9d11e038ddc31b086195e37633f2ca300ed8",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:26:42+00:00",
-      "change_pct": 2.19
-    },
-    {
-      "id": "f_2e5465676eb28b",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "How Far Could RGTI Stock Drop If the Broader Market Breaks?",
-      "summary": "Rigetti Computing (RGTI) trades near $15, about 73% below the high it set inside the past year. No market shock did that: the S&P 500 returned 17% over the past twelve months while Rigetti lost 8.5%. The 73% is measured from a high set inside those same twelve months, so the stock ran up hard before it fell. A fall like that in a rising market says the price is a bet on a road map.",
-      "url": "https://finnhub.io/api/news?id=4bfe46b54cdf3f7571d02d5a3b306addbace43a9c28a5e6008c8372490ce493f",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:26:02+00:00",
-      "change_pct": -1.26
-    },
-    {
-      "id": "f_0b32d7c70101ac",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "PINS Rides on Strength in Ad Business: Can Momentum Sustain?",
-      "summary": "Pinterest is gaining advertiser demand as AI tools improve campaign performance, but fierce competition and a 45.7% stock decline cloud its momentum.",
-      "url": "https://finnhub.io/api/news?id=05d132d95fc16f01818eda5165a269b6b1502d92e00d147386f577afd6ec7e95",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:19:00+00:00",
-      "change_pct": 0.7
-    },
-    {
-      "id": "f_df671a7f1b9493",
-      "provider": "finnhub",
-      "ticker": "AVGO",
-      "category": "general",
-      "title": "The AI Stock I’m Buying on Repeat (And It Isn’t Nvidia)",
-      "summary": "Everyone talks about one AI chip company, but a quieter rival is printing cash, slashing debt, and locking in the hyperscalers designing around it, and the recent pullback just made the case stronger.",
-      "url": "https://finnhub.io/api/news?id=d7223f2d79ea858c6a0fb1f95d55b47a86cfacce2e02dd7aa47ceed8bbdb6f53",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:15:38+00:00",
-      "change_pct": -1.58
-    },
-    {
-      "id": "f_5b0663d5f5a105",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Salesforce Broadens Alliances With Nvidia, Google Cloud, AWS for Enterprise AI Integration",
-      "summary": "Salesforce (CRM) is expanding its partnerships with Nvidia (NVDA), Alphabet's (GOOG, GOOGL) Google C",
-      "url": "https://finnhub.io/api/news?id=a0f13dd5872071e48126d8f286cf349883f0aa21324db1d5f38cc039ab90448d",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:13:59+00:00",
-      "change_pct": -2.02
-    },
-    {
-      "id": "f_d329df04e6545f",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "What Stops the AI Memory Boom? It Might Have Nothing to Do With Chips.",
-      "summary": "South Korea's grid cannot keep up with the AI memory factories SK Hynix is racing to build, and the question of who pays to fix that is now holding up one of the most critical supply chains in semiconductors.",
-      "url": "https://finnhub.io/api/news?id=1eaa175f0f14ebe0a06da46bdbd4741b8ac3ebaf09d3d900682fbb0fe3b98683",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:12:26+00:00"
-    },
-    {
-      "id": "f_8a44bcd70c53b4",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "SNDK Stock Rewarded Dip Buyers Before, But Is It Still The Same Company?",
-      "summary": "SanDisk (SNDK) has fallen about 13% from its mid-August high, and the question is whether to buy. Its own record says buying a dip here has paid, though that record is one completed event. The catch: this fall is smaller than the ones the record measures. And SanDisk now sells much of its memory under multiyear contracts.",
-      "url": "https://finnhub.io/api/news?id=e9024c47232dd90e524c5f0c4260c38d28f3ee443361b404fe93f92eb86dcb1c",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:11:30+00:00"
-    },
-    {
-      "id": "f_fb14fb148096bb",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Tiger Pistol is now a Badged TikTok Channel Sales Partner, Deepening its Investment in Video Advertising Technology",
-      "summary": "Tiger Pistol, a local advertising automation platform for franchises, multi-location brands, and marketing resellers, today announced it is now a badged TikTok Channel Sales Partner, earning the Channel Sales specialty within the Marketing Technology category of the TikTok Marketing Partners Program.",
-      "url": "https://finnhub.io/api/news?id=0cee9d67688c5a8171121a027c5816b703f9d4d13f77d3564af826727e68eff3",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:11:00+00:00",
-      "change_pct": -2.02
-    },
-    {
-      "id": "f_a834427a970074",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Meta To Reportedly Launch New AI Chip In 2027, Aims To Beat Nvidia On Efficiency",
-      "summary": "Yee Jiun Song, Meta’s vice president of engineering, told Bloomberg the chips are being engineered to deliver better performance per watt and per dollar than “whatever Nvidia is currently shipping.”",
-      "url": "https://finnhub.io/api/news?id=656f07564e17d9132fe05f470493edfe0b4cfb70d1a2aafac426408843565be7",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:10:56+00:00",
-      "change_pct": 0.7
-    },
-    {
-      "id": "f_ab29e7603c5801",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Meta launches Meta One subscriptions as it seeks to better monetize AI spending",
-      "summary": "Meta launches Meta One subscription service.",
-      "url": "https://finnhub.io/api/news?id=40b66659c49113bbed43bd959e087c91d12edc6b5afb26d1038d1bbac71e23f4",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:10:14+00:00",
-      "change_pct": 0.7
-    },
-    {
-      "id": "f_68353b0f2bb8c3",
-      "provider": "finnhub",
-      "ticker": "AAPL",
-      "category": "general",
-      "title": "Would You Still Want Dell If The AI Orders Slowed?",
-      "summary": "Dell Technologies (DELL) has returned more than 330% over the past twelve months, and it still cannot build as much as its customers want. You can be paid today for agreeing to buy the stock well below today's price, and the payment is yours whether or not you ever own the shares. The catch is whether you would want the shares at that lower price.",
-      "url": "https://finnhub.io/api/news?id=5a8e825d5b6b1a58f26c80c4b1e7a5fe78c20d99d9894cf42440cfec84d1de1a",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:01:46+00:00"
-    },
-    {
-      "id": "f_34da09d13bcb1c",
-      "provider": "finnhub",
-      "ticker": "INTC",
-      "category": "general",
-      "title": "DeSalvo Leads Americas' Growth For Perion",
-      "summary": "The seasoned commercial executive has expertise in media and tech.",
-      "url": "https://finnhub.io/api/news?id=38754d8eb9e5e0236faa1269bbc80eaf0bc5a784cc65940e3e6258b50863c657",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T15:00:00+00:00"
-    },
-    {
-      "id": "f_6b7714f7572e8d",
-      "provider": "finnhub",
-      "ticker": "COIN",
-      "category": "general",
-      "title": "Coinbase Slides Ahead of Clarity Act Vote; Waystar Up on Sale Exploration | Stock Movers",
-      "summary": "On this episode of Stock Movers: - Dave & Buster's (PLAY) shares are lower after it reported revenue for the second quarter that missed the average analyst estimate. - Coinbase (COIN) along with other crypto shares along with Bitcoin are sliding ahead of the Senate's vote on the CLARITY Act that would regulate digital assets and the crypto industry. - Waystar (WAY) shares are higher after Reuters reported that the firm is exploring options, including a sale, two years after a public listing in New York.",
-      "url": "https://finnhub.io/api/news?id=b2dcb62d28dd15950b321e7947f1da035195668fe11e3728bb9cf42542b30dce",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:55:26+00:00"
-    },
-    {
-      "id": "f_d053f3b5213e53",
-      "provider": "finnhub",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Can Credo's OmniConnect Unlock a New AI Inference Growth Engine?",
-      "summary": "CRDO sees OmniConnect as a multibillion-dollar AI inference opportunity, with fiscal 2028 revenues and thousands of dollars of content per GPU.",
-      "url": "https://finnhub.io/api/news?id=d614f44a82cad15948d3295b7db853e0b1f62589766c5828c8a1dd1534eb1244",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:52:00+00:00",
-      "change_pct": 1.32
-    },
-    {
-      "id": "f_9c86486a7b2348",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Will CoreWeave's Margins Continue Expanding Through 2026?",
-      "summary": "CRWV's rising margins, stronger contract economics and higher-margin offerings point to continued operating leverage through 2026.",
-      "url": "https://finnhub.io/api/news?id=2913ce997a78ee8def8de804d9eee1e175ef07c242cd900316332d1165903bb9",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:52:00+00:00",
-      "change_pct": -1.64
-    },
-    {
-      "id": "f_52353b45a67c27",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Meta targets first-half 2027 deployment for MTIA 450 AI chip: Bloomberg",
-      "summary": "Meta’s latest custom inference processor is intended to lower AI operating costs and diversify silicon supply as the company expands its data-center footprint.",
-      "url": "https://finnhub.io/api/news?id=66c7ead140a0aff98120744675600eacb1096fc1a8cc120ce35b3d52787b7e29",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:45:53+00:00",
-      "change_pct": 0.7
-    },
-    {
-      "id": "f_35dc315adc6737",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Meta stock rises on cost-saving AI chip deployment plans",
-      "summary": "Investing.com -- Meta Platforms (NASDAQ:META) shares rose 2% Tuesday morning after Bloomberg reported the company plans to deploy new in-house artificial intelligence chips in data centers during the first half of next year. The stock later pared gains to up 0.75%.",
-      "url": "https://finnhub.io/api/news?id=50265d49fe000e042be6369a3235cb43d9ec65458897445b1eb3d0fc3e8e5ecf",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:45:36+00:00",
-      "change_pct": 0.7
-    },
-    {
-      "id": "f_fb7c52e977917d",
-      "provider": "finnhub",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Marvell Technology Has Imploded Since June: One Defiant Wall Street Pro Says It’ll Double From Today",
-      "summary": "Marvell has shed a third of its value since summer even as its fundamentals keep accelerating, and one Wall Street analyst just planted a target so far above the current price that it reads like a provocation. Here is why the gap exists and whether the bull case holds up.",
-      "url": "https://finnhub.io/api/news?id=b95cb9548e51fa29e03765a34b84b55cb049bcb5468f94439b3f0c8d51cdea46",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:45:16+00:00",
-      "change_pct": 1.32
-    },
-    {
-      "id": "f_3a7a9edf7df498",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Nexxus Capital Acquires Assets of Another Top Amazon Aggregator",
-      "summary": "Nexxus Capital, LLC, a leading ecommerce acquirer and operations company, today announces the finalization of a transaction originally completed in February 2026, marking the successful closing of brand assets from a major Amazon aggregator, including four marquee brands.",
-      "url": "https://finnhub.io/api/news?id=c03c89e67eea86cbbc4880f731843c55523c1720daec541bd313205388124352",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:37:00+00:00",
-      "change_pct": -2.02
-    },
-    {
-      "id": "av_131a960a3260b7",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI Stocks Fell, but Workday and Adobe Jumped. A Favorite AI Disruption Trade Just Flinched",
-      "summary": "Workday (WDAY) and Adobe (ADBE) stock prices rose after calls to slow down frontier AI development, in contrast to the broader AI stock market which saw declines. This shift suggests that established software platforms might have more time to integrate AI as a feature, rather tha",
-      "url": "https://sg.finance.yahoo.com/news/ai-stocks-fell-workday-adobe-095614361.html",
-      "source": "Yahoo Finance Singapore",
-      "published_at": "2026-09-15T09:56:17+00:00",
-      "sentiment": -0.116866,
-      "change_pct": 0.57
-    },
-    {
-      "id": "f_91494a557f53dc",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Hawkish Or Not, The Market Is Setting Up For The Next Advance",
-      "summary": "Markets stay resilient as yields rise ahead of the FOMC. Click for a look at the markets as we await the news about interest rates.",
-      "url": "https://finnhub.io/api/news?id=c4e36b918429aa7467cba7f5d51527f6efe430089e446e33da91ca2d8cee6855",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-15T14:36:43+00:00",
-      "change_pct": 0.7
-    },
-    {
-      "id": "f_a3a8308f7da7a8",
-      "provider": "finnhub",
-      "ticker": "COIN",
-      "category": "general",
-      "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
-      "summary": "Wondering what's happening in today's session regarding gap up and gap down stocks? Explore the S&P500 index on Tuesday to uncover the stocks that are gapping in the S&P500 index.",
-      "url": "https://finnhub.io/api/news?id=17a15a0cdb1566a13a1ddfb162a1b4b87029f2e9837da37691cdbad2346d6f01",
-      "source": "ChartMill",
-      "published_at": "2026-09-15T14:35:01+00:00",
-      "title_kr": "오늘 세션의 내용: S&P500 주식 갭 상승 및 갭 하락",
-      "summary_kr": "화요일 시장 동향이 궁금하신가요? 오늘 세션 동안 미국 시장에 뛰어들어 S&P500 지수의 주식 상승 및 하락 격차를 살펴보세요."
-    },
-    {
-      "id": "f_5b0037274d70d5",
-      "provider": "finnhub",
-      "ticker": "INTC",
-      "category": "general",
-      "title": "ASML Eyes 110+ EUV Tools in 2028 as AI Chip Demand Accelerates",
-      "summary": "ASML Holding N.V. (NASDAQ:ASML) is examining ways to produce more than 110 EUV lithography systems in 2028, according to JPMorgan analysts following a meeting with CFO Roger Dassen. The company is already nearly sold out for 2027 and expects to produce at least 80 EUV systems that year, meaning output above 110 in 2028 would […]",
-      "url": "https://finnhub.io/api/news?id=696111bb38f3e7e3e2d4769f6c2f0da4683a0d1c56088c6355882767ee96a369",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:34:06+00:00"
-    },
-    {
-      "id": "f_98a6dcb89c7cbe",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Gary Black Explains Tesla’s US EV Market Share Surge, Points to Legacy Retreat, Model Y Rejig: ‘It’s Implausible…’",
-      "summary": "Investor Gary Black says that Tesla Inc.‘s dominance over the U.S. domestic EV market could be attributed to a scaling down of EV efforts by legacy automakers, among other reasons. Model Y Rejig Drove Higher Sales In a post on...",
-      "url": "https://finnhub.io/api/news?id=da8d59b7a2a3e01ff9543441a37de12f7bbd5d40db0e02e0d8d65cef50aba057",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:30:21+00:00",
-      "change_pct": -0.67
-    },
-    {
-      "id": "f_a7093974ee129f",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
-      "summary": "On September 13, Reuters reported that Anthropic is in talks to bring NVIDIA Corporation (NASDAQ:NVDA) in as an anchor investor in what could become one of the largest IPOs in history, potentially raising as much as $100 billion at a valuation of around $2 trillion. Nvidia is reportedly considering an investment of up to $10 […]",
-      "url": "https://finnhub.io/api/news?id=a1af1bb8840fa4ec9e52bcb0cfdbf24b92a5bbce79d7de7b21a45917a6db36f8",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:28:36+00:00",
-      "change_pct": -1.64
-    },
-    {
-      "id": "f_468337f0547c5b",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Can Verizon's 6G Acceleration Initiatives and AI Trials Drive Growth?",
-      "summary": "VZ is advancing 6G with AI-native networks, real-world sensing trials and smart technologies, targeting the 2028 Olympics as a key test.",
-      "url": "https://finnhub.io/api/news?id=93c93341d68e4de11f3b6d86826c1acb04479fa261c2bdfd65a5a7f1a807111d",
-      "source": "Yahoo",
-      "published_at": "2026-09-15T14:28:00+00:00",
-      "change_pct": 0.7
     }
   ],
-  "fetched_at": "2026-09-15T22:18:05.552968+00:00",
+  "fetched_at": "2026-09-16T00:26:07.473625+00:00",
   "source_count": 4,
-  "translated_at": "2026-09-15T22:18:08.151690+00:00",
+  "translated_at": "2026-09-16T00:26:10.026808+00:00",
   "translation_engine": "google-parallel"
 }
