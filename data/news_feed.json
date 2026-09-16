@@ -10,7 +10,7 @@
       "url": "https://finnhub.io/api/news?id=feacee13376bb6192145f0801187dd2595c205dfebd398263eb20ca0194c0f24",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:28:01+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_f285f3f02591fb",
@@ -22,7 +22,7 @@
       "url": "https://finnhub.io/api/news?id=7479728aeecc51178bfe5c1288f857aa3fd5cbf8cf29b6e9ded4d4a967134e72",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:05:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_994821847210c3",
@@ -45,7 +45,29 @@
       "url": "https://finnhub.io/api/news?id=b48b0232033cce9db057efae700d575655e60d5198f7c561623ab177d29b66fe",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:47:38+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
+    },
+    {
+      "id": "f_c578fed02ff061",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "earnings",
+      "title": "Micron Offers A Massive Margin Of Safety (Earnings Preview)",
+      "summary": "Micron Technology is a Strong Buy with Strategic Customer Agreements driving revenue durability and reducing cyclicality. Read more on MU stock here.",
+      "url": "https://finnhub.io/api/news?id=f3db33edaa48a6fe65d71d9340d52e071231e9daf02163fead7978721b4e579a",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-16T15:46:43+00:00"
+    },
+    {
+      "id": "f_ad39017f84d9fd",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "earnings",
+      "title": "IREN Rebounds After Earnings Dip: Time to Buy or Hold the Stock?",
+      "summary": "IREN's AI cloud revenues surge as contracted demand grows, but heavy spending, execution risks and a premium valuation keep investors cautious.",
+      "url": "https://finnhub.io/api/news?id=a27e85b43f2bc71619e80737a444326effd409ba949f3cf5aaed2d08cb09e01e",
+      "source": "Yahoo",
+      "published_at": "2026-09-16T15:19:00+00:00"
     },
     {
       "id": "f_7820df4f50cef7",
@@ -57,7 +79,7 @@
       "url": "https://finnhub.io/api/news?id=a4e3b32210ce5c8b42bb96bffc714b0b1d1a1b1b492ee20f50cb132f7b9784d8",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:56:00+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_9c1e355db8278e",
@@ -71,29 +93,6 @@
       "published_at": "2026-09-16T16:03:00+00:00"
     },
     {
-      "id": "f_101cec905c11f3",
-      "provider": "finnhub",
-      "ticker": "PLTR",
-      "category": "analyst",
-      "title": "Palantir Remains in the Red in 2026: One Senior Wall Street Analyst Says 50% Gains to Come",
-      "summary": "Palantir's fundamentals are running hotter than any large-cap software peer this year, yet the stock keeps sliding while insiders cash out. One senior Wall Street analyst thinks the market has this badly mispriced, and her reasoning deserves a closer look.",
-      "url": "https://finnhub.io/api/news?id=0b8779fc2149e2b8700904ff59515c205d6ffdb2c029006842435e2ad16e5cb8",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:14+00:00"
-    },
-    {
-      "id": "f_3e5d35f6d72149",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "analyst",
-      "title": "Coherent: Post-Correction Alpha Blueprint (Rating Upgrade)",
-      "summary": "Coherent Corp. looks undervalued as an AI infrastructure playâ28.8x fwd P/E, catalysts like PhotonLink & SiC cooling, risks & upside to $454. Click for a COHR stock update.",
-      "url": "https://finnhub.io/api/news?id=1a0f2577630d562aa97e48af99aeab3b8f447cdb573d2945090ba67697c72765",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-16T12:40:48+00:00",
-      "change_pct": 0.99
-    },
-    {
       "id": "f_b4abdaca7eeb18",
       "provider": "finnhub",
       "ticker": "TSLA",
@@ -103,7 +102,20 @@
       "url": "https://finnhub.io/api/news?id=5ae07c2d562f34d033489e472f03ae22e8c08ce6f14da743afa87e29a8736352",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:58:00+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
+    },
+    {
+      "id": "av_7ec5e798ebfe78",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+      "summary": "KKR & Co. has significantly expanded its private investment-grade financing business, with deals totaling over $80 billion in the first half of 2026, more than double last year's amount. This growth is driven by companies seeking flexible alternatives to traditional bank financin",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T20:52:27+00:00",
+      "sentiment": 0.307575,
+      "change_pct": 0.82
     },
     {
       "id": "av_78048da20617bf",
@@ -115,8 +127,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-highlighted-zacks-bull-123700090.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-16T12:37:44+00:00",
-      "sentiment": 0.502816,
-      "change_pct": 0.99
+      "sentiment": 0.547882,
+      "change_pct": 0.82
     },
     {
       "id": "av_612b3c571d9f9e",
@@ -128,8 +140,8 @@
       "url": "https://ca.finance.yahoo.com/news/coreweave-shares-climb-nvidia-rubin-150900684.html",
       "source": "Yahoo! Finance Canada",
       "published_at": "2026-09-16T14:40:48+00:00",
-      "sentiment": 0.405692,
-      "change_pct": 0.99
+      "sentiment": 0.424211,
+      "change_pct": 0.82
     },
     {
       "id": "av_a2ac2ae43257ac",
@@ -141,8 +153,8 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-safety-could-mean-more-135336996.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-16T13:54:01+00:00",
-      "sentiment": 0.414804,
-      "change_pct": 0.99
+      "sentiment": 0.408628,
+      "change_pct": 0.82
     },
     {
       "id": "av_837ffc437f3fad",
@@ -154,8 +166,34 @@
       "url": "https://247wallst.com/investing/2026/09/16/smci-has-something-nvidia-doesnt-heres-why-that-matters/",
       "source": "24/7 Wall St.",
       "published_at": "2026-09-16T16:30:47+00:00",
-      "sentiment": 0.254895,
-      "change_pct": 0.99
+      "sentiment": 0.269772,
+      "change_pct": 0.82
+    },
+    {
+      "id": "av_abfec29b598e09",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "One Stop Systems Shares Rise 3.3% Premarket After $400,000 Defence Contract Award",
+      "summary": "One Stop Systems (NASDAQ:OSS) shares increased by 3.3% in premarket trading after securing a $400,000 contract from a US prime defense contractor. The contract involves the company's 4UP Max PCIe expansion platform, equipped with eight NVIDIA RTX PRO 6000 Blackwell GPUs, for miss",
+      "url": "https://finance.yahoo.com/technology/ai/articles/one-stop-systems-shares-rise-134754373.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T13:47:00+00:00",
+      "sentiment": 0.335571,
+      "change_pct": 0.82
+    },
+    {
+      "id": "av_5341e1af5abf35",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "International Business Machines (NYSE:IBM) Trading Down 4.3% - Here's Why",
+      "summary": "International Business Machines (NYSE:IBM) shares fell 4.3% due to investors taking profits despite positive news like a $1 billion quantum computing award and an AI deployment in Turkey. The stock traded below its 200-day moving average, with analysts maintaining a \"Moderate Buy",
+      "url": "https://www.marketbeat.com/instant-alerts/price-international-business-machines-nyse-ibm-trading-down-43-heres-why-2026-09-16/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-16T21:30:31+00:00",
+      "sentiment": 0.128928,
+      "change_pct": 0.82
     },
     {
       "id": "av_c59f6e489f6821",
@@ -167,21 +205,8 @@
       "url": "https://www.ionq.com/news/ionq-ornl-nvidia-and-the-university-of-tennessee-knoxville-show-ai-method-reduces-quantum-optimization-trade-off",
       "source": "IonQ",
       "published_at": "2026-09-16T14:08:36+00:00",
-      "sentiment": 0.302147,
-      "change_pct": 0.99
-    },
-    {
-      "id": "av_bb18b7c21ad80c",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Salesforce Gets Fresh Target Hike From Mizuho After Dreamforce — Analyst Says 2026 Setup Looks ‘Much Better’ Than 2025",
-      "summary": "Mizuho has raised its price target for Salesforce (CRM) to $280 from $265, maintaining an 'Outperform' rating, following the first day of Dreamforce. The firm highlighted new interfaces designed to enhance customer value from existing deployments and noted that Salesforce's 2026 ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-gets-fresh-target-hike-123302471.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T12:50:17+00:00",
-      "sentiment": 0.327734,
-      "change_pct": 0.99
+      "sentiment": 0.304128,
+      "change_pct": 0.82
     },
     {
       "id": "av_756c19927ab7d8",
@@ -193,8 +218,34 @@
       "url": "https://www.tradingkey.com/news/market-movers/262171106-market-movers-wdc-20260916",
       "source": "TradingKey",
       "published_at": "2026-09-16T13:46:48+00:00",
-      "sentiment": 0.303691,
-      "change_pct": 0.99
+      "sentiment": 0.303154,
+      "change_pct": 0.82
+    },
+    {
+      "id": "av_76496ca234c1aa",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "One Stop Systems wins $400,000 defense contract for simulation",
+      "summary": "One Stop Systems, Inc. (NASDAQ:OSS) has secured a $400,000 contract from a U.S. defense prime contractor. This award is for advanced modeling and simulation of missile defense systems for the U.S. Missile Defense Agency and includes the deployment of OSS's 4UP Max PCIe expansion ",
+      "url": "https://www.investing.com/news/company-news/one-stop-systems-wins-400000-defense-contract-for-simulation-93CH-4903596",
+      "source": "Investing.com",
+      "published_at": "2026-09-16T12:05:02+00:00",
+      "sentiment": 0.32839,
+      "change_pct": 0.82
+    },
+    {
+      "id": "av_bb18b7c21ad80c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Salesforce Gets Fresh Target Hike From Mizuho After Dreamforce — Analyst Says 2026 Setup Looks ‘Much Better’ Than 2025",
+      "summary": "Mizuho has raised its price target for Salesforce (CRM) to $280 from $265, maintaining an 'Outperform' rating, following the first day of Dreamforce. The firm highlighted new interfaces designed to enhance customer value from existing deployments and noted that Salesforce's 2026 ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-gets-fresh-target-hike-123302471.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T12:50:17+00:00",
+      "sentiment": 0.303362,
+      "change_pct": 0.82
     },
     {
       "id": "av_5c668ee0b6c498",
@@ -206,8 +257,8 @@
       "url": "https://www.benzinga.com/markets/tech/26/09/61820795/super-micro-rebounds-3-after-this-weeks-ai-infrastructure-selloff",
       "source": "Benzinga",
       "published_at": "2026-09-16T15:53:47+00:00",
-      "sentiment": 0.233241,
-      "change_pct": 0.99
+      "sentiment": 0.214796,
+      "change_pct": 0.82
     },
     {
       "id": "av_c1e8e5f4cdd576",
@@ -219,21 +270,8 @@
       "url": "https://247wallst.com/investing/etf/2026/09/16/three-stocks-are-joining-the-sp-500-will-they-actually-improve-voos-returns/",
       "source": "24/7 Wall St.",
       "published_at": "2026-09-16T15:37:53+00:00",
-      "sentiment": 0.216311,
-      "change_pct": 0.99
-    },
-    {
-      "id": "av_e4986e938720a5",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Salesforce (CRM), Why Is The Latest Attention Building?",
-      "summary": "Salesforce (CRM) stock is gaining attention after its Dreamforce 2026 event, where the company highlighted Agentforce, a new Koa reasoning model developed with Nvidia, and expanded AI partnerships. The stock has shown strong short-term momentum but a more subdued long-term perfor",
-      "url": "https://ca.finance.yahoo.com/news/salesforce-crm-why-latest-attention-180956321.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-09-16T18:11:23+00:00",
-      "sentiment": 0.149382,
-      "change_pct": 0.99
+      "sentiment": 0.20289,
+      "change_pct": 0.82
     },
     {
       "id": "f_3bced216a6bb49",
@@ -247,6 +285,19 @@
       "published_at": "2026-09-16T16:55:44+00:00"
     },
     {
+      "id": "av_e4986e938720a5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Salesforce (CRM), Why Is The Latest Attention Building?",
+      "summary": "Salesforce (CRM) stock is gaining attention after its Dreamforce 2026 event, where the company highlighted Agentforce, a new Koa reasoning model developed with Nvidia, and expanded AI partnerships. The stock has shown strong short-term momentum but a more subdued long-term perfor",
+      "url": "https://ca.finance.yahoo.com/news/salesforce-crm-why-latest-attention-180956321.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-09-16T18:11:23+00:00",
+      "sentiment": 0.118152,
+      "change_pct": 0.82
+    },
+    {
       "id": "av_50fcdecbcd024f",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -256,8 +307,8 @@
       "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
       "source": "CNBC",
       "published_at": "2026-09-16T08:51:24+00:00",
-      "sentiment": 0.316394,
-      "change_pct": 0.99
+      "sentiment": 0.326043,
+      "change_pct": 0.82
     },
     {
       "id": "av_74ab7a825ac552",
@@ -269,8 +320,46 @@
       "url": "https://www.investing.com/news/company-news/hawaiian-electric-stock-hits-52week-low-at-101-usd-93CH-4904051",
       "source": "Investing.com",
       "published_at": "2026-09-16T15:04:46+00:00",
-      "sentiment": 0.146025,
-      "change_pct": 0.99
+      "sentiment": 0.148799,
+      "change_pct": 0.82
+    },
+    {
+      "id": "f_3644b366bf2db5",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "summary": "Get insights into the dow jones index performance on Wednesday. Explore the top gainers and losers within the dow jones index in today's session.",
+      "url": "https://finnhub.io/api/news?id=ee741aaaf6d4c596298525d052f23bfe3d78b5929e852d5db39941de9f83365c",
+      "source": "ChartMill",
+      "published_at": "2026-09-16T19:10:06+00:00",
+      "change_pct": 0.82,
+      "title_kr": "오늘 세션에서 다우존스 주식의 최신 동향을 알아보세요.",
+      "summary_kr": "오늘 다우존스 지수 세션에서 무슨 일이 일어나고 있는지 궁금하십니까? 수요일 다우존스 지수 내 최고 변동 항목에 대한 정보를 받아보세요."
+    },
+    {
+      "id": "f_b5b1ec26972d31",
+      "provider": "finnhub",
+      "ticker": "COIN",
+      "category": "general",
+      "title": "Explore the top gainers and losers within the S&P500 index in today's session.",
+      "summary": "Let's have a look at the top S&P500 gainers and losers one hour before the close of the markets of today's session.",
+      "url": "https://finnhub.io/api/news?id=568783958075196b65740530debea12cb32f6534984a1b55719ef4f7c7471b7c",
+      "source": "ChartMill",
+      "published_at": "2026-09-16T19:05:01+00:00",
+      "title_kr": "오늘 세션에서 S&P500 지수 내 최고 상승자와 하락자를 살펴보세요.",
+      "summary_kr": "금요일 장 마감 1시간 전 S&P500 지수 내 최고 상승주와 하락주를 살펴보고 오늘 세션의 최신 동향을 살펴보겠습니다."
+    },
+    {
+      "id": "f_a6b935c2eb3558",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "Nebius Is Still Down 21% in a Month: Did Today Just Mark the Bottom?",
+      "summary": "Nebius stock is bouncing hard Wednesday after a brutal month-long slide that left peers like CoreWeave equally battered, but the real question is whether buyers are finally stepping in or just setting up another failed rally.",
+      "url": "https://finnhub.io/api/news?id=9aeeaeae20cb27aee579bce82ea1f6bc30f22f159859a988ed87ea57c11ab348",
+      "source": "Yahoo",
+      "published_at": "2026-09-16T18:50:05+00:00"
     },
     {
       "id": "f_62e01a6f1938ac",
@@ -282,7 +371,7 @@
       "url": "https://finnhub.io/api/news?id=3d20960e9c2cadfe673a46daeed5f890004d55a06e129bf7d23e901b6ea94793",
       "source": "ChartMill",
       "published_at": "2026-09-16T18:05:00+00:00",
-      "change_pct": 0.99,
+      "change_pct": 0.82,
       "title_kr": "S&P500 주식은 오늘 세션에서 가장 활발합니다.",
       "summary_kr": "월요일 S&P500 지수에서 가장 활동적인 주식을 찾고 계십니까? 오늘 세션에 참여하여 거래 활동을 지배하고 시장 속도를 주도하는 주식을 알아보세요."
     },
@@ -296,7 +385,31 @@
       "url": "https://finnhub.io/api/news?id=c9d7f808c9c43ff12a6dd796de6bd7dd50858474d53bb9745af938ed4c91a03d",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:55:40+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
+    },
+    {
+      "id": "f_bab81902302a3b",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "TeraWulf Rallies 7% as AI Hosting Bid Returns; Core Scientific Jumps 7%, IREN Rises 3%",
+      "summary": "Bitcoin miners turned AI hosts are surging together in a session with no news driving any of them, and that gap between the cohort and the broader data center basket reveals exactly what kind of trade is actually happening here.",
+      "url": "https://finnhub.io/api/news?id=796c4e4be21f42572edac4b61bbe1cced9faf5296fc11bfcf2e84ed0ce670b0a",
+      "source": "Yahoo",
+      "published_at": "2026-09-16T17:53:18+00:00"
+    },
+    {
+      "id": "av_d8bfb571282f21",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel",
+      "summary": "SK Hynix stock rose nearly 3% following a Reuters report suggesting the company is exploring a deal with Intel to manufacture memory silicon wafers in the US. SK Hynix confirmed it is exploring options to strengthen global competitiveness but stated no specific plans, including p",
+      "url": "https://finance.yahoo.com/markets/article/sk-hynix-stock-jumps-as-memory-maker-responds-to-report-of-potential-deal-with-intel-125828355.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T12:51:16+00:00",
+      "sentiment": 0.124885,
+      "change_pct": 0.82
     },
     {
       "id": "f_638bd166f382e3",
@@ -308,7 +421,7 @@
       "url": "https://finnhub.io/api/news?id=cf902f471db8355986d89a19ac5ee8684a51f9272c8007cc9d6c3763c3bb11d0",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:50:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_f8aa55457fa5e6",
@@ -320,7 +433,7 @@
       "url": "https://finnhub.io/api/news?id=4bcf1825de5549b624e89b64a8a7c7c17500d0ee77cd3ac6fb7c038a7af8f949",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:45:07+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_4df8f4bee0fc2b",
@@ -332,7 +445,7 @@
       "url": "https://finnhub.io/api/news?id=b0e34f9fc2f511ba8bf01e27667dd0601c1cb63bc22c496a10b3a6dbfc3522cc",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:44:21+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_b2fc927ca315b6",
@@ -344,7 +457,7 @@
       "url": "https://finnhub.io/api/news?id=0a610c6958b8a064ce32323dd0528e839308027c83d609aac9dda27a74f39de6",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:43:05+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_4c71688f416b59",
@@ -356,7 +469,7 @@
       "url": "https://finnhub.io/api/news?id=f5c5d42dcd827c0c2d61ee5d8ae8280bb9e97dadcc664de4b4e1350eba18b06b",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:42:40+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_43ac7c3741136e",
@@ -368,7 +481,7 @@
       "url": "https://finnhub.io/api/news?id=5fb1a59efecbb2997177e2883b92db18bbf88e4dafa90f3ae3a47efc32433ec4",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:42:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_f21c7a0661e5e2",
@@ -380,7 +493,7 @@
       "url": "https://finnhub.io/api/news?id=14c1e2078390422fca4e2fa88021031f98025dbf67eb4cb594379fa988dd3f08",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:33:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_595fb877e7fcce",
@@ -392,7 +505,18 @@
       "url": "https://finnhub.io/api/news?id=0078e1032fb647f22424aca113b33ff13e324bfa087dec12eebd65031470726b",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:31:33+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
+    },
+    {
+      "id": "f_d7fff0f01befd3",
+      "provider": "finnhub",
+      "ticker": "PLTR",
+      "category": "general",
+      "title": "The $1.5 Trillion Defense Budget That Isn't Priced In",
+      "summary": "Explore MISL ETF for diversified aerospace & defense exposure amid surging U.S.",
+      "url": "https://finnhub.io/api/news?id=70880b481486fb758b1d64ee6162fd271de88c0dbfdebe3bdcd93d8edc08a2dc",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-16T17:31:11+00:00"
     },
     {
       "id": "f_2e62e5362db397",
@@ -404,7 +528,7 @@
       "url": "https://finnhub.io/api/news?id=945f88515cefc51b03a2d8a4b506153ff9045413908dc0c60f2a44c5cbb92826",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:30:12+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_f9a0bdf607ff83",
@@ -416,7 +540,7 @@
       "url": "https://finnhub.io/api/news?id=ebebcecb6292ba6e73f0cdb202382528d87cda2756f0dc6876962ceccf502438",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:28:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_7b282102bc01b1",
@@ -430,19 +554,6 @@
       "published_at": "2026-09-16T17:22:05+00:00"
     },
     {
-      "id": "av_d8bfb571282f21",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "SK Hynix stock jumps as memory maker responds to report of potential deal with Intel",
-      "summary": "SK Hynix stock rose nearly 3% following a Reuters report suggesting the company is exploring a deal with Intel to manufacture memory silicon wafers in the US. SK Hynix confirmed it is exploring options to strengthen global competitiveness but stated no specific plans, including p",
-      "url": "https://finance.yahoo.com/markets/article/sk-hynix-stock-jumps-as-memory-maker-responds-to-report-of-potential-deal-with-intel-125828355.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T12:51:16+00:00",
-      "sentiment": 0.111225,
-      "change_pct": 0.99
-    },
-    {
       "id": "f_db7f4d152a6628",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -452,7 +563,7 @@
       "url": "https://finnhub.io/api/news?id=43e903d58835c120cdb55ecf049eab2e060056e7e68898834e34e4bebb8da611",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:18:00+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_537a6b3418ec4d",
@@ -464,7 +575,7 @@
       "url": "https://finnhub.io/api/news?id=f4cc2d0d3f7e3bbb7184938d40072a9180e59e71b97031f05e648821209947a6",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:17:13+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_0add6042cb8a68",
@@ -476,7 +587,7 @@
       "url": "https://finnhub.io/api/news?id=74a11599b9c8c1c583dee4dbf9891f5bb3b50039bd177d715ae177745f938d2f",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:15:49+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_4ffef41c0f9859",
@@ -488,7 +599,7 @@
       "url": "https://finnhub.io/api/news?id=e7142057b9b646775442356cfc29a66a6aff0892cd86f5fe491799aadce26584",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:14:02+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_c9a50c89892daa",
@@ -511,7 +622,7 @@
       "url": "https://finnhub.io/api/news?id=03bee21d329ef3005c52c5192cf72e27d425149b2d4b41c2d29ee77da4606045",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:11:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_16fca27585f00b",
@@ -534,7 +645,7 @@
       "url": "https://finnhub.io/api/news?id=c2e5c255060443327a453a729462f9e733d40659b630d044d03584aa7e29c739",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:08:36+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_49c7d41c955ed6",
@@ -546,7 +657,7 @@
       "url": "https://finnhub.io/api/news?id=24ff0c910f242587d99b563c351e65213a5efd7c9c65d30fb6801529478c4ecc",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:07:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_68a92fba66753c",
@@ -558,7 +669,7 @@
       "url": "https://finnhub.io/api/news?id=071de8f792669913f5517e1d371293824f12a0fdc421c774b20f7ea78c620d46",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:05:11+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_139358f84ad529",
@@ -570,7 +681,7 @@
       "url": "https://finnhub.io/api/news?id=d52d3d3973cf63c3702225d71ca7ff6f246bb665e2bce87ec5ce48f146b5517a",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:04:38+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_112b2374848a25",
@@ -582,7 +693,7 @@
       "url": "https://finnhub.io/api/news?id=1bd04ea4a46e1fe72bb28248762851bf6fb770a50db2ba4c3e3ef4e3cc9bb094",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:02:10+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_65b3604aeaac97",
@@ -594,7 +705,7 @@
       "url": "https://finnhub.io/api/news?id=5455af72eaab4836c10544077ad2b5515811a4c60689364c2412434d678b8e01",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:00:24+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_574f2e7aa9ba27",
@@ -606,7 +717,7 @@
       "url": "https://finnhub.io/api/news?id=9f2308db1411dc05a679bdca7399a021b044af283ecc6fb6c8b559f0a24cb92f",
       "source": "Yahoo",
       "published_at": "2026-09-16T17:00:23+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_537ab77a7d7547",
@@ -629,7 +740,7 @@
       "url": "https://finnhub.io/api/news?id=2a041a7b2d37313cac152f0d5f4eae8ab025e284661a23741e30fe4a4eb10f8d",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:58:18+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_f3351a7a09539d",
@@ -641,7 +752,7 @@
       "url": "https://finnhub.io/api/news?id=182e54a83513daa03852aa35a9c9148d33ce1ec791850d8f216ea97fa8c69495",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:55:19+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_bf933eafc4ef3c",
@@ -653,7 +764,7 @@
       "url": "https://finnhub.io/api/news?id=191fcc92c0a1e5714ef1cd9d94a5bcc56248b350968df841c7c3d3aa5342bcf1",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:55:04+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_8d7e26719b8228",
@@ -665,7 +776,7 @@
       "url": "https://finnhub.io/api/news?id=5058adb7f96ab07f92111f56f49aafaacd090ffe2b6ce141fba117c35f7134d1",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:52:00+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_10d1e6f220cfe0",
@@ -677,7 +788,7 @@
       "url": "https://finnhub.io/api/news?id=738d8766890a32e92342a11c7507548748ef5f9b5792774f56087daf98050952",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:50:49+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_ab7be59d4365b9",
@@ -689,7 +800,7 @@
       "url": "https://finnhub.io/api/news?id=3c93a85467c3aad1773279abe5d3868c778e8d2e92e60095733db1c9525c6a71",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:50:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_ef7b5cd9788d4c",
@@ -701,7 +812,7 @@
       "url": "https://finnhub.io/api/news?id=676b001e69b853ae6cf18bf4adc6685da307b5e8bc4367f8900bca55e067dae2",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:45:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_88bf3dcb0d3e78",
@@ -713,7 +824,7 @@
       "url": "https://finnhub.io/api/news?id=902bea7df846b955eb5612d0abcd83531353c26514ce246252b2c1c566264fd9",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:44:44+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_e92051db728a2b",
@@ -725,7 +836,7 @@
       "url": "https://finnhub.io/api/news?id=a7f4a33ec0874d76807fce9f33e2df62237dd14cd3496691d1338c9a8a2f7b1a",
       "source": "ChartMill",
       "published_at": "2026-09-16T16:40:05+00:00",
-      "change_pct": 0.99,
+      "change_pct": 0.82,
       "title_kr": "오늘 세션에서 다우존스 지수 내 최고 상승자와 하락자를 살펴보세요.",
       "summary_kr": "금요일에 움직이는 다우존스 주식에 대해 궁금하십니까? 오늘 세션에서 다우존스 지수 내 최고 변동 항목을 살펴보는 데 참여해 보세요."
     },
@@ -739,7 +850,7 @@
       "url": "https://finnhub.io/api/news?id=8e4028ebf95e442bd53b5e517429f1646373e95278ff592882e1e007bb206d4e",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:40:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_f98f43e1802708",
@@ -751,7 +862,7 @@
       "url": "https://finnhub.io/api/news?id=6def5ba2cc83b73135cdaf19bd5ef2c93a01455e52dced1869db6c7106871562",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:37:09+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_358f11437b6c78",
@@ -799,7 +910,7 @@
       "url": "https://finnhub.io/api/news?id=adc8c4f9c0a68f9b7a3a971b949136f395d9453a8e9269aa3ddeb5e1250f9438",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:33:00+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_e645a3b453fcad",
@@ -811,7 +922,7 @@
       "url": "https://finnhub.io/api/news?id=9b0eefacb5e0525c53abe3655c37bc48286169d32c9ea392ed262ba67849f904",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:32:41+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_1d4069ee1e55fa",
@@ -823,7 +934,7 @@
       "url": "https://finnhub.io/api/news?id=f9355edb22f30104a31a2ec04086e044ed12260284c5526dfae5663f41c3428c",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:29:55+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_68d1d941f4aea4",
@@ -835,7 +946,7 @@
       "url": "https://finnhub.io/api/news?id=9e56839dfbaa17f563011840d56364a1ff20918041ebbe686bfc8fa7e553c026",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:28:52+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_3a7d74110cc395",
@@ -847,7 +958,7 @@
       "url": "https://finnhub.io/api/news?id=9908adc61846ca0206302392e42f32e2f2313dcb45a4385035a4d4f65c970f00",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:15:41+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_106596e6d3d4cc",
@@ -859,7 +970,7 @@
       "url": "https://finnhub.io/api/news?id=096ea807178d1f83c267bc98a5ffd95d2f0a5d9ae1e167c341317f4d23a2ab0e",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:14:51+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_f1ec988ec06205",
@@ -894,7 +1005,7 @@
       "url": "https://finnhub.io/api/news?id=11c81ec87f0614f7c511ac91026e17178e99b19e1a241445a242dd4f02b10cb2",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:00:10+00:00",
-      "change_pct": -3.49
+      "change_pct": -2.64
     },
     {
       "id": "f_62ee3731ac9428",
@@ -906,7 +1017,7 @@
       "url": "https://finnhub.io/api/news?id=63681ff20e3d679534fd3e866bab5f252937b7396368a69c72435e5acff9ff5e",
       "source": "Yahoo",
       "published_at": "2026-09-16T16:00:00+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_ac7bcea980045a",
@@ -918,7 +1029,7 @@
       "url": "https://finnhub.io/api/news?id=d8fc52fb2e71400bb9767bcd8f5a889baedeca0050f829530b1f5707453fef38",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:56:16+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_b898c0540be309",
@@ -930,7 +1041,7 @@
       "url": "https://finnhub.io/api/news?id=83e52badde0a70fe52a11ab58c51d515d3b307e112d178c9487bc044f4c85c85",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:54:00+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_c6cc7f413b7d02",
@@ -942,7 +1053,7 @@
       "url": "https://finnhub.io/api/news?id=724bd98ca6f076a95d0d71456fa887ea9c15a03a051af3e4e4d773e6823098c9",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:50:54+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_392defc9cf585a",
@@ -954,7 +1065,7 @@
       "url": "https://finnhub.io/api/news?id=44ba85278a327b13d8c98453132ad83bcede9c359f29149166ff24c091d41500",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:50:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_1cb78861ee42b1",
@@ -977,7 +1088,7 @@
       "url": "https://finnhub.io/api/news?id=59d0cd047f2a4e021cf0a8d25329d08c1ecbe077fa4d74151000afc8c57e2cbf",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:42:00+00:00",
-      "change_pct": 3.05
+      "change_pct": 3.61
     },
     {
       "id": "f_91fd3a2aea5a2a",
@@ -989,7 +1100,7 @@
       "url": "https://finnhub.io/api/news?id=7e90b16b207ae836550290e241525e59cc1c871b5c3aa6997353370c0d5a5ccf",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:36:10+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_8ff785522fb702",
@@ -1001,7 +1112,7 @@
       "url": "https://finnhub.io/api/news?id=a83e84f257da5517ef6e504cf053fd75602560965a846dec4c532517494b9533",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:35:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_7ccec438bc3cbb",
@@ -1013,33 +1124,7 @@
       "url": "https://finnhub.io/api/news?id=b99c1c0cf4bdf8ed8c75d8e3d81c2a7410d53ad40b4dd1141e596bf0663c14a7",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:30:00+00:00",
-      "change_pct": -0.83
-    },
-    {
-      "id": "av_daec5aab75de73",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Apple Is Developing Enterprise Server for AI Age, Report Says",
-      "summary": "Apple Inc. is reportedly developing an enterprise server using its proprietary chips, aimed at AI developers, governments, and other companies. The product, expected by 2029, will feature two or four of Apple's M8 Ultra chips, potentially utilizing Nvidia's NVLink Fusion technolo",
-      "url": "https://ca.finance.yahoo.com/news/apple-developing-enterprise-server-ai-133410541.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-09-16T13:40:50+00:00",
-      "sentiment": 0.045182,
-      "change_pct": 0.99
-    },
-    {
-      "id": "av_f930a95a4f3c2e",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Blackstone Sees Earnings Boom Fueling AI, Infrastructure and Fundraising Growth",
-      "summary": "Blackstone is experiencing an earnings boom, driven by strong fundraising and investments in AI and infrastructure. The company reported over $260 billion in inflows in the past year and significant growth in infrastructure assets, with a focus on data centers, power, and frontie",
-      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-sees-earnings-boom-fueling-020231672.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T02:10:10+00:00",
-      "sentiment": 0.33224,
-      "change_pct": 0.99
+      "change_pct": -0.99
     },
     {
       "id": "f_b496a04bc91f2a",
@@ -1051,7 +1136,20 @@
       "url": "https://finnhub.io/api/news?id=45ef9772b97bcd0b99444535a4ca215287002c34d56a9691f8e204dd10226b0d",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:27:13+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
+    },
+    {
+      "id": "av_daec5aab75de73",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Apple Is Developing Enterprise Server for AI Age, Report Says",
+      "summary": "Apple Inc. is reportedly developing an enterprise server using its proprietary chips, aimed at AI developers, governments, and other companies. The product, expected by 2029, will feature two or four of Apple's M8 Ultra chips, potentially utilizing Nvidia's NVLink Fusion technolo",
+      "url": "https://ca.finance.yahoo.com/news/apple-developing-enterprise-server-ai-133410541.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-09-16T13:40:50+00:00",
+      "sentiment": 0.044158,
+      "change_pct": 0.82
     },
     {
       "id": "f_67f2c82d80bf41",
@@ -1063,7 +1161,20 @@
       "url": "https://finnhub.io/api/news?id=7dcf7e24c08cf5be41d8efe2e839bb4298eb1c7bd23210b12df26457d69c618d",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:26:14+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
+    },
+    {
+      "id": "av_b7618c501fd751",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Zacks Investment Ideas feature highlights: Nvidia, Taiwan Semiconductor, Arista Networks, Dell Technologies, Hewlett Packard and Super Micro Computer",
+      "summary": "Zacks Investment Ideas highlights six top AI stocks—Nvidia, Taiwan Semiconductor, Arista Networks, Dell Technologies, Hewlett Packard Enterprise, and Super Micro Computer—as potential buy-the-dip opportunities. Despite recent market pressure on AI stocks due to safety concerns an",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-143400211.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-15T14:54:38+00:00",
+      "sentiment": 0.504027,
+      "change_pct": 0.82
     },
     {
       "id": "f_f9e61abdab2104",
@@ -1075,7 +1186,7 @@
       "url": "https://finnhub.io/api/news?id=98273805b3b023cdc89da40fe25897c0416b936aeabb93debd52243389a3a9b6",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:25:29+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_383e26f73b0d79",
@@ -1087,7 +1198,7 @@
       "url": "https://finnhub.io/api/news?id=ad5b4028cebaf4a5631bb267f2b2a9d65ac41a16a03623c1032f1267d7e783eb",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:25:28+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_249ebd6cc4b84d",
@@ -1099,7 +1210,7 @@
       "url": "https://finnhub.io/api/news?id=3b315b5e6358eb9200979aaa3c9880ece726617422ea513780e65f808dc91344",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:23:20+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_4a7089c1c18685",
@@ -1111,20 +1222,7 @@
       "url": "https://finnhub.io/api/news?id=6c7ee6d512df33d0ae73f4e68c285a46f7bf5a9f4435e4567ac45fe8e58fa142",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:20:00+00:00",
-      "change_pct": 0.99
-    },
-    {
-      "id": "av_2200d9ea96230d",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Trump, Xi Jinping Dinner to Include Nvidia's Jensen Huang Amid Chip War Tensions: Report",
-      "summary": "Nvidia CEO Jensen Huang is expected to attend a state dinner hosted by President Donald Trump for Chinese President Xi Jinping on September 24th, amidst ongoing tensions in the U.S.-China chip war. Huang's presence highlights the critical role of AI and semiconductors in the rela",
-      "url": "https://finance.yahoo.com/technology/articles/trump-xi-jinping-dinner-nvidias-031140184.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T03:41:07+00:00",
-      "sentiment": 0.290696,
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_8a9c5be349dbe4",
@@ -1136,7 +1234,7 @@
       "url": "https://finnhub.io/api/news?id=3e5b8dc21fbcc230d7a34dcdf8ba32254561f5555d782ae84746d9b5f5f13c65",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:11:42+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_451232f5744aa2",
@@ -1148,7 +1246,7 @@
       "url": "https://finnhub.io/api/news?id=386503685a06dad2bb67e4e89421edacc8c9b64c954cb942e26815b28501e35e",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:11:39+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_3323a28c8a450f",
@@ -1160,7 +1258,7 @@
       "url": "https://finnhub.io/api/news?id=9e036c646e94c4ef4961071c1819851ec16ca4acb4ad8e023026777e88202ec2",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:11:32+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_408d6ec83cbfad",
@@ -1172,7 +1270,7 @@
       "url": "https://finnhub.io/api/news?id=149b9189706ec6a32d50aa8aa233c80d8b58ff6fbb72702378fef67dc5d497f4",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:11:11+00:00",
-      "change_pct": -0.48
+      "change_pct": 0.07
     },
     {
       "id": "f_9ad8a4023df182",
@@ -1184,7 +1282,7 @@
       "url": "https://finnhub.io/api/news?id=d394a8597b71e161a5020ce95b0bbe15c7f575bc97368a08f44a10bce8eed3e2",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:10:43+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_2f00d479df8b9b",
@@ -1196,7 +1294,20 @@
       "url": "https://finnhub.io/api/news?id=48223c1daa33c9f3efe60923a1d0a82265c791f7c16c2d8e49a78ca9dda30d2a",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:09:55+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
+    },
+    {
+      "id": "av_2200d9ea96230d",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Trump, Xi Jinping Dinner to Include Nvidia's Jensen Huang Amid Chip War Tensions: Report",
+      "summary": "Nvidia CEO Jensen Huang is expected to attend a state dinner hosted by President Donald Trump for Chinese President Xi Jinping on September 24th, amidst ongoing tensions in the U.S.-China chip war. Huang's presence highlights the critical role of AI and semiconductors in the rela",
+      "url": "https://finance.yahoo.com/technology/articles/trump-xi-jinping-dinner-nvidias-031140184.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T03:41:07+00:00",
+      "sentiment": 0.286749,
+      "change_pct": 0.82
     },
     {
       "id": "f_585d6c3053eda0",
@@ -1208,7 +1319,7 @@
       "url": "https://finnhub.io/api/news?id=25e1e7f855179edacc2de81edbe306ba15c517d8ff5738298587f0797c7ecc48",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:08:23+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_632331ae6b846a",
@@ -1220,7 +1331,7 @@
       "url": "https://finnhub.io/api/news?id=2521cf97d8a5ec8f013f02bfd74ec35d61851999d3f90989c1eb6cde4ebbc9b6",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:07:42+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_17ac76fe566b0f",
@@ -1232,7 +1343,7 @@
       "url": "https://finnhub.io/api/news?id=ad798bcbb9b9cbd61f709ab50a0295d22dd59b022dfe978d27cf5d55ac44316f",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:07:00+00:00",
-      "change_pct": -0.48
+      "change_pct": 0.07
     },
     {
       "id": "f_ccc0cc67c95f2e",
@@ -1244,7 +1355,7 @@
       "url": "https://finnhub.io/api/news?id=8b45ac258725383fc227b212301257c25135bda86e6234e77a59967493957a5c",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:05:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_ac6b7d5bc382b7",
@@ -1256,7 +1367,7 @@
       "url": "https://finnhub.io/api/news?id=8fab96e59b7a265ab375894bdb574f28be2c19c4b08fc7b328de9840cd6e9f72",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:02:26+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_2f777d3cbe6719",
@@ -1279,7 +1390,7 @@
       "url": "https://finnhub.io/api/news?id=cb3a2d8f86dbf377efe06c5d0ee8caccd378740882cd101148e1ae45bc2f1d07",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:00:34+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_9ff05fc1b82323",
@@ -1291,7 +1402,7 @@
       "url": "https://finnhub.io/api/news?id=831ca10a9788102915e4dfbeb3195601d5f8067adbb45fc3690d7a8b680fc4cf",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:00:22+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_66d716b4f0061f",
@@ -1314,7 +1425,7 @@
       "url": "https://finnhub.io/api/news?id=b6866bc068c380ee83232e07babfec5bc288e1ba776b7b3c7eba0d9a80b68543",
       "source": "Yahoo",
       "published_at": "2026-09-16T15:00:00+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_f440e4e330455d",
@@ -1326,20 +1437,7 @@
       "url": "https://finnhub.io/api/news?id=28352cb886799f9b6ec5525cad32fee2721bf6255311fbfdabfd4782f8e6cea7",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:58:20+00:00",
-      "change_pct": -0.83
-    },
-    {
-      "id": "av_cf424021fb4885",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Qualcomm (NASDAQ: QCOM) Hits Two-Month High As Amazon AI Chip Deal Reshapes Growth Outlook",
-      "summary": "Qualcomm (NASDAQ: QCOM) shares recently surged to a two-month high following investor excitement over its expanding push into AI data-center infrastructure, particularly after announcing a significant multi-generational collaboration with Amazon for customized AI chips for AWS. T",
-      "url": "https://www.foreignpolicyjournal.com/2026/09/16/qualcomm-nasdaq-qcom-hits-two-month-high-as-amazon-ai-chip-deal-reshapes-growth-outlook/",
-      "source": "Foreign Policy Journal",
-      "published_at": "2026-09-16T09:56:43+00:00",
-      "sentiment": 0.125515,
-      "change_pct": 0.99
+      "change_pct": -0.99
     },
     {
       "id": "f_e397de80067778",
@@ -1351,7 +1449,7 @@
       "url": "https://finnhub.io/api/news?id=a6a2e7a2e42c133d46e072a0841837db7074c405eddaea35b839ce179bed57ea",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:57:27+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_422dbb3eef4b25",
@@ -1363,7 +1461,7 @@
       "url": "https://finnhub.io/api/news?id=0f455504ef2bd3963b94377867265406ef246757a3e73c6cfbe64827f5112f44",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:57:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_7f05f699958c5a",
@@ -1375,7 +1473,7 @@
       "url": "https://finnhub.io/api/news?id=5440789685541721172a821f675e84c4eb66a2e989de5d1919b40960034aa4ca",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:56:00+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_95efd5cd289d23",
@@ -1387,7 +1485,7 @@
       "url": "https://finnhub.io/api/news?id=f60a5f2a24074a3247e00a94e22544cf5bf398435f302702ea2f1a0371c9c1aa",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:55:13+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_110b4a69b387a7",
@@ -1399,7 +1497,7 @@
       "url": "https://finnhub.io/api/news?id=db71570c880fadd28a80b0ed8667028fa4a9fccbba784f5bf7ee71b97a8e77d4",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:54:00+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_c4a4a500a211be",
@@ -1422,7 +1520,7 @@
       "url": "https://finnhub.io/api/news?id=8c7ec721c8d81a42626acb9eed9196da6cc70ac9b6549862b8fcd776d96f70fc",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:50:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_91bff89c70b804",
@@ -1434,7 +1532,7 @@
       "url": "https://finnhub.io/api/news?id=d83abf4bd90c9503fd8c78ebeee8bdd1026ad8a213b501b63005ce4130fe76de",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:49:30+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_17edf8559e07a7",
@@ -1457,7 +1555,7 @@
       "url": "https://finnhub.io/api/news?id=79b00a0a1c8533fed0411db08858180b5dfdfbd9688710e50acc8d6df3ff52fc",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:46:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_e74bb97e92f7a1",
@@ -1469,7 +1567,7 @@
       "url": "https://finnhub.io/api/news?id=6f766fbb970489396013894608857b215499e25961201496d5f0256e3157151d",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:46:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_23a04bb4c3969e",
@@ -1492,7 +1590,20 @@
       "url": "https://finnhub.io/api/news?id=18a671785c3e07cd4f01f3a7005844ea0b106430b672600f98b82c5c33876828",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:45:34+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
+    },
+    {
+      "id": "av_cf424021fb4885",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Qualcomm (NASDAQ: QCOM) Hits Two-Month High As Amazon AI Chip Deal Reshapes Growth Outlook",
+      "summary": "Qualcomm (NASDAQ: QCOM) shares recently surged to a two-month high following investor excitement over its expanding push into AI data-center infrastructure, particularly after announcing a significant multi-generational collaboration with Amazon for customized AI chips for AWS. T",
+      "url": "https://www.foreignpolicyjournal.com/2026/09/16/qualcomm-nasdaq-qcom-hits-two-month-high-as-amazon-ai-chip-deal-reshapes-growth-outlook/",
+      "source": "Foreign Policy Journal",
+      "published_at": "2026-09-16T09:56:43+00:00",
+      "sentiment": 0.119886,
+      "change_pct": 0.82
     },
     {
       "id": "f_ca195668424c40",
@@ -1504,7 +1615,7 @@
       "url": "https://finnhub.io/api/news?id=f7443e852421173717a7ed6253ecab51154d7cc85c040fb5dc74d564679c39b2",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:38:00+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_2738076e18e477",
@@ -1538,7 +1649,7 @@
       "url": "https://finnhub.io/api/news?id=d874f20f50f6f9725d0e57fc5d538df475e30f20b42fc522ca7271c70cc31993",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:35:26+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_9e5071224a1fef",
@@ -1550,7 +1661,7 @@
       "url": "https://finnhub.io/api/news?id=dfe9a9daddc61e930e73fdc7d4831d2a7284d098aa824c2cf53a291da2ad0bf3",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:35:00+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_c5011a62c2b01a",
@@ -1562,7 +1673,20 @@
       "url": "https://finnhub.io/api/news?id=94bab40be32f3d51ca25e7939499fc8ea7d669b3c9ce0bb5839d57b2a8150a21",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:34:37+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
+    },
+    {
+      "id": "av_f930a95a4f3c2e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Blackstone Sees Earnings Boom Fueling AI, Infrastructure and Fundraising Growth",
+      "summary": "Blackstone is experiencing an earnings boom, driven by strong fundraising and investments in AI and infrastructure. The company reported over $260 billion in inflows in the past year and significant growth in infrastructure assets, with a focus on data centers, power, and frontie",
+      "url": "https://finance.yahoo.com/technology/ai/articles/blackstone-sees-earnings-boom-fueling-020231672.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T02:10:10+00:00",
+      "sentiment": 0.309968,
+      "change_pct": 0.82
     },
     {
       "id": "f_d61bb894cf8789",
@@ -1574,7 +1698,7 @@
       "url": "https://finnhub.io/api/news?id=e1b067cdebd286a09c755b80324c3948132d9ea7e471f850ea7a332ac99c971e",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:32:08+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_c403b309b81e49",
@@ -1586,7 +1710,7 @@
       "url": "https://finnhub.io/api/news?id=4aad60e2eb9fb515e97a498d6afc5f94c92ac06e307cb652c54c2fe2e3cbebde",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:29:00+00:00",
-      "change_pct": -3.49
+      "change_pct": -2.64
     },
     {
       "id": "f_77f9421f7b12c1",
@@ -1620,7 +1744,7 @@
       "url": "https://finnhub.io/api/news?id=78fcc0d2df6a23bf43b716a343e5a2f86d6d8276e2b07a8bbb08a92ec717ae2a",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:25:46+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_1ab9aded4fdd4d",
@@ -1632,7 +1756,7 @@
       "url": "https://finnhub.io/api/news?id=d482beeb474e179894b123a046b73bc22663aee97b28b03f648a00831a7abb7c",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:24:10+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_0d50f4517da947",
@@ -1644,7 +1768,7 @@
       "url": "https://finnhub.io/api/news?id=77ed5c97e94d02be00227b95d1dfd09327aed1528c47a02da8613fbaa1c4da4e",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:19:11+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_97907217e8cd7a",
@@ -1658,19 +1782,6 @@
       "published_at": "2026-09-16T14:17:57+00:00"
     },
     {
-      "id": "av_2e7ca7bd1e3a43",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Worthington Enterprises to hold investor day, renames segments",
-      "summary": "Worthington Enterprises (NYSE: WOR) will host an Investor and Analyst Day on November 10, 2026, to discuss its progress since the separation of its Steel Processing business and future growth opportunities. The company also announced it is renaming its Building Products segment t",
-      "url": "https://www.streetinsider.com/Corporate+News/Worthington+Enterprises+to+hold+investor+day,+renames+segments/27065050.html",
-      "source": "StreetInsider",
-      "published_at": "2026-09-16T08:19:28+00:00",
-      "sentiment": 0.149111,
-      "change_pct": 0.99
-    },
-    {
       "id": "f_846860b77944e1",
       "provider": "finnhub",
       "ticker": "MSFT",
@@ -1680,7 +1791,7 @@
       "url": "https://finnhub.io/api/news?id=b9df5dd42db6077b688cd3ed9c95f0a9162c7795d8faa43464cfc05f2f3c2cd6",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:16:25+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_d8f6c164e52996",
@@ -1703,7 +1814,7 @@
       "url": "https://finnhub.io/api/news?id=ae3acb16696935f77bb043c6ef31877018047b2c803005898999bc6433c9e5bb",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:15:00+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_1355e14ec4ab65",
@@ -1726,7 +1837,7 @@
       "url": "https://finnhub.io/api/news?id=2c35bb02e449984f64126cc67a6002adfa6f0e0698dcc4840989ed391b9cad96",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:14:58+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_210a8ea74f61ca",
@@ -1771,7 +1882,7 @@
       "url": "https://finnhub.io/api/news?id=25d62579eccdf740a4247f833641fe8b438f2b03097c2d1e2df4960bd7abb381",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:08:00+00:00",
-      "change_pct": 3.05
+      "change_pct": 3.61
     },
     {
       "id": "f_e54ccb078f6324",
@@ -1783,7 +1894,7 @@
       "url": "https://finnhub.io/api/news?id=3ccf004702d724977fba8a3bce750bf771f187cc2931c31a03dff6ae695797ed",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:08:00+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_7ddb1dabe65890",
@@ -1806,7 +1917,7 @@
       "url": "https://finnhub.io/api/news?id=722370364270cc00261fb26ced06fce38cfd6cf1d109aef2aeafd46ca399769c",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:05:27+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_f29dba5d164f07",
@@ -1829,7 +1940,7 @@
       "url": "https://finnhub.io/api/news?id=bd50ee287d0d3644e0a82ae33c65ce2dbfc5c6b9864e993fdc21baf327b4838e",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:02:53+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_addfca6281d7cc",
@@ -1852,7 +1963,18 @@
       "url": "https://finnhub.io/api/news?id=c759553d8f5bb1bd9c8de7b0e666b7c70b7de5d6eca9d6940d8d1d2db553870b",
       "source": "Yahoo",
       "published_at": "2026-09-16T14:00:45+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
+    },
+    {
+      "id": "f_f4a9f54ec4c383",
+      "provider": "finnhub",
+      "ticker": "IREN",
+      "category": "general",
+      "title": "Cipher Digital Surges 9% on Conditional ERCOT Status for 3.2 GW of Texas Capacity; Core Scientific Rises 4%, IREN Nudges Higher",
+      "summary": "Shares of Cipher Mining (NASDAQ:CIFR) are up 9% to $16.42 in early Wednesday trading after the Electric Reliability Council of Texas (ERCOT) disclosed conditional grid capacity covering 3.2 gigawatts across Cipher’s Texas projects. The disclosure came through the state grid operator’s Batch Zero process rather than through a company release, which is why the move […]",
+      "url": "https://finnhub.io/api/news?id=a804106a17ca35fd36d0b7532866c3757d90f4c8172003e3189c793eeb41447a",
+      "source": "Yahoo",
+      "published_at": "2026-09-16T14:00:43+00:00"
     },
     {
       "id": "f_66dc9a60f83d86",
@@ -1864,7 +1986,7 @@
       "url": "https://finnhub.io/api/news?id=233b1beda2860ffd8a0451e547650fed441ae9ebbf4a773ace2b7f50728e94ea",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:57:00+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_46c56ef8638b16",
@@ -1887,7 +2009,7 @@
       "url": "https://finnhub.io/api/news?id=c999a88c627a8ad4ddac66c2bdcae20077d5ad77331c1697a854956e0c05b3cf",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:55:16+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_3bc7dc07cd6af3",
@@ -1899,7 +2021,7 @@
       "url": "https://finnhub.io/api/news?id=05ec77374370974ce343b95f15b449bab1228d581bdbc467ce150352006310a7",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:55:00+00:00",
-      "change_pct": -0.55
+      "change_pct": -0.61
     },
     {
       "id": "f_d3c2928a82abd7",
@@ -1911,7 +2033,7 @@
       "url": "https://finnhub.io/api/news?id=75913fb2c44394d183af6c9c70e0bee4ccfe41f7c6e002c2842838eb9289280a",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:55:00+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_99779a004cea09",
@@ -1923,7 +2045,7 @@
       "url": "https://finnhub.io/api/news?id=281752a8209424f7be9eff53e8f244458319b0ea725ca28d2d702f52ad910b5e",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:51:14+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_3f94655ad43400",
@@ -1946,7 +2068,7 @@
       "url": "https://finnhub.io/api/news?id=504db1f6310ac56e42a4d07585e496d7704ae579975049356c1c03e7d2436430",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:50:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_aeb473206617dc",
@@ -1958,7 +2080,7 @@
       "url": "https://finnhub.io/api/news?id=a8ecb912e4218e055ac88a3871dfa716e1a6c9384f08fbe51d348c441a951e86",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:50:00+00:00",
-      "change_pct": -3.49
+      "change_pct": -2.64
     },
     {
       "id": "f_ef475c91f79ea1",
@@ -1981,7 +2103,7 @@
       "url": "https://finnhub.io/api/news?id=941e635f03cf933cbbeb371842d7821176794d077aec220c3d5f708d2006eeaa",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:49:27+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_535539ab3d0d87",
@@ -1993,7 +2115,7 @@
       "url": "https://finnhub.io/api/news?id=bb2299d426285182428b41151f2c512094af183b8745f718d78983ceee7b4ea0",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:45:00+00:00",
-      "change_pct": -3.49
+      "change_pct": -2.64
     },
     {
       "id": "f_f108196205bd2c",
@@ -2005,7 +2127,7 @@
       "url": "https://finnhub.io/api/news?id=0df9980bc7b3c01f125269b32b161a8833f4e6701cc9f36aa51d87ac148c069e",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:42:34+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_29e8e7d4159f17",
@@ -2017,7 +2139,7 @@
       "url": "https://finnhub.io/api/news?id=ddff306fc715f0be6ee611bd2372427c3d85127fdf08b4acbd3249e51c61b0d4",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:41:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_173a4841525d0c",
@@ -2029,7 +2151,7 @@
       "url": "https://finnhub.io/api/news?id=d4485437bdbb25eab7aa5b1cb32e77f6e248dd4cdfc25e701eaf76eee2e61b2c",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:40:11+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_6dc9062d5328d5",
@@ -2052,7 +2174,7 @@
       "url": "https://finnhub.io/api/news?id=1eeb2f88e475ccb1d4955a7450b972796fb1f1e467a9fe2d269693ea59603a40",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:39:01+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_8eee126b939c1f",
@@ -2064,7 +2186,7 @@
       "url": "https://finnhub.io/api/news?id=dbfa62a03cbde2601857e14d526d3214ae8e900f16dc73b2466f1b99a01f49aa",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:35:44+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_9000facff8d88e",
@@ -2076,7 +2198,7 @@
       "url": "https://finnhub.io/api/news?id=6a6f92361c971a07a699ee643ecfe61aea31318bcc2c4da9177cb87024a1de83",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:34:00+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_f7a54a8c66dfec",
@@ -2088,7 +2210,7 @@
       "url": "https://finnhub.io/api/news?id=43e4c4e2292e7561beee5ca58badc4d0cddacfdcc81cdf56dd458ccf58a6fa9d",
       "source": "SeekingAlpha",
       "published_at": "2026-09-16T13:31:50+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_a47b96165dc6f5",
@@ -2100,7 +2222,18 @@
       "url": "https://finnhub.io/api/news?id=fed714c3b839228ce5910d7766bf6e95d05c4f762e191a63af19a2cdb7cf311d",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:31:32+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
+    },
+    {
+      "id": "f_c0ec4bb6727117",
+      "provider": "finnhub",
+      "ticker": null,
+      "category": "analyst",
+      "title": "Israel, Morocco agree to upgrade diplomatic ties, Israeli government says - Reuters",
+      "summary": "Israel, Morocco agree to upgrade diplomatic ties, Israeli government says  Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUktRelVFeVlmRUh4NjlTNU5vVFNRZDBsaE9Wd2YybUlQYTNSY0NONXhUMjJEcTJzSnRjaWZNM2pNN0E4YnVyTVdLZVhOX2FmM0l1MXU2SU01NXR2aWw3bC1IY2lZM3BZbzZQQ01kN3loX09KU2x5dTd4RXl6cXU0TUd5eVppY3NSbXpibXBnRmxyeHJyUUtjME5FU2tBaHZyMDB4RXgyQ3E0dnh5X1lZY2oxOWpqQTdCQlJiZFZtYw?oc=5",
+      "source": "Reuters",
+      "published_at": "2026-09-16T20:11:13+00:00"
     },
     {
       "id": "f_5ee98cedd280aa",
@@ -2112,7 +2245,7 @@
       "url": "https://finnhub.io/api/news?id=835238fe33c4fb984aae318aff5aec49a1d32f1a0e8884bc72d5f3fb33e3e621",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:30:00+00:00",
-      "change_pct": 1.3
+      "change_pct": 0.46
     },
     {
       "id": "f_9e602b80262ab2",
@@ -2135,7 +2268,7 @@
       "url": "https://finnhub.io/api/news?id=708c8c357374ed44f136ca5d40951de7df1bdb050ccf685e0b0a0a1cb5b55741",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:25:03+00:00",
-      "change_pct": 0.26
+      "change_pct": 0.42
     },
     {
       "id": "f_f9cdc44f6dbbc8",
@@ -2147,7 +2280,7 @@
       "url": "https://finnhub.io/api/news?id=4fbadb3b4cb5846297a34b0a128c34fb903759c5997163ac6feb286f7cfe312b",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:25:00+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_53eb06a112810b",
@@ -2170,7 +2303,7 @@
       "url": "https://finnhub.io/api/news?id=fd34fe75e837f830f0e22363780673612aee122d7e5b0bdd11a6d5bbb709785c",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:22:23+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_45c363ab7468a1",
@@ -2182,7 +2315,20 @@
       "url": "https://finnhub.io/api/news?id=7088895872fcc95309c34202fd116a38b8ef79662bab397e7e09fd1dd04db035",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:18:52+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
+    },
+    {
+      "id": "av_1fe6ab74336c40",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI progress and responsibility: Nvidia, Anthropic and OpenAI CEOs weigh in at Salesforce’s annual event",
+      "summary": "Salesforce's annual Dreamforce conference hosted CEOs from Nvidia, Anthropic, and OpenAI, highlighting Salesforce's deepened commitment to AI and strategic partnerships. The event saw the launch of new AI products, including Koa (a reasoning model built with Nvidia) and AIforce (",
+      "url": "https://siliconangle.com/2026/09/15/ai-progress-and-responsibility-nvidia-anthropic-and-openai-ceos-weigh-in-at-salesforces-annual-event/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-15T23:46:14+00:00",
+      "sentiment": 0.338591,
+      "change_pct": 0.82
     },
     {
       "id": "f_c1a28122f0261f",
@@ -2194,7 +2340,7 @@
       "url": "https://finnhub.io/api/news?id=5fa3abef606559e2cfc82e6c77620ffcaa780951782107271c9b2634f3ce9b58",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:15:32+00:00",
-      "change_pct": 0.99
+      "change_pct": 0.82
     },
     {
       "id": "f_d2ca90c485559a",
@@ -2206,7 +2352,7 @@
       "url": "https://finnhub.io/api/news?id=287e03fdfb40672e0794a8fce81384d8857bce684ff3386e7ad4e9d987b4f6a7",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:15:00+00:00",
-      "change_pct": -0.83
+      "change_pct": -0.99
     },
     {
       "id": "f_036728486b816e",
@@ -2229,7 +2375,7 @@
       "url": "https://finnhub.io/api/news?id=f675456d2a87dac19b5ef4a3870d7527d43d2f1632f13983a12ca2f8d065ccb9",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:11:12+00:00",
-      "change_pct": -1.05
+      "change_pct": -1.37
     },
     {
       "id": "f_90e94c649d8ad9",
@@ -2241,153 +2387,11 @@
       "url": "https://finnhub.io/api/news?id=f269511f048dff6e355ace643aefc85bd414b1ca96675212da42603adeff58d5",
       "source": "Yahoo",
       "published_at": "2026-09-16T13:10:00+00:00",
-      "change_pct": -1.05
-    },
-    {
-      "id": "f_6bbe374a477808",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Prediction: This Is What a $5,000 Investment in Broadcom Will Be Worth by 2028",
-      "summary": "Broadcom's market position is perfect for the coming AI specialization.",
-      "url": "https://finnhub.io/api/news?id=96076bd10e4472e66b13f5a0f59713508a1f744f39d84adf51812003f5208006",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:08:00+00:00",
-      "change_pct": 0.99
-    },
-    {
-      "id": "av_1fe6ab74336c40",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI progress and responsibility: Nvidia, Anthropic and OpenAI CEOs weigh in at Salesforce’s annual event",
-      "summary": "Salesforce's annual Dreamforce conference hosted CEOs from Nvidia, Anthropic, and OpenAI, highlighting Salesforce's deepened commitment to AI and strategic partnerships. The event saw the launch of new AI products, including Koa (a reasoning model built with Nvidia) and AIforce (",
-      "url": "https://siliconangle.com/2026/09/15/ai-progress-and-responsibility-nvidia-anthropic-and-openai-ceos-weigh-in-at-salesforces-annual-event/",
-      "source": "SiliconANGLE",
-      "published_at": "2026-09-15T23:46:14+00:00",
-      "sentiment": 0.333355,
-      "change_pct": 0.99
-    },
-    {
-      "id": "f_61279354c238d6",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Lightstorm Vision Acquires Outsyders to Accelerate 3D Content Creation at Scale",
-      "summary": "MANHATTAN BEACH, Calif., September 16, 2026--James Cameron's Lightstorm Vision acquires Outsyders to combine AI-driven 3D technology and accelerate high-quality content creation at scale.",
-      "url": "https://finnhub.io/api/news?id=9c4df2f7edca133fac9969263720488097e9ca374d98e4f18f47eb34d353a574",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:05:00+00:00",
-      "change_pct": -0.55
-    },
-    {
-      "id": "f_1dd98abd8fe56e",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The White House Thinks the Fed Is About to Hike Into a Slowdown",
-      "summary": "The White House's top economist built a statistical case that inflation is already dead, presented it as a hypothetical dissenter's argument, then handed it to no one. Whether the Fed agrees tomorrow determines what the next chapter looks like for equity investors sitting on double-digit gains.",
-      "url": "https://finnhub.io/api/news?id=3bc70c812e946b79366f59dd2dd3a696cf95002522bd7701a42d88216d4b285e",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:30+00:00",
-      "change_pct": 0.99
-    },
-    {
-      "id": "f_c5d0e41891c9ac",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Meta's ChatGPT Moment Is Here",
-      "summary": "Meta Platforms, Inc. stock jumps 24% as Muse AI and Meta One open new revenue beyond ads. Click for this updated look at META stock.",
-      "url": "https://finnhub.io/api/news?id=ee835277d246667f103c3349f52b0451c6657ed9281d3ea0e44c80eab5d675b7",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-16T13:00:20+00:00",
-      "change_pct": 0.99
-    },
-    {
-      "id": "f_eeb4224d9833fb",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The AI Stock That Could Beat NVIDIA by 2027",
-      "summary": "AMD just handed OpenAI, Meta, and Anthropic gigawatt-scale reasons to abandon NVIDIA, and Lisa Su is making a bold promise about 2027 that Wall Street has not fully priced in yet.",
-      "url": "https://finnhub.io/api/news?id=b9a56a0ca8e9a078d12ec1d242be818fcd9abfe1950887d262d7928fd40598c5",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:16+00:00",
-      "change_pct": 0.99
-    },
-    {
-      "id": "f_08b7b704a43f8f",
-      "provider": "finnhub",
-      "ticker": "NBIS",
-      "category": "general",
-      "title": "3 AI Infrastructure Stocks Institutions Love but Most Retail Investors Never Heard Of",
-      "summary": "The cables, chips, and switches connecting AI clusters are now the bottleneck the entire industry is racing to fix, and three mid-cap names are positioned at exactly that chokepoint before most retail investors realize the opportunity exists.",
-      "url": "https://finnhub.io/api/news?id=e374764bd20f11f2966ab4610467d6766a00df729012097a45874813090659a4",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:16+00:00"
-    },
-    {
-      "id": "f_16faf4964f3186",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers",
-      "summary": "WASHINGTON, September 16, 2026--Global Technology Pioneers Emerald AI, Google, and NVIDIA Launch the AI Energy Management Alliance to Advance Flexible AI Data Centers",
-      "url": "https://finnhub.io/api/news?id=f7dfc4b03f04cc9b2851e1d62260a4913efd642f674e9ce798afbc70d6293828",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:00+00:00",
-      "change_pct": 0.99
-    },
-    {
-      "id": "f_49dc70fddf3ff1",
-      "provider": "finnhub",
-      "ticker": "META",
-      "category": "general",
-      "title": "Identity Named to 2026 Inc. 5000 List of America’s Fastest-Growing Private Companies",
-      "summary": "Multiple consecutive years of double-digit agency growth fueled by expanding national client portfolio and launch of new Tampa presenceBIRMINGHAM, Mich., Sept. 16, 2026 (GLOBE NEWSWIRE) -- Identity, one of the nation’s leading independent public relations, marketing and creative agencies, today announced its inclusion on the 2026 Inc. 5000, the annual list of the fastest-growing private companies in America. The list is the most prestigious ranking of the nation’s most successful independent and",
-      "url": "https://finnhub.io/api/news?id=a173b26eecdeb1816703131d198cf0a039aca12d8163c9feeea489e8b0efe82e",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:00+00:00",
-      "change_pct": 1.3
-    },
-    {
-      "id": "f_c4128d4ca9b6bf",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Dun & Bradstreet Powers Microsoft Copilot Studio and Dynamics 365 Agents with the D&B Commercial Graph",
-      "summary": "Dun & Bradstreet today announced new Model Context Protocol (MCP) integrations with Microsoft Copilot Studio and Microsoft Dynamics 365 Sales agents, enabling organizations to build and deploy AI agents grounded in business identity, relationships, and risk data. Clients can now use the D&B Commercial Graph™ to customize their own agentic workflows across finance & credit, compliance, sales & marketing, and enterprise master data management use cases in Microsoft Copilot Studio. The integration",
-      "url": "https://finnhub.io/api/news?id=0c7777cca6a7ebfd1781252c1d06c8991a0a52fe81cb4c041024fa5041c8c6d6",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:00+00:00",
-      "change_pct": -1.05
-    },
-    {
-      "id": "f_fa7013ed756c8b",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Former Infosys chief’s AI startup nabs another $53M",
-      "summary": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-      "url": "https://finnhub.io/api/news?id=b2416c074aa6323b9d5a9d5e6e55e657456fdb51b5a9a169720b75f6517561f2",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:00+00:00"
-    },
-    {
-      "id": "f_5749e7dd42ea1b",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "general",
-      "title": "Hang Ten Systems Raises Additional $53 Million Led by Xora, a Temasek-Backed Fund, Bringing Total Funding to $85 Million",
-      "summary": "MENLO PARK, Calif., September 16, 2026--Hang Ten Systems today announced an additional $53 million in seed funding led by Xora, a Temasek-backed fund, bringing total funding in the company to $85 million. Mayfield, which led the company’s first seed round, and Aramco Ventures also participated. Other investors in the company include Aramco Ventures; Lip-Bu Tan, CEO of Intel; Sanjay Mehrotra, chairman and CEO of Micron Technology; and Jerry Yang, co-founder of Yahoo! and founding partner of AME C",
-      "url": "https://finnhub.io/api/news?id=1628db0fe5f5a32af2b8be485aa117be94100f40ab6fb4b24648a6e2b88cf072",
-      "source": "Yahoo",
-      "published_at": "2026-09-16T13:00:00+00:00"
+      "change_pct": -1.37
     }
   ],
-  "fetched_at": "2026-09-16T19:06:41.798631+00:00",
+  "fetched_at": "2026-09-16T22:05:30.323394+00:00",
   "source_count": 4,
-  "translated_at": "2026-09-16T19:06:43.922861+00:00",
+  "translated_at": "2026-09-16T22:05:32.599030+00:00",
   "translation_engine": "google-parallel"
 }
