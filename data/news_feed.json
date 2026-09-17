@@ -10,7 +10,7 @@
       "url": "https://finnhub.io/api/news?id=a8cd86d22e3cb1981a7e067c4b47081fcef61313918e7f4b9e72f5b39b764913",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:26:35+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_eb96e492457185",
@@ -22,7 +22,7 @@
       "url": "https://finnhub.io/api/news?id=b5bc9c40bb806ad44bbed209f95dad87bd62917060f43b1230d85b704745617f",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T13:15:31+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_ed58c52ed4ddc3",
@@ -45,7 +45,7 @@
       "url": "https://finnhub.io/api/news?id=73e12dba546ef59f77e9756e020dfbb1d2f2768cbf0348efea7d8f2f145240a1",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:55:55+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_d6461971bbfce5",
@@ -59,6 +59,17 @@
       "published_at": "2026-09-17T07:01:00+00:00"
     },
     {
+      "id": "f_80efb42c570f83",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "analyst",
+      "title": "SK hynix Could Be The Catalyst Intel Foundry Needs (Rating Upgrade)",
+      "summary": "Intel Corporation is rated a Speculative Buy, and the rumored SK hynix Inc. deal could support the Ohio foundry. Read more on INTC stock here.",
+      "url": "https://finnhub.io/api/news?id=fb27650eb491973c4390966297e2592051bfddcb48d33192f813d330221dd153",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-17T15:10:31+00:00"
+    },
+    {
       "id": "f_580613553ec99b",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -68,7 +79,7 @@
       "url": "https://finnhub.io/api/news?id=618e749b92ba5ebb35884d35db4870ba5fae1d641a26a90fff36a3aa04717064",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:51:25+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_79ef51cb844f4a",
@@ -80,7 +91,20 @@
       "url": "https://finnhub.io/api/news?id=2dd3fd2b95ccd0bc3aa7953041e37d82c839f8d2ecbfa1a5fe60f30ed2728f1b",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T12:39:57+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_2f2445c7beecd6",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia, Google and Emerald AI launch flexible data center consortium",
+      "summary": "Nvidia, Google, and Emerald AI have formed the AI Energy Management Alliance (AEMA) to promote and standardize flexible data centers. These facilities can reduce their power consumption during peak demand or even feed power back into the grid using on-site batteries, optimizing e",
+      "url": "https://siliconangle.com/2026/09/17/nvidia-google-and-emerald-ai-launch-flexible-data-center-consortium/",
+      "source": "SiliconANGLE",
+      "published_at": "2026-09-17T20:40:04+00:00",
+      "sentiment": 0.447001,
+      "change_pct": 2.54
     },
     {
       "id": "f_18cab9050464b9",
@@ -92,7 +116,7 @@
       "url": "https://finnhub.io/api/news?id=ea0eee0beb2a3c2f8ce81ea63019c3b744fd098b413cccef55caff0591e1bace",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:26:25+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_7e103272bd020a",
@@ -104,7 +128,7 @@
       "url": "https://finnhub.io/api/news?id=92ef61a28484e39e2b1664bc9dcdbe4fa2ae328dfdea03e51c6eb9aa4a7f7541",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:16:04+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
     },
     {
       "id": "f_c0728da6d75b85",
@@ -118,6 +142,19 @@
       "published_at": "2026-09-17T10:41:23+00:00"
     },
     {
+      "id": "av_43dfd7d4a49635",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year",
+      "summary": "Nvidia CEO Jensen Huang announced that the company expects to double its chip sales next year, driven by the significant contributions of AI across various industries and economies. This forecast follows the company's recent projection of 70% growth for the fiscal year ending in ",
+      "url": "https://www.cnbc.com/2026/09/17/nvidia-huang-ai-chip-guidance.html",
+      "source": "CNBC",
+      "published_at": "2026-09-17T18:09:12+00:00",
+      "sentiment": 0.445167,
+      "change_pct": 2.54
+    },
+    {
       "id": "av_42170dfbd38dfd",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -127,8 +164,8 @@
       "url": "https://www.webwire.com/ViewPressRel.asp?aId=360626",
       "source": "WebWire",
       "published_at": "2026-09-17T15:23:38+00:00",
-      "sentiment": 0.527415,
-      "change_pct": 2.77
+      "sentiment": 0.528118,
+      "change_pct": 2.54
     },
     {
       "id": "f_73704b8c1cd148",
@@ -140,7 +177,7 @@
       "url": "https://finnhub.io/api/news?id=5f4ce671b50ebaa102ac50a24bad5212b70b6456b06fe521e79b0264e72e4e62",
       "source": "Benzinga",
       "published_at": "2026-09-17T08:25:57+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_f30134edafe9ca",
@@ -154,17 +191,43 @@
       "published_at": "2026-09-17T06:29:48+00:00"
     },
     {
-      "id": "av_5a41b59fa8924e",
+      "id": "av_5eac0a59bd3d46",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Chief Risk Officer Trims Holdings of Fintech Stock, Sells 2,097 Shares for $110,428",
-      "summary": "PayPal's Chief Risk Officer, Aaron Webster, sold 2,097 shares for $110,428 as a non-discretionary tax withholding event following restricted stock unit vesting. Despite the sale, his direct equity holdings in PayPal increased. The article also notes PayPal's significant stock und",
-      "url": "https://currently.att.yahoo.com/att/chief-risk-officer-trims-holdings-160001589.html",
+      "title": "Why Investors May Want to Buy Procter & Gamble if Consumer Spending Cools",
+      "summary": "As consumer confidence declines, investors may seek resilient stocks. Procter & Gamble (PG) is presented as a strong candidate due to its 70-year history of dividend increases, well-funded dividends, and diversified portfolio of essential consumer staples. Its current stock price",
+      "url": "https://currently.att.yahoo.com/att/why-investors-may-want-buy-190100459.html",
       "source": "Currently.com",
-      "published_at": "2026-09-17T16:00:00+00:00",
-      "sentiment": 0.24922,
-      "change_pct": 2.77
+      "published_at": "2026-09-17T19:01:14+00:00",
+      "sentiment": 0.337813,
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_fbea3727655c13",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "MediaTek Stock Surpasses Qualcomm (NASDAQ: QCOM) In Market Cap As Dimensity 9600 Pro Targets Premium Smartphone Turf",
+      "summary": "MediaTek's market capitalization has surpassed Qualcomm's, with MediaTek reaching $223 billion compared to Qualcomm's $200.6 billion. This lead is further extended by MediaTek's new Dimensity 9600 Pro processor, built on TSMC's 2-nanometer process, which targets the premium smart",
+      "url": "https://www.foreignpolicyjournal.com/2026/09/17/mediatek-stock-surpasses-qualcomm-nasdaq-qcom-in-market-cap-as-dimensity-9600-pro-targets-premium-smartphone-turf/",
+      "source": "Foreign Policy Journal",
+      "published_at": "2026-09-17T17:09:35+00:00",
+      "sentiment": 0.321345,
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_ecaf6ba79d920f",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Is Hubbell Stock Underperforming the Nasdaq?",
+      "summary": "Hubbell Incorporated (HUBB), a large-cap company specializing in electrical and utility solutions, has underperformed the Nasdaq Composite in recent months and over the past year. Despite a strong market position and robust demand in certain sectors, investor concerns over margin",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hubbell-stock-underperforming-nasdaq-120221790.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-17T12:02:00+00:00",
+      "sentiment": 0.318,
+      "change_pct": 2.54
     },
     {
       "id": "av_6b0fcdb1690da6",
@@ -176,8 +239,21 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-awesome-company-stock-priced-152847132.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-17T15:39:49+00:00",
-      "sentiment": -0.219268,
-      "change_pct": 2.77
+      "sentiment": -0.223539,
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_5a41b59fa8924e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Chief Risk Officer Trims Holdings of Fintech Stock, Sells 2,097 Shares for $110,428",
+      "summary": "PayPal's Chief Risk Officer, Aaron Webster, sold 2,097 shares for $110,428 as a non-discretionary tax withholding event following restricted stock unit vesting. Despite the sale, his direct equity holdings in PayPal increased. The article also notes PayPal's significant stock und",
+      "url": "https://currently.att.yahoo.com/att/chief-risk-officer-trims-holdings-160001589.html",
+      "source": "Currently.com",
+      "published_at": "2026-09-17T16:00:00+00:00",
+      "sentiment": 0.214104,
+      "change_pct": 2.54
     },
     {
       "id": "av_e91f924e8044a9",
@@ -189,21 +265,8 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-sets-63-billion-fiscal-111846987.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-17T11:19:19+00:00",
-      "sentiment": 0.309984,
-      "change_pct": 2.77
-    },
-    {
-      "id": "av_e7b34be7aca1b0",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Prediction: ExxonMobil's Low-Carbon Bets Finally Show Up in Guidance by 2027",
-      "summary": "ExxonMobil plans to invest $20 billion in lower-emission projects between 2025 and 2030, with these ventures, including carbon capture and storage (CCS), lithium, and carbon materials, projected to generate over $1 billion in annual earnings by 2030. The author predicts that by 2",
-      "url": "https://finance.yahoo.com/energy/articles/prediction-exxonmobils-low-carbon-bets-140500028.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-17T14:05:40+00:00",
-      "sentiment": 0.224212,
-      "change_pct": 2.77
+      "sentiment": 0.309431,
+      "change_pct": 2.54
     },
     {
       "id": "av_629baa1cc61e9a",
@@ -215,8 +278,21 @@
       "url": "https://finance.yahoo.com/markets/stocks/articles/micron-jumps-5-intel-ceo-153804720.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-17T10:38:00+00:00",
-      "sentiment": 0.303844,
-      "change_pct": 2.77
+      "sentiment": 0.312051,
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_e7b34be7aca1b0",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Prediction: ExxonMobil's Low-Carbon Bets Finally Show Up in Guidance by 2027",
+      "summary": "ExxonMobil plans to invest $20 billion in lower-emission projects between 2025 and 2030, with these ventures, including carbon capture and storage (CCS), lithium, and carbon materials, projected to generate over $1 billion in annual earnings by 2030. The author predicts that by 2",
+      "url": "https://finance.yahoo.com/energy/articles/prediction-exxonmobils-low-carbon-bets-140500028.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-17T14:05:40+00:00",
+      "sentiment": 0.210314,
+      "change_pct": 2.54
     },
     {
       "id": "av_6f4cd32087b204",
@@ -228,21 +304,21 @@
       "url": "https://www.marketbeat.com/instant-alerts/filing-international-business-machines-corporation-ibm-shares-purchased-by-allworth-financial-lp-2026-09-17/",
       "source": "MarketBeat",
       "published_at": "2026-09-17T07:16:40+00:00",
-      "sentiment": 0.326772,
-      "change_pct": 2.77
+      "sentiment": 0.339407,
+      "change_pct": 2.54
     },
     {
-      "id": "av_ec7d16f2c6ece5",
+      "id": "av_2af66ae7628f19",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Jensen Huang Says Hyperscalers Get This ‘Almost Always Wrong’ — Nvidia Has a Workaround",
-      "summary": "Nvidia CEO Jensen Huang believes hyperscalers are \"almost always wrong\" in their capacity planning due to the rapidly changing AI market and their annual planning cycles. To address this, Nvidia is focusing on building a vast network of nimble regional cloud providers, which can ",
-      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-hyperscalers-almost-003032752.html",
+      "title": "GlobalFoundries and Marvell expand collaboration for next-generation optical connectivity",
+      "summary": "GlobalFoundries (GF) and Marvell Technology, Inc. announced an expanded multi-year agreement to increase capacity for GF's silicon germanium (SiGe) technology. This collaboration aims to support the growing demand for next-generation optical connectivity, particularly crucial for",
+      "url": "https://finance.yahoo.com/technology/ai/articles/globalfoundries-marvell-expand-collaboration-next-123500628.html",
       "source": "Yahoo Finance",
-      "published_at": "2026-09-17T00:39:58+00:00",
-      "sentiment": 0.465421,
-      "change_pct": 2.77
+      "published_at": "2026-09-17T12:10:44+00:00",
+      "sentiment": 0.216456,
+      "change_pct": 2.54
     },
     {
       "id": "av_d4d87cf773dac9",
@@ -254,8 +330,62 @@
       "url": "https://finance.yahoo.com/technology/ai/articles/advanced-micro-devices-amd-expands-141337545.html",
       "source": "Yahoo Finance",
       "published_at": "2026-09-17T14:13:00+00:00",
-      "sentiment": -0.111188,
-      "change_pct": 2.77
+      "sentiment": -0.132786,
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_25107557bd8dbc",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Jonathan Ackerman Buys 1,000 Shares of Lsb Industries (NYSE:LXU) Stock",
+      "summary": "Jonathan Ackerman, a director at LSB Industries (NYSE:LXU), recently purchased 1,000 shares of the company's stock for $11.30 per share, increasing his total holdings by 9.75% to 11,252 shares. This insider buying comes despite the company missing analyst consensus on earnings pe",
+      "url": "https://www.marketbeat.com/instant-alerts/insider-jonathan-ackerman-buys-1000-shares-of-lsb-industries-nyse-lxu-stock-2026-09-17/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-17T13:23:26+00:00",
+      "sentiment": 0.146829,
+      "change_pct": 2.54
+    },
+    {
+      "id": "f_39d51349bfed98",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
+      "summary": "Curious about the top performers within the dow jones index one hour before the close of the markets on Thursday? Dive into the list of today's session's top gainers and losers for a comprehensive overview.",
+      "url": "https://finnhub.io/api/news?id=dfb76a66e1436e85948b341453048bdf27d660ffca2da6ee1a728671127df0b6",
+      "source": "ChartMill",
+      "published_at": "2026-09-17T19:10:06+00:00",
+      "change_pct": 2.54,
+      "title_kr": "목요일에 어떤 다우존스 주식이 파도를 일으키고 있는지 알아보세요.",
+      "summary_kr": "오늘 세션에서 다우존스 주식의 움직임에 대한 최신 정보를 받아보세요. 목요일에 어떤 다우존스 주식이 파도를 일으키고 있는지 알아보세요."
+    },
+    {
+      "id": "f_cf2fd8d499598b",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "What's going on in today's session: S&P500 movers",
+      "summary": "Curious about the top performers within the S&P500 index one hour before the close of the markets on Thursday? Dive into the list of today's session's top gainers and losers for a comprehensive overview.",
+      "url": "https://finnhub.io/api/news?id=55f31429d3f26aac53f71cf95d0c731361353e893a3ade3b59802a6b3e5e7d80",
+      "source": "ChartMill",
+      "published_at": "2026-09-17T19:05:01+00:00",
+      "change_pct": 6.36,
+      "title_kr": "오늘 세션의 내용: S&P500 변동자",
+      "summary_kr": "오늘 세션의 최신 동향을 조사하면서 수요일 정오에 S&P500 지수 내 최고 상승자와 하락자를 탐색하는 데 참여하세요."
+    },
+    {
+      "id": "av_ec7d16f2c6ece5",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Jensen Huang Says Hyperscalers Get This ‘Almost Always Wrong’ — Nvidia Has a Workaround",
+      "summary": "Nvidia CEO Jensen Huang believes hyperscalers are \"almost always wrong\" in their capacity planning due to the rapidly changing AI market and their annual planning cycles. To address this, Nvidia is focusing on building a vast network of nimble regional cloud providers, which can ",
+      "url": "https://finance.yahoo.com/technology/ai/articles/jensen-huang-says-hyperscalers-almost-003032752.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-17T00:39:58+00:00",
+      "sentiment": 0.457786,
+      "change_pct": 2.54
     },
     {
       "id": "f_b0ef8e4c6e49ed",
@@ -267,7 +397,7 @@
       "url": "https://finnhub.io/api/news?id=0d852bd60c8de3c6239685cf2705b7e360785db1df8879cd5d21e530331f5afd",
       "source": "ChartMill",
       "published_at": "2026-09-17T18:05:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_7fb3bdf0782c6b",
@@ -283,6 +413,31 @@
       "summary_kr": "오늘 세션에서 가장 활발한 주식이 궁금하신가요? 가장 높은 거래량을 생성하고 시장의 관심을 끌고 있는 주식을 살펴보세요."
     },
     {
+      "id": "av_be0ceb688eec83",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Capital Analysts LLC Buys 7,892 Shares of International Business Machines Corporation $IBM",
+      "summary": "Capital Analysts LLC increased its stake in International Business Machines (IBM) by 55.4% in Q2, acquiring 7,892 additional shares, bringing its total holding to $6.23 million. Despite meeting EPS estimates, IBM's revenue of $17.16 billion fell short of expectations, though it s",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-analysts-llc-buys-7892-shares-of-international-business-machines-corporation-ibm-2026-09-17/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-17T07:54:39+00:00",
+      "sentiment": 0.24822,
+      "change_pct": 2.54
+    },
+    {
+      "id": "f_3c3233b22a9f23",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "general",
+      "title": "Wall Street Breakfast With Steven Cress (Generac, Amazon, Powell, Kroger)",
+      "summary": "Steven Cress highlights the day's top stocks from a Quant perspective.",
+      "url": "https://finnhub.io/api/news?id=3c31abe1f83ec660d5bd379baca449bf1ab93f6234e714b3027b0eb34d80871b",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-17T17:50:00+00:00",
+      "change_pct": 2.13
+    },
+    {
       "id": "av_d8de7712f10497",
       "provider": "alphavantage",
       "ticker": "NVDA",
@@ -292,8 +447,21 @@
       "url": "https://www.marketbeat.com/instant-alerts/upcoming-tamboran-resources-tbn-projected-to-release-earnings-on-thursday-2026-09-17/",
       "source": "MarketBeat",
       "published_at": "2026-09-17T05:16:32+00:00",
-      "sentiment": 0.313039,
-      "change_pct": 2.77
+      "sentiment": 0.313719,
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_48fee41513c381",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "RiverPark Advisors LLC Sells 5,215 Shares of NVIDIA Corporation $NVDA",
+      "summary": "RiverPark Advisors LLC reduced its stake in NVIDIA Corporation by 17.9%, selling 5,215 shares but still holding 23,919 shares valued at $4.8 million. Despite this sale, NVIDIA continues to show strong financial performance with impressive revenue growth and analysts maintaining a",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-riverpark-advisors-llc-sells-5215-shares-of-nvidia-corporation-nvda-2026-09-17/",
+      "source": "MarketBeat",
+      "published_at": "2026-09-17T07:42:42+00:00",
+      "sentiment": 0.232676,
+      "change_pct": 2.54
     },
     {
       "id": "av_a1a6dc027427b5",
@@ -305,8 +473,19 @@
       "url": "https://www.cnbc.com/2026/09/16/snap-enterprise-ai-service.html",
       "source": "CNBC",
       "published_at": "2026-09-16T23:39:37+00:00",
-      "sentiment": 0.448195,
-      "change_pct": 2.77
+      "sentiment": 0.430447,
+      "change_pct": 2.54
+    },
+    {
+      "id": "f_41079aae032b9b",
+      "provider": "finnhub",
+      "ticker": "MU",
+      "category": "general",
+      "title": "Micron And The Memory Bottleneck",
+      "summary": "Micron Technology, Inc. benefits from the AI memory boom as the top US DRAM/HBM supplier. Click for this MU stock update and earnings preview.",
+      "url": "https://finnhub.io/api/news?id=e8835dbc6cf9a961c6bb02f393a1d12ffde10628584ebd1168c097f37fa72d7f",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-17T16:46:48+00:00"
     },
     {
       "id": "av_2293502bfa6040",
@@ -318,8 +497,8 @@
       "url": "https://app.dealroom.co/news/note/applied-materials-commits-5b-to-india-as-chip-gear-firms-expand",
       "source": "Dealroom",
       "published_at": "2026-09-17T07:56:55+00:00",
-      "sentiment": 0.227875,
-      "change_pct": 2.77
+      "sentiment": 0.218466,
+      "change_pct": 2.54
     },
     {
       "id": "f_50e2cd42bae3f9",
@@ -331,7 +510,7 @@
       "url": "https://finnhub.io/api/news?id=19743c4c516fff44e17aef6ad8aee7e45aa5ec507e86f2f5d35e75dfae85174e",
       "source": "ChartMill",
       "published_at": "2026-09-17T16:40:06+00:00",
-      "change_pct": 2.77,
+      "change_pct": 2.54,
       "title_kr": "다우존스 주식은 오늘 세션에서 움직이고 있습니다",
       "summary_kr": "금요일에 움직이는 다우존스 주식에 대해 궁금하십니까? 오늘 세션에서 다우존스 지수 내 최고 변동 항목을 살펴보는 데 참여해 보세요."
     },
@@ -345,33 +524,32 @@
       "url": "https://finnhub.io/api/news?id=2ae71ea05c4d1337063e8d099cfe308a3853565c30d4784938de59879582fdee",
       "source": "ChartMill",
       "published_at": "2026-09-17T16:35:01+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
     },
     {
-      "id": "av_be0ceb688eec83",
+      "id": "f_862c8e43646dde",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Palantir Stock: The AI Token Boom Is Hiding A Bigger Opportunity",
+      "summary": "AI labsâ revenue rides token consumptionâyet uncontrolled use can waste spend. Click for what this means for Palantir Technologies Inc. and PLTR stock.",
+      "url": "https://finnhub.io/api/news?id=a7c3a965b417831579c2e300db6fcb4cf5bd3b1d162242246505248f06a7b5a1",
+      "source": "SeekingAlpha",
+      "published_at": "2026-09-17T16:02:45+00:00",
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_78048da20617bf",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "Capital Analysts LLC Buys 7,892 Shares of International Business Machines Corporation $IBM",
-      "summary": "Capital Analysts LLC increased its stake in International Business Machines (IBM) by 55.4% in Q2, acquiring 7,892 additional shares, bringing its total holding to $6.23 million. Despite meeting EPS estimates, IBM's revenue of $17.16 billion fell short of expectations, though it s",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-capital-analysts-llc-buys-7892-shares-of-international-business-machines-corporation-ibm-2026-09-17/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-17T07:54:39+00:00",
-      "sentiment": 0.209603,
-      "change_pct": 2.77
-    },
-    {
-      "id": "av_48fee41513c381",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "RiverPark Advisors LLC Sells 5,215 Shares of NVIDIA Corporation $NVDA",
-      "summary": "RiverPark Advisors LLC reduced its stake in NVIDIA Corporation by 17.9%, selling 5,215 shares but still holding 23,919 shares valued at $4.8 million. Despite this sale, NVIDIA continues to show strong financial performance with impressive revenue growth and analysts maintaining a",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-riverpark-advisors-llc-sells-5215-shares-of-nvidia-corporation-nvda-2026-09-17/",
-      "source": "MarketBeat",
-      "published_at": "2026-09-17T07:42:42+00:00",
-      "sentiment": 0.200441,
-      "change_pct": 2.77
+      "title": "Arista Networks highlighted as Zacks Bull and Yum! Brands Bear of the Day",
+      "summary": "Zacks Equity Research has named Arista Networks (ANET) as its Bull of the Day due to its strong performance in AI infrastructure, significant revenue and earnings growth, and robust outlook. Conversely, Yum! Brands (YUM), parent company of KFC and Taco Bell, is designated as the ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-highlighted-zacks-bull-123700090.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T12:37:44+00:00",
+      "sentiment": 0.521802,
+      "change_pct": 2.54
     },
     {
       "id": "f_fc176cc3ff7334",
@@ -383,7 +561,7 @@
       "url": "https://finnhub.io/api/news?id=09eaf33cb240fc920c3286d95f68b6c0c1fc399a616d3eb99dd6476d714abc91",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T14:06:28+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_166c4be3fcfd92",
@@ -395,7 +573,7 @@
       "url": "https://finnhub.io/api/news?id=f46086f78b26ca4653489c57be690d52c9c36258ecad07adb12416985611277d",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:45:29+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_c079f4bb2d1042",
@@ -407,7 +585,7 @@
       "url": "https://finnhub.io/api/news?id=ff0975d5493a70beeb0ece2c57bb502fb6e36f4018b49349a2fb83fc447db0de",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:44:08+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_f3341c901de382",
@@ -419,7 +597,7 @@
       "url": "https://finnhub.io/api/news?id=6f962f6fc486fc7d539e57dbf56f6a4806be83a6b78af1e35379b3ebd9c281bc",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:40:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_de78fb53681c98",
@@ -431,7 +609,7 @@
       "url": "https://finnhub.io/api/news?id=5c3807256e45c6ed61cc11894d6e335e2a8c84d8a93a9dd04600f08a9bc93285",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:34:52+00:00",
-      "change_pct": 4.21
+      "change_pct": 4.81
     },
     {
       "id": "f_cf2dffbd86eb98",
@@ -443,7 +621,7 @@
       "url": "https://finnhub.io/api/news?id=7cff0bd6add3b1bd8a575714636ca71eb8dcd261a25d137537a06f01a963d15a",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:30:15+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_bb58b38b566f89",
@@ -466,7 +644,7 @@
       "url": "https://finnhub.io/api/news?id=7ee30d2e981fec9257bea5fdd23fee43371a3394a875c5f79891f93ddff4ba3c",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:28:20+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_8ec4681e6ba0f6",
@@ -478,7 +656,7 @@
       "url": "https://finnhub.io/api/news?id=1dff00d991d3d47ee291f409c275eb18d559667f6cb443cc6473a3939b7f44fa",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:27:00+00:00",
-      "change_pct": 4.21
+      "change_pct": 4.81
     },
     {
       "id": "f_33e52ac4e2dd8e",
@@ -490,7 +668,7 @@
       "url": "https://finnhub.io/api/news?id=a0ff60c1bca66d9dcc49d24521bdbaa5ed7e865a1cb4df4318ab4f73a828bbad",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:24:33+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_eccb2fc5462e6c",
@@ -502,7 +680,7 @@
       "url": "https://finnhub.io/api/news?id=d7a3d2a0bc6a3829a274a817f409735717d64b0b441073ae374abb49fe80b1cf",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:22:29+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_11f77da0cc584e",
@@ -569,7 +747,7 @@
       "url": "https://finnhub.io/api/news?id=6074eb73570f9986d897fa15f12d523d3a9caf77f39b1e5aec1dd112d59c6991",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:09:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_e3f6c89a0f8816",
@@ -581,7 +759,7 @@
       "url": "https://finnhub.io/api/news?id=90a85331445eca7d2fd6b1ab2e98f333189b9711528e69362d07e08f50986163",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:09:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_b871b9b6ab1012",
@@ -593,7 +771,7 @@
       "url": "https://finnhub.io/api/news?id=1b404f911b745585bf9efd0c4e2abd38e41fb6f456e5e1408dedb6a168b93fa0",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:00:35+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_e9929367c71d9b",
@@ -605,7 +783,7 @@
       "url": "https://finnhub.io/api/news?id=411d70f93b6a2bffe9e6512c7caada364c49534091a9f9ff74a1fdb32298068c",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T13:00:26+00:00",
-      "change_pct": 6.62
+      "change_pct": 6.36
     },
     {
       "id": "f_a04f4d323c49bf",
@@ -617,7 +795,7 @@
       "url": "https://finnhub.io/api/news?id=564117f8d85821b516cd6e29c186ea01e2712d7148256dcc31afb593481f6840",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:00:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_a6c83ece067c15",
@@ -629,7 +807,7 @@
       "url": "https://finnhub.io/api/news?id=73eb6ceda7da317bb33307df6e8c3a339d66c002e6db00fb5567c8492bf8f197",
       "source": "Yahoo",
       "published_at": "2026-09-17T13:00:00+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_31c289d31f199a",
@@ -641,7 +819,7 @@
       "url": "https://finnhub.io/api/news?id=3694e53f93ec01777017c2db88674a4d66f954f10accafdfc4de487673111c86",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:57:19+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_165dd923768c7a",
@@ -653,7 +831,7 @@
       "url": "https://finnhub.io/api/news?id=a729b9ee706afbcfbb75d7af45b2d3f8ab29cb4b211da9d5f3733bd2ffcd4109",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:55:14+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_c33ca58ba9bfc3",
@@ -665,7 +843,20 @@
       "url": "https://finnhub.io/api/news?id=d526efd0ef9b847648e39e5f04a94f1d73ff0ad0d51943daa525f0281b794644",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:50:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_612b3c571d9f9e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "CoreWeave shares climb as Nvidia Rubin cluster goes online",
+      "summary": "CoreWeave Inc. shares climbed after the AI cloud provider deployed a multi-rack Nvidia Vera Rubin NVL72 cluster and introduced new storage capabilities. This deployment integrates hundreds of Nvidia Rubin GPUs into a single cluster designed for agentic AI workloads, enhancing tra",
+      "url": "https://ca.finance.yahoo.com/news/coreweave-shares-climb-nvidia-rubin-150900684.html",
+      "source": "Yahoo! Finance Canada",
+      "published_at": "2026-09-16T14:40:48+00:00",
+      "sentiment": 0.428692,
+      "change_pct": 2.54
     },
     {
       "id": "f_e7a00efe47ce2e",
@@ -677,20 +868,7 @@
       "url": "https://finnhub.io/api/news?id=f71cdd236f85bac47ec055f525ea6914f2d0d03ab0714fb943b742bee4b4677a",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:44:45+00:00",
-      "change_pct": 2.43
-    },
-    {
-      "id": "av_78048da20617bf",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Arista Networks highlighted as Zacks Bull and Yum! Brands Bear of the Day",
-      "summary": "Zacks Equity Research has named Arista Networks (ANET) as its Bull of the Day due to its strong performance in AI infrastructure, significant revenue and earnings growth, and robust outlook. Conversely, Yum! Brands (YUM), parent company of KFC and Taco Bell, is designated as the ",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arista-networks-highlighted-zacks-bull-123700090.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T12:37:44+00:00",
-      "sentiment": 0.510093,
-      "change_pct": 2.77
+      "change_pct": 2.27
     },
     {
       "id": "f_c4e7a98f983948",
@@ -702,7 +880,7 @@
       "url": "https://finnhub.io/api/news?id=58923a5803894cf5828a2df0a1a42806f160f9b7b7441756b5734a0d7e17bf8d",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:37:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_182925262518ab",
@@ -714,7 +892,7 @@
       "url": "https://finnhub.io/api/news?id=79297d4ba8c67746e1ab4669964a024be87599dc02da183ce972a67432a4ae14",
       "source": "ChartMill",
       "published_at": "2026-09-17T12:35:01+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
     },
     {
       "id": "f_8eca9f74fe82a0",
@@ -748,7 +926,20 @@
       "url": "https://finnhub.io/api/news?id=fdea7701a4e06f8cb39babf83e8bb211c6bd0eea0e9dcc0cac409f28352dcdec",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:30:14+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
+    },
+    {
+      "id": "av_a2ac2ae43257ac",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "AI Safety Could Mean More Nvidia GPU Demand, Not Less, SemiAnalysis Says",
+      "summary": "SemiAnalysis suggests that increasing AI safety measures could lead to higher, not lower, demand for Nvidia GPUs. The firm argues that AI safety, alignment, monitoring, and interpretability require substantial computing power, and that advanced AI could also reshape cybersecurity",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-safety-could-mean-more-135336996.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T13:54:01+00:00",
+      "sentiment": 0.42169,
+      "change_pct": 2.54
     },
     {
       "id": "f_63c73151c233d8",
@@ -760,7 +951,7 @@
       "url": "https://finnhub.io/api/news?id=a753dc5a4f4d819d3c0f93adcc0f39644efef079d556a56c228fdeef0f85d6d1",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:23:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_4fc5833a739427",
@@ -772,7 +963,7 @@
       "url": "https://finnhub.io/api/news?id=bde01a5da090ad57f51ebd982f38d0e3ab338674bfbc4cd21ce27cdedd7984d8",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:22:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_6d69cb54ce62ff",
@@ -806,7 +997,7 @@
       "url": "https://finnhub.io/api/news?id=60cf3b5ef4d805d139cf33ca0fe1b4de517b3f0f6e4b8441477a8609d8bcd86b",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:16:29+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_481f81c3593985",
@@ -818,7 +1009,7 @@
       "url": "https://finnhub.io/api/news?id=e59c4b8f9801ea000af134d61b1ba62c935cc0acdc7e49c4dc0d021740d99a09",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T12:13:33+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_5c0c54c656efd9",
@@ -830,7 +1021,7 @@
       "url": "https://finnhub.io/api/news?id=bb75741de20347cbd93888dd04636ec24ce1f2e46a9290263fe2f84447294914",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:12:30+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_fd79d6d91868c2",
@@ -842,7 +1033,7 @@
       "url": "https://finnhub.io/api/news?id=b0efdc54b0192370dadb94c458c3240e25cc4c86a7b9dfc8849a3002dc5587f9",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:12:00+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_ea11731158db3a",
@@ -854,7 +1045,7 @@
       "url": "https://finnhub.io/api/news?id=8ea4b22479022b3bdac72e4ed7aa34d40dbe08ac11ecb6f778263a10d6866f45",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:11:54+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_ae8cc1d17e2a28",
@@ -866,7 +1057,7 @@
       "url": "https://finnhub.io/api/news?id=44e080bf1d26e4f844b2bbc7dbc0f78b51541994f1f9c25a0d2062d6516f8d60",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:11:47+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_9f5ece1cd657a2",
@@ -878,7 +1069,7 @@
       "url": "https://finnhub.io/api/news?id=38511e139416253ef546439f35b4217c6fbb4d237681ab3a96555c3fa10e6d00",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T12:11:18+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_52459083ba5404",
@@ -890,7 +1081,7 @@
       "url": "https://finnhub.io/api/news?id=bb88e73468ed70502d007957445affb1fcc9e0b2bc80606d1322f2dbc8e68d0b",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:11:06+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_2d11e83c7e93d7",
@@ -913,7 +1104,7 @@
       "url": "https://finnhub.io/api/news?id=97b07305964d994b071aa61a3cdb0382caff51a1b89ff029452cb7dfe3105109",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:05:01+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_d49888f4924219",
@@ -925,7 +1116,7 @@
       "url": "https://finnhub.io/api/news?id=f859838e3d3e875549086eb00639b694704485400e9b069447dc1bcf9e980029",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:05:01+00:00",
-      "change_pct": 6.62
+      "change_pct": 6.36
     },
     {
       "id": "f_c0354301e3d4ad",
@@ -937,7 +1128,7 @@
       "url": "https://finnhub.io/api/news?id=c21735dbfcd7b85f016a9834dd2744bfd05d56896a196f7fa95e1155ffadd32a",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:05:00+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_4d67a5495868da",
@@ -1004,7 +1195,7 @@
       "url": "https://finnhub.io/api/news?id=b31b1d03c65bbb34344afed9754592556657839cb1b4f6e986137f6f16c39bfc",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:00:00+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_58929dfb64dc4d",
@@ -1016,7 +1207,7 @@
       "url": "https://finnhub.io/api/news?id=48efff0b5ced10ad3a2e7408847a15fa3ad670267b31279a10d5c0a26d55d63a",
       "source": "Yahoo",
       "published_at": "2026-09-17T12:00:00+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_75dcf6573627ec",
@@ -1050,7 +1241,7 @@
       "url": "https://finnhub.io/api/news?id=c6271a6244c1f14feff5be74018b603ef969939f89634e95d7d2336f9e179ff2",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:59:37+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_bfb9df215d2d10",
@@ -1062,7 +1253,7 @@
       "url": "https://finnhub.io/api/news?id=c7169a4408691ee3cb55b469fa49c8a17530a10dd69f5f459a198e9d2b60e94f",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:59:00+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_4d7db3fb1c2d64",
@@ -1085,7 +1276,7 @@
       "url": "https://finnhub.io/api/news?id=7a976156b39734aa66fa7fdfa340c950b4b58dd409fbdd6bb6427d5775c17cba",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:53:00+00:00",
-      "change_pct": 4.21
+      "change_pct": 4.81
     },
     {
       "id": "f_f9ee821340c86e",
@@ -1097,7 +1288,7 @@
       "url": "https://finnhub.io/api/news?id=7298416b27dea923b37e3d027a39989b4565d89e79fe14ef34053b5012369231",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:52:44+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_5f1b6741fc07d2",
@@ -1109,7 +1300,7 @@
       "url": "https://finnhub.io/api/news?id=b39d9d1d5c560c9a9e8af80db32f50daec5480b21f90b705dc19928417c9b035",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:50:10+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_10de95f42f392b",
@@ -1143,7 +1334,7 @@
       "url": "https://finnhub.io/api/news?id=fac53a96c3a7d74ba0aa21597f83810af1e16e6d4d4769d2d780c4154fe51fcf",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:37:04+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_8f912b782db098",
@@ -1155,7 +1346,7 @@
       "url": "https://finnhub.io/api/news?id=a875a189f64df299bbbda4b0f41c50dd16aad4fc3822ae54920318dff3e52d64",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:35:01+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
     },
     {
       "id": "f_4b195035bbf8b0",
@@ -1167,7 +1358,7 @@
       "url": "https://finnhub.io/api/news?id=23dbc719197411160d633969207878ecdc953c2de72162647b3b0f60cd6099bf",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:34:30+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_4a42cb681e3356",
@@ -1179,7 +1370,7 @@
       "url": "https://finnhub.io/api/news?id=cbed60c10c118e7e2bd884fa7f18dd2d274ee5754241a397f695e5d84c2280f6",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:31:00+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_540acf50c4dcbd",
@@ -1191,7 +1382,7 @@
       "url": "https://finnhub.io/api/news?id=dc2c9634a3fbc2361efb918f0b73df9baa621d16810dd0b656b6962b52f05918",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:30:50+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_25ec47b37bb6a3",
@@ -1236,7 +1427,7 @@
       "url": "https://finnhub.io/api/news?id=8a427bb9c1c9c67e5bb654dfebc3e5402f132f342d658561512fff870c495e10",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:28:00+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_d5f49d210b4312",
@@ -1248,7 +1439,7 @@
       "url": "https://finnhub.io/api/news?id=4d437abdf20822b2dc217329edf187af350ecfc1804d81c076be6b0668d3f026",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:28:00+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_719f27c53659c5",
@@ -1260,7 +1451,7 @@
       "url": "https://finnhub.io/api/news?id=8af3c520e1c9aa129ccd5e7a2783c8abcbd5631cbc5ecd2c8931f85732d8c796",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:26:53+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_bea08c85321ba1",
@@ -1294,7 +1485,7 @@
       "url": "https://finnhub.io/api/news?id=6ed92433bdbd002888e13442151331b71c65ef947c8c5c9ac960f5f188a0efb5",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:20:01+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_1c9f5c803446d9",
@@ -1306,7 +1497,7 @@
       "url": "https://finnhub.io/api/news?id=84897bf1bae338c87456a9ecff87679c12046ca66a5e7248ecbd5e894716a234",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:16:00+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_b39eb7bd0fa448",
@@ -1318,7 +1509,7 @@
       "url": "https://finnhub.io/api/news?id=65acf84f1953e04e86aefccd8dccff54921ec83e429cdc8b32816498bfe24770",
       "source": "CNBC",
       "published_at": "2026-09-17T11:15:12+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_21624aee1e6f9b",
@@ -1330,7 +1521,7 @@
       "url": "https://finnhub.io/api/news?id=c8800b6c82c39e80e677a32f263d5b53d9233c3355d921e63570b772e34792b1",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:12:54+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_e9bfa8cb4a2c85",
@@ -1353,7 +1544,20 @@
       "url": "https://finnhub.io/api/news?id=394b71389556c3b91b1372a9435a9bfedd69364961ee516228370372edd7c232",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T11:09:53+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
+    },
+    {
+      "id": "av_f4731c2f1b29b1",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "This AI Stock Could Be Worth Far More Than Investors Think",
+      "summary": "Broadcom (AVGO) is presented as a significantly undervalued AI stock despite its impressive 221% year-over-year AI revenue growth. The article highlights Broadcom's low 19x forward earnings multiple compared to peers like NVIDIA (24x) and Marvell (56x), even as it projects substa",
+      "url": "https://247wallst.com/investing/2026/09/16/this-ai-stock-could-be-worth-far-more-than-investors-think/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-16T21:38:55+00:00",
+      "sentiment": 0.33788,
+      "change_pct": 2.54
     },
     {
       "id": "f_7e4ecae28eae04",
@@ -1365,7 +1569,7 @@
       "url": "https://finnhub.io/api/news?id=eaf06aa96829b7987a0eeaac0eece13c3886bc5f910d71ae6f79309f7c644d0a",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:04:33+00:00",
-      "change_pct": 6.62
+      "change_pct": 6.36
     },
     {
       "id": "f_f26db09342d834",
@@ -1377,7 +1581,7 @@
       "url": "https://finnhub.io/api/news?id=6fe42f2f22d31ae64a53301fa2f7505dc9494b67a4c0b5758e20f2445b4b52a8",
       "source": "Benzinga",
       "published_at": "2026-09-17T11:02:58+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_1e2a86f4edbf50",
@@ -1389,7 +1593,7 @@
       "url": "https://finnhub.io/api/news?id=b2643dae263af6242df8e2955fa62b8a39ac0147944829341f1b3d2d2493aa1e",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T11:01:51+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_6a3bede11204ad",
@@ -1412,7 +1616,7 @@
       "url": "https://finnhub.io/api/news?id=e2c27b52029a99e44d6339117fb237d66a053b0a98f48135084e8d74da9ff78d",
       "source": "Yahoo",
       "published_at": "2026-09-17T11:00:00+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_65a82d472e5624",
@@ -1435,7 +1639,7 @@
       "url": "https://finnhub.io/api/news?id=5189ae361467a8330b70700816039bc332256b8b3aa063648d5ceda657c257ba",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:55:19+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_0a5dba064d4d58",
@@ -1447,7 +1651,7 @@
       "url": "https://finnhub.io/api/news?id=85e931fed36537e3ef5c943f2b9ae84b70e78abbe15f2a04f8c6df70109b91e5",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:50:00+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_0f08d53122cf5e",
@@ -1459,7 +1663,7 @@
       "url": "https://finnhub.io/api/news?id=a41403a36f9d3c2b8b1d1c79e23429e580ce283652f29fcb801d753ff8d3ece6",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:45:24+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_33331a7c989829",
@@ -1471,7 +1675,7 @@
       "url": "https://finnhub.io/api/news?id=e7f2e97b399ed9ca5f6b192f20fafd73d713b3d933a843c2cfb71397aa058803",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T10:42:49+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_cafdb41ae65c00",
@@ -1483,7 +1687,7 @@
       "url": "https://finnhub.io/api/news?id=6cf85a577bb08242160807ee25d7c35c4acd4d2c5530d41100742cae1310481e",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:42:49+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_c3048ab997da51",
@@ -1495,7 +1699,7 @@
       "url": "https://finnhub.io/api/news?id=721cef13b31d6fcbac4472fc08df8bef7fa5a58431a8eb120a9f25c459b69353",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:38:00+00:00",
-      "change_pct": 6.62
+      "change_pct": 6.36
     },
     {
       "id": "f_41e21a9be485a8",
@@ -1507,7 +1711,7 @@
       "url": "https://finnhub.io/api/news?id=e4ffa5425f5c6bd4ba05fadc0605a23749fb8c4d4788597ddfb4d1cb1182102d",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:36:00+00:00",
-      "change_pct": 2.7
+      "change_pct": 2.29
     },
     {
       "id": "f_0edc9500388705",
@@ -1519,7 +1723,7 @@
       "url": "https://finnhub.io/api/news?id=ea515a5259c36e2e89d1a81a8ee0df5effdbd49f998bb3e535bd76031473459a",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:35:00+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_ea942878954caa",
@@ -1531,7 +1735,7 @@
       "url": "https://finnhub.io/api/news?id=f28126ccbe2f4c1e8750744e9da88067726f0409544a7d4542effdbb426eb61f",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T10:30:35+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_5a4a25eff84d8c",
@@ -1554,7 +1758,7 @@
       "url": "https://finnhub.io/api/news?id=a814f294faa093e7f4bb9ae2bf6793a47bf4300f78c87340b1a40ccc3b541919",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:26:01+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_66526862bb0a2d",
@@ -1566,7 +1770,7 @@
       "url": "https://finnhub.io/api/news?id=c33b397f0f559393781c93bd5c65a3ea55454f6570be3c5759036d800488f6a2",
       "source": "Benzinga",
       "published_at": "2026-09-17T10:25:58+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_5eac5488727a3d",
@@ -1578,7 +1782,7 @@
       "url": "https://finnhub.io/api/news?id=64cef6d0ed26dda44643d6a35ee7345eb1d55d837665b8dd4f3887932bd2f060",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T10:24:22+00:00",
-      "change_pct": 2.7
+      "change_pct": 2.29
     },
     {
       "id": "f_35db28598e4339",
@@ -1590,7 +1794,7 @@
       "url": "https://finnhub.io/api/news?id=f6c442ad0199c07614de02bfedff00cc8483a845e4f2a69dc0bc0dfee4f03174",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:21:56+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_c8470c72707298",
@@ -1602,7 +1806,7 @@
       "url": "https://finnhub.io/api/news?id=85ff37d0ab29bfdc6186d4fdc0bfcdc669c0dddbcea5d6f83925e31ea126bb7c",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:11:00+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
     },
     {
       "id": "f_ecff0c37345cdd",
@@ -1625,7 +1829,7 @@
       "url": "https://finnhub.io/api/news?id=ee76e1ec613787da73b9290f2b56af799e0b4799c09b69ea324e837e8ad1ebaa",
       "source": "Benzinga",
       "published_at": "2026-09-17T10:06:29+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_82960d46567a85",
@@ -1637,7 +1841,7 @@
       "url": "https://finnhub.io/api/news?id=97533ba7153b744b9a26e02b5f4711f4fb37615e409ab11c3ba99dbe6f1a3622",
       "source": "Benzinga",
       "published_at": "2026-09-17T10:05:01+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_8f8bb19f426412",
@@ -1649,7 +1853,7 @@
       "url": "https://finnhub.io/api/news?id=222e030a3db11caecf31a5dfe277cef8888464a4c2ad1f759b288d16647af643",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:04:00+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_64631573341c18",
@@ -1661,7 +1865,7 @@
       "url": "https://finnhub.io/api/news?id=e27013626ab5837fb59cb27c6d152c79817225618c562b730a13a2a6f66fe0f6",
       "source": "Benzinga",
       "published_at": "2026-09-17T10:01:40+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_bc6ad093161f75",
@@ -1673,7 +1877,7 @@
       "url": "https://finnhub.io/api/news?id=7309f89d6cfd73ade7ce84738efd1ac2ff1fcd9b33560051a4f269a2096adee4",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:00:33+00:00",
-      "change_pct": 2.7
+      "change_pct": 2.29
     },
     {
       "id": "f_911894d4a6ac55",
@@ -1685,7 +1889,7 @@
       "url": "https://finnhub.io/api/news?id=c199e2b30aa58bc7ada83ad306812fac546f8f9535dc1cbc79d70f3c0a0dc088",
       "source": "Benzinga",
       "published_at": "2026-09-17T10:00:11+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_d4013dfaed1a04",
@@ -1697,7 +1901,7 @@
       "url": "https://finnhub.io/api/news?id=b7f826602f3f5d074788edb6a4d4a39764680898cc5708447357203d05ce5903",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:00:00+00:00",
-      "change_pct": 0.48
+      "change_pct": 1.34
     },
     {
       "id": "f_51853b3fab343b",
@@ -1709,7 +1913,7 @@
       "url": "https://finnhub.io/api/news?id=2763b3b842650ad4e6309ca7657b3d93d57ef926c5f63a0fd9fcc3318d4ff59f",
       "source": "Yahoo",
       "published_at": "2026-09-17T10:00:00+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_db27928645f40d",
@@ -1734,6 +1938,19 @@
       "published_at": "2026-09-17T10:00:00+00:00"
     },
     {
+      "id": "av_7ec5e798ebfe78",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
+      "summary": "KKR & Co. has significantly expanded its private investment-grade financing business, with deals totaling over $80 billion in the first half of 2026, more than double last year's amount. This growth is driven by companies seeking flexible alternatives to traditional bank financin",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T20:52:27+00:00",
+      "sentiment": 0.325766,
+      "change_pct": 2.54
+    },
+    {
       "id": "f_e33d97b335faa7",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1743,7 +1960,7 @@
       "url": "https://finnhub.io/api/news?id=8b7cdbebd768be6921d7dcd3d0ee76195d624cbd7dce245d7456a02e88357717",
       "source": "Benzinga",
       "published_at": "2026-09-17T09:46:49+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_ba513988fd4a0b",
@@ -1755,7 +1972,7 @@
       "url": "https://finnhub.io/api/news?id=343666ce61901932db23b3c9ab4d27fd55ddbaa9df6e4ac8a6a2e636b5fab73f",
       "source": "Yahoo",
       "published_at": "2026-09-17T09:45:10+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_53eff973f0c874",
@@ -1767,20 +1984,20 @@
       "url": "https://finnhub.io/api/news?id=163f751b1ecabca96316fd5771b07b0fd1e544e0fc9c2757b10d2534d91bac7a",
       "source": "Yahoo",
       "published_at": "2026-09-17T09:38:18+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
-      "id": "av_612b3c571d9f9e",
+      "id": "av_756c19927ab7d8",
       "provider": "alphavantage",
       "ticker": "NVDA",
       "category": "general",
-      "title": "CoreWeave shares climb as Nvidia Rubin cluster goes online",
-      "summary": "CoreWeave Inc. shares climbed after the AI cloud provider deployed a multi-rack Nvidia Vera Rubin NVL72 cluster and introduced new storage capabilities. This deployment integrates hundreds of Nvidia Rubin GPUs into a single cluster designed for agentic AI workloads, enhancing tra",
-      "url": "https://ca.finance.yahoo.com/news/coreweave-shares-climb-nvidia-rubin-150900684.html",
-      "source": "Yahoo! Finance Canada",
-      "published_at": "2026-09-16T14:40:48+00:00",
-      "sentiment": 0.423799,
-      "change_pct": 2.77
+      "title": "Western Digital Corp Stock (WDC) Moved Up by 3.48% on Sep 16: What Signal Does It Send?",
+      "summary": "Western Digital Corp (WDC) saw its stock price increase by 3.48% on September 16, driven by institutional dip-buying and strong demand for mass-capacity storage, particularly in data centers and AI workloads. Despite technical sell signals and some insider stock sales, the compan",
+      "url": "https://www.tradingkey.com/news/market-movers/262171106-market-movers-wdc-20260916",
+      "source": "TradingKey",
+      "published_at": "2026-09-16T13:46:48+00:00",
+      "sentiment": 0.344311,
+      "change_pct": 2.54
     },
     {
       "id": "f_4982fb4b6b3c59",
@@ -1803,7 +2020,20 @@
       "url": "https://finnhub.io/api/news?id=f005032ea95bd6cf0f4e462f01175be11ccf8429c34d275ecfde737bad817318",
       "source": "Benzinga",
       "published_at": "2026-09-17T09:21:07+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
+    },
+    {
+      "id": "av_76496ca234c1aa",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "One Stop Systems wins $400,000 defense contract for simulation",
+      "summary": "One Stop Systems, Inc. (NASDAQ:OSS) has secured a $400,000 contract from a U.S. defense prime contractor. This award is for advanced modeling and simulation of missile defense systems for the U.S. Missile Defense Agency and includes the deployment of OSS's 4UP Max PCIe expansion ",
+      "url": "https://www.investing.com/news/company-news/one-stop-systems-wins-400000-defense-contract-for-simulation-93CH-4903596",
+      "source": "Investing.com",
+      "published_at": "2026-09-16T12:05:02+00:00",
+      "sentiment": 0.343421,
+      "change_pct": 2.54
     },
     {
       "id": "f_6681a72a11a195",
@@ -1817,32 +2047,6 @@
       "published_at": "2026-09-17T09:19:54+00:00"
     },
     {
-      "id": "av_e2622031267475",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Vertical Data Secures $192 Million AI Infrastructure Commitment for Global AI Developer",
-      "summary": "Vertical Data Inc. has secured a $192.1 million commitment from a global AI developer for a dedicated NVIDIA B300 Blackwell Ultra GPU cluster. This five-year, take-or-pay agreement involves the deployment of 1,024 NVIDIA B300 Blackwell Ultra GPUs in Western Europe, with service c",
-      "url": "https://www.accessnewswire.com/newsroom/en/computers-technology-and-internet/vertical-data-secures-192-million-ai-infrastructure-commitment-fo-1219987",
-      "source": "ACCESS Newswire",
-      "published_at": "2026-09-16T09:10:21+00:00",
-      "sentiment": 0.415069,
-      "change_pct": 2.77
-    },
-    {
-      "id": "av_a2ac2ae43257ac",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "AI Safety Could Mean More Nvidia GPU Demand, Not Less, SemiAnalysis Says",
-      "summary": "SemiAnalysis suggests that increasing AI safety measures could lead to higher, not lower, demand for Nvidia GPUs. The firm argues that AI safety, alignment, monitoring, and interpretability require substantial computing power, and that advanced AI could also reshape cybersecurity",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-safety-could-mean-more-135336996.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T13:54:01+00:00",
-      "sentiment": 0.413383,
-      "change_pct": 2.77
-    },
-    {
       "id": "f_2f213376e4f0b2",
       "provider": "finnhub",
       "ticker": "GOOGL",
@@ -1852,7 +2056,7 @@
       "url": "https://finnhub.io/api/news?id=8d6688093ff2d5d87565eca051574e4c3e75354106665c36ba42c3b64b154d84",
       "source": "Yahoo",
       "published_at": "2026-09-17T09:10:14+00:00",
-      "change_pct": 1.07
+      "change_pct": 1.3
     },
     {
       "id": "f_23a66b60e109ab",
@@ -1864,7 +2068,20 @@
       "url": "https://finnhub.io/api/news?id=45e2e4ad3f042fed3d28a191d80c3ec975ccdcbc284a4119d78dc45b2c3d7497",
       "source": "Yahoo",
       "published_at": "2026-09-17T09:09:28+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
+    },
+    {
+      "id": "av_4aeeabcc67888e",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "ASML Vs. Taiwan Semiconductor Manufacturing: One Is More Misunderstood",
+      "summary": "This article argues that both ASML and Taiwan Semiconductor Manufacturing (TSMC) are often misunderstood by investors despite strong Q2 2026 results. It highlights their monopolistic positions in specific niches—ASML in EUV and immersion DUV systems, and TSMC in leading-edge node",
+      "url": "https://247wallst.com/investing/2026/09/16/asml-vs-taiwan-semiconductor-manufacturing-one-is-more-misunderstood/",
+      "source": "24/7 Wall St.",
+      "published_at": "2026-09-16T14:03:49+00:00",
+      "sentiment": 0.336961,
+      "change_pct": 2.54
     },
     {
       "id": "f_50073b39b5e29c",
@@ -1889,19 +2106,6 @@
       "published_at": "2026-09-17T09:01:17+00:00"
     },
     {
-      "id": "av_7ec5e798ebfe78",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "KKR Doubles Private Debt Deals to $80 Billion as AI Spending Explodes",
-      "summary": "KKR & Co. has significantly expanded its private investment-grade financing business, with deals totaling over $80 billion in the first half of 2026, more than double last year's amount. This growth is driven by companies seeking flexible alternatives to traditional bank financin",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/kkr-doubles-private-debt-deals-204851814.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T20:52:27+00:00",
-      "sentiment": 0.30361,
-      "change_pct": 2.77
-    },
-    {
       "id": "f_5829f56c85ce8d",
       "provider": "finnhub",
       "ticker": "AMZN",
@@ -1911,7 +2115,7 @@
       "url": "https://finnhub.io/api/news?id=b4e67ada0613b154f3b360ea2664801dfc5a22c03f05db20198a41a67a9f37b6",
       "source": "Yahoo",
       "published_at": "2026-09-17T09:00:14+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_b811a9fca695d1",
@@ -1925,6 +2129,19 @@
       "published_at": "2026-09-17T08:53:55+00:00"
     },
     {
+      "id": "av_bb18b7c21ad80c",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Salesforce Gets Fresh Target Hike From Mizuho After Dreamforce — Analyst Says 2026 Setup Looks ‘Much Better’ Than 2025",
+      "summary": "Mizuho has raised its price target for Salesforce (CRM) to $280 from $265, maintaining an 'Outperform' rating, following the first day of Dreamforce. The firm highlighted new interfaces designed to enhance customer value from existing deployments and noted that Salesforce's 2026 ",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/salesforce-gets-fresh-target-hike-123302471.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T12:50:17+00:00",
+      "sentiment": 0.33175,
+      "change_pct": 2.54
+    },
+    {
       "id": "f_08279eef8e4be1",
       "provider": "finnhub",
       "ticker": "AMD",
@@ -1934,7 +2151,7 @@
       "url": "https://finnhub.io/api/news?id=c290639536d95e9359f9cc8b1b47cf534528fc328605425f69353e0cdda1f853",
       "source": "Yahoo",
       "published_at": "2026-09-17T08:47:00+00:00",
-      "change_pct": 6.62
+      "change_pct": 6.36
     },
     {
       "id": "f_01c237f567eb48",
@@ -1946,7 +2163,7 @@
       "url": "https://finnhub.io/api/news?id=3b3a6c195f661f205da5f8e8844a81216282c4b2401f2d91ef90801314d4893b",
       "source": "Benzinga",
       "published_at": "2026-09-17T08:43:34+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_6cdeb507040ec0",
@@ -1958,7 +2175,7 @@
       "url": "https://finnhub.io/api/news?id=23fff4961c196513206dd796bf8c7fcb55b06154bb160361ee163b75eee6c995",
       "source": "Benzinga",
       "published_at": "2026-09-17T08:42:08+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_5b74ac557f692c",
@@ -1970,7 +2187,7 @@
       "url": "https://finnhub.io/api/news?id=80c4a3fc4dfd5bf3d1a0c104ed77cdff3659612ee2a2e4c6bfba6f0df057ecb6",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T08:41:01+00:00",
-      "change_pct": 1.27
+      "change_pct": 1.52
     },
     {
       "id": "f_a13856e26794c7",
@@ -1982,7 +2199,7 @@
       "url": "https://finnhub.io/api/news?id=c93f46dac6a6323d55bfa698f50c4246a4b8ee3e0b7fb78be85d9bbc93705899",
       "source": "Yahoo",
       "published_at": "2026-09-17T08:40:44+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_ec9f7488bd6b70",
@@ -1994,7 +2211,7 @@
       "url": "https://finnhub.io/api/news?id=923603d25cfa7d03600fc77c29f0298c4247f0749898f0f4f43fb50fe3a537c4",
       "source": "Benzinga",
       "published_at": "2026-09-17T08:40:43+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_0b3667be8f750c",
@@ -2006,7 +2223,7 @@
       "url": "https://finnhub.io/api/news?id=181956f2b6fea61049e7410f720a30ac263dbce2c8896d316e613467a9af8cca",
       "source": "Benzinga",
       "published_at": "2026-09-17T08:39:39+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_273938ede30e75",
@@ -2018,7 +2235,33 @@
       "url": "https://finnhub.io/api/news?id=82f85dedfb64aa46e2ddc20757e356809f6bda170de8260e400f17545c8932f3",
       "source": "Benzinga",
       "published_at": "2026-09-17T08:39:31+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
+    },
+    {
+      "id": "av_c59f6e489f6821",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Generative AI Accelerates Quantum Optimization | IonQ & NVIDIA",
+      "summary": "IonQ, in collaboration with Oak Ridge National Laboratory, NVIDIA, and the University of Tennessee, Knoxville, has demonstrated a new AI method that uses generative models to directly write quantum optimization circuits. This approach eliminates the traditional trial-and-error pa",
+      "url": "https://www.ionq.com/news/ionq-ornl-nvidia-and-the-university-of-tennessee-knoxville-show-ai-method-reduces-quantum-optimization-trade-off",
+      "source": "IonQ",
+      "published_at": "2026-09-16T14:08:36+00:00",
+      "sentiment": 0.324856,
+      "change_pct": 2.54
+    },
+    {
+      "id": "av_e2a132a763ff33",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
+      "summary": "Snap is partnering with Salesforce, Nvidia, and Amazon Web Services to integrate workplace tools into its $2,195 Specs augmented-reality glasses, aiming to attract enterprise customers. The initiative positions Specs as a hands-free computing solution for various work environment",
+      "url": "https://finance.yahoo.com/technology/ai/articles/snap-targets-enterprises-salesforce-nvidia-234512914.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T18:45:00+00:00",
+      "sentiment": 0.32291,
+      "change_pct": 2.54
     },
     {
       "id": "f_35440f5e7789f4",
@@ -2030,7 +2273,7 @@
       "url": "https://finnhub.io/api/news?id=c673b714623982f1ebb8a9252d893e808d8f743f94fbc48c4aa10cc1c4f50b56",
       "source": "Benzinga",
       "published_at": "2026-09-17T08:25:48+00:00",
-      "change_pct": 4.93
+      "change_pct": 4.81
     },
     {
       "id": "f_37d700554250b0",
@@ -2042,7 +2285,7 @@
       "url": "https://finnhub.io/api/news?id=d14511a67e93b37625b75f892945f2351f259f71f09c2a1a23c5297e6675a9e0",
       "source": "Yahoo",
       "published_at": "2026-09-17T08:17:25+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_127ea31beea194",
@@ -2054,7 +2297,20 @@
       "url": "https://finnhub.io/api/news?id=3e05303594b8e61600a2cd7ee1a49c9c4c7f659bd4400813b35bbaee28f8f415",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T08:06:54+00:00",
-      "change_pct": 6.62
+      "change_pct": 6.36
+    },
+    {
+      "id": "av_abfec29b598e09",
+      "provider": "alphavantage",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "One Stop Systems Shares Rise 3.3% Premarket After $400,000 Defence Contract Award",
+      "summary": "One Stop Systems (NASDAQ:OSS) shares increased by 3.3% in premarket trading after securing a $400,000 contract from a US prime defense contractor. The contract involves the company's 4UP Max PCIe expansion platform, equipped with eight NVIDIA RTX PRO 6000 Blackwell GPUs, for miss",
+      "url": "https://finance.yahoo.com/technology/ai/articles/one-stop-systems-shares-rise-134754373.html",
+      "source": "Yahoo Finance",
+      "published_at": "2026-09-16T13:47:00+00:00",
+      "sentiment": 0.31271,
+      "change_pct": 2.54
     },
     {
       "id": "f_ad065e42982d55",
@@ -2066,7 +2322,7 @@
       "url": "https://finnhub.io/api/news?id=bef30ecd0fee9e54ba2343c5114d016bfe88ebe477d877d9a3f5a15c586840e0",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T08:00:00+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_1ad31a6857d68c",
@@ -2078,7 +2334,7 @@
       "url": "https://finnhub.io/api/news?id=2e3034fc2ea94c9fa7f75dc6ba68e837952ce5789b004924a0cdbaff1fe94fd2",
       "source": "SeekingAlpha",
       "published_at": "2026-09-17T08:00:00+00:00",
-      "change_pct": 2.43
+      "change_pct": 2.27
     },
     {
       "id": "f_e0bcc290f3b048",
@@ -2090,7 +2346,7 @@
       "url": "https://finnhub.io/api/news?id=fbfb43cee656bc00231ce814596b69ba218a2cd26942584b1562b736b8726d53",
       "source": "Benzinga",
       "published_at": "2026-09-17T07:58:36+00:00",
-      "change_pct": 6.62,
+      "change_pct": 6.36,
       "title_kr": "목요일 AMD 주식에 무슨 일이 일어나고 있나요?",
       "summary_kr": "AMD 주가는 시판 전 463달러 지지선 근처로 하락했습니다. 혼합된 단기 이동 평균과 긍정적인 MACD 모멘텀을 통해 구매자가 주요 수준을 유지할 수 있습니까?"
     },
@@ -2104,7 +2360,7 @@
       "url": "https://finnhub.io/api/news?id=fe612d25e6fca02d72e8b6377275f1cacafae5bf810144fae65b4adcc033b29f",
       "source": "Benzinga",
       "published_at": "2026-09-17T07:53:53+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_812b1e44b67350",
@@ -2116,7 +2372,7 @@
       "url": "https://finnhub.io/api/news?id=b0b5ae1abdbf613e9370a99c96b9fdd60f19194b7c19002db752beb011d298c9",
       "source": "CNBC",
       "published_at": "2026-09-17T07:52:47+00:00",
-      "change_pct": 2.21
+      "change_pct": 2.13
     },
     {
       "id": "f_77f0c03b42539b",
@@ -2128,7 +2384,7 @@
       "url": "https://finnhub.io/api/news?id=971370ebd8219c072a8e0bc7f4ea65706f9028cf4b0ee49da1d9f8aacb44d516",
       "source": "Benzinga",
       "published_at": "2026-09-17T07:41:51+00:00",
-      "change_pct": 2.77
+      "change_pct": 2.54
     },
     {
       "id": "f_b9d32c32c89b80",
@@ -2140,250 +2396,11 @@
       "url": "https://finnhub.io/api/news?id=da98c14ef323a90422ae4e87082a55f635f1d7023bec3b02bda3842a57e256f7",
       "source": "Yahoo",
       "published_at": "2026-09-17T07:25:00+00:00",
-      "change_pct": 2.43
-    },
-    {
-      "id": "f_60361debb8c3d6",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Google and Stegra in agreement for environmental attribute certificates",
-      "summary": "Google has entered into an agreement with Stegra for the purchase of environmental attribute certificates (EACs) connected to Stegra's steel production in Boden, Sweden. These EACs help scale global supply for near-zero emission steel.",
-      "url": "https://finnhub.io/api/news?id=33de542457247030a74d12f43cb7dd3e2312812442fe0343f54a0684f376b6a4",
-      "source": "Yahoo",
-      "published_at": "2026-09-17T07:23:00+00:00",
-      "change_pct": 1.07
-    },
-    {
-      "id": "f_8ecf5e15686426",
-      "provider": "finnhub",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "The Fed Hikes, Warsh Says Nothing Else, and Wall Street Fills In the Blanks",
-      "summary": "The Federal Reserve raised interest rates for the first time in three years on Wednesday, but it was Chair Kevin Warsh's refusal to elaborate that sent stocks lower and pushed the ten-year Treasury yield to its highest level since 2007.",
-      "url": "https://finnhub.io/api/news?id=717682d626bcfed0fe0efb13305eefa30b057deb824005728acb81d479cd8373",
-      "source": "ChartMill",
-      "published_at": "2026-09-17T07:22:54+00:00",
-      "change_pct": 4.93
-    },
-    {
-      "id": "f_e148c78b31799a",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Bernie Sanders Slams AI CEOs Over Political Spending: 'You Should Not be Spending Money Trying to Defeat' AI Regulation",
-      "summary": "Bernie Sanders criticized AI CEOs for spending hundreds of millions through super PACs to oppose lawmakers seeking stronger AI regulation.",
-      "url": "https://finnhub.io/api/news?id=7f7d5b3889518023c9f7aebb7df43a626272c2597fec2f9e20efa77b8194d550",
-      "source": "Benzinga",
-      "published_at": "2026-09-17T07:21:49+00:00",
-      "change_pct": 2.77
-    },
-    {
-      "id": "f_7928860cb8021c",
-      "provider": "finnhub",
-      "ticker": "NBIS",
-      "category": "general",
-      "title": "Market-Moving News for September 17th",
-      "summary": "GNRC: 35% | Generac Holdings shares are trading higher after the company announced a long-term supply agreement with Amazon for data center backup generators. VICR: 12% | Vicor shares are trading higher after the",
-      "url": "https://finnhub.io/api/news?id=fbde4c8f9131444c1d2af7802b7c443c95f871bba47c8e05560224a30a4b623b",
-      "source": "Benzinga",
-      "published_at": "2026-09-17T07:17:05+00:00"
-    },
-    {
-      "id": "av_7b8d98af6181a8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "The Return-on-Capital Question Looming Over NVIDIA Corporation’s (NVDA) AI Investments",
-      "summary": "Hayden Capital's Q2 2026 investor letter highlights the uncertainty surrounding NVIDIA Corporation's (NVDA) return on invested capital for its AI investments. Despite NVIDIA's strong earnings growth forecast, its P/E multiple is surprisingly low, prompting questions about the lon",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/return-capital-looming-over-nvidia-114808044.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-17T06:48:00+00:00",
-      "sentiment": 0.010807,
-      "change_pct": 2.77
-    },
-    {
-      "id": "f_760c7b35f7e801",
-      "provider": "finnhub",
-      "ticker": "NBIS",
-      "category": "general",
-      "title": "CoreWeave Announces Private Offering Of $3B Of Convertible Senior Notes Due 2033",
-      "summary": "CoreWeave also intends to grant the initial purchasers of the Notes an option to purchase, for settlement within a 13-day period beginning on, and including, the date on which the Notes are first issued, up to an",
-      "url": "https://finnhub.io/api/news?id=b3b5ef94dbff28c1e646370bf5efd6ed6541ad4d52e86eb99328083255c147a7",
-      "source": "Benzinga",
-      "published_at": "2026-09-17T07:08:53+00:00"
-    },
-    {
-      "id": "f_35d571d80017ba",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Nebius Reportedly Hikes GPU Prices Another 20%, Stock Jumps",
-      "summary": "Nebius stock rises over 9% on reports of a 20% GPU cloud price hike, highlighting tight AI computing capacity and booming demand.",
-      "url": "https://finnhub.io/api/news?id=ee903b40abbc468d2ca01d0307080ceaab4da6d2dbc8abbc13fa0b34327f81ee",
-      "source": "Benzinga",
-      "published_at": "2026-09-17T07:05:11+00:00",
-      "change_pct": 2.77
-    },
-    {
-      "id": "f_7e0f0725ed4206",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Zacks Investment Ideas feature highlights: SpaceX's and Tesla",
-      "summary": "SpaceX's and Tesla have been highlighted in this Investment Ideas article.",
-      "url": "https://finnhub.io/api/news?id=9ae1b6b1d8e7219233b6338f34ef27d14b1585efcb0a36fbcf8c3562311f986a",
-      "source": "Yahoo",
-      "published_at": "2026-09-17T07:05:00+00:00",
-      "change_pct": 2.43
-    },
-    {
-      "id": "f_7e96b38dc59635",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Labor crisis in U.S. chip manufacturing leaves Samsung, TSMC desperate for talent",
-      "summary": "U.S. semiconductor manufacturing faces a historic worker shortage as demand soars. Here’s how chipmakers and U.S. universities aim to fix it.",
-      "url": "https://finnhub.io/api/news?id=39d2ae55b170002b8a8bdd4920e5e9f4b25c9ed27b9226271e727dbe863d41a4",
-      "source": "CNBC",
-      "published_at": "2026-09-17T07:00:01+00:00",
-      "change_pct": 2.77
-    },
-    {
-      "id": "f_51716d53e646cf",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Warsh says AI’s hyperscalers are part of why your borrowing costs are rising: ‘The competition for capital is real’",
-      "summary": "Hyperscalers issued $121 billion in bonds last year and are on pace for far more in 2026. Warsh says that's showing up in Treasury yields.",
-      "url": "https://finnhub.io/api/news?id=cc61cf336b973c10846f0c51c34a71533713ff2b5bc39d6c826810b554d4ab43",
-      "source": "Yahoo",
-      "published_at": "2026-09-17T07:00:00+00:00",
-      "change_pct": 1.07
-    },
-    {
-      "id": "f_6f041fa62fce3c",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "Nokia accelerates network automation through agentic, unified data foundation with Microsoft",
-      "summary": "Nokia accelerates network automation through agentic, unified data foundation with Microsoft Multi-vendor, cross-domain solution integrates Nokia Data Suite with Microsoft Fabric.Faster access to trusted, unified data allows telecom providers to scale autonomous, AI-driven operations.Initial use cases focus on RAN optimization through autonomous VoNR assurance and geo-experience, which correlates subscriber, network and RF data.Collaboration enables intelligent, agent-based solutions across the",
-      "url": "https://finnhub.io/api/news?id=400f99e80d3e2261ecc075528ec4aba8ffaa3dae8585e04d9c852a01dd5fe1d5",
-      "source": "Yahoo",
-      "published_at": "2026-09-17T07:00:00+00:00",
-      "change_pct": 1.27
-    },
-    {
-      "id": "f_9ed9522d5f1152",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Treble Raises $18M to Expand Audio and Voice Development Platform for Physical AI",
-      "summary": "Treble Team Treble Team Treble Physical AI Treble’s acoustic simulation technology creates digital twins of real-world environments, helping developers train and test audio-enabled physical AI systems across complex acoustic conditions. Dr. Finnur Pind Dr. Finnur Pind, co-founder and CEO of Treble Technologies Physical AI applications that understand sounds are driving demand in industrial and consumer markets such as robotics and wearables Treble’s highly accurate acoustic simulation and digita",
-      "url": "https://finnhub.io/api/news?id=2135ac68222096713af8128dc7913bba6dddd12d4c5922414f310a162bfe849c",
-      "source": "Yahoo",
-      "published_at": "2026-09-17T07:00:00+00:00",
-      "change_pct": 2.21
-    },
-    {
-      "id": "av_e2a132a763ff33",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Snap targets enterprises with Salesforce, Nvidia AI tools for augmented-reality glasses",
-      "summary": "Snap is partnering with Salesforce, Nvidia, and Amazon Web Services to integrate workplace tools into its $2,195 Specs augmented-reality glasses, aiming to attract enterprise customers. The initiative positions Specs as a hands-free computing solution for various work environment",
-      "url": "https://finance.yahoo.com/technology/ai/articles/snap-targets-enterprises-salesforce-nvidia-234512914.html",
-      "source": "Yahoo Finance",
-      "published_at": "2026-09-16T18:45:00+00:00",
-      "sentiment": 0.304625,
-      "change_pct": 2.77
-    },
-    {
-      "id": "f_d0f73d65c6f31f",
-      "provider": "finnhub",
-      "ticker": "IREN",
-      "category": "general",
-      "title": "IREN Limited's Next AI Breakout Depends On This",
-      "summary": "",
-      "url": "https://finnhub.io/api/news?id=97eb3e01c1b527903a6ca82bf1e5c4d36604fff26580e6e0fc3b9212b5092436",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-17T06:48:05+00:00"
-    },
-    {
-      "id": "f_dfe87885b6de7b",
-      "provider": "finnhub",
-      "ticker": "PLTR",
-      "category": "general",
-      "title": "Surf Air Mobility Signs Definitive Agreement With Sprintbach For OperatorOS, Surf Air Mobility's SurfOS Flight Operations Software For Part 135 Operators Powered By Palantir",
-      "summary": "Definitive agreement marks official commercial launch of OperatorOS product and a step toward Surf Air Mobility&#39;s goal of five operators live on the platform by the end of 2026.Surf Air Mobility will earn a",
-      "url": "https://finnhub.io/api/news?id=c6809f85e847c5a13a5f4ca09acc77b4fee653debbd262b0d4d68af8ad018dfa",
-      "source": "Benzinga",
-      "published_at": "2026-09-17T06:31:43+00:00"
-    },
-    {
-      "id": "f_40db88b4616801",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Wall Street Breakfast Podcast: Amazon Supercharges Generac",
-      "summary": "Generac lands an $8B opportunity with Amazon. One food safety issue cost Kroger $100M. The Fed raised rates. Trump responded.",
-      "url": "https://finnhub.io/api/news?id=bdfd3aa2e25ddac4f71a31ca8989077809ef301e6d3841be6917dda9fc93ad8a",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-17T06:30:00+00:00",
-      "change_pct": 2.21
-    },
-    {
-      "id": "f_fe1a43ad3479f2",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Elon Musk’s Tesla And SpaceX Sue Nanotech Firm TERA-Print Over ‘Terafab’ Name For Planned $16.8 Billion Texas AI Chip Factory",
-      "summary": "Tesla and SpaceX sued TERA-print over the Terafab name for their planned $16.8 billion Texas AI-chip complex, denying trademark confusion.",
-      "url": "https://finnhub.io/api/news?id=09f08f543d7081a50f651faebafa85c630133292400e77f1ccebcc872337713c",
-      "source": "Benzinga",
-      "published_at": "2026-09-17T06:26:55+00:00",
-      "change_pct": 2.43
-    },
-    {
-      "id": "f_462bd92cdad947",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Netflix Content Chief Shrugs Off YouTube Threat: ‘Young People Only Watch Short Things’ Isn’t True",
-      "summary": "Netflix (NFLX) gains premarket as CCO Bela Bajaria outlines live events, sports, and ads to drive global subscriber acquisition.",
-      "url": "https://finnhub.io/api/news?id=5926870da6edd4c8f01b25d92129e137e2b308f4369b1dd35ebd7c6fc6a0480a",
-      "source": "Benzinga",
-      "published_at": "2026-09-17T06:25:53+00:00",
-      "change_pct": 1.07
-    },
-    {
-      "id": "f_9ba9d230be088f",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Baron Technology ETF Q2 2026 Portfolio Activity",
-      "summary": "As part of its record-breaking IPO, we acquired shares in Space Exploration Technologies Corp.",
-      "url": "https://finnhub.io/api/news?id=2060f1dc5634fc9da72bf9ffeb4876ff7a3069d6c509e72a00c7cd9c52e5fa85",
-      "source": "SeekingAlpha",
-      "published_at": "2026-09-17T06:18:00+00:00",
-      "change_pct": 2.77
-    },
-    {
-      "id": "av_756c19927ab7d8",
-      "provider": "alphavantage",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Western Digital Corp Stock (WDC) Moved Up by 3.48% on Sep 16: What Signal Does It Send?",
-      "summary": "Western Digital Corp (WDC) saw its stock price increase by 3.48% on September 16, driven by institutional dip-buying and strong demand for mass-capacity storage, particularly in data centers and AI workloads. Despite technical sell signals and some insider stock sales, the compan",
-      "url": "https://www.tradingkey.com/news/market-movers/262171106-market-movers-wdc-20260916",
-      "source": "TradingKey",
-      "published_at": "2026-09-16T13:46:48+00:00",
-      "sentiment": 0.340107,
-      "change_pct": 2.77
+      "change_pct": 2.27
     }
   ],
-  "fetched_at": "2026-09-17T19:20:32.847577+00:00",
+  "fetched_at": "2026-09-17T22:16:20.137223+00:00",
   "source_count": 4,
-  "translated_at": "2026-09-17T19:20:35.544660+00:00",
+  "translated_at": "2026-09-17T22:16:22.216656+00:00",
   "translation_engine": "google-parallel"
 }
