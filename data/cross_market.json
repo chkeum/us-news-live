@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-21T01:17:34.779229+00:00",
+  "fetched_at": "2026-09-21T02:15:00.583999+00:00",
   "us_mood_score": 72,
-  "kr_mood_score": 69,
+  "kr_mood_score": 68,
   "us_mood": "bullish",
   "kr_mood": "bullish",
   "predictions": [
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 1.57,
-      "actual_kr_pct": 1.08,
+      "actual_kr_pct": 0.75,
       "reason": "MI355X용 HBM 공급",
       "us_price": 559.82,
-      "kr_price": 1877000.0
+      "kr_price": 1871000.0
     },
     {
       "us_ticker": "AVGO",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.25,
-      "actual_kr_pct": 1.08,
+      "actual_kr_pct": 0.75,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 357.61,
-      "kr_price": 1877000.0
+      "kr_price": 1871000.0
     },
     {
       "us_ticker": "NVDA",
@@ -108,10 +108,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 0.96,
-      "actual_kr_pct": 1.08,
+      "actual_kr_pct": 0.75,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 222.27,
-      "kr_price": 1877000.0
+      "kr_price": 1871000.0
     },
     {
       "us_ticker": "META",
@@ -120,10 +120,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.92,
-      "actual_kr_pct": 0.15,
+      "actual_kr_pct": -0.3,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 665.75,
-      "kr_price": 198000.0
+      "kr_price": 197100.0
     },
     {
       "us_ticker": "MRVL",
@@ -156,10 +156,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 0.7,
-      "actual_kr_pct": 4.02,
+      "actual_kr_pct": 4.12,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 222.27,
-      "kr_price": 271500.0
+      "kr_price": 271750.0
     },
     {
       "us_ticker": "META",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.65,
-      "actual_kr_pct": 1.08,
+      "actual_kr_pct": 0.75,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 244.25,
-      "kr_price": 1877000.0
+      "kr_price": 1871000.0
     },
     {
       "us_ticker": "TSLA",
@@ -192,10 +192,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.36,
-      "actual_kr_pct": -2.75,
+      "actual_kr_pct": -3.02,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 364.27,
-      "kr_price": 354000.0
+      "kr_price": 353000.0
     },
     {
       "us_ticker": "TSLA",
@@ -204,10 +204,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.33,
-      "actual_kr_pct": -0.86,
+      "actual_kr_pct": -1.43,
       "reason": "NCA 양극재 공급",
       "us_price": 364.27,
-      "kr_price": 104000.0
+      "kr_price": 103400.0
     },
     {
       "us_ticker": "TSLA",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.3,
-      "actual_kr_pct": 0.15,
+      "actual_kr_pct": -0.3,
       "reason": "커머스·클라우드 동행",
       "us_price": 253.71,
-      "kr_price": 198000.0
+      "kr_price": 197100.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 2.55,
+      "kr_actual_avg_pct": 2.44,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.37,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -1.8,
+      "kr_actual_avg_pct": -2.23,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.31,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.3,
+      "kr_actual_avg_pct": -0.67,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.15,
       "lag_hours": 8
@@ -352,15 +352,15 @@
       ]
     },
     {
-      "ticker": "AMD",
-      "title": "Dow Jones Futures Rise; Can The Market Take Flight? Robinhood, Sandisk, AMD, Moderna Surge Into Buy Areas",
+      "ticker": "GOOGL",
+      "title": "BofA cuts to the chase on AI data center demand",
       "title_kr": null,
       "source": "Yahoo",
-      "published_at": "2026-09-20T23:47:03+00:00",
+      "published_at": "2026-09-21T01:37:00+00:00",
       "category": "general",
       "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
+        "NAVER",
+        "카카오"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 81781.82,
-      "change_pct": 0.83,
+      "price": 81326.43,
+      "change_pct": 0.22,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR +16.4% → 위메이드 개장 상방 압력 예상 (+5.7% 전후). US 무드 72/100, KR 무드 69/100."
+  "summary": "미국 MSTR +16.4% → 위메이드 개장 상방 압력 예상 (+5.7% 전후). US 무드 72/100, KR 무드 68/100."
 }
