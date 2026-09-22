@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T07:50:22.960744+00:00",
+  "fetched_at": "2026-09-22T12:56:24.791899+00:00",
   "us_mood_score": 77,
   "kr_mood_score": 49,
   "us_mood": "bullish",
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 5.77,
-      "actual_kr_pct": -1.87,
+      "actual_kr_pct": -1.45,
       "reason": "MI355X용 HBM 공급",
       "us_price": 615.52,
-      "kr_price": 1833000.0
+      "kr_price": 1841000.0
     },
     {
       "us_ticker": "META",
@@ -36,10 +36,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 4.31,
-      "actual_kr_pct": 1.31,
+      "actual_kr_pct": 1.57,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 741.25,
-      "kr_price": 200500.0
+      "kr_price": 201000.0
     },
     {
       "us_ticker": "MRVL",
@@ -96,10 +96,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 2.42,
-      "actual_kr_pct": -1.87,
+      "actual_kr_pct": -1.45,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 257.38,
-      "kr_price": 1833000.0
+      "kr_price": 1841000.0
     },
     {
       "us_ticker": "MSTR",
@@ -120,10 +120,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.06,
-      "actual_kr_pct": -0.43,
+      "actual_kr_pct": 0.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 375.3,
-      "kr_price": 350500.0
+      "kr_price": 352000.0
     },
     {
       "us_ticker": "NVDA",
@@ -144,10 +144,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.88,
-      "actual_kr_pct": 0.48,
+      "actual_kr_pct": 1.16,
       "reason": "NCA 양극재 공급",
       "us_price": 375.3,
-      "kr_price": 103900.0
+      "kr_price": 104600.0
     },
     {
       "us_ticker": "NVDA",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.66,
-      "actual_kr_pct": -1.87,
+      "actual_kr_pct": -1.45,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 227.38,
-      "kr_price": 1833000.0
+      "kr_price": 1841000.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.2,
-      "actual_kr_pct": 0.36,
+      "actual_kr_pct": 1.28,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 227.38,
-      "kr_price": 275000.0
+      "kr_price": 277500.0
     },
     {
       "us_ticker": "AVGO",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -0.76,
+      "kr_actual_avg_pct": -0.08,
       "beta": 0.65,
       "predicted_kr_avg_pct": 3.09,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.02,
+      "kr_actual_avg_pct": 0.58,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.76,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 2.08,
+      "kr_actual_avg_pct": 2.37,
       "beta": 0.38,
       "predicted_kr_avg_pct": 1.55,
       "lag_hours": 8
@@ -328,6 +328,30 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "META",
+      "title": "AI and earnings keep driving markets as focus shifts to Trump-Xi summit",
+      "title_kr": null,
+      "source": "Yahoo",
+      "published_at": "2026-09-22T10:19:35+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "하이브"
+      ]
+    },
+    {
+      "ticker": "NVDA",
+      "title": "3 Undervalued Stocks With At Least 20% Earnings Growth",
+      "title_kr": null,
+      "source": "Yahoo",
+      "published_at": "2026-09-22T09:18:20+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
       "ticker": "MU",
       "title": "Micron (MU) Beats Stock Market Upswing: What Investors Need to Know",
       "title_kr": null,
@@ -337,30 +361,6 @@
       "kr_pairs": [
         "SK하이닉스",
         "삼성전자"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "How Much Of Micron's Revenue Has A Price Ceiling?",
-      "title_kr": null,
-      "source": "Yahoo",
-      "published_at": "2026-09-21T19:46:30+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Paramount Could Acquire Warner Bros. Discovery Sooner Than Expected. Here’s What That Means for Netflix Investors.",
-      "title_kr": null,
-      "source": "Yahoo",
-      "published_at": "2026-09-22T01:43:20+00:00",
-      "category": "ma",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -381,8 +381,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 85281.27,
-      "change_pct": 4.58,
+      "price": 86002.64,
+      "change_pct": 0.79,
       "label": "BTC"
     }
   },
