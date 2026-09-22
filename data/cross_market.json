@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-21T21:11:36.884553+00:00",
+  "fetched_at": "2026-09-22T00:04:05.216491+00:00",
   "us_mood_score": 76,
-  "kr_mood_score": 69,
+  "kr_mood_score": 74,
   "us_mood": "bullish",
   "kr_mood": "bullish",
   "predictions": [
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 5.77,
-      "actual_kr_pct": 1.18,
+      "actual_kr_pct": 3.0,
       "reason": "MI355X용 HBM 공급",
       "us_price": 615.52,
-      "kr_price": 1879000.0
+      "kr_price": 1924000.0
     },
     {
       "us_ticker": "META",
@@ -36,10 +36,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 4.31,
-      "actual_kr_pct": 0.35,
+      "actual_kr_pct": 2.58,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 741.25,
-      "kr_price": 198400.0
+      "kr_price": 203000.0
     },
     {
       "us_ticker": "MRVL",
@@ -96,10 +96,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 2.42,
-      "actual_kr_pct": 1.18,
+      "actual_kr_pct": 3.0,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 257.38,
-      "kr_price": 1879000.0
+      "kr_price": 1924000.0
     },
     {
       "us_ticker": "MSTR",
@@ -120,10 +120,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.06,
-      "actual_kr_pct": -2.34,
+      "actual_kr_pct": 1.56,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 375.3,
-      "kr_price": 355500.0
+      "kr_price": 357500.0
     },
     {
       "us_ticker": "NVDA",
@@ -144,10 +144,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.88,
-      "actual_kr_pct": -0.95,
+      "actual_kr_pct": 2.13,
       "reason": "NCA 양극재 공급",
       "us_price": 375.3,
-      "kr_price": 103900.0
+      "kr_price": 105600.0
     },
     {
       "us_ticker": "NVDA",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.66,
-      "actual_kr_pct": 1.18,
+      "actual_kr_pct": 3.0,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 227.38,
-      "kr_price": 1879000.0
+      "kr_price": 1924000.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.2,
-      "actual_kr_pct": 5.36,
+      "actual_kr_pct": 3.47,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 227.38,
-      "kr_price": 275000.0
+      "kr_price": 283500.0
     },
     {
       "us_ticker": "AVGO",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 3.27,
+      "kr_actual_avg_pct": 3.24,
       "beta": 0.65,
       "predicted_kr_avg_pct": 3.09,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -1.65,
+      "kr_actual_avg_pct": 1.84,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.76,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.05,
+      "kr_actual_avg_pct": 1.89,
       "beta": 0.38,
       "predicted_kr_avg_pct": 1.55,
       "lag_hours": 8
@@ -329,14 +329,26 @@
   "overnight_digest": [
     {
       "ticker": "MU",
-      "title": "Micron Stock Flashes Signal Before Earnings",
+      "title": "Micron (MU) Beats Stock Market Upswing: What Investors Need to Know",
       "title_kr": null,
       "source": "Yahoo",
-      "published_at": "2026-09-21T18:24:14+00:00",
+      "published_at": "2026-09-21T21:45:06+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "삼성전자"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "title": "How Much Of Micron's Revenue Has A Price Ceiling?",
+      "title_kr": null,
+      "source": "Yahoo",
+      "published_at": "2026-09-21T19:46:30+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
       ]
     },
     {
@@ -348,18 +360,6 @@
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Prediction: Berkshire Hathaway's Operating Earnings Will Top $48 Billion in 2026",
-      "title_kr": null,
-      "source": "Yahoo",
-      "published_at": "2026-09-21T17:05:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -380,10 +380,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 86663.75,
-      "change_pct": 7.38,
+      "price": 86448.01,
+      "change_pct": 6.31,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +9.9% → 한미반도체 개장 상방 압력 예상 (+6.8% 전후). US 무드 76/100, KR 무드 69/100."
+  "summary": "미국 AMD +9.9% → 한미반도체 개장 상방 압력 예상 (+6.8% 전후). US 무드 76/100, KR 무드 74/100."
 }
