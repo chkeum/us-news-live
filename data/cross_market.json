@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-28T23:36:21.680591+00:00",
+  "fetched_at": "2026-09-29T02:43:19.759201+00:00",
   "us_mood_score": 42,
-  "kr_mood_score": 50,
+  "kr_mood_score": 42,
   "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
@@ -12,10 +12,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -2.68,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -3.16,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 357.45,
-      "kr_price": 364000.0
+      "kr_price": 352500.0
     },
     {
       "us_ticker": "AMD",
@@ -36,10 +36,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -2.44,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -5.57,
       "reason": "NCA 양극재 공급",
       "us_price": 357.45,
-      "kr_price": 111300.0
+      "kr_price": 105100.0
     },
     {
       "us_ticker": "MRVL",
@@ -96,10 +96,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -2.09,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.06,
       "reason": "MI355X용 HBM 공급",
       "us_price": 607.87,
-      "kr_price": 1768000.0
+      "kr_price": 1769000.0
     },
     {
       "us_ticker": "TSLA",
@@ -120,10 +120,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -1.82,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.82,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 715.62,
-      "kr_price": 197700.0
+      "kr_price": 194100.0
     },
     {
       "us_ticker": "MRVL",
@@ -132,10 +132,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -1.72,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.06,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 251.9,
-      "kr_price": 1768000.0
+      "kr_price": 1769000.0
     },
     {
       "us_ticker": "NVDA",
@@ -180,10 +180,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.21,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.06,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 228.86,
-      "kr_price": 1768000.0
+      "kr_price": 1769000.0
     },
     {
       "us_ticker": "NVDA",
@@ -192,10 +192,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 0.87,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.11,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 228.86,
-      "kr_price": 270000.0
+      "kr_price": 273000.0
     },
     {
       "us_ticker": "AVGO",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.47,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.82,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 509.22,
-      "kr_price": 197700.0
+      "kr_price": 194100.0
     },
     {
       "us_ticker": "MSFT",
@@ -228,10 +228,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.43,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.76,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 509.22,
-      "kr_price": 34150.0
+      "kr_price": 33550.0
     },
     {
       "us_ticker": "AMZN",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.42,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -1.82,
       "reason": "커머스·클라우드 동행",
       "us_price": 246.15,
-      "kr_price": 197700.0
+      "kr_price": 194100.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 0.59,
       "beta": 0.65,
       "predicted_kr_avg_pct": -1.09,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -4.37,
       "beta": 0.58,
       "predicted_kr_avg_pct": -2.29,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.79,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.75,
       "lag_hours": 8
@@ -329,10 +329,10 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "The S&P 500 Has Only Grown Earnings This Fast Twice Before. History Says This Is What Happens Next",
-      "title_kr": "S&P 500의 수익은 이전에 두 번만 이렇게 빠르게 증가했습니다. 역사는 이것이 다음에 일어날 일이라고 말합니다",
+      "title": "Conagra Brands's Next Earnings Report on Sep. 30 2026 Could Send the Stock Soaring. Here's Why.",
+      "title_kr": null,
       "source": "Yahoo",
-      "published_at": "2026-09-28T21:05:01+00:00",
+      "published_at": "2026-09-29T00:33:25+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 83586,
-      "change_pct": -0.97,
+      "price": 82993.77,
+      "change_pct": -0.58,
       "label": "BTC"
     }
   },
-  "summary": "미국 TSLA -3.9% → LG에너지솔루션 개장 하방 압력 예상 (-2.7% 전후). US 무드 42/100, KR 무드 50/100."
+  "summary": "미국 TSLA -3.9% → LG에너지솔루션 개장 하방 압력 예상 (-2.7% 전후). US 무드 42/100, KR 무드 42/100."
 }
