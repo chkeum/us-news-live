@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-02T01:21:44.084499+00:00",
+  "fetched_at": "2026-10-02T03:02:48.551686+00:00",
   "us_mood_score": 51,
-  "kr_mood_score": 54,
+  "kr_mood_score": 52,
   "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -0.9,
-      "actual_kr_pct": 0.27,
+      "actual_kr_pct": 0.6,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 343.64,
-      "kr_price": 1838000.0
+      "kr_price": 1844000.0
     },
     {
       "us_ticker": "NVDA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 0.78,
-      "actual_kr_pct": 0.27,
+      "actual_kr_pct": 0.6,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 230.86,
-      "kr_price": 1838000.0
+      "kr_price": 1844000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -132,10 +132,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.71,
-      "actual_kr_pct": 0.31,
+      "actual_kr_pct": 0.0,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 338.24,
-      "kr_price": 191800.0
+      "kr_price": 191200.0
     },
     {
       "us_ticker": "MRVL",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.66,
-      "actual_kr_pct": 0.27,
+      "actual_kr_pct": 0.6,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 268.08,
-      "kr_price": 1838000.0
+      "kr_price": 1844000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -156,10 +156,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.59,
-      "actual_kr_pct": -0.6,
+      "actual_kr_pct": -1.19,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 338.24,
-      "kr_price": 33350.0
+      "kr_price": 33150.0
     },
     {
       "us_ticker": "NVDA",
@@ -168,10 +168,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 0.57,
-      "actual_kr_pct": -0.18,
+      "actual_kr_pct": 0.36,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 230.86,
-      "kr_price": 275500.0
+      "kr_price": 277000.0
     },
     {
       "us_ticker": "AMD",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 0.38,
-      "actual_kr_pct": 0.27,
+      "actual_kr_pct": 0.6,
       "reason": "MI355X용 HBM 공급",
       "us_price": 615.73,
-      "kr_price": 1838000.0
+      "kr_price": 1844000.0
     },
     {
       "us_ticker": "TSLA",
@@ -204,10 +204,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.14,
-      "actual_kr_pct": 1.25,
+      "actual_kr_pct": 0.97,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 354.11,
-      "kr_price": 365000.0
+      "kr_price": 364000.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.12,
-      "actual_kr_pct": 1.66,
+      "actual_kr_pct": -0.17,
       "reason": "NCA 양극재 공급",
       "us_price": 354.11,
-      "kr_price": 116600.0
+      "kr_price": 114500.0
     },
     {
       "us_ticker": "TSLA",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.05,
+      "kr_actual_avg_pct": 0.48,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.17,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 1.46,
+      "kr_actual_avg_pct": 0.4,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.12,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.14,
+      "kr_actual_avg_pct": -0.59,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.19,
       "lag_hours": 8
@@ -328,9 +328,21 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "GOOGL",
+      "title": "Rezolve AI Highlights Agentic Commerce Strategy, 2026 Revenue Growth at Lytham Conference",
+      "title_kr": "Rezolve AI, Lytham 컨퍼런스에서 Agentic Commerce 전략, 2026년 수익 성장 강조",
+      "source": "Yahoo",
+      "published_at": "2026-10-02T00:02:24+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "title": "Acuity Brands, Inc. Q4 2026 Earnings Call Summary",
-      "title_kr": null,
+      "title_kr": "Acuity Brands, Inc. 2026년 4분기 실적 요약",
       "source": "Yahoo",
       "published_at": "2026-10-01T20:50:38+00:00",
       "category": "earnings",
@@ -342,24 +354,12 @@
     {
       "ticker": "MU",
       "title": "Micron Earnings: AI-Driven Memory Cycle Remains Strong",
-      "title_kr": null,
+      "title_kr": "Micron 수익: AI 기반 메모리 사이클이 여전히 강세를 보이고 있습니다.",
       "source": "Yahoo",
       "published_at": "2026-10-01T19:50:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
-        "삼성전자"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Top Midday Stories: Micron Shares Fall Despite Strong Earnings, Guidance; Broadcom to Lend Anthropic $42 Billion for Infrastructure Spending",
-      "title_kr": "주요 정오 기사: 강력한 수익과 가이던스에도 불구하고 Micron 주가 하락; Broadcom, 인프라 지출을 위해 인류에게 420억 달러 대출",
-      "source": "Yahoo",
-      "published_at": "2026-10-01T15:38:23+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
         "삼성전자"
       ]
     }
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 84582.11,
-      "change_pct": 1.08,
+      "price": 85495,
+      "change_pct": 2.38,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR +4.8% → 위메이드 개장 상방 압력 예상 (+1.7% 전후). US 무드 51/100, KR 무드 54/100."
+  "summary": "미국 MSTR +4.8% → 위메이드 개장 상방 압력 예상 (+1.7% 전후). US 무드 51/100, KR 무드 52/100."
 }
