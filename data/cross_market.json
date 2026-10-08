@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-08T03:28:42.499291+00:00",
-  "us_mood_score": 53,
-  "kr_mood_score": 38,
+  "fetched_at": "2026-10-08T10:50:06.702964+00:00",
+  "us_mood_score": 50,
+  "kr_mood_score": 27,
   "us_mood": "neutral",
   "kr_mood": "bearish",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.9,
-      "actual_kr_pct": -2.86,
+      "actual_kr_pct": -3.07,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 721.31,
-      "kr_price": 183600.0
+      "kr_price": 183200.0
     },
     {
       "us_ticker": "META",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.53,
-      "actual_kr_pct": 0.32,
+      "actual_kr_pct": -2.21,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 237.47,
-      "kr_price": 1728500.0
+      "kr_price": 1685000.0
     },
     {
       "us_ticker": "TSLA",
@@ -96,10 +96,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.51,
-      "actual_kr_pct": 4.35,
+      "actual_kr_pct": 3.07,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 377.81,
-      "kr_price": 408000.0
+      "kr_price": 403000.0
     },
     {
       "us_ticker": "MRVL",
@@ -132,10 +132,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.46,
-      "actual_kr_pct": 1.2,
+      "actual_kr_pct": 1.93,
       "reason": "NCA 양극재 공급",
       "us_price": 377.81,
-      "kr_price": 126000.0
+      "kr_price": 126900.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.43,
-      "actual_kr_pct": -2.86,
+      "actual_kr_pct": -3.07,
       "reason": "커머스·클라우드 동행",
       "us_price": 259.92,
-      "kr_price": 183600.0
+      "kr_price": 183200.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": 0.4,
-      "actual_kr_pct": -0.93,
+      "actual_kr_pct": -2.05,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 259.92,
-      "kr_price": 266000.0
+      "kr_price": 263000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -204,10 +204,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.38,
-      "actual_kr_pct": -0.93,
+      "actual_kr_pct": -2.05,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 237.47,
-      "kr_price": 266000.0
+      "kr_price": 263000.0
     },
     {
       "us_ticker": "AMD",
@@ -240,10 +240,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -0.36,
-      "actual_kr_pct": 0.32,
+      "actual_kr_pct": -2.21,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 284.68,
-      "kr_price": 1728500.0
+      "kr_price": 1685000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -0.31,
+      "kr_actual_avg_pct": -2.13,
       "beta": 0.65,
       "predicted_kr_avg_pct": -0.31,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 2.77,
+      "kr_actual_avg_pct": 2.5,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.43,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -2.26,
+      "kr_actual_avg_pct": -2.67,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.01,
       "lag_hours": 8
@@ -329,10 +329,22 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "Samsung Q3 profit surges to record high, but misses lofty expectations",
-      "title_kr": "삼성전자 3분기 이익 사상 최대치 기록했지만 높은 기대치 밑돌았다",
+      "title": "Tesla Delivered 486,532 Vehicles in Q3. Here's the Margin Math That Will Decide the Earnings Reaction.",
+      "title_kr": "Tesla는 3분기에 486,532대의 차량을 인도했습니다. 수익 반응을 결정하는 마진 수학은 다음과 같습니다.",
       "source": "Yahoo",
-      "published_at": "2026-10-07T23:51:27+00:00",
+      "published_at": "2026-10-08T09:17:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "title": "TSMC’s Quarterly Revenue Jumps 51% After AI Demand Holds Up",
+      "title_kr": "AI 수요가 유지된 후 TSMC의 분기별 수익이 51% 증가",
+      "source": "Yahoo",
+      "published_at": "2026-10-08T05:44:47+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -341,26 +353,14 @@
     },
     {
       "ticker": "MRVL",
-      "title": "Marvell Technology (MRVL) Lifts 2031 Revenue Goal To $70 Billion To $90 Billion",
-      "title_kr": "Marvell Technology(MRVL), 2031년 매출 목표를 700억~900억 달러로 상향",
+      "title": "Applied Materials vs. Marvell Technology: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "title_kr": "Applied Materials vs. Marvell Technology: 수익 추세가 투자자에게 인공 지능 회사에 대해 알려주는 것",
       "source": "Yahoo",
-      "published_at": "2026-10-07T22:15:53+00:00",
+      "published_at": "2026-10-08T03:59:07+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Opinion: It Does Not Matter if Muse Generates “8% of Revenue” for Meta – Zuckerberg Can Win Regardless",
-      "title_kr": "의견: Muse가 메타에 대해 \"8%의 수익\"을 창출하는지 여부는 중요하지 않습니다. Zuckerberg는 그럼에도 불구하고 승리할 수 있습니다.",
-      "source": "Yahoo",
-      "published_at": "2026-10-07T19:15:39+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "하이브"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 15.08,
-      "change_pct": 0.47,
+      "price": 15.99,
+      "change_pct": 6.03,
       "label": "VIX"
     },
     "btc": {
-      "price": 82994.03,
-      "change_pct": -1.24,
+      "price": 82635.72,
+      "change_pct": -1.32,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR -6.8% → 위메이드 개장 하방 압력 예상 (-2.4% 전후). US 무드 53/100, KR 무드 38/100."
+  "summary": "미국 MSTR -6.8% → 위메이드 개장 하방 압력 예상 (-2.4% 전후). US 무드 50/100, KR 무드 27/100."
 }
