@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-07T23:02:13.315309+00:00",
+  "fetched_at": "2026-10-08T02:37:41.663917+00:00",
   "us_mood_score": 53,
-  "kr_mood_score": 20,
+  "kr_mood_score": 43,
   "us_mood": "neutral",
-  "kr_mood": "bearish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "MSTR",
@@ -36,10 +36,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.9,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -2.75,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 721.31,
-      "kr_price": 188100.0
+      "kr_price": 183800.0
     },
     {
       "us_ticker": "META",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.53,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.51,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 237.47,
-      "kr_price": 1723000.0
+      "kr_price": 1749000.0
     },
     {
       "us_ticker": "TSLA",
@@ -96,10 +96,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.51,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.73,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 377.81,
-      "kr_price": 387000.0
+      "kr_price": 409500.0
     },
     {
       "us_ticker": "MRVL",
@@ -132,10 +132,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.46,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 2.65,
       "reason": "NCA 양극재 공급",
       "us_price": 377.81,
-      "kr_price": 124400.0
+      "kr_price": 127800.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.43,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -2.75,
       "reason": "커머스·클라우드 동행",
       "us_price": 259.92,
-      "kr_price": 188100.0
+      "kr_price": 183800.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "삼성전자",
       "beta": 0.28,
       "predicted_kr_pct": 0.4,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.74,
       "reason": "AWS Trainium3 → HBM 수요",
       "us_price": 259.92,
-      "kr_price": 268500.0
+      "kr_price": 266500.0
     },
     {
       "us_ticker": "GOOGL",
@@ -204,10 +204,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.38,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.74,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 237.47,
-      "kr_price": 268500.0
+      "kr_price": 266500.0
     },
     {
       "us_ticker": "AMD",
@@ -240,10 +240,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -0.36,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.51,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 284.68,
-      "kr_price": 1723000.0
+      "kr_price": 1749000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 0.39,
       "beta": 0.65,
       "predicted_kr_avg_pct": -0.31,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 3.69,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.43,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -2.06,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.01,
       "lag_hours": 8
@@ -328,6 +328,30 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "NVDA",
+      "title": "Samsung Q3 profit surges to record high, but misses lofty expectations",
+      "title_kr": "삼성전자 3분기 이익 사상 최대치 기록했지만 높은 기대치 밑돌았다",
+      "source": "Yahoo",
+      "published_at": "2026-10-07T23:51:27+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "MRVL",
+      "title": "Marvell Technology (MRVL) Lifts 2031 Revenue Goal To $70 Billion To $90 Billion",
+      "title_kr": "Marvell Technology(MRVL), 2031년 매출 목표를 700억~900억 달러로 상향",
+      "source": "Yahoo",
+      "published_at": "2026-10-07T22:15:53+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
       "ticker": "META",
       "title": "Opinion: It Does Not Matter if Muse Generates “8% of Revenue” for Meta – Zuckerberg Can Win Regardless",
       "title_kr": "의견: Muse가 메타에 대해 \"8%의 수익\"을 창출하는지 여부는 중요하지 않습니다. Zuckerberg는 그럼에도 불구하고 승리할 수 있습니다.",
@@ -337,30 +361,6 @@
       "kr_pairs": [
         "NAVER",
         "하이브"
-      ]
-    },
-    {
-      "ticker": "NVDA",
-      "title": "Will Deutsche Bank’s Upgrade on Strong Q2 FY26 Earnings Change Boyd Gaming’s (BYD) Narrative",
-      "title_kr": "Deutsche Bank의 강력한 Q2 FY26 수익 업그레이드로 Boyd Gaming(BYD)의 내러티브가 바뀔까요?",
-      "source": "Yahoo",
-      "published_at": "2026-10-07T19:11:03+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
-    },
-    {
-      "ticker": "MSFT",
-      "title": "Does Generac (GNRC) Consistent Earnings Outperformance Reveal Durable Earnings Power or Lofty Expectations?",
-      "title_kr": "Generac(GNRC)의 일관된 수익 초과 성과가 지속 가능한 수익 파워 또는 높은 기대치를 나타냅니까?",
-      "source": "Yahoo",
-      "published_at": "2026-10-07T18:14:10+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 83220.33,
-      "change_pct": -2.72,
+      "price": 83172.89,
+      "change_pct": -0.94,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR -6.8% → 위메이드 개장 하방 압력 예상 (-2.4% 전후). US 무드 53/100, KR 무드 20/100."
+  "summary": "미국 MSTR -6.8% → 위메이드 개장 하방 압력 예상 (-2.4% 전후). US 무드 53/100, KR 무드 43/100."
 }
