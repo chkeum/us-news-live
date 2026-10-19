@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-18T23:49:53.484498+00:00",
+  "fetched_at": "2026-10-19T02:18:44.892830+00:00",
   "us_mood_score": 23,
-  "kr_mood_score": 50,
+  "kr_mood_score": 41,
   "us_mood": "bearish",
   "kr_mood": "neutral",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -3.45,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -3.14,
       "reason": "MI355X용 HBM 공급",
       "us_price": 528.75,
-      "kr_price": 1272000.0
+      "kr_price": 1232000.0
     },
     {
       "us_ticker": "MSTR",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -2.5,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -3.14,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 227.83,
-      "kr_price": 1272000.0
+      "kr_price": 1232000.0
     },
     {
       "us_ticker": "AVGO",
@@ -108,10 +108,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -1.9,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -3.14,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 328.75,
-      "kr_price": 1272000.0
+      "kr_price": 1232000.0
     },
     {
       "us_ticker": "TSLA",
@@ -120,10 +120,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.45,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 4.96,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 354.72,
-      "kr_price": 403000.0
+      "kr_price": 423000.0
     },
     {
       "us_ticker": "META",
@@ -132,10 +132,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -1.41,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 709.33,
-      "kr_price": 180000.0
+      "kr_price": 181800.0
     },
     {
       "us_ticker": "TSLA",
@@ -144,10 +144,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -1.32,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 5.05,
       "reason": "NCA 양극재 공급",
       "us_price": 354.72,
-      "kr_price": 106900.0
+      "kr_price": 112300.0
     },
     {
       "us_ticker": "TSLA",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -1.04,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 1.0,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 340.59,
-      "kr_price": 180000.0
+      "kr_price": 181800.0
     },
     {
       "us_ticker": "META",
@@ -240,10 +240,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.03,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -3.14,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 214.13,
-      "kr_price": 1272000.0
+      "kr_price": 1232000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -1.75,
       "beta": 0.65,
       "predicted_kr_avg_pct": -2.84,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 5.0,
       "beta": 0.58,
       "predicted_kr_avg_pct": -1.24,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 0.42,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.95,
       "lag_hours": 8
@@ -328,6 +328,18 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "TSLA",
+      "title": "Meta, Tesla Q3 earnings will be fighting rising AI skepticism",
+      "title_kr": "Meta, Tesla Q3 수익은 AI 회의론에 맞서 싸울 것입니다",
+      "source": "Yahoo",
+      "published_at": "2026-10-19T01:17:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "LG에너지솔루션",
+        "에코프로비엠"
+      ]
+    },
+    {
       "ticker": "AMD",
       "title": "3 AI Stocks With Earnings Growth Over 33% To Watch",
       "title_kr": "33% 이상의 수익 성장을 보이는 AI 주식 3개",
@@ -350,18 +362,6 @@
         "SK하이닉스",
         "한미반도체"
       ]
-    },
-    {
-      "ticker": "TSLA",
-      "title": "Dow Jones Futures: More AI Pain After Nasdaq Sell-Off? Meta, SpaceX, Tesla Earnings Key",
-      "title_kr": "다우존스 선물: 나스닥 매도 이후 AI의 고통이 더 커졌나요? Meta, SpaceX, Tesla 수익 키",
-      "source": "Yahoo",
-      "published_at": "2026-10-18T17:32:26+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "LG에너지솔루션",
-        "에코프로비엠"
-      ]
     }
   ],
   "macro": {
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 82055.28,
-      "change_pct": 0.84,
+      "price": 82460.7,
+      "change_pct": 0.98,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD -6.0% → 한미반도체 개장 하방 압력 예상 (-4.0% 전후). US 무드 23/100, KR 무드 50/100."
+  "summary": "미국 AMD -6.0% → 한미반도체 개장 하방 압력 예상 (-4.0% 전후). US 무드 23/100, KR 무드 41/100."
 }
