@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T07:48:25.081287+00:00",
+  "fetched_at": "2026-10-22T13:18:08.842321+00:00",
   "us_mood_score": 57,
   "kr_mood_score": 0,
   "us_mood": "neutral",
@@ -24,10 +24,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 2.32,
-      "actual_kr_pct": -5.47,
+      "actual_kr_pct": -4.86,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 386.47,
-      "kr_price": 389000.0
+      "kr_price": 391500.0
     },
     {
       "us_ticker": "AMD",
@@ -60,10 +60,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 2.11,
-      "actual_kr_pct": -9.75,
+      "actual_kr_pct": -9.11,
       "reason": "NCA 양극재 공급",
       "us_price": 386.47,
-      "kr_price": 98100.0
+      "kr_price": 98800.0
     },
     {
       "us_ticker": "NVDA",
@@ -96,10 +96,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 1.95,
-      "actual_kr_pct": -6.03,
+      "actual_kr_pct": -4.64,
       "reason": "MI355X용 HBM 공급",
       "us_price": 552.72,
-      "kr_price": 1216000.0
+      "kr_price": 1234000.0
     },
     {
       "us_ticker": "TSLA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.83,
-      "actual_kr_pct": -6.03,
+      "actual_kr_pct": -4.64,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 221.97,
-      "kr_price": 1216000.0
+      "kr_price": 1234000.0
     },
     {
       "us_ticker": "MSTR",
@@ -156,10 +156,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.32,
-      "actual_kr_pct": -4.47,
+      "actual_kr_pct": -4.03,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 221.97,
-      "kr_price": 213500.0
+      "kr_price": 214500.0
     },
     {
       "us_ticker": "MRVL",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 0.81,
-      "actual_kr_pct": -6.03,
+      "actual_kr_pct": -4.64,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 244.76,
-      "kr_price": 1216000.0
+      "kr_price": 1234000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -216,10 +216,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.68,
-      "actual_kr_pct": -2.17,
+      "actual_kr_pct": -2.23,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 334.76,
-      "kr_price": 175600.0
+      "kr_price": 175500.0
     },
     {
       "us_ticker": "GOOGL",
@@ -228,10 +228,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.57,
-      "actual_kr_pct": -2.26,
+      "actual_kr_pct": -2.42,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 334.76,
-      "kr_price": 30250.0
+      "kr_price": 30200.0
     },
     {
       "us_ticker": "AVGO",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -5.25,
+      "kr_actual_avg_pct": -4.33,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.42,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -7.61,
+      "kr_actual_avg_pct": -6.98,
       "beta": 0.58,
       "predicted_kr_avg_pct": 1.98,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -2.21,
+      "kr_actual_avg_pct": -2.33,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.1,
       "lag_hours": 8
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "TSLA",
-      "title": "Tesla Asian supplier shares fall after mixed Q3 earnings, cautious outlook",
-      "title_kr": "Tesla 아시아 공급업체 주가는 엇갈린 3분기 실적, 신중한 전망으로 하락",
+      "ticker": "GOOGL",
+      "title": "Guidance Raise And Momentum - Garmin Stock Has Both",
+      "title_kr": "가이던스 인상과 모멘텀 - Garmin 주식에는 두 가지가 모두 있습니다",
       "source": "Yahoo",
-      "published_at": "2026-10-22T04:07:33+00:00",
+      "published_at": "2026-10-22T11:45:39+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "Stocks Fall Pre-Bell as Traders Digest Meta, Tesla Earnings",
+      "title_kr": "트레이더 다이제스트 메타, Tesla 수익으로 주식은 벨 전 하락",
+      "source": "Yahoo",
+      "published_at": "2026-10-22T11:43:07+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
@@ -341,26 +353,14 @@
     },
     {
       "ticker": "NVDA",
-      "title": "Meta Delivers Another Blowout Earnings Report. Here's What Investors Need To Know",
-      "title_kr": "Meta는 또 다른 폭발적인 수익 보고서를 제공합니다. 투자자가 알아야 할 사항은 다음과 같습니다.",
+      "title": "Bristol Myers Squibb vs. Eli Lilly: How Long Can Zepbound and Mounjaro Keep Juicing Revenue Results?",
+      "title_kr": "Bristol Myers Squibb 대 Eli Lilly: Zepbound와 Mounjaro가 주스 수익 결과를 얼마나 오랫동안 유지할 수 있습니까?",
       "source": "Yahoo",
-      "published_at": "2026-10-22T04:05:02+00:00",
+      "published_at": "2026-10-22T11:13:02+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "Meta (META) Q3 2026 Earnings Call Transcript",
-      "title_kr": "메타(META) 2026년 3분기 실적 통화 기록",
-      "source": "Yahoo",
-      "published_at": "2026-10-22T00:58:15+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "하이브"
       ]
     }
   ],
@@ -376,13 +376,13 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 18.24,
-      "change_pct": 9.35,
+      "price": 18.07,
+      "change_pct": 8.33,
       "label": "VIX"
     },
     "btc": {
-      "price": 82333.71,
-      "change_pct": -0.95,
+      "price": 81742.01,
+      "change_pct": -2.48,
       "label": "BTC"
     }
   },
