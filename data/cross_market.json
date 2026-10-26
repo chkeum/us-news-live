@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-10-26T02:13:13.879559+00:00",
+  "fetched_at": "2026-10-26T07:46:29.491188+00:00",
   "us_mood_score": 22,
-  "kr_mood_score": 28,
+  "kr_mood_score": 17,
   "us_mood": "bearish",
   "kr_mood": "bearish",
   "predictions": [
@@ -48,10 +48,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.02,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.16,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 228.51,
-      "kr_price": 1277000.0
+      "kr_price": 1279000.0
     },
     {
       "us_ticker": "AMD",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 1.01,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.16,
       "reason": "MI355X용 HBM 공급",
       "us_price": 516.79,
-      "kr_price": 1277000.0
+      "kr_price": 1279000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -84,10 +84,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.52,
-      "actual_kr_pct": 0.12,
+      "actual_kr_pct": -0.23,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 320.21,
-      "kr_price": 173800.0
+      "kr_price": 173200.0
     },
     {
       "us_ticker": "NVDA",
@@ -120,10 +120,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.43,
-      "actual_kr_pct": -1.31,
+      "actual_kr_pct": -1.96,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 372.22,
-      "kr_price": 378000.0
+      "kr_price": 375500.0
     },
     {
       "us_ticker": "GOOGL",
@@ -132,10 +132,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.43,
-      "actual_kr_pct": -1.42,
+      "actual_kr_pct": -1.67,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 320.21,
-      "kr_price": 29525.0
+      "kr_price": 29450.0
     },
     {
       "us_ticker": "NVDA",
@@ -144,10 +144,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.42,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 0.16,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 210.96,
-      "kr_price": 1277000.0
+      "kr_price": 1279000.0
     },
     {
       "us_ticker": "TSLA",
@@ -156,10 +156,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.39,
-      "actual_kr_pct": -3.23,
+      "actual_kr_pct": -3.56,
       "reason": "NCA 양극재 공급",
       "us_price": 372.22,
-      "kr_price": 89800.0
+      "kr_price": 89500.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.36,
-      "actual_kr_pct": 0.12,
+      "actual_kr_pct": -0.23,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 642.62,
-      "kr_price": 173800.0
+      "kr_price": 173200.0
     },
     {
       "us_ticker": "TSLA",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": -0.28,
-      "actual_kr_pct": 0.12,
+      "actual_kr_pct": -0.23,
       "reason": "커머스·클라우드 동행",
       "us_price": 248,
-      "kr_price": 173800.0
+      "kr_price": 173200.0
     },
     {
       "us_ticker": "META",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -0.58,
+      "kr_actual_avg_pct": -0.5,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.48,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -2.27,
+      "kr_actual_avg_pct": -2.76,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.37,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.65,
+      "kr_actual_avg_pct": -0.95,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.24,
       "lag_hours": 8
@@ -328,23 +328,11 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "GOOGL",
-      "title": "U.S. stock futures edge higher after bruising tech losses; Fed, earnings on tap",
-      "title_kr": null,
-      "source": "Yahoo",
-      "published_at": "2026-10-26T01:11:51+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "title": "Microsoft, Alphabet, and Amazon Make Up About 15% of the S&P 500. All 3 Report Earnings Within 2 Days.",
-      "title_kr": null,
+      "title": "Jensen Huang Says Nvidia's Next-Gen Vera Rubin Chips Will Generate $40 Billion in Revenue per Gigawatt, Up From $25 Billion for Grace Blackwell. What That Means for NVDA's Growth Runway.",
+      "title_kr": "Jensen Huang은 Nvidia의 차세대 Vera Rubin 칩이 Grace Blackwell의 250억 달러에서 기가와트당 400억 달러의 수익을 창출할 것이라고 말했습니다. NVDA의 성장 런웨이에 대한 의미.",
       "source": "Yahoo",
-      "published_at": "2026-10-26T00:27:01+00:00",
+      "published_at": "2026-10-26T04:20:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -352,9 +340,21 @@
       ]
     },
     {
+      "ticker": "GOOGL",
+      "title": "Big Tech Earnings Are a No-Win Test as Investors Punish Both Capex Cuts and Hikes",
+      "title_kr": "투자자들이 Capex 삭감과 인상을 모두 처벌함에 따라 거대 기술 수익은 승리할 수 없는 테스트입니다.",
+      "source": "Yahoo",
+      "published_at": "2026-10-26T03:02:03+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
       "ticker": "AMZN",
       "title": "Morgan Stanley Sees Amazon Stock Surging 100% with AWS Hitting $1 Trillion in Revenue Sooner Than People Think",
-      "title_kr": null,
+      "title_kr": "Morgan Stanley는 AWS가 사람들이 생각하는 것보다 빨리 1조 달러의 수익을 달성하면서 Amazon 주식이 100% 급등했다고 보고 있습니다.",
       "source": "Yahoo",
       "published_at": "2026-10-25T17:30:02+00:00",
       "category": "earnings",
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 19.45,
-      "change_pct": 2.21,
+      "price": 19.65,
+      "change_pct": 1.03,
       "label": "VIX"
     },
     "btc": {
-      "price": 79869.97,
-      "change_pct": -1.33,
+      "price": 80142.01,
+      "change_pct": -0.71,
       "label": "BTC"
     }
   },
-  "summary": "미국 MRVL +2.3% → 한미반도체 개장 상방 압력 예상 (+1.4% 전후). US 무드 22/100, KR 무드 28/100."
+  "summary": "미국 MRVL +2.3% → 한미반도체 개장 상방 압력 예상 (+1.4% 전후). US 무드 22/100, KR 무드 17/100."
 }
