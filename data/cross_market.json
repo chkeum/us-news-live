@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-10-26T21:57:04.235016+00:00",
+  "fetched_at": "2026-10-27T01:01:10.496944+00:00",
   "us_mood_score": 57,
-  "kr_mood_score": 17,
+  "kr_mood_score": 100,
   "us_mood": "neutral",
-  "kr_mood": "bearish",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "TSLA",
@@ -12,10 +12,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 3.54,
-      "actual_kr_pct": -1.7,
+      "actual_kr_pct": 1.87,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 391.62,
-      "kr_price": 376500.0
+      "kr_price": 382000.0
     },
     {
       "us_ticker": "TSLA",
@@ -24,10 +24,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 3.23,
-      "actual_kr_pct": -2.91,
+      "actual_kr_pct": 5.69,
       "reason": "NCA 양극재 공급",
       "us_price": 391.62,
-      "kr_price": 90100.0
+      "kr_price": 94700.0
     },
     {
       "us_ticker": "TSLA",
@@ -108,10 +108,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.72,
-      "actual_kr_pct": 1.02,
+      "actual_kr_pct": 6.2,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 216,
-      "kr_price": 1290000.0
+      "kr_price": 1354000.0
     },
     {
       "us_ticker": "AMD",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 1.62,
-      "actual_kr_pct": 1.02,
+      "actual_kr_pct": 6.2,
       "reason": "MI355X용 HBM 공급",
       "us_price": 531.28,
-      "kr_price": 1290000.0
+      "kr_price": 1354000.0
     },
     {
       "us_ticker": "MSTR",
@@ -180,10 +180,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.24,
-      "actual_kr_pct": -0.93,
+      "actual_kr_pct": 4.58,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 216,
-      "kr_price": 213500.0
+      "kr_price": 222750.0
     },
     {
       "us_ticker": "MRVL",
@@ -192,10 +192,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.04,
-      "actual_kr_pct": 1.02,
+      "actual_kr_pct": 6.2,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 233.78,
-      "kr_price": 1290000.0
+      "kr_price": 1354000.0
     },
     {
       "us_ticker": "AVGO",
@@ -204,10 +204,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 0.98,
-      "actual_kr_pct": 1.02,
+      "actual_kr_pct": 6.2,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 329.17,
-      "kr_price": 1290000.0
+      "kr_price": 1354000.0
     },
     {
       "us_ticker": "MSTR",
@@ -228,10 +228,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.71,
-      "actual_kr_pct": 0.46,
+      "actual_kr_pct": 0.63,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 630.56,
-      "kr_price": 174400.0
+      "kr_price": 175300.0
     },
     {
       "us_ticker": "MSFT",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 0.54,
-      "actual_kr_pct": 0.46,
+      "actual_kr_pct": 0.63,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 532.6,
-      "kr_price": 174400.0
+      "kr_price": 175300.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.04,
+      "kr_actual_avg_pct": 5.39,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.6,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -2.31,
+      "kr_actual_avg_pct": 3.78,
       "beta": 0.58,
       "predicted_kr_avg_pct": 3.02,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.44,
+      "kr_actual_avg_pct": 0.57,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.09,
       "lag_hours": 8
@@ -328,23 +328,11 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "GOOGL",
-      "title": "Prediction: Earnings Will “Double” at Amazon, Alphabet and Meta in Five Years",
-      "title_kr": "예측: 5년 안에 Amazon, Alphabet 및 Meta의 수익이 \"두 배\" 증가할 것입니다.",
-      "source": "Yahoo",
-      "published_at": "2026-10-26T17:58:35+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "title": "Netflix Stock: Should You Buy the Post-Earnings Dip?",
-      "title_kr": "넷플릭스 주식: 실적 하락 이후 매수해야 할까요?",
+      "title": "SpaceX's Adjusted Earnings Quadrupled in Q3. Is the Stock Heading Back to $200?",
+      "title_kr": "SpaceX의 조정 수익은 3분기에 4배 증가했습니다. 주가가 다시 200달러로 향하고 있나요?",
       "source": "Yahoo",
-      "published_at": "2026-10-26T17:12:02+00:00",
+      "published_at": "2026-10-26T23:40:02+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -352,15 +340,26 @@
       ]
     },
     {
-      "ticker": "AVGO",
-      "title": "Vertiv to Report Q3 Earnings: Should You Buy, Sell, or Hold the Stock?",
-      "title_kr": "Vertiv, 3분기 수익 보고: 주식을 매수, 매도, 보유해야 합니까?",
+      "ticker": "INTC",
+      "title": "Q2 earnings recap: Intel (NASDAQ:INTC) tops processors and graphics chips stocks",
+      "title_kr": "2분기 실적 요약: Intel(NASDAQ:INTC)이 프로세서 및 그래픽 칩 주식 1위를 차지했습니다.",
       "source": "Yahoo",
-      "published_at": "2026-10-26T17:11:00+00:00",
+      "published_at": "2026-10-26T23:34:47+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "한미반도체",
         "SK하이닉스"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "Don't Miss This Week's 5 Most Important Earnings Charts",
+      "title_kr": "이번 주의 가장 중요한 5가지 수익 차트를 놓치지 마세요",
+      "source": "Yahoo",
+      "published_at": "2026-10-26T21:48:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
       ]
     }
   ],
@@ -381,10 +380,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 80096.94,
-      "change_pct": -0.19,
+      "price": 80237.99,
+      "change_pct": 0.08,
       "label": "BTC"
     }
   },
-  "summary": "미국 TSLA +5.2% → LG에너지솔루션 개장 상방 압력 예상 (+3.5% 전후). US 무드 57/100, KR 무드 17/100."
+  "summary": "미국 TSLA +5.2% → LG에너지솔루션 개장 상방 압력 예상 (+3.5% 전후). US 무드 57/100, KR 무드 100/100."
 }
