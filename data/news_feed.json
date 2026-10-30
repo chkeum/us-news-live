@@ -1,27 +1,76 @@
 {
   "items": [
     {
-      "id": "f_0bf4e079191366",
+      "id": "f_058ab629807ee2",
       "provider": "finnhub",
       "ticker": "GOOGL",
+      "category": "earnings",
+      "title": "U.S. stock futures sink, Nasdaq down 2% as Amazon, Intel earnings underwhelm",
+      "summary": "Investing.com-- U.S. stock index futures fell on Thursday evening, with technology stocks set to extend losses after earnings from Amazon and Intel missed market estimates.",
+      "url": "https://finnhub.io/api/news?id=9c8c200c4015f5f22eed403a23d7a7b15b409eb6e883c55434b9ed8235a99379",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:36:10+00:00",
+      "change_pct": -12.64
+    },
+    {
+      "id": "f_a695d28e26d7e7",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "earnings",
+      "title": "Warren Buffett Says Doing Nothing Beats Doing Something. History Says He's Right.",
+      "summary": "Investing is one of the few things where doing less is actually doing more.",
+      "url": "https://finnhub.io/api/news?id=63b6ac587264c2227abeea52955242ad2ccadeb182ef8d180cdeee4a5ac8f25e",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:35:00+00:00",
+      "change_pct": -0.8
+    },
+    {
+      "id": "f_7998da3ae87d2a",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "earnings",
+      "title": "What Strategy (MSTR) Said on Its Q3 Earnings Call",
+      "summary": "Strategy (NASDAQ:MSTR) reported record third-quarter results as Bitcoin’s price appreciation drove a $20.9 billion fair-value gain on its digital assets, while the company continued expanding its Bitcoin reserves and capital base. Chief Financial Officer Andrew Kang said Strategy held 848,517 Bitco",
+      "url": "https://finnhub.io/api/news?id=41b97c386fbfd999b97c4083e7890fc7f8663cc108e8625ab2b06acb7634d29b",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:14:05+00:00",
+      "change_pct": -2.44
+    },
+    {
+      "id": "f_776d2239588f4a",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "earnings",
+      "title": "Amazon.com Q3 Earnings Call Highlights",
+      "summary": "Amazon.com (NASDAQ:AMZN) reported third-quarter 2026 revenue of $201.9 billion, up 12% from a year earlier, while operating income rose 61% to $28.1 billion. The company’s operating margin reached a record 13.9%, according to CFO Brian Olsavsky. CEO Andy Jassy said results were led by continued acc",
+      "url": "https://finnhub.io/api/news?id=02d6d8d35191aa9761270a45ae77402734ab6168935b50b2fe510499498cc35d",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T00:14:16+00:00",
+      "change_pct": -4.25
+    },
+    {
+      "id": "f_0bf4e079191366",
+      "provider": "finnhub",
+      "ticker": "NVDA",
       "category": "earnings",
       "title": "Is Alphabet Stock a Buy After Its Post-Earnings Drop?",
       "summary": "Most of the earnings decline came from investment losses. Is the cash flow a bigger worry?",
       "url": "https://finnhub.io/api/news?id=6eaaaaa57d35221a75522cfed81b4d182675c2311c494f1312cc43826b34fce9",
       "source": "Yahoo",
       "published_at": "2026-10-30T00:07:01+00:00",
-      "change_pct": -12.64
+      "change_pct": -0.8
     },
     {
       "id": "f_575959d5323259",
       "provider": "finnhub",
-      "ticker": "INTC",
+      "ticker": "AMZN",
       "category": "earnings",
       "title": "Nasdaq 100 Futures Dip On Weak Intel, Amazon Earnings With Bloated Capex Worries Weighing On Sentiment —  AMZN, INTC, SBUX, PLTR, ASTS In Focus",
       "summary": "Amazon’s Q3 earnings and revenue fell short of expectations.",
       "url": "https://finnhub.io/api/news?id=80c21737b1138c6ad62c38672635cfe30947864df39d74f72e7ca6ee2eba3857",
       "source": "Yahoo",
-      "published_at": "2026-10-29T23:54:15+00:00"
+      "published_at": "2026-10-29T23:54:15+00:00",
+      "change_pct": -4.25
     },
     {
       "id": "f_ad79222fa172da",
@@ -101,6 +150,17 @@
       "url": "https://finnhub.io/api/news?id=013da3916fc557a113e75db2ca4d81204709f33869da50416e531ed3a386a182",
       "source": "Yahoo",
       "published_at": "2026-10-29T22:59:44+00:00"
+    },
+    {
+      "id": "f_b35f51e66b1955",
+      "provider": "finnhub",
+      "ticker": "COIN",
+      "category": "earnings",
+      "title": "Coinbase Global, Inc. (COIN) Q3 2026 Earnings Call Transcript",
+      "summary": "Coinbase Global, Inc. (COIN) Q3 2026 Earnings Call October 29, 2026 5:00 PM EDTCompany ParticipantsAlesia Haas - Chief Financial OfficerBrian Armstrong -...",
+      "url": "https://finnhub.io/api/news?id=03af3a2cf6771c27527334fe6d24d1be82e8b7a8a3232d3acfdf3f53dfc83e99",
+      "source": "SeekingAlpha",
+      "published_at": "2026-10-29T22:58:33+00:00"
     },
     {
       "id": "f_892b81e38bfd0d",
@@ -990,61 +1050,6 @@
       "published_at": "2026-10-29T19:18:58+00:00"
     },
     {
-      "id": "f_43e111d51a5815",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Bristol Myers’ Growth Drugs Hit $7.7 Billion: Rapid Earnings Reaction",
-      "summary": "Bristol Myers Squibb’s adjusted earnings fell 17%, but the company raised its sales outlook. Here’s why the drop reflects a pipeline refill, and what its newer drugs need to deliver next.",
-      "url": "https://finnhub.io/api/news?id=5bf13b5716f5010400fa4c377a3715126d91cb291b476aee3a18195372d96f8e",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:17:56+00:00",
-      "change_pct": -0.8,
-      "title_kr": "브리스톨 마이어스(Bristol Myers)의 성장 약품이 77억 달러를 기록했습니다: 빠른 수익 반응",
-      "summary_kr": "Bristol Myers Squibb의 조정 수익은 17% 감소했지만 회사는 매출 전망을 높였습니다. 하락폭이 파이프라인 재충진을 반영하는 이유와 다음에 제공해야 할 새로운 약품이 무엇인지는 다음과 같습니다."
-    },
-    {
-      "id": "f_4d89e9d3a0e940",
-      "provider": "finnhub",
-      "ticker": "MU",
-      "category": "earnings",
-      "title": "Sandisk and Micron Slide 5% as Samsung Miss Cools Memory Rally Ahead of Sandisk Earnings; SK Hynix Falls 3%, Western Digital Dips",
-      "summary": "Samsung's profit miss just knocked the wind out of a memory rally that had bulls excited, and now Sandisk heads into its own earnings report with the sector selling off hard and a high bar to clear.",
-      "url": "https://finnhub.io/api/news?id=da5b9d97596981e24ea5ca3a6066f6518fd889df771a1a71429261998607010f",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:09:32+00:00",
-      "title_kr": "Samsung Miss가 Sandisk 수익에 앞서 메모리 랠리를 식히면서 Sandisk와 Micron은 5% 하락했습니다. SK하이닉스 3% 하락, 웨스턴디지털 하락",
-      "summary_kr": "삼성의 이익 감소는 강세를 흥분시켰던 메모리 랠리의 바람을 막았고, 이제 Sandisk는 해당 부문이 큰 폭으로 매도되고 클리어해야 할 높은 기준이 있는 자체 수익 보고서로 향하고 있습니다."
-    },
-    {
-      "id": "f_798e172c4eec83",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Is Lockheed Martin a Buy After Its Latest Earnings Report?",
-      "summary": "A double-digit post-earnings surge may cool investor enthusiasm amid rising market anxiety -- but over a 3-to-5-year horizon, is that really the right way to view America's largest defense contractor?",
-      "url": "https://finnhub.io/api/news?id=df91eb15f3f6c20c4957270639c03b58b1d426bc8def3e16153918b511189502",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:06:24+00:00",
-      "change_pct": -0.8,
-      "title_kr": "록히드 마틴은 최근 수익 보고서 이후 매수 대상인가요?",
-      "summary_kr": "두 자리 수의 실적 후 급등은 시장 불안이 높아지는 가운데 투자자들의 열정을 식힐 수 있습니다. 그러나 3~5년의 관점에서 볼 때 이것이 실제로 미국 최대 방산업체를 보는 올바른 방법일까요?"
-    },
-    {
-      "id": "f_0ffec88d4ee2d7",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "earnings",
-      "title": "Merck Lifts Outlook on a Lower Tax Rate: Rapid Earnings Reaction",
-      "summary": "Merck’s new drugs are growing fast enough to cover generic losses, but part of this quarter’s sales gain won’t last. Here’s what to watch.",
-      "url": "https://finnhub.io/api/news?id=f085758803d95fa7411b1fa21089cb96adac4ce4f7753eef23493467e97781db",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T18:59:59+00:00",
-      "change_pct": -0.8,
-      "title_kr": "머크, 세율 인하에 대한 전망 상향: 빠른 수익 반응",
-      "summary_kr": "머크의 신약은 제네릭 손실을 감당할 만큼 빠르게 성장하고 있지만 이번 분기 매출 증가 중 일부는 지속되지 않을 것입니다. 볼만한 내용은 다음과 같습니다."
-    },
-    {
       "id": "f_fe246c537fba1e",
       "provider": "finnhub",
       "ticker": "NVDA",
@@ -1059,6 +1064,65 @@
       "summary_kr": "AI 칩 제조사 마벨 테크놀로지(Marvell Technology)가 광학기기 루멘텀(Lumentum) 인수를 위해 막바지 협상을 진행 중인 것으로 알려졌다. Marvell은 넘어졌고 Lumentum은 잠깐 동안 뛰어올랐습니다."
     },
     {
+      "id": "f_d313a5535bba53",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "Dow Jones Futures Fall, Nasdaq Futures Plunge 2% On Amazon, Intel After Google, ServiceNow, Fortinet Dive",
+      "summary": "Amazon, Intel and Illumina were earnings losers overnight after Google, ServiceNow and Fortinet slammed techs. Much of the market is doing fine.",
+      "url": "https://finnhub.io/api/news?id=19cc61c993aa7f24248741b86c68c8820bdf464261100f9342b8fd8072a79239",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:49:26+00:00",
+      "change_pct": -12.64
+    },
+    {
+      "id": "f_4c211aca1281a3",
+      "provider": "finnhub",
+      "ticker": "INTC",
+      "category": "general",
+      "title": "HPQ, DELL Stocks Plunge After Intel Flags Prolonged PC Market Weakness",
+      "summary": "Shares of HP and Dell fell over 7% after Intel’s quarterly report.",
+      "url": "https://finnhub.io/api/news?id=f1346c307fcb974a97b323a81638b84b423e0ffebfb560264435c7bf4f8d027b",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:40:55+00:00"
+    },
+    {
+      "id": "f_209e86651a4865",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "general",
+      "title": "SPCX, ASTS, RKLB Slide Overnight: Amazon Reaffirms 2026 Satellite Service Debut — Retail Weighs Competitive Threat",
+      "summary": "Amazon’s Globalstar deal and upcoming direct-to-device network increase potential competition with ASTS.",
+      "url": "https://finnhub.io/api/news?id=53ca1ba7bf9190dd43b764d7b2fa2ab2078af95f059c68f3ae08ce4843e6a76d",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:34:25+00:00",
+      "change_pct": -4.25
+    },
+    {
+      "id": "f_db12591f617898",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "Why Is MSTR Stock Falling More Than 6% Overnight?",
+      "summary": "Strategy posted $125.4 million in total revenue for the quarter, down 3% year-over-year, and also below analysts’ expectations.",
+      "url": "https://finnhub.io/api/news?id=b7d3874a5cbb083fefce843ced5e37af480968a409a4390f85fe0d109a12f34f",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:20:25+00:00",
+      "change_pct": -2.44
+    },
+    {
+      "id": "f_49d1b819e3cc6f",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Nvidia's web of AI bets: smart strategy or bubble risk?",
+      "summary": "Nvidia's $3 billion investment in Meta's share sale, announced Tuesday, is the latest addition to a portfolio of stakes, loans and guarantees that has made the chip giant what some analysts describe as the central bank of the artificial intelligence boom.Nvidia also has around $36 billion in cloud backstops and a guarantee of up to $105 billion linked to an OpenAI data center, according to US media.",
+      "url": "https://finnhub.io/api/news?id=0088908c158c6a768f4b33504717d9c4247f7012dfcbc2b4c975bb86d7bb44e4",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:17:24+00:00",
+      "change_pct": -0.8
+    },
+    {
       "id": "f_32f8638d43897b",
       "provider": "finnhub",
       "ticker": "MSFT",
@@ -1071,27 +1135,148 @@
       "change_pct": -0.16
     },
     {
+      "id": "f_2d378a741f9b6b",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "ServiceNow Stock Just Plunged More Than 20% in a Single Day. Here's What It Did After Its Other Biggest Drops.",
+      "summary": "Most of its past one-day plunges were followed by gains. Does a slower contract forecast change that?",
+      "url": "https://finnhub.io/api/news?id=0cda7804350c06238609a636aa5687598cab11aa1aec8253e1c5fb7da8de3831",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:12:01+00:00",
+      "change_pct": -0.8
+    },
+    {
+      "id": "f_fc0ad949e80d4a",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "The Humanoid Robot Market Could Be Worth More Than $7 Trillion. Here Are 3 Stocks to Own.",
+      "summary": "The industry is still in its infancy, but it's becoming clear which names are best positioned to lead it to full viability.",
+      "url": "https://finnhub.io/api/news?id=2ce1db556d9e118fbefb0f620d4139bef73b48af503b18f4d19722a7e2a03bdd",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:05:00+00:00",
+      "change_pct": -0.8
+    },
+    {
+      "id": "f_1b628e1ca8359c",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Why Norwegian Cruise Line Stock Jumped Today",
+      "summary": "The vacation fleet operator's turnaround strategy is taking hold.",
+      "url": "https://finnhub.io/api/news?id=4be8e6412e7a3b585cf6da5bf005fce0af3ed73ae7b2e1ff06c9ccad49cc333a",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T01:04:44+00:00",
+      "change_pct": -0.8
+    },
+    {
       "id": "f_ea8de433cee51b",
       "provider": "finnhub",
-      "ticker": "GOOGL",
+      "ticker": "NVDA",
       "category": "general",
       "title": "Alphabet Sheds $500 Billion in a Single Day Despite Cloud Growth of 103%",
       "summary": "It was literally Google's worst day ever.",
       "url": "https://finnhub.io/api/news?id=5eab6a291c48f1d3cc1f7d4b91f5788d4bb39ef05c091f0e444053f767032594",
       "source": "Yahoo",
       "published_at": "2026-10-30T00:48:01+00:00",
-      "change_pct": -12.64
+      "change_pct": -0.8
+    },
+    {
+      "id": "f_245444897ba4c8",
+      "provider": "finnhub",
+      "ticker": "NVDA",
+      "category": "general",
+      "title": "Amazon Just Burned $42 Billion in Cash Chasing AI Growth. Is Wall Street Ignoring the Risk?",
+      "summary": "AWS just posted its fastest growth in almost five years, but what is it spending to make that happen?",
+      "url": "https://finnhub.io/api/news?id=098c1e7cfbe6b093a537cb977c278cdfe25fea2876d5651838c09f1fbb165028",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T00:40:02+00:00",
+      "change_pct": -0.8
+    },
+    {
+      "id": "f_a4e96167f6d986",
+      "provider": "finnhub",
+      "ticker": "META",
+      "category": "general",
+      "title": "Meta's $100 billion stock sale shrinks your slice of the company",
+      "summary": "Meta’s AI buildout is outpacing its cash generation, prompting the ad giant to seek up to $100 billion from shareholders.",
+      "url": "https://finnhub.io/api/news?id=4d16711b276dd9543a9ac86d38894a1ff747df2da79ca4ea37784fed07fb204a",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T00:37:00+00:00",
+      "change_pct": 1.96
+    },
+    {
+      "id": "f_e8841e91163393",
+      "provider": "finnhub",
+      "ticker": "MSTR",
+      "category": "general",
+      "title": "AI Price Prediction: Bitcoin Is 35% Below ATH. ChatGPT AI Says When It Could Get Back to $126,000",
+      "summary": "Bitcoin sits more than a third below its record high, and ChatGPT has a surprisingly specific month when it could get back there, along with the exact conditions that could push that date forward or delay it further.",
+      "url": "https://finnhub.io/api/news?id=932997f383692327ed277834b365d521a6a1ae6f46f4caf084a63af8fa79720b",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T00:29:03+00:00",
+      "change_pct": -2.44
+    },
+    {
+      "id": "f_99fde75c107d38",
+      "provider": "finnhub",
+      "ticker": "AMD",
+      "category": "general",
+      "title": "3 Growth Stocks To Own In October 2026",
+      "summary": "Runaway demand for AI related chips has pushed Samsung to record operating profit. This shows how quickly earnings can move when a business is plugged into a powerful growth trend. That is the sort of earnings momentum analysts are looking for in this group of financially solid companies with strong profit growth potential. This article highlights three stocks from that list that fit this earnings quality theme. The three stocks highlighted here offer a compelling starting point if you want...",
+      "url": "https://finnhub.io/api/news?id=b2beac2f21274328af053825490f981ab90122a900b071bf3f0a0f5ec9a28c36",
+      "source": "Yahoo",
+      "published_at": "2026-10-30T00:18:18+00:00",
+      "change_pct": -2.08
     },
     {
       "id": "f_2cf458ab959216",
       "provider": "finnhub",
-      "ticker": "INTC",
+      "ticker": "NVDA",
       "category": "general",
       "title": "Semiconductor Sell-Off: The 1 AI Chip Stock I'd Buy and 1 I'd Avoid",
       "summary": "Broadcom's custom chips and Intel's foundry turnaround offer very different risks. Here's how investors could weigh the two after the recent drop.",
       "url": "https://finnhub.io/api/news?id=24955524d018f34014eefdd5ab98fb37e4e54398b1a9c56e3c907686e6b35e07",
       "source": "Yahoo",
-      "published_at": "2026-10-30T00:13:00+00:00"
+      "published_at": "2026-10-30T00:13:00+00:00",
+      "change_pct": -0.8
+    },
+    {
+      "id": "f_4525480e101d7f",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "Review & Preview: Don’t Call It a Tech Wreck",
+      "summary": "Alphabet’s huge drop pulled down the Dow, S&P 500 and Nasdaq. But under the surface, most stocks had a solid day.",
+      "url": "https://finnhub.io/api/news?id=8886fc33559190c1ce0e882405dc60cf509c23263cc6113f3851b5d68cd1577f",
+      "source": "Yahoo",
+      "published_at": "2026-10-29T23:55:00+00:00",
+      "change_pct": -12.64
+    },
+    {
+      "id": "f_40ce6b838664c0",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "general",
+      "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+      "summary": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+      "url": "https://finnhub.io/api/news?id=870008ffd90c8fada1c81efc62157291559b5abdd9dd72d8e258e41e3fdaff57",
+      "source": "Yahoo",
+      "published_at": "2026-10-29T23:44:56+00:00",
+      "change_pct": -4.25
+    },
+    {
+      "id": "f_49c76558ba29f0",
+      "provider": "finnhub",
+      "ticker": "AMZN",
+      "category": "general",
+      "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+      "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+      "url": "https://finnhub.io/api/news?id=4acaa31e0890461cdbc50ba8f269fe061aa8abc001e3520d9cdef3bb07ab73f0",
+      "source": "Yahoo",
+      "published_at": "2026-10-29T23:42:22+00:00",
+      "change_pct": -4.25
     },
     {
       "id": "f_7aa691ae8a0891",
@@ -1162,6 +1347,18 @@
       "source": "Yahoo",
       "published_at": "2026-10-29T23:18:00+00:00",
       "change_pct": -2.44
+    },
+    {
+      "id": "f_9c603be2a77249",
+      "provider": "finnhub",
+      "ticker": "GOOGL",
+      "category": "general",
+      "title": "Google parent Alphabet suffers nearly $500B Wall Street wipeout amid AI spending fears",
+      "summary": "Alphabet suffered one of the largest stock market wipeouts in history after investors questioned the Google parent's massive artificial intelligence spending.",
+      "url": "https://finnhub.io/api/news?id=81cc62ad10d477fe7f562b95ec233e254dea9bfddfb4a4e95c74d00966910ab3",
+      "source": "Yahoo",
+      "published_at": "2026-10-29T23:17:47+00:00",
+      "change_pct": -12.64
     },
     {
       "id": "f_7142f9ec94c121",
@@ -1599,6 +1796,17 @@
       "change_pct": -2.44
     },
     {
+      "id": "f_f2ff13451cc540",
+      "provider": "finnhub",
+      "ticker": "ASTS",
+      "category": "general",
+      "title": "AST SpaceMobile (ASTS) Secures Brazil Spectrum Authorizations And Four Operator Agreements",
+      "summary": "AST SpaceMobile (NasdaqGS:ASTS) received key spectrum authorizations from Brazil's national telecom regulator for space-based mobile services. The business signed new agreements with four regional Brazilian mobile network operators to support future space-based broadband coverage. The approvals and partner deals position AST SpaceMobile to expand planned satellite-enabled cellular connectivity across unserved areas of Brazil. These Brazilian spectrum authorizations and operator agreements...",
+      "url": "https://finnhub.io/api/news?id=44f8e711d8ca4c6660daeeedb29072daa9b33b479da7a1a974aa689a46cbe013",
+      "source": "Yahoo",
+      "published_at": "2026-10-29T21:08:25+00:00"
+    },
+    {
       "id": "f_91ca79dd0f76d4",
       "provider": "finnhub",
       "ticker": "AVGO",
@@ -1632,6 +1840,17 @@
       "url": "https://finnhub.io/api/news?id=5dcf3e095c48391ab25b46fff4757a59c162188581cb8abc2d11b14f81fb3ad7",
       "source": "Yahoo",
       "published_at": "2026-10-29T21:01:00+00:00"
+    },
+    {
+      "id": "f_0dfe37d8662d7a",
+      "provider": "finnhub",
+      "ticker": "ASTS",
+      "category": "general",
+      "title": "Why the Market Dipped But AST SpaceMobile, Inc. (ASTS) Gained Today",
+      "summary": "The latest trading day saw AST SpaceMobile, Inc. (ASTS) settling at $43.07, representing a +1.82% change from its previous close.",
+      "url": "https://finnhub.io/api/news?id=4d8a720fbcfe36eeb1d054aa3d80ea8cb6468409c9354d0fdd13f2749d90a77e",
+      "source": "Yahoo",
+      "published_at": "2026-10-29T21:00:03+00:00"
     },
     {
       "id": "f_7ca735bb69160f",
@@ -1994,6 +2213,17 @@
       "summary_kr": "Goldman Sachs의 2026년 업계 전망에 따르면 2035년까지 전 세계 로봇택시 시장은 4,150억 달러, 자율주행 트럭 시장은 5,600억 달러에 달할 것으로 예상됩니다. 동일한 연구에서는 하드웨어, 소프트웨어를 포함하여 더 광범위한 자율주행차 수익이 약 2조 달러에 이를 것으로 추산합니다."
     },
     {
+      "id": "f_7e0366bf2e964d",
+      "provider": "finnhub",
+      "ticker": "ASTS",
+      "category": "general",
+      "title": "ASTS Stock Gains On FCC Plan To Expand Direct-To-Phone Spectrum",
+      "summary": "The FCC on Thursday adopted a proposal that would expand the amount of spectrum available for “supplemental coverage from space,” a system that lets satellites use wireless carriers’ licensed airwaves to reach customers outside normal tower range.",
+      "url": "https://finnhub.io/api/news?id=a99fe9165deadc9d9cb66ee34d64a40090c62714b5a8c64091be456f7cd43fb3",
+      "source": "Yahoo",
+      "published_at": "2026-10-29T19:39:07+00:00"
+    },
+    {
       "id": "f_dc8147f378b7a4",
       "provider": "finnhub",
       "ticker": "MSFT",
@@ -2092,210 +2322,6 @@
       "change_pct": -0.8
     },
     {
-      "id": "f_f65b540490d937",
-      "provider": "finnhub",
-      "ticker": "MSFT",
-      "category": "general",
-      "title": "What Does Nebius Group (NBIS) Face From Slower AI Data Center Spending?",
-      "summary": "Nebius Group (NasdaqGS:NBIS) faces fresh scrutiny after Microsoft issued lower than expected capital expenditure guidance for cloud buildout. Microsoft’s updated outlook signals a slower pace of spend on external infrastructure capacity for hyperscale data centers. Investors are reassessing demand assumptions for third party neocloud providers that rely on hyperscalers for long term contracts. There is more to Nebius Group than the impact of Microsoft’s reduced capex guidance on neocloud...",
-      "url": "https://finnhub.io/api/news?id=f81679e5e41663281b16127b9821f7a699382f752a8fee8434747b0d10f0534c",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:18:10+00:00",
-      "change_pct": -0.16
-    },
-    {
-      "id": "f_e0bf09d72d1ef2",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Prediction: This Will Be Broadcom's Stock Price by the End of 2027",
-      "summary": "Strong AI tailwinds could lift the stock to new record highs.",
-      "url": "https://finnhub.io/api/news?id=0d99e9c9cc700d0d0a83880a6f6601a5f9e6792a5b02c79fefb8407f8627a05d",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:18:00+00:00",
-      "change_pct": -0.8
-    },
-    {
-      "id": "f_15896bb9828345",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Alphabet Stock Drops 12%. Can Its Dividend Survive the AI Spending Boom?",
-      "summary": "Alphabet's free cash flow just went negative for the second quarter in a row as AI spending spirals past what the business generates, leaving income investors to wonder what gets cut next.",
-      "url": "https://finnhub.io/api/news?id=a48bac82993089a9c7bd07a76a98baa63d00ba76c96938c09605284d54b79d3c",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:17:40+00:00",
-      "change_pct": -12.64
-    },
-    {
-      "id": "f_305aabc13fba42",
-      "provider": "finnhub",
-      "ticker": "MRVL",
-      "category": "general",
-      "title": "Nvidia-Backed Marvell, Lumentum Could Be Nearing a Deal",
-      "summary": "Chip designer Marvell Technology and optical components maker Lumentum could be moving toward a merger.",
-      "url": "https://finnhub.io/api/news?id=4e9335dfd1034a865c145925adbd494a798826a77fd1c5bb845e06b45e98ab76",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:13:29+00:00",
-      "change_pct": -13.24
-    },
-    {
-      "id": "f_23eab1363436c0",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "3 Dividend Stocks Yielding 3% or More to Buy Right Now for Passive Income",
-      "summary": "These consumer staples companies have earned their places in your shopping cart -- and possibly in your income portfolio.",
-      "url": "https://finnhub.io/api/news?id=7f23acf97be296c0886f64e4a6724b90c44af914e787e63e6af295f8bf1b4233",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:13:00+00:00",
-      "change_pct": -0.8
-    },
-    {
-      "id": "f_8ce69ba0966bcc",
-      "provider": "finnhub",
-      "ticker": "AMD",
-      "category": "general",
-      "title": "Is Advanced Micro Devices (AMD) Cheap As Meta Expands Its AI Partnership?",
-      "summary": "Advanced Micro Devices (AMD) spotlighted its partnership with Meta Platforms after confirming that AMD Helios rackscale systems, EPYC processors and Instinct GPUs are deployed across Meta’s AI infrastructure, including the Muse personal agent and related models. Advanced Micro Devices has ridden a sharp AI wave this year, with the share price delivering a 158.84% year to date share price return and a 1-year total shareholder return of 118.83%, even after a 4.84% share price pullback over the...",
-      "url": "https://finnhub.io/api/news?id=5351d453c0580a3ffc0f19decaa420d6d6e9b01ae546b5458278eca924609ae9",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:12:27+00:00",
-      "change_pct": -2.08
-    },
-    {
-      "id": "f_15d9b968d25b2a",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Alphabet's Cloud Business Just Doubled. The Stock Fell 12%. Is it a Buy?",
-      "summary": "Google Cloud's revenue more than doubled, but investors focused on slower Search growth and a large paper loss.",
-      "url": "https://finnhub.io/api/news?id=a7fe0e9b5474e1158ef51f09c3a7d9d1e00ff75ab27c7615d49b3da62bbffc5b",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:09:02+00:00",
-      "change_pct": -0.8
-    },
-    {
-      "id": "f_0f0d174c66a53d",
-      "provider": "finnhub",
-      "ticker": "TSLA",
-      "category": "general",
-      "title": "Elon Musk, crypto just placed huge midterm bets, and traders should pay attention",
-      "summary": "Musk is the single biggest donor of the 2026 midterms, and three crypto companies rank among the top corporate spenders.",
-      "url": "https://finnhub.io/api/news?id=72b74c4e2998107b0e877088697c551d34d7a1bdc12975197890b1f8d603dec6",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:06:44+00:00",
-      "change_pct": -0.23
-    },
-    {
-      "id": "f_df45fa84db60e2",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "S&P 500 Most Active Stocks in the Oct. 29, 2026 Session",
-      "summary": "S&P 500 most-active list for Oct. 29, 2026: Alphabet led volume as GOOGL and GOOG fell, while ServiceNow, Intel, Ford, Norwegian, Nvidia, Amazon, Marvell and Netflix also traded.",
-      "url": "https://finnhub.io/api/news?id=1b1bb5cb0a78212ad7264b061672a8f2ae3b6e792a9afe7e8a4fb71f035eb211",
-      "source": "ChartMill",
-      "published_at": "2026-10-29T19:06:08+00:00",
-      "change_pct": -0.8
-    },
-    {
-      "id": "f_da0e3a33eaebdd",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Why Marvell Stock Is Down Today",
-      "summary": "Marvell is reportedly close to a massive optics deal, but investors are worried about what it could cost existing shareholders.",
-      "url": "https://finnhub.io/api/news?id=a65fdb921916510ae2a39ce1b1ebb7f9a009565140a8a6c1e0d3bea61dcbb04b",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:06:02+00:00",
-      "change_pct": -0.8
-    },
-    {
-      "id": "f_7e64a465c32835",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Is SoFi Stock a Buy After Falling 43% in 2026?",
-      "summary": "SoFi stock was up about 15% on Tuesday.",
-      "url": "https://finnhub.io/api/news?id=ad61a07c4394e6ea6ebe9a352b7222b10d0ff9ff0c29e5c5b3538dce930f9e5d",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:05:00+00:00",
-      "change_pct": -0.8
-    },
-    {
-      "id": "f_6955d62fa1d623",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "Amazon: Danger Ahead",
-      "summary": "Amazon.com, Inc.'s AWS growth and margin gains impress, but negative free cash flow and rising debt cloud the outlook. Click for this AMZN earnings update.",
-      "url": "https://finnhub.io/api/news?id=274d8394b3790f2904f5193321347032d67bcaab1e6431dc22c7036c930fbdb7",
-      "source": "SeekingAlpha",
-      "published_at": "2026-10-29T19:00:47+00:00",
-      "change_pct": -4.25
-    },
-    {
-      "id": "f_95473747bbcd57",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Most Active Stocks Today: BURU, WFF, INLF and ADT Lead Volume",
-      "summary": "US most-active stocks today include BURU, WFF, INLF and ADT, with BURU up 131% on 767.17 million shares and Alphabet down 13.09%.",
-      "url": "https://finnhub.io/api/news?id=139c2df4c9e8e6f77299d7aa812d352b603f43a06eadcf6b78d4fce5282c68f5",
-      "source": "ChartMill",
-      "published_at": "2026-10-29T19:00:38+00:00",
-      "change_pct": -12.64
-    },
-    {
-      "id": "f_85affdb9133e06",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Update: US Equity Indexes Drop as Communication Services Plummets Following Alphabet's Disappointing Results",
-      "summary": "(Updates with index/price moves from the first paragraph.) US equity indexes declined after a sha",
-      "url": "https://finnhub.io/api/news?id=8326b4ed634bbcdcdbf5f95521cdd75c0423e28685beaacc98bb9e7067c40da8",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T19:00:14+00:00",
-      "change_pct": -12.64
-    },
-    {
-      "id": "f_93a632da00bb00",
-      "provider": "finnhub",
-      "ticker": "GOOGL",
-      "category": "general",
-      "title": "Microsoft Q1: Capex Shouldn't Scare You Due To Free Cash Flow",
-      "summary": "Microsoft Corporation remains a Strong Buy as Azure growth accelerates, backlog stays robust, and free cash flow holds firm. Click for this MSFT earnings update.",
-      "url": "https://finnhub.io/api/news?id=1a4c2382e0ae148a8bfc076d26ccc145e6e16d60b6b3840d91439b64fdd0505b",
-      "source": "SeekingAlpha",
-      "published_at": "2026-10-29T18:59:07+00:00",
-      "change_pct": -12.64
-    },
-    {
-      "id": "f_43a8d11219dd00",
-      "provider": "finnhub",
-      "ticker": "AMZN",
-      "category": "general",
-      "title": "70% of UPS Packages Will Be Handled by Machines This Holiday Season",
-      "summary": "UPS is betting that robots and radio tags can protect its dividend while it deliberately ships fewer boxes, but the math only works if one critical margin target holds during the busiest weeks of the year.",
-      "url": "https://finnhub.io/api/news?id=3e0c6cfd2d448a8e58cc15bd1a75029285be69cdf190cbdaffaafe8190771d0b",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T18:57:22+00:00",
-      "change_pct": -4.25
-    },
-    {
-      "id": "f_ac5b7a86c9e8e1",
-      "provider": "finnhub",
-      "ticker": "NVDA",
-      "category": "general",
-      "title": "Wall Street Is Done Giving AI Software a Pass",
-      "summary": "Fortinet and ServiceNow plunged 22% and 27%, respectively, as investors punished soft guidance and questioned whether AI hype can deliver real growth.",
-      "url": "https://finnhub.io/api/news?id=94a4381f6c2ab2fd0d5a37722978d04ff6e5e42ac5a2882894c3fae435570440",
-      "source": "Yahoo",
-      "published_at": "2026-10-29T18:54:15+00:00",
-      "change_pct": -0.8
-    },
-    {
       "id": "f_14851b562c3799",
       "provider": "finnhub",
       "ticker": null,
@@ -2338,43 +2364,10 @@
       "url": "https://www.cnbc.com/investingclub/2026/10/29/jim-cramer-why-investors-are-punishing-alphabet-and-giving-microsoft-a-pass.html",
       "source": "CNBC",
       "published_at": "2026-10-29T19:30:33+00:00"
-    },
-    {
-      "id": "f_9f6a55343017ea",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "We’re downgrading Alphabet after its rough quarter. Here’s where we’d buy again",
-      "summary": "Every weekday, the Investing Club releases the Homestretch, an actionable afternoon update just in time for the last hour of trading.",
-      "url": "https://www.cnbc.com/investingclub/2026/10/29/were-downgrading-alphabet-after-a-rough-quarter-where-wed-buy-again.html",
-      "source": "CNBC",
-      "published_at": "2026-10-29T19:12:06+00:00"
-    },
-    {
-      "id": "f_d835b85da59d47",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Polymarket reports outage on international exchange, halts trading",
-      "summary": "The outage comes just days before the platform is expected to experience heightened trading during the U.S. midterm elections.",
-      "url": "https://www.cnbc.com/2026/10/29/polymarket-reports-outage-on-international-exchange-halts-trading.html",
-      "source": "CNBC",
-      "published_at": "2026-10-29T18:57:22+00:00"
-    },
-    {
-      "id": "f_ea27b4a6d2f1c0",
-      "provider": "finnhub",
-      "ticker": null,
-      "category": "general",
-      "title": "Rare Stanley Druckenmiller post sends crypto-linked stock surging",
-      "summary": "Options traders pounced on the closest publicly-traded play to the news.",
-      "url": "https://www.cnbc.com/2026/10/29/druckenmiller-hyperliquid-surge.html",
-      "source": "CNBC",
-      "published_at": "2026-10-29T18:53:50+00:00"
     }
   ],
-  "fetched_at": "2026-10-30T01:46:50.846325+00:00",
+  "fetched_at": "2026-10-30T03:24:53.952876+00:00",
   "source_count": 4,
-  "translated_at": "2026-10-30T01:46:53.081954+00:00",
+  "translated_at": "2026-10-30T03:24:56.330572+00:00",
   "translation_engine": "google-parallel"
 }
