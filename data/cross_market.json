@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T08:59:59.259009+00:00",
+  "fetched_at": "2026-10-31T14:59:21.850447+00:00",
   "us_mood_score": 6,
   "kr_mood_score": 0,
   "us_mood": "bearish",
@@ -328,11 +328,23 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "GOOGL",
-      "title": "Datadog Stock Fell Nearly 12% as AI Spending Fears Hit Cloud Stocks. Its Earnings Estimates Didn’t Move",
-      "title_kr": null,
+      "ticker": "NVDA",
+      "title": "Jensen Huang Just Announced Fantastic News for Nvidia Stock Investors",
+      "title_kr": "Jensen Huang이 Nvidia 주식 투자자들을 위한 환상적인 소식을 발표했습니다.",
       "source": "Yahoo",
-      "published_at": "2026-10-31T07:18:19+00:00",
+      "published_at": "2026-10-31T13:05:01+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "GOOGL",
+      "title": "The AI trade's trick-or-treat earnings season",
+      "title_kr": "AI 거래의 트릭 오어 트리트 수익 시즌",
+      "source": "Yahoo",
+      "published_at": "2026-10-31T10:45:06+00:00",
       "category": "earnings",
       "kr_pairs": [
         "NAVER",
@@ -340,26 +352,13 @@
       ]
     },
     {
-      "ticker": "MRVL",
-      "title": "Coherent Stock Fell 11% as Intel and Amazon Earnings Hit AI Hardware Stocks. Here’s Where the Stock Could Go",
-      "title_kr": null,
-      "source": "Yahoo",
-      "published_at": "2026-10-31T07:15:12+00:00",
+      "ticker": "INTC",
+      "title": "Consumer Tech (Oct 26-30): Meta Donation Sparks Backlash, Nvidia Deal Draws DOJ Scrutiny, Chipmakers Report Earnings",
+      "title_kr": "소비자 기술(10월 26~30일): 메타 기부로 인해 반발이 촉발되고, Nvidia 거래로 법무부가 정밀 조사를 받고, 칩 제조업체가 수익을 보고합니다.",
+      "source": "Benzinga",
+      "published_at": "2026-10-31T10:11:01+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
-      ]
-    },
-    {
-      "ticker": "AAPL",
-      "title": "Apple’s Biggest Threat Isn’t Android — It’s AAPL's Own Devices, Analyst Says Ahead Of Q4 Earnings",
-      "title_kr": null,
-      "source": "Yahoo",
-      "published_at": "2026-10-31T07:15:07+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "삼성전자",
         "SK하이닉스"
       ]
     }
@@ -381,8 +380,8 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 77358.27,
-      "change_pct": -0.84,
+      "price": 77452,
+      "change_pct": 0.31,
       "label": "BTC"
     }
   },
