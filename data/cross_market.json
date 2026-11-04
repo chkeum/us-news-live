@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-04T03:49:39.593990+00:00",
-  "us_mood_score": 48,
-  "kr_mood_score": 3,
+  "fetched_at": "2026-11-04T11:44:16.726753+00:00",
+  "us_mood_score": 54,
+  "kr_mood_score": 65,
   "us_mood": "neutral",
-  "kr_mood": "bearish",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "AMD",
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 2.12,
-      "actual_kr_pct": -6.58,
+      "actual_kr_pct": 1.57,
       "reason": "MI355X용 HBM 공급",
       "us_price": 483.9,
-      "kr_price": 1306000.0
+      "kr_price": 1420000.0
     },
     {
       "us_ticker": "NVDA",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": 1.65,
-      "actual_kr_pct": -6.58,
+      "actual_kr_pct": 1.57,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 206.69,
-      "kr_price": 1306000.0
+      "kr_price": 1420000.0
     },
     {
       "us_ticker": "MSTR",
@@ -96,10 +96,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.29,
-      "actual_kr_pct": -6.58,
+      "actual_kr_pct": 1.57,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 332.13,
-      "kr_price": 1306000.0
+      "kr_price": 1420000.0
     },
     {
       "us_ticker": "NVDA",
@@ -108,10 +108,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": 1.19,
-      "actual_kr_pct": -4.78,
+      "actual_kr_pct": 0.91,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 206.69,
-      "kr_price": 209000.0
+      "kr_price": 221500.0
     },
     {
       "us_ticker": "MSFT",
@@ -120,10 +120,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": 0.96,
-      "actual_kr_pct": -1.18,
+      "actual_kr_pct": 1.83,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 520.99,
-      "kr_price": 167000.0
+      "kr_price": 172100.0
     },
     {
       "us_ticker": "TSLA",
@@ -132,10 +132,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -0.9,
-      "actual_kr_pct": -4.29,
+      "actual_kr_pct": 5.92,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 398.5,
-      "kr_price": 323500.0
+      "kr_price": 358000.0
     },
     {
       "us_ticker": "META",
@@ -144,10 +144,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 0.9,
-      "actual_kr_pct": -1.18,
+      "actual_kr_pct": 1.83,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 621.03,
-      "kr_price": 167000.0
+      "kr_price": 172100.0
     },
     {
       "us_ticker": "MSFT",
@@ -156,10 +156,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": 0.88,
-      "actual_kr_pct": -0.52,
+      "actual_kr_pct": 2.26,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 520.99,
-      "kr_price": 28650.0
+      "kr_price": 29450.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -0.82,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": 11.07,
       "reason": "NCA 양극재 공급",
       "us_price": 398.5,
-      "kr_price": 87600.0
+      "kr_price": 97300.0
     },
     {
       "us_ticker": "MSTR",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.3,
       "predicted_kr_pct": 0.62,
-      "actual_kr_pct": -1.18,
+      "actual_kr_pct": 1.83,
       "reason": "커머스·클라우드 동행",
       "us_price": 250.69,
-      "kr_price": 167000.0
+      "kr_price": 172100.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -5.68,
+      "kr_actual_avg_pct": 1.24,
       "beta": 0.65,
       "predicted_kr_avg_pct": 1.52,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -2.15,
+      "kr_actual_avg_pct": 8.5,
       "beta": 0.58,
       "predicted_kr_avg_pct": -0.77,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.85,
+      "kr_actual_avg_pct": 2.04,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.72,
       "lag_hours": 8
@@ -328,39 +328,39 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "META",
-      "title": "Shopify Stock Falls as Slowing Merchandise Sales Flash a Warning Sign",
-      "title_kr": "상품 판매 둔화에 경고 신호가 나타나 Shopify 주가 하락",
+      "ticker": "MU",
+      "title": "Down 51% From Its High: Is This 84.6% Margin NAND Flash Maker a Bargain?",
+      "title_kr": "고점 대비 51% 하락: 84.6% 마진의 NAND 플래시 제조업체는 할인인가?",
       "source": "Yahoo",
-      "published_at": "2026-11-03T19:24:00+00:00",
+      "published_at": "2026-11-04T07:08:44+00:00",
       "category": "breaking",
       "kr_pairs": [
-        "NAVER",
-        "하이브"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "U.S. stock futures steady with midterms in focus; AMD rallies on strong earnings",
-      "title_kr": "미국 주식 선물은 중기 경기에 초점을 맞춰 안정적입니다. AMD는 강력한 실적을 바탕으로 랠리를 펼치고 있습니다.",
-      "source": "Yahoo",
-      "published_at": "2026-11-04T01:06:43+00:00",
-      "category": "earnings",
-      "kr_pairs": [
         "SK하이닉스",
-        "한미반도체"
+        "삼성전자"
       ]
     },
     {
-      "ticker": "GOOGL",
-      "title": "People Inc (PPLI) Q3 2026 Earnings Call Highlights: Digital Revenue Extends Growth Streak to 12 ...",
-      "title_kr": "People Inc(PPLI) 2026년 3분기 실적 발표 하이라이트: 디지털 수익으로 연속 성장을 12년으로 연장",
+      "ticker": "TSLA",
+      "title": "Bayerische Motoren Werke Aktiengesellschaft Q3 Earnings Call Highlights",
+      "title_kr": "Bayerische Motoren Werke Aktiengesellschaft Q3 실적 통화 하이라이트",
       "source": "Yahoo",
-      "published_at": "2026-11-04T01:05:54+00:00",
+      "published_at": "2026-11-04T09:14:12+00:00",
       "category": "earnings",
       "kr_pairs": [
-        "NAVER",
-        "카카오"
+        "LG에너지솔루션",
+        "에코프로비엠"
+      ]
+    },
+    {
+      "ticker": "PLTR",
+      "title": "PLTR Stock In Focus: Exec Says 'It's Gonna Be Very Hard To Value Palantir' As Commercial Business Surpasses US Government Revenue",
+      "title_kr": "초점을 맞춘 PLTR 주식: 상업 사업이 미국 정부 수익을 능가하기 때문에 경영진은 '팔란티르의 가치를 평가하는 것이 매우 어려울 것'이라고 말합니다.",
+      "source": "Yahoo",
+      "published_at": "2026-11-04T09:09:20+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "한화에어로스페이스",
+        "LIG넥스원"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 20.83,
-      "change_pct": -1.51,
+      "price": 18.27,
+      "change_pct": -12.29,
       "label": "VIX"
     },
     "btc": {
-      "price": 76318.34,
-      "change_pct": -0.82,
+      "price": 78652.01,
+      "change_pct": 1.99,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +3.6% → 한미반도체 개장 상방 압력 예상 (+2.5% 전후). US 무드 48/100, KR 무드 3/100."
+  "summary": "미국 AMD +3.6% → 한미반도체 개장 상방 압력 예상 (+2.5% 전후). US 무드 54/100, KR 무드 65/100."
 }
