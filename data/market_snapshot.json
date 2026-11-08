@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T13:41:35.831962+00:00",
+  "fetched_at": "2026-11-08T18:33:30.120854+00:00",
   "sp500": {
     "price": 7376.86,
     "change_pct": -4.05,
@@ -21,8 +21,8 @@
     "label": "VIX"
   },
   "btc": {
-    "price": 75940.72,
-    "change_pct": 0.01,
+    "price": 75962.01,
+    "change_pct": 0.21,
     "label": "BTC"
   },
   "watchlist": {
@@ -70,12 +70,22 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 114,
+      "mentions": 112,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "AMZN",
+      "mentions": 11,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MSFT",
+      "mentions": 10,
       "surge_pct": 0
     },
     {
       "ticker": "GOOGL",
-      "mentions": 14,
+      "mentions": 8,
       "surge_pct": 0
     },
     {
@@ -84,38 +94,28 @@
       "surge_pct": 0
     },
     {
-      "ticker": "AMZN",
+      "ticker": "TSLA",
       "mentions": 7,
       "surge_pct": 0
     },
     {
-      "ticker": "MSFT",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
       "ticker": "MRVL",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "TSLA",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "AAPL",
-      "mentions": 4,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "COIN",
-      "mentions": 3,
+      "mentions": 5,
       "surge_pct": 0
     },
     {
       "ticker": "AMD",
+      "mentions": 4,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MU",
       "mentions": 3,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "COIN",
+      "mentions": 2,
       "surge_pct": 0
     }
   ],
