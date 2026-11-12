@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T04:49:29.305609+00:00",
+  "fetched_at": "2026-11-12T13:26:54.068070+00:00",
   "sp500": {
     "price": 7619.38,
     "change_pct": 0.92,
@@ -11,18 +11,18 @@
     "label": "Nasdaq"
   },
   "dow": {
-    "price": 52486.5,
+    "price": 52486.49,
     "change_pct": 0.18,
     "label": "Dow"
   },
   "vix": {
-    "price": 17.49,
-    "change_pct": -10.12,
+    "price": 18.97,
+    "change_pct": 8.46,
     "label": "VIX"
   },
   "btc": {
-    "price": 73784.54,
-    "change_pct": -0.01,
+    "price": 72594.78,
+    "change_pct": -1.73,
     "label": "BTC"
   },
   "watchlist": {
@@ -70,22 +70,32 @@
   "trending": [
     {
       "ticker": "NVDA",
-      "mentions": 78,
+      "mentions": 79,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "AMD",
+      "mentions": 19,
       "surge_pct": 0
     },
     {
       "ticker": "GOOGL",
-      "mentions": 15,
+      "mentions": 16,
       "surge_pct": 0
     },
     {
-      "ticker": "MSFT",
-      "mentions": 13,
+      "ticker": "AAPL",
+      "mentions": 10,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "TSLA",
+      "mentions": 10,
       "surge_pct": 0
     },
     {
       "ticker": "META",
-      "mentions": 11,
+      "mentions": 10,
       "surge_pct": 0
     },
     {
@@ -94,7 +104,12 @@
       "surge_pct": 0
     },
     {
-      "ticker": "MRVL",
+      "ticker": "MSFT",
+      "mentions": 8,
+      "surge_pct": 0
+    },
+    {
+      "ticker": "MSTR",
       "mentions": 7,
       "surge_pct": 0
     },
@@ -102,24 +117,9 @@
       "ticker": "AMZN",
       "mentions": 6,
       "surge_pct": 0
-    },
-    {
-      "ticker": "AAPL",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "MSTR",
-      "mentions": 6,
-      "surge_pct": 0
-    },
-    {
-      "ticker": "RKLB",
-      "mentions": 5,
-      "surge_pct": 0
     }
   ],
-  "mood_score": 66,
-  "mood": "bullish",
+  "mood_score": 56,
+  "mood": "neutral",
   "mood_summary": "S&P +0.92% · Nasdaq +0.84%"
 }
