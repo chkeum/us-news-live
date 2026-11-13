@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-13T00:31:37.663665+00:00",
+  "fetched_at": "2026-11-13T04:00:23.963916+00:00",
   "us_mood_score": 59,
-  "kr_mood_score": 92,
+  "kr_mood_score": 54,
   "us_mood": "neutral",
-  "kr_mood": "bullish",
+  "kr_mood": "neutral",
   "predictions": [
     {
       "us_ticker": "AMD",
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 3.4,
-      "actual_kr_pct": 3.35,
+      "actual_kr_pct": -2.23,
       "reason": "MI355X용 HBM 공급",
       "us_price": 585.3,
-      "kr_price": 1296000.0
+      "kr_price": 1226000.0
     },
     {
       "us_ticker": "NVDA",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -3.12,
-      "actual_kr_pct": 3.35,
+      "actual_kr_pct": -2.23,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 166.19,
-      "kr_price": 1296000.0
+      "kr_price": 1226000.0
     },
     {
       "us_ticker": "AVGO",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 2.33,
-      "actual_kr_pct": 3.35,
+      "actual_kr_pct": -2.23,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 364.36,
-      "kr_price": 1296000.0
+      "kr_price": 1226000.0
     },
     {
       "us_ticker": "MSTR",
@@ -108,10 +108,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -2.26,
-      "actual_kr_pct": 2.4,
+      "actual_kr_pct": -0.6,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 166.19,
-      "kr_price": 213000.0
+      "kr_price": 206750.0
     },
     {
       "us_ticker": "MRVL",
@@ -156,10 +156,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -1.16,
-      "actual_kr_pct": 3.35,
+      "actual_kr_pct": -2.23,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 164.45,
-      "kr_price": 1296000.0
+      "kr_price": 1226000.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.15,
-      "actual_kr_pct": 0.91,
+      "actual_kr_pct": -1.21,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 397.45,
-      "kr_price": 332500.0
+      "kr_price": 325500.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.05,
-      "actual_kr_pct": 4.45,
+      "actual_kr_pct": 1.22,
       "reason": "NCA 양극재 공급",
       "us_price": 397.45,
-      "kr_price": 93900.0
+      "kr_price": 91000.0
     },
     {
       "us_ticker": "TSLA",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 0.75,
-      "actual_kr_pct": -1.32,
+      "actual_kr_pct": -1.76,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 298.7,
-      "kr_price": 179400.0
+      "kr_price": 178600.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 2.88,
+      "kr_actual_avg_pct": -1.42,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.73,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 2.68,
+      "kr_actual_avg_pct": 0.01,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.98,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.19,
+      "kr_actual_avg_pct": -0.17,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.17,
       "lag_hours": 8
@@ -328,6 +328,30 @@
   ],
   "overnight_digest": [
     {
+      "ticker": "MSFT",
+      "title": "What Cerebras Systems (CBRS) Said on Its Q3 Earnings Call",
+      "title_kr": "Cerebras Systems(CBRS)가 3분기 실적 발표에서 말한 내용",
+      "source": "Yahoo",
+      "published_at": "2026-11-13T01:14:30+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "LiveOne Inc (LVO) (Q2 2027) Earnings Call Highlights: Record EBITDA, Major B2B Partnerships and ...",
+      "title_kr": "LiveOne Inc(LVO)(2027년 2분기) 실적 발표 하이라이트: EBITDA 기록, 주요 B2B 파트너십 및 ...",
+      "source": "Yahoo",
+      "published_at": "2026-11-13T01:04:39+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "삼성전자"
+      ]
+    },
+    {
       "ticker": "NVDA",
       "title": "Corvex Inc (MOVE) (Q3 2026) Earnings Call Highlights: 7.7 MW Fully Contracted, $21. ...",
       "title_kr": "Corvex Inc(MOVE)(2026년 3분기) 실적 발표 하이라이트: 7.7MW 완전 계약, 21달러. ...",
@@ -337,30 +361,6 @@
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "Cerebras Delivers Earnings Beat. Market Rewards the Stock.",
-      "title_kr": "Cerebras는 수익을 능가했습니다. 시장은 주식을 보상합니다.",
-      "source": "Yahoo",
-      "published_at": "2026-11-12T22:25:00+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "삼성전자"
-      ]
-    },
-    {
-      "ticker": "META",
-      "title": "What ERock (EROC) Said on Its Q3 Earnings Call",
-      "title_kr": "ERock(EROC)이 3분기 실적 발표에서 말한 내용",
-      "source": "Yahoo",
-      "published_at": "2026-11-12T22:14:48+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "하이브"
       ]
     }
   ],
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 71260,
-      "change_pct": -3.89,
+      "price": 68956.57,
+      "change_pct": -6.57,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +5.9% → 한미반도체 개장 상방 압력 예상 (+4.0% 전후). US 무드 59/100, KR 무드 92/100."
+  "summary": "미국 AMD +5.9% → 한미반도체 개장 상방 압력 예상 (+4.0% 전후). US 무드 59/100, KR 무드 54/100."
 }
