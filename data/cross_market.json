@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-13T04:00:23.963916+00:00",
-  "us_mood_score": 59,
-  "kr_mood_score": 54,
+  "fetched_at": "2026-11-13T11:54:09.657417+00:00",
+  "us_mood_score": 64,
+  "kr_mood_score": 46,
   "us_mood": "neutral",
   "kr_mood": "neutral",
   "predictions": [
@@ -36,10 +36,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": 3.4,
-      "actual_kr_pct": -2.23,
+      "actual_kr_pct": -1.67,
       "reason": "MI355X용 HBM 공급",
       "us_price": 585.3,
-      "kr_price": 1226000.0
+      "kr_price": 1233000.0
     },
     {
       "us_ticker": "NVDA",
@@ -60,10 +60,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -3.12,
-      "actual_kr_pct": -2.23,
+      "actual_kr_pct": -1.67,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 166.19,
-      "kr_price": 1226000.0
+      "kr_price": 1233000.0
     },
     {
       "us_ticker": "AVGO",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 2.33,
-      "actual_kr_pct": -2.23,
+      "actual_kr_pct": -1.67,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 364.36,
-      "kr_price": 1226000.0
+      "kr_price": 1233000.0
     },
     {
       "us_ticker": "MSTR",
@@ -108,10 +108,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -2.26,
-      "actual_kr_pct": -0.6,
+      "actual_kr_pct": 0.48,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 166.19,
-      "kr_price": 206750.0
+      "kr_price": 209000.0
     },
     {
       "us_ticker": "MRVL",
@@ -156,10 +156,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -1.16,
-      "actual_kr_pct": -2.23,
+      "actual_kr_pct": -1.67,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 164.45,
-      "kr_price": 1226000.0
+      "kr_price": 1233000.0
     },
     {
       "us_ticker": "TSLA",
@@ -168,10 +168,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": 1.15,
-      "actual_kr_pct": -1.21,
+      "actual_kr_pct": -1.52,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 397.45,
-      "kr_price": 325500.0
+      "kr_price": 324500.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": 1.05,
-      "actual_kr_pct": 1.22,
+      "actual_kr_pct": 2.0,
       "reason": "NCA 양극재 공급",
       "us_price": 397.45,
-      "kr_price": 91000.0
+      "kr_price": 91700.0
     },
     {
       "us_ticker": "TSLA",
@@ -240,10 +240,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": 0.75,
-      "actual_kr_pct": -1.76,
+      "actual_kr_pct": -4.51,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 298.7,
-      "kr_price": 178600.0
+      "kr_price": 173600.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": -1.42,
+      "kr_actual_avg_pct": -0.59,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.73,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.01,
+      "kr_actual_avg_pct": 0.24,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.98,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.17,
+      "kr_actual_avg_pct": -1.94,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.17,
       "lag_hours": 8
@@ -328,39 +328,39 @@
   ],
   "overnight_digest": [
     {
-      "ticker": "MSFT",
-      "title": "What Cerebras Systems (CBRS) Said on Its Q3 Earnings Call",
-      "title_kr": "Cerebras Systems(CBRS)가 3분기 실적 발표에서 말한 내용",
-      "source": "Yahoo",
-      "published_at": "2026-11-13T01:14:30+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "카카오"
-      ]
-    },
-    {
-      "ticker": "AMZN",
-      "title": "LiveOne Inc (LVO) (Q2 2027) Earnings Call Highlights: Record EBITDA, Major B2B Partnerships and ...",
-      "title_kr": "LiveOne Inc(LVO)(2027년 2분기) 실적 발표 하이라이트: EBITDA 기록, 주요 B2B 파트너십 및 ...",
-      "source": "Yahoo",
-      "published_at": "2026-11-13T01:04:39+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "NAVER",
-        "삼성전자"
-      ]
-    },
-    {
       "ticker": "NVDA",
-      "title": "Corvex Inc (MOVE) (Q3 2026) Earnings Call Highlights: 7.7 MW Fully Contracted, $21. ...",
-      "title_kr": "Corvex Inc(MOVE)(2026년 3분기) 실적 발표 하이라이트: 7.7MW 완전 계약, 21달러. ...",
+      "title": "At 21x earnings, Amazon is cheaper than Walmart and surging",
+      "title_kr": "21배의 수익으로 Amazon은 Walmart보다 저렴하고 급증하고 있습니다.",
       "source": "Yahoo",
-      "published_at": "2026-11-12T23:06:35+00:00",
+      "published_at": "2026-11-13T07:30:33+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "VerifyMe Inc (VRME) Q3 2026 Earnings Call Highlights: RWA Platform Drives 86% of Revenue as ...",
+      "title_kr": "VerifyMe Inc(VRME) 2026년 3분기 실적 발표 하이라이트: RWA 플랫폼은 다음과 같이 수익의 86%를 창출합니다.",
+      "source": "Yahoo",
+      "published_at": "2026-11-13T05:04:37+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "LG에너지솔루션",
+        "에코프로비엠"
+      ]
+    },
+    {
+      "ticker": "AMZN",
+      "title": "Laird Superfood Inc (LSF) (Q3 2026) Earnings Call Highlights: Net Sales Surge 225% to $42 ...",
+      "title_kr": "Laird Superfood Inc(LSF)(2026년 3분기) 실적 발표 하이라이트: 순매출이 225% 급증하여 42달러로 ...",
+      "source": "Yahoo",
+      "published_at": "2026-11-13T05:01:54+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "삼성전자"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 18.7,
-      "change_pct": 6.92,
+      "price": 18.43,
+      "change_pct": -1.44,
       "label": "VIX"
     },
     "btc": {
-      "price": 68956.57,
-      "change_pct": -6.57,
+      "price": 69309.71,
+      "change_pct": -4.78,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD +5.9% → 한미반도체 개장 상방 압력 예상 (+4.0% 전후). US 무드 59/100, KR 무드 54/100."
+  "summary": "미국 AMD +5.9% → 한미반도체 개장 상방 압력 예상 (+4.0% 전후). US 무드 64/100, KR 무드 46/100."
 }
