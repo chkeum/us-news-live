@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-15T23:45:55.379550+00:00",
+  "fetched_at": "2026-11-16T12:03:49.289335+00:00",
   "us_mood_score": 36,
-  "kr_mood_score": 50,
+  "kr_mood_score": 0,
   "us_mood": "bearish",
-  "kr_mood": "neutral",
+  "kr_mood": "bearish",
   "predictions": [
     {
       "us_ticker": "AMD",
@@ -24,10 +24,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -5.07,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -8.06,
       "reason": "MI355X용 HBM 공급",
       "us_price": 534.06,
-      "kr_price": 1216000.0
+      "kr_price": 1118000.0
     },
     {
       "us_ticker": "MRVL",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": -2.11,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -8.06,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 156.76,
-      "kr_price": 1216000.0
+      "kr_price": 1118000.0
     },
     {
       "us_ticker": "AVGO",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": -2.0,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -8.06,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 347.01,
-      "kr_price": 1216000.0
+      "kr_price": 1118000.0
     },
     {
       "us_ticker": "NVDA",
@@ -120,10 +120,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -1.45,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -8.06,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 162.85,
-      "kr_price": 1216000.0
+      "kr_price": 1118000.0
     },
     {
       "us_ticker": "TSLA",
@@ -132,10 +132,10 @@
       "kr_name": "LG에너지솔루션",
       "beta": 0.68,
       "predicted_kr_pct": -1.24,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -2.0,
       "reason": "Tesla 4680 셀 공급",
       "us_price": 390.22,
-      "kr_price": 324500.0
+      "kr_price": 318000.0
     },
     {
       "us_ticker": "TSLA",
@@ -144,10 +144,10 @@
       "kr_name": "에코프로비엠",
       "beta": 0.62,
       "predicted_kr_pct": -1.13,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -4.74,
       "reason": "NCA 양극재 공급",
       "us_price": 390.22,
-      "kr_price": 90800.0
+      "kr_price": 86500.0
     },
     {
       "us_ticker": "META",
@@ -156,10 +156,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": 1.1,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -0.35,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 641.69,
-      "kr_price": 172500.0
+      "kr_price": 171900.0
     },
     {
       "us_ticker": "TSLA",
@@ -180,10 +180,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -1.05,
-      "actual_kr_pct": 0.0,
+      "actual_kr_pct": -5.34,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 162.85,
-      "kr_price": 206000.0
+      "kr_price": 195000.0
     },
     {
       "us_ticker": "TSLA",
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -6.7,
       "beta": 0.65,
       "predicted_kr_avg_pct": -3.28,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": -3.37,
       "beta": 0.58,
       "predicted_kr_avg_pct": -1.06,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": 0.0,
+      "kr_actual_avg_pct": 0.93,
       "beta": 0.38,
       "predicted_kr_avg_pct": 0.17,
       "lag_hours": 8
@@ -329,37 +329,38 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "Stock Futures Begin New Week of Trading Ahead of Nvidia’s Earnings, Anthropic’s IPO",
-      "title_kr": null,
+      "title": "Sandisk Splits Its Stock 8-for-1 on Nov. 19. Flash Memory Prices Still Matter More Than the Share Count.",
+      "title_kr": "Sandisk는 11월 19일에 주식을 8대 1로 분할합니다. 플래시 메모리 가격은 여전히 ​​주식 수보다 더 중요합니다.",
       "source": "Yahoo",
-      "published_at": "2026-11-15T20:13:00+00:00",
-      "category": "earnings",
+      "published_at": "2026-11-16T09:43:02+00:00",
+      "category": "breaking",
       "kr_pairs": [
         "SK하이닉스",
         "한미반도체"
       ]
     },
     {
-      "ticker": "TSLA",
-      "title": "3 Growth Stocks With Revenue Growth Over 18%",
-      "title_kr": "매출 성장률이 18%를 넘는 3가지 성장주",
+      "ticker": "GOOGL",
+      "title": "Walmart, Target, Amazon, Nvidia, Micron and Alphabet are part of Zacks Earnings Preview",
+      "title_kr": "Walmart, Target, Amazon, Nvidia, Micron 및 Alphabet은 Zacks Earnings Preview의 일부입니다.",
       "source": "Yahoo",
-      "published_at": "2026-11-15T11:10:38+00:00",
+      "published_at": "2026-11-16T07:26:00+00:00",
+      "category": "earnings",
+      "kr_pairs": [
+        "NAVER",
+        "카카오"
+      ]
+    },
+    {
+      "ticker": "TSLA",
+      "title": "3 Founder Led Stocks With Earnings Growth Over 19%",
+      "title_kr": "3명의 창업자가 19% 이상의 수익 성장으로 주식을 주도했습니다.",
+      "source": "Yahoo",
+      "published_at": "2026-11-16T07:09:55+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
         "에코프로비엠"
-      ]
-    },
-    {
-      "ticker": "INTC",
-      "title": "Intel (INTC) Stock Sees Fair Value Falls After Guidance And Operational Issues",
-      "title_kr": "Intel (INTC) 주식은 지침 및 운영 문제로 인해 공정 가치가 하락한 것으로 보입니다.",
-      "source": "Yahoo",
-      "published_at": "2026-11-15T03:13:34+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스"
       ]
     }
   ],
@@ -375,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 19.3,
-      "change_pct": 3.21,
+      "price": 20.01,
+      "change_pct": 3.68,
       "label": "VIX"
     },
     "btc": {
-      "price": 65334,
-      "change_pct": 2.65,
+      "price": 64362.92,
+      "change_pct": -1.5,
       "label": "BTC"
     }
   },
-  "summary": "미국 AMD -8.8% → 한미반도체 개장 하방 압력 예상 (-6.0% 전후). US 무드 36/100, KR 무드 50/100."
+  "summary": "미국 AMD -8.8% → 한미반도체 개장 하방 압력 예상 (-6.0% 전후). US 무드 36/100, KR 무드 0/100."
 }
