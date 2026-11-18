@@ -1,9 +1,9 @@
 {
-  "fetched_at": "2026-11-18T05:02:30.821660+00:00",
-  "us_mood_score": 8,
-  "kr_mood_score": 63,
+  "fetched_at": "2026-11-18T13:55:14.356070+00:00",
+  "us_mood_score": 16,
+  "kr_mood_score": 78,
   "us_mood": "bearish",
-  "kr_mood": "neutral",
+  "kr_mood": "bullish",
   "predictions": [
     {
       "us_ticker": "MSTR",
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.05,
-      "actual_kr_pct": 3.46,
+      "actual_kr_pct": 6.01,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 148.74,
-      "kr_price": 1136000.0
+      "kr_price": 1164000.0
     },
     {
       "us_ticker": "AVGO",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.03,
-      "actual_kr_pct": 3.46,
+      "actual_kr_pct": 6.01,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 341.6,
-      "kr_price": 1136000.0
+      "kr_price": 1164000.0
     },
     {
       "us_ticker": "MSFT",
@@ -96,10 +96,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.79,
-      "actual_kr_pct": -0.53,
+      "actual_kr_pct": 1.0,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 506.24,
-      "kr_price": 169100.0
+      "kr_price": 171700.0
     },
     {
       "us_ticker": "MSFT",
@@ -108,10 +108,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.73,
-      "actual_kr_pct": -0.16,
+      "actual_kr_pct": 0.95,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 506.24,
-      "kr_price": 31650.0
+      "kr_price": 32000.0
     },
     {
       "us_ticker": "GOOGL",
@@ -132,10 +132,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.52,
-      "actual_kr_pct": -0.53,
+      "actual_kr_pct": 1.0,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 280.2,
-      "kr_price": 169100.0
+      "kr_price": 171700.0
     },
     {
       "us_ticker": "META",
@@ -144,10 +144,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.46,
-      "actual_kr_pct": -0.53,
+      "actual_kr_pct": 1.0,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 618.87,
-      "kr_price": 169100.0
+      "kr_price": 171700.0
     },
     {
       "us_ticker": "GOOGL",
@@ -156,10 +156,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.43,
-      "actual_kr_pct": -0.16,
+      "actual_kr_pct": 0.95,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 280.2,
-      "kr_price": 31650.0
+      "kr_price": 32000.0
     },
     {
       "us_ticker": "NVDA",
@@ -204,10 +204,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.32,
-      "actual_kr_pct": 3.46,
+      "actual_kr_pct": 6.01,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 155.46,
-      "kr_price": 1136000.0
+      "kr_price": 1164000.0
     },
     {
       "us_ticker": "NVDA",
@@ -216,10 +216,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.23,
-      "actual_kr_pct": 0.63,
+      "actual_kr_pct": 3.21,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 155.46,
-      "kr_price": 191500.0
+      "kr_price": 196400.0
     },
     {
       "us_ticker": "AMD",
@@ -240,10 +240,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -0.1,
-      "actual_kr_pct": 3.46,
+      "actual_kr_pct": 6.01,
       "reason": "MI355X용 HBM 공급",
       "us_price": 503.41,
-      "kr_price": 1136000.0
+      "kr_price": 1164000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 2.04,
+      "kr_actual_avg_pct": 4.61,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.68,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -0.36,
+      "kr_actual_avg_pct": 1.37,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.06,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.35,
+      "kr_actual_avg_pct": 0.97,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.44,
       "lag_hours": 8
@@ -329,10 +329,22 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "UnitedHealth Keeps Raising Guidance. Here's What a $10,000 Investment Could Be Worth if the Turnaround Sticks.",
-      "title_kr": "UnitedHealth는 계속해서 지침을 높이고 있습니다. 턴어라운드가 지속된다면 10,000달러 투자의 가치는 다음과 같습니다.",
+      "title": "Metal Prices In Free Fall Flash Warning: Market Analysis",
+      "title_kr": "자유 낙하 플래시 경고의 금속 가격: 시장 분석",
       "source": "Yahoo",
-      "published_at": "2026-11-18T03:04:00+00:00",
+      "published_at": "2026-11-18T08:37:46+00:00",
+      "category": "breaking",
+      "kr_pairs": [
+        "SK하이닉스",
+        "한미반도체"
+      ]
+    },
+    {
+      "ticker": "AMD",
+      "title": "Dow Jones Futures Fall, Techs Rise After Nvidia, Target Earnings; Anthropic IPO Ahead",
+      "title_kr": "다우존스 선물 하락, Nvidia 이후 기술주 상승, 목표 수익; 인류의 IPO를 앞두고",
+      "source": "Yahoo",
+      "published_at": "2026-11-18T13:15:50+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -344,23 +356,11 @@
       "title": "3 Founder Led Stocks With Revenue Growth Up To 20%",
       "title_kr": "3명의 창립자가 최대 20%의 수익 성장으로 주식을 주도했습니다.",
       "source": "Yahoo",
-      "published_at": "2026-11-17T23:23:11+00:00",
+      "published_at": "2026-11-18T12:11:33+00:00",
       "category": "earnings",
       "kr_pairs": [
         "LG에너지솔루션",
         "에코프로비엠"
-      ]
-    },
-    {
-      "ticker": "AMD",
-      "title": "Stock Market Today, Nov. 17: Nvidia Slides Ahead of Earnings but Soars in After Hours Trading",
-      "title_kr": "오늘, 11월 17일 주식 시장: Nvidia는 수익을 앞지르지만 시간외 거래에서는 급등합니다.",
-      "source": "Yahoo",
-      "published_at": "2026-11-17T22:23:10+00:00",
-      "category": "earnings",
-      "kr_pairs": [
-        "SK하이닉스",
-        "한미반도체"
       ]
     }
   ],
@@ -376,15 +376,15 @@
       "label": "Nasdaq"
     },
     "vix": {
-      "price": 25.46,
-      "change_pct": 11.13,
+      "price": 24.13,
+      "change_pct": -5.22,
       "label": "VIX"
     },
     "btc": {
-      "price": 64345.53,
-      "change_pct": -0.82,
+      "price": 63972.84,
+      "change_pct": -1.48,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR -6.3% → 위메이드 개장 하방 압력 예상 (-2.2% 전후). US 무드 8/100, KR 무드 63/100."
+  "summary": "미국 MSTR -6.3% → 위메이드 개장 하방 압력 예상 (-2.2% 전후). US 무드 16/100, KR 무드 78/100."
 }
