@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-11-18T02:25:24.064376+00:00",
+  "fetched_at": "2026-11-18T05:02:30.821660+00:00",
   "us_mood_score": 8,
-  "kr_mood_score": 53,
+  "kr_mood_score": 63,
   "us_mood": "bearish",
   "kr_mood": "neutral",
   "predictions": [
@@ -72,10 +72,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.45,
       "predicted_kr_pct": 1.05,
-      "actual_kr_pct": 2.28,
+      "actual_kr_pct": 3.46,
       "reason": "커스텀 실리콘 테마 연동",
       "us_price": 148.74,
-      "kr_price": 1123000.0
+      "kr_price": 1136000.0
     },
     {
       "us_ticker": "AVGO",
@@ -84,10 +84,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.42,
       "predicted_kr_pct": 1.03,
-      "actual_kr_pct": 2.28,
+      "actual_kr_pct": 3.46,
       "reason": "네트워킹 반도체 HBM 연동",
       "us_price": 341.6,
-      "kr_price": 1123000.0
+      "kr_price": 1136000.0
     },
     {
       "us_ticker": "MSFT",
@@ -96,10 +96,10 @@
       "kr_name": "NAVER",
       "beta": 0.35,
       "predicted_kr_pct": -0.79,
-      "actual_kr_pct": -0.76,
+      "actual_kr_pct": -0.53,
       "reason": "클라우드·AI 엔터프라이즈",
       "us_price": 506.24,
-      "kr_price": 168700.0
+      "kr_price": 169100.0
     },
     {
       "us_ticker": "MSFT",
@@ -108,10 +108,10 @@
       "kr_name": "카카오",
       "beta": 0.32,
       "predicted_kr_pct": -0.73,
-      "actual_kr_pct": -0.47,
+      "actual_kr_pct": -0.16,
       "reason": "클라우드 Azure 파트너십",
       "us_price": 506.24,
-      "kr_price": 31550.0
+      "kr_price": 31650.0
     },
     {
       "us_ticker": "GOOGL",
@@ -132,10 +132,10 @@
       "kr_name": "NAVER",
       "beta": 0.42,
       "predicted_kr_pct": -0.52,
-      "actual_kr_pct": -0.76,
+      "actual_kr_pct": -0.53,
       "reason": "Gemini 대비 독립 AI 엔진 HyperCLOVA X",
       "us_price": 280.2,
-      "kr_price": 168700.0
+      "kr_price": 169100.0
     },
     {
       "us_ticker": "META",
@@ -144,10 +144,10 @@
       "kr_name": "NAVER",
       "beta": 0.38,
       "predicted_kr_pct": -0.46,
-      "actual_kr_pct": -0.76,
+      "actual_kr_pct": -0.53,
       "reason": "AI 인프라 투자 확대 테마",
       "us_price": 618.87,
-      "kr_price": 168700.0
+      "kr_price": 169100.0
     },
     {
       "us_ticker": "GOOGL",
@@ -156,10 +156,10 @@
       "kr_name": "카카오",
       "beta": 0.35,
       "predicted_kr_pct": -0.43,
-      "actual_kr_pct": -0.47,
+      "actual_kr_pct": -0.16,
       "reason": "국내 AI 플랫폼 경쟁",
       "us_price": 280.2,
-      "kr_price": 31550.0
+      "kr_price": 31650.0
     },
     {
       "us_ticker": "NVDA",
@@ -204,10 +204,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.72,
       "predicted_kr_pct": -0.32,
-      "actual_kr_pct": 2.28,
+      "actual_kr_pct": 3.46,
       "reason": "HBM3E/HBM4 공급 메인 파트너",
       "us_price": 155.46,
-      "kr_price": 1123000.0
+      "kr_price": 1136000.0
     },
     {
       "us_ticker": "NVDA",
@@ -216,10 +216,10 @@
       "kr_name": "삼성전자",
       "beta": 0.52,
       "predicted_kr_pct": -0.23,
-      "actual_kr_pct": 0.11,
+      "actual_kr_pct": 0.63,
       "reason": "HBM 공급사, AI 반도체 연동",
       "us_price": 155.46,
-      "kr_price": 190500.0
+      "kr_price": 191500.0
     },
     {
       "us_ticker": "AMD",
@@ -240,10 +240,10 @@
       "kr_name": "SK하이닉스",
       "beta": 0.58,
       "predicted_kr_pct": -0.1,
-      "actual_kr_pct": 2.28,
+      "actual_kr_pct": 3.46,
       "reason": "MI355X용 HBM 공급",
       "us_price": 503.41,
-      "kr_price": 1123000.0
+      "kr_price": 1136000.0
     }
   ],
   "sector_coupling": [
@@ -265,7 +265,7 @@
         "042700",
         "007660"
       ],
-      "kr_actual_avg_pct": 1.19,
+      "kr_actual_avg_pct": 2.04,
       "beta": 0.65,
       "predicted_kr_avg_pct": 0.68,
       "lag_hours": 8
@@ -284,7 +284,7 @@
         "066970",
         "006400"
       ],
-      "kr_actual_avg_pct": -2.1,
+      "kr_actual_avg_pct": -0.36,
       "beta": 0.58,
       "predicted_kr_avg_pct": 0.06,
       "lag_hours": 8
@@ -303,7 +303,7 @@
         "035420",
         "035720"
       ],
-      "kr_actual_avg_pct": -0.61,
+      "kr_actual_avg_pct": -0.35,
       "beta": 0.38,
       "predicted_kr_avg_pct": -0.44,
       "lag_hours": 8
@@ -329,10 +329,10 @@
   "overnight_digest": [
     {
       "ticker": "NVDA",
-      "title": "Dow Jones Futures: Techs Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
-      "title_kr": "Dow Jones Futures: Nvidia가 승리하면서 기술이 상승하고 Jensen Huang에 대해 이렇게 말합니다. 타겟, 인류의 IPO를 앞두고",
+      "title": "UnitedHealth Keeps Raising Guidance. Here's What a $10,000 Investment Could Be Worth if the Turnaround Sticks.",
+      "title_kr": "UnitedHealth는 계속해서 지침을 높이고 있습니다. 턴어라운드가 지속된다면 10,000달러 투자의 가치는 다음과 같습니다.",
       "source": "Yahoo",
-      "published_at": "2026-11-18T01:48:21+00:00",
+      "published_at": "2026-11-18T03:04:00+00:00",
       "category": "earnings",
       "kr_pairs": [
         "SK하이닉스",
@@ -381,10 +381,10 @@
       "label": "VIX"
     },
     "btc": {
-      "price": 64461.33,
-      "change_pct": -0.28,
+      "price": 64345.53,
+      "change_pct": -0.82,
       "label": "BTC"
     }
   },
-  "summary": "미국 MSTR -6.3% → 위메이드 개장 하방 압력 예상 (-2.2% 전후). US 무드 8/100, KR 무드 53/100."
+  "summary": "미국 MSTR -6.3% → 위메이드 개장 하방 압력 예상 (-2.2% 전후). US 무드 8/100, KR 무드 63/100."
 }
